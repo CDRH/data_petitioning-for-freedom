@@ -1,0 +1,14 @@
+default:
+  shortname: habeascorpus
+  collection_desc: Habeas Corpus
+  es_type: habeascorpus
+
+  variables_html:
+    fig_location: some/path
+    figures: true
+    fw: true
+    pb: true
+# development:
+  # development overrides here
+# production:
+  # production overrides here
