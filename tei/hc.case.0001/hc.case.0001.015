@@ -1,20 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0001.015">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Mary E. Teller. Action for the Killing of Frank Teller</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Bring Me the Body: A Digital &amp; Print History of Marginalized Habeas Corpus Petitioners in the North American West, 1804-1912</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0001.015</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Mary E. Teller. Action for the Killing of Frank Teller</title>
+<date when="1887-06-08">June 10, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-06">June 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Jno Booge</term>
+<term>Frank Teller</term>
+<term>Mary Teller</term>
+<term>James Glispen</term>
+<term>Jno Howden</term>
+<term>Neil Smith</term>
+<term>LP Walterhouse</term>
+<term>John (Jno) Duggan</term>
+<term>William Taft</term>
+<term>Jno Howden</term>
+<term>Jeff McFarling</term>
+<term>John McKay</term>
+<term>TJ Perkins</term>
+<term>Rudolph (RU) Staltz</term>
+<term>CJ Renfield</term>
+<term>Daniel Duggan</term>
+<term>Loueriana Duggan</term>
+<term>William Smith</term>
+<term>John Haynes</term>
+<term>AC Jones</term>
+<term>Forster</term>
+<term>Turner</term>
+<term>AJ Duncan</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<org role="petitioner">
+<orgName>Territory of Washington</orgName>
+</org>
+<person role="defendant">
+<persName>Mary E Teller</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>AC Jones</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Forster</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Turner</persName>
+</person>
+<person role="judge">
+<persName>Booge, John J</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>4th Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2017-07" who="#ini">reviewed; edited</change>
+<change when="2017-07" who="#djr">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0001.015.001"/>
 
 <p>Territory of Washington County of Spokane } In Justices Court before Jno J Booge Justice of the Peace</p>
 
 <p>Territory of Washington vs Mary Teller } Action for the killing of Frank Teller</p>
 
-<p><unclear></unclear> remembered that on this 6th day of June 1887 James Glispie files complaint under oath charging one Mary Teller as follows to <unclear>this</unclear>. That on the 31st day of May 1887 one Mary Teller tjen and there being purposely and of premeditated malice killed Frank Teller then and there being by striking, beating and mortally wounding him the said Frank Teller with a piece of wood and some other weapon to complainant unknown, which the said Mary Teller then and there held in her hand of which mortal wounding the said Frank Teller then and there immediately died. And asks that she may be arrested and dealth with according to law</p>
+<p><unclear></unclear> remembered that on this 6th day of June 1887 James Glispen files complaint under oath charging one Mary Teller as follows to <unclear>this</unclear>. That on the 31st day of May 1887 one Mary Teller then and there being purposely and of premeditated malice killed Frank Teller then and there being by striking, beating and mortally wounding him the said Frank Teller with a piece of wood and some other weapon to complainant unknown, which the said Mary Teller then and there held in her hand of which mortal wounding the said Frank Teller then and there immediately died. And asks that she may be arrested and dealth with according to law</p>
 
-<p>Warrant issued and handed James Glispie sheriff Spokane County for services</p>
+<p>Warrant issued and handed James Glispen sheriff Spokane County for services</p>
 
-<p>At request of the Territory two subpeonas issued one for Hon Howden Neil Smith, Dr Walterhouse, and Jno Duggan and one for William <unclear>Taft</unclear> Jno Howden, Jeff McFarling and John McKay attornies to appear at <unclear>6</unclear> o'clocl AM June 7th 1887.  June 7th 1887 subpeona used for T.J. Perkins  A.A Staltz, CJ Rufield and James Glispen on the part of the Territory and handed James Glispen Sheriff for service.  Subpeona issued on the part of the Defendant for <unclear>Daniel</unclear> Duggan, <unclear>Louriana</unclear> Duggan and <unclear></unclear> Smith and 
+<p>At request of the Territory two subpeonas issued one for Hon Howden Neil Smith, Dr Walterhouse, and Jno Duggan and one for William Taft Jno Howden, Jeff McFarling and John McKay attornies to appear at <unclear>6</unclear> o'clock AM June 7th 1887.  June 7th 1887 subpeona used for T.J. Perkins  RU Staltz, CJ Renfield and James Glispen on the part of the Territory and handed James Glispen Sheriff for service.  Subpeona issued on the part of the Defendant for <unclear>Daniel</unclear> Duggan, Loueriana Duggan and William Smith and 
 
-handed James <unclear></unclear> for <unclear>arrest</unclear>.  <unclear>Suspect<unclear> for </unclear></unclear> et al returned served and filed and for TJ Perkins et al. Hon <unclear>Tafh</unclear> et al returned served and filed   following witnesses <unclead>appea..</unclead> in response to subpeona and <sic>wen</sic> ordered to appeal at 10 o'clock AM June 8th 1887. <unclear>Riz</unclear> Hon Howden Neil Smith, Dr Walterhouse, TJ Perkins, John Haynes, Hon <unclear>Tafh</unclear> Jno Howden J McFarling Jno McKay</p>
+<pb facs="hc.case.0001.015.002"/>
 
-<p>June 8th 1887 10 o'clock AM warrant returned served and filed. Prisoner in Court A.C Jones appearing or the Territory of Washington and <unclear>Mess</unclear> Foreter and Turner appearing for the defendants   Subpeona said Duggan et al returned served <del>and filed</del> on said Duggan and <unclear>Louriana</unclear> Duggan and not as to the others saw filed defendant attorneys <unclear></unclear> all witnesses <unclear>ex apt</unclear> complaining then and there under examination and those examined to excluded from the court house and motion granted and it is hereby ordered that all witnesses except as mentioned in the motion be and they are hereby excluded from the room during the examination  the following witnesses were then brought forward and sworn in the past of the Territory <del>of Washington</del> John Duggan, Hon Howden, Jno McKay, RO Staltz and Jno Haynes and on the part of the defendant Daniel Duggan and <unclear>Louriana</unclear> Duggan examination preceded with and John Duggan calling and is called for the time being.  The following witnesses then there called and testified and their testimony reduced to writing by the court in narration form A.J. Duncan and John Haynes   <unclear></unclear> 12 o'clock AM court ordered in recess to 1:30 PM and prisoner remanded to the custody of the officer sheriff of Spokane County</p>
+handed James Glispen for <unclear>arrest</unclear>. Subpeona for <unclear></unclear> et al returned served and filed and for TJ Perkins et al. Hon Taft et al returned served and filed   following witnesses <unclear>appea..</unclear> in response to subpeona and <sic>wen</sic> ordered to appeal at 10 o'clock AM June 8th 1887. <unclear>Riz</unclear> Hon Howden Neil Smith, Dr Walterhouse, TJ Perkins, John Haynes, Hon Taft Jno Howden J McFarling Jno McKay</p>
+
+<p>June 8th 1887 10 o'clock AM warrant returned served and filed. Prisoner in Court A.C Jones appearing for the Territory of Washington and <unclear>Mess</unclear> Forster and Turner appearing for the defendants   Subpeona said Duggan et al returned served <del>and filed</del> on said Duggan and Loueriana Duggan and not as to the others saw filed defendant attorneys <unclear></unclear> all witnesses <unclear>ex apt</unclear> complaining then and there under examination and those examined to excluded from the court house and motion granted and it is hereby ordered that all witnesses except as mentioned in the motion be and they are hereby excluded from the room during the examination  the following witnesses were then brought forward and sworn in the past of the Territory <del>of Washington</del> John Duggan, Hon Howden, Jno McKay, RU Staltz and Jno Haynes and on the part of the defendant Daniel Duggan and Loueriana Duggan examination preceded with and John Duggan calling and is called for the time being.  The following witnesses then there called and testified and their testimony reduced to writing by the court in narration form A.J. Duncan and John Haynes   <unclear></unclear> 12 o'clock AM court ordered in recess to 1:30 PM and prisoner remanded to the custody of the officer sheriff of Spokane County</p>
 
 <p>At 1:30PM present prisoner and the respective
+
+<pb facs="hc.case.0001.015.003"/>
 
 3 attorneys LP Walterhouse sworn and examined and testimony reduced to writing by the court James Glispen sworn and examined and testimony reduced to writing by the court.  Rudolph Staltz having been previously sworn and examined and testimony reduced to writing this witness identifies gun and board and both the gun &amp; board offered in evidence by the prosecution John Duggan having been previously sworn was called and examined during the examination identifies pistol and same offered in evidence by the prosecution at 5:00PM Jno Duggan still being under examination and not concluded.  The court ordered and this case is hereby adjourned to June 9th 1887 at the hour of 9 o'clock AM and prisoner remanded to the custody of the sheriff of Spokane County</p>
 
@@ -24,19 +188,18 @@ handed James <unclear></unclear> for <unclear>arrest</unclear>.  <unclear>Suspec
 
 <p>June 10th written testimony of AJ Duncan John Haynes Rudolph Staltz LP Walterhouse, and James Glispen filed June 8th 1887 and
 
+<pb facs="hc.case.0001.015.004"/>
+
 of testimony of John Duggan one of <unclear></unclear> filed June 9th 1887 also diagram filed</p>
 
-<p>11 o'clock AM  present defendant Mary Teller witness Jno Duggan and WC Jones atts for the Territory and <unclear>Miss</unclear> Forster and Turner attorneys for the defendant  The court in this case finds that the offenses charged has been committed and that there is probable cause to believe what the defendant Mary Teller has commutted the same and that she is guilty of murder in the first degree and it is ordered that the defendant Mary Teller may be admitted to bail in the sum of five thousand dollars with good and sufficient surties to be and appear at the next term of the District Court of the 4th Judicial District to be held at the courts seat of Spokane County on the 3rd <del></del> Monday in November to answer to the <del></del> to answer to any bill of indictment the grand jury in attendance may prefer against her and in default of the same that she be committed to the County Jail and it is also ordered that the witnesses AJ Duncan James Glispen, CJ Renfield, LP Walterhouse, Rudolph Staltz and John Haynes do enter into recognizance  in the sum of one hundred dollars each for their appearance at the same time and place and that the witness John Duggan do enter into recognizance in the sum of one thousand dollars for his appearance at same time and place with good and sufficient sureties under default of same that he be committed to the county jail</p>
+<p>11 o'clock AM  present defendant Mary Teller witness Jno Duggan and AC Jones atts for the Territory and <unclear>Miss</unclear> Forster and Turner attorneys for the defendant  The court in this case finds that the offenses charged has been committed and that there is probable cause to believe what the defendant Mary Teller has commutted the same and that she is guilty of murder in the first degree and it is ordered that the defendant Mary Teller may be admitted to bail in the sum of five thousand dollars with good and sufficient surties to be and appear at the next term of the District Court of the 4th Judicial District to be held at the courts seat of Spokane County on the 3rd <del></del> Monday in November to answer to the <del></del> to answer to any bill of indictment the grand jury in attendance may prefer against her and in default of the same that she be committed to the County Jail and it is also ordered that the witnesses AJ Duncan James Glispen, CJ Renfield, LP Walterhouse, Rudolph Staltz and John Haynes do enter into recognizance  in the sum of one hundred dollars each for their appearance at the same time and place and that the witness John Duggan do enter into recognizance in the sum of one thousand dollars for his appearance at same time and place with good and sufficient sureties under default of same that he be committed to the county jail</p>
 
 <p>Judgement entered June 10th 1887</p>
 <p>Jno Booge</p>
 <p>Justice of the Peace</p>
 
-
-
-
-
-
-
-
-
+</div1>
+    
+</body>
+</text>
+</TEI>
