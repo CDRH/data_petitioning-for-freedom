@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0001.021">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Mary E. Teller. Order of Commitment for Mary Teller</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Bring Me the Body: A Digital &amp; Print History of Marginalized Habeas Corpus Petitioners in the North American West, 1804-1912</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0001.021</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Mary E. Teller. Order of Commitment for Mary Teller</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>John J Booge</term>
+<term>George Turner</term>
+<term>Mary Teller</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<org role="petitioner">
+<orgName>Territory of Washington</orgName>
+</org>
+<person role="defendant">
+<persName>Mary E Teller</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2017-07" who="#ini">reviewed; edited</change>
+<change when="2017-07" who="#djr">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0001.021.001"/>
 
 <p>Territory of Washington County of Spokane</p>
 
 <p>On the matter of Mary Teller</p>
 
-<p>When as it has been made duly to appear to the court by the sheriff of said county that the above named Mary Teller was on the 10th day of June 1887 by John J Booge Esq a Justice of the Peace in and for said crime by duly committed to his custody to abide the action of the Grand Jury of said county on a charge of murder in the First degree in default of entering into recognizance to appear before said court at its next regular term to be held in the said county in the sum of five thousand dollars and it being made to appear to the court that there is no safe or proper jail or place of confinement in said Spokane County wherein said Mary Teller may be placed or kept in custody and that there is a safe and proper jail in the City of Sprage in Lincoln County in the Fourth Judicial District</p>
+<p>Whereas it has been made duly to appear to the court by the sheriff of said county that the above named Mary Teller was on the 10th day of June 1887 by John J Booge Esq a Justice of the Peace in and for said crime by duly committed to his custody to abide the action of the Grand Jury of said county on a charge of murder in the First degree in default of entering into recognizance to appear before said court at its next regular term to be held in the said county in the sum of five thousand dollars and it being made to appear to the court that there is no safe or proper jail or place of confinement in said Spokane County wherein said Mary Teller may be placed or kept in custody and that there is a safe and proper jail in the City of Sprage in Lincoln County in the Fourth Judicial District</p>
+
+<pb facs="hc.case.0001.021.002"/>
 
 <p>It is therefore ordered that said Mary Teller be and hereby is committed to the Custody of the sheriff of said Lincoln County and he is hereby commanded to receive said Mary Teller into his custody and her safely to keep until duly discharged from his custody by the further order of the court</p>
 
 <p>George Turner</p>
 <p>Judge</p>
 
-
+</div1>
+    
+</body>
+</text>
+</TEI>
 
 
