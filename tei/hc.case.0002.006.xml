@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0002.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0002.006">
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0002.005</idno>
+<idno type="project">hc.case.0002.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main"><title>Andrew H. Derrick v. Whitesides. Application for Writ of Habeas Corpus.</title></title>
-<date when="1887-12">December 1887</date>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -85,8 +85,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Derrick, Andrew H.</term>
 <term>Wyche, JE</term>
-<term>Whitesides</term>
-<term>Losater</term>
+<term>Whitesides, Mary J</term>
 <term>Louisa Jane Derrick</term>
 </keywords>
 
@@ -101,13 +100,13 @@
 <person role="petitioner">
 <persName>Derrick, Andrew H.</persName>
 </person>
-<person role="defendant">
-<persName>Whitesides</persName>
+<person role="Defdt">
+<persName>Whitesides, Mary J</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Losater</persName>
+<persName></persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_Defdt">
 <persName></persName>
 </person>
 <person role="judge">
@@ -117,7 +116,7 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
+<orgName>1st Jud Dist</orgName>
 <placeName>Territory of Washington</placeName>
 </org>
 </listOrg>   
@@ -138,66 +137,72 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0002.005.001"/>
+<pb facs="hc.case.0002.006.001"/>
 
-<p> Territory of Washington </p>
-<p> County of Walla Walla </p>
-<p> Andrew H Derrick                Plffh </p>
-<p> vs </p> 
+<p>Territory of Washington</p>
+<p>County of Walla Walla</p>
+<p>Andrew H Derrick                Plffh </p>
+<p>vs</p> 
 <p> Mrs. Mary J Whitesides          Defdt </p>
 
-<p> <unclear> Region </unclear>Hon J.E Wyche
-Judge of 1st <unclear> Deed </unclear> <unclear></unclear> 
-<unclear></unclear>Chambers 
-And now <unclear> comes </unclear> Mrs. M.J. White-
-    sides <unclear></unclear> in the above appli-
+<p>Before Hon J.E Wyche
+Judge of 1st Jud Dist W.T. 
+At Chambers</p> 
+<p>And now comes  Mrs. M.J. White-
+sides defdt in the above appli-
 cation for a Writ of Habeas 
-Corpus and for <unclear></unclear> there 
-to <unclear> admits </unclear> that Andrew H 
-Derrick the above Plaintiff is the 
+Corpus and for answer there 
+to admits that Andrew H 
+Derrick the above Plfft is the 
 father of Louisa Jane Derrick
-a young girl, but <unclear> decides </unclear> <unclear></unclear>
-<unclear> information </unclear> and belief that 
+a young girl, but denies upon
+ information and belief that 
 she the said Louisa is of the 
-age of fourteen years.
-Defendant advises that said girl 
+age of fourteen years.</p> 
+
+<p>Defdt advises that said girl 
 is now and has been for some
 time <unclear></unclear> at the house of this 
-defendant whose house amd residence
+Defdt whose house amd residence
 residence is in Walla Walla 
 City Washington Territory
-Defendant ----------------
------------------ denies that 
-Plaintiff has <unclear> other </unclear> <unclear></unclear> his said 
+Defdt <del></del>
+<del></del> denies that 
+Plfft has often requested his said
 
-<unclear></unclear> that Plaintiff has <unclear> other </unclear>
+<pb facs="hc.case.0002.006.002"/>
+
+denies that Plfft has often
 requested his said daughter 
 <unclear></unclear> leave said place and go 
 with him to some good respect-
-able place to live, <unclear></unclear> denies 
-____ that she advises his 
+able place to live, defdt <del>and Plfft</del> denies 
+<del></del> that she advises his 
 said child to disobey his com-
-mands. Defendant admits upon 
+mands. Defdt admits upon 
 information and belief that 
-<unclear></unclear> said child <unclear></unclear> to defendant's 
+before said child went to defdts
 house. She was a good obedient 
 child, and very moral and 
 a member of a Christian 
 Church observing the commands 
-of the Bible. Defendant denies upon 
+of the Bible. Defdt denies upon 
 information and belief that 
 his said girl was taken to 
-said place <unclear> but admits that </unclear> said Louisa came then without her <unclear></unclear>
-<unclear></unclear> or consent.
-Defendant denies that <unclear></unclear>! said 
+said place but admits that said Louisa came then without his knowle
+dge or consent.</p> 
+
+<p>Defdt denies that since said 
 child has been at said place 
-she has ---------------------
------------- been taught by 
-the defendant to renounce her 
+she has <del></del>
+<del></del> been taught by 
+the Defdt to renounce her 
 religion to dispise all 
 Christians, to disobey her father 
-this Plaintiff and her only <unclear> surviving </unclear> 
+this Plfft and her only <unclear>serving</unclear> 
 parent, to hate all her kin
+
+<pb facs="hc.case.0002.006.003"/>
 
 to go to balls, and dances, to 
 mingle and associate with 
@@ -205,76 +210,80 @@ people of bad repute, and
 denies that she held such 
 power over said child that 
 she is restrained from join-
-ing with Plaintiff. </p>
+ing with Plfft.</p>
 
-<p> Defendant denies upon informa-
+<p> Defdt denies upon informa-
 tion and belief, that persons 
-at defendant's house when Plaintiff 
+at Defdt's house when Plfft 
 was urging said child to 
 leave said place, and go 
 to a good place provided by
 him for her, threatened to mal-
-treat Plaintiff if he did not de-
-sist from his effort. Defendant 
+treat Plfft if he did not de-
+sist from his effort. Defdt 
 admits that she did not re-
-<unclear></unclear> said person, but denies 
+prove said person, but denies 
 that she took said child with 
 a private apartment where 
-Plaintiff could not approach 
-her, thus defying Plaintiff's 
+Plfft could not approach 
+her, thus defying Plfft's 
 authority over said child 
 as her father.</p>
 
-<p> Defendant further answering 
+<p> Defdt further answering 
 says that she denies that 
-Plaintiff has by his sister and 
+Plfft has by his sister and 
 the aunt of said child 
-<unclear></unclear> to get said child 
+endeavored to get said child 
+
+<pb facs="hc.case.0002.006.004"/>
 
 from said place but were 
 treated with great con-
 tempt and harshness 
-and defendant further 
-<unclear> answering </unclear> denies that Plaintiff
+and Defendent further 
+<sic>answerg</sic> denies that Plfft
 is fearful that if he should 
-attempt to <unclear></unclear> said 
+attempt to force said 
 child away from said 
 place, that persons in the 
-<unclear></unclear> of defendant would 
+interest of defdt would 
 maltreat and misuse 
-Plaintiff.</p>
+Plfft.</p>
 
-<p>Defendeant further answering 
-says that she -------------------
----------------------------------
---------- denies upon infor
-mation and belief Plaintiff is a mor
-al man of good indentioned 
+<p>Defendant further answering 
+says that she <del></del>
+<del></del>
+<del></del> denies upon infor
+mation and belief Plfft is a mor
+al man of good intentions 
 habits and denies that 
-Plaintiff has always provided 
+Plfft has always provided 
 a good home and the com
 forts of life to the best of his 
 ability for said child 
-and defendant admits that 
+and Defdt admits that 
 where she went to the house
-of the defendant she had 
+of the Defdt she had 
 been living at the house 
 of a good and respectable 
 
+<pb facs="hc.case.0002.006.005"/>
+
 farmer of good moral repute.
-Defendant denies upon information 
-and belief that Plaintiff is now 
-<unclear></unclear> to have his said 
+Defdt denies upon information 
+and belief that Plfft is now 
+anxious to have his said 
 child at school, and her 
 moral training attended
-to. Defendant further answer
-ing denies ------ that <unclear></unclear>
+to. Defdt further answer
+ing denies <del></del> that under
 his Honor awards his said 
 child to him she will soon 
 be ruined in character 
 and morals.</p>
 
-<p>And this defendant for 
+<p>And this Defdt for 
 a further answer and 
 return to said appli-
 cation says. That she is 
@@ -283,81 +292,86 @@ said Louisa is over the age
 of fifteen (15) years</p>
 
 <p>And for further answer 
-said defendant<unclear></unclear> that <unclear></unclear>
-or <unclear></unclear> the 1st day of September 
+said Defdt avers that on
+or about the 1st day of September 
 AD 1866 said Louisa came
 freely and voluntarily to the 
 house or residence of this 
-defendant in said Court, and that the 
+Defdt in said Court, and that the 
 said Louisa remained there 
 freely and voluntarily to the 
 present time. That said 
+
+<pb facs="hc.case.0002.006.006"/>
 
 Louisa did not at any time 
 remain there by through or 
 under any threat fear coer-
 cion or restraint acts or 
-during exercised <unclear></unclear>
-<unclear></unclear>contrived or brought 
+during exercised <unclear>consum-</unclear>
+<unclear>mated</unclear> contrived or brought 
 about in opposition to the 
-said Plaintiff or so that 
+said Plfft or so that 
 he could not at any time 
 have the care control or 
 custody of his said daugh-
-ter. And defendant further 
-<unclear></unclear> that she is informed 
+ter. And Defdt further 
+avers that she is informed 
 and believes that at the time 
-said Louisa came to defendant's 
-place as <unclear> aforesaid </unclear>, the defendant 
-<unclear></unclear> was then absent from 
+said Louisa came to Defdt's 
+place as aforesaid, the defen 
+dant was then absent from 
 this Territory and in the 
 Territory of Montana Territory 
 and had been so absent 
 from this Territory and afore 
-said since the 1st of May <unclear> 1866 </unclear>
+said since the 1st of May 1866 
 or thereabouts, and said 
-Plaintiff did not return from 
+Plfft did not return from 
 Montana Territory aforesaid 
 to this City until sometime 
 in the late part of the month of October 1866 
 or therabouts.</p>
 
+<pb facs="hc.case.0002.006.007"/>
 
-<p> Defendant further answers <unclear></unclear>
+<p>Defdt further <unclear>answers</unclear> avers
 that she is informed and 
-verily believes that said Plaintiff 
-for several years lost <unclear></unclear>
+verily believes that said Plfft 
+for several years last past
 has not made any provision 
 for the support care custody 
 or instruction of said Louisa 
-and particularly as the Defendant 
+and particularly as the Defdt 
 is informed and verily 
-believes that <unclear> in </unclear> the times said 
-Plaintiff so left this Territory as 
+believes that at the time said 
+Plfft so left this Territory as 
 aforesaid he did not make 
 any provision for the care 
 support custody or instruc-
 tion of said Louisa 
-And defendant for further answer 
-------- says that at the time 
-said Louisa came to defendant's 
+And Defdt for further answer 
+<del></del> says that at the time 
+said Louisa came to Defdt's 
 residence as aforesaid, she 
 was poorly clad, in want, 
 and actually suffering for 
 the neccessaries of life and 
-That the defendant has 
+That this defendant has 
 provided for the support 
-of said Louisa over <unclear></unclear> 
-And the defendant further answers 
-<unclear></unclear> upon information and 
-belief that this Plaintiff has 
-<unclear> not </unclear> any home in which 
+of said Louisa ever since 
+And this defdt further answers 
+avers upon information and 
+belief that this Plfft has 
+not any home in which 
+
+<pb facs="hc.case.0002.006.007"/>
 
 to take his said daughter Louisa 
-And this defendant further <unclear></unclear>
-syas that she is a married 
+And this Defdt further <unclear>anse</unclear>
+says that she is a married 
 woman and the wife of 
-<unclear> Leonidas </unclear> Whitesides who is u<unclear></unclear>
+<unclear></unclear> Whitesides who is now<unclear></unclear>
 <unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
 <unclear></unclear><unclear></unclear> absent from this Territory 
 and that she has a family of 
@@ -374,15 +388,17 @@ tionate and motherly towards
 the said Louisa, and that 
 said Louisa has always 
 had a good and welcome 
-home with this defendant, and 
+home with this Defdt, and 
 has ----- frequently if 
 <unclear> pressed her decision </unclear> to stay 
-with this defendant.</p>
+with this Defdt.</p>
 
-<p>And defendant further 
+<p>And Defdt further 
 answering says that 
 ssince the said Louisa 
-has been with this Defendant 
+has been with this Defdt 
+
+<pb facs="hc.case.0002.006.008"/>
 
 aforesaid, she the said 
 Louisa has always conducted 
@@ -390,16 +406,16 @@ herself with <unclear> his creek </unclear> prudence
 and with becoming dignity
 and has always been 
 kind and affectionate 
-towards this defendant 
+towards this Defdt 
 faithfully attending her the 
-said defendant in sickness
+said Defdt in sickness
 and always exhibiting a 
 spirit of gentleness and 
 moral work.</p>
 
-<p>And this defendant for 
+<p>And this Defdt for 
 further answer need retain 
-to said Plaintiff application 
+to said Plfft application 
 says. That she is now in 
 such a condition of health 
 that it would be perilous 
