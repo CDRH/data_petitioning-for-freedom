@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from the Clerk.</title>
-<date></date>
+<date when="1871-07-01">July 1, 1871</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -95,16 +95,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gahres, Martha J.</persName>
+<persName></persName>
 </person>
 <person role="petitioner">
-<persName>Gahres, Charles</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Sutton, Isabella</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Barrett, W. H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -119,7 +119,7 @@
             
 <listOrg>
 <org>
-<orgName>1st Judicial District</orgName>
+<orgName>First Judicial District</orgName>
 <placeName>Territory of Washington</placeName>
 </org>
 </listOrg>   
@@ -127,7 +127,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#djr">reviewed; edited</change>
+<change when="2017-07" who="#ini">reviewed</change>
+<change when="2017-07" who="#djr">edited</change>
 <change when="2017-06" who="#nl">transcribed</change>
 <change when="2017-06" who="#djr">encoded</change>
 </revisionDesc>
