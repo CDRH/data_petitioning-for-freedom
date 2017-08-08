@@ -1,12 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p> Territory of Washington </p>
-<p> County of Walla Walla </p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0004.017">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from Sheriff.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Bring Me the Body: A Digital &amp; Print History of Marginalized Habeas Corpus Petitioners in the North American West, 1804-1912</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0004.017</idno>
 
-<p> I hereby certify that I saved the within Summond and <unclear> annexed </unclear> Complaint on the within named Defendent W.H. Barrett of Walla Walla County in Said Teritory on the 10th day of August A.D. 1873 by Delivering to him personally <unclear> time </unclear> copies of the Sam Certified to the <unclear> book </unclear> by W. H. Andrews Clerk of the District Court of the first Judicial district of Washington Teritory this 1st Day of September 1873</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from Sheriff.</title>
+<date when="1871-08">August 1873</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
 
-<p> B.W. Sirfeen Sherriff</p>
-<p> by Henry Windler Deputy </p>
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Windler, Henry</term>
+<term>Griffin, B.W.</term>
+<term>Barrett, W. H.</term>
+<term>Andrews, W. H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Walla Walla (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Gahres, Charles</persName>
+</person>
+<person role="petitioner">
+<persName>Gahres, Martha J.</persName>
+</person>
+<person role="defendant">
+<persName>Sutton, Isabella</persName>
+</person>
+<person role="defendant">
+<persName>Barrett, W. H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Dugan, Frank P</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Lewis, Joseph R</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2017-07" who="#ini">reviewed</change>
+<change when="2017-08" who="#djr">edited</change>
+<change when="2017-06" who="#nl">transcribed</change>
+<change when="2017-08" who="#djr">encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0004.017.001"/>
+
+<p>Territory of Washington</p>
+<p>County of Walla Walla</p>
+
+<p>I hereby certify that I saved the within Summons and annexed Complaint on the within named Defendent W.H. Barrett at Walla Walla County in Said Territory on the 30th day of August A.D. 1873 by Delivering to him personally true copies of the Same Certificate to the such by W. H. Andrews Clerk of the District Court of the first Judicial district of Washington Teritory this 1st Day of September 1873</p>
+
+<p>B.W. Griffin Sherriff</p>
+<p>by Henry Windler Deputy</p>
 
 </div1>
     
