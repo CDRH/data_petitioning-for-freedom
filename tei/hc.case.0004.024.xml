@@ -1,4 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0004.024">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Defendants Answer to Plaintiffs.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0004.024</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+    <title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Defendants Answer to Plaintiffs.</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gahres, Charles</term>
+<term>Gahres, Martha J.</term>
+<term>Barret, W. H.</term>
+<term>Barret, Isabella</term>
+<term>Cravens, Etta Dora</term>
+<term>Geroge, W. A.</term>
+<term>Sharpstein, B. L.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Gahres, Charles</persName>
+</person>
+<person role="petitioner">
+<persName>Gahres, Martha J.</persName>
+</person>
+<person role="defendant">
+<persName>Barret, W. H.</persName>
+</person>
+<person role="defendant">
+<persName>Barret, Isabella</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Geroge, W. A.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Sharpstein, B. L.</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>First Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0004.024.001"/>
 
 <p> Territory of Washington </p>
 <p> County of Walla Walla </p>
@@ -9,8 +162,12 @@
 <p> vs </p>
 <p> W H Barrett Isabella Barrett Defts </p>
 
-<p> The Defendants for and <unclear> </unclear> to Plaintiffs complaint <unclear></unclear> <unclear></unclear> that on the 12th day July 1871 at the city of Walla Walla in an action brought in this court herein Charles Gahres &amp; Martha J Gahres was Plaintiffs and W.H. Barrett &amp; Isabella Sutton now Isabella Barrett Defnedants herein was defendants in said action. For the same cause of action as that alledged in this cause and said defendants <unclear> measured </unclear> Judgement against said Plaintiffs in said cause duly given upon the merits and these defendants was by the said Judgement <unclear> awarded </unclear> the care and custody of the said child Etta Dora Cravens and that the said Plaintiffs pay the cost of said action. Wherefore Defendants pray Judgement that Plaintiffs proceedings be aforesaid and that they have and <unclear></unclear> there costs in this proceedings </p>
-<p> W.A. Gorge &amp; B. L. <unclear> Slaipture </unclear> Attys for Defts </p>
+<p> The Defendants for answer to Plaintiffs complaint <unclear></unclear> 1st that on the 12th day July 1871 at the city of Walla Walla in an action brought in this court herein Charles Gahres &amp; Martha J Gahres was Plaintiffs and W.H. Barrett &amp; Isabella Sutton now Isabella Barrett Defendants herein was defendants in said action. For the same cause of action as that alledged in this cause and said defendants <unclear>renounce</unclear> Judgement against said Plaintiffs in said cause duly given upon the merits and these defendants was by the said Judgement awarded the care and custody of the 
+
+<pb facs="hc.case.0004.024.002"/>
+
+said child Etta Dora Cravens and that the said Plaintiffs pay the cost of said action. Wherefore Defendants pray Judgement that Plaintiffs proceedings be dismissed and that they have and <unclear>recover</unclear> there costs in this proceedings </p>
+<p> W.A. Geroge &amp; B. L. Sharpstein Attys for Defts </p>
 
 </div1>
     
