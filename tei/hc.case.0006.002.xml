@@ -1,9 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-In the matter of the                            H? Chambers 
-application of                                     November 18 1876
-J. H. Sheffler and Josephine Sheffler 
-for a                                               Decree
-Writ of Habeas Corpus 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0006.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>J. H. Sheffler and Josephine Sheffler v. John B. Montague. Decree.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0006.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+    <title level="m" type="main">J. H. Sheffler and Josephine Sheffler v. John B. Montague. Decree.</title>
+<date when="1876-11-15">November 15, 1876</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1876-11">November 1876</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sheffler, J. H.</term>
+<term>Sheffler, Josephine</term>
+<term>Montague, John B.</term>
+<term>Winegard, Samuel G.</term>
+<term>Edwards, Edna Elenor</term>
+<term>Isham, A. E.</term>
+<term>Caton, N. T.</term>
+<term>Kennedy</term>
+<term>George</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Walla Walla (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Sheffler, J. H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sheffler, Josephine</persName>
+</person>
+<person role="defendant">
+<persName>Montague, John B.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Isham, A. E.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Caton, N. T.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Kennedy</persName>
+</person>
+<person role="attorney_defendant">
+<persName>George</persName>
+</person>
+<person role="judge">
+<persName>Winegard, Samuel G.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>First Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#mn">transcribed</change>
+<change when="2018-06" who="#nrl">encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0006.002.001"/>
+
+<p>In the matter of the applicaation of J. H. Sheffler and Josephine Sheffler for a Writ of Habeas Corpus} At chambers November 18, 1876 Decree</p>
+
 <p>Now on this 15th day of November 
 1876 this cause cause on for hearing 
 before Hon Samuel G Winegard Judge 
@@ -22,18 +176,22 @@ Sheffler by a former marriage and
 that the Court inquire into the cause 
 of the withholding of said infant from 
 the custody of its mother by said 
-Montague, and the answer?
+Montague, and the answer <del/>
 and retain of John B. Montague 
 to said complaint and writ of 
 Habeas Corpus and the reply 
-(new page) 
-of complainants? to said answer 
-and retain.</p>
-<p>A. E. Isham? and N. J. Gatue?
+
+<pb facs="hc.case.0006.002.002"/>
+
+of complainants to said answer 
+and return.</p>
+
+<p>A. E. Isham and N. T. Caton
 appeared as Attorneys for com
 plainants and Kennedy and 
-George for proponant? John B. 
+George for respondent John B. 
 Montague.</p>
+
 <p>And the court after 
 hearing the testimony of the 
 witnesses produced by the 
@@ -53,15 +211,17 @@ said child be and they are hereby
 commanded and required to 
 deliver the same together with all 
 of her wearing apparel unto the
-(new page)
+
+<pb facs="hc.case.0006.002.003"/>
+
 said complainants.</p>
-<p>It is further considered?
+<p>It is further considered
 and adjudged by the Court that 
 said Complainants pay to John 
 B. Montague the sum of One 
 Hundred and forty four dollars 
-unknown! unknown! unknown!
-gold coin for the keeping ^ of said child.</p>
+gold coin for the keeping <unclear/> <unclear/> <unclear/> of said child.</p>
+
 <p>It is further considered 
 and ordered by the Court that 
 upon the payment into the clerk of 
@@ -74,13 +234,20 @@ manding him to take the said
 child Edna Elenor Edwards and 
 deliver her and her wearing
 apparel unto complainants </p>
+
 <p>It is further ordered and 
 adjudged that John B. Montague
 pay all the costs of this preceeding - 
 except complainants witnesses - 
-Taxed unknown! unknown!    and that exception 
-issue therefor
-S.G. Winegarad
+Taxed at $ <gap/> and that execution
+issue therefor</p>
+
+<p>S.G. Winegarad
 Judge
-Dist? Court
-</p>
+Dist Court</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
