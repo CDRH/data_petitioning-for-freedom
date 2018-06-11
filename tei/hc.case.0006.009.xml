@@ -1,90 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
-Territory of Washington 
-County of Walla Walla 
-In? District Court 1st Judicial 
-Disrict Washington Territory 
-In the matter of the application 
-of J H Sheffler and Josephine Sheffler 
-for writ of Habeas Corpus 
-Now Comes John B Montague the 
-Defendant against whom the said J H 
-Sheffler and Josephine Sheffler have made 
-complaint in the above entitled unknown!
-and for unknown! to said complainant and 
-as a return to said writ on his unknown!
-shows to the Honorable Court the 
-following facts 
-1st Defendant admits that said child
-is in his custody and under his control
-and that of his wife under and by virtue 
-of said agreement in complaint mentioned 
-and set forth, which said agreement is 
-hereby refused? to and unknown! part of this 
-unknown! to the same purpose and effect? 
-as if herein unknown! and defendant 
-alleges that he has unknown! and duly herefore? 
-unknown! all the conditions and covenants 
-in said agreement contained and on
-his part to be kept or performed 
-2 Defendant denies that said restraint was 
-or is illegal; denies that he totally or 
-(new page) 
-otherwise disregarded his said covenant 
-or any or either of them; denies that he 
-has unknown! said child in or about a saloone? 
-where vile or other improper language 
-was used in her presence or hearing, and 
-denies that he has caused her or is now 
-causing her or that he has allowed her 
-to associate with the vile or with
-women of ill fame or other improper 
-unknown! unknown!
-Defendant further shows to the Honorable 
-Court that some several months before 
-the unknown! of said agreement the said 
-Josephine Sheffler voluntarily let said 
-Defendant have said child and placed 
-placed the same in his family to be by 
-his and his wife raised and educated 
-and that said child was then sick and 
-requested unknown! and medical aid, and 
-that Defendant and his wife unknown! unknown!
-cared for her and employed a unknown!
-Physician to attend on her at a great 
-unknown! to Defendant; that during all 
-that time and after the time of the 
-exception of said agreement Defendant 
-lived and Kept said saloon where he 
-now lives and Keeps the same, and that 
-complainants well know? - the place of 
-residence and the unknown! and unknown! 
-(new page)
-of the Defendants; and Defendant for unknown! 
-alleges that he has during all the 
-time said unknown! had been under his 
-care, clothed, unknown!, cared for, and 
-sent her to school and treated her in 
-all aspects as he would his own child
-and that he and his said wife have 
-become strongly and affectionately attached 
-to said child and that her attachment 
-for unknown! is no less than that of an 
-affectionate child for its comfort?
-Wherefore Defendant prays that said 
-writ is disarmed? and that the custody
-of said child be unknown! back to 
-the defendant and for his costs and 
-unknown!
-Kennedy and George
-Defendants attys
-Territory of Washington 
-County of Walla Walla 
-John B Montague having 
-duly sworn says that he is the defendant 
-in the above entitled case; that he 
-knows? the contents of the foregoing 
-unknown! and believes the same to be true
-J. B. Montague
-Subscribed and sworn to be true the this 13th 
-day of Nov 1876 unknown! unknown!
-unknown! of the unknown!
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>J. H. Sheffler and Josephine Sheffler v. John B. Montague. Judge Issuing Order for Writ of Habeas Corpus.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0006.009</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+    <title level="m" type="main">J. H. Sheffler and Josephine Sheffler v. John B. Montague. Judge Issuing Order for Writ of Habeas Corpus.</title>
+<date when="1876-11-11">November 11, 1876</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1876-11">November 1876</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sheffler, J. H.</term>
+<term>Sheffler, Josephine</term>
+<term>Edwards, Edna Elenore</term>
+<term>Montague, Edna Elenore</term>
+<term>Montague, John B.</term>
+<term>Winegard, S. G.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Walla Walla (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Sheffler, J. H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sheffler, Josephine</persName>
+</person>
+<person role="defendant">
+<persName>Montague, John B.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Winegard, S. G.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>First Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#mn">transcribed</change>
+<change when="2018-06" who="#nrl">encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0006.009.001"/>
+
+<p>Territory of Washington 
+County of Walla Walla}SS</p>
+
+<p>In the matter of the application 
+of JH Sheffler and Josephine 
+Shiffler for writ of Habeas Corpus 
+for 
+Edna Elenor Edwards otherwise 
+Called Edna Elenor Montague 
+a minor aged 8 years </p>
+
+<p>On reaching and filing the petition 
+of J H and Josephine Sheffler duly 
+signed and verified whereby it 
+appears that one Edna Elenore 
+Edwards above named a minor 
+is illegally restrained of her liberty 
+by one John B Montague at 
+the City of Walla Walla County of 
+Walla Walla Washington Territory 
+and stating wherein the illegality 
+consists from which it appears to 
+me that a write of Habeas Corpus 
+ought to issue</p>
+
+<p>It is ordered that a writ of 
+Habeas Corpus issue out of and 
+under the seal of the District Court 
+1st Judicial District Territory of
+Washington
+
+<pb facs="hc.case.0006.009.001"/>
+
+directed to the Sherriff of said County 
+Commanding him to have the body 
+of the said <del>before him in the Court name of the said Court in the <gap></gap> day of</del>Edna Elenore Edwards 
+otherwise Edna Elenore Montague 
+before me at my place at Chambers in Walla 
+Walla County <del>the said court</del>on the 11 day 
+of November 1876 at 2 oclock 
+PM of that day to do and 
+receive what shall then and there 
+be considered concerning the said 
+Edna Elenore Edwards aforesaid 
+to gather with the Cause of the detention
+and there her have then and 
+there the said writ</p>
+
+<p>Dated on this 11th 
+Nov 1876
+SG Winegard 
+Judge </p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
