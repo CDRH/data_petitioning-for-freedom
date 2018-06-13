@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0004.026">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0006.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Order of the Court.</title>
+<title>J. H. Sheffler and Josephine Sheffler v. John B. Montague. Memo From Defendant.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0004.026</idno>
+<idno type="project">hc.case.0006.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Order of the Court.</title>
-<date when="1873-09-02">September 2, 1873</date>
+    <title level="m" type="main">J. H. Sheffler and Josephine Sheffler v. John B. Montague. Memo From Defendant.</title>
+<date when="1876-11-11">November 11, 1876</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -82,18 +82,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1873-09">September 1873</date></term>
-</keywords>
-    
-<keywords scheme="lcsh" n="people">
-<term>Gahres, Charles</term>
-<term>Gahres, Martha J.</term>
-<term>Barret, Isabella</term>
-<term>Barret, W. H.</term>
-<term>Cravens, Ella Dora</term>
+<term><date when="1876-11">November 1876</date></term>
 </keywords>
 
-<keywords scheme="lcsh" n="places"> 
+<keywords scheme="lcsh" n="people"> 
+<term>Montague, John B.</term>
+<term>Adams, William P.</term>
+<term>Sheffler, J. H.</term>
+<term>Sheffler, Josephine</term>
+<term>Edwards, Edna Elenor</term>
+<term>Mon, Edna Elenor</term>
+<term>Winegard, S.G.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
 <term>Walla Walla (Wash)</term>
 </keywords>
 
@@ -102,16 +104,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gahres, Charles</persName>
-</person>
-<person role="petitioner">
-<persName>Gahres, Martha J.</persName>
+<persName>Montague, John B.</persName>
 </person>
 <person role="defendant">
-<persName>Barret, Isabella</persName>
+<persName>Sheffler, J. H.</persName>
 </person>
 <person role="defendant">
-<persName>Barret, W. H.</persName>
+<persName>Sheffler, Josephine</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -120,7 +119,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Winegard, S. G.</persName>
 </person>
 </listPerson>
             
@@ -135,7 +134,8 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2018-06" who="#nrl">transcribed and encoded</change>
+<change when="2018-06" who="#mn">transcribed</change>
+<change when="2018-06" who="#nrl">encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,22 +146,57 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0004.026.001"/>
+<pb facs="hc.case.0006.001.001"/>
 
-<p> At Chambers September 2nd 1873 </p>
-<p> Charles Gahres &amp; M J Gahres </p>
-<p> vs </p>
-<p> W H Barrett &amp; Isabella Barrett </p>
+<note>[WAL-2398]</note>
 
-<p> In District Court 1st Judicial District Washington Territory </p>
+<p>Know All men by these presents that one
+John B Montague as principal and 
+William P. Adams as surety are held 
+and fairly bound under J H Sheffler and 
+Josephine Sheffler in the sum of five 
+hundred dollars lawful money of the United 
+States for the payment of which well and 
+truly to be made and <unclear>done</unclear> we bind our
+selves our heirs executors &amp; administration
+Jointly and <unclear>severrly firmly</unclear>by these presents
+sealed with our seals and dated the 
+11th day of November 1876.</p>
 
-<p> This cause coming up before the Judge of said Court for hearing and the parties having submitted the same upon the pleadings and proofs and the same having been taken under advisement by the Judge, now on this 2nd day of September AD 1873 the said parties by their respective counsel and in <unclear>proper</unclear> persona appeared before said Judge at the Courthouse in Walla Walla W.T. Whereupon said Judge delievered his written opinion herein which was duly filed, whereby it is awarded that Defts plea herein is sufficient  and that the writ is dismissed</p>
+<p>The conditions of this obligation 
+is such that whereas the said J H Shef-
+fler &amp; Josephine Sheffler have upon com-
+plaint made by them against the above 
+<unclear>Counder</unclear> John B Montague caused one
+Edna Elenor Edwards or Edna Elenor Mon
+-tague to be this day brought before his 
+Honor S G Winegard Judge of the District 
+Court of this 1st Judicial District of Washing
+-ton Territory at his Chambers at Walla 
+Walla County on a writ of Habeas Corpus 
+and whereas the hearing of said matter 
+is by the said Judge upon consent of 
+parties adjourned to the 15th day of Nov-
+ember 1876 at the time of 10 o clock 
+A M of said day at his said chambers 
 
-<p> Wherefore it is ordered <unclear>considered</unclear> that said writ of Habeas Corpus be and the decree is hereby dismissed and that the Custody of said child Ella Dora Cravans be and the same is hereby awarded to said Defendants WH Barrett and Isabella Barrett and that they said WH Barrett and Isabella Barrett have and recover of and from the said Plaintiffs Charles Gahres and Martha  
+<pb facs="hc.case.0006.001.002"/>
 
-<pb facs="hc.case.0004.026.002"/>
-
-Martha J Gahres their costs and disbursements herein taxed at and that execution issue therefore</p>
+Now if the aforementioned John B Mon
+-tague shall on the said 15th day of Nov
+-ember 1876 at said time have and produce
+the said junior child Edna Elenor 
+Edwards otherwise call Edna Elenor Mon
+-tague before said judge at his said cham
+-bers, and  shall in the mean time 
+keep said minor child in a proper 
+manner free and away from all evil 
+and improper associations and influences 
+then this obligation is to the null and
+void otherwise to be and remain in 
+full force</p>
+<p>J B Montague 
+W. P. Adams</p>
 
 </div1>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0004.026">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0010.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Order of the Court.</title>
+<title>H. J. Mann v. Cynthia Mann. Memo from Judge. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0004.026</idno>
+<idno type="project">hc.case.0010.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Barret and W. H. Barret. Order of the Court.</title>
-<date when="1873-09-02">September 2, 1873</date>
+<title level="m" type="main">H. J. Mann v. Cynthia Mann. Memo from Judge.</title>
+<date when="1888-04-27">April 27, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -82,15 +82,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1873-09">September 1873</date></term>
+<term><date when="1888-04">April 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gahres, Charles</term>
-<term>Gahres, Martha J.</term>
-<term>Barret, Isabella</term>
-<term>Barret, W. H.</term>
-<term>Cravens, Ella Dora</term>
+<term>Mann, H. J.</term>
+<term>Mann, Bessie</term>
+<term>Langford, William G.</term>
+<term>Leunudy, Edgar</term>
+<term>Thompson, George G.</term>
+<term>Crowley, D. J.</term>
+<term>Mann, Cynthia</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,25 +104,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gahres, Charles</persName>
-</person>
-<person role="petitioner">
-<persName>Gahres, Martha J.</persName>
+<persName>Mann, H. J.</persName>
 </person>
 <person role="defendant">
-<persName>Barret, Isabella</persName>
-</person>
-<person role="defendant">
-<persName>Barret, W. H.</persName>
+<persName>Mann, Cynthia</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Leunudy, Edgar</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Thompson, George T.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Crowley, D. J.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Langford, William G.</persName>
 </person>
 </listPerson>
             
@@ -135,7 +134,8 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2018-06" who="#nrl">transcribed and encoded</change>
+<change when="2018-06" who="#djr">transcribed</change>
+<change when="2018-06" who="#nrl">encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,25 +146,23 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0004.026.001"/>
+<pb facs="hc.case.0010.001.001"/>
 
-<p> At Chambers September 2nd 1873 </p>
-<p> Charles Gahres &amp; M J Gahres </p>
-<p> vs </p>
-<p> W H Barrett &amp; Isabella Barrett </p>
+<p>In the District Court of the Territory of Washington and for the First Judicial District thereof holding terms at Walla Walla For the Counties of Walla Walla and Franklin in said Territory</p>
 
-<p> In District Court 1st Judicial District Washington Territory </p>
+<p>In the matter of the application of H.J. Mann in behalf of his infant daughter Bessie Mann for a writ of Habeas Corpus</p>
 
-<p> This cause coming up before the Judge of said Court for hearing and the parties having submitted the same upon the pleadings and proofs and the same having been taken under advisement by the Judge, now on this 2nd day of September AD 1873 the said parties by their respective counsel and in <unclear>proper</unclear> persona appeared before said Judge at the Courthouse in Walla Walla W.T. Whereupon said Judge delievered his written opinion herein which was duly filed, whereby it is awarded that Defts plea herein is sufficient  and that the writ is dismissed</p>
+<p>Now on this 27 day of April A.D. 1888 this cause coming on to be heard before me Hon G Langford Judge of the afore entitled court, at chambers at the court house in Walla Walla City Washington Territory. The petitioner appeared in person in behalf of Bessie Mann said infant child and by her attorneys Edgar Leunudy and George T Thompson and the defendant appearing in person and by her attorney DJ Crowley and the court being fully advised in the matter and being satisfied that Cynthia Mann is an improper person to have
 
-<p> Wherefore it is ordered <unclear>considered</unclear> that said writ of Habeas Corpus be and the decree is hereby dismissed and that the Custody of said child Ella Dora Cravans be and the same is hereby awarded to said Defendants WH Barrett and Isabella Barrett and that they said WH Barrett and Isabella Barrett have and recover of and from the said Plaintiffs Charles Gahres and Martha  
+<pb facs="hc.case.0010.001.002"/>
 
-<pb facs="hc.case.0004.026.002"/>
+the care custody &amp; education of said Bessie Mann and that said petitioner H.J. Mann is a proper person to have the to have the care custody &amp; education of Bessie Mann, and that said H.J. Mann shall allow the said Cynthia Mann to see said child at all proper times under proper circumstances</p>
 
-Martha J Gahres their costs and disbursements herein taxed at and that execution issue therefore</p>
+<p>William G Langford</p>
+<p>Judge</p>
 
 </div1>
-    
+
 </body>
 </text>
 </TEI>
