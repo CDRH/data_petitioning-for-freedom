@@ -1,44 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>In the Probate Court of Whitman County Washington Territory In the matter of the adoption of Daisy Geneva Departe</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p><unclear> Answer </unclear> and Objections of of James I. Departte and Elizabeth Departte</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0012.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Amos Gustin and Catherine Gustin v. James G. Departte and Elizabeth Departte. Defendant's Answer.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0012.002</idno>
 
-<p>Filed Feb 7 1888</p>
-<p><unclear></unclear> <unclear></unclear></p>
-<p>Probate Court of Whitman</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Amos Gustin and Catherine Gustin v. James G. Departte and Elizabeth Departte. Defendant's Answer</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gustin, Amos</term>
+<term>Gustin, Catherine</term>
+<term>Departte, Daisy Geneva</term>
+<term>Departte, James G.</term>
+<term>Departte, Elizabeth</term>
+<term>Fuman, Wm. A.</term>
+<term>Fullerton, Mark  A.</term>
+<term>Ruby, W. N.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Whitman County (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Gustin, Amos</persName>
+</person>
+<person role="petitioner">
+<persName>Gustin, Catherine</persName>
+</person>
+<person role="defendant">
+<persName>Departte, James G.</persName>
+</person>
+<person role="defendant">
+<persName>Departte, Elizabeth</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fuman, Wm. A.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fullerton, Mark A.</persName>
+</person>
+<person role="judge">
+<persName>Ruby, W. N.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Probate Court</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0012.002.001"/>
 
 <p>In the probate Court of Whitman County Washington Territory. Before WN Ruby Probate Judge</p>
 
-<p>In the matter of Amos Gustin and Catherine Gustin adopting Daisy Geneva Departte minor child of James C. Departte and Elizabeth Departte</p>
+<p>In the matter of Amos Gustin and Catherine Gustin adopting Daisy Geneva Departte minor child of James G. Departte and Elizabeth Departte</p>
 
-<p>Comes now James C. Departte and Elizabeth Departte and for answer and <unclear> defince </unclear> is the petition of Amor Gustin and Catherin Gustin in the above entitled cause:</p>
+<p>Comes now James G. Departte and Elizabeth Departte and for answer and <unclear> defince </unclear> is the petition of Amos Gustin and Catherin Gustin in the above entitled cause:</p>
 
 <p>Allege that they have no knowledge or information sufficient to form a belief as to whether or not Amos Gustin and Catherin Gustin <unclear> wherein </unclear> of then are inhabitants of Washington Territory or residents of the City of Colfax Whitman County Washington Territory and therefore deny the same</p>
 
 <p>Allege that they have no knowledge or information suffficient to form a belief as to whether or not said Amos Gustin and Catherine Gustin have two hundred acres of land in Nez Perce County Idaho Territory or anywhere worth three thousand dollars or any sum or that they have personal property worth two thousand dollars or any sum, or that they
 
+<pb facs="hc.case.0012.002.002"/>
+
 or each ask leave to adopt Daisy Geneva Departte</p>
 
-<p>Denys that on July 1st 1885 or at any time said Amos Gustin and Catherine Gustin or either of them requested James C. Departte <strike></strike> and Elizabeth Departte or either of them to take said Daisy Geneva Departte in their custody <strike> and </strike> or support or maintain her.</p>
+<p>Denys that on July 1st 1885 or at any time said Amos Gustin and Catherine Gustin or either of them requested James G. Departte <del></del> and Elizabeth Departte or either of them to take said Daisy Geneva Departte in their custody <del> and </del> or support or maintain her.</p>
 
 <p>Deny that they or either of them refused to take said child or refused to support her, or in anywise provide for her.</p>
 
-<p>Deny that they then or there or at any time <unclear></unclear> <unclear></unclear> said child, and deny that they or either of them ever refused to pay for the support of said child. Deny that said Elizabeth Departte is partially or at all insane, or that she has <strike></strike> at any time in the last two years been in the Insane Assylum <strike> as a patient </strike> for treatment for insanity</p>
+<p>Deny that they then or there or at any time <unclear></unclear> <unclear></unclear> said child, and deny that they or either of them ever refused to pay for the support of said child. Deny that said Elizabeth Departte is partially or at all insane, or that she has <del></del> at any time in the last two years been in the Insane Assylum <del> as a patient </del> for treatment for insanity</p>
 
 <p>Deny that they or either of them are unfitt persons to have the care or custody of said minor child Daisy Geneva Departte</p>
 
 <p>And for a further and separate defines defendants complain and allege 
 
+<pb facs="hc.case.0012.002.003"/>
+
 that on the 9th day of February 1885, at the birth of said Daisy Geneva Departte said Elizabeth Departte became afllicted with a disease peculiar to women and became deranged in mind and was sent to the asylum <unclear> for </unclear> insane in the State of Oregon for  restraint  That she remained there for four months the greater part of such  time she stayed in and about the hotels of the City of Salem in said state of Oregon, That at the end of four months she returned to Nez Perce County Idaho right in mind, but much afflicted in body. That she with her husband in upon of benefitting her health they went to the Territory of Utah where she  refuged  for two years. when she returned to said Nez Perce County Idaho much benefitted in health, During this time the said Daisy Geneva Departte was left with the uncle of said Elizabeth Departte, Amos Gustin, that nothing was said when the child was put there as to how long it was to stay but it was mutually understood and agreed that the child was to remain only until such time as said Elizabeth Departte should recover her health and be able to care for and
 
-control said chid that no money was left for the support of said <strike></strike> child for the reason that said James C. Departte and Elizabeth Departte were poor people depending upon their labor for support and all of their accomodations were spent in caring for and curing said Elizabeth Departte of her disease aforesaid.</p>
+<pb facs="hc.case.0012.002.004"/>
 
-<p>Defendants further allege that on the     day of January 1888 said Elizabeth Departte went to the <strike> ho</strike> residence of said Amos &amp; Catherine Gustin in the County of Nez Perce and Territory of Idaho and demanded of the return to her of the persons possession of said child, but said petitioners refused to deliver her up, that said Elizabeth Departte <strike></strike> then went to her friends to counsult with them as to the manner of proceeding to obtain posession of said child, and while she was so consulting the petitioners <strike> removed </strike> went from the County of Nez Perce in the Territory of Idaho to the County of Whitman in the Territory of Washington, and immediately began  proceedings <strike> to </strike> in this court to adopt said child 
+control said chid that no money was left for the support of said <del></del> child for the reason that said James G. Departte and Elizabeth Departte were poor people depending upon their labor for support and all of their accomodations were spent in caring for and curing said Elizabeth Departte of her disease aforesaid.</p>
 
-and defendants aver upon their information and belief that said petitioners <strike></strike> named in said County of Whitman for the express purpose and no other of <strike> giving this court </strike> adopting said child Daisy Geneva Departte, and that they <strike> with </strike> intend and will shortly return to their home in the County of Nez Perce in the Territory of Idaho.</p>
+<p>Defendants further allege that on the     day of January 1888 said Elizabeth Departte went to the <del> ho</del> residence of said Amos &amp; Catherine Gustin in the County of Nez Perce and Territory of Idaho and demanded of the return to her of the persons possession of said child, but said petitioners refused to deliver her up, that said Elizabeth Departte <del></del> then went to her friends to counsult with them as to the manner of proceeding to obtain posession of said child, and while she was so consulting the petitioners <del> removed </del> went from the County of Nez Perce in the Territory of Idaho to the County of Whitman in the Territory of Washington, and immediately began  proceedings <del> to </del> in this court to adopt said child 
+
+<pb facs="hc.case.0012.002.005"/>
+
+and defendants aver upon their information and belief that said petitioners <del></del> named in said County of Whitman for the express purpose and no other of <del> giving this court </del> adopting said child Daisy Geneva Departte, and that they <del> with </del> intend and will shortly return to their home in the County of Nez Perce in the Territory of Idaho.</p>
 
 <p>Wherefore defendants pray that the proceedings herein be dismissed</p>
 
-<p>W.M. Furnam and Wart A Fullurter</p>
+<p>W.M. Fuman and Mark A Fullurter</p>
 <p>Attorneys for Defendants</p>
 
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,28 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>In the Probate Court of Whitman County Washington Territory before WN Ruby Probate Judge </p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0012.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Amos Gustin and Catherine Gustin v. James G. Departte and Elizabeth Departte. Memo from Defendant's Attorneys.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0012.007</idno>
 
-<p>In the matter of Amos Gustin and Catherine Gustin adopting Daisy Geneva Departte minor child of James C Departte and Elizabeth Departte</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Amos Gustin and Catherine Gustin v. James G. Departte and Elizabeth Departte. Memo from Defendant's Attorneys.</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
 
-<p>The petition of Amos  &amp;Catherine Gustin <strike>this cause</strike> came in to be heard in open court held at <unclear></unclear> in Whitman County Wash T on January 24th 1888 at the regular term of said court <strike>the petition of Amos Gustin and Catherine Gustin</strike> for leave to adopt Daisy Geneva Departte a minor child not their by birth and for change of name and it appearing to the court after examining said petitioners on oath that said Amos Gustin and Catherine Gustin are husband and wife and inhabitants of Washington Territory <strike>and</strike> residing in Whitman County <sic>Washington</sic> Territory and <unclear></unclear> of adopting said Daisy Geneva Departte and it further appearing that said Daisy Geneva Departte was a minor child not three years of age and had no legal guardian and had been abadoned by her parents James Departte and Elizabeth Departte thereupon the court appointed SJ  Chadwick a decent and suitable person  to act in the proceedings as the next friend of said minor child and it further appearing that the said SJ Chadwick after an examination of the proceedings and parties <unclear></unclear> lawful to have said petitioiners adopt said child and had given his written consent to said adoption and it further appearing to the court upon 
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
 
-an examination of Catherin Gustin separate and appart from her husband Amos Gustin that she of her own free will and <unclear> allone </unclear> desired <strike> said adoption </strike>to adopt said Daisy Genevea Departte and <strike>it further appearing that the said petitioners</strike> and the court being fully satisfied of the ability of the aforesaid petitioners to bring up and educate said Daisy Geneva Departte properly and also of the fulness and <unclear>properett</unclear> of such adoption</p>
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
 
-<p>It is therfore ordered that from this date <unclear>towel</unclear> January 24th 1888 said minor child Daisy Geneva Departte to all legal intents and purposes is the child of said petitioners Amos Gustin and Catherine Gustin and that the name of said child is hereby changed from Daisy Geneva Departte to Daisy Geneva Gustin</p>
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Fuman, Wm. A.</term>
+<term>Fullerton, Mark A.</term>
+<term>Ruby, W. N.</term>
+<term>Departte, Daisy Geneva</term>
+<term>Departte, Elizabeth</term>
+<term>Hately Clurch, N. P.</term>
+</keywords>
 
-<p>Done in open court January 24th AD 1888</p>
-<p>WN Ruby</p>
-<p>Probate Judge</p>
+<keywords scheme="lcsh" n="places"> 
+<term>Whitman County (Wash)</term>
+</keywords>
 
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Gustin, Amos</persName>
+</person>
+<person role="petitioner">
+<persName>Gustin, Catherine</persName>
+</person>
+<person role="defendant">
+<persName>Departte, James G.</persName>
+</person>
+<person role="defendant">
+<persName>Departte, Elizabeth</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fuman, Wm. A.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fullerton, Mark A.</persName>
+</person>
+<person role="judge">
+<persName>Ruby, W. N.</persName>
+</person>
+</listPerson>
 
-<p>In the matter of the adoption of Daisy Geneva Departte</p>
+<listOrg>
+<org>
+<orgName>Probate Court</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0012.007.001"/>
+
+<p>In the matter of the adoption of Daisy Geneva Departe</p>
+
+<p><del></del></p>
+
 <p>Probate Court</p>
+<p><unclear/><unclear/><unclear/></p>
 
-<p><gap></gap></p>
+<p>FILED
+Jan <unclear/> 1888
+W. N. Ruby
+Judge &amp; <unclear>Official</unclear> clerk of
+Probate Court for Whitman</p>
 
-<p>Filed Jan <unclear></unclear> <unclear>1889</unclear></p>
-<p>WN Ruby</p>
+<p>Wm A. Fuman and Mark A. Fullerton
+Atty for Respondent</p>
 
-<p><unclear></unclear> <unclear></unclear> Clerk of Probate Court of Whitman</p>
+<pb facs="hc.case.0012.007.002"/>
 
-<p>WmH Furman and Mark A Fullerton Atty for Defendant</p>
+<p>Territory of Washington</p>
+<p>County of Whitman }SS</p>
+
+<p>In the Probate court of Whitman County Washington Territory Before WN Ruby Probate Judge</p>
+
+<p>In the matter of the adoption of Daisy Geneva Departte a minor</p>
+
+<p>Comes now the mother of the child above named by her attorney WM H Furman and Mark A Fullerton and <unclear>moves</unclear> the court to open the decree in the above entitled cause and allow said mother to make a showing and defence against said proceedings and and have said motion upon the <del>following</del> affidavits of Elizabeth Departte and N.P. Hately Clurch annexed and made a part of this motion.</p>
+
+<p>WM Furuman and Mark A Fullerton</p>
+<p>Attorneys for petitioner Elizabeth Departte</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
