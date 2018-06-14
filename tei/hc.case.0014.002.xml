@@ -1,8 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0014.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Anson v. Henry Mitchell and Henry Russel. Request for Writ of Habeas Corpus.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0014.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Anson v. Henry Mitchell and Henry Russel. Request for Writ of Habeas Corpus.</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Freedom Suit</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1832-07">July 1832</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Anson</term>
+<term>Clark, William</term>
+<term>Mitchell, Henry</term>
+<term>Russel, Henry</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Jefferson County (Miss)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Anson</persName>
+</person>
+<person role="defendant">
+<persName>Mitchell, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Russel, Henry</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Circuit Court</orgName>
+<placeName>Territory of Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2017-06" who="#djr">transcribed</change>
+<change when="2018-06" who="#nrl">encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0014.002.001"/>
 
 <p>July Term 1832</p>
 
-<p>St. Louis county to wit Anson a boy of color an infant who sues by permission of the court by his next friend William Clark complains of Henry G Mitchel and Henry C Russel of a <unclear>plaf tess of</unclear>: For that the said Henry G Mitchel and Henry C Russel on the 22 day of May in the year 1832 with force and arms made an assault upon the said Anson to wit at the County of St. Louis aforesaid and then and there that bruised and ill hated the said Anson and then and there imprisoned the said Anson and kept and detained the said Anson in prison with out any probable or honorable cause whatsoever for a <unclear></unclear> free of time to wit for the span of 25 hours then went following in trying to leave and against the will of the said Anson and the said Anson avers that before and at the time of the <unclear></unclear> of the above <unclear>grievances</unclear>  he was and still is a free person and that the defendants then held and detained him in slavery and still holds and detaines him in slavery and other wrongs to him the said Anson then and there <unclear></unclear> against the <unclear></unclear> 
+<p>St. Louis county to wit Anson a boy of color an infant who sues by permission of the court by his next friend William Clark complains of Henry G Mitchel and Henry C Russel of a <unclear>plan of</unclear> trespass: For that the said Henry G Mitchel and Henry C Russel on the 22 day of May in the year 1832 with force and arms made an assault upon the said Anson to wit at the County of St. Louis aforesaid and then and there that bruised and ill hated the said Anson and then and there imprisoned the said Anson and kept and detained the said Anson in prison with out any probable or honorable cause whatsoever for a <unclear/> free of time to wit for the span of 25 hours then went following in trying to leave and against the will of the said Anson and the said Anson avers that before and at the time of the <unclear/> of the above <unclear>grievances</unclear>  he was and still is a free person and that the defendants then held and detained him in slavery and still holds and detaines him in slavery and other wrongs to him the said Anson then and there <unclear/> against the <unclear/> 
 
-of the state and to the damage of the said Anson $500 and therefore be <unclear></unclear> sent it</p>
-<p><unclear></unclear> <unclear></unclear></p>
+<pb facs="hc.case.0014.002.002"/>
+
+of the state and to the damage of the said Anson $500 and therefore be <unclear>prays</unclear> sent it</p>
+<p><unclear/> <unclear/></p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
