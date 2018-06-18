@@ -1,21 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>Territory of Washington     In Justice Court <unclear></unclear>
-County of Walla Walla       E P <unclear></unclear> J.P.</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>Territory of Washington      Vagrant
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0011.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Mary Oneil. Civil</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0011.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Mary Oneil. Civil</title>
+<date when="1883-04-06">April 6, 1883</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1883-04">April 1883</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName>Oneil, Mary</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName>
+</person>
+<person role="judge">
+<persName>O P Lacy</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#KA">reviewed; edited</change>
+<change when="2018-06" who="#MGN">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0011.004.001"/>
+
+<p></p>
+<p>Territory of Washington     In Justice Court before
+County of Walla Walla  }         E P <unclear>Whitmer</unclear> J.P.</p>
+
+<p>Territory of Washington     Vagrant
 v
-Mary Oneil Df</p>
+Mary Oneil Df } </p>
 
 <p>Complaint filed and warrant issued and the deft
 Mary Oneil arrested by Officer J G Justice and brought into 
-court and arraigned April 6th 1889 and says that her 
+court and arraigned April 6th 1883 and says that her 
 name is Mary Oneil and pleads guilty, cause
 continued to 3 oclock PM same day and the 
 defendant committed to jail in default of bail,
 bail filed of $50.00 Subpeona issued for Mark
-A <unclear>Over</unclear> <unclear>in</unclear> 3 oclock PM April 6th 1883 Now this 
-cause coming in to be heard <unclear>Deft</unclear> in Court in 
-person, Mark A <unclear>Over</unclear> and J G Justice were each 
+A. Cover in 3 oclock PM April 6th 1883 Now this 
+cause coming in to be heard Deft in Court in 
+person, Mark A. Cover and J G Justice were each 
 sworn and examined or <unclear></unclear> for the prosecution
 whereupon the court finds the defendant Mary Oneil 
 guilty as charged in the complaint and that
@@ -31,10 +171,10 @@ of three months
 
 is giving the jail bond and is hereby committed 
 to jail </p>
-<p>E B <unclear>Whitmer</unclear></p>
+<p>E P <unclear>Whitmer</unclear></p>
 <p>Justice of the Peace </p>
 
-<p>I certify the foregoing to be a correct <unclear></unclear>
+<p>I certify the foregoing to be a correct <unclear>hearing</unclear>
 of my <unclear></unclear> in the care of the Territory of 
 Washington <unclear>as</unclear> Mary Oneil</p>
 <p>E B <unclear>Whitmer</unclear></p>
@@ -46,10 +186,16 @@ Mary ONeil Def
 Vagrant 
 <unclear></unclear> April 6th 1883
 E P <unclear>Whitmer</unclear> 
-J. P. </p>
+J.P </p>
 
 <p>Filed May 2 1883</p>
 <p>A Reeves Ayses</p>
 <p>Clerk </p>
 <p>by F W <unclear>Goodhues</unclear></p>
 <p>Deputy</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
