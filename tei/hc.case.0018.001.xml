@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0018.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title>
+<title>Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. File Cover.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0018.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document</title>
-<date when="1000-01-01">Month D, YYYY</date>
+<title level="m" type="main">Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. File Cover.</title>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Freedom Suit</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,15 +82,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1836-07">July 1836</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Julia alias Mary Ann</term>
+<term>Duncan, Robert</term>
+<term>Adams, Sally</term>
+<term>Phillis</term>
+<term>Sutton, John L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>St. Louis (Miss)</term>
 </keywords>
 
 </textClass>
@@ -98,16 +102,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Last, First</persName>
+<persName>Julia alias Mary Ann</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Duncan Robert</persName>
+</person>
+<person role="defendant">
+<persName>Adams, Sally</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -116,8 +123,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>St. Louis Circuit Court</orgName>
+<placeName>State of Missouri</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -125,7 +132,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2018-06" who="#ini">transcribed and encoded</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,15 +143,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0000.000.000"/>
-
-<p></p>
-
-</div1>
-    
-</body>
-</text>
-</TEI>
+<pb facs="hc.case.0018.001.001"/>
 
 <p> St Louis Circuit Court
 Case Files
@@ -160,5 +159,10 @@ July Term 1836 No. 141</p>
 <p> Freedom Suit </p>
 
 <p> See original Freedom Suit, Mary Ann, also known as Julia, vs. Robt. Duncan, Nov. 1834, No. 46 </p>
-<p> Note: Phillis, free woman of color, on behalf of her daughter, Julia alias Mary Ann, sues for Julia's free<gap></gap> Julia held by Robert Duncan and woman, Sally Adams, who lifed with him as hise wife. Julia sold to th<gap></gap> infant by John L. Sutton; child was sickly an no one could be found to take her off the hands of Duncan &amp; <gap></gap> who kept her and cared for her with great expense. Duncan &amp; Adams claim the care for her under <gap></gap> restraint and Julia does not wish "To go with the person calling herself her mother"; case discharged.</p>
+<p> Note: Phillis, free woman of color, on behalf of her daughter, Julia alias Mary Ann, sues for Julia's free<gap/> Julia held by Robert Duncan and woman, Sally Adams, who lifed with him as hise wife. Julia sold to th<gap/> infant by John L. Sutton; child was sickly an no one could be found to take her off the hands of Duncan &amp; <gap/> who kept her and cared for her with great expense. Duncan &amp; Adams claim the care for her under <gap/> restraint and Julia does not wish "To go with the person calling herself her mother"; case discharged.</p>
 
+</div1>
+    
+</body>
+</text>
+</TEI>
