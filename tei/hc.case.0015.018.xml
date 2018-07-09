@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0015.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0015.018">
     
 <teiHeader>
 <fileDesc>
@@ -39,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0015.005</idno>
+<idno type="project">hc.case.0015.018</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +51,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Caroline Bauer. Court Memo.</title>
-<date when="1868-01-04">January 4, 1868</date>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bauer, Caroline</term>
-<term>Bush</term>
-<term>Gottschalk</term>
-<term>Sister Mary Julia</term>
-<term>Reber</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -108,22 +105,19 @@
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Gottschalk</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Bush</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Reber</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>St. Louis Circuit Court.</orgName>
+<orgName>St. Louis Circuit Court</orgName>
 <placeName>State of Missouri</placeName>
 </org>
 </listOrg>   
@@ -132,8 +126,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2017-06" who="#djr">transcribed</change>
-<change when="2018-06" who="#nrl">encoded</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,23 +137,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0014.005.001"/>
+<pb facs="hc.case.0015.018.001"/>
 
-<p>8456  1</p>
-<p>In the matter of Caroline Bauer</p>
+<p><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> lays the <unclear/> him the said <unclear>Peter Stik</unclear> and know him this occured about 5 Sept. <unclear>Def collect</unclear> <unclear/> for 3 months that she sent <unclear/> Plfts atys Def could collect towit</p>
 
-<p>"By the Habeas Corpus Act"</p>
+<p>Witness <unclear/> and 5 Sept <unclear/> <unclear/> times</p>
 
-<p>Bush Gottschalk Attys<unclear/> iss</p>
+<p>This dated <unclear/></p>
 
+<p>Whether deft accused her of <unclear/></p>
 
+<p>Mrs. Bauer I known Def <unclear/> let and <unclear>must</unclear> she <unclear/> <unclear/> for me <unclear/> <unclear/> would in May</p>
 
-<p>In the matter of Caroline Bauer }Jany 4th 1868 Before Judge Reber at Chambers</p>
-
-<p>Now comes Sister Mary Julia Superintendant St Vincent Institution and produces the body of Caroline Bauer under the order of this Circuit Court of St. Louis County Room No 1 and makes return to the writ of Habeas Corpus issued herein and exceptions being made to the return and the Court having heard and <unclear>being</unclear> fully advised of and concerning the same doth order that the said exceptions <unclear/> the same are hereby sustained  It is therefore ordered by the Court that Caroline Bauer be and she is hereby discharged from the custody and control of Sister Mary Julie Superintendent of St Vincent Institution and recover her costs and charges in this behalf expended and have execution thereof</p>
-
+<p>excepted</p>
 </div1>
-
+    
 </body>
 </text>
 </TEI>
