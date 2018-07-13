@@ -1,17 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0065.013">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Peter Nelson et al v. Lewis V Wycoff. Civil</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0065.013</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Peter Nelson et al v. Lewis V Wycoff. Civil</title>
+<date when="1875-05-03">May 3, 1875</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1875-05">May 1875</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>San Francisco</term>
+<term>King Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Nelson Peter, Smith W, Elsner H, Whaley C, Mattson G, Lundblad Charles, Coffrey Dennis &amp; Annir Jacob</persName>
+</person>
+<person role="defendant">
+<persName>Wycoff Lewis V.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName>
+</person>
+<person role="judge">
+<persName>J.R. Lewis</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#KA">reviewed; edited</change>
+<change when="2018-06" who="#NRL">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0065.013.001"/>
+
+<p></p>
 
 <p>Territory of Washington}</p>
 <p>County of King}SS</p>
 
 <p>To the Judge of the District Court of the 3d Judicial District of said Territory held at Seattle in and for the counties of King Kistap and Snohomish</p>
 
-<p>Peter Nelson W Smith H Elsner C Whaley G Mattson Charles Lundblad Dennis Coffy &amp; Jasob Anner <sic>late</sic> mariners on board the Bark Bern of the <sic>Osean</sic> a vessel of over fifty tons now <sic>lying farther</sic> at the port of Seattle in the District aforesaid, and within the admiralty and maritime jurisdiction of this honorable court, exhibit this their libel against the said vessel whereof S.P. Gray now is or lately was master, her tackle apparel and furniture and against all persons lawfully intervening for their interest therein in a cause of subtraction of wages said and maritime</p>
+<p>Peter Nelson W Smith H Elsner C Whaley G Mattson Charles Lundblad Dennis Coffy &amp; Jasob Annir <sic>late</sic> mariners on board the Bark Bern of the <sic>Osean</sic> a vessel of over fifty tons now <sic>lying farther</sic> at the port of Seattle in the District aforesaid, and within the admiralty and maritime jurisdiction of this honorable court, exhibit this their libel against the said vessel whereof S.P. Gray now is or lately was master, her tackle apparel and furniture and against all persons lawfully intervening for their interest therein in a cause of subtraction of wages said and maritime</p>
 
-<p>And therefore the said Peter Nelson W Smith H Elsner C Whaly G Mattson Charles Lundblad Dennis Coffy and Jasob Anner, do allege
+<p>And therefore the said Peter Nelson W Smith H Elsner C Whaly G Mattson Charles Lundblad Dennis Coffy and Jasob Annir, do allege
 
 <sic>allege</sic> and <sic>artisulately</sic> propound as follows, to wit:</p>
 
-<p>First that on or about the 8h day of April AD 1875 the said vessel whereof the said S.E.Gray was master, being then in the part of San <sic>Fransisso</sic> and designed on a voyage upon the high seas and within the flux and re-flux thereof, and within the admiralty and maritime jurisdiction of this honorable court, to wit from the said Port of San Francisso in the State of California to the Port of Seattle in Washington Territory he the said S.P. Gray master as aforesaid did ship and hire them the said Peter Nelson W Smith H Elsner C Whaly G Mattson Charles Lundblad Dennis Coffy and Jasob Annier libellants aforesaid to serve as mariners on board said vessel for and during the said voyage at the highest rage of wages given at said port of San <sic>Fransisso</sic> to wit the wages of forty five dollars per month each and <sic>accordingly</sic> 
+<p>First that on or about the 8h day of April AD 1875 the said vessel whereof the said S.E.Gray was master, being then in the part of San Francisco and designed on a voyage upon the high seas and within the flux and re-flux thereof, and within the admiralty and maritime jurisdiction of this honorable court, to wit from the said Port of San Francisso in the State of California to the Port of Seattle in Washington Territory he the said S.P. Gray master as aforesaid did ship and hire them the said Peter Nelson W Smith H Elsner C Whaly G Mattson Charles Lundblad Dennis Coffy and Jasob Annier libellants aforesaid to serve as mariners on board said vessel for and during the said voyage at the highest rage of wages given at said port of San Francisco to wit the wages of forty five dollars per month each and accordingly 
 
 the libellants entered on board and into the <sic>servise</sic> of the said vessel in the <sic>capasity</sic> and at the monthly wages aforesaid on or about the said 8th day of April AD 1875 and the said vessel proseeded to sea with the said libellants on board without their signing any shipping <sic>artisle</sic> or agreement in writing or in print whatever</p>
 
@@ -23,8 +164,14 @@ said vessel and put them in the jail of said County of King where they still rem
 
 <p>Fourth That all and singular the premises are true</p>
 
-<p>Wherefore libellants pray that prosess in due form of law may issue against the said vessel her tackle apparel and furniture and that this honorable court will pronounse for the wages aforesaid and <sic>desred</sic> the sum to be fair with costs, and for <sic>sush</sic> other and further relif and redress as the right and justice may appertain and as the Court is competent to give in the premises</p>
+<p>Wherefore libellants pray that prosess in due form of law may issue against the said vessel her tackle apparel and furniture and that this honorable court will pronounce  for the wages aforesaid and <sic>desred</sic> the sum to be fair with costs, and for <sic>sush</sic> other and further relif and redress as the right and justice may appertain and as the Court is competent to give in the premises</p>
 
-<p>Peter Nelson W Smith H Elsner C Whaley G Mattson Charles Lundblad Dennis his X mark Coffey Jacob Annier</p>
+<p>Peter Nelson W Smith H Elsner C Whaley G Mattson Charles Lundblad Dennis his X mark Coffey Jacob Annir</p>
 
 <p>John J. Mc<unclear></unclear> W.H. White <sic>prostors</sic></p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
