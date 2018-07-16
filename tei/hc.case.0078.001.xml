@@ -1,4 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0078.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ah Foong v.William Murphy. Criminal</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0078.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ah Foong v.William Murphy. Criminal</title>
+<date when="1886-01-19">January 19 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1886-01">January 1886</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Lyon George G. </term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Ah Foong</persName>
+</person>
+<person role="defendant">
+<persName>Murphy William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Rasin &amp; Gilman</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hanford C.H.</persName>
+</person>
+<person role="judge">
+<persName>Roger S. Greene</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#KA">reviewed; edited</change>
+<change when="2018-06" who="#NRL">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0078.001.001"/>
 
 <p>#4784</p>
 
@@ -15,12 +153,11 @@
 
 <p>II</p>
 <p>That the cause or pretense of said restraint according to the best knowledge and belief of this applicant is this, to wit: that said Ah Foong was accused of violating a certain pretended
-<pb.....></pb.....>
-ordinance of the City of Seattle known as Ordinance number Seven hundred and five (705) entitled "An Ordinance to license tax and regulate auctioners, hawkers and peddlers," and upon such accusation was arrested and tried before George G. Lyouo Esq<del>uire</del> a Justice of the Peace in and for Seattle Precinct King County Washington Territory, and was by said Justice, convicted of a violation of said ordinance No 705 and sentenced to pay a fine of five dollars ($5.00)dollars and costs are <unclear></unclear> to elleven &amp; 85=100 dollars ($11.85)</p>
+
+ordinance of the City of Seattle known as Ordinance number Seven hundred and five (705) entitled "An Ordinance to license tax and regulate auctioners, hawkers and peddlers," and upon such accusation was arrested and tried before George G. Lyon Esq<del>uire</del> a Justice of the Peace in and for Seattle Precinct King County Washington Territory, and was by said Justice, convicted of a violation of said ordinance No 705 and sentenced to pay a fine of five dollars ($5.00)dollars and costs are acquiring to eleven &amp; 85=100 dollars ($11.85)</p>
 
 <p>That in default of the payment of said fine and costs, your petitioner has been committed by said Justice to the custody of said William Murphy, Acting Chief of Police of the City of Seattle by whom he is now unlawfully <del></del> imprisoned, detained, confined and restrained of his liberty <del></del> by reason of his <unclear>court case</unclear> and commitment as aforesaid</p>
 
-<pb....
 
 <p>III</p>
 <p>That said imprisonment, detention, confinement and restraint are illegal, and the illegality thereof consists <del></del> in this to wit that the said pretended Ordinance No 705, by virtue of which your petitioner was convicted and committed as aforesaid is un constitutional, illegal and void, for the reason that the said City of Seattle had not at the time of making said Ordinance, any power to make the same.</p>
@@ -28,9 +165,15 @@ ordinance of the City of Seattle known as Ordinance number Seven hundred and fiv
 <p>That said pretended Ordinance is unequal in this operation; <unclear>oppresive</unclear> in restraint of trade and in contravention of comon rights and in opposition to the laws and treaties of the United States.</p>
 
 <p>Wherefore your petitioner prays that a writ of habeas corpus may be granted, directed to the <del>sheriff</del> said William Murphy, acting Chief of Police of the City of Seattle commanding him to have the body of the said Ah Foong before your honor at a time and place specified to do and receive what shall
-<pb....></pb....>
+
 then and there be considered by your honor concerning him, together with the time and cause of his, the said Ah Foong's detention, and said writ; and that he may be restored to liberty.</p>
-<p>Ah his <unclear></unclear> <unclear></unclear> mark Foong</p>
+<p>Ah his <figure></figure> mark Foong</p>
 
 <p>Rasin &amp; Gilman</p>
 <p>Attys for Petitioner</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
