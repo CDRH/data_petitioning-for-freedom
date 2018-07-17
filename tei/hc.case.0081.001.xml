@@ -1,4 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0081.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>CA Clayton, Geo Rosenthal, Wm Lewis, John McDonald, Chas Olsen, Chas Kales, Frederick Lunde, and E Raschman. Petition for Writ of Habeas Corpus.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0081.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">CA Clayton, Geo Rosenthal, Wm Lewis, John McDonald, Chas Olsen, Chas Kales, Frederick Lunde, and E. Raschman. Petition for Writ of Habeas Corpus.</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clayton, CA</term>
+<term>Rosenthal, Geo</term>
+<term>Lewis, Wm</term>
+<term>McDonald, John</term>
+<term>Olsen, Chas</term>
+<term>Kales, Chas</term>
+<term>Lunde, Frederick</term>
+<term>Raschman, E.</term>
+<term>Greene, Roger S.</term>
+<term>Howland, J. E.</term>
+<term>Van-Doren, L.</term>
+<term>Cale, Alfred</term>
+<term>Lewis</term>
+<term>Cilman</term>
+<term>Moomes, Junius</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Clayton, CA</persName>
+</person>
+<person role="petitioner">
+<persName>Rosenthal, Geo</persName>
+</person>
+<person role="petitioner">
+<persName>Lewis, Wm</persName>
+</person>
+<person role="petitioner">
+<persName>McDonald, John</persName>
+</person>
+<person role="petitioner">
+<persName>Olsen, Chas</persName>
+</person>
+<person role="petitioner">
+<persName>Kales, Chas</persName>
+</person>
+<person role="petitioner">
+<persName>Lunde, Frederick</persName>
+</person>
+<person role="petitioner">
+<persName>Raschman, E.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Cilman</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0081.001.001"/>
 
 <p>#5043</p>
 
@@ -6,27 +182,37 @@
 
 <p>On the matter of the application of  CA Clayton, Geo Rosenthal, Wm Lewis, John McDonald, Chas Olson, Chas Kales, Frederick Lunde and E Raschman for a writ of Habeas Corpus} Petition</p>
 
-<p><del></del> To the Honorable Roger S. Greene Judge of the Above named court presiding:-</p>
+<p><del/> To the Honorable Roger S. Greene Judge of the Above named court presiding:-</p>
 
-<p> Your Petitioners C.A. Clayton, Geo Rosenthal, Wm Lewis, John McDonald, Chas Olsen, Chas Kales, Frederick Lunde, and E Raschman Humbly appearing before the Honorable court above named makes known to your honor by htis petition that they and each of them the said petitioners are unlawfully and without any just or reasonable cause and for no cause whatsoever restrained of their liberty by one J.E. Howland who is the master of the ship "Kate Davenport" which ship now lies in harbor at the Port of Blakely in the county of Kitsap in and within the jurisdiction of the Honorable court above named and herein appealed to that the said Howland aided by one L. Van-Doren constable of King County and <del></del> others whose names are unknown to your petitioners are so unlawfully restraining your petitioners of their liberty against their will and without the consent of your petitioners or either or any of them.</p>
-<pb....></pb....>
+<p> Your Petitioners C.A. Clayton, Geo Rosenthal, Wm Lewis, John McDonald, Chas Olsen, Chas Kales, Frederick Lunde, and E Raschman Humbly appearing before the Honorable court above named makes known to your honor by htis petition that they and each of them the said petitioners are unlawfully and without any just or reasonable cause and for no cause whatsoever restrained of their liberty by one J.E. Howland who is the master of the ship "Kate Davenport" which ship now lies in harbor at the Port of Blakely in the county of Kitsap in and within the jurisdiction of the Honorable court above named and herein appealed to that the said Howland aided by one L. Van-Doren constable of King County and <del/> others whose names are unknown to your petitioners are so unlawfully restraining your petitioners of their liberty against their will and without the consent of your petitioners or either or any of them.</p>
+
+<pb facs="hc.case.0081.001.002"/>
+
 <p>That your petitioners and each of them are so being unlawfully restrained of their liberty at the port of Blakely in the county of Kitsap within the Jurisdiction of the Honorable Court aforesaid they your said petitioners being confined by force by the said Howland Master on Board of the said ship "Kate Davenport" of which the said Howland is mister of said ship lying in the said port of Blakely within the Jurisdict of the court as aforesaid</p>
 
 <p>II.</p>
-<p>That the said Capt or Master of the said Ship, the said J.E. Holand gives for his reason <del></del> as cause for so unlawfully detaining the said petitioners was before <del></del> the court complaining, this, to wit: That your petitioners engaged to work for him under contract. <unclear>union</unclear> application your petitioners here deny and say is utterly untrue. That as far as your petitioners are informed and believes the only cause or reason for the so unlawful restraint is the said excuse herein now stated.</p>
+<p>That the said Capt or Master of the said Ship, the said J.E. Howland gives for his reason <del/> as cause for so unlawfully detaining the said petitioners was before <del/> the court complaining, this, to wit: That your petitioners engaged to work for him under contract. <unclear>union</unclear> application your petitioners here deny and say is utterly untrue. That as far as your petitioners are informed and believes the only cause or reason for the so unlawful restraint is the said excuse herein now stated.</p>
 
 <p>III.</p>
-<p>That the <unclear></unclear> unlawful restraint of the liberty of your petitioners is illegal.</p>
+<p>That the <unclear/> unlawful restraint of the liberty of your petitioners is illegal.</p>
 
 <p>IV.</p>
-<p>That the illegality of the said Restraint consists in this to wit: That your Petitioners <del></del>were forcibly placed on board of the said ship "Kate Davenport" of which the said Howland is Master and is being forcibly restrained of their liberty without their consent <del></del> That now the said Howland totally refuses to allow the petitioner to go their way but unlawfully restrains the said <sic>petioners</sic>
-<pb...></pb...>
-against their will and without their consent and without any cause <del></del> on the said board of the said "Kate Davenport" at the port of Blakely in Kitsap County W.T.</p>
+<p>That the illegality of the said Restraint consists in this to wit: That your Petitioners <del/>were forcibly placed on board of the said ship "Kate Davenport" of which the said Howland is Master and is being forcibly restrained of their liberty without their consent <del/> That now the said Howland totally refuses to allow the petitioner to go their way but unlawfully restrains the said <sic>petioners</sic>
+
+<pb facs="hc.case.0081.001.003"/>
+
+against their will and without their consent and without any cause <del/> on the said board of the said "Kate Davenport" at the port of Blakely in Kitsap County W.T.</p>
 
 <p>Wherefore by reason of all facts herein made known to your Honor your petitioners hubly pray through their friend who appears on the petitioners behalf that your Honor will cause to have issued a writ of Habeas Corpus commanding the said J.H. Howland and the said J.E. Howland as master of the said Ship to produce before your honor the Bodies of your petitioners and each and all of the said petitioners at such time and such place as shall seem most expedient to your Honor there that your Honor will investigate and enquire and compel the said Howland to make known why he so unlawfully restrains your petitioners from having their liberty. And that if it should appear to your Honor that the said Howland has no just cause or Legal reason for such illegal restraint that your honor will render judgement against the said Howland and dismiss your petitioners without day giving them their liberty to go hence as they will</p>
 <p>Alfred Cale</p>
 <p>on behalf of petitioners and as their friend</p>
 
 <p>Lewis and Cilman</p>
-<p><unclear>Junius Roches</unclear></p>
+<p>Junius Moomes</p>
 <p>Attorneys appearing for petitioners and for Alfred Cale the friend and who appears more particularly on behalf of the said Petitioners</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
