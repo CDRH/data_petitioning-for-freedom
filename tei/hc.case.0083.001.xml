@@ -1,4 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0081.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Elnora Cline By B. M. Cline v. Ella Cline. Order Granting Writ.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0081.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Elnora Cline By B. M. Cline. Order Granting Writ.</title>
+<date when="1887-05-23">May 23, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-05">May 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Cline, Elnora</term>
+<term>Cline, B.M.</term>
+<term>Cline, Ella</term>
+<term>Jones, R. A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County (Wash)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Cline, Elnora</persName>
+</person>
+<person role="petitioner">
+<persName>Cline, B. M.</persName>
+</person>
+<person role="defendant">
+<persName>Cline, Ella</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Peterson, Fred H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Jones, R. A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0083.001.001"/>
 
 <p>147</p>
 <p>#5343</p>
@@ -9,11 +153,19 @@
 
 <p>In the matter of the application of Elnora Cline an infant, by B.M. Cline her father, for a writ of habeas corpus} No. Order granting writ</p>
 
-<p>On reading and filing the petition of Elnora Cline an infant, duly signed and verified by her father B.M Cline, whereby it appears that said Elnora Cline is illegally restrained of her liberty by Ella Cline, at the city of Seattle in King County Wash. Ty. and stating wherein the illegality <sic>consits</p> from which it appears to me that a writ of habeas corpus ought to issue:</p>
+<p>On reading and filing the petition of Elnora Cline an infant, duly signed and verified by her father B.M Cline, whereby it appears that said Elnora Cline is illegally restrained of her liberty by Ella Cline, at the city of Seattle in King County Wash. Ty. and stating wherein the illegality <sic>consits</sic> from which it appears to me that a writ of habeas corpus ought to issue:</p>
 
 <p>It is ordered that a writ of habeas corpus issue out of and under the seal of the District Court aforesaid directed to the
-<pb…></pb…>
-said Ella Cline commanding her to have the body of the said Elnora Cline before me, in the courtroom of <sic>the the</sic> above entitled court, at the city of Seattle, on the 24h day of May 1887 at 4 o’clock P.M. of that day, to do and receive what shall then and there be considered and ordered concerning the said Elnora Cline, together with the <del></del> authority and cause of her detention, and that she have then and there the said writ.</p>
+
+<pb facs="hc.case.0083.001.002"/>
+
+said Ella Cline commanding her to have the body of the said Elnora Cline before me, in the courtroom of <sic>the the</sic> above entitled court, at the city of Seattle, on the 24h day of May 1887 at 4 o’clock P.M. of that day, to do and receive what shall then and there be considered and ordered concerning the said Elnora Cline, together with the <del/> authority and cause of her detention, and that she have then and there the said writ.</p>
 
 <p>Dated at Seattle May 23 1887</p>
 <p>RA Jones Judge</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
