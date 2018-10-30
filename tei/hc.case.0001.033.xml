@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary E. Teller v. Franklin Teller. Mary Teller Sworn.</title>
+<title>Mary E. Teller v. Franklin Teller. Mary Teller Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -20,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2018</date>
 </edition>
 </editionStmt>
             
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mary E. Teller v. Franklin Teller. Mary Teller Sworn.</title>
+<title level="m" type="main">Mary E. Teller v. Franklin Teller. Mary Teller Sworn</title>
 <date when="1886-08-07">August 7, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,14 +83,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Teller, Franklin</term>
-<term>Teller, Mary E.</term>
 <term>Graves, Frank</term>
-<term>Clement, DA</term>
+<term>Clements, D. A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County (Wash)</term>
+<term>Spokane County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,10 +96,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Teller, Mary E</persName>
+<persName>Teller, Mary E.</persName>
 </person>
 <person role="defendant">
-<persName>Teller, Frank</persName>
+<persName>Teller, Franklin</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Graves, Frank</persName>
@@ -124,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-07" who="#ini">reviewed</change>
+<change when="2018-10" who="#lkw">reviewed</change>
 <change when="2017-07" who="#djr">edited</change>
 <change when="2017-07" who="#djr">transcribed and encoded</change>
 </revisionDesc>
