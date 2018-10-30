@@ -1,7 +1,7 @@
 default:
   shortname: habeascorpus
   collection_desc: Habeas Corpus
-  es_type: habeascorpus
+  collection: habeascorpus
 
 # development:
   # development overrides here
