@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from the Clerk.</title>
+<title>Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from the Clerk</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from the Clerk.</title>
+<title level="m" type="main">Charles Gahres and Martha J. Gahres v. Isabella Sutton and W. H. Barrett. Memo from the Clerk</title>
 <date when="1871-07-01">July 1, 1871</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,11 +83,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Reynolds, R.P.</term>
+<term>Reynolds, R. P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla (Wash)</term>
+<term>Walla Walla (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -127,7 +127,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-07" who="#ini">reviewed</change>
+<change when="2018-10" who="#lkw">reviewed</change>
 <change when="2017-07" who="#djr">edited</change>
 <change when="2017-06" who="#nl">transcribed</change>
 <change when="2017-06" who="#djr">encoded</change>
@@ -153,8 +153,21 @@
 <p>R.P. Reynolds</p>
 <p>Clerk</p>
 
+
 </div1>
     
+<div1 type="case">
+
+<p>I hereby certify that I have served the notice <unclear>&amp; duly</unclear> delivering to each of the Plts a true and certified copy of the same certified to by me to be such in the county of Walla Walla on the 1st day of July 1871</p>
+
+<p>J.McAuliff Sheriff<lb/>
+Walla Walla County</p>
+
+<p>Sheriff fees 3 50</p>
+
+</div1>
+
+
 </body>
 </text>
 </TEI>
