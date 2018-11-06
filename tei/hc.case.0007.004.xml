@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Samuel Montgomery v. Edwina Montgomery. Civil; Custody</title>
+<title>Samuel Montgomery v. Edwina Montgomery. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Samuel Montgomery v. Edwina Montgomery. Civil; Custody</title>
+    <title level="m" type="main">Samuel Montgomery v. Edwina Montgomery. </title>
 <date when="1877-05-30">May 30, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -74,11 +74,11 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term>Custody</term>
 </keywords>
 
 <keywords scheme="original" n="term">
@@ -86,14 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Thomas George F 
-Thompson J.B. 
-Ayres A. Reeves
-Montgomery Myra Bell</term>
+<term>Thomas, George T.</term>
+<term>Thompson, J. B.</term>
+<term>Ayres, A. Reeves</term>
+<term>Montgomery, Myra Bell</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>WallaWalla City, Washington</term>
+<term>Walla Walla (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -110,10 +110,10 @@ Montgomery Myra Bell</term>
 <persName>Brents, Thomas</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Geroge, A Wyatt</persName>
+<persName>Geroge, Wyatt A.</persName>
 </person>
 <person role="judge">
-<persName>Wingard, C Samuel</persName>
+<persName>Wingard, Samuel C.</persName>
 </person>
 </listPerson>
             
@@ -126,9 +126,10 @@ Montgomery Myra Bell</term>
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#MGN">transcribed and encoded</change>
+<revisionDesc>  
+<change when="2018-11" who="#lkw">reviewed; edited</change>       
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#mgn">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,17 +147,18 @@ Walla County Washington Territory do here
 by certify and return that in obedience 
 to the within writ of Habeas Corpus 
 I took into custody the body of Myra
-Bell Montgomery the <unclear>pueen</unclear> <unclear></unclear>
+Bell Montgomery the person named
 in the within writ and held the said 
-Myra Bell Montgomery <unclear></unclear> to the 
+Myra Bell Montgomery subject to the 
 order of this Court here at Walla 
 Walla County W. T. this 30th May 
-1877. Geo F Thomas</p> 
+1877. </p> 
 
-<p>Sheriff Walla Walla 
-County Wash Ter </p>
-<p>J.B. Thompson </p>
-<p>Deputy</p>
+<p>Geo F Thomas<lb/>
+Sheriff Walla Walla<lb/>
+County Wash Ter</p>
+<p>J. B. Thompson<lb/>
+Deputy</p>
 
 </div1>
     

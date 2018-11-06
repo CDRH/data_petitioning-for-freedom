@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Samuel Montgomery v. Edwina Montgomery. Civil; Custody </title>
+<title>Samuel Montgomery v. Edwina Montgomery. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Samuel Montgomery v. Edwina Montgomery. Civil; Custody </title>
+    <title level="m" type="main">Samuel Montgomery v. Edwina Montgomery. Habeas Corpus</title>
 <date when="1877-05-30">May 30, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term>Custody</term>
 </keywords>
 
 <keywords scheme="original" n="term">
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Montgomery Myra Bell </term>
+<term>Montgomery, Myra Bell</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>WallaWalla City, Washington</term>
+<term>Walla Walla (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -107,10 +107,10 @@
 <persName>Brents, Thomas</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Geroge, A Wyatt</persName>
+<persName>Geroge, Wyatt A.</persName>
 </person>
 <person role="judge">
-<persName>Wingard, C Samuel</persName>
+<persName>Wingard, Samuel C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +124,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#MGN">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#mgn">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,27 +139,28 @@
 
 <pb facs="hc.case.0007.001.001"/>
 
+<note type="curatorial">[WAL-2480]</note>
 
-<p>Samuel F. Montgomery vs. Edwina Montgomery } Habeas Corpus
+<p>Samuel F. Montgomery vs. Edwina Montgomery } Habeas Corpus</p>
 
-This case coming up to be heard before 
-S C Winegard Judge of said Court on this 31st 
+<p>This cause coming up to be heard before 
+S C Wingard Judge of said Court on this 31st 
 day of May 1877 at his chambers in Walla
-Walla City, Kennedy and George esquire appearing 
+Walla City, Kennedy and George Esqrs appearing 
 as attys for Complainant and Thomas N
-Brents esquire appearing on the part of said 
+Brents Esqr appearing on the part of said 
 Defendant and the said minor child
 Myra Bell Montgomery being together with 
 the said Defendant present before the Court 
 and the Court having heard the argument 
 of respective Counsel and duly Considered 
-the matter. It is indeed that said Minor 
+the matter. It is ordered that said Minor 
 Child Myra Bell Montgomery be and the 
 custody of said child is hereby awarded to 
 said complainant Samuel Montgomery.
 And that he the said Samuel F Montgomery 
 pay the costs of this proceeding taxed at H</p>
-<p></p>
+
 
 </div1>
     
