@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Joseph Wells v.William A Church &amp; Martha Church.Civil</title>
+<title>Joseph Wells v.William A Church &amp; Martha Church. William A. Church being sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Wells v.William A Church &amp; Martha Church.Civil</title>
-<date when="1877-12-03">December 03, 1877</date>
+    <title level="m" type="main">Wells v.William A Church &amp; Martha Church. William A. Church being sworn</title>
+<date when="1877-12-03">December 3, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla County Washington</term>
+<term>Walla Walla County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -103,14 +103,17 @@
 <person role="defendant">
 <persName>Church, Martha</persName>
 </person>
+<person role="defendant">
+<persName>Church, William A.</persName>
+</person>
 <person role="attorney_petitioner">
-<persName>McLuseter, J</persName>
+<persName>Lasater, James H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Caton, T. N.</persName>
+<persName>Caton, Nathan T.</persName>
 </person>
 <person role="judge">
-<persName>Samuel Wingard</persName>
+<persName>Wingard, Samuel C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>        
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,7 +146,7 @@
 
 <p>Territory of Washington County of Walla Walla } ss</p>
 
-<p>William A Church being first duly sworn says that he is one of the defendants above that Martha Church the other of said defendants is the wife of affiant that said defendant Martha Church <del></del> is now confined to her bed that in December 2 1877 said Martha was fallen down in child birth <del></del> and that the said Matty Wells is attending to her mother and affiant shows that said Matty Wells will be in attendance upon the court on the 4th day of December 1877 at the hour of 3 o'clock PM</p>
+<p>William A Church being first duly sworn says that he is one of the defendants above that Martha Church the other of said defendants is the wife of affiant that said defendant Martha Church <del></del> is now confined to her bed that in December 2 1877 said Martha was taken down in child birth <del></del> and that the said Matty Wells is attending to her mother and affiant shows that said Matty Wells will be in attendance upon the court on the 4th day of December 1877 at the hour of 3 o'clock PM</p>
 
 <p>x William A Church</p>
 <p>Subscribed &amp; sworn to before me this December 3 1877</p>
