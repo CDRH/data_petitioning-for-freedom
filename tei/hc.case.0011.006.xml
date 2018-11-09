@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Mary Oneil. Criminal</title>
+<title>Territory of Washington v. Mary Oneil. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Mary Oneil. Criminal</title>
-<date when="1876-01-06">January, 6 1876</date>
+<title level="m" type="main">Territory of Washington v. Mary Oneil. </title>
+<date when="1876-01-06">January 6, 1876</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,14 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ayses A Reeves
-Thompson J. B
-Henry Chase
-John G. Justice</term>
+<term>Ayses A Reeves</term>
+<term>Thompson J. B</term>
+<term>Henry Chase</term>
+<term>John G. Justice</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla Washington</term>
+<term>Walla Walla (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -107,10 +107,10 @@ John G. Justice</term>
 <persName>Oneil, Mary</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>O P Lacy</persName>
@@ -127,8 +127,9 @@ John G. Justice</term>
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#MGN">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>         
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#mgn">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,28 +143,34 @@ John G. Justice</term>
 <pb facs="hc.case.0011.006.001"/>
 
 <p></p>
-<p>Territory of Washington     In Justice Court before 
-County of Walla Walla          { OP Lacy Justice of the Peace</p>
+<p>Territory of Washington     
+County of Walla Walla          { </p>
 
-<p>Territory of Washington     Charged with being an habitual 
-vs                                           Drunkard and disorderly 
-Adaline Oneil Deft }                person</p>
+<p>In Justice Court before 
+OP Lacy Justice of the Peace</p>
 
-<p>Jany 8th Complaint in the 
+<p>Territory of Washington      
+vs                                           
+Adaline Oneil Deft }</p>
+
+<p>Charged with being an habitual
+Drunkard and disorderly 
+person</p>
+
+<p>Jany <unclear>3rd</unclear> Complaint in the 
 above entitled cause filed and Defendant 
 Adaline Oneil arrested and led into Court 
-and cause continued to deny 6th 1876 at ten oclock 
+and cause continued to <unclear>Jany</unclear> 6th 1876 at ten oclock 
 AM at said hour Deft Adaline Oneil in 
 Court in person and being duly arraigned 
 pleads not guilty whereupon the following 
 witnesses were sworn on the law of the Territory 
 John Lucas G P <unclear>Foos</unclear> Henry Chase Henry 
-<unclear>mind</unclear> John G. Justice Defendant offers no 
-evidence and it appearing and some the 
+<unclear>Mind</unclear> John G. Justice Defendant offers no 
+evidence and it appearing from the 
 evidence that the said Adaline Oneil 
 is an habitual drunkard and disorderly 
-person the said court did adjudge and deter
-mine that the said Adaline Oneil give 
+person the said court did adjudge and determine that the said Adaline Oneil give 
 bonds in the sum of one hundred dollars 
 for her good behavior for the sum of three 
 months and in default thereof that the
@@ -171,6 +178,7 @@ said Adaline Oneil be committed to the
 Jail of Walla Walla County and default 
 <unclear></unclear></p>
 
+<pb/>
 
 <p>Committed to Jail</p>
 <p>Given under my hand 
@@ -183,9 +191,10 @@ vs
 Adaline Oneil 
 Certificate of Conviction</p>
 
-<p><unclear></unclear> January 6th 1877
-A Reeves Ayses </p>
-<p>Clerk </p>
+<p>Filed January 6th 1877</p>
+
+<p>A Reeves Ayses<lb/>Clerk </p>
+
 <p><unclear></unclear> <unclear></unclear> </p>
 
 </div1>

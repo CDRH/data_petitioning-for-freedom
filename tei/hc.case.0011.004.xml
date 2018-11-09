@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Mary Oneil. Criminal</title>
+<title>Territory of Washington v. Mary Oneil. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Mary Oneil. Criminal</title>
+<title level="m" type="main">Territory of Washington v. Mary Oneil. </title>
 <date when="1883-04-06">April 6, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,14 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Cover Mark A.
-Whitmer E. P 
-Goodhues F. W
-Ayses A Reeves</term>
+<term>Cover Mark A.</term>
+<term>Whitmer E. P </term>
+<term>Goodhues F. W</term>
+<term>Ayses A Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla Washington</term>
+<term>Walla Walla (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -107,10 +107,10 @@ Ayses A Reeves</term>
 <persName>Oneil, Mary</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>O P Lacy</persName>
@@ -127,8 +127,9 @@ Ayses A Reeves</term>
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#MGN">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>         
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#mgn">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,12 +143,17 @@ Ayses A Reeves</term>
 <pb facs="hc.case.0011.004.001"/>
 
 <p></p>
-<p>Territory of Washington     In Justice Court before
-County of Walla Walla  }         E P <unclear>Whitmer</unclear> J.P.</p>
+<p>Territory of Washington     
+County of Walla Walla  }</p>
 
-<p>Territory of Washington     Vagrant
+<p>In Justice Court before
+E P <unclear>Whitmer</unclear> J.P.</p>
+
+<p>Territory of Washington     
 v
 Mary Oneil Df } </p>
+
+<p>Vagrant</p>
 
 <p>Complaint filed and warrant issued and the deft
 Mary Oneil arrested by Officer J G Justice and brought into 
@@ -169,33 +175,35 @@ give a bond of fifty dollars for her good behavior
 for the sum of three months and in default thereof 
 or is ordered that she be committed to the County 
 Jail of Walla Walla County and for said period
-of three months
-<unclear></unclear>
+<unclear>of three months</unclear>
 
-is giving the jail bond and is hereby committed 
+<pb/>
+
+in giving the said bond and is hereby committed 
 to jail </p>
-<p>E P <unclear>Whitmer</unclear></p>
+<p>E B <unclear>Whitman</unclear></p>
 <p>Justice of the Peace </p>
 
-<p>I certify the foregoing to be a correct <unclear>hearing</unclear>
-of my <unclear></unclear> in the care of the Territory of 
-Washington <unclear>as</unclear> Mary Oneil</p>
+<p>I certify the foregoing to be a correct <unclear>transcription</unclear>
+of my docket in the case of the Territory of 
+Washington vs Mary Oneil</p>
 <p>E B <unclear>Whitmer</unclear></p>
 <p>Justice of the Peace</p>
+
+<p>Transcript</p>
 
 <p>Territory of Washington 
 v 
 Mary ONeil Def
 Vagrant 
 <unclear></unclear> April 6th 1883
-E P <unclear>Whitmer</unclear> 
+E P <unclear>Whitman</unclear> 
 J.P </p>
 
 <p>Filed May 2 1883</p>
-<p>A Reeves Ayses</p>
-<p>Clerk </p>
-<p>by F W <unclear>Goodhues</unclear></p>
-<p>Deputy</p>
+<p>A Reeves Ayses<lb/>Clerk </p>
+<p>by F W <unclear>Goodhue</unclear>
+<lb/>Deputy</p>
 
 </div1>
     

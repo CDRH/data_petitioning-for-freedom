@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Mary Oneil. Criminal</title>
+<title>Territory of Washington v. Mary Oneil. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Mary Oneil. Criminal</title>
+<title level="m" type="main">Territory of Washington v. Mary Oneil. </title>
 <date when="1880-06-18">June 18, 1880</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,10 +86,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lucas John 
-Kinny M 
-Ayres A. R 
-Thompson J. B </term>
+<term>Lucas John</term>
+<term>Kinny M </term>
+<term>Ayres A. R </term>
+<term>Thompson J. B </term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,10 +107,10 @@ Thompson J. B </term>
 <persName>Oneil, Mary</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>O P Lacy</persName>
@@ -126,9 +126,10 @@ Thompson J. B </term>
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#MGN">transcribed and encoded</change>
+<revisionDesc>
+<change when="2018-11" who="#lkw">reviewed; edited</change>         
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#mgn">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,12 +141,19 @@ Thompson J. B </term>
 <div1 type="case">
 
 <pb facs="hc.case.0011.001.001"/>
-<p>Territory of Washington     In Justice Court before 
-County of Walla Walla    }       O P Lacy Justice of the Peace</p>
+<p>Territory of Washington      
+County of Walla Walla    }</p>
 
-<p>Territory of Washington     charged with vagrancy 
-             vs                              being an habitual 
-Mary Oneil Deff   }                 drunkard</p>
+<p>In Justice Court before
+O P Lacy Justice of the Peace</p>
+
+<p>Territory of Washington      
+             vs                               
+Mary Oneil Deff   }                 </p>
+
+<p>charged with vagrancy
+being an habitual
+drunkard</p>
 
 <p>On this 17th day of June 
 AD 1880 complaint was filed against the 
@@ -167,6 +175,8 @@ Oneil be required to give bonds in the
 sum of three hundred Dollars for her 
 good behavior for the period of three 
 months and <unclear>in</unclear> <unclear></unclear> <unclear></unclear> <unclear></unclear>
+
+<pb/>
 
 Oneil be committed to the jail of 
 Walla Walla County for said term of 
