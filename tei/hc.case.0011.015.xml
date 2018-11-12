@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Mary Oneil. Criminal</title>
+<title>Territory of Washington v. Mary Oneil. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Mary Oneil. Criminal</title>
+<title level="m" type="main">Territory of Washington v. Mary Oneil. </title>
 <date when="1886-11-09">November 9, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla Washington</term>
+<term>Walla Walla County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -104,10 +104,10 @@
 <persName>Oneil, Mary</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>O P Lacy</persName>
@@ -138,17 +138,27 @@
 <div1 type="case">
 
 <pb facs="hc.case.0011.015.001"/>
-<p>Territory of Washington            In Justice 
-County of Walla Walla}                 Court of <unclear></unclear> 
-                                                     J.P.</p>
+<p>Territory of Washington             
+County of Walla Walla} </p>               
+                                                     
+<p>In Justice
+Court of <unclear></unclear>
+Lambert J.P.</p>
 
-<p>Territory of Washington           Action for The
-         V.S.                                    <unclear></unclear> of <unclear></unclear></p> 
-<p>Mary Ann ONeil Deft}            <unclear></unclear> <unclear></unclear>
-                                                    <unclear></unclear> 1886</p>
 
-<p>Record of Conviction 
-This is to certify that Mary Ann
+<p>Territory of Washington           
+         V.S.                                     
+Mary Ann ONeil Deft}</p>            
+                                                    
+
+<p>Action for The
+Crime of Vagrancy
+<unclear>Convicted</unclear> <unclear>5</unclear> day of
+Nov. 1886</p>
+
+
+<p>Record of Conviction</p>
+<p>This is to certify that Mary Ann
 ONeil was convicted of the crime 
 of Vagrancy on the 9th day of 
 November 1886. as being an Habitual 
@@ -157,7 +167,7 @@ in the sum of 50.00 Dollars for her
 good behavior was committed to 
 the County Jail for 30 days or 
 until said Bond is filed and 
-legally dischaged from custody.</p>
+legally discharged from custody.</p>
 
 <p>Given under my hand this 
 9th day of November 1886</p>
