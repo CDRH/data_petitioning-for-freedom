@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elizabeth Bird v. Pattmore. Civil</title>
+<title>Elizabeth Bird v. Frances Pattmore. Cover page</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elizabeth Bird v. Pattmore. Civil</title>
-<date when="1866-12-01">December D, 1866</date>
+<title level="m" type="main">Elizabeth Bird v. Frances Pattmore. Cover page</title>
+<date when="1866-12-01">December, 1866</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bird, Missouri</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,16 +101,19 @@
 <persName>Bird, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Pattmore</persName>
+<persName>Pattmore, Frances</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Clarke, Enos; Coonley, John J.</persName>
+<persName>Clarke, Enos</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Coonley, John J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>James C Moody</persName>
+<persName>Moody, James C.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +126,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<revisionDesc>     
+<change when="2018-11" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>

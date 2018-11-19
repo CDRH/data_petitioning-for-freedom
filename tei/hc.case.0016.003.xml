@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elizabeth Bird v. Pattmore. Civil</title>
+<title>Elizabeth Bird v. Frances Pattmore. Elizabeth Bird being sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elizabeth Bird v. Pattmore. Civil</title>
-<date when="1867-01-11">January 11 1867</date>
+<title level="m" type="main">Elizabeth Bird v. Frances Pattmore. Elizabeth Bird being sworn</title>
+<date when="1867-01-11">January 11, 1867</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bcauilile Cleat E. </term>
+<term>Bramble, Cleat E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elizabeth Bird </persName>
+<persName>Bird, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Pattmore</persName>
+<persName>Pattmore, Frances</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Clarke, Enos; Coonley, John J.</persName>
+<persName>Clarke, Enos</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Coonley, John J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>James C Moody</persName>
+<persName>Moody, James C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,12 +148,12 @@
 <p>Elizabeth Bird the above named petitioner being first duly sworn says that the foregoing petition is true to her own knowledge <unclear>exact</unclear> those matters which are therein stated on information and belief and to those matters she believes of to be true</p>
 
 <p>Sworn to &amp; subscribed before me on this 11 day of January AD 1867</p>
-<p>Cleat E. Bcauilile</p>
+<p>Cleat E. Bramble</p>
 <p>Notary Public</p>
 
-<p>Elizabeth X Bird her <unclear></unclear></p>
+<p>Elizabeth Bird her X mark</p>
 
-<p>Signature attends Enos Clark John C Coonley</p>
+<p>Signature attended by Enos Clark John C Coonley</p>
 
 </div1>
     

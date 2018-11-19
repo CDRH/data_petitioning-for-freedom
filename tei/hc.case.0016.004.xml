@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elizabeth Bird v. Pattmore. Civil</title>
+<title>Elizabeth Bird v. Frances Pattmore. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elizabeth Bird v. Pattmore. Civil</title>
-<date when="1867-01-10">January 10 1867</date>
+<title level="m" type="main">Elizabeth Bird v. Frances Pattmore. Writ of Habeas Corpus</title>
+<date when="1867-01-10">January 10, 1867</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Schneider, Frank A. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,16 +101,19 @@
 <persName>Bird, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Pattmore</persName>
+<persName>Pattmore, Frances</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Clarke, Enos; Coonley, John J.</persName>
+<persName>Clarke, Enos</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Coonley, John J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>James C Moody</persName>
+<persName>Moody, James C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,17 +142,16 @@
 
 <pb facs="hc.case.0016.004.001"/>
 
-<p></p>
 
 <p>The people of the State of Missouri to Mrs Pattmore greeting</p>
 
-<p>You are hereby commanded to have the body of Missouri Bird an infant colored by you detained as it is said together with the time and cause of such detentionor confinement by whatsoever name the said Missouri Bird shall be called or charged before the Hon James C Moody one of the Judges of the St. Louis Circuit Court at Court Room on 1 in the Court House at the city of St Louis in the twelfth day of January instant at one oclock in the afternoon to do an receive what shall then and there be considered concerning the said Missouri Bird</p>
+<p>You are hereby commanded to have the body of Missouri Bird an infant colored by you detained as it is said together with the time and cause of such detention or confinement by whatsoever name the said Missouri Bird shall be called or charged before the Hon James C Moody one of the Judges of the St. Louis Circuit Court at Court Room on 1 in the Court House at the city of St Louis in the twelfth day of January instant at one oclock in the afternoon to do and receive what shall then and there be considered concerning the said Missouri Bird</p>
 
 <p>And have you then and there this writ</p>
 
-<p>Witness  <gap></gap> clerk of said Court with seal thereof annexed this the 10 day of Jany 1867 <gap></gap> Clerk</p>
+<p>Witness F. A. H. Schneider clerk of said Court with seal thereof annexed this the 10 day of Jany 1867 F. A. H. Schneider Clerk</p>
 
-<p><unclear></unclear></p>
+<p><unclear>Endorser</unclear></p>
 
 <p>Allowed pursuant to law this 10th day of January 1867</p>
 

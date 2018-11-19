@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elizabeth Bird v. Pattmore. Civil</title>
+<title>Elizabeth Bird v. Pattmore. Application for Writ of Habeaus Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elizabeth Bird v. Pattmore. Civil</title>
+<title level="m" type="main">Elizabeth Bird v. Pattmore. Application for Writ of Habeaus Corpus</title>
 <date when="1866-10-01">January 10, 1866</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bird, Missouri</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elizabeth Bird</persName>
+<persName>Bird, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Pattmore</persName>
+<persName>Pattmore, Frances</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Clarke, Enos; Coonley, John J.</persName>
+<persName>Clarke, Enos</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Coonley, John J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>James C Moody</persName>
+<persName>Moody, James C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,11 +151,16 @@
 <p>Case Filed JW.</p>
 <p>Clerk</p>
 
-<p>To the Honorable James C Moody one of the Judges of the Circuit Court of SS Lewis Co</p>
+<p>Jany 12th 67 Parties appear &amp; child produced could by <unclear/> <unclear/> Monday evening at 2 o'clock <unclear>3410</unclear></p>
 
-<p>The petition of Elizabeth Bird a resident of the city of St Louis respectfully shows that Missouri Bird an infant aged about ten years, and placed by the mother thereof under the <unclear></unclear> care and control of this petition until said child should become of age is now retrained of its liberty by one Mrs Pattmore in this that said child is confined at the house of said Pattmore and by her not permitted to return unto this petitioner its true and lawful Custodian and that said Missouri Bird is so confined and restrained at a house on Eleventh Street between Cass and &amp; O'Fallen Street, occupied by said Miss Pattmore as this petitioner is informed and that according to the best knowledge and belief of your petitioner the cause or pretense of the abovesaid confinement or restraint of said Missouri Bird arrises from a pupose of said Mrs Pattmore to secure and extort from said child its services as servant without compensation <strike>resource</strike> or promise of some <strike>or other compensation</strike> your petitioner further states that no application for the relief sought has been made to or refused by any court office or offices superior. to the one to which this petition is presented and your petitioner further states
+<p>Jany 14th 67 all parties appear <unclear/> petitioner <unclear/>
+custody child verdict to Respondent <unclear/></p>
 
-that she is advised by her counsel Mens Clark &amp; Coonley of City of St Louis and she so believes that the confinement and restraint aforementioned is illegal and that said illegality consists in the refusal of said Mrs Pattmore to permit said child to return to its lawful custodian and in depriving your petitioner of the countrol and services of said child</p>
+<p>To the Honorable James C Moody one of the Judges of the Circuit Court of St Lewis Co</p>
+
+<p>The petition of Elizabeth Bird a resident of the city of St Louis respectfully shows that Missouri Bird an infant aged about ten years, and placed by the mother thereof under the <unclear></unclear> care and control of this petition until said child should become of age is now retrained of its liberty by one Mrs Pattmore in this that said child is confined at the house of said Pattmore and by her not permitted to return unto this petitioner its true and lawful Custodian and that said Missouri Bird is so confined and restrained at a house on Eleventh Street between Cass and &amp; O'Fallen Street, occupied by said Miss Pattmore as this petitioner is informed and that according to the best knowledge and belief of your petitioner the cause or pretense of the abovesaid confinement or restraint of said Missouri Bird arrises from a pupose of said Mrs Pattmore to secure and extort from said child its services as servant without compensation <del>resource</del> or promise of some <del>or other compensation</del> your petitioner further states that no application for the relief sought has been made to or refused by any court office or offices superior. to the one to which this petition is presented and your petitioner further states
+
+that she is advised by her counsel Messrs Clark &amp; Coonley of City of St Louis and she so believes that the confinement and restraint aforementioned is illegal and that said illegality consists in the refusal of said Mrs Pattmore to permit said child to return to its lawful custodian and in depriving your petitioner of the control and services of said child</p>
 
 <p>Wherefore your petitioner prays a writ of Habeas Corpous to the end that said Missouri Bird, by which name she is usually known, may be discharged from the restraint &amp; control of said Miss Pattmore and returend to the care and custody of your petitioner</p>
 
