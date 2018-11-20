@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. Court Order to Defendants.</title>
+<title>Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. Court Order to Defendants</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. Court Order to Defendants.</title>
+<title level="m" type="main">Julia alias Mary Ann, Infant of Color v. Robert Duncan and Sally Adams. Court Order to Defendants</title>
 <date when="1836-08-24">August 24, 1836</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,15 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Duncan, Robert</term>
-<term>Adams, Sally</term>
-<term>Julia, alias Mary Ann</term>
 <term>Ruland, John</term>
 <term>Johnston, J. D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis (Miss)</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -102,7 +99,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Julia alias Mary Ann</persName>
+<persName>Julia</persName>
 </person>
 <person role="defendant">
 <persName>Duncan, Robert</persName>
@@ -131,7 +128,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>
 <change when="2018-06" who="nrl">transcribed and encoded</change>
 </revisionDesc>
 
