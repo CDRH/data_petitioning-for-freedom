@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dolly vs John Young. Civil</title>
+<title>Dolly vs John Young. Petition for writ of habeas corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dolly vs John Young. Civil</title>
+<title level="m" type="main">Dolly vs John Young. Petition for writ of habeas corpus</title>
 <date when="1828-05-10">May 10, 1828</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Dremes, G. A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,18 +101,22 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strother</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
 </person>
 <person role="judge">
-<persName>William C Carr</persName>
+<persName>Carr, William C.</persName>
 </person>
 </listPerson>
+
             
 <listOrg>
 <org>
@@ -124,8 +128,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,10 +149,9 @@
 
 <p>Your petitioner Dolly a free woman of color, now held in slavery by John Young represents to your Honor, that by an order of the Circuit Court of the said County of St Louis made at the last March term of said Court, obtained an order permitting of the said Dolly to institute suit against the said John Young to establish her right to freedom: that since the declaration of this petitioner was filed against the said John Young for the threats and declaration of the said John Young your petitioner has reason to believe and does believe that because of her application for freedom the said John Young will treat her with great severity and that he will remove her out of the jurisdiction of this court before the trial of the said cause instituted to establish her right to freedom your petitioner there prays
 
-that your Honour may your a writ of Habeas Corpus and have your petitioner brought before you and cause the said John Young to enter into a recognizance with security agreeable to Carr &amp; your petitioner</p>
+that your Honour may issue a writ of Habeas Corpus and have your petitioner brought before you and cause the said John Young to enter into a recognizance with security agreeable to Carr &amp; your petitioner</p>
 
-<p>Dolly</p>
-<p>her + mark</p>
+<p>Dolly<lb/>her x mark</p>
 
 <p>Sworn &amp; subscribed the 10th Day of May 1828 before me</p>
 <p><unclear>G A</unclear> <unclear>Dremes</unclear></p>

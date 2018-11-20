@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dolly vs John Young. Civil</title>
+<title>Dolly vs John Young. Young pleads not guilty</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dolly vs John Young. Civil</title>
+<title level="m" type="main">Dolly vs John Young. Young pleads not guilty</title>
 <date when="1828-11-28">November 28 1828</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gamble Archibald</term>
+<term>Archibald, Gamble</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,10 +101,13 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strother</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,7 +151,7 @@
 <p>McGirk for deft</p>
 
 
-<p>John Young vs Dolly } Pleas <unclear></unclear> issue or not guilty</p>
+<p>John Young vs Dolly } Pleas <unclear>General</unclear> issue or not guilty</p>
 
 
 <p>Filed Nov 28th 1828</p>

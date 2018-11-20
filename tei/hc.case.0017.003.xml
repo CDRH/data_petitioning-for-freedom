@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dolly vs John Young. Civil</title>
+<title>Dolly vs John Young. Summons</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dolly vs John Young. Civil</title>
+<title level="m" type="main">Dolly vs John Young. Summons</title>
 <date when="1829-10-27">October 27, 1829</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +86,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gamble Archibald</term>
-<term>Skimer William</term>  
-<term>Hoffman Herman S.</term>   
-<term>Reynolds Otis </term> 
-<term>Cohen Thoman</term>
+<term>Gamble, Archibald</term>
+<term>Skinner, William</term>  
+<term>Hoffman, Herman S.</term>   
+<term>Reynolds, Otis </term> 
+<term>Cohen, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -105,10 +105,13 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strother</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
@@ -128,8 +131,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -150,7 +154,7 @@
 
 <p>To the Sheriff of Saint Louis County--Greeting.</p>
 
-<p>You are hereby commanded to summon William Skimer - Herman S Hoffman Otis Reynolds - Thoman Cohen</p>
+<p>You are hereby commanded to summon William Skinner - Herman S Hoffman Otis Reynolds - Thomas Cohen</p>
 <p>that setting aside all manner of excuse and delay, they be and appear in proper person before the Judge of our Circuit Court, on the First day of December, at the City of St. Louis, then and there to testify and the truth to say in a certain matter of controversy now pending in our said Court, wherein Dolly is plaintiff and John Young is defendant on the part of the plaintiff; and have you then there this writ.</p>
 
 <p>Witness, ARCHIBALD GAMBLE, Clerk of our said Circuit Court, at the City of St. Louis, this 27th day of October in the year of our Lord one thousand eight hundred and twenty nine</p>

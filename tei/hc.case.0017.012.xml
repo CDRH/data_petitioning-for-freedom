@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dolly vs John Young. Civil</title>
+<title>Dolly vs John Young. Recognizance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dolly vs John Young. Civil</title>
+<title level="m" type="main">Dolly vs John Young. Recognizance</title>
 <date when="1828-05-12">May 12, 1828</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson Dougald</term>
+<term>Ferguson, Dougald</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,16 +101,19 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strothe</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
 </person>
 <person role="judge">
-<persName>William C Carr</persName>
+<persName>Carr, William C.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,11 +146,13 @@
 
 <p>State of Missouri 3 Judicial Circuit Jct</p>
 
-<p>Be remembered that <del>John</del> on this 12th day of May 1828 personally appeared before me the subscriber judge of the circuit aforesaid John Young and Dougald Ferguson Jr of the county of St. Louis and acknowledged themselves to owe to the state of Missouri the sum of four hundred dollars each to be levied of their respective goods &amp; chattles lands &amp; <unclear></unclear> on condition following. Whereas one Dolly a colured woman has instituted suit of arrest said John Young to try her right to freedom agreeably to the statute in such cases made &amp; provided &amp; has petitioned the undersigned to cause the said John Young to enter into recognizance with security that she the said Dolly shall not be removed out of the jurisdiction of the Circuit Court for the County of St. Louis now therefore if the petitioner Dolly shall at all times during the pendency of the suit aforesaid have reasonable liberty of attending her counsel and shall not be removed out of the jurisdiction of the court aforesaid &amp; that she shall not be subjected to any severity because of her application for freedom, then this recognizance to be void otherwise to be <unclear></unclear> in full force &amp; effect</p>
+<p>Be remembered that <del>John</del> on this 12th day of May 1828 personally appeared before me the subscriber judge of the circuit aforesaid John Young and Dougald Ferguson Jr of the county of St. Louis and acknowledged themselves to owe to the state of Missouri the sum of four hundred dollars each to be levied of their respective goods &amp; chattles lands &amp; tenements on condition following. Whereas one Dolly a colured woman has instituted suit of arrest said John Young to try her right to freedom agreeably to the statute in such cases made &amp; provided &amp; has petitioned the undersigned to cause the said John Young to enter into recognizance with security that she the said Dolly shall not be removed out of the jurisdiction of the Circuit Court for the County of St. Louis now therefore if the petitioner Dolly shall at all times during the pendency of the suit aforesaid have reasonable liberty of attending her counsel and shall not be removed out of the jurisdiction of the court aforesaid &amp; that she shall not be subjected to any severity because of her application for freedom, then this recognizance to be void otherwise to be <unclear></unclear> in full force &amp; effect</p>
 
-<p>Taken &amp; certified before me the day &amp; year aforesaid at my chambers in the County of St Louis. Given underway law &amp; seal</p>
+<p>Taken &amp; certified before me the day &amp; year aforesaid at my chambers in the County of St Louis. Given under my law &amp; seal</p>
 
 <p>Will C Carr</p>
+
+<figure><p>Seal</p></figure>
 
 </div1>
     

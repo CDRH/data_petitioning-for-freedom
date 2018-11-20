@@ -86,13 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gamble Archibald</term>
-<term>Sempson R.</term>
-<term>Temonds L. P</term>
+<term>Gamble, Archibald</term>
+<term>Simpson, R.</term>
+<term>Simonds, L. P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St. Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -103,10 +103,13 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strother</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
@@ -126,8 +129,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -156,18 +160,30 @@
 <p>Archibald Gamble Clerk</p>
 
 
-<p><unclear>She sues VC</unclear></p>
+<p><unclear>She sues &amp;c</unclear></p>
 
 <p>Strother &amp; Evans for plff</p>
 
 
-<p>Executed this writ on John Young April 12th 1828 in the City of St Louis by reading the same to him</p>
+<p>Executed this writ on John Young April 12th 1828 in the City of St. Louis by reading the same to him</p>
 
-<p>R Sempson Sheriff</p>
-<p>By LP <unclear>Temonds</unclear> DP Sheriff</p>
-
+<p>R. Simpson Sheriff<lb/>
+By L. P. Simonds Dpy Sheriff</p>
 
 <p>Service $1.00</p>
+
+<p>No 7 July Term 1828<lb/>
+St Louis Circuit Court</p>
+
+<p>Dolly<lb/>
+vs<lb/>
+John Young</p>
+
+<p>This is an action of tresspass assault &amp; Battery &amp; Flase Imprisionment</p>
+<p>Strother &amp; Evans <unclear/></p>
+
+<p>filed April 1st 1828<lb/>
+A Gamble Clerk</p>
 
 </div1>
     

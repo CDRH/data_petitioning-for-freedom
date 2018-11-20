@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dolly vs John Young. Civil</title>
+<title>Dolly vs John Young. Complaint</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dolly vs John Young. Civil</title>
+<title level="m" type="main">Dolly vs John Young. Complaint</title>
 <date when="1828-07-01">July 1828</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St Louis Missiouri</term>
+<term>St Louis (Mo.)</term>
 </keywords>
 
 </textClass>
@@ -101,10 +101,13 @@
 <persName>Dolly</persName>
 </person>
 <person role="defendant">
-<persName>John Young</persName>
+<persName>Young, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>James Evans; George Strother</persName>
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName>McGirk, Isaac</persName>
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,10 +144,16 @@
 
 <p></p>
 
-<p>State of Missouri      Circuit Court 3rd Judicial
-County of St. Louis }      Circuit July Term 1828</p>
+<p>State of Missouri      
+County of St. Louis }</p>
+
+<p>Circuit Court 3rd Judicial
+Circuit July Term 1828</p>
 
 <p>Dolly a coloured woman by her attornies complain of John Young of a plea of tresspass assualty, battery &amp; false imprisonment for that the said John Young on the <gap></gap> day of <gap></gap> in the year A.D. 1827 with force &amp; arms he made an assault upon the said Dolly, to wit, at the County of St. Louis aforesaid &amp; then &amp; there seized &amp; laid hold of the said Dolly &amp; with great force &amp; violence took &amp; conveyed the said Dolly to <sic>Feever</sic> river in the north western territory &amp; then &amp; there imprisoned the said Dolly &amp; kept &amp; detained her in prison without <gap></gap> cause whatsoever for a long span of time, to wit, for the span of six months then next following contrary to the law of the said Northwestern Territory and the said Dolly avers that before and at the time of the committing of the grievances she was &amp; still is a free person &amp; that the Deft held &amp; detained her &amp; still holds &amp; detains her in slavery against the will of the said Dolly, whereby she the said Dolly was then &amp; there greatly exposed, injured &amp; restrained of her liberty to wit at the County aforesaid &amp; other wrongs to the said Dolly then &amp; there did against the peace &amp; dignity of the state aforesaid &amp; other damages of the said Dolly five hundred dollars therefore</p>
+
+
+
 
 </div1>
     
