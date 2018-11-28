@@ -2,8 +2,12 @@ default:
   shortname: habeascorpus
   collection_desc: Habeas Corpus
   collection: habeascorpus
+  threads: 20
 
-# development:
-  # development overrides here
-# production:
-  # production overrides here
+development:
+  es_path: https://cdrhdev1.unl.edu/elastic
+  es_index: cdrhapidev-v1
+  site_url: https://cdrhdev1.unl.edu/habeascorpus
+production:
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v1
