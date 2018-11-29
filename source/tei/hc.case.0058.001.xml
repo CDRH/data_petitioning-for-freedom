@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Robert Moulton v. James Eaus. Civil</title>
+<title>Robert Moulton v. James Eaves. Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Robert Moulton v. James Eaus. Civil</title>
+<title level="m" type="main">Robert Moulton v. James Eaves. Decision</title>
 <date when="1883-11-14">November 14, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Rosa Moulton</term> 
-<term>Nellie Moulton</term>
+<term>Moulton, Rosa</term> 
+<term>Moulton, Nellie</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Port Townsend Washington</term>
+<term>Port Townsend (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Moulton Robert</persName>
+<persName>Moulton, Robert</persName>
 </person>
 <person role="defendant">
-<persName>Eaus James</persName>
+<persName>Eaves, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Greeves R.S.</persName>
+<persName>Geene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -124,9 +124,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-01" who="#NRL">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2018-11" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,14 +140,12 @@
 
 <pb facs="hc.case.0058.001.001"/>
 
-<p></p>
+<p>In the District Court of the third Judicial district of Washington Territory holding terms at Port Townsend</p>
 
-<p> In the District Court of the third Judicial district of Washington Territory holding terms at Port Townsend </p>
+<p>In the matter of the application of Robert Moulton for a writ of Habeas Corpus</p>
 
-<p> In the matter of the application of Robert Moulton for a writ of Habeas Corpus </p>
-
-<p> It appearing <del> ing </del> to the Court by the pleadings and <unclear></unclear> herein made and filed that the said Rosa Moulton and Nellie Moulton are the minor children of said Robert Moulton, and that they are unlawfully detained by the said James Eaus the respondent herein and the said minor children being now in the custody of the Court. It is therefore considered and adjudged by the court that said children be taken from the custody of the said James Eaves and restorted to the custody and control of said Robert Moulton and that the said James Eaus pay the costs in this case taxed at        dollars and that texecution issue thereofre <unclear></unclear> </p>
-<p> Greeves J </p>
+<p>It appearing <del> ing </del> to the Court by the pleadings and <unclear/> herein made and filed that the said Rosa Moulton and Nellie Moulton are the minor children of said Robert Moulton, and that they are unlawfully detained by the said James Eaus the respondent herein and the said minor children being now in the custody of the Court. It is therefore considered and adjudged by the court that said children be taken from the custody of the said James Eaves and restorted to the custody and control of said Robert Moulton and that the said James Eaus pay the costs in this case taxed at        dollars and that execution issue therefore <unclear></unclear></p>
+<p>Greeves</p>
 
 </div1>
     
