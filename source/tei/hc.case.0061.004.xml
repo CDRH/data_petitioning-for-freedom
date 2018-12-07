@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
+<title>Lee Sing Wot v. Charles M. Bradshaw. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
+<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaw. </title>
 <date when="1889-04-06">April 6, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Jefferson Washington</term>
+<term>Jefferson (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wot Lee Sing</persName>
+<persName>Wot, Lee Sing</persName>
 </person>
 <person role="defendant">
-<persName>Bradshaus Charles M.</persName>
+<persName>Bradshaw, Charles M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Sachs B.</persName>
+<persName>Sachs, Morris B.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hanford C.H. </persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +123,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<revisionDesc>  
+<change when="2018-11" who="#lkw">reviewed; edited</change>       
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,8 +139,6 @@
 
 <pb facs="hc.case.0061.004.001"/>
 
-<p></p>
-
 <p>In the District Court of the Third Judicial District holding terms at Port Townsend in Jefferson County Washington Territory</p>
 
 <p>In the matter of the Application of Mrs Lee Sing Wot for a Writ of Habeas Corpus } Petition for Writ</p>
@@ -148,40 +147,22 @@
 
 <p>That she the said Mrs Lee Sing Wot is unlawfully imprisoned, detained, confined, and restrained of her liberty by Charles M. Bradshaus, Collector of Customs for the District of Puget Sound in Washington and Oregon at Port Townsend in the County of Jefferson and Territory of Washington.</p>
 
-<p>That said Charles M. Bradshaus, Collector as aforesaid has and does illegally imprison, detain, and confine your petitioner in the Custom House at Port Townsend aforesaid, <unclear>a...iting</unclear> a steamer or <unclear>consequence</unclear> to casue your petitioner to be transported out of the United States of America and into British Columbia, alleging that your petitioner being a Chinese woman is not entitled to land or remain in the United States of America</p>
+<p>That said Charles M. Bradshaus, Collector as aforesaid has and does illegally imprison, detain, and confine your petitioner in the Custom House at Port Townsend aforesaid, awaiting a steamer of conveyance to cause your petitioner to be transported out of the United States of America and into British Columbia, alleging that your petitioner being a Chinese woman is not entitled to land or remain in the United States of America</p>
 
 <p>That said imprisonment, detention, restrain, and confinement are illegal in this wit</p>
 
 <p>That your petitioner is a Chinese woman and is the legal wife of Lee Sing Wot who is a merchant member of the firm of Zuong Lin Hing &amp; Co, 733
 
-Commercial Street San Francisco California and your petitioner was on her way to join her husband at San Francisco California, when she was arrested imprisoned and detained by said Charles M. Bradshaus Collector as aforesaid and is now so as aforesaid arrested, imprisoned, and detained the certificate duly executed by the Chinese Government showing that she is entitled by the Chinese Government showing that she is entitled to enter and remain in the United States which certificate is hereto attached, made for thereof marked exhibit "A"</p>
+<pb facs="hc.case.0061.004.002"/>
+
+Commercial Street San Francisco California and your petitioner was on her way to join her husband at San Francisco California, when she was arrested imprisoned and detained by said Charles M. Bradshaus Collector as aforesaid and is now so as aforesaid arrested, imprisoned, and detained the certificate duly executed by the Chinese Government showing that she is entitled by the Chinese Government showing that she is entitled to enter and remain in the United States which certificate is hereto attached, made part thereof marked exhibit "A"</p>
 
 <p>Wherefore your petitioner prays that a writ of Habeas Corpus may be granted directed to the said Charles M. Bradshaus Collector as aforesaid, commanding him to have the body of said Mrs Lee Sing Wot before your Honor at a time and place therein to be specified, to do and receive what shall then and there be considered by your Honor, concerning said Mrs Lee Sing Wot, together with the time and cause of her detention, and said writ, and that she the said Mrs Lee Sing Wot may be restored to her liberty.</p>
 
-<p>Mrs Lee Sing Wot by Mouis B. Sachs her Atty</p>
+<p>Mrs Lee Sing Wot by Morris B. Sachs her Atty</p>
 
 </div1>
     
 </body>
 </text>
 </TEI>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
+<title>Lee Sing Wot v. Charles M. Bradshaw. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
+<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaw. </title>
 <date when="1889-04-30">April 30, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>White W. St </term>
+<term>White, W. H.</term>
+<term>Whittlesey, William H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle Washington</term>
-<term>Port Townsend Washington</term>
+<term>Seattle (Wash.)</term>
+<term>Port Townsend (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +100,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wot Lee Sing</persName>
+<persName>Wot, Lee Sing</persName>
 </person>
 <person role="defendant">
-<persName>Bradshaus Charles M.</persName>
+<persName>Bradshaw, Charles M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Sachs Mouis B</persName>
+<persName>Sachs, Morris B.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hanford C.H.</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -124,9 +125,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2018-11" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,23 +141,21 @@
 
 <pb facs="hc.case.0061.006.001"/>
 
-<p></p>
-
 <p>Office of United States Attorney of Washington Territory</p>
 <p>Seattle, April 30 1889</p>
 
-<p>Wm st Whittlesey Esq.</p>
+<p>Wm H Whittlesey Esq.</p>
 <p>Clerk Dist. Court</p>
 <p>Port Townsend</p>
 
 <p>Sir,</p>
 
-<p>In case No. 1237 In Re application of Lee Sing Wot &amp; C you will find enclosed the original papers &amp; the order of the Court denying the writ. Record the order &amp; if Mr Bradshaus desires a copy furnish it to him.</p>
+<p>In case No. 1237 In Re application of Lee Sing Wot &amp; C you will find enclosed the original papers &amp; the order of the Court denying the writ. Record the order &amp; if Mr Bradshaw desires a copy furnish it to him.</p>
 
 <p>The petitioner has leave to withdraw the certificate of the Chinese Consul on filing copies with you.</p>
 
 <p>Very Respectfully</p>
-<p>W St White</p>
+<p>W H White</p>
 <p>U.S. Atty</p>
 
 </div1>

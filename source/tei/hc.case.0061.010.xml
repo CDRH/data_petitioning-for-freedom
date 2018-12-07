@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
+<title>Lee Sing Wot v. Charles M. Bradshaw. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaus. Criminal</title>
-<date when="1889-04-23"> April 30, 1889</date>
+<title level="m" type="main">Lee Sing Wot v. Charles M. Bradshaw. </title>
+<date when="1889-04-23">April 30, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,7 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Jefferson Washington </term>
+<term>Jefferson (Wash.)</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -98,19 +98,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wot Lee Sing</persName>
+<persName>Wot, Lee Sing</persName>
 </person>
 <person role="defendant">
-<persName>Bradshaus Charles M.</persName>
+<persName>Bradshaw, Charles M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Sachs Mouis B</persName>
+<persName>Sachs, Morris B.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>White W. A</persName>
+<persName>White, W. A.</persName>
 </person>
 <person role="judge">
-<persName>Hanford C.H</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +123,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<revisionDesc>   
+<change when="2018-11" who="#lkw">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,8 +147,8 @@
 
 <p>I have in my custody and under my control the Chinese woman intended to be described in said writ. The cause of said detention is that she is attempting (and was so attempting at the time of said arrest) to enter the United States in vilation of an Act of Congress entitled and Act to ammend an act entitled " An act to execute certain treaty stipulations relating to Chinese approved May 6th 1882" commonly known as the Chinese Restriction Act that the said Chinese woman is not the wife of Lee Sing Wot a merchant of San Francisco but is a <del>Chinese</del> a woman of lewd character long resident at Victoria British Columbia. That she is held by me, <del>to enable</del> as collector of customs for the District of Puget Sound for extradition out of the United States <del>and is as</del> after the hearing of this application</p>
 
-<p>Charles M Bradshaus</p>
-<p>Collectoor of Customs</p>
+<p>Charles M Bradshaw</p>
+<p>Collector of Customs</p>
 
 
 <p>Filed Apr 30 1889</p>
