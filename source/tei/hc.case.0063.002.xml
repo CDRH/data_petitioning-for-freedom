@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ah Sing and Ah Yoel v. Frederick Minick. Civil</title>
+<title>Sing and Yoel v. Frederick Minick. Ham and Gong Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ah Sing and Ah Yoel v. Frederick Minick. Civil</title>
+<title level="m" type="main">Sing and Yoel v. Frederick Minick. Ham and Gong Being Sworn</title>
 <date when="1873-10-25">October 25, 1873</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Andrews L. B.</term>
+<term>Andrews, L. B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,25 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Ah Sing; Ah Yoel</persName>
+<persName>Sing</persName>
+</person>
+<person role="petitioner">
+<persName>Yoet</persName>
 </person>
 <person role="defendant">
-<persName>Frederick Minick</persName>
+<persName>Minick, Frederick</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ah Ham; Ah Gorg</persName>
+<persName>Ham</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gong</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>George Jacobs</persName>
+<persName>Jacobs, Orange</persName>
 </person>
 </listPerson>
             
@@ -123,9 +129,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2018-12" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,16 +145,17 @@
 
 <pb facs="hc.case.0063.002.001"/>
 
-<p> Territory of Washington } </p>
-<p> County of King } sct. </p>
+<p>Territory of Washington }</p>
+<p>County of King } sct.</p>
 
-<p> being duly sworn says he is the petitioner in the foregoing petition: that he has heard the same read, knows the contents thereof and believes the same to be true. Ah Ham </p>
+<p>being duly sworn says he is the petitioner in the foregoing petition: that he has heard the same read, knows the contents thereof and believes the same to be true. </p>
+<p>Ah Ham</p>
+<p>Ah Gong His Mark</p>
+<p>Sworn &amp; Subscribed before me</p> 
+<p>Octo: 25 1873</p>
+<p>L. B. Andrews</p>
+<p>Clerk Dist Court</p>
 
-<p> Sworn &amp; Subscribed before me </p> 
-<p> Octo: 25 1873 </p>
-<p> L. B. Andrews </p>
-<p> Clerk Dist Court </p>  <p> <figure></figure> Gay </p>
-<p> mark</p>
 </div1>
     
 </body>

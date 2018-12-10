@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ah Sing and Ah Yoel v. Frederick Minick. Civil</title>
+<title>Sing and Yoel v. Frederick Minick. Minick Answers</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ah Sing and Ah Yoel v. Frederick Minick. Civil</title>
-<date when="1873-10-25">October 25 1873</date>
+<title level="m" type="main">Sing and Yoel v. Frederick Minick. Minick Answers</title>
+<date when="1873-10-25">October 25, 1873</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Minick F.A.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term> Seattle Washington</term>
+<term>Seattle (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,25 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Ah Sing; Ah Yoel</persName>
+<persName>Sing</persName>
+</person>
+<person role="petitioner">
+<persName>Yoet</persName>
 </person>
 <person role="defendant">
-<persName>Frederick Minick</persName>
+<persName>Minick, Frederick</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ah Ham; Ah Gorg</persName>
+<persName>Ham</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gong</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>George Jacobs</persName>
+<persName>Jacobs, Orange</persName>
 </person>
 </listPerson>
             
@@ -123,9 +129,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc>
+<change when="2018-12" who="#lkw">reviewed; edited</change>         
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,15 +145,15 @@
 
 <pb facs="hc.case.0063.003.001"/>
 
-<p> In the District Court of the 3d Judicial District of the Territory of Washington - holding Terms at Seattle in and for the Counties of King Kitsap &amp; Snohomish. King County S.S. </p>
+<p>In the District Court of the 3d Judicial District of the Territory of Washington - holding Terms at Seattle in and for the Counties of King Kitsap &amp; Snohomish. King County S.S.</p>
 
-<p> Writ Habeas Corpus <unclear></unclear> Ah Yoel &amp; Ah Sing } </p>
+<p>Writ Habeas Corpus <unclear></unclear> Ah Yoel &amp; Ah Sing }</p>
 
-<p> F.A. Minick, Marshall of the City of Seattle, answers to the writ of <sic> Habes </sic> Corpus as above entitled and says - that the said Chinamen Ah Yoel &amp; Ah Sing - were imprisoned in the City Lock up for resisting him, as Marshall in the performance of his duty - as <unclear></unclear> <unclear></unclear> tax collector </p>
+<p>F.A. Minick, Marshall of the City of Seattle, answers to the writ of <sic>Habes</sic> Corpus as above entitled and says - that the said Chinamen Ah Yoet &amp; Ah Sing - were imprisoned in the City Lock up for resisting him, as Marshall in the performance of his duty - as <unclear></unclear> <unclear></unclear> tax collector</p>
 
-<p> That the said Chinamen Ah Yoel and Ah Sing - were discharged from prison this morning - and are now at large in this city - and not in custody </p>
-<p> F.A. Minick </p>
-<p> Marshal City of Seattle </p>
+<p>That the said Chinamen Ah Yoet and Ah Sing - were discharged from prison this morning - and are now at large in this city - and not in custody</p>
+<p>F.A. Minick</p>
+<p>Marshal City of Seattle</p>
 
 <p>Subscribed &amp; Sworn to before me this 25th day of October 1873 }</p>
 
