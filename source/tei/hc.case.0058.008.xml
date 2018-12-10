@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0062.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0058.008">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Robert Moulton v. James Eaus. Civil</title>
+<title>Robert Moulton v. James Eaves. Petition for Guardianship</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0062.001</idno>
+<idno type="project">hc.case.0058.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Robert Moulton v. James Eaus. Civil</title>
+<title level="m" type="main">Robert Moulton v. James Eaves. Petition for Guardianship</title>
 <date when="1883-11-13">November 13, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,11 +70,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Nellie Moulton</term>
-<term>Rosie Moulton</term>
+<term>Moulton, Nellie</term>
+<term>Moulton, Rosa</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Jefferson Washington</term>
+<term>Jefferson (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Moulton Robert</persName>
+<persName>Moulton, Robert</persName>
 </person>
 <person role="defendant">
-<persName>Eaus James</persName>
+<persName>Eaves, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Wilken D.W</persName>
+<persName>Wilken, D. W.</persName>
 </person>
 <person role="judge">
-<persName>Greeves R.S</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +124,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
+<revisionDesc>   
+<change when="2018-12" who="#lkw">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#DJR">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,13 +142,13 @@
 
 <p>In the Probate Court of Jefferson County Wash Terry</p>
 
-<p>In return Guardian ship of Nellie Moulton and Rosie Moulton Minors</p>
+<p>In re the Guardianship of Nellie Moulton and Rosie Moulton Minors</p>
 
 <p>Territory of Washington County of Jefferson } ss</p>
 
-<p>James Eaus  being duly sworn on oath says that Nellie Moulton aged 11 years and Rosie Moulton 10 year old have no legally appointed guardian.</p>
+<p>James Eaves  being duly sworn on oath says that Nellie Moulton aged 11 years and Rosie Moulton 10 year old have no legally appointed guardian.</p>
 
-<p>That they have no mother living that their father Robert Moulton is a hard drinking man and to that extent that he is wholly incompettent to have the care custody
+<p>That they have no mother living that their father Robert Moulton is a hard drinking man and to that extent that he is wholly incompetent to have the care custody
 
 1
 
@@ -155,29 +156,29 @@ or <unclear></unclear> of said minors. That for the last two years said minors h
 
 <p>That said father threatens to take said children from affiant and remove them elsewhere.</p>
 
-<p>That he has no house or place to take them to and it is necessary that a guardian should be appointed to look <unclear>of be</unclear> and take charge of them at <unclear></unclear></p>
+<p>That he has no house or place to take them to and it is necessary that a guardian should be appointed to look after and take charge of them at once</p>
 
-<p>That hey have no property that the father has no means to take care of them
+<p>That they have no property. That the father has no means to take care of them
 
 2
 
-nor is he a fir ot competen person to have their care or custody</p>
+nor is he a fit or competent person to have their care or custody</p>
 
 <p>Wherefore affiant prays that a guardian be appointed for said children at once and that affiant have an order of this court to keep them in his custody <del></del> for the present and temporarily until the further order of the court.</p>
 
-<p>Sunscribed and sworn to before me this 13th day of Nov. 1883</p>
-<p>James Eaus</p>
+<p>Subscribed and sworn to before me this 13th day of Nov. 1883</p>
+<p>James Eaves</p>
 
 
-<p>In the matter of <unclear>Gumde Milowf</unclear> of Moulton children</p>
+<p>In the matter of Guardianship of Moulton children</p>
 
-<p>Petition of James Eaus of <unclear></unclear></p>
+<p>Petition of James Eaves for Guardianship</p>
 
 <p>Nov 13/83</p>
 
 <p>Filed Nov 13/83</p>
-<p><unclear>J Jhoan Bohheh</unclear></p>
-<p>petition <unclear></unclear> <unclear></unclear> <unclear></unclear> <unclear></unclear></p>
+<p><unclear/></p>
+<p>petition <unclear/></p>
 
 </div1>
     
