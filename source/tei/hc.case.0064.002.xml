@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<title>Alexander S. Hughes et al. v. Lewis V. Wycoff. Response</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<title level="m" type="main">Alexander S. Hughes et al. v. Lewis V. Wycoff. Response</title>
 <date when="1875-05-15">May 15 1875</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>White W.H </term>
+<term>White, W. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term> King Washington </term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,31 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Hughes David, Hughes Alexander S, Brannan Joseph, Boyd James, and Hart David</persName>
+<persName>Hughes, David</persName>
+</person>
+<person role="petitioner">
+<persName>Hughes, Alexander S.</persName>
+</person>
+<person role="petitioner">
+<persName>Brannan, Joseph</persName>
+</person>
+<person role="petitioner">
+<persName>Boyd, James</persName>
+</person>
+<person role="petitioner">
+<persName>Hart, David</persName>
 </person>
 <person role="defendant">
-<persName>Wycoff Lewis V.(Territory of Washington)</persName>
+<persName>Wycoff, Lewis V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>J.R. Lewis</persName>
+<persName>Lewis, J. R.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +136,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2018-12" who="#lkw">reviewed; edited</change>      
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,25 +153,29 @@
 
 <p></p>
 
-<p> Territory of Washington </p>
-<p> County of King SS. </p>
+<p>Territory of Washington</p>
+<p>County of King SS.</p>
 
-<p> Territory of Washington </p>
-<p> v </p>
-<p> Alexander S Hughes David Hughes James Boyd David Hart and Joseph Brannan </p>
+<p>Territory of Washington</p>
+<p>v</p>
+<p>Alexander S Hughes David Hughes James Boyd David Hart and Joseph Brannan</p>
 
-<p> Defendants except to Sheriff return and say that <unclear></unclear> <unclear></unclear> he claims to hold them under said commitment the same is illegal. </p>
+<p>Defendants except to Sheriff return and say that notwithstanding he claims to hold them under said commitment the same is illegal.</p>
 
-<p> For that these defendants never threatened to destroy to injure and destroy the property of <sic> of </sic> Josiah Gellerson and Geroge Gellerson <del> as </del> in any way on the 5th day of May or at any other time infor which they were convicted and upon which said commitment was issued </p>
+<p>For that these defendants never threatened to destroy to injure and destroy the property <sic>of  of</sic>  Josiah Gellerson and Geroge Gellerson <del>as</del> in any way on the 5th day of May or at any other time upon which they were convicted and upon which said commitment was issued</p>
 
-<p> Alex S. Hughes David D. Hughes David Hart James Boyd Joseph Brannon </p>
+<p>Alex S. Hughes<lb/>
+David D. Hughes<lb/>
+David Hart<lb/>
+James Boyd<lb/>
+Joseph Brannon</p>
 
 
 
-<p> Subscribed and Sworn to before me this 15th day of May 1875 }</p>
-<p> WH White </p>
-<p> Notary Public </p>
-<p> W.T.</p>
+<p>Subscribed and Sworn to before me this 15th day of May 1875 }</p>
+<p>WH White</p>
+<p>Notary Public</p>
+<p>W.T.</p>
 
 </div1>
     

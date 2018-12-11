@@ -86,14 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Seary James</term>
-<term>Bende Bernna</term>
-<term>Smith D.S.</term>
-<term>Andrews L.B. </term>
+<term>Seavey, James</term>
+<term>Brown</term>
+<term>Smith, D. S.</term>
+<term>Andrews, L. B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -101,19 +101,31 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Hughes David, Hughes Alexander S, Brannan Joseph, Boyd James, and Hart David</persName>
+<persName>Hughes, David</persName>
+</person>
+<person role="petitioner">
+<persName>Hughes, Alexander S.</persName>
+</person>
+<person role="petitioner">
+<persName>Brannan, Joseph</persName>
+</person>
+<person role="petitioner">
+<persName>Boyd, James</persName>
+</person>
+<person role="petitioner">
+<persName>Hart, David</persName>
 </person>
 <person role="defendant">
-<persName>Wycoff Lewis V.(Territory of Washington)</persName>
+<persName>Wycoff, Lewis V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>J.R. Lewis</persName>
+<persName>Lewis, J. R.</persName>
 </person>
 </listPerson>
             
@@ -127,8 +139,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2018-12" who="#lkw">reviewed; edited</change>      
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,29 +156,29 @@
 
 <p></p>
 
-<p> No 117 </p>
+<p>No 117</p>
 
-<p> David Huges Et Al </p>
-<p> against </p>
-<p> Lewis V Wycoff Sheriff Kc </p>
+<p>David Huges et al</p>
+<p>against</p>
+<p>Lewis V Wycoff Sheriff &amp;c</p>
 
-<p> Writ of Habeas Corpus </p>
+<p>Writ of Habeas Corpus</p>
 
-<p> Filed May 15 1875 </p>
-<p>  James Seary Clerk </p>
-<p> By Bernna Bende  , Deputy </p>
+<p>Filed May 15 1875</p>
+<p>James Seary Clerk</p>
+<p>By <unclear/> Brown, Deputy</p>
 
 
 
-<p> To the Hon J.R. Lewis Chief Justice of the Supreme Court of Washington Territory and the Judge of the within named District Court. </p>
+<p>To the Hon J.R. Lewis Chief Justice of the Supreme Court of Washington Territory and the Judge of the within named District Court.</p>
 
-<p> The Undersigned Sheriff of King County Washington Territory to whom the within writ is issued do now make the following return to the same. to wit that said writ <unclear></unclear> my hands and knowledge on the 14th day of May AD 1875 and that I now have the persons named in said writ before your Honor to wit Alexander S Hughes David Hughes James Boyd David Hart and Joseph Brannen and that the cause of their detention by me is that I am the sheriff of said King County Washington Territory and the Keeper of the Jail of said County: and I detain them in my custody by virtue of a process commonly called a commitment issued by one D.S. Smith a Justice of the Peace of said county and to me directed and not by virtue of any other power or authority and a true copy of which said commitment is hereto attached and made a part of this return marked Exhibit "A" </p>
-<p> LV Wycoff </p>
-<p> Sheriff of <unclear></unclear></p>
+<p>The Undersigned Sheriff of King County Washington Territory to whom the within writ is issued do now make the following return to the same. to wit that said writ <unclear>came to</unclear> my hands and knowledge on the 14th day of May AD 1875 and that I now have the persons named in said writ before your Honor to wit Alexander S Hughes David Hughes James Boyd David Hart and Joseph Brannen and that the cause of their detention by me is that I am the sheriff of said King County Washington Territory and the Keeper of the Jail of said County: and I detain them in my custody by virtue of a process commonly called a commitment issued by one D.S. Smith a Justice of the Peace of said county and to me directed and not by virtue of any other power or authority and a true copy of which said commitment is hereto attached and made a part of this return marked Exhibit "A"</p>
+<p>LV Wycoff</p>
+<p>Sheriff of King <unclear>Co. W. T.</unclear></p>
 
-<p> Sworn and Subscribed to before me on this 15th day of May AD 1875 </p>
-<p> L.B. Andrews </p>
-<p> Clerk </p>
+<p>Sworn and Subscribed to before me on this 15th day of May AD 1875</p>
+<p>L.B. Andrews</p>
+<p>Clerk</p>
 
 </div1>
     

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<title>Alexander S. Hughes et al. v. Lewis V. Wycoff. Petitioners Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<title level="m" type="main">Alexander S. Hughes et al. v. Lewis V. Wycoff. Petitioners Being Sworn</title>
 <date when="1875-05-14">May 14 1875</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>White W.H </term>
+<term>White, W.H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,31 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Hughes David, Hughes Alexander S, Brannan Joseph, Boyd James, and Hart David</persName>
+<persName>Hughes, David</persName>
+</person>
+<person role="petitioner">
+<persName>Hughes, Alexander S.</persName>
+</person>
+<person role="petitioner">
+<persName>Brannan, Joseph</persName>
+</person>
+<person role="petitioner">
+<persName>Boyd, James</persName>
+</person>
+<person role="petitioner">
+<persName>Hart, David</persName>
 </person>
 <person role="defendant">
-<persName>Wycoff Lewis V.(Territory of Washington)</persName>
+<persName>Wycoff, Lewis V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>J.R. Lewis</persName>
+<persName>Lewis, J. R.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +136,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2018-12" who="#lkw">reviewed; edited</change>      
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,18 +151,21 @@
 
 <pb facs="hc.case.0064.004.001"/>
 
-<p></p>
 
-<p> Territory of Washington </p>
-<p> County of King </p>
+<p>Territory of Washington</p>
+<p>County of King</p>
 
-<p> David Hughes, Alexander S. Hughes Joseph Brannen James Boyd and David Hart on oath each for himself says that he has heard read the above petition that they are the petitioners named, that they know the contents of said petition and that the same is true as they verily believe </p>
-<p> David Hughes Alexander S Hughes Jos. Brannon James Boyd David Hart </p>
+<p>David Hughes, Alexander S. Hughes Joseph Brannen James Boyd and David Hart on oath each for himself says that he has heard read the above petition that they are the petitioners named, that they know the contents of said petition and that the same is true as they verily believe</p>
+<p>David Hughes<lb/>
+Alexander S Hughes<lb/>
+Jos. Brannon<lb/>
+James Boyd<lb/>
+David Hart</p>
 
-<p> Subscribed &amp; Sworn to before me this 14h day of May 1875 </p>
-<p> WH White </p>
-<p> Notary Public </p>
-<p> W.T. </p>
+<p>Subscribed &amp; Sworn to before me this 14h day of May 1875</p>
+<p>WH White</p>
+<p>Notary Public</p>
+<p>W.T.</p>
 
 </div1>
     
