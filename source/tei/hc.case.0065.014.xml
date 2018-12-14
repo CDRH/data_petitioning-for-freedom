@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Peter Nelson et al v. Lewis V Wycoff. Civil</title>
+<title>Peter Nelson et al. v. Lewis V. Wycoff. Wages Owed</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Peter Nelson et al v. Lewis V Wycoff. Civil</title>
-<date when="1000-01-01">Month D, YYYY</date>
+<title level="m" type="main">Peter Nelson et al. v. Lewis V. Wycoff. Wages Owed</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -98,16 +98,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Last, First</persName>
+<persName>Nelson, Peter</persName>
+</person>
+<person role="petitioner">
+<persName>Smith, W.</persName>
+</person>
+<person role="petitioner">
+<persName>Elsner, H.</persName>
+</person>
+<person role="petitioner">
+<persName>Whaley, C.</persName>
+</person>
+<person role="petitioner">
+<persName>Mattson, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Lundblad, Charles</persName>
+</person>
+<person role="petitioner">
+<persName>Coffey, Dennis</persName>
+</person>
+<person role="petitioner">
+<persName>Annir, Jacob</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -139,14 +160,11 @@
 
 <pb facs="hc.case.0065.014.001"/>
 
-<p></p>
+<p>Bark Gem of the Ocean Capt. L.E.Gray and owners </p>
 
-<p>Bark Bern of the Osean Cof!!</p>
-<p>L.E.Seg and owners </p>
+<p>To Peter Nelson &amp;C.</p>
 
-<p>To Peter Nelson</p>
-
-<p>To wages as seaman from April 8th to May 3d 1875 AD <unclear>45 for month</unclear>   $37.50</p>
+<p>To wages as seaman from April 8th to May 3d 1875 At 45 per month   $37.50</p>
 
 <p>Same</p>
 <p>To H Elsner        <unclear>&amp;c</unclear> $37.50</p>
@@ -168,7 +186,7 @@
 
 <p>Same</p>
 <p>To W Smith       " $37.50</p>
-<p>AMount             " $300.00</p>
+<p>Amount             " $300.00</p>
 
 </div1>
     

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Peter Nelson et al v. Lewis V Wycoff. Civil</title>
+<title>Peter Nelson et al. v. Lewis V. Wycoff. Charge</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Peter Nelson et al v. Lewis V Wycoff. Civil</title>
-<date when="1875-04-28">April 28 1875</date>
+<title level="m" type="main">Peter Nelson et al. v. Lewis V. Wycoff. Charge</title>
+<date when="1875-04-28">April 28, 1875</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Smith D.S.</term>
-<term>Andrews L.B. </term>
+<term>Smith, D. S.</term>
+<term>Andrews, L. B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,40 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Nelson Peter, Smith W, Elsner H, Whaley C, Mattson G, Lundblad Charles, Coffrey Dennis &amp; Annir Jacob</persName>
+<persName>Nelson, Peter</persName>
+</person>
+<person role="petitioner">
+<persName>Smith, W.</persName>
+</person>
+<person role="petitioner">
+<persName>Elsner, H.</persName>
+</person>
+<person role="petitioner">
+<persName>Whaley, C.</persName>
+</person>
+<person role="petitioner">
+<persName>Mattson, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Lundblad, Charles</persName>
+</person>
+<person role="petitioner">
+<persName>Coffey, Dennis</persName>
+</person>
+<person role="petitioner">
+<persName>Annir, Jacob</persName>
 </person>
 <person role="defendant">
 <persName>Wycoff Lewis V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>J.R. Lewis</persName>
+<persName>Lewis, Joseph R.</persName>
 </person>
 </listPerson>
             
@@ -155,7 +176,7 @@ Charles Lundblad Dennis Coffey Jacob Annir and to provide the named seamen with 
 <p>United States Commissioner</p>
 <p>Washington Territory</p>
 
-<p>May 3 1875 the foregoing return sworn to before me by L.Vb. Wycoff</p>
+<p>May 3 1875 the foregoing return sworn to before me by L.V. Wycoff</p>
 <p>L.B. Andrews</p>
 <p>Clerk</p>
 
