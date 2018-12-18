@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seo Kim v. Ah Chow. Sheriff Being Sworn.</title>
+<title>Seo Kim v. Chow. Sheriff Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seo Kim v. Ah Chow. Sheriff Being Sworn.</title>
+<title level="m" type="main">Seo Kim v. Chow. Sheriff Being Sworn</title>
 <date when="1874-01-23">January 23, 1874</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,14 +87,11 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Thornton, H. G.</term>
-<term>Ah Chow</term>
 <term>Andrews, L. B.</term>
-<term>Seo Kim</term>
-<term>Jacobs, O.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County (Wash)</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -102,10 +99,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Seo Kim</persName>
+<persName>Kim, Seo</persName>
 </person>
 <person role="defendant">
-<persName>Ah Chow</persName>
+<persName>Chow</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Higgins, D.</persName>
@@ -114,7 +111,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>jacobs, O.</persName>
+<persName>Jacobs, Orange</persName>
 </person>
 </listPerson>
             
@@ -128,7 +125,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-12" who="#lkw">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
@@ -142,23 +139,24 @@
 
 <pb facs="hc.case.0066.008.001"/>
 
-<p>Territory of Washington}</p>
-<p>King County}SS</p>
+<p>Territory of Washington}<lb/>
+King County} SS</p>
 
-<p>I H.G. Thornton upon oath do say, that I am the person named written to whom said writ was issued to be served one Ah Chow that I delivered said writ to him on the 23d day of January 1874 (<unclear/> <unclear/> the <unclear/> on the 21st day of Jany 1874) at the city of Seattle in said Territory</p>
+<p>I H.G. Thornton upon oath do say, that I am the person named within to whom said writ was issued to be served one Ah Chow that I delivered said writ to him on the 23d day of January 1874 (having reissued the same on the 21st day of Jany 1874) at the city of Seattle in said Territory</p>
+
 <p>H.G. Thornton</p>
 
 <p>Subscribed and Sworn to before me this 23d day of Jan 1874</p>
 <p>L.B. Andrews</p>
 <p>Clerk</p>
 
-<gap/>
+
 
 <p>In re Seo Kim</p>
 
 <p>Writ of Habeas Corpus</p>
 
-<p>At the request and at the writ of the <unclear/> named petitioners, I hereby authorize H.G. Thorton to <unclear/> return the within warrant</p>
+<p>At the request and at the writ of the within named petitioners, I hereby authorize H.G. Thorton to <unclear/> return the within warrant</p>
 <p>(signed) O. Jacobs</p>
 <p>Judge</p>
 

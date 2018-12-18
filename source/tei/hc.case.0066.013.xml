@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seo Kim v. Ah Chow. Han Lee Being Sworn.</title>
+<title>Seo Kim v. Chow. Han Lee Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seo Kim v. Ah Chow. Han Lee Being Sworn.</title>
+<title level="m" type="main">Seo Kim v. Chow. Han Lee Being Sworn</title>
 <date when="1874-01-21">January 21, 1874</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Han Lee</term>
-<term>Jacobs, O.</term>
+<term>Lee, Han</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County (Wash)</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,10 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Seo Kim</persName>
+<persName>Kim, Seo</persName>
 </person>
 <person role="defendant">
-<persName>Ah Chow</persName>
+<persName>Chow</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Higgins, D.</persName>
@@ -125,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2018-12" who="#lkw">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
@@ -142,8 +141,8 @@
 <p>Washington Territory}</p>
 <p>King County} SS</p>
 
-<p> Han Lee, the petitione above named being duly sworn, says that he has <del>filed</del> read the foregoing petition and knows the contents thereof and that the same are true.</p>
-<p><unclear/><unclear/></p>
+<p>Han Lee, the petitioner above named being duly sworn, says that he has <del>filed</del> read the foregoing petition and knows the contents thereof and that the same are true.</p>
+<p><unclear reason="hanzi signature"/><unclear reason="hanzi signature"/></p>
 
 <p>Subscribed &amp; Sworn to before me this 21st day of January 1874</p>
 <p>O Jacobs Judge &amp;c</p>
