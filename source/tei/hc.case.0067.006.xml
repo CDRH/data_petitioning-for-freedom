@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chin Chung. Certification from Judge.</title>
+<title>Territory of Washington v. Chin Chung. Certification from Judge</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Chin Chung. Certification from Judge.</title>
+<title level="m" type="main">Territory of Washington v. Chin Chung. Certification from Judge</title>
 <date when="1882-11-18">November 18, 1882</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,13 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Chin Chung</term>
-<term>Cann, T. H.</term>
-<term>McMaken</term>
+<term>Cann, Thomas H.</term>
+<term>McMicken, Maurice</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County (Wash)</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -100,13 +99,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Chin Chung</persName>
-</person>
-<person role="defendant">
 <persName></persName>
 </person>
+<person role="defendant">
+<persName>Chung, Chin</persName>
+</person>
 <person role="attorney_petitioner">
-<persName>Haines, J. C.</persName>
+<persName>Haines, John C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -126,7 +125,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-01" who="#lkw">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
@@ -140,17 +139,17 @@
 
 <pb facs="hc.case.0067.006.001"/>
 
-<p>Territory of Washington</p>
-<p>vs</p>
-<p>Chin Chung</p>
+<p>Territory of Washington<lb/>
+vs<lb/>
+Chin Chung</p>
 
-<p>I hereby certify that the foregoing &amp; written is and <unclear/> papers constitute a time and court transcript of all the entries in my Justice Docket relating to the said above entitled case together with all papers relating <unclear/> file a oath me  as Justice of the Peace and the whole thereof save and execpt the man in the case taken and <unclear/> to the Reporter McMaken and that the foregoing cost bill is correct as <unclear>certified</unclear> to by me</p>
+<p>I hereby certify that the foregoing &amp; written is and <unclear/> papers constitute a true and correct transcript of all the entries in my Justice Docket relating to the said above entitled case together with all papers relating <unclear/> file a oath me  as Justice of the Peace and the whole thereof save and except the man in the case taken and <unclear>submitted</unclear> by the Reporter McMicken and that the foregoing cost bill is correct as certified to by me</p>
 
 <p>Witness my hand and seal this the 18h day of Nov 1882</p>
 <p>THCann</p>
-<p>seal</p>
 <p>JP</p>
 
+<p>seal</p>
 </div1>
 
 </body>
