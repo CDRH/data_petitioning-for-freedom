@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>City of Seattle v.John McLaine. Criminal</title>
+<title>City of Seattle v. John McLaine. Conviction</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">City of Seattle v.John McLaine. Criminal</title>
+<title level="m" type="main">City of Seattle v. John McLaine. Conviction</title>
 <date when="1884-02-29"> February 29 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>City of Seattle</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>McLaine Jack</persName>
+<persName>McLaine, Jack</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>T.H. Cann</persName>
+<persName>Cann, Thomas H.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +124,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2019-01" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,15 +144,15 @@
 <p>United States of America.</p>
 
 <p>Territory of Washington, 
-County of King. City of Seattle.}SS.</p>
+County of King. City of Seattle.} SS.</p>
 
-<p>To the Marshal or any Polic Officer of the City of Seattle, and the Keeper of the Jail of said City of Seattle:</p>
+<p>To the Marshal or any Police Officer of the City of Seattle, and the Keeper of the Jail of said City of Seattle:</p>
 
 <p>Whereas, at a Justice's Court held at my office, in said county, for the trial of Jack McLane for the offense hereinafter stated, the said Jack McLane was convicted of having, on the 28 day of February 1884 in said county and city, committed the crime of vagrancy as set forth in a <sic>compalint</sic> on file and upon conviction, the said court did adjudge and determine that said Jack McLane should pay a fine of 10- dollars and . cent dollars costs, and stand committed until the same be paid: and whereas, the said Jack McLane has made default in the payment of the same. Therefore, you, the said Marshal or Police Officer, and said Keeper, are hereby commanded in the name of the United States forthwith to convey and deliver the said Jack McLane to the said keeper: and you, the said keeper, are hereby commanded to receive the said Jack McLane into your custody in said jail, and him there keep at hard labor for the space of 10 days, unless said fine and costs be sooner paid, or he shall thence be discharged by the course of law.</p>
 
 <p>Dated this 29th day of February 1884</p>
 
-<p>T.H. Cann <figure></figure></p>
+<p>T.H. Cann <figure><ab>Seal</ab></figure></p>
 <p>Justice of the Peace.</p>
 
 </div1>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>City of Seattle v.John McLaine. Criminal</title>
+<title>City of Seattle v. John McLaine. Charge of Vagrancy</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">City of Seattle v.John McLaine. Criminal</title>
-<date when="1884-02-28">February 28 1884</date>
+<title level="m" type="main">City of Seattle v. John McLaine. Charge of Vagrancy</title>
+<date when="1884-02-28">February 28, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>McCowan, D. L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>City of Seattle</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>McLaine Jack</persName>
+<persName>McLaine, Jack</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>T.H. Cann</persName>
+<persName>Cann, Thomas H.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +123,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2019-01" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,20 +139,19 @@
 
 <pb facs="hc.case.0069.001.001"/>
 
-<p></p>
 
-<p>#3747</p>
+<note type="curatorial">#3747</note>
 
-<p>City of Seattle</p>
-<p>vs</p>
-<p>Jack McLane Deft</p>
+<p>City of Seattle<lb/>
+vs<lb/>
+Jack McLane Deft</p>
 
 <p>February 28 1884</p>
 
-<p>a charge of vagrancy was this day made by D.L. McCowan the <unclear>deft</unclear> in court and gave his Bonds to appear on the 29h day of February and at that time came the <sic>Deftand</sic> pleaded not guilty. <sic>and and</sic> the case was called and writing was sworn and did Testify and the court being fully advised adjudged that the defendant is guilty as charged and he shall pay a fine of $10 and all cost this suit or action and shall stand committed until same be paid.</p>
+<p>a charge of vagrancy was this day made by D.L. McCowan the deft in court and gave his Bonds to appear on the 29h day of February and at that time came the Deft and pleaded not guilty. <sic>and and</sic> the case was called and witness was sworn and did Testify and the court being fully advised adjudged that the defendant is guilty as charged and he shall pay a fine of $10 and all cost of this suit or action and shall stand committed until same be paid.</p>
 <p>T.H. Cann J.P.</p>
 
-<p>I hereby certify that the aforesaid forgoing is a true account of the forgoing case as <unclear>Lewis</unclear> by his docket entires on Pg 72 of his Docket in this office</p>
+<p>I hereby certify that the aforesaid forgoing is a true account of the forgoing case as shown by his docket entries on Pg 72 of his Docket in this office</p>
 <p>T.H. Cann</p>
 <p>J.P</p>
 
