@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ah Foong v.William Murphy. Criminal</title>
+<title>Foong v. William Murphy. Application for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ah Foong v.William Murphy. Criminal</title>
-<date when="1886-01-19">January 19 1886</date>
+<title level="m" type="main">Foong v. William Murphy. Application for Writ of Habeas Corpus</title>
+<date when="1886-01-19">January 19, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lyon George G. </term>
+<term>Lyon, George G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Ah Foong</persName>
+<persName>Foong</persName>
 </person>
 <person role="defendant">
 <persName>Murphy William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Rasin &amp; Gilman</persName>
+<persName>Rasin</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman, L. C.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Hanford C.H.</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 <person role="judge">
-<persName>Roger S. Greene</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +126,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2019-01" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,11 +142,11 @@
 
 <pb facs="hc.case.0078.001.001"/>
 
-<p>#4784</p>
+<note type="curatorial">#4784</note>
 
 <p>In the District Court holding terms at Seattle, in King County, Washington Territory</p>
 
-<p>In the matter of the Application of Ah Foong for a Writ of Habeas Corpus} No. Applications for writ of Habeas Corpus</p>
+<p>In the matter of the Application of Ah Foong for a Writ of Habeas Corpus} No. <gap/> Applications for writ of Habeas Corpus</p>
 
 <p>To the Honorable Roger S. Greene Chief Justice of the Supreme Court of Washington Territory and Judge of the above entitled Court.</p>
 
@@ -153,21 +157,24 @@
 
 <p>II</p>
 <p>That the cause or pretense of said restraint according to the best knowledge and belief of this applicant is this, to wit: that said Ah Foong was accused of violating a certain pretended
+<pb/>
 
-ordinance of the City of Seattle known as Ordinance number Seven hundred and five (705) entitled "An Ordinance to license tax and regulate auctioners, hawkers and peddlers," and upon such accusation was arrested and tried before George G. Lyon Esq<del>uire</del> a Justice of the Peace in and for Seattle Precinct King County Washington Territory, and was by said Justice, convicted of a violation of said ordinance No 705 and sentenced to pay a fine of five dollars ($5.00)dollars and costs are acquiring to eleven &amp; 85=100 dollars ($11.85)</p>
+ordinance of the City of Seattle known as Ordinance number Seven hundred and five (705) entitled "An Ordinance to license tax and regulate auctioners, hawkers and peddlers," and upon such accusation was arrested and tried before George G. Lyon Esq<del>uire</del> a Justice of the Peace in and for Seattle Precinct King County Washington Territory, and was by said Justice, convicted of a violation of said ordinance No 705 and sentenced to pay a fine of five dollars ($5.00) dollars and costs are amounting to eleven &amp; 85=100 dollars ($11.85)</p>
 
-<p>That in default of the payment of said fine and costs, your petitioner has been committed by said Justice to the custody of said William Murphy, Acting Chief of Police of the City of Seattle by whom he is now unlawfully <del></del> imprisoned, detained, confined and restrained of his liberty <del></del> by reason of his <unclear>court case</unclear> and commitment as aforesaid</p>
-
+<p>That in default of the payment of said fine and costs, your petitioner has been committed by said Justice to the custody of said William Murphy, Acting Chief of Police of the City of Seattle by whom he is now unlawfully <del></del> imprisoned, detained, confined and restrained of his liberty <del></del> by reason of his conviction and commitment as aforesaid</p>
+<pb/>
 
 <p>III</p>
-<p>That said imprisonment, detention, confinement and restraint are illegal, and the illegality thereof consists <del></del> in this to wit that the said pretended Ordinance No 705, by virtue of which your petitioner was convicted and committed as aforesaid is un constitutional, illegal and void, for the reason that the said City of Seattle had not at the time of making said Ordinance, any power to make the same.</p>
+<p>That said imprisonment, detention, confinement and restraint are illegal, and the illegality thereof consists <del></del> in this to wit that the said pretended Ordinance No 705, by virtue of which your petitioner was convicted and committed as aforesaid is unconstitutional, illegal and void, for the reason that the said City of Seattle had not at the time of making said Ordinance, any power to make the same.</p>
 
-<p>That said pretended Ordinance is unequal in this operation; <unclear>oppresive</unclear> in restraint of trade and in contravention of comon rights and in opposition to the laws and treaties of the United States.</p>
+<p>That said pretended Ordinance is unequal in this operation; <unclear>oppressive</unclear> in restraint of trade and in contravention of common rights and in opposition to the laws and treaties of the United States.</p>
 
 <p>Wherefore your petitioner prays that a writ of habeas corpus may be granted, directed to the <del>sheriff</del> said William Murphy, acting Chief of Police of the City of Seattle commanding him to have the body of the said Ah Foong before your honor at a time and place specified to do and receive what shall
+<pb/>
 
+<fw>4</fw>
 then and there be considered by your honor concerning him, together with the time and cause of his, the said Ah Foong's detention, and said writ; and that he may be restored to liberty.</p>
-<p>Ah his <figure></figure> mark Foong</p>
+<p>Ah Foong his <unclear reason="hanzi signature"></unclear> mark</p>
 
 <p>Rasin &amp; Gilman</p>
 <p>Attys for Petitioner</p>
