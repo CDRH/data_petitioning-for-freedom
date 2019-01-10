@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gee Lee et al v. Malcolm Millan et al. Criminal</title>
+<title>Gee Lee, et al. v. Malcolm McMillan, et al. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gee Lee et al v. Malcolm Millan et al. Criminal</title>
+<title level="m" type="main">Gee Lee, et al. v. Malcolm McMillan, et al. Return</title>
 <date when="1886-02-07">February 7, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>E. Alexander</term>
-<term>Jo Alexander</term>
+<term>Alexander, E.</term>
+<term>Alexander, John</term>
+<term>Mitchell, John H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +100,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gee Lee et al</persName>
+<persName>Lee, Gee</persName>
 </person>
 <person role="defendant">
-<persName>Millan Malcolm et al</persName>
+<persName>McMillan, Malcolm</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Lee, Wan</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Roger S. Greene</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -124,9 +125,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc>     
+<change when="2019-01" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,13 +145,13 @@
 
 <p>In the matter of the restraint of Gee Lee and other Chinamen}</p>
 
-<p><unclear>Fort</unclear> return to the writ issued herein: E. Alexander says: I am Master of the Ship Queen of the Pacific that this day with an interpreter and the Sheriff of King County, I examined all of said Chinamen and found that each of said Chinamen were willing to go on said Ship except one, and that one I caused to be sent above. that I am not imprisoning any Chinamen on said ship, or retain <sic>any any</sic> persons thereon against their will. That I can not produce the bodies of said Chinamen in Court but can produce them on the Ocean Dock in Seattle at Seven oclock
-<pb></pb>
-A.M. on the 8th day of February 1886, and with the assistance of sifficient offficers can produce them in Court</p>
+<p><unclear>For to</unclear> return to the writ issued herein: E. Alexander says: I am Master of the Ship Queen of the Pacific that this day with an interpreter and the Sheriff of King County, I examined all of said Chinamen and found that each of said Chinamen were willing to go on said Ship except one, and that one I caused to be sent above. that I am not imprisoning any Chinamen on said ship, or retaining any persons thereon against their will. That I can not produce the bodies of said Chinamen in Court but can produce them on the Ocean Dock in Seattle at Seven oclock
+<pb/>
+A.M. on the 8th day of February 1886, and with the assistance of sufficient offficers can produce them in Court</p>
 <p>Jo Alexander</p>
 
 <p>Subscribed and sworn to before me this 7th day of February 1886.</p>
-<p><unclear>Juliut Oluil</unclear>chalk</p>
+<p>John H. Mitchell</p>
 <p>Notary Public in and for Washington Territory</p>
 
 </div1>
