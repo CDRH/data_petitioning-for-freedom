@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Yu Gum and Yu Hung v. Charles Henry. Criminal</title>
+<title>Yu Gum and Yu Hung v. Charles Henry. Application for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Yu Gum and Yu Hung v. Charles Henry. Criminal</title>
+<title level="m" type="main">Yu Gum and Yu Hung v. Charles Henry. Application for Writ of Habeas Corpus</title>
 <date when="1886-05-08">May 8, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>king Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Yu Gum and Yu Hung</persName>
+<persName>Gum, Yu</persName>
+</person>
+<person role="petitioner">
+<persName>Hung, Yu</persName>
 </person>
 <person role="defendant">
-<persName>Charles Henry</persName>
+<persName>Henry, Charles</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Roger S. Greene</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -123,9 +126,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<revisionDesc>   
+<change when="2019-01" who="#ka">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,11 +144,11 @@
 
 <p>In the District Court, holding terms at Seattle in King County, Washington Territory.</p>
 
-<p>#4882</p>
+<note type="curatorial">#4882</note>
 
 <p>In the matter of the application of Yu Gum and Yu Hung for a Writ of Habeas Corpus: No 4882</p>
 
-<p>It appearing by the petition of Yu Gum and Yu Hung (Chinawomen) that they the said Yu Gum and Yu Hung are unlawfully restrained of their liberty by one Charles Henry, Deputy U.S. Marshall of Washington Territory in the County jail of King County, Washington Territory, which petition states wherein said illegality of their restraint consists, and from which it appears that a writ of <sic>hapeas</sic> corpus ought to issue.</p>
+<p>It appearing by the petition of Yu Gum and Yu Hung (Chinawomen) that they the said Yu Gum and Yu Hung are unlawfully restrained of their liberty by one Charles Henry, Deputy U.S. Marshall of Washington Territory in the County jail of King County, Washington Territory, which petition states wherein said illegality of their restraint consists, and from which it appears that a writ of habeas corpus ought to issue.</p>
 
 <p>It is by me, Roger S. Greene, Judge of the above-entitiled Court, ordered that a writ of Habeas Corpus, under the seal of said Court, issue, directed to the said Charles Henry, Deputy Marshall as aforesaid, commanding him to have the bodies of said Yu Gum and Yu Hung before me in the Court Room of said Court, on the 11th day of May, A.D. 1886, at the hour of 2 o'clock P.M. of that day, to do and receive what shall then and there be considered concerning the said Yu Gum and Yu Hung, together with the time and cause of their detention, and that he have then and there said writ.</p>
 

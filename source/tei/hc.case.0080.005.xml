@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Yu Gum and Yu Hung v. Charles Henry. Criminal</title>
+<title>Yu Gum and Yu Hung v. Charles Henry. Reply</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Yu Gum and Yu Hung v. Charles Henry. Criminal</title>
+<title level="m" type="main">Yu Gum and Yu Hung v. Charles Henry. Reply</title>
 <date when="1886-05-08">May 8, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Yu Gum and Yu Hung</persName>
+<persName>Gum, Yu</persName>
+</person>
+<person role="petitioner">
+<persName>Hung, Yu</persName>
 </person>
 <person role="defendant">
-<persName>Charles Henry</persName>
+<persName>Henry, Charles</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Roger S. Greene</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#DJR">transcribed and encoded</change>
+<change when="2019-01" who="#ka">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#djr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,7 +150,7 @@
 
 <p>In reply to the command contained in the writtin "writ" of Habeas Corpus, I have to say that <sic>the the</sic> within named Yu Gum and Yu Hung were placed in my official custody on the 7th day of May 1886 on an "order" made by and delivered to me by Eben Smith Esq United State Commissioner for the 3rd Judicial District of Washington Territory.</p>
 
-<p>The said "Order" after reciting that it has been considered and adjudged that the said Yu Gum and Yu Hung are Chinese laborers unlawfully in the United States. Directs me the <unclear>said</unclear> Charles Henry as U.S. Marshall for W.T. to return the said Yu GUm and Yu Hung to British Columbia from where they came all of which will more fully appear by the attached copies of the orders referenced whereto is hereby made.</p>
+<p>The said "Order" after reciting that it has been considered and adjudged that the said Yu Gum and Yu Hung are Chinese laborers unlawfully in the United States. Directs me the said Charles Henry as U.S. Marshall for W.T. to return the said Yu GUm and Yu Hung to British Columbia from where they came all of which will more fully appear by the attached copies of the orders referenced whereto is hereby made.</p>
 
 <p>Respectfully submitted by</p>
 <p>By Charles Henry the said Deputy U.S. Marshall</p>
