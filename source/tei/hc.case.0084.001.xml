@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nan Oy by Ah Kam. Order Granting Writ of Habeas Corpus.</title>
+<title>Nan Oy by Kam. Order Granting Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Nan Oy by Ah Kam. Order Granting Writ of Habeas Corpus.</title>
+<title level="m" type="main">Nan Oy by Kam. Order Granting Writ of Habeas Corpus</title>
 <date></date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Nan Oy</term>
-<term>Ah Kam</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County (Wash)</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -102,7 +101,7 @@
 <persName>Nan Oy</persName>
 </person>
 <person role="petitioner">
-<persName>Ah Kam</persName>
+<persName>Kam</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -131,7 +130,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-01" who="#lkw">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
