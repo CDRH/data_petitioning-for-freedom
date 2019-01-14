@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ah Ken v. W.H. Pinkney</title>
+<title>AKen v. W. H. Pinkney. </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ah Ken v. W.H. Pinkney</title>
+<title level="m" type="main">Ken v. W. H. Pinkney. </title>
 <date when="1887-02-23"> Febuary 23, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,13 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Peterson Fred N.</term>
-<term>Seavey James</term>
-<term>Ludlen James P.</term>
+<term>Peterson, Fred N.</term>
+<term>Seavey, James</term>
+<term>Ludlow, James P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -100,19 +100,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Ah Ken</persName>
+<persName>Ken</persName>
 </person>
 <person role="defendant">
-<persName>Pinkney W.H.</persName>
+<persName>Pinkney, William H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>R.S. Greene</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -125,9 +125,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2019-01" who="#lkw">reviewed; edited</change>        
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,17 +141,17 @@
 
 <pb facs="hc.case.0082.005.001"/>
 
-<p>Territory of Washington}</p>
-<p>County of King}</p>
+<p>Territory of Washington}<lb/>
+County of King}</p>
 
 <p>W.H. Pinkney being first duly sworn on oath says that he has the within named Ah Ken in his custody by virtue of a judgement of conviction &amp; fine rendered by Justice G.A. Hill Seattle Precinct rendered &amp; commitment issued in <unclear></unclear> of said judgement</p>
 
-<p>February 1887</p>
+<p>January 1887</p>
 
-<p>W.H. Pinkney</p>
+<p>Wm. H. Pinkney</p>
 
 <p>Subscribed &amp; sworn to before me this 23 day of Feb 1887</p>
-<p>Fred N. Peterson</p>
+<p>Fred N. <unclear>Peterson</unclear></p>
 <p>Notary Public</p>
 <p>mark</p>
 
@@ -162,7 +163,7 @@
 <p>Filed</p>
 <p>Feb 23 1887</p>
 <p>James Seavey, Clerk.</p>
-<p>By James P Ludlen Deputy Clerk</p>
+<p>By James P Ludlow Deputy Clerk</p>
 
 </div1>
     
