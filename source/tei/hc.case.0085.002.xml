@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary LeFebvre v. T. LeFebvre. Civil</title>
+<title>Mary LeFebvre v. T. LeFebvre. Application for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mary LeFebvre v. T. LeFebvre. Civil</title>
+<title level="m" type="main">Mary LeFebvre v. T. LeFebvre. Application for Writ of Habeas Corpus</title>
 <date when="1888-02-21">February 21, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>LeFebvre Henry Luke</term>
+<term>LeFebvre, Henry Luke</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
-<term>Ellensburg Washington</term>
+<term>King County (Wash.)</term>
+<term>Ellensburg (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Mary LeFebvre</persName>
+<persName>LeFebvre, Mary</persName>
 </person>
 <person role="defendant">
-<persName>T. LeFebvre</persName>
+<persName>LeFebvre, T.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A. Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -125,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2019-01" who="#lkw">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -153,7 +154,8 @@
 
 <p>III</p>
 <p>That an action is now pending in the District Court of this Territory holding terms at Ellensburg, between your petitioner as plaintiff and her husband T. LeFebvre as defendant in which your petitioner seeks to attain a decree dissolving the bonds of matrimony existing between her and her said husband on the ground of neglect and refusal of her
-<pb></pb>
+<pb/>
+<fw>2</fw>
 said husband to make suitable provisions for his family and on the further ground of cruel treatment by her said husband of your petitioner. And petitioner in said action further asks that the care and custody of said minor child be awarded to her on the ground that her said husband is not a proper person to have the care and custody of said child.</p>
 
 <p>IV</p>
@@ -161,19 +163,21 @@ said husband to make suitable provisions for his family and on the further groun
 
 <p>V</p>
 <p>That after the commencement of said action and about six weeks ago said T. LeFebvre came to the restuarant in Ellensburg where petitioner was working and <del>forcibly</del> by force took said minor child from the custody of petitioner and since then has been traveling about the country with said minor child and said T. LeFebvre now has said child concealed
-<pb></pb>
+
+<pb/>
+<fw>3</fw>
 and confined in some place to petitioner unknown, in the city of Seattle</p>
 
 <p>VI</p>
 <p>That said T. LeFebvre is unable to properly care for said child and has since so taking said child neglected him and said child by reason of said neglect has contracted disease and is now as petitioner is informed sick and greatly in need of a mothers care. That said T. LeFebvre refuses to inform petitioner where said child is confined and concealed and refuses to allow petitioner to see said child</p>
 
 <p>VII</p>
-<p>That said T. LeFebvre is a man of violent and <unclear>ungruemable</unclear> temper and is shiftless and improvident and is not a proper person to have the custody of said child.</p>
+<p>That said T. LeFebvre is a man of violent and <unclear>ungovernable</unclear> temper and is shiftless and improvident and is not a proper person to have the custody of said child.</p>
 
 <p>VIII</p>
 <p>That petitioner believes that said T. LeFebvre so conceals and confines said child as a means of inducing petitioner to dismiss her said action for divorce</p>
 
-<p>Wherefore your petitioner prays a writ of habeas corpus to deliever said Henry Luke LeFebvre from the custody of said T. LeFebvre and that he be restored to the custody of petitioner</p>
+<p>Wherefore your petitioner prays a writ of habeas corpus to deliver said Henry Luke LeFebvre from the custody of said T. LeFebvre and that he be restored to the custody of petitioner</p>
 <p>Mary LeFebvre</p>
 
 </div1>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary LeFebvre v. T. LeFebvre. Civil</title>
+<title>Mary LeFebvre v. T. LeFebvre. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mary LeFebvre v. T. LeFebvre. Civil</title>
+<title level="m" type="main">Mary LeFebvre v. T. LeFebvre. Habeas Corpus</title>
 <date when="1888-02-21">February 21, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ledgerwood W E</term>
-<term>LeFebvre Henry Luke</term>
+<term>Ledgerwood, W. E.</term>
+<term>LeFebvre, Henry Luke</term>
+<term>Seavy, James</term>
+<term>Greene, Roger S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +101,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Mary LeFebvre</persName>
+<persName>LeFebvre, Mary</persName>
 </person>
 <person role="defendant">
-<persName>T. LeFebvre</persName>
+<persName>LeFebvre, T.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A. Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -124,9 +126,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<revisionDesc>   
+<change when="2019-01" who="#lkw">reviewed; edited</change>      
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,11 +142,10 @@
 
 <pb facs="hc.case.0085.001.001"/>
 
-<p>#5845</p>
+<note type="curatorial">#5845</note>
 
-<p>IN THE DISTRICT COURT,</p>
-
-<p>Of the Third Judicial District of Washington Territory, holding Terms at Seattle, for the Counties of King and Kitsap.</p>
+<p>IN THE DISTRICT COURT,<lb/>
+Of the Third Judicial District of Washington Territory, holding Terms at Seattle, for the Counties of King and Kitsap.</p>
 
 <p>HABEAS CORPUS.</p>
 
@@ -156,7 +158,7 @@
 <p>W E Ledgerwood <del>James Seavey,</del> Clerk.</p>
 <p>By <gap></gap> Deputy</p>
 
-<figure></figure>
+<figure><ab>Court Seal</ab></figure>
 
 </div1>
     
