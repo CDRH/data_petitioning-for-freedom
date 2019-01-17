@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title>Wong Sam et al. v. E. V. Rugar. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title level="m" type="main">Wong Sam et al. v. E. V. Rugar. Order</title>
 <date when="1888-04-13">April 13, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wong Sam Foke Ge Ah Moke Chin Sam Ah Zee and Wong Hing</persName>
+<persName>Sam, Wong</persName>
+</person>
+<person role="petitioner">
+<persName>Gee, Foke</persName>
+</person>
+<person role="petitioner">
+<persName>Moke</persName>
+</person>
+<person role="petitioner">
+<persName>Sam, Chin</persName>
+</person>
+<person role="petitioner">
+<persName>Zee</persName>
+</person>
+<person role="petitioner">
+<persName>Hing, Wong</persName>
 </person>
 <person role="defendant">
-<persName>E.V. Rugar</persName>
+<persName>Rugar, E. V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ah Quong, Richard Osborn</persName>
+<persName>Quong</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Osborn, Richard</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Chas F. Manday</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -124,6 +142,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2019-01" who="#lkw">reviewed; edited</change>  
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -138,14 +157,14 @@
 
 <pb facs="hc.case.0087.005.001"/>
 
-<p>Territory of Washington</p>
-<p>County of King}SS</p>
+<p>Territory of Washington<lb/>
+County of King} SS</p>
 
 <p>In the District Court holding terms at Seattle</p>
 
-<p>In the matter of the application of Wong Sam Foke Gee Ah Moke Chin Sam Ah Zee and Wong Hing for writ of Habeas Corpus }No 5911</p>
+<p>In the matter of the application of Wong Sam Foke Gee Ah Moke Chin Sam Ah Zee and Wong Hing for writ of Habeas Corpus } No 5911</p>
 
-<p>Now on this 13th day of April A.D. 1888 this cause comes on to be heard on the <unclear>Decumres</unclear> of Petitioners to the return of E.V. Rugar to the writ of Habeas Corpus on file herein Petitioners being present in person and by their attorney Richard Osborne Esq and Respondent present by Chas F. Manday Esq assistant US Attorney after hearing the argument of respective counsel and being fully advised in the premises the Court sustains said <unclear>Decumers</unclear> and orders that Petitioners be discharged from custody</p>
+<p>Now on this 13th day of April A.D. 1888 this cause comes on to be heard on the Demurrer of Petitioners to the return of E.V. Rugar to the writ of Habeas Corpus on file herein Petitioners being present in person and by their attorney Richard Osborne Esq and Respondent present by Chas F. Manday Esq assistant US Attorney after hearing the argument of respective counsel and being fully advised in the premises the Court sustains said Demurrers and orders that Petitioners be discharged from custody</p>
 
 <p>RA Jones</p>
 <p>Judge</p>

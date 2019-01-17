@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title>Wong Sam et al. v. E. V. Rugar. Quong Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title level="m" type="main">Wong Sam et al. v. E. V. Rugar. Quong Being Sworn</title>
 <date when="1888-04-10">April 10, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wong Sam Foke Ge Ah Moke Chin Sam Ah Zee and Wong Hing</persName>
+<persName>Sam, Wong</persName>
+</person>
+<person role="petitioner">
+<persName>Gee, Foke</persName>
+</person>
+<person role="petitioner">
+<persName>Moke</persName>
+</person>
+<person role="petitioner">
+<persName>Sam, Chin</persName>
+</person>
+<person role="petitioner">
+<persName>Zee</persName>
+</person>
+<person role="petitioner">
+<persName>Hing, Wong</persName>
 </person>
 <person role="defendant">
-<persName>E.V. Rugar</persName>
+<persName>Rugar, E. V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ah Quong, Richard Osborn</persName>
+<persName>Quong</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Osborn, Richard</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -123,7 +141,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>      
+<change when="2019-01" who="#lkw">reviewed; edited</change>     
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -145,7 +164,7 @@
 
 <p>Ah Quong</p>
 
-<p>Subscribed and sworn to before me this10th day of April 1888</p>
+<p>Subscribed and sworn to before me this 10th day of April 1888</p>
 <p>Richard Osborn</p>
 <p>Notary Public</p>
 

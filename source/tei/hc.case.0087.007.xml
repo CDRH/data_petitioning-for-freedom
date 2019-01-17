@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title>Wong Sam et al. v. E. V. Rugar. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wong Sam et al v. E.V. Rugar. Criminal</title>
+<title level="m" type="main">Wong Sam et al. v. E. V. Rugar. Return</title>
 <date when="1888-04-13">April 13, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Brooks, Quincy A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wong Sam Foke Ge Ah Moke Chin Sam Ah Zee and Wong Hing</persName>
+<persName>Sam, Wong</persName>
+</person>
+<person role="petitioner">
+<persName>Gee, Foke</persName>
+</person>
+<person role="petitioner">
+<persName>Moke</persName>
+</person>
+<person role="petitioner">
+<persName>Sam, Chin</persName>
+</person>
+<person role="petitioner">
+<persName>Zee</persName>
+</person>
+<person role="petitioner">
+<persName>Hing, Wong</persName>
 </person>
 <person role="defendant">
-<persName>E.V. Rugar</persName>
+<persName>Rugar, E. V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ah Quong, Richard Osborn</persName>
+<persName>Quong</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Osborn, Richard</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Chas F. Manday</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -123,7 +141,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>      
+<change when="2019-01" who="#lkw">reviewed; edited</change>     
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -138,22 +157,24 @@
 
 <pb facs="hc.case.0087.007.001"/>
 
-<p>United States of America}</p>
-<p>Territory of Washington}</p>
-<p>3rd Judicial District}SS</p>
+<p>United States of America}<lb/>
+Territory of Washington}<lb/>
+3rd Judicial District} SS</p>
 
 <p>Comes now E.V. Rugar and makes return to the writ of Habeas Corpus hereto attached and to him directed and says:</p>
 
-<p>I have in my custody the persons named in said writ <unclear>viz</unclear>: Wong Sam Foke Gee Ah Moke Chin Sam Ah Zee Wong Hing</p>
+<p>I have in my custody the persons named in said writ viz: Wong Sam Foke Gee Ah Moke Chin Sam Ah Zee Wong Hing</p>
 
-<p>Said six persons are Chinese persons not lawfully entitled to enter or remain in the United States under te provisions of the Act of Congress of July 5th 1884 Entitled "An Act to amend an Eact entitled "an Act to Execute certain treaty stipulations relating to Chinese approved May 6th 1882"</p>
+<p>Said six persons are Chinese persons not lawfully entitled to enter or remain in the United States under the provisions of the Act of Congress of July 5th 1884 Entitled "An Act to amend an act entitled "an Act to Execute certain treaty stipulations relating to Chinese approved May 6th 1882"</p>
 
 <p>Said six persons on towit April 10th 1888 at the Port of Port Townsend in the Collection District of Puget Sound in Washington Territory did attempt to enter the United States by water on board the steamer "Premier" not being then &amp; there lawfully entitled
-<pb></pb>
-under said act of Congress of 5th July 1884 to enter said United States and at said Port at the day aforesaid Quincey A Brooks Collector of Customs for said Collection District did refuse to allow said six Chinese persons to land in the United States and did order and require the officers of said Steamer "Premier" to return said six persons to the country from which they came towit to the Province of British Colombia and to enforce said order. commanded me as Inspector of Customs for said District to proceed on said steamer &amp; to keep said six Chinese persons in my custody on board said steamer until they were landed in said Province of British Colombia. and by virtue of the obedience to said command that said six Chinese persons in my custody at the time of the service of said writ of Habeas Corpus upon me.</p>
+
+<pb/>
+under said act of Congress of 5th July 1884 to enter said United States and at said Port at the day aforesaid Quincy A Brooks Collector of Customs for said Collection District did refuse to allow said six Chinese persons to land in the United States and did order and require the officers of said Steamer "Premier" to return said six persons to the country from which they came towit to the Province of British Columbia and to enforce said order. commanded me as Inspector of Customs for said District to proceed on said steamer &amp; to keep said six Chinese persons in my custody on board said steamer until they were landed in said Province of British Columbia. and by virtue of the obedience to said command that said six Chinese persons in my custody at the time of the service of said writ of Habeas Corpus upon me.</p>
 
 <p>And I further return that by virtue of said order &amp; command I now have said six Chinese
-<pb></pb>
+
+<pb/>
 persons in my custody. and as commanded in said writ of Habeas Corpus I now have their bodies here in Court.</p>
 
 <p>Dated at Seattle W.T. this April 13th 1888</p>
