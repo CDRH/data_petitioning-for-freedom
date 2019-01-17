@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jennie Miller Powers v. Mary Elizabeth Miller and R.J. Miller. Civil</title>
+<title>Jennie Miller Powers v. Mary Elizabeth Miller and R. J. Miller. Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jennie Miller Powers v. Mary Elizabeth Miller and R.J. Miller. Civil</title>
+<title level="m" type="main">Jennie Miller Powers v. Mary Elizabeth Miller and R. J. Miller. Decision</title>
 <date when="1888-05-12">May 12,1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ledgerwood, W. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,31 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Jennie Miller Powers</persName>
+<persName>Powers, Jennie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Mary Miller</persName>
+<persName>Miller, Mary Elizabeth</persName>
+</person>
+<person role="defendant">
+<persName>Miller, R. J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Hall, J. M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Littell, Thomas T.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Smith, Eben</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Gilman, Luthene Claremont</persName>
 </person>
 <person role="judge">
-<persName>Richard A. Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -124,6 +136,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2019-01" who="#lkw">reviewed; edited</change>   
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -138,18 +151,19 @@
 
 <pb facs="hc.case.0086.010.001"/>
 
-<p>Territory of Washington</p>
-<p>3d Judicial District}SS</p>
+<p>Territory of Washington<lb/>
+3d Judicial District} SS</p>
 
 <p>In the District Court holding terms at Seattle in King County.</p>
 
-<p>In the matter of the application of Jennie Miller Powers for <del></del> Writ of Habeas Corpus</p>
-<p>vs.</p>
-<p>Mary Elizabeth Miller and R.J. Miller her husband</p>
-<p>}No. 5902</p>
+<p>In the matter of the application of Jennie Miller Powers for <del></del> Writ of Habeas Corpus<lb/>
+vs.<lb/>
+Mary Elizabeth Miller and R.J. Miller her husband<lb/>
+} No. 5902</p>
 
-<p>This matter having been adjorned from time to time, <del>Now on</del> now on this 12th day of May, 1888, the same comes on to be heard upon the allegations and proofs of the parties and the arguments of counsel, J.M. Hall, <unclear>Eber Innith</unclear> and J.T. Littell, Esquires appearing for the applicant <del>and</del> Jennie Miller Powers and <unclear>Messes</unclear> Lewis &amp; Gilman appearing for the respondents Mary Elizabeth Miller and R.J. Miller, her husband, and the Court being freely advised in the premises it is now by the court held considered and adjudged that the infant Mary Alice Powers be deliever into the care and custody of her mother, towit: the said Jennie Miller Powers and that said Jennie Miller Powers hereafter have the exclusive care, control and custody of the said infant the said Mary Alice Powers. And now the said
-<pb></pb>
+<p>This matter having been adjorned from time to time, <del>Now on</del> now on this 12th day of May, 1888, the same comes on to be heard upon the allegations and proofs of the parties and the arguments of counsel, J.M. Hall, Eben Smith and J.T. Littell, Esquires appearing for the applicant <del>and</del> Jennie Miller Powers and Messrs Lewis &amp; Gilman appearing for the respondents Mary Elizabeth Miller and R.J. Miller, her husband, and the Court being freely advised in the premises it is now by the court held considered and adjudged that the infant Mary Alice Powers be delivered into the care and custody of her mother, towit: the said Jennie Miller Powers and that said Jennie Miller Powers hereafter have the exclusive care, control and custody of the said infant the said Mary Alice Powers. And now the said
+
+<pb/>
 Mary Alice Powers is in open Court delievered into the custody of the said Jennie Miller Powers. And it is now further considered and adjudged by the Court <del>now</del> here that the applicant herein the said Jennie Miller Powers do have and recover of and from the respondents herein the said Mary Elizabeth Miller and <del>her</del>R.J. Miller her husband or either of them the costs and disbursements of this proceeding taxed at fifty four dollars and ten cents and that Execution issue therefor.</p>
 
 <p>T 208</p>
