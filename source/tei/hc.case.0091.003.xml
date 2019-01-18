@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Catherine &amp; Thomas Gilbert v. William Cochoran. Criminal</title>
+<title>Catherine &amp; Thomas Gilbert v. William Cochrane. Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Catherine &amp; Thomas Gilbert v. William Cochoran. Criminal</title>
+<title level="m" type="main">Catherine &amp; Thomas Gilbert v. William Cochrane. Commitment</title>
 <date when="1888-05-03">May 3, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>N. Soderberg</term>
+<term>Soderberg, N.</term>
 <term>Thornton, H. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Catherine &amp; Thomas Gilbert</persName>
+<persName>Gilbert, Catherine</persName>
+</person>
+<person role="petitioner">
+<persName>Gilbert, Thomas</persName>
 </person>
 <person role="defendant">
-<persName>William Cochoran</persName>
+<persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Richard Osborn</persName>
+<persName>Osborn, Richard</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Richard A Jones</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
@@ -124,7 +127,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>    
+<change when="2019-01" who="#lkw">reviewed; edited</change>        
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -143,7 +147,7 @@
 
 <p>Before N. Soderberg, Justice of the Peace.</p>
 
-<p>Territory of Washington, Plaintiff vs. Thomas Gilbert Defendant. ) C O M M I T M E N T.</p>
+<p>Territory of Washington, Plaintiff vs. Thomas Gilbert Defendant. ) COMMITMENT.</p>
 
 <p>UNITED STATES OF AMERICA</p>
 
