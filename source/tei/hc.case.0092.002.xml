@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ed Olson et al. v. John Sheehan. Criminal</title>
+<title>Ed Olson, et al. v. John Sheehan. John L. McLarean Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ed Olson et al. v. John Sheehan. Criminal</title>
+<title level="m" type="main">Ed Olson, et al. v. John Sheehan. John L. McLarean Being Sworn</title>
 <date when="1888-11-22">November 22, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>McLarean, John L.</term>
+<term>Ledgerwood, W. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>Jefferson County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +99,43 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Ed Olson, Harry Simpson, William Totterman, William Darrin, John Dohran, Frank Kaff, Thomas Stuart and G. FitzGerald</persName>
+<persName>Olson, Ed</persName>
+</person>
+<person role="petitioner">
+<persName>Simpson, Harry</persName>
+</person>
+<person role="petitioner">
+<persName>Totterman, William</persName>
+</person>
+<person role="petitioner">
+<persName>Darrin, William</persName>
+</person>
+<person role="petitioner">
+<persName>Dohran, John</persName>
+</person>
+<person role="petitioner">
+<persName>Kaff, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Stuart, Thomas</persName>
+</person>
+<person role="petitioner">
+<persName>FitzGerald, G.</persName>
 </person>
 <person role="defendant">
-<persName>John Sheehan</persName>
+<persName>Sheehan, John T.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Leeves and Gilman</persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman, L. C.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>J.J. Calhoun</persName>
+<persName>Calhoun, J. J.</persName>
 </person>
 <person role="judge">
-<persName>Charles E. Boyle</persName>
+<persName>Boyle, Charles E.</persName>
 </person>
 </listPerson>
             
@@ -124,6 +149,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2019-01" who="#lkw">reviewed; edited</change> 
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
@@ -143,10 +169,10 @@
 
 <p>Personally appeared before me John L. McClaren onbehalf of the petitioners herein, having first been duly sworn on oath deposes and says, that he knows the petitioners herein has read the foregoing petition, and believes the same to be true.</p>
 
-<p><unclear>Joll Laren</unclear></p>
+<p>J McLarean</p>
 
 <p>Subscribed and sworn to before me this 22nd day of Nov A.D. 1888.</p>
-<p><del>Jas camie Cor Leeves Notary Public in and for Washington Territory</del> W.E. Ledgewood Clerk Dist Court</p>
+<p><del><unclear/> Notary Public in and for Washington Territory</del> W.E. Ledgewood Clerk Dist Court</p>
 
 </div1>
     
