@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leo Sun  v. T. J. Hamilton (U.S.). Criminal</title>
+<title>Leo Sun v. Thomas J. Hamilton. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leo Sun  v. T. J. Hamilton (U.S.). Criminal</title>
+<title level="m" type="main">Leo Sun v. Thomas J. Hamilton. Writ of Habeas Corpus</title>
 <date when="1889-06-04">June 4, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hopkins, R. M.</term>
+<term>Hannon, Harvey T.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +99,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Leo Sun</persName>
+<persName>Sun, Leo</persName>
 </person>
 <person role="defendant">
-<persName>T. J. Hamilton (U.S.)</persName>
+<persName>Hamilton, Thomas J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>C. H. Hanford</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -124,6 +125,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2019-02" who="#lkw">reviewed; edited</change>  
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
