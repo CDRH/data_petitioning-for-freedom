@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>United States of America et al. v.Wa Kim. Criminal</title>
+<title>Wa Kim, et al. v. Thomas J. Hamilton. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">United States of America et al. v.Wa Kim. Criminal</title>
+<title level="m" type="main">Wa Kim, et al. v. Thomas J. Hamilton. Habeas Corpus</title>
 <date when="1889-06-25">June 25, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>HT. Hannon</term>
-<term>RM Hopkins</term>
+<term>Hannon, Harvey T.</term>
+<term>Hopkins, R. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -99,19 +99,67 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>United States of America</persName>
+<persName>Ding, On</persName>
+</person>
+<person role="petitioner">
+<persName>Sing</persName>
+</person>
+<person role="petitioner">
+<persName>Sam</persName>
+</person>
+<person role="petitioner">
+<persName>Lam</persName>
+</person>
+<person role="petitioner">
+<persName>Kim, Wa</persName>
+</person>
+<person role="petitioner">
+<persName>Pin, Lee</persName>
+</person>
+<person role="petitioner">
+<persName>Cheong, Gin</persName>
+</person>
+<person role="petitioner">
+<persName>Fong, Wong</persName>
+</person>
+<person role="petitioner">
+<persName>Boy, Wong</persName>
+</person>
+<person role="petitioner">
+<persName>Ching</persName>
+</person>
+<person role="petitioner">
+<persName>Ching</persName>
+</person>
+<person role="petitioner">
+<persName>Goon, Han</persName>
+</person>
+<person role="petitioner">
+<persName>Jin</persName>
+</person>
+<person role="petitioner">
+<persName>Jin</persName>
+</person>
+<person role="petitioner">
+<persName>Gong</persName>
+</person>
+<person role="petitioner">
+<persName>Ga, Won</persName>
+</person>
+<person role="petitioner">
+<persName>Wee, Suey</persName>
 </person>
 <person role="defendant">
-<persName>On Ding, Ah Suig, Ah Sam No 2, Ah Sam, Wa Kim, Lee Pin, Gin Cheong, Wong Fong, Wong Boy, Ah Ching No. 1, Ah Ching No. 2, Han Goon, Ah Jin No. 1, Ah Jin No. 2, Ah Gong, Won Ga, and Suey Wee</persName>
+<persName>Hamilton, Thomas J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>William H White</persName>
+<persName>White, William H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>J. A. Stratton</persName>
+<persName>Stratton, J. A.</persName>
 </person>
 <person role="judge">
-<persName>C. H. Hanford</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -125,6 +173,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2018-02" who="#lkw">reviewed; edited</change> 
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
