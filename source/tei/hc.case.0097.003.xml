@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Kai v. John H. McGraw. Criminal</title>
+<title>George Kai v. John H. McGraw. Recognizance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">George Kai v. John H. McGraw. Criminal</title>
+<title level="m" type="main">George Kai v. John H. McGraw. Recognizance</title>
 <date when="1889-07-03">July 3, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,7 +90,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King Washington</term>
+<term>King County (Wash.)</term>
 </keywords>
 
 </textClass>
@@ -98,19 +98,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Kai</persName>
+<persName>Kai, George</persName>
 </person>
 <person role="defendant">
-<persName>John H. McGraw</persName>
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>C. H. Hanford</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -124,8 +124,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#KA">reviewed; edited</change>
-<change when="2018-06" who="#NRL">transcribed and encoded</change>
+<change when="2019-02" who="#lkw">reviewed; edited</change>
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,7 +147,7 @@
 
 <p>The Territory of Washington, -vs- George Kai. No. 6849. Recognizance.</p>
 
-<p>Nowon this 3rd day of July 188, comes the said defendant, George Kai before the Judge in Chambers, and acknowledges himself to owe the Territory of Washington the sum of Three Hundred Dollars and for the payment thereof binds himself, his heirs, executors and admiinistrators; and consents that the same be levied of his lands, goods, chattels and effects. Conditioned that if he the said George Kai now before the Court, who has been held to await the action of the <sic>Jrand</sic> Jury at the May term, 1889, of this Court for the crime of an assault with a deadly weapon, shall appear to answer said charge before this Court on the 26th day of August, 1889, at ten o'clock A.M., and from day to day, and term to term thereafter until he shall be discharged, and abide by and obey all orders of the Court, and <del>without</del> not depart without leave, this obligation shall be void: Otherwise the same to be of full force and virtue.</p>
+<p>Nowon this 3rd day of July 188, comes the said defendant, George Kai before the Judge in Chambers, and acknowledges himself to owe the Territory of Washington the sum of Three Hundred Dollars and for the payment thereof binds himself, his heirs, executors and administrators; and consents that the same be levied of his lands, goods, chattels and effects. Conditioned that if he the said George Kai now before the Court, who has been held to await the action of the <choice><sic>Jrand</sic><corr>Grand</corr></choice> Jury at the May term, 1889, of this Court for the crime of an assault with a deadly weapon, shall appear to answer said charge before this Court on the 26th day of August, 1889, at ten o'clock A.M., and from day to day, and term to term thereafter until he shall be discharged, and abide by and obey all orders of the Court, and <del>without</del> not depart without leave, this obligation shall be void: Otherwise the same to be of full force and virtue.</p>
 
 </div1>
     
