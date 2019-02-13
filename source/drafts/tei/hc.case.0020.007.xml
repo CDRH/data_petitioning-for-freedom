@@ -1,5 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0020.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Clark, Michael, and Anson v. Henry Mitchell, Henry Russell and Elijah Mitchell. Case Description</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0020.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Clark, Michael, and Anson v. Henry Mitchell, Henry Russell and Elijah Mitchell. Case Description</title>
+<date when="1832-07">July 1832</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1832-07">July 1832</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Michael</term>
+<term>Mitchell, Henry</term>
+<term>Russell, Henry</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>St. Louis Circuit Court</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Michael</persName>
+</person>
+<person role="petitioner">
+<persName>Clark, William</persName>
+</person>
+<person role="petitioner">
+<persName>Anson</persName>
+</person>
+<person role="defendant">
+<persName>Mitchell, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Russell, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Mitchell, Elijah</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Foreman, Stephen W</persName>
+</person>
+<person role="judge">
+<persName>Carr, William C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Circuit Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nrl">transcribed</change>
+<change when="2019" who="sab">encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0020.007"/>
+
 <p> No 56 </p>
 <p> StLouis Circuit Court </p>
 <p> July Term 1832 </p>
@@ -7,3 +158,9 @@
 <p> Michael </p>
 <p> vs </p>
 <p> Henry G Mitchell &amp; Henry C Russel } order for hiring out </p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
