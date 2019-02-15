@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0020.001">
     
@@ -140,7 +141,7 @@
         
 <revisionDesc>         
 <change when="2018" who="nrl">transcribed</change>
-<change when="2019" who="sab">encoded</change>
+<change when="2019" who="sab">encoded, edited transcription</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,7 +155,7 @@
 <pb facs="hc.case.0020.011"/>
 
 <p> No 48 </p>
-<p> Jefferson <unclear> Saint Louis</unclear> Circuit Court </p> <!-- Saint Louis is striked out. -->
+<p> Jefferson <unclear> Saint Louis</unclear> Circuit Court </p> <!-- Saint Louis is struck out. -->
 <p> July Term 1832 </p>
 
 <p> Michael a boy of color </p>
@@ -174,7 +175,7 @@ upon process </p>
 Archibald Gamble Clerk </fw>
 
 <p> <unclear>Filed May 25th 1832</unclear> </p> <!-- filed May 25tg 1832 is striked out. -->
-<p> <unclear>C Smith clerk</unclear> </p> <!-- C Smith clerk is striked out. -->
+<p> <unclear>C Smith clerk</unclear> </p> <!-- C Smith clerk is struck out. -->
 
 
 </div1>
