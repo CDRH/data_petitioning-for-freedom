@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0023.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0023.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Rolla Rose. Cover</title>
+<title>MO v. Rolla Rose. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0023.001</idno>
+<idno type="project">oscys.case.0023.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Rolla Rose. Cover</title>
-<date when="1825-05-09">May 9, 1825</date>
+<title level="m" type="main">MO v. Rolla Rose. Writ of Habeas Corpus</title>
+<date when="1825-04-25">April 25, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -86,6 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Archibald Gamble Clerk</term>
 <term>Hannah</term>
 <term>Rose, Rolla</term>
 <term>Sarah</term>
@@ -93,6 +94,8 @@
 
 <keywords scheme="lcsh" n="places"> 
 <term>St. Louis Circuit Court</term>
+<term>Missouri</term>
+<term>St. Louis County</term>
 </keywords>
 
 </textClass>
@@ -138,7 +141,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0023.001"/>
+<pb facs="hc.case.0023.002"/>
 
 <p> County of St Louis <unclear></unclear> </p>
 <p> The State of Missouri </p>
@@ -155,7 +158,7 @@ of this <unclear> unit </unclear>, then and there to do and <unclear></unclear> 
 said court in this behalf shall consider and have 
 you then there this <unclear> unit </unclear> </p>
 
-<p> Witness Archibald <unclear> Gambb </unclear>Clerk 
+<p> Witness Archibald Gamble Clerk 
 of our said court this 23rd day
 of April 1823 </p>
 
@@ -173,7 +176,7 @@ them, in his custody or power </p>
 <p> Sworn to <unclear> and duly scribed </unclear> in 
 <unclear></unclear> Court May 9th 1825 </p>
 <p> Rolla Rose </p>
-<p> A Gambb Clerk </p>
+<p> A Gamble Clerk </p>
 
 <p> To Rolla Rose </p>
 <p> Habeas Corpus </p>
