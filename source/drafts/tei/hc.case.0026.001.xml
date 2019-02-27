@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>State v. Plackett and Wife. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">State v. Plackett and Wife. Cover</title>
 <date when="1825-11">November 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -97,27 +97,27 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
-<person role="petitioner">
-<persName>PLackett, John</persName>
-</person>
-<person role="petitioner">
-<persName>PLackett, May</persName>
+<listPerson>     
+<person role="petitioner">       
+<persName>State</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Plackett, John</persName>
+</person>
+<person role="defendant">
+<persName>Plackett, May</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Arthor S.</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Arthor, S.</persName>
 </person>
 <person role="judge">
-<persName>Peter Jerguson</persName>
+<persName>Peter Ferguson</persName>
 </person>
 </listPerson>
-            
+
 <listOrg>
 <org>
 <orgName>St. Louis Circuit Court</orgName>
