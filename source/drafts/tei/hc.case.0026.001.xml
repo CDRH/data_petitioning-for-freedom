@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>State v. Plackett and Wife. Cover</title>
+<title>Plackett and Wife v. State. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">State v. Plackett and Wife. Cover</title>
+<title level="m" type="main">Plackett and Wife v. State. Cover</title>
 <date when="1825-11">November 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,7 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Lucy</term>
+<term>Plackett, John</term>
+<term>Plackett, May</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -99,19 +101,19 @@
 <particDesc>   
 <listPerson>     
 <person role="petitioner">       
-<persName>State</persName>
-</person>
-<person role="defendant">
 <persName>Plackett, John</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
+<person role="defendant">
+<persName>State</persName>
+</person>
 <person role="attorney_petitioner">
-<persName/>
+<persName>S., Arthur</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Arthor, S.</persName>
+<persName/>
 </person>
 <person role="judge">
 <persName>Peter Ferguson</persName>
