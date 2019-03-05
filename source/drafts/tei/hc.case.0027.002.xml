@@ -1,20 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0027.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Scheiber, J. v. Scheiber, M.. Attorney Detailed Statement of Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0027.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Scheiber, J. v. Scheiber, M.. Attorney Detailed statement of Petition</title>
+<date when="1862-02">February 1862</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1862-02">February 1862</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Scheiber, Edward</term>
+<term>Schieber, Joseph</term>
+<term>Schieber, Mary Anne</term>
+<term>Steinberg, Henry</term>
+<term>Thompson, John B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Illinois</term>
+<term>Madison County, Illinois</term> 
+<term>St. Louis</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Schieber, Joseph</persName>
+</person>
+<person role="defendant">
+<persName>Scheiber, Mary Anne</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Thompson, John B.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Goldschwidt, Martin M.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Circuit Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0027.002"/>
 
 <p>State of Missouri Saint Louis County</p>
 
-<p>To the Honorable The Judge of the Saint Louis <del>Criminal</del> Circuit Court</p>
+<p>To the Honorable The Judge of the 
+Saint Louis <del>Criminal</del> Circuit Court</p>
 
-<p>The petition of Josepg Scheiber Respectfully states</p>
+<p>The petition of Joseph Scheiber 
+Respectfully states</p>
 
-<p>That your petitioner is a resident of Madison County in the State of Illinois:</p>
-
-<p>That in the sixteenth day of January 1861 he was lawfully married in said County and State of Illinois to Mary Anne Green <unclear>Felten</unclear></p>
-
-<p>That they cohabitated together as man and wife in said County of madison and State of Illinois until the twenty fourth day of February 1862 on which day the said Mary Ann without any cause or provocation whatsoever left the bed and board of Petitioner in company with on Henry Steinberg and both came together to the City of Saint Louis in the County of Saint Louis and State of Missouri where they have since lived together in open and notorious adultery and are still so living the said Steinberh having also a wife in said City from whom he has abandoned. That the said Mary Anne and the said henry Steinberg also carried along with them a lawful child of the marriage between Petitioner and said Mary Anner said child named Edward Scheber and have the same in possession in a house in the said City of Saint Louis which is now occupied by the said Mary Ann and Henry Petitioner further states that being the legitimate father of said child and the said mother being incompetent by reason of immorality and abandonment to take charge of said child, he <unclear>yolor</unclear> petitioner is advised that he is entitled to the legal possession thereof, your petitioner further states that the said Mary Anne refuses to deliver up said child and threatens to carry said child
+<p>That your petitioner is a resident 
+of Madison County in the State of Illinois:
+That in the sixteenth day of January 1861 he 
+was lawfully married in said County and 
+State of Illinois to Mary Anne Green <unclear>Felten</unclear>--
+That they cohabited together as man and 
+wife in said County of Madison and State 
+of Illinois until the twenty fourth day of 
+February 1862 on which day the said Mary 
+Anne without any cause or provocation what-  <!-- word split between lines -->
+soever left the bed and board of Petitioner 
+in company with on Henry Steinberg and 
+both came together to the City of Saint Louis 
+in the County of Saint Louis and State of 
+Missouri where they have since lived together 
+in open and notorious adultery and are still 
+so living the said Steinberg having also a 
+wife in said City from whom he has ab- <!-- word split between lines -->
+andoned. That the said Mary Anne and 
+the said henry Steinberg also carried along 
+with them a lawful child of the marriage 
+between Petitioner and said Mary Anne 
+said child named Edward Scheiber and 
+have the same in possession in a house in 
+the said City of Saint Louis which is now 
+occupied by the said Mary Ann and Henry 
+Petitioner further states that being the legit-  <!-- word split between lines -->
+imate father of said child and the said mother being 
+incompetent by reason of immorality and abandonment 
+to take charge of said child, he your petitioner is advised 
+that he is entitled to the legal possession thereof, your 
+petitioner further states that the said Mary Anne refuses 
+to deliver up said child and threatens to carry said child
 
 beyond the jurisdiction of the court.</p>
 
-<p>The said child having been illegally taken and being illegally detained and held from your petitioner he prays that a writ of habeas corpus may issue directed to the said Mary Anner Scheiber and Henry Steinberg requiring them to produce the body of the said Edward Sceiber and on the truth of the foregoing allegations appearing that the said Edward may be dellivered over to the possession of your petitioner</p>
+<p>The said child having been illegally taken and being illegally 
+detained and held from your petitioner he prays that a 
+writ of habeas corpus may issue directed to the said Mary Anne 
+Scheiber and Henry Steinberg requiring them to produce the 
+body of the said Edward Scheiber and on the truth of the 
+foregoing allegations appearing that the said Edward may be 
+delivered over to the possession of your petitioner</p>
 
 <p>John B. Thompson</p>
 <p>Atty for Petn</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

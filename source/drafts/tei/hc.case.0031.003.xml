@@ -1,14 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>To the Honorable, the Judge of the Circuit Court for Saint Louis County in <unclear>vacation</unclear></p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0031.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Engle and Vanhorn v. the Matron Keeper. Memo from the Court Clerk Describing Testimony</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0031.002</idno>
 
-<p>The Petition of Frances Vanhorn by her next friend, Eliza Engle represents and shows that said Francis of the age of about 17 years and unmarried is illegally restrained of her liberty and is and has been detained and confined in a house or institution known as the "House of the Good Shepherd" located in the City of Saint Louis, Saint Louis County State of Missouri for about eighteen months last part that your petitioner does <gap></gap> the name of the Matron Keeper or Governess of said Institutions; nor has your petitioner on application at said Institution been permitted to see or communicate with the said Francis but has ben refused the same.</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Engle and Vanhorn v. the Matron Keeper. Memo from the Court Clerk Describing Testimony</title>
+<date when="1865-08-25">August 25, 1865</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
 
-<p>Your petitioner shows that said Francis is imprisoned, confined, and detained by the Matron Kepper or Governess of the said "House of the Good Shepherd" illegally and contrary to <unclear>hard</unclear> there being no <unclear>cause</unclear> alleged against her, nor any legal process invoked by which she coulf be so imprisoned, confined or restrained</p>
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
 
-<p>Your petitioner further says that no application for the relief sought for by the Petition has been made to and referred by any court officer or officers superior to the Court over which your Honor provides, and to whom this petition is presented. Your Petitioner therefore prays that a Writ of Habeas Corpus may be issued requiring
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
 
-the Matron Keeper or Governess of the said House of the Good Shepherd to appear and have with her the person of said Frances Vanhorn, with the cause of her imprisonment, confinement and detention if any such exist; and that upon the inspection thereof, and a hearing of the case; the said Frances may be discharged from such confinement and <unclear>retoud</unclear> to her friends, and to her liberty; and to have such other order, or decree as she may be entitled to in the premises</p>
+<keywords scheme="original" n="term">
+<term><date when="1865-09">September 1865</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Engle, Eliza</term>
+<term>Mary, Sister</term>
+<term>Moody, James C.</term>
+<term>Vanhorn, Francis</term>
+<term>Waltch, D. J.</term>
+<term>White, Robert</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>St. Louis</term>
+<term>St. Louis Land Court</term>
+<term>House of the Good Shepard</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Engle, Eliza</persName>
+</person>
+<person role="petitioner">
+<persName>Vanhorn, Francis</persName>
+</person>
+<person role="defendant">
+<persName>United Stats</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Epsy, Thomas S.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Moody, James C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Circuit Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0031.002"/>
+
+<p>To the Honorable, the Judge of the Circuit 
+Court for Saint Louis County in <unclear>vacation</unclear></p>
+
+<p>The Petition of Frances Van-
+horn by her next friend, Eliza Engle repre=-
+sents and shows that said Francis of the age 
+of about 17 years and unmarried is illegally 
+restrained of her liberty and is and has been de-
+tained and confined in a house or institution 
+known as the "House of the Good Shepherd" located 
+in the City of Saint Louis, Saint Louis County State of Missouri for about eighteen months last part that your petitioner does 
+<gap></gap> the name of the Matron Keeper or Governess 
+of said Institutions; nor has your petitioner 
+on application at said Institution been per-
+mitted to see or communicate with the said 
+Francis but has ben refused the same.</p>
+
+<p>Your petitioner shows that said Francis 
+is imprisoned, confined, and detained by the 
+Matron Kepper or Governess of the said "House of 
+the Good Shepherd" illegally and contrary to <unclear>law</unclear> 
+there being no <unclear>cause</unclear> alleged against her, nor 
+any legal process invoked by which she could 
+be so imprisoned, confined or restrained--</p>
+
+<p>Your petitioner further says that no appli-
+cation for the relief sought for by the Petition has 
+been made to and referred by any court officer 
+or officers superior to the Court over which your 
+Honor provides, and to whom this petition is pre-
+sented. Your Petitioner therefore prays that 
+a Writ of Habeas Corpus may be issued requiring
+
+the Matron Keeper or Governess of the said House 
+of the Good Shepherd to appear and have with 
+her the person of said Frances Vanhorn, with the 
+cause of her imprisonment, confinement and de-
+tention if any such exist; and that upon the in-
+spection thereof, and a hearing of the case; the 
+said Frances may be discharged from such con-
+finement and <unclear>retoud</unclear> to her friends, and to her 
+liberty; and to have such other order, or decree as she 
+may be entitled to in the premises</p>
 
 <p>Eliza Engle</p>
 <p>her X mark</p>
+
+<p>Eliza Engle being duly sworn says that the 
+facts matters and things set forth in the foregoing 
+petition are true to the best of her knowledge and belief.</p>
+
+<p>Eliza Engle</p>
+<p>X her mark</p>
+
+<p>Sworn and subscribed before me this 22nd day of August 1865</p>
+
+<p>Witness Defendant</p>
+<p>Seal of Office</p>
+<p><unclear>Jaw</unclear> Schneidel Clk</p>
+
+
+<p>Saint Louis Court Circuit <gap></gap></p>
+<p>In <gap></gap> of Frances</p>
+
+<p>Petition for writ of Habeas Corpus</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
