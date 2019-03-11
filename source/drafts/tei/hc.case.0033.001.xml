@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Defendant. Cover</title><!-- replace with name of case; type of document -->
+<title>Baily v. Felps and Adams. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Defendant. Cover</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date>
+<title level="m" type="main">Baily v. Felps. Cover</title>
+<date when="1856">1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,6 +87,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Bailey, George</term>
+<term>Johnston, Peter W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,13 +104,16 @@
 <persName>Baily, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName><!-- insert name of defendant, if a person -->
+<persName>James A. Felps</persName>
+</person>
+<person role="defendant">
+<persName>Adams, James C.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Smith, Robert</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName/>
 </person>
 <person role="judge">
 <persName>Johnston, Peter W.</persName>
@@ -119,7 +123,7 @@
 <listOrg>
 <org>
 <orgName>St. Louis Law Commissioners Court</orgName>
-<placeName>St. Louis, Missourit</placeName>
+<placeName>St. Louis, Missouri</placeName>
 </org>
 </listOrg>   
 </particDesc> 

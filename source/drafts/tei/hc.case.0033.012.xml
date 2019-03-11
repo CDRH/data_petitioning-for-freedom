@@ -1,4 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0033.012">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Baily v. Felps an Adams. Statement from Deponent</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0033.012</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Baily v. Felps. Statement from Deponent</title>
+<date when="1856-08-09">August 9, 1856</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1856-08">August 1856</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Baily, Alexander</term>
+<term>Bailey, George</term>
+<term>Johnston, Peter W.</term>
+<term>Wells, Jessee</term>
+<term>Will, Jolset</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Adriatic</term>  <!-- this is a boat -->
+<term>J.M. Corweis</term>  <!-- this is a boat -->
+<term>Pittsburgh, Pennsylvania</term>
+<term>St. Louis, Missouri</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Baily, George</persName>
+</person>
+<person role="defendant">
+<persName>James A. Felps</persName>
+</person>
+<person role="defendant">
+<persName>Adams, James C.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Smith, Robert</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Johnston, Peter W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Law Commissioners Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0033.012"/>
 
 <p>State of Missouri 
 County of St Louis } ss</p>
@@ -11,7 +159,7 @@ knows his mother and has know his
  mother for the last several years: that 
 he first knew the said George and his 
 brother Alexander, and their mother at 
-the City of Pittsburgh afresaid, and that 
+the City of Pittsburgh aforesaid, and that 
 the mother of said George now resides at 
 the City of Pittsburgh and has resided 
 there many years: that this deponent knows 
@@ -21,8 +169,8 @@ she has been and is now free, and that
 this deponent has known the said George 
 to be acting as and always understood and 
 now believes him to be free; that this depo-
-nent has employed the said George at t
-he City of Pittsburgh as a hand upon 
+nent has employed the said George at 
+the City of Pittsburgh as a hand upon 
 the Steamer "Adriatic" and also upon the 
 Steamer "J.M. Corweis" and dealt with him 
 <sic>a a</sic> free Boy; that this deponent 
@@ -39,3 +187,9 @@ before me</p>
 <p>Peter W Johnstone Justice</p>
 
 <p><unclear>Jolset</unclear> Will</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
