@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0034.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0034.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Bellamy and Brook v. Logan. Sheriff Obedience with Writ</title>
+<title>Bellamy and Brook v. Logan. Memo to the Commissioner Court</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0034.003</idno>
+<idno type="project">oscys.case.0034.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Bellamy and Brook v. Logan. Sheriff Obedience with Writ</title>
-<date when="1858-07-03">July 3, 1858</date>
+<title level="m" type="main">Bellamy and Brook v. Logan. Memo to the Commissioner Court</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -89,11 +89,13 @@
 <term>Bellamy, John</term>
 <term>Brook, Frank W.</term>
 <term>Dusenbury, Henry</term>
+<term>Johnson</term>
 <term>Logan, R. J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>St. Louis</term> 
+<term>Chessnut Street</term>
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -142,7 +144,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0034.003"/>
+<pb facs="hc.case.0034.004"/>
 
 <p>State of Missouri 
 County of St Louis</p>
