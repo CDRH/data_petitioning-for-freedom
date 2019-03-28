@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Crawley v. Defendant. Cover</title>
+<title>Crawley and Logan v. Henley and Logan. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Crawley v. Defendant. Cover</title>
-<date when="1000-01-01">Month D, YYYY</date>
+<title level="m" type="main">Crawley and Logan v. Henley and Logan. Cover</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -104,14 +104,20 @@
 <person role="petitioner">
 <persName>Crawley, John</persName>
 </person>
+<person role="petitioner">
+<persName>Logan, William C.</persName>
+</person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Logan, R.F.</persName>
+</person>
+<person role="defendant">
+<persName>Henley, George</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Decker</persName>
+<persName>Decker, John</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName/>
 </person>
 <person role="judge">
 <persName>Black, John</persName>
@@ -158,9 +164,6 @@ John Black, a Justice of the Peace; Henley
 testified Crawley belonged to Stephen Gardier; 
 case file includes newspaper clipping about 
 sheriff's sale of Crawley as a runaway slave</p>
-
-
-<fw type="footer">&amp; </fw>
 
 
 </div1>
