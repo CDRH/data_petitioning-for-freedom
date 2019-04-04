@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"><!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0042.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
+<title>Guba v. Musick and Rodeman. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,6 +16,7 @@
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -38,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno><!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0042.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,15 +49,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Guba v. Musick and Rodeman. Cover</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -73,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,15 +82,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1858-10">October 1858</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Guba, Miles</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Cario, Illinois</term>
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -97,34 +99,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Guba, Miles</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Musick, Joel Lewis</persName>
+</person>
+<person role="defendant">
+<persName>Rodeman, Charles</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Bann, G.D.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName/>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Dusenbury, Henry</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName><!-- insert court name -->
-<placeName></placeName><!-- insert court place -->
+<orgName>St. Louis Law Commissioners' Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">reviewed; edited</change><!-- change ini to your initials --> <!-- change date, if needed -->
-<change when="2017-06" who="#ini">transcribed and encoded</change><!-- change ini to your initials --> <!-- change date, if needed -->
+<change when="2018" who="nl">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,7 +140,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0000.000"/><!-- insert number from spreadsheet, repeat as needed at the top of each page -->
+<pb facs="hc.case.0042.001"/>
 
 <p> Box          Folder </p>
 <p> Law Commissioners' Court </p>
@@ -145,10 +150,14 @@
 
 <p> Habeas Corpus </p>
 
-<p> Committed to St. Louis County Jail in March 1857 as a runaway slave; got on board a steamboat at Cairo, Illinois; clerk on boat asked him for his fare and his free papers, but he had neither; stated he was born free; petitioned listed 4 reasons why Guba was unlawfully arrested; ordered to be discharged </p>
-
-<fw type="footer">&amp; </fw>
-
+<p> Committed to St. Louis County Jail in 
+March 1857 as a runaway slave; got on 
+board a steamboat at Cairo, Illinois; clerk 
+on boat asked him for his fare and his 
+free papers, but he had neither; stated he 
+was born free; petitioned listed 4 reasons 
+why Guba was unlawfully arrested; ordered 
+to be discharged </p>
 
 
 </div1>
