@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,16 +82,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1857-12">December 1857</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Herkenrath</term>
+<term>Jones, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Pennsylvania</term> 
-<term>Jones, John</term>
 </keywords>
 
 </textClass>
@@ -99,10 +99,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Jones, John</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Herkenrath</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
@@ -111,7 +111,7 @@
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Dusenbury, Henry</persName>
 </person>
 </listPerson>
             
