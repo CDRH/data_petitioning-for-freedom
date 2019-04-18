@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Cover</title>
+<title>Kirk v. Defendant. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Cover</title>
+<title level="m" type="main">Kirk v. Defendant. Cover</title>
 <date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -74,7 +74,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -104,13 +104,13 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Kirk, George Washington</persName>
 </person>
 <person role="defendant">
 <persName>Last, First</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Whittelsey</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
@@ -135,7 +135,7 @@
 </revisionDesc>
 
 </teiHeader>
-    
+
 <text>
 
 <body>  
@@ -161,8 +161,6 @@ Superior Court of Cincinnati; testimonies that
 he was free includes one from his father, Casey 
 Kirk; committed by James A. Felps, a Justice of 
 the Peace; petitioner informed the he will be</p>
-
-<fw type="footer">&amp; </fw>
 
 
 
