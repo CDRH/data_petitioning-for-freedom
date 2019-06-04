@@ -1,23 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>To the Hon John W. Colvin Law Commissioner of St Louis County in the State of Missouri</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0049.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mettaner v. Felps. Petitioner's Testimony</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0049.002</idno>
 
-<p>The undersigned Eliza Mettaner respectfully represents that she is free woman of color that she was born free in the State of Virginia, and for more than 16 years last past she has resided in Quiny in the State of Illinois, that she has a daughter names Nancy Martin, a colored girl and also born free  who was born on the 29 February 1840 the said girl is now imprison in the jail of St Louis County by James A Felps, and was committed by Mr Herkenrath a Justice of the Peace of St Louis County on the 26 June 1856  and a runaway slave under the name of Nacy Bell Miller  The said Felps has refused then <unclear></unclear> to give your petitioner a copy of the papers by which he have of said Nancy in prison, Jas Felps has likewise refused to release said Nancy from custody</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Mettaner v. Felps. Petitioner's Testimony</title>
+<date when="1856-08-11">August 11, 1856</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
 
-<p>The imprisonment of said Nancy is illegal for the reason that she is not and never was born a slave, but was born free and your petitioner is entitled to the service of her said daughter, as she is ready to <unclear>time</unclear></p>
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
 
-<p>The undersigned prays that a writ of Habeas Corpus may be issued without delay <del></del> requiring said Felps to produce the body of said Nancy before your Honor and to show cause why she shall not be released from custody the Hon Turner R Lackland Judge of the Common Court of St Louis County is now absent from the
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1856-08">August 1856</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Felps, James A.</term>
+<term>Herkenrath, R.M.</term>
+<term>Lackland, Turner R.</term>
+<term>Martin, Nancy</term>
+<term>Mettaner, Eliza</term>
+<term>Miller, E.G.</term>
+<term>Miller, Nancy Bell</term>
+<term>Williams, M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Quincy, Illinois</term> 
+<term>St. Louis, Missouri</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Mettaner, Eliza</persName>
+</person>
+<person role="defendant">
+<persName>Felps, James A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Richardson, Elmer</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName>
+</person>
+<person role="judge">
+<persName>Colvin, John W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Law Commissioner's Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">transcribed.</change>
+<change when="2019" who="sab">encoded, edited transcription.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0049.002"/>
+
+<p>To the Hon John W. Colvin Law 
+Commissioner of St Louis County in the 
+State of Missouri</p>
+
+<p>The undersigned Eliza Mettaner 
+respectfully represents that she is free woman 
+of color that she was born free in the State 
+of Virginia, and for more than 16 years 
+last past she has resided in Quincy 
+in the State of Illinois, that she has a daughter 
+named Nancy Martin, a colored girl 
+and also born free  who was born on the 
+29 February 1840 the said girl is now 
+imprison in the jail of St Louis County by 
+James A Felps, and was committed by 
+Mr Herkenrath a Justice of the Peace of 
+St Louis County on the 26 June 1856 as
+a runaway slave under the name of 
+Nancy Bell Miller.  The said Felps has 
+refused then <unclear></unclear> to give your petitioner a copy of 
+the papers by which he have of said Nancy 
+in prison, Jas Felps has likewise refused 
+to release said Nancy from custody.</p>
+
+<p>The imprisonment of said Nancy is illegal 
+for the reason that she is not and never has 
+been a slave, but was born free and your 
+petitioner is entitled to the service of her said 
+daughter, as she is ready to <unclear>time</unclear></p>
+
+<p>The undersigned prays that a writ of Habeas 
+Corpus may be issued without delay <del></del> 
+requiring said Felps to produce the body of said 
+Nancy before your Honor and to show cause 
+why she shall not be released from custody 
+the Hon Turner R Lackland Judge of the Common 
+Court of St Louis County is now absent from the
 
 State of Missouri</p>
 
 <p>Eliza Mettaner</p>
-
-<p>by <unclear>Glue</unclear> &amp; <unclear>Ruha..</unclear></p>
+<p>by <unclear>Elmer</unclear> &amp; <unclear>Richardson</unclear></p>
 <p>her atty.</p>
 
-<p>The affiant EG Miller on her oath says that the foregoing petition and the matter therein as stated as true as he believs and then affidavit is made in behald of the foregoing petitioner</p>
+<p>The affiant EG Miller on her oath says 
+that the foregoing petition and the matter 
+therein as stated as true as he believes and 
+then affidavit is made in behalf of the 
+foregoing petitioner</p>
 
 <p>EG Miller</p>
 
-<p>Sworn to and Subscribed Aug 11th 1856 before me</p>
+<p>Sworn to and Subscribed 
+Aug 11th 1856 before me</p>
 <p>M Williams Clk</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI> 

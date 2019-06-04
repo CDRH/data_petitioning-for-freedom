@@ -1,10 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0050.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Moore v. Hempstead. Cover</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0050.001</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Moore v. Hempstead. Cover</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1854-10">October 1854</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Moore, Rebecca A.</term>
+<term>Webb, Dr. Noah S.</term>
+<term>Wilson, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Cincinnati</term>
+<term>Pinkneyville, Mississippi</term>
+<term>St. Louis, Missouri</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Moore, Rebecca A.</persName>
+</person>
+<person role="defendant">
+<persName>Hempstead, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Thompson, John Bruce</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Colvin, John W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Law Commissioner's Court</orgName> 
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">transcribed.</change> 
+<change when="2019" who="sab">encoded, edited transcription.</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0050.001"/>
 
 <p>Box   Folder</p>
 
 <p>Law Commissioners' Court</p>
 <p>October Term 1854, No. 110</p>
 
-<p>Moore, Rebecca A., In the matter of Habeas Corpus</p>
+<p>Moore, Rebecca A., In the matter of 
 
-<p>Arrested under suspicion of being a runaway slave; petitioner was a free person of color; was at one time property of James Wilson of Pinkneyville, Mississippi; Wilson relocated to Cincinnati and sold her to Dr. Noah S. Webb of Pinkneyville; remained his property until his death; emancipated by his will</p>
+Habeas Corpus</p>
+
+<p>Arrested under suspicion of being 
+a runaway slave; petitioner was 
+a free person of color; was at one 
+time property of James Wilson of 
+Pinkneyville, Mississippi; Wilson relocated 
+to Cincinnati and sold her to Dr. Noah S. 
+Webb of Pinkneyville; remained his property 
+until his death; emancipated by his will</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
