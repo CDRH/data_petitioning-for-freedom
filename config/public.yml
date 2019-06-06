@@ -11,3 +11,6 @@ development:
 production:
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
+
+text:
+  tei_html_xsl: scripts/overrides/tei_to_text.xsl
