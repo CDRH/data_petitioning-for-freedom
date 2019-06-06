@@ -1,17 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0053.009"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Schooner v. St. Louis County Jail. Testimony.</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0053.009</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Schooner v. St. Louis County Jail. Testimony</title>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1858-08">August 1858</date></term>
+</keywords>
+   
+<keywords scheme="lcsh" n="people">
+<term>Barker, Lenas W.</term>
+<term>Gekrey, Gurden</term>
+<term>Gekrey, Louisa</term>
+<term>Pierce, Betsy</term>
+<term>Schooner, Elihu</term>
+<term>Schooner, John</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Exeter, Rhode Island</term>
+<term>New London County, Connecticut</term>
+<term>New York</term>
+<term>Portland Township Erie County, Ohio</term>
+<term>Reed Township Seneca County, Ohio</term> 
+<term>Trenton, Connecticut</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Schooner, Elihu</persName>
+</person>
+<person role="defendant">
+<persName/>
+</person>
+<person role="attorney_petitioner">
+<persName>Denison, George</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Johnstone, Peter W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Law Commissioners' Court</orgName> 
+<placeName>St. Louis, Missouri</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">transcribed.</change> 
+<change when="2019" who="zcb">encoded.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0053.009"/> 
 <p>State of Ohio County of Erie ss } Portland Township</p>
 
-<p>I, Gerdon Gekrey being duly sworn do depose and say that I was born in the Town of <unclear>Lisbon</unclear> County of Windham and State of Connecticut and shall be sixty five years of age on the fourth day of August Eighteen hundred and fifty eight - I resided in the said State of Connecticut intil I was twenty six years and then removed to Scipio Township Cayuga County, State of New York where I remained about six years and then removed to what is now Scipio Township, Seneca County State of Ohio where I remained about ten years and removed to Portland Township Erie County State of Ohio where I have since continued to reside and still reside - I was married when I was twenty one years of age and on the last day of November of that year. I remember it was Thanksgiving Day and was in Trenton New London County State of Connecticut to Betsy Pierce who was brought ip near by and was
+<p>I, Gurden Gekrey being duly 
+sworn do depose and say that I 
+was born in the Town of <unclear>Lisbon</unclear> 
+County of Windham and State 
+of Connecticut and shall be 
+sixty five years of age on the fourth 
+day of August Eighteen hundred 
+and fifty eight - I resided in the 
+said State of Connecticut until 
+I was twenty six years and 
+then removed to Scipio Township 
+Cayuga County, State of New York 
+where I remained about six years 
+and then removed to what is 
+now Scipio Township, Seneca 
+County State of Ohio where I 
+remained about ten years and 
+removed to Portland Township Erie 
+County State of Ohio where I have 
+since continued to reside and still 
+reside - I was married when I 
+was twenty one years of age and on the 
+last day of November of that year. I 
+remember it was Thanksgiving Day 
+and was in Trenton New London County 
+State of Connecticut to Betsy Pierce 
+who was brought in near by and was
 
-in the Town of Exeter State of Rhode Island as I was always informed and believe - Louisa Gekrey was my daughter by my said wife Betsy and was born in the said Town of Preston in January Eighteen hundred and sixteen - She lived with me until she was married to John Schooner which was in said Seneca County, Ohio when she was about sixteen years old. I was present at their marriage, Elihu Schooner was the child of said Louisa and John Schooner above named and was born in Reed Township in said Seneca County Ohion within a year after they were married as above stated - Said John Schooner died about four years after they were married and the said Louisa died about five years after her said marriage - John died in the State of New York and Louisa died at <unclear>....ville</unclear> Seneca County Ohio, I have known said Elihu since his birth and he is my grandson, He will be twenty-six years old next November or December - He is and always has been a free man and never a slave. The said Eliha has a sear in his under lip, holes in his ears for rings, has burley hair and
+in the Town of Exeter State of Rhode 
+Island as I was always informed and 
+believe - Louisa Gekrey was my 
+daughter by my said wife Betsy 
+and was born in the said Town of 
+Preston in January Eighteen hundred 
+and sixteen - She lived with me 
+until she was married to John 
+Schooner which was in said Seneca 
+County, Ohio when she was about sixteen 
+years old. I was present at their 
+marriage, Elihu Schooner was the 
+child of said Louisa and John Schooner 
+above named and was born in Reed 
+Township in said Seneca County 
+Ohion within a year after they were 
+married as above stated - Said John 
+Schooner died about four years after 
+they were married and the said Louisa 
+died about five years after her said 
+marriage - John died in the State of New 
+York and Louisa died at 
+<unclear>....ville</unclear> Seneca County Ohio, 
+I have known said Elihu since his 
+birth and he is my grandson, He 
+will be twenty-six years old next 
+November or December - He is and 
+always has been a free man and 
+never a slave. The said Elihu 
+has a scar in his under lip, holes in his 
+ears for rings, has burley hair and
 
-same appearance of Indian which he gets from his Father who was a half Indian. He was married about Eighteen hundred fifty and his wife died with Cholera in Eighteen hundred fifty five leaving one child which now lived in this County </p>
+same appearance of Indian which he gets from his 
+Father who was a half Indian. He 
+was married about Eighteen hundred 
+fifty and his wife died with Cholera 
+in Eighteen hundred fifty five leaving 
+one child which now lived 
+in this County </p>
 
-<p>Gurden Getrey</p>
+<p>Gurden Gekrey</p>
 
 <p>Winess S. <unclear>Maino</unclear></p>
 
-<p>Subscribed and sworn to by the said <unclear>Gurden Ochesry</unclear> this 30th day of July A.D. 1858</p>
+<p>Subscribed and sworn to by the said <unclear>Gurden Gekrey</unclear> this 30th day of July A.D. 1858</p>
 
-<p>Louas W. Barker Justice of the Peace in and for said County</p>
+<p>Lenas W. Barker Justice of the Peace in and for said County</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
