@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0053.002</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0053.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,15 +50,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Petition</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Petitioner v. Defendant. Petition</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -114,7 +114,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Johnstone, Peter W.</persName>
 </person>
 </listPerson>
             
