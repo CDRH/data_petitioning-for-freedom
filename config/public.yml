@@ -11,3 +11,8 @@ development:
 production:
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
+
+# this is for generating plain text files per Katrina's request
+# run with `post -x html -e text`
+text:
+  tei_html_xsl: scripts/overrides/tei_to_text.xsl
