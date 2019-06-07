@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Boardman. Petition</title> 
+<title>Petitioner v. Boardman. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Vincent v. Boardman. Petition</title>
+<title level="m" type="main">Vincent v. Boardman. Writ of Habeas Corpus</title>
 <date when="1859-05-13">May 13, 1859</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,7 +87,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brooks, Joesph</term>
 <term>Dusenbury, Henry</term>
 <term>Vincent, Elizabeth</term>
 </keywords>
@@ -105,10 +104,10 @@
 <persName>Vincent, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Boardman</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Caude</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -145,7 +144,7 @@
 
 <p> To the Jailor of St. Louis County: Greeting: </p>
 <p> You are hereby commanded to have the body 
-of Elizabeth Vincent, alias Elizabeth Allend, 
+of Elizabeth Vincent, alias Elizabeth Allen, 
 alledged to be unlawfully detained by you, and 
 imprisoned in the Jail of said County, together 
 with the cause of such imprisonment and detention 

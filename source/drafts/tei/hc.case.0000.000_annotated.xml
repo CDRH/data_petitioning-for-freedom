@@ -103,14 +103,14 @@
 <person role="defendant">
 <persName>Last, First</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Last, First</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             

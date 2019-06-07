@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Cover</title>
-<date when="1000-01-01">Month D, YYYY</date>
+<title level="m" type="main">Vincent v. Boardman. Cover</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,6 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Boardman</term>
 <term>Vincent, Elizabeth</term>
 </keywords>
 
@@ -103,16 +104,16 @@
 <persName>Vincent, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Boardman</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Caude</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName/>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Dusenbury, Henry</persName>
 </person>
 </listPerson>
             
