@@ -1,18 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0103.003"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Affidavit</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0103.003</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Affidavit</title>
+<date when="1886-06-30">June 30, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Byrd, Lewis</term>
+<term>Granger, G.M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Pierce County, Washington Territory</term> 
+<term:>San Francisco, California</term:>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Deppelippes, Prospero</persName>
+<persName>Perell, Felip</persName>
+</person>
+<person role="defendant">
+<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Last, First</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="zcb">encoded</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0103.003"/> 
 <note>1832</note>
 
 <p>United States of America}</p>
 <p>Territory of Washington}</p>
 <p>County of Pierce}</p>
 
-<p>To the Sheriff and to the Keeper of the Jail in said County</p>
+<p>To the Sheriff and to the Keeper of the Jail 
+in said County</p>
 
-<p>Whereas <unclear>Prosper Deppeleppes and Filip Perell</unclear> Seaman on board bark Eldorado have this day charged on the oath of T L Humphrey master of the said Bark that said Seaman have deserted and left said Bark without leave and on the hearing of said Cause of the Court has decided and adjudged that said <unclear>to wit</unclear> is now lying the port of Tacoma Washington Territory and that said seaman are under a written contract to return on said Bark to the Port of San Francisco California and that they have willfully and without cause deserted and left said <unclear>vessal</unclear> without Leave and refused to do duty on said Bark without any Lawful excuse therefore in the name of the United States you the said Sheriff are hereby commanded to deliver the said <unclear>Prosper Deppeleppes and Filip Perell</unclear> to the said Keeper and you the said Keeper are hereby
+<p>Whereas <unclear>Prosper Deppelippes and 
+Felip Perell</unclear> Seaman on board bark 
+Eldorado have this day charged on the 
+oath of S L Humphreys master of the said 
+Bark that said Seaman have deserted 
+and left said Bark without leave and 
+on the hearing of said Cause of the Court 
+has decided and adjudged that said 
+<unclear>to wit</unclear> is now lying the port of Tacoma 
+Washington Territory and that said 
+seaman are under a written contract 
+to return on said Bark to the 
+Port of San Francisco California and 
+that they have willfully and without 
+cause deserted and left said 
+<unclear>vessal</unclear> without Leave and refused 
+to do duty on said Bark without any 
+Lawful excuse therefore in the name 
+of the United States you the said 
+Sheriff are hereby commanded to 
+deliver the said <unclear>Prosper Deppeleppes 
+and Felip Perell</unclear> to the said Keeper 
+and you the said Keeper are hereby
 
-<pb...></pb...>
 
-commanded to receive the said <unclear>Prosper Deppeleppes and Filip Perell</unclear> into your custody in said jail and them there safely keep until they are willing to return to duty on said ship or until they are demanded of you by the said L. E. Humphrey or are discharged by due course of Law given under my hand this 30h day of June AD 1886</p>
+
+commanded to receive the 
+said <unclear>Prosper Deppeleppes and 
+Filip Perell</unclear> into your custody 
+in said jail and them there safely 
+keep until they are willing to 
+return to duty on said ship or 
+until they are demanded of you 
+by the said L. E. Humphrey or are 
+discharged by due course of 
+Law given under my hand this 
+30h day of June AD 1886</p>
 
 <p>Alex Campbell</p>
 <p>Justice of the Peace</p>
@@ -24,3 +197,10 @@ commanded to receive the said <unclear>Prosper Deppeleppes and Filip Perell</unc
 
 <p>By G. M. Granger</p>
 <p>Deputy</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
