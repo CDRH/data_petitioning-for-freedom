@@ -52,6 +52,13 @@ class TeiToEs
   #   # TODO
   # end
 
+  def keywords
+    # for now, since not using keywords for other things
+    # adds the "case id" to this field for filtering purposes
+    caseid = @id[/hc.case.\d{4}/]
+    [ caseid ] if caseid
+  end
+
   def language
     # TODO verify that none of these are primarily english
     "en"
