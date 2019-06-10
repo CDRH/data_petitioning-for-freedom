@@ -1,27 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0101.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0101.001</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
+<date when="1884-12-11">December 11, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Last, First</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="zcb">encoded, edited transcription.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0101.001"/> 
 <note>1277</note>
 
-<p>District Court of the Second Judicial District of Washington Territory holden at <unclear></unclear> Tacoma (to wit: Tacoma) in and for the County of Pierce</p>
+<p>District Court of the Second 
+Judicial District of Washington 
+Territory holden at <unclear></unclear> Tacoma 
+(to wit: Tacoma) in and for the 
+County of Pierce</p>
 
 <p>John Lanmeister and John Tod Plaintiffs vs W. C. Shattuch Defendant}</p>
 
 <p>Territory of Washington}</p>
 <p>County of Pierce} S.</p>
 
-<p>John Tod being duly sworn, on oath doth depose and say: That he is one of the plaintiffs in the above enitled action; that the plaintiffs at all times hereinafter mentioned were and still are copartners in business under the name or style of Lanmesiter and Tod; that a cause of action exists in favor of the plaintiffs as co-
+<p>John Tod 
+being duly sworn, on oath 
+doth depose and say: 
+That he is one of the plaintiffs 
+in the above enitled 
+action; that the plaintiffs 
+at all times hereinafter 
+mentioned were and still are 
+copartners in business under 
+the name or style of Lanmesiter 
+and Tod; that a 
+cause of action exists in 
+favor of the plaintiffs as co-
 
 <pb...></pb...>
 
-partners as aforesaid against W. C. Shattuck, the defendant in said action, and that the nature of said cause of action is as follows, to wit:</p>
+partners as aforesaid against 
+W. C. Shattuck, the defendant 
+in said action, and that 
+the nature of said cause 
+of action is as follows, 
+to wit:</p>
 
-<p>Breach of contract of the said defendant in failing to pay the plaintiffs as co-partners as aforesaid the sum two hundred and fourteen dollars and seventy one cents ($214.71) due the plaintiffs as copartners as aforesaid for goods sold and delivered by the plaintiffs as copartners as aforesaid to the said defendants at <unclear>diverse</unclear> times between the first day of October 1884, and the sixth day of December, 1884, both inclusive, at Tacoma in said county, at the agree priced in the aggregate of two hundred and fourteen dollars &amp; seventy one cents, no part whereof has been paid;
+<p>Breach of contract of 
+the said defendant in failing 
+to pay the plaintiffs as co-
+partners as aforesaid the 
+sum two hundred and 
+fourteen dollars and 
+seventy one cents ($214.71) 
+due the plaintiffs as copartners 
+as aforesaid for goods sold 
+and delivered by the plaintiffs 
+as copartners as aforesaid to the 
+said defendants at <unclear>diverse</unclear> times between 
+the first day of October 
+1884, and the sixth day of December, 1884, both inclusive, at 
+Tacoma in said county, 
+at the agree price in the 
+aggregate of two hundred 
+and fourteen dollars &amp; 
+seventy one cents, no part 
+whereof has been paid;
 
 <pb...></pb...>
 
 <note>1277</note>
 
-that the said defendant is indebted to the plaintiffs as copartners as aforesaid in said cause of action <del>to the plain</del> in the said sum of $214.71 with interest thereon from the sixth day of December 1884, one and above all sest offs and <unclear>convtirclaims,</unclear>, and that the said indebtedness is not <unclear>sicined</unclear> either in whole or in part, by any mortgages or <unclear>lier</unclear> upon any real or personal property, or any pledge of personal property; and that an action has been commenced on said Court in said cause of action by the filing of a complaint with the Clerk and the issuing of a summons and certified copy of said complaint</p>
+that the said defendant is 
+indebted to the plaintiffs as 
+copartners as aforesaid 
+in said cause of action 
+<del>to the plain</del> in the said 
+sum of $214.71 with interest 
+thereon from the sixth day 
+of December 1884, one and 
+above all set offs and 
+<unclear>counterclaims,</unclear>, and that 
+the said indebtedness is 
+not <unclear>sicined</unclear> either in 
+whole or in part, by any mortgages 
+or <unclear>lier</unclear> upon any real or 
+personal property, or any 
+pledge of personal property; 
+and that an action has been 
+commenced in said Court 
+in said cause of action 
+by the filing of a complaint 
+with the Clerk and the issuing 
+of a summons and certified 
+copy of said complaint</p>
 
 <p>John Tod</p>
 
@@ -30,3 +229,9 @@ that the said defendant is indebted to the plaintiffs as copartners as aforesaid
 <p><unclear>Gerr Tulhs</unclear></p>
 
 <p>Notary Public</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
