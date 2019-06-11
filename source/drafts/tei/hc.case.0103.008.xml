@@ -108,7 +108,7 @@
 <persName>Perell, Felip</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Campbell, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Last, First</persName>
@@ -123,15 +123,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName>Pierce County, Washington Territory</placeName> <!-- insert court location -->
+<orgName>United States District Court</orgName> 
+<placeName>Pierce County, Washington Territory</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2018" who="nrl">transcribed.</change> 
 <change when="2019" who="zcb">encoded</change>  
 </revisionDesc>
 

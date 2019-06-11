@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Byrd. Criminal Warrant</title> 
+<title>Deppelippes &amp; Perell v. Campbell. Criminal Warrant</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1886-06-29">June 29, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,15 +83,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Campbell, Alexander</term>
+<term>Deppelippes, Prospero</term>
+<term>Perell, Felip</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Tacoma, Washington</term> 
 </keywords>
 
 </textClass>
@@ -103,13 +105,13 @@
 <persName>Perell, Felip</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Campbell, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Last, First</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName/>
 </person>
 <person role="judge">
 <persName>Last, First</persName>
@@ -118,15 +120,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court</orgName> 
+<placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2018" who="nrl">transcribed.</change> 
 <change when="2019" who="zcb">encoded, edited transcription.</change>  
 </revisionDesc>
 
@@ -145,7 +147,7 @@
 
 <p>A Campbell J.P.</p>
 
-<p>United States of America vs. <unclear>Prosper Depeleppes Felip Perell</unclear>}Criminal Warrant</p>
+<p>United States of America vs. <unclear>Prosper Deppelippes Felip Perell</unclear>}Criminal Warrant</p>
 
 <p>To the Sheriff or any Constable of said County.</p>
 
