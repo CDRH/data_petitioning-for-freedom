@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Deppelippes &amp; Perell v. Campbell. Petition</title> 
+<title> Deppelippes &amp; Perell v. Byrd. Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Deppelippes &amp; Perell v. Campbell. Petition</title>
-<date when="1000-01-01">Month D, YYYY</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Deppelippes &amp; Perell v. Byrd. Petition</title>
+<date></date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -83,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -95,6 +95,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
+<term>Pierce County, Washington</term>
 <term>San Francisco, California</term>
 <term>Tacoma, Washington Territory</term> 
 </keywords>
@@ -108,16 +109,16 @@
 <persName>Perell, Felip</persName>
 </person>
 <person role="defendant">
-<persName>Campbell, Alexander</persName>
+<persName>Byrd, Lewis</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Last, First</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
@@ -131,8 +132,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="zcb">encoded, edited transcription.</change>  
+<change when="2018" who="nrl">transcribed.</change> 
+<change when="2019" who="zcb">encoded.</change>  
 </revisionDesc>
 
 </teiHeader>

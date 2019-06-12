@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Deppelippes &amp; Perell v. Campbell. Criminal Warrant</title> 
+<title>Deppelippes &amp; Perell v. Byrd. Criminal Warrant.</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">Deppelippes &amp; Perell v. Byrd. Criminal Warrant.</title>
 <date when="1886-06-29">June 29, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,12 +83,13 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Campbell, Alexander</term>
 <term>Deppelippes, Prospero</term>
+<term>Humphrey, S.L.</term>
 <term>Perell, Felip</term>
 </keywords>
 
@@ -105,16 +106,16 @@
 <persName>Perell, Felip</persName>
 </person>
 <person role="defendant">
-<persName>Campbell, Alexander</persName>
+<persName>Byrd, Lewis</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Last, First</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
@@ -129,7 +130,7 @@
         
 <revisionDesc>         
 <change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded, edited transcription.</change>  
+<change when="2019" who="zcb">encoded.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -165,7 +166,7 @@ fulfilling said contract.</p>
 
 <p>Therefore, in the name of the United 
 States you are commanded forthwith 
-to apprehend the said <unclear>Prosper 
+to apprehend the said <unclear>Prospero 
 Deppelippes and Felip Perell</unclear> and bring 
 them before me to be dealt with according 
 to law.</p>
