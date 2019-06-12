@@ -1,5 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.008"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lander v. Defendant. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0105.008</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Lander v. Defendant. Writ</title>
+<date when="1861-09-21">September 21, 1861</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Hewitt, C.C.</term>
+<term>Latham, John</term>
+<term>McCloud, John</term>
+<term>Moses, Andrew J.</term>
+<term>Riley, James W.</term>
+<term>Tucker, S.H.</term>
+<term>White, Robert</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Pierce County, Washington</term>
+<term>Thurston County, Washington</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Lander, Edward</persName>
+</person>
+<person role="defendant">
+<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Last, First</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName> 
+<placeName>Pierce County, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nrl">transcribed.</change> 
+<change when="2019" who="zcb">encoded.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0105.009"/>
 <note>906</note>
 
 <p>Washington Territory</p>
@@ -12,12 +157,27 @@
 
 <p>To S. H. Tucker, Sheriff of Pierce County, Greeting:</p>
 
-<p>You hereby commanded to have the body of James Riley before the Honorable C. C. Hewitt Chief Justice and Judge of the 2nd Judicial District at his Chambers at Olympia on this 21st day of Sept. 1861 at 10 o clock A. M. to do and receive what shall be ordered concerning said James Riley and have you then and there this writ.</p>
+<p>You hereby commanded to have the 
+body of James Riley before the Honorable C. C. Hewitt 
+Chief Justice and Judge of the 2nd Judicial 
+District at his Chambers at Olympia on this 
+21st day of Sept. 1861 at 10 o clock A. M. to do and 
+receive what shall be ordered concerning said 
+James Riley and have you then and there 
+this writ.</p>
 
-<p>Witness the Hon C. C. Hewitt <del>Ju</del> Chief Justice and Judge of the 2nd Jud Dist Washington Territory this 21st day of Sept. A. D. 1861.</p>
+<p>Witness the Hon C. C. Hewitt <del>Ju</del> Chief 
+Justice and Judge of the 2nd Jud 
+Dist Washington Territory this 21st 
+day of Sept. A. D. 1861.</p>
 
 <p>Andrew J Moses</p>
 
 <p>Clerk</p>
 
-<image></image>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
