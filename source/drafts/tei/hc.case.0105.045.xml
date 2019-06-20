@@ -1,20 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.45"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. James Riley. Testimony</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0105.045</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. James Riley. Testimony</title>
+<date when="1861-03-01">March 1, 1861</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1861-03">March 1861</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Al-Loe</term>
+<term>Emma</term>
+<term>Hewitt, C.C.</term>
+<term>Lo, Mowgatt</term>
+<term>Rabbenn, A.B.</term>
+<term>Riley, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Pierce County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Lander, Edward</persName>
+</person>
+<person role="defendant">
+<persName/>
+</person>
+<person role="attorney_petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName>
+</person>
+<person role="judge">
+<persName>Hewitt, C.C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName> 
+<placeName>Pierce County, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nrl">transcribed.</change> 
+<change when="2019" who="zcb">encoded.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0105.045"/>
 <note>906</note>
 
 <p>Territory of Washington}</p>
 <p>County of Pierce} SS</p>
 
 <p>Personally appeared before 
-me the undersigned, <unclear>Mowyatt-
-Leu</unclear> who being duly sworn 
+me the undersigned, <unclear>Mowgatt-
+Lo</unclear> who being duly sworn 
 says that James Riley at the 
 county of Pierce then and there 
 being <del>who being</del> did on the 
 night of the 28th day of Feby 1861. 
 in a rude insolent and angry 
 manner, unlawfully touch, <del>push</del> 
-strike, and beat one A Lor.</p>
+strike, and beat one A Loe.</p>
 
 <p>Deponant further says that said 
 James Riley at the said County <del>at</del> 
@@ -36,7 +179,6 @@ touch and push and thrust deponents
 
 <note>906</note>
 
-<pb...></pb...>
 
 <note>906</note>
 
@@ -62,13 +204,20 @@ on the said evening of the 28th Feby.
 away one silver watch from 
 the Hotel kept by this deponant 
 of the value of $15 of the 
-property of A Loo wherefore 
+property of A Loe wherefore 
 deponant prays said James Riley 
 may be dealt with according to 
 law</p>
 
-<p>Mowyatt his X mark Lo</p>
+<p>Mowgatt his X mark Lo</p>
 
 <p>Subscribed &amp; sworn to before me the 1st day of March 1861</p>
 
 <p>A.B. Rabbenn J.P.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
