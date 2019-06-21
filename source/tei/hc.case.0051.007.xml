@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0051.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0051.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Parker v. Rodermann. Petition</title>
+<title>James A. Parker v. Charles Rodermann. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0051.002</idno>
+<idno type="project">oscys.case.0051.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Parker v. Rodermann. Petition</title>
-<date/>
+<title level="m" type="main">James A. Parker v. Charles Rodermann. Order</title>
+<date when="1858-09-11">September 11, 1858</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,14 +87,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dusenbury, Henry</term>
-<term>Johnstone, Peter W.</term>
-<term>Parker, James Allison</term>
-<term>Rodermann, Thas</term>
+<term>Crowwell, Andrew J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. CLair County, Illinois</term>
 <term>St. Louis County, Missouri</term> 
 </keywords>
 
@@ -106,7 +102,7 @@
 <persName>Parker, James Allison</persName>
 </person>
 <person role="defendant">
-<persName>Rodermann, Thas</persName>
+<persName>Rodermann, Charles</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -131,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed</change>
 <change when="2019" who="zcb">encoded</change>
+<change when="2019" who="lkw">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,52 +138,23 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0051.002"/>
-<p>To the Honorable Henry Dusenbury Judge of the St Louis Law Commissioner's Court St at Chambers</p>
+<pb facs="hc.case.0051.007"/>
+<p>The State of Missouri</p>
 
-<p>Your Petitioner James Allison Parker, a free man 
-of color aged about twenty two or three years would respectfully 
-represent to your Honor that he now is confined 
-in the Saint Louis County Jail by Rodermann 
-the keeper of said Jail, and has been so confined 
-since the 11th day of the present month, September, by virtue of 
-a certain warrant order or process issued by me Peter 
-W Johnstone, a Justice of Saint Louis County. A full 
-and complete copy of all the papers pertaining to the 
-case now in the possession of said Jailor is herewith 
-presented and made a part of this application</p>
+<p>To the Keeper of the Common Jail of St. Louis County Greeting:</p>
 
-<p>Your petitioner would further represent 
-that said confinement is <unclear>wholly</unclear> illegal. The pretense 
-under which your petitioner is held in as will 
-appear from said copy of the commitment <unclear>re</unclear> is 
-that he is a runaway slave whereas 
-your petitioner alleges the fact to be that he 
-was born and raised in the County of St 
-Clair and State of Illinois - that he is therefore 
-free and not a slave that his mother 
-is <del>and always has been</del> a free woman 
-and not a slave</p>
+<p>You are hereby commanded to receive the body of James Allison Parker, a runaway slave into your common Jail, and him safely keep until he shall be taken away by his master, and all reasonable charges paid, or until he be otherwise discharged in due course of Law</p>
 
-<p>Your petitioner therefore in view of 
-the premises prays your honor that the States 
-writ of Habeas Corpus may issue in his 
-behalf forthwith directed to the said Rodermann 
-by whom your petitioner is restrained 
-of his liberty, commanding him to have 
-the body of your petitioner so imprisoned together with
+<p>Given under my hand this 11th day of Sept 1858</p>
 
-the cause of such imprisonment before this 
-Hon Court without delay, to do and 
-receive what shall then and there be considered 
-touching the matters herein before 
-set forth and that no application for the relief 
-sought for by this petitioner has been made to and refused 
-by any court officer of 
-officers superior to the one to whom 
-this petitioner is presented</p>
+<p>Signed Peter W. Johnstone</p>
+<p>Justice</p>
 
-<p>James Allison Parker by Attorney</p>
+
+<p>Executed this within writ by delivering the body of the within named defendant to the Jailor of Saint
+
+Louis County Sept 11 1858</p>
+<p>Signed A. J. Crowwell</p>
 
 </div1>
     
