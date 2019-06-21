@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0051.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0051.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Parker v. Rodermann. Testimony</title>
+<title>James A. Parker v. Charles Rodermann. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0051.003</idno>
+<idno type="project">oscys.case.0051.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Parker v. Rodermann. Testimony</title>
+<title level="m" type="main">James A. Parker v. Charles Rodermann. Writ of Habeas Corpus</title>
 <date when="1858-09-29">September 29, 1858</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,12 +88,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Dusenbury, Henry</term>
-<term>Parker, James Allison</term>
-<term>Stiel, John H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. CLair County, Illinois</term> 
+<term>St. Louis County, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -104,7 +102,7 @@
 <persName>Parker, James Allison</persName>
 </person>
 <person role="defendant">
-<persName>Rodermann, Thas</persName>
+<persName>Rodermann, Charles</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -129,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed</change>
 <change when="2019" who="zcb">encoded</change>
+<change when="2019" who="lkw">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,22 +138,29 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0051.003"/>
-<p>John H Stiel makes oath that the foregoing 
-petition concerning the illegal detention 
-of James Allison Parker - a free man of 
-color, is trus as he hereof believes</p>
+<pb facs="hc.case.0051.004"/>
+<p>State of Missouri County of St Louis } SS</p>
 
-<p>Said Stiel has shown the James Parker for the last five or six years in 
-the State of Illinois &amp; knows the 
-mother of said Parker to be a free woman 
-and said James Allision Parker to be 
-not a slave but a free man</p>
+<p>"By the Habeas Corpus Act."</p>
 
-<p>John H. Stiel</p>
+<p>The State of Missouri</p>
 
-<p>Duly sworn before me on this 29th day of Septr 1858</p>
-<p>H. Dusenbury</p>
+<p>To the Jailor of St. Louis County _ Greeting:</p>
+
+<p>You are hereby commanded to have the body of 
+James Allison Parker, alledged to be unlawfully detained by 
+you, and imprisoned in the Jail of said County, together 
+with the cause of such imprisonment and detention, before 
+the undersigned at the Law Commissioners Court Room 
+in the City of St Louis in said County State, tomorrow 
+the 30th day of September 1858 at 2 o'clock P.M. to do and 
+receive what shall then and there be considered concerning 
+the said James Allison Parker, the person so imprisoned 
+and detained and have you then and there this writ.</p>
+
+<p>Witness my hand this 29th day of September AD 1858</p>
+<p>H Dusenbury</p>
+<p>Law Commissioner</p>
 
 </div1>
     
