@@ -1,27 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0107.014"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of Document</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0107.014</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1887-10-19">October 19, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bush, W.H.</term>
+<term>Byles, Charles N.</term>
+<term>Jacobs, Thomas</term>
+<term>Shamley, Thomas J.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Chehalis County, Washington</term>
+<term>Montesano, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="defendant">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName>
+</person>
+<person role="judge">
+<persName>Last, First</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName> 
+<placeName>Chehalis County, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nrl">transcribed.</change> 
+<change when="2019" who="zcb">encoded.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0107.014"/> 
 <p>In The DISTRICT COURT of the SECOND JUDICIAL DISTRICT</p>
 
 <p>OF WASHINGTON TERRITORY,</p>
 
 <p>Holding Terms at Montesano, in, and for the County of Chehalis.</p>
 
-<p>The TERRITORY of WASHINGTON, PLAINTIFF vs. Thomas Jacoms DEFENDANT. } INDICTMENT.</p>
+<p>The TERRITORY of WASHINGTON, PLAINTIFF vs. Thomas Jacobs DEFENDANT. } INDICTMENT.</p>
 
-<p>We Thomas Jacobs as Principal, and Charles N Byles and Thomas J Shamley as Sureties, acknowledge ourselves to owe and be indebted to the Territory of Washington, in the just and full sum of Four Hundred Dollars,lawful money of the United States of America, to be levied of our Goods and Chattels, Lands and Tenements, upon the following conditions:</p>
+<p>We Thomas Jacobs as Principal, and Charles N Byles and Thomas J Shamley as Sureties, 
+acknowledge ourselves to owe and be indebted to the Territory of Washington, in the just and full sum of Four 
+Hundred Dollars,
+lawful money of the United States of America, to be levied of our Goods and Chattels, Lands and Tenements, 
+upon the following conditions:</p>
 
-<p>WHEREAS, The said Thomas Jacobs has been duly indicted by the Grand Jury of Chehalis County, in the Second Judicial District of Washington Territory for the following Crimes <del>of</del> to wit on three separate indictments one for riot and two for malicious mischief, in said County, and is now under arrest upon a warrant duly issued upon each of said indictments.</p>
+<p>WHEREAS, The said Thomas Jacobs 
+has been duly indicted by the Grand Jury of Chehalis County, in the Second Judicial District of Washington Territory 
+for the following Crimes <del>of</del> to wit on three separate indictments one for riot and two for malicious mischief, in said County, and is now under arrest 
+upon a warrant duly issued upon each of said indictments.</p>
 
-<p>Now, therefore, it the said Thomas Jacobs shall be and appear in his proper person at the next regular term of said Court, to be holden in and for said Chehalis County, and from term to term thereafter, and answer the above mentioned indictments and shall obey all orders and processes of said Court, made and issued in that behalf, and shall keep the peace and be of good behavior toward all the people of Washington Territory, then this recognizance to be void, otherwise to remain in full force and virtue.</p>
+<p>Now, therefore, it the said Thomas Jacobs 
+shall be and appear in his proper person at the next regular term of said Court, to be holden in and for said Chehalis 
+County, and from term to term thereafter, and answer the above mentioned indictments and shall obey all orders 
+and processes of said Court, made and issued in that behalf, and shall keep the peace and be of good behavior 
+toward all the people of Washington Territory, then this recognizance to be void, otherwise to remain in full force 
+and virtue.</p>
 
 <p>Witnessed and approved by me this 19th day of October A.D. 1887</p>
 
 <p>WH Bush Sheriff.</p>
 
-<p>Thomas Jacobs Charles N. Bylee T H Shamley</p>
+<p>Thomas Jacobs Charles N. Byles T H Shamley</p>
 
 <p>TERRITORY OF WASHINGTON, County of Chehalis }SS.</p>
 
 <p><gap></gap> and <gap></gap> being first duly sworn, each for himself, say, that he is a resident of Washington Territory; that he is not a counselor, attorney-at-law, sheriff, clerk or other officer of the District Court, and that he is worth the sum of <gap></gap> Dollars, over and above all debts and liabilities, and property exempt from execution.</p>
 
 <p>Subscribed and sworn to before me this <gap></gap> day of <gap></gap> A.D. 188 <gap></gap> Sheriff.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
