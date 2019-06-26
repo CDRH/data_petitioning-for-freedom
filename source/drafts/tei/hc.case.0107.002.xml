@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0107.002</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0107.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1887-09-15">September 15, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -87,11 +87,19 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Allen, Frank</term>
+<term>Beudjus, Gus</term>
+<term>Cheuch, William</term>
+<term>Culbut, Fred</term>
 <term>Gass, Abel</term>
+<term>Gilbreuth, C.H.</term>
 <term>Harris, A.D.</term>
 <term>Minler, H.C.</term>
 <term>Mulrey, J.W.</term>
 <term>Peerson, J.C.</term>
+<term>Samedes, William</term>
+<term>Seetton, M.</term>
+<term>Scomued, Geo N.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -144,7 +152,7 @@
 <pb facs="hc.case.0107.002"/> 
 <p>No <unclear>135</unclear></p>
 
-<p>Territory of Washington vs Gus. Burggess</p>
+<p>Territory of Washington vs Gus. Beudjus</p>
 
 <p>Indictment for Malicious Mischief</p>
 
@@ -152,7 +160,7 @@
 
 <p>Witnesses Examined 
 J C. Peerson - A. D. Harris 
-Trid Culbut - C. H. Gilbreuth 
+<unclear>Fred</unclear>Culbut - C. H. Gilbreuth 
 Abel Gass - H. C. Minler 
 Wm Cheuch - Geo N Scomued 
 Wm Samedes -</p>
@@ -163,7 +171,7 @@ Wm Samedes -</p>
 
 <p>Filed to open court in presence of the Grand Jury this 15th day of September 1887</p>
 
-<p>SS M Seeten Clerk</p>
+<p>SS M Seetten Clerk</p>
 
 </div1>
     
