@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Matilda v. Henry G. Mitchell. Response</title>
+<title>Matilda v. Henry G. Mitchell and Henry C. Russell. Response</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Matilda v. Henry G. Mitchell. Response</title>
+<title level="m" type="main">Matilda v. Henry G. Mitchell and Henry C. Russell. Response</title>
 <date when="1832-05-30">May 30, 1832</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,16 +87,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Foreman, Stephen W.</term>
-<term>Matilda</term>
-<term>Mitchell, Henry G.</term>
-<term>Mitchel, Martin</term>
-<term>Russell, Henry C.</term>
-<term>Strother, George A.</term>
+<term>Mitchel, Martin</term><!-- aka Henry G. Mitchell -->
+<term>Hammand, George</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Jefferson County (Missouri)</term>
+<term>Jefferson County, Missouri</term>
 </keywords>
 
 </textClass>
@@ -109,6 +105,9 @@
 <person role="defendant">
 <persName>Mitchell, Henry G.</persName>
 </person>
+<person role="defendant">
+<persName>Russell, Henry C.</persName>
+</person>
 <person role="attorney_petitioner">
 <persName>Strother, George A.</persName>
 </person>
@@ -116,7 +115,7 @@
 <persName>Foreman, Stephen W.</persName>
 </person>
 <person role="judge">
-<persName>Henry C. Russell</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -129,7 +128,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc> 
+<change when="2019" who="lkw">reviewed</change>           
 <change when="2018" who="nrl">transcribed</change>
 <change when="2019" who="sab">encoded, edited transcription</change>
 </revisionDesc>
@@ -148,9 +148,9 @@
 court as within commanded she was on the twenty
 sixth instant taken out of the possession of Henry C 
 Russell &amp; Henry G Mitchel against whom warrant 
-has issued for kidnapping the said Matilda was 
+has issued for kidnapping the said Mitchel was 
 arrested by the name of Martin Mitchel the said
-Matilda was put in the gaol of Jerfferson 
+Matilda was put in the gaol of Jefferson 
 County for safe keeping &amp; has been by me detained 
 for no other purpose than her personal safety</p>
 
