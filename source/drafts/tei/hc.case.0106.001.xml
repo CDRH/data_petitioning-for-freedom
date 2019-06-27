@@ -1,23 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>In the District Court of the Second Judicial District of Washington Territory holding Terms at Olympia for the Counties of Cowlitz and Wahkiakum</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0106.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seibert v. Seibert. Cover</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0106.001</idno> 
 
-<p>John Seibert Plaintiff vs. Sarah E. Seibert Defendant} No 71 Complaint</p>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seibert v. Seibert. Type of document</title>
+<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
 
-<p>John Seibert the above named Plaintiff complains of Sarah E. Seibert and for Cause of Action Alleges</p>
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
 
-<p>That Plaintiff and defendant are husband and wife, that they <unclear>enter</unclear> married in San Francisco State of California on the 25th day of October A.D. 1876, and <unclear>ever since Lan Win</unclear> and now are husband and wife.</p>
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
 
-<p>That plaintiff has been a resident of Kalama, in the 2nd Judicial District of Washington Territory, for more than one year immediately presiding the Commencement of this action and that he now is a resident of
+<keywords scheme="original" n="term">
+<term><date when="1878-05">May 1878</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Seibert, John</term>
+<term>Seibert, Sarah E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Kalama, Washington</term>
+<term>Olympia, Washington</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Seibert, John</persName>
+</person>
+<person role="defendant">
+<persName>Seibert, Sarah E.</persName>
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Last, First</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the Second Judicial District of Washington Territory</orgName>
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nl">transcribed.</change> 
+<change when="2019" who="sab">encoded, edited transcription.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0106.001"/> 
+
+<p></p>
+<p>In the District Court of 
+the Second Judicial District 
+of Washington Territory holding 
+Terms at Olympia for the Counties 
+of Cowlitz and Wahkiakum</p>
+
+<p>John Seibert 
+Plaintiff 
+vs. 
+Sarah E. Seibert 
+Defendant} No 71 Complaint</p>
+
+<p>John Seibert the above named 
+Plaintiff complains of Sarah E. Seibert 
+and for Cause of Action Alleges</p>
+
+<p>That Plaintiff and defendant are 
+husband and wife, that they <unclear>enter</unclear>
+married in San Francisco State of 
+California on the 25th day of 
+October A.D. 1876, and <unclear>ever since 
+Lan Win</unclear> and now are husband 
+and wife.</p>
+
+<p>That plaintiff has been a resident 
+of Kalama, in the 2nd Judicial District 
+of Washington Territory, for more than 
+one year immediately presiding 
+the Commencement of this action 
+and that he now is a resident of
 
 <pb...></pb...>
 
 the District aforesaid</p>
 
-<p>That on the <gap></gap> day of December 1877 at the regular December term of the District Court of Washington Territory, holding terms at Olympia for the Counties of <unclear>Clilealis</unclear>, <unclear>Juass</unclear> Lewis and Thurston, and before this action was commenced, the said Defendant, Sarah E. Seibert <unclear>was</unclear> duly convicted of the Crime of Polygamy, and duly Sentenced by the said Court to Confinement in the penitentiary for the Term of Eighteen months and in <unclear>pursuance</unclear> of said Sentence the defendant is now Confined in the County Jail of Thurston County there being no Territorial penitentiary in the Territory of Washington.</p>
+<p>That on the <gap></gap> day of December 1877 
+at the regular December term of 
+the District Court of Washington 
+Territory, holding terms at Olympia 
+for the Counties of <unclear>Clilealis</unclear>, <unclear>Juass</unclear> 
+Lewis and Thurston, and 
+before this action was commenced, the said 
+Defendant, Sarah E. Seibert <unclear>was</unclear> duly 
+convicted of the Crime of Polygamy, and 
+duly Sentenced by the said Court to 
+Confinement in the penitentiary 
+for the Term of Eighteen months 
+and in <unclear>pursuance</unclear> of said Sentence 
+the defendant is now Confined in 
+the County Jail of Thurston County 
+there being no Territorial penitentiary 
+in the Territory of Washington.</p>
 
-<p>Wherefore plaintiff prays that the bonds of matrimony between plaintiff and defendant be dissolved, and plaintiff have such often and <unclear>further</unclear> relief as may be equitable and just</p>
+<p>Wherefore plaintiff prays that 
+the bonds of matrimony between 
+plaintiff and defendant be dissolved, 
+and plaintiff have such often and 
+<unclear>further</unclear> relief as may be equitable 
+and just</p>
 
 <p>John Seibert Plaintiff</p>
 
 <del>Territory for</del>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

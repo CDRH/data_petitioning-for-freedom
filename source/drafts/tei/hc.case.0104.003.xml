@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.00104.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.00104.003"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gaw et. al. v. Carroll. Confirmation of Application for Writ of Habeas Corpus</title> 
+<title>Gaw et. al. v. Carroll. Response to Petition for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0104.002</idno> 
+<idno type="project">oscys.case.0104.003</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gaw et. al. v. Carroll. Confirmation of Application for Writ of Habeas Corpus</title>
-<date when="1888-10-19">October 19, 1888</date>
+<title level="m" type="main">Gaw et. al. v. Carroll. Response to Petition for Writ of Habeas Corpus</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,36 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ashton, Jas M.</term>
+<term>Allyn, Frank</term>
 <term>Carroll, James</term>
-<term>Chang, Chung</term>
-<term>Chock, Gen</term>
-<term>Chong, Ah</term>
-<term>Chong, Gee</term>
-<term>Chuy, Ah</term>
-<term>Cuoy, Lum</term>
-<term>Gay, Wing</term>
-<term>Gong, Ah</term>
-<term>Gow, Ah</term>
-<term>Greng, Chung</term>
-<term>Hay, Ah</term>
-<term>Hong, Ah</term>
-<term>Hong, Lum</term>
-<term>John, Ah</term>
-<term>Kong, Hong</term>
-<term>Long, Ling</term>
-<term>Lum, Ah</term>
-<term>Ming, Chew</term>
-<term>Nam, Ah</term>
-<term>Poy, Ah</term>
-<term>See, Ah</term>
-<term>Suoy, Ah</term>
-<term>Suoy, Say</term>
-<term>Wah, Sin</term>
-<term>Wai, Ah</term>
-<term>Wing, Ah</term>
-<term>Woo, Ah</term>
-<term>Yook, Chen</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -124,13 +96,6 @@
 </keywords>
 
 </textClass>
-
-<p>Ah Gow, Ah Chong, Ah Lum, Lum Cuoy, Chung Chang, Ling 
-Long, Gen Chock, Ah Woo, Say Suoy, Ah John, Ah Chuck, Ah 
-See, Ah Gong, Ah Hong, Gee Chong, Hong Kong, Ah Chuy, Ah 
-Hay, Wing Gay, Sin Wah, Ah Poy, Chen Yook, Lum Hong, Ah 
-Wing, Ah Nam, Ah Suoy, Chung Greng, Chew Ming, and Ah 
-Wai.</p>
             
 <particDesc>   
 <listPerson>           
@@ -260,7 +225,7 @@ Wai.</p>
                
 <div1 type="case">
 
-<pb facs="hc.case.0104.002"/> 
+<pb facs="hc.case.0104.003"/> 
 
 <note>2443</note>
 
