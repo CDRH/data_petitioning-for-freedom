@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Clark, Michael, and Anson v. Henry Mitchell, Henry Russell and Elijah Mitchell. Judge Order Allowing Suit</title>
+<title>Michael and Anson v. Henry Mitchell and Henry Russell. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William Clark, Michael, and Anson v. Henry Mitchell, Henry Russell and Elijah Mitchell. Judge Order Allowing Suit</title>
+<title level="m" type="main">Michael and Anson v. Henry Mitchell and Henry Russell. Writ of Habeas Corpus</title>
 <date when="1832-05-23">May23, 1832</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,11 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Carr, William C.</term>
+<term>Clark, William</term>
+<term>Gamble, Archibald</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -107,13 +108,10 @@
 <persName>Anson</persName>
 </person>
 <person role="defendant">
-<persName>Mitchell, Henry</persName>
+<persName>Mitchell, Henry <addName type="alias">Elijah</addName></persName>
 </person>
 <person role="defendant">
 <persName>Russell, Henry</persName>
-</person>
-<person role="defendant">
-<persName>Mitchell, Elijah</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Strother, George F.</persName>
