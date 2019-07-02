@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Francis Hickman. Writ of Habeas Corpus</title>
+<title>Missouri v. Francis Hickman. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Francis Hickman. Writ of Habeas Corpus</title>
+<title level="m" type="main">Missouri v. Francis Hickman. Writ of Habeas Corpus</title>
 <date when="1825-04-15">April 15, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -79,11 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Archibald Gamble Clerk</term>
-<term>Brown, J.P.</term>
-<term>Hickman, Francis</term>
-<term>Steinman, F.</term>
-<term>Walker, J.R.</term>
+<term>Gamble, Archibald</term>
 </keywords>
 
 <keywords scheme="original" n="term">
@@ -95,25 +91,24 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Missouri</term>
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Hickman, Francis</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Walker, J.R.</persName>
+<persName>Walker, J. R.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Brown, J.P.</persName>
+<persName>Brown, J. P.</persName>
 </person>
 <person role="judge">
 <persName>Stuart, Alexander</persName>
@@ -129,7 +124,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>   
+<change when="2019" who="lkw"> reviewed</change>      
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
@@ -149,9 +145,8 @@ to F Hickman</p>
 
 <p>Executed the within 
 Habeas Corpus on 
-F <unclear>Steinman</unclear> by reading 
-it to him and del  <!-- word split between lines -->
-ivering to him a copy thereof <del></del></p>
+F Hickman by reading 
+it to him and delivering to him a copy thereof <del></del></p>
 
 <p>On 15th April 1823</p>
 
@@ -169,8 +164,7 @@ Sarah and Hannah free girls of colour detained
 in your custody as it is said together with the 
 day and cause of their being taken and detained 
 before our Circuit Court within and for the County 
-of St. Louis now in session at the city of St. Louis im  <!-- word split between lines -->
-mediately after the receipt of this writ to do and 
+of St. Louis now in session at the city of St. Louis immediately after the receipt of this writ to do and 
 receive all and singular those things which our 
 said Court state consider concerning them in their 
 behalf, and have you then there this writ.</p>
