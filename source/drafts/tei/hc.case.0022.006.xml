@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v James Young. List of Names</title>
+<title>Missouri v. James Young. List of Those Summoned</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v James Young. List of Names</title>
+<title level="m" type="main">Missouri v. James Young. List of Those Summoned</title>
 <date when="1824-06">June 1824</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,32 +87,31 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Esles, Th.</term>
-<term>Lindell, P.</term>
-<term>Pratee Jor, B.</term>
-<term>Young, B.</term>
-<term>Young, James</term>
+<term>Estes, Thomas</term>
+<term>Lindell, Peter</term>
+<term>Pratte, Bernard, Jr.</term>
+<term>Young, Benjamin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Young, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Ferguson, Peter</persName>
@@ -131,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,13 +145,13 @@
 
 <p>Executed on 
 P Lindell 
-Th Esles 
+Th Estes 
 B. Young on 
 the 21st June 1824 per
-B Pratee Jor 
-<unclear></unclear> day 
-<unclear></unclear> K <unclear></unclear> 
-<unclear></unclear></p>
+B Pratee Jr 
+<unclear/> day 
+<unclear>Mr</unclear> K Walker 
+<unclear>fee $22</unclear></p>
 
 
 <p>James Young 
@@ -159,9 +159,9 @@ Habeas Corpus</p>
 
 <p>supa for 
 +Peter Lindell 
-+Thos Esles 
-+ Bery Youn g&amp; 
-+ Ber. Pratee Jr</p>
++Thos Estes 
++ Benj Young &amp; 
++ Ber. Pratte Jr</p>
 
 </div1>
     

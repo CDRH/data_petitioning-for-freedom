@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v James Young. Memo to the Sheriff</title>
+<title>Missouri v. James Young. Summons</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v James Young. Memo to the Sheriff</title>
+<title level="m" type="main">Missouri v. James Young. Summons</title>
 <date when="1820">1820</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,39 +83,37 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1820">1820</date></term>
+<term><date when="1824">1824</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk, C.C.</term>
-<term>Esles, Thomas</term>
+<term>Gamble, Archibald</term>
+<term>Estes, Thomas</term>
 <term>Lindell, Peter</term>
-<term>Prattjor, Bernard</term>
+<term>Pratte, Bernard, Jr.</term>
 <term>Young, Benjamin</term>
-<term>Young, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Missouri</term>
-<term>St. Louis Circuit Court</term>
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Young, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Ferguson, Peter</persName>
@@ -134,6 +132,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,14 +145,14 @@
 
 <pb facs="hc.case.0022.005"/>
 
-<p>County of St. Louis, set.</p>
+<p>County of St. Louis, sct.</p>
 
 <p>The State of Missouri,</p>
 
 <p>To the Sheriff of St. Louis County-Greeting:</p>
 
 <p>YOU are hereby commanded to SUMMON Peter Lindell, Thomas 
-Esles, Benjamin Young, &amp; Bernard Prattjor 
+Estes, Benjamin Young, &amp; Bernard Pratte jr 
 
 that setting aside all manner of excuse and delay they be and appear in proper person before the Judge 
 of our Circuit Court, <del>on the day of</del> forthwith at the city of St. Louis, 

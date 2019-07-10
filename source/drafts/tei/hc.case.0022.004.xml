@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v James Young. Writ of Habeas Corpus</title>
+<title>Missouri v. James Young. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v James Young. Writ of Habeas Corpus</title>
+<title level="m" type="main">Missouri v. James Young. Writ of Habeas Corpus</title>
 <date when="1823-10-11">October 11, 1823</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,28 +88,27 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Bush, John</term>
-<term>Young, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Young, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Ferguson, Peter</persName>
@@ -128,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,9 +148,8 @@ Greeting</p>
 <p>Whereas a certain negro man who calls himself 
 James Young and says he is free but has no letters 
 of emancipation with him, nor has he in any way 
-satisfied <unclear>sue</unclear> of his claim to freedom, these are there  <!-- word split between lines. -->
-fore to require you to take the said James Young into 
-your safe keeping, and discharge him when <unclear>therecan</unclear> 
+satisfied me of his claim to freedom, these are therefore to require you to take the said James Young into 
+your safe keeping, and discharge him when <unclear>therein</unclear> 
 to required by law - &amp; for which this shall be your 
 warrant, given under my hand this 11th October 
 1823.</p>
@@ -159,7 +158,7 @@ warrant, given under my hand this 11th October
 <p>Justice of the Peace</p>
 <p>County St Louis</p>
 
-<p>Returned Executed this court by delivering the body of 
+<p>Returned Executed this writ by delivering the body of 
 James the within named boy to the sheriff 
 October 11th 1823</p>
 
@@ -170,10 +169,9 @@ October 11th 1823</p>
 <p>Copy of commitment 
 of James Young</p>
 
-<p>Habeas Corp  <!-- word split between lines. -->
-us to James Young</p>
+<p>Habeas Corpus to James Young</p>
 
-<p><unclear></unclear> &amp;c</p>
+<p><unclear/> &amp;c</p>
 
 </div1>
     

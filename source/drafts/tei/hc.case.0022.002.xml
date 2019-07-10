@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v James Young. Memo to the Sheriff</title>
+<title>Missouri v. James Young. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v James Young. Memo to the Sheriff</title>
+<title level="m" type="main">Missouri v. James Young. Writ of Habeas Corpus</title>
 <date when="1824-06-21">June 21, 1824</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,29 +87,29 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
-<term>Young, James</term>
+<term>Gamble, Archibald</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Young, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Ferguson, Peter</persName>
@@ -128,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,7 +141,7 @@
 
 <pb facs="hc.case.0022.002"/>
 
-<p>County of St Louis Js</p>
+<p>County of St Louis ss</p>
 
 <p>The State of Missouri</p>
 
@@ -151,7 +152,7 @@ detained in the prison of the County aforesaid under your custody as it is
 said under a safe and secure conduct together with the day and 
 cause of his being taken and detained by whatsoever name he shall 
 be called in the same before our Circuit Court within and for the County 
-of St Louis now in Sepion at the City of St Louis immediately after the 
+of St Louis now in Session at the City of St Louis immediately after the 
 receipt of this writ to do and receive all and singular those things which 
 our said Court shall then and there consider concerning him in 
 this behalf and have you then there this writ</p>

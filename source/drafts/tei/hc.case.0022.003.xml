@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v James Young. Response from the Sheriff</title>
+<title>Missouri v. James Young. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v James Young. Response from the Sheriff</title>
+<title level="m" type="main">Missouri v. James Young. Return</title>
 <date when="1824-06-21">June 21, 1824</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,30 +87,28 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Walker, K.</term>
-<term>Young, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>State of Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>State of Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Young, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Ferguson, Peter</persName>
@@ -129,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,14 +142,14 @@
 
 <p>In obedience to this writ I have here 
 in court the body of the within 
-names James Young who was 
+named James Young who was 
 committed to jail on the 11th October 
-1830 by within of a warrant issued 
+1830 by virtue of a warrant issued 
 by Peter Ferguson Esquire one of the 
 Justices of the Peace within &amp; for the 
-County of St Louis <del></del> 
-will now fully appear by the claim 
-<unclear>srin</unclear> writ a copy of which is presented 
+County of St Louis <del/> 
+will now fully appear by the said 
+warrant a copy of which is presented 
 annexed and makes a point of this my 
 return to the said writ.</p>
 
