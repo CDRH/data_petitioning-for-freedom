@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Catiche, Julia, Helen, and Joseph v. Walker, Chouteau, Pratte, and Amelin. Memo to the Jailor</title>
+<title>Missouri v. John K. Walker, Pierre Chouteau, Bernard Pratte and Alexis Amelin. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,9 +50,10 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Catiche, Julia, Helen, and Joseph v. Walker, Chouteau, Pratte, and Amelin. Memo to the Jailor</title>
+<title level="m" type="main">Missouri v. John K. Walker, Pierre Chouteau, Bernard Pratte and Alexis Amelin. Order</title>
 <date when="1826-05-10">May 10, 1826</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note>Page is torn on right side.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -87,39 +88,27 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
-<term>Amelin, Alexis</term>
+<term>Gamble, Archibald</term>
 <term>Catiche</term>
-<term>Couteau, Pierre Sr</term>
 <term>Helen</term>
 <term>Joseph</term>
-<term>Julia</term>
-<term>Pratte, Bernard</term>
+<term>Julie</term>
 <term>Scott, Alexander</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Julia</persName>
-</person>
-<person role="petitioner">
-<persName>Catiche</persName>
-</person>
-<person role="petitioner">
-<persName>Helen</persName>
-</person>
-<person role="petitioner">
-<persName>Joseph</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
-<persName>Chouteau, Pierre Sr</persName>
+<persName>Chouteau, Pierre, Sr.</persName>
 </person>
 <person role="defendant">
 <persName>Walker, John K.</persName>
@@ -137,7 +126,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Robert Wash</persName>
+<persName>Wash, Robert</persName>
 </person>
 </listPerson>
             
@@ -153,6 +142,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Fixed transcription, encoded.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -165,26 +155,26 @@
 
 <pb facs="hc.case.0024.002"/>
 
-<!-- Letter is torn off on right side. -->
+
 <p>County of S Louis <unclear/>
 The State of Missouri 
 To the Jailor of S Louis County
 Pierre Chouteau Sr Bernard Pratte and 
 Alexis Amelin - Greeting - </p>
 
-<p>Whereas it has been made appeal
+<p>Whereas it has been made <unclear>appearant</unclear>
 to our Circuit Court now in session at the 
 City of S Louis wihtin and for the County 
 of S Louis that you the Jailor of S Louis 
 County, and Pierre Chouteau Sr Bernard 
 Pratte and Alexis Amelin, detain in your 
 Custody certain persons of colour namely 
-Catiche alias Catherine, Julia, Joseph <unclear/>
+Catiche alias Catherine, Julie, Joseph <unclear>&amp;</unclear>
 Helen who have petitioned and attained 
 leave from our said court to sue certain
 persons to establish their freedom.
 These are therefore to come <unclear/> <unclear/>
-that the bodies of the said Catiche Julia 
+that the bodies of the said Catiche <unclear>Julie</unclear> 
 Joseph and Helen by you detained under 
 safe and secure conduct together with 
 the day and cause of their being taken
@@ -193,7 +183,7 @@ may be called, you have before the
 Judge of our Circuit Court on Friday
 the 19th day of May instant at the
 Court house in the City of S Louis 
-Then and there to do and recieve 
+Then and there to do and receive 
 in whatsoever our said Court shall 
 consider in that behalf.</p>
 

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Catiche, Julia, Helen, and Joseph v. Walker, Chouteau, Pratte, and Amelin. Cover</title>
+<title>Missouri v. John K. Walker, Pierre Chouteau, Bernard Pratte and Alexis Amelin. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">State v. Walker, Chouteau, Pratte, Amelin. Cover</title>
+<title level="m" type="main">Missouri v. John K. Walker, Pierre Chouteau, Bernard Pratte and Alexis Amelin. Cover</title>
 <date when="1826-03">March 1826</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,40 +87,26 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Amelin, Alexis</term>
-<term>Brown, General</term>
 <term>Catiche</term>
-<term>Couteau, Pierre Sr</term>
 <term>Helen</term>
 <term>Joseph</term>
-<term>Julia</term>
-<term>Pratte, Bernard</term>
+<term>Julie</term>
 <term>Scott, Alexander</term>
-<term>Walker, John K.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Julia</persName>
-</person>
-<person role="petitioner">
-<persName>Catiche</persName>
-</person>
-<person role="petitioner">
-<persName>Helen</persName>
-</person>
-<person role="petitioner">
-<persName>Joseph</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
-<persName>Chouteau, Pierre Sr</persName>
+<persName>Chouteau, Pierre, Sr.</persName>
 </person>
 <person role="defendant">
 <persName>Walker, John K.</persName>
@@ -138,7 +124,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Robert Wash</persName>
+<persName>Wash, Robert</persName>
 </person>
 </listPerson>
             
@@ -154,6 +140,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Fixed transcription, encoded.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -172,20 +159,20 @@
 
 <p>State</p> 
 <p>vs</p>
-<p>John K Walker, Esq. (jailor of St. Louis) </p>
+<p>John K Walker, Esq. (jailor of St. Louis)</p>
 <p>Pierre Chouteau, Sr</p>
-<p>Bernard Pratte </p>
-<p>Alexis Amelin </p>
+<p>Bernard Pratte</p>
+<p>Alexis Amelin</p>
 
-<p>Habeas Corpus, Writ of 
+<p>Habeas Corpus, Writ of</p>
 
-Four slaves suing for freedom 
+<p>Four slaves suing for freedom 
 Catiche - Catherine} held by Walker at request of Amelin for Scott 
 Julia}
 Helen}
 Joseph- according to Amelin, held by Chouteau, Sr 
 
-Alexis Amelin agent for Alexander Scott, captain of the steamboat "General Brown" </p>
+Alexis Amelin agent for Alexander Scott, captain of the steamboat "General Brown"</p>
 
 </div1>
     
