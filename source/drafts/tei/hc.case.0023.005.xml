@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Rolla Rose. Attachment Against Rolla Rose</title>
+<title>Missouri v. Rolla Rose. Attachment Against Rolla Rose</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Rolla Rose. Attachment Against Rolla Rose</title>
+<title level="m" type="main">Missouri v. Rolla Rose. Attachment Against Rolla Rose</title>
 <date when="1825-03">March 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,20 +86,20 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Rose, Rolla</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Rose, Rolla</persName>
 </person>
@@ -126,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,18 +139,18 @@
 
 <pb facs="hc.case.0023.005"/>
 
-<p> May 1825 
+<p>May 1825 
 Attachment against 
-Rolla Rose </p>
+Rolla Rose</p>
 
-<p> <unclear> Granted in </unclear>
-<unclear></unclear>; the body 
+<p>Executed in 
+have the body 
 of R Rose in 
-Court <unclear></unclear>; <unclear></unclear>; 
-1825 </p>
-<p> <unclear></unclear>; 
-Deft </p>
-<p> <unclear></unclear>; $1.00 </p>
+Court <unclear>5</unclear> <unclear>May</unclear>
+1825</p>
+<p>Mr K Walker
+Shff</p>
+<p>fees $1.00</p>
 
 </div1>
     

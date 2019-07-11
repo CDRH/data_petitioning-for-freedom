@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Rolla Rose. James McClure Sworn Faith</title>
+<title>Missouri v. Rolla Rose. James McClure Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Rolla Rose. James McClure Sworn Faith</title>
+<title level="m" type="main">Missouri v. Rolla Rose. James McClure Sworn</title>
 <date when="1825-04-25">April 25, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,24 +86,23 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
+<term>Gamble, Archibald</term>
 <term>Hannah</term>
 <term>McClure, James</term>
-<term>Rose, Rolla</term>
 <term>Sarah</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Rose, Rolla</persName>
 </person>
@@ -130,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,18 +142,18 @@
 
 <pb facs="hc.case.0023.003"/>
 
-<p> State of Missouri </p>
-<p> County of St. Louis </p>
-<p> JS James McClure being sworn faith 
-that an the twenty fourth day of this present month 
-he said <unclear></unclear> she <unclear> wed </unclear> the within writ <unclear></unclear> seal thereof 
-to the within named Rolla Rose, &amp; gave <unclear> true copy </unclear>
+<p>State of Missouri</p>
+<p>County of St. Louis SS</p>
+<p>James McClure being sworn saith 
+that on the twenty fourth day of this present month 
+he said deponent showed the within writ &amp; seal thereof 
+to the within named Rolla Rose, &amp; gave a true copy 
 of the within to the said Rolla on the same day 
-&amp; further faith <unclear> not </unclear> </p>
-<p> James McClure </p>
-<p> Sworn to &amp; subscribed this} 
-25th day of April 1825} </p>
-<p> A Gamble Clerk </p>
+&amp; further saith not</p>
+<p>James McClure</p>
+<p>Sworn to &amp; subscribed this} 
+25th day of April 1825}</p>
+<p>A Gamble Clerk</p>
 
 </div1>
     

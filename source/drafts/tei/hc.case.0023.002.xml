@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Rolla Rose. Writ of Habeas Corpus</title>
+<title>Missouri v. Rolla Rose. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Rolla Rose. Writ of Habeas Corpus</title>
+<title level="m" type="main">Missouri v. Rolla Rose. Writ of Habeas Corpus</title>
 <date when="1825-04-25">April 25, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,25 +86,22 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
+<term>Gamble, Archibald</term>
 <term>Hannah</term>
-<term>Rose, Rolla</term>
 <term>Sarah</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
-<term>Missouri</term>
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Rose, Rolla</persName>
 </person>
@@ -131,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,43 +141,43 @@
 
 <pb facs="hc.case.0023.002"/>
 
-<p> County of St Louis <unclear></unclear> </p>
-<p> The State of Missouri </p>
+<p>County of St Louis SS</p>
+<p>The State of Missouri</p>
 <p>to Rolla Rose 
-Greeting </p>
+Greeting</p>
  
-<p> You are hereby commanded to have the bodies of Hannah 
-and Sarah otherwise called <unclear> Sade </unclear>free girls of colour detained 
+<p>You are hereby commanded to have the bodies of Hannah 
+and Sarah otherwise called Sade free girls of colour detained 
 in your custody as it is said together with the day and 
-cause of their caption and detained, before and Circuit 
-<unclear> Court </unclear>now in Session at the city of St Louis within and 
+cause of their caption and detainer, before and Circuit 
+Court now in Session at the city of St Louis within and 
 for the County of St Louis immediately after the receipt 
-of this <unclear> unit </unclear>, then and there to do and <unclear></unclear> what <unclear> and </unclear>
+of this writ, then and there to do and receive what our
 said court in this behalf shall consider and have 
-you then there this <unclear> unit </unclear> </p>
+you then there this writ</p>
 
-<p> Witness Archibald Gamble Clerk 
+<p>Witness Archibald Gamble Clerk 
 of our said court this 23rd day
-of April 1823 </p>
+of April 1825</p>
 
-<p> Archibald Gamble Clk </p>
+<p>Archibald Gamble Clk</p>
 
-<p> The above named Rolla Rose appears here in open
-court and for return to the above court says that he 
-had not before or at the time of the <unclear> way </unclear> <unclear></unclear> the 
-said units nor at any time since detain in 
+<p>The above named Rolla Rose appears here in open
+court and for return to the above writ says that he 
+<del>had</del> did not before or at the time of the <unclear/> <unclear>out</unclear> the 
+said writ nor at any time since detain in 
 his custody the said Hannah and Sarah or either of 
 them, nor doth he now detain them in either of 
 
-them, in his custody or power </p>
+them, in his custody or power</p>
 
-<p> Sworn to <unclear> and duly scribed </unclear> in 
-<unclear></unclear> Court May 9th 1825 </p>
-<p> Rolla Rose </p>
-<p> A Gamble Clerk </p>
+<p>Sworn to &amp; subscribed  in 
+open Court May 9th 1825</p>
+<p>Rolla Rose</p>
+<p>A Gamble Clerk</p>
 
-<p> To Rolla Rose </p>
-<p> Habeas Corpus </p>
+<p>To Rolla Rose</p>
+<p>Habeas Corpus</p>
 
 </div1>
     

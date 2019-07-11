@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>MO v. Rolla Rose. Memo to the Sheriff</title>
+<title>Missouri v. Rolla Rose. Contempt of Court</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">MO v. Rolla Rose. Memo to the Sheriff</title>
+<title level="m" type="main">Missouri v. Rolla Rose. Contempt of Court</title>
 <date when="1825-05-07">May 7, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -100,9 +100,9 @@
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>Missouri</persName>
-</person>
+<org role="petitioner">
+<orgName>Missouri</orgName>
+</org>
 <person role="defendant">
 <persName>Rose, Rolla</persName>
 </person>
@@ -129,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="mn">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,23 +142,22 @@
 
 <pb facs="hc.case.0023.004"/>
 
-<p> County of St Louis <unclear> JS </unclear></p>
-<p> The State of Missouri </p>
-<p> To the Sheriff of said County 
-Greeting </p>
-<p>We command you to attach Rolla Rose if he may 
-be found within your <unclear> baileveok </unclear> and bring him before the 
-Judge of Am Circuit Court at the City of St Louis within and 
+<p>County of St Louis SS</p>
+<p>The State of Missouri</p>
+<p>To the Sheriff of said County 
+Greeting</p>
+<p>We command you to attack Rolla Rose if he may 
+be found within your bailiwick  and bring him before the 
+Judge of Our Circuit Court at the City of St Louis within and 
 for the County of St Louis on Monday the ninth day of May 
-<unclear> Instant </unclear>then and there to answer unto the State of Missouri 
-touching a certain contempt by him committed in not obey
--ing a writ of Habeas Corpus to him directed and have you
-then there this <unclear> unit </unclear> </p>
+Instant then and there to answer unto the State of Missouri 
+touching a certain contempt by him committed in not obeying a writ of Habeas Corpus to him directed and have you
+then there this writ</p>
 
-<p> Witness Archibald <unclear> Gamble </unclear> Clerk of <unclear> am </unclear>
-said Court at offices this 7th day of 
-May 1825 </p>
-<p> Archibald Gamble Clerk </p>
+<p>Witness Archibald Gamble  Clerk of our
+said Court at office this 7th day of 
+May 1825</p>
+<p>Archibald Gamble Clerk</p>
 
 </div1>
     
