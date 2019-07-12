@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Witness Sworn Statement</title>
+<title>John Plackett and May Plackett v. Missouri. Hannah Lee Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Witness Sworn Statement</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Hannah Lee Statement</title>
 <date when="1825-12-19">December 19, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,11 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Lee, Hannah</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -108,17 +105,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -134,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,19 +144,19 @@
 
 <pb facs="hc.case.0026.012"/>
 
-<p> Hannah Lee being duly sworn on her oath saith--that some day 
+<p>Hannah Lee being duly sworn on her oath saith&#8212;that some day 
 last week Mrs Placket told her that whenever the girl now present made her angry 
-she threw her on the fire and would do so again--that she saw 
+she threw her on the fire and would do so again&#8212;that she saw 
 Mr Placket take a broom handle and beat the said girl over the head 
-&amp; that she also saw Mrs Placket do the same at a different time--that she saw 
+&amp; that she also saw Mrs Placket do the same at a different time&#8212;that she saw 
 the girl with a rope round her neck and Mrs Placket pulling her 
 down stairs--</p>
 
-<fw type="footer">Sworn to and subscribed before 
+<p>Sworn to and subscribed before 
     me 19th December 1825 
-    P Ferguson J.P. </fw>
+    P Ferguson J.P. </p>
 
-<p> Hannah Lee </p>
+<p>Hannah Lee</p>
 
 </div1>
     

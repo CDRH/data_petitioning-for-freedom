@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Confirmation of Truth to All Sworn Statements to Judge</title>
+<title>John Plackett and May Plackett v. Missouri. Testimony Witnessed</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Confirmation of Truth to All Sworn Statements to Judge</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Testimony Witnessed</title>
 <date when="1825-12-17">December 17, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,14 +87,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Finney, John</term>
 <term>Shephard, Elihu H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>County of St. Louis</term>
-<term>Missouri</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -107,17 +105,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -133,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,19 +144,19 @@
 
 <pb facs="hc.case.0026.006"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis } Ss </p>
+<p>State of Missouri</p>
+<p>County of St Louis } Ss</p>
 
-<p> We <unclear> Elihu </unclear> H Shepard &amp; John Finney 
+<p>We Elihu H Shepard &amp; John Finney 
 having heard the above deposition read do swear that we believe 
-that all the statements made therein are true </p>
+that all the statements made therein are true</p>
 
-<p> <unclear> Elihu </unclear> H. Shepard </p>
-<p> John Finney </p>
+<p>Elihu H. Shepard</p>
+<p>John Finney</p>
 
-<p> Sworn to and subscribed before me this 17h Decr 1825 </p>
-<p> P Ferguson J.P. </p>
-<p> County St Louis </p>
+<p>Sworn to and subscribed before me this 17h Decr 1825</p>
+<p>P Ferguson J.P.</p>
+<p>County St Louis</p>
 
 </div1>
     

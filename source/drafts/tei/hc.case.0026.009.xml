@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Memo from the Judge to the Constable</title>
+<title>John Plackett and May Plackett v. Missouri. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Summon for All Witnesses to Attend Trial by the Judge</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Order</title>
 <date when="1825-12-19">December 19, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,19 +87,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Finney, John</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
 <term>Shephard, Elihu H.</term>
 <term>Warner, Jabez</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>County of St. Louis</term>
-<term>Missouri</term>
-<term>Township of St. Louis</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -112,17 +107,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -138,6 +133,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,32 +145,32 @@
 <div1 type="case">
 
 <pb facs="hc.case.0026.009"/>
-<p> County of St Louis - The State of Missouri </p>
+<p>County of St Louis - The State of Missouri</p>
 
-<p> To the constable of St Louis Township and the keeper of the Jail of 
-Said County          Greeting- </p>
+<p>To the constable of St Louis Township and the keeper of the Jail of 
+Said County          Greeting-</p>
 
-<p> These are to command you the said constable forthwith to convey 
+<p>These are to command you the said constable forthwith to convey 
 and deliver into the custody of the keeper of the Jail of the County of 
-St Louis aforesaid the body of John Plackett and that of         Plackett 
+St Louis aforesaid the body of John Plackett and that of   <gap/>      Plackett 
 his wife of St Louis taken and brought before me, a Justice of the peace 
 within and for the county aforesaid and charged before me upon the 
 oaths of Jabez Warner E.H. Shepherd and John Finney with 
 barbarous and inhuman treatment to a certain Female child (called 
 (Lucy as has since been understood) maiming beating and ill using 
-said child to the <unclear></unclear> danger of her life. And you the said keeper <!-- word struck out between "the" and "danger". --> 
+said child to the <del/> danger of her life. And you the said keeper  
 of the said Jail are hereby required to receive the said John Plackett 
-and        Plackett his wife into your custody in the said Jail 
+and   <gap/>     Plackett his wife into your custody in the said Jail 
 and them there safely keep until they shall thence be discharged 
-by due course of law--         Given under my hand and seal 
+by due course of law&#8212;         Given under my hand and seal 
 at the County aforesaid this nineteenth day of December in the 
-Year of our Lord One Thousand Eight hundred and Twenty Five </p>
+Year of our Lord One Thousand Eight hundred and Twenty Five</p>
 
-<p> Peter Ferguson </p>
-<p> Justice of the Peace </p>
-<p> County of St. Louis </p>
-<p> State of Missouri </p>
-<p> Seal </p>
+<p>Peter Ferguson</p>
+<p>Justice of the Peace</p>
+<p>County of St. Louis</p>
+<p>State of Missouri</p>
+<p>Seal</p>
 
 </div1>
     

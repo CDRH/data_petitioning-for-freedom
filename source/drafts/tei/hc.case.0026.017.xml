@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Summon of Witnesses to the Sheriff</title>
+<title>John Plackett and May Plackett v. Missouri. Summons</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Summon of Witnesses to the Sheriff</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Summons</title>
 <date when="1825-12-21">December 21, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,25 +87,21 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
+<term>Gamble, Archibald</term>
 <term>Farror, Bernard</term>
 <term>Finney, John</term>
 <term>Finney, William</term>
-<term>Fouche, Moe Louis</term>
+<term>Fouche, Louis</term>
 <term>Lane, William C.</term>
 <term>Lee, Hannah</term>
 <term>Pearce, George</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
 <term>Shepperd, Elihu H.</term>
 <term>Warner, Jabez</term>
 <term>Witgens, Asa</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>County of St. Louis</term>
-<term>Missouri</term>
-<term>St. Louis</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -118,17 +114,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -144,6 +140,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -156,26 +153,26 @@
 
 <pb facs="hc.case.0026.017"/>
 
-<p> County of St. Louis, SCT. </p>
-<p> State of Missouri </p>
-<p> To the Sheriff of SLouis County.... Greeting: </p>
-<p> You are hereby commanded to summon Bernard Farror, 
+<p>County of St. Louis, SCT.</p>
+<p>State of Missouri</p>
+<p>To the Sheriff of SLouis County.... Greeting:</p>
+<p>You are hereby commanded to summon Bernard Farror, 
 Wm C Lane, John Finney, Elihu 
 H Shepperd, George Pearce, Asa Witgens, 
 Louis Fouche, Hannah Lee 
-&amp; William Finney, Jabez Warner </p> 
+&amp; William Finney, Jabez Warner</p> 
 
-<p> that setting aside all manner of excuse and delay, he be and appear in proper person before the Judge of our Circuit Court, 
+<p>that setting aside all manner of excuse and delay, he be and appear in proper person before the Judge of our Circuit Court, 
 at 3 O’clock of this day at the City of St. Louis, then and there to testify and the truth to 
-say in a certain matter of controversy, now pending in our said court <unclear> wherein </unclear> upon Habeas Corpus  <!-- "wherein" is crossed out. -->
-obtained by Jno Placket <unclear> plaintiff </unclear> and May his wife  <!-- "plaintiff" is crossed out. -->
-____________ <unclear> defendant, on the part of the </unclear> ________________ and have you then there this writ. </p>  <!-- "defendant, on the part of the" is crossed out. -->
+say in a certain matter of controversy, now pending in our said court <del>wherein</del> upon Habeas Corpus  
+obtained by Jno Placket <del>plaintiff</del> and May his wife  
+____________ <del>defendant, on the part of the</del> ________________ and have you then there this writ.</p>  
 
-<fw type="footer">Witness, Archibald Gamble, Clerk of our said Circuit Court, at the City 
+<p>Witness, Archibald Gamble, Clerk of our said Circuit Court, at the City 
         of St. Louis, this 21st day of Decr in the year of our Lord, 
-        one thousand eight hundred and twenty five </fw>
+        one thousand eight hundred and twenty five </p>
     
-<p> A Gamble Clerk, C.C.</p>
+<p>A Gamble Clerk, C.C.</p>
 
 </div1>
     

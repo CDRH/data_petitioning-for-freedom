@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Petition to the Court from Attorney</title>
+<title>John Plackett and May Plackett v. State. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Petition to the Court from Attorney</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Petition</title>
 <date when="1825-12-21">December 21, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,17 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Attorney Clerk</term>
-<term>Ferguson, Peter</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
-<term>S., Arthur</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -110,17 +104,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -136,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,10 +143,10 @@
 
 <pb facs="hc.case.0026.002"/>
                 
-<p> To the Honbl the Judge of the Circuit Court 
-of the County of St Louis - </p>
+<p>To the Honbl the Judge of the Circuit Court 
+of the County of St Louis -</p>
 
-<p> The petition of John 
+<p>The petition of John 
 Plackett and May his wife respectfully 
 showeth that they are confined in 
 the common Jail of the County of 
@@ -165,24 +160,24 @@ and your petitioners pray that your
 Honor will issue a writ of Habeas 
 Corpus to the Sheriff of said County 
 to bring your petitioners before 
-your Honor. </p>
+your Honor.</p>
 
-<p> John Plackett </p>
-<p> May Plackett </p>
-<p> by </p>
-<p> their Atty </p>
-<p> Arthur S <unclear/> </p>
+<p>John Plackett</p>
+<p>May Plackett</p>
+<p>by</p>
+<p>their Atty</p>
+<p>Arthur S <unclear>Magson</unclear></p>
 
-<p> St Louis Dcer 21 1825</p>
+<p>St Louis Dcer 21 1825</p>
 
 
-<p> No 86 </p>
-<p> November Term St Louis Circuit Court 1825 </p>
+<p>No 86</p>
+<p>November Term St Louis Circuit Court 1825</p>
 
-<p> Papers <unclear></unclear> to Habeas Corpus of John Placket &amp; May his Wife </p>
+<p>Papers relating to Habeas Corpus of John Placket &amp; May his Wife</p>
 
-<p> Filed Nov Term 1825 </p>
-<p> Aly Clk </p>
+<p>Filed Nov Term 1825</p>
+<p>Aly Clk</p>
 
 </div1>
             

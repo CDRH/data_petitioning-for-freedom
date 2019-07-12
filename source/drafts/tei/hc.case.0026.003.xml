@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Writ of Habeas Corpus</title>
+<title>John Plackett and May Plackett v. Missouri. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Writ of Habeas Corpus</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Writ of Habeas Corpus</title>
 <date when="1825-12-21">December 21, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,16 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
-<term>Ferguson, Peter</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
+<term>Gamble, Archibald</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Missouri</term>
-<term>St. Louis Circuit Court</term>
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -109,17 +104,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -135,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,14 +143,14 @@
 
 <pb facs="hc.case.0026.003"/>
 
-<p> County of St Louis <unclear> Sch </unclear> </p>
-<p> The State of Missouri </p>
+<p>County of St Louis <unclear> Sch </unclear></p>
+<p>The State of Missouri</p>
 
-<p> To the Sheriff of St Louis County Greeting </p>
+<p>To the Sheriff of St Louis County Greeting</p>
 
-<p> Whereas it has been represented 
+<p>Whereas it has been represented 
 to our Honorable Circuit Court now 
-sitting at the <unclear> body </unclear> of St Louis within 
+sitting at the City of St Louis within 
 and for the County of St Louis upon 
 the petition of John Placket and 
 May his wife, that they the said 
@@ -162,24 +158,24 @@ John and May are detained in the
 common Jail of said County in your 
 custody, upon a <unclear/> issued 
 by Peter Ferguson Esq a Justice 
-of the Peace of St Louis County </p>
+of the Peace of St Louis County</p>
 
-<p> These one therefore to command 
+<p>These one therefore to command 
 you forthwith to bring the bodies 
 of the said John &amp; May before the 
 Judge of our said Circuit Court 
 now in session together with the 
-day &amp; cause of their <unclear> caption </unclear> and 
+day &amp; cause of their caption  and 
 detention, And that you have them 
 there this writ with your return there
-on endorsed </p>
+on endorsed</p>
 
-<p> Witness Archibald Gamble 
+<p>Witness Archibald Gamble 
 Clerk of said County in 
 Open Court this 21st 
-day of Decr 1825 </p>
+day of Decr 1825</p>
 
-<p> Archibald Gamble Clerk </p>
+<p>Archibald Gamble Clerk</p>
 
 </div1>
     

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Witness Sworn Statement</title>
+<title>John Plackett and May Plackett v. Missouri. William Finney Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Witness Sworn Statement</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. William Finney Statement</title>
 <date when="1825-12-19">December 19, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,10 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Finney, William</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,17 +105,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -133,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,20 +144,20 @@
 
 <pb facs="hc.case.0026.013"/>
 
-<p> William Finney being duly sworn on His oath saith that some time 
+<p>William Finney being duly sworn on His oath saith that some time 
 two or three weeks ago he saw the girl now present tied to a bedpost 
 and Mr Placket beating her over the head with a broom stick and 
-also pushing or punching her in the side with the end of it--some 
-short time after that he saw the girl <unclear/> down and Mr Plackett  <!-- word is crossed out. -->
-either kicking or stomping her. he is not sure which--a few minutes 
+also pushing or punching her in the side with the end of it&#8212;some 
+short time after that he saw the girl <del/> down and Mr Plackett  
+either kicking or stomping her. he is not sure which&#8212;a few minutes 
 before he had seen the girl with irons on and he thinks had them 
-on then--</p>
+on then&#8212;</p>
 
-<fw type="footer">Sworn to and subscribed before 
+<p>Sworn to and subscribed before 
     me 19th December 1825 
-    P Ferguson J.P. </fw>
+    P Ferguson J.P. </p>
 
-<p> Wm Finney </p>
+<p>Wm Finney</p>
 
 </div1>
     

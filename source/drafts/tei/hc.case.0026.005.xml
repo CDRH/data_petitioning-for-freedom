@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Witness Sworn Statement to Judge</title>
+<title>John Plackett and May Plackett v. Missouri. Jabez Warner Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Witness Sworn Statement to Judge</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Jabez Warner Sworn</title>
 <date when="1825-12-21">December 21, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,17 +87,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
-<term>Warner, J.</term>
+<term>Warner, Jabez</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>County of St. Louis</term>
-<term>Missouri</term>
-<term>St. Louis</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -110,17 +105,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -136,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,37 +144,35 @@
 
 <pb facs="hc.case.0026.005"/>
 
-<p> State of Missouri </p>
-<p> County of St. Louis } Ss </p>
+<p>State of Missouri</p>
+<p>County of St. Louis } Ss</p>
 
-<p> Be it Remembered that on the 
+<p>Be it Remembered that on the 
 Seventeenth day of December in the year Eighteen hundred 
 and twenty five before me Peter Ferguson a Justice of the 
 Peace in and for the County of St. Louis, personally came 
-and appeared <unclear> Jabez </unclear> Warner who lodged information <unclear> upon </unclear> <!-- "upon" struck out -->
-before me <unclear> that </unclear> upon oath that he is well informed &amp; does  <!-- "that" struck out -->
-believe that John Plackett &amp;         Plackett his wife have 
-a certain Female slave of the age of <unclear></unclear> Eight to Eleven 
-years <unclear> of age </unclear> whose name is to him unknown that  <!-- "of age" struck out -->
-from the barbarous &amp; inhuman treatment as has been repre- <!-- word split between lines. -->
-sented to him (and as he believes to be the truth) he thinks 
-that the said child is in danger of being brought to a prema-  <!-- word split between lines. -->
-ture death, and that therefore a warrant ought to issue to 
+and appeared Jabez Warner who lodged information <del>upon</del> 
+before me <del>that</del> upon oath that he is well informed &amp; does  
+believe that John Plackett &amp;   <gap/>      Plackett his wife have 
+a certain Female slave of the age of from Eight to Eleven 
+years <del>of age</del> whose name is to him unknown that  
+from the barbarous &amp; inhuman treatment as has been represented to him (and as he believes to be the truth) he thinks 
+that the said child is in danger of being brought to a premature death, and that therefore a warrant ought to issue to 
 cause the said Plackett &amp; his wife to be brought before some 
 competent authority to restrain them from the continuance 
 of such barbarity. to place the slave who has been thus 
 inhumanly treated out of their power &amp; to cause them 
 to give security to keep the peace towards the good people 
-of this state &amp; to such others as the <unclear> proper </unclear> law may  <!-- "proper" struck out -->
-require &amp; to be otherwise dealt with according to laws </p>
+of this state &amp; to such others as the <del>proper</del> law may  
+require &amp; to be otherwise dealt with according to laws</p>
 
-<p> JWarner </p>
+<p>JWarner</p>
 
-<fw type="footer">Sworn to &amp; Subscribed before 
+<p>Sworn to &amp; Subscribed before 
 me this 17h Decr 1825
 Peter Ferguson
 Justice of the Peace
-County of St Louis</fw>
+County of St Louis</p>
 
 </div1>
     

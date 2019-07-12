@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Statement of Bail </title>
+<title>John Plackett and May Plackett v. Missouri. Bail</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Statement of Bail</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Bail</title>
 <date when="1825-12-19">December 19, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,8 +88,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Bloone, J.</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -106,17 +104,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -132,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,24 +143,24 @@
 
 <pb facs="hc.case.0026.010"/>
 
-<p> The State </p>
-<p> vs </p>
-<p> John Plackett &amp;          Plackett </p>
+<p>The State</p>
+<p>vs</p>
+<p>John Plackett &amp; <gap/>  Plackett</p>
 
-<p> The bail demanded in this 
+<p>The bail demanded in this 
 case was one thousand 
-Dollars for each person </p>
+Dollars for each person</p>
 
-<p> Executed the within 
-writ by delievering 
+<p>Executed the within 
+writ by delivering 
 the Bodies of the 
 within named 
 persons to the 
 Jailor this 19h 
-day of Decr 1825 </p>
+day of Decr 1825</p>
 
-<p> J Bloone </p>
-<p> fees $1.50 </p>
+<p>J Bloone</p>
+<p>fees $1.50</p>
 
 </div1>
     

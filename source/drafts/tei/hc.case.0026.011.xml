@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Witness Sworn Statement</title>
+<title>John Plackett and May Plackett v. Missouri. Louise Fouché Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Witness Sworn Statement</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Louise Fouché Statement</title>
 <date when="1825-12-19">December 19, 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,13 +87,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ferguson, Peter</term>
-<term>Fouche, Moe Louis</term>
+<term>Fouché, Louise</term>
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
-<term>Walker</term>
-<term>Whemy, Mcacky</term>
+<term>Walker, John K.</term>
+<term>Wherry, Macky</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -110,17 +107,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -136,6 +133,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,25 +146,25 @@
 
 <pb facs="hc.case.0026.011"/>
 
-<p> Mcacky Whemy was sworn truly to Interpret the Questions of Moe 
-Louis Fouche and her answers thereto. Louis Fouche being duly 
+<p>Macky Wherry was sworn truly to Interpret the Questions of Mde 
+Louis Fouché and her answers thereto. Louise Fouché being duly 
 sworn on her oath saith. That she saw Mr Placket whip the girl now 
 present with a wagon whip. the girl had stolen some provisions from 
-Moe Fouche and on her informing on the girl the said Placket whipped 
-the girl as above stated. She was not <unclear> shipped </unclear>. That about 10 or 12 days ago 
-she saw Madame Placket whip the said girl <unclear> who </unclear> with a cowhide--the <!-- "who" is crossed out. -->
-said Girl was then naked. <unclear> Just </unclear> before Mrs Placket whipt her she saw  <!-- "Just" is crossed out. -->
-Mr Placket strike her twice with his fist--knocking said girl against 
-a barrel--that after the said girl was whipt she saw Mrs Placket 
-throw her while she was naked on the fire--That Madame Placket 
+Mde Fouché and on her informing on the girl the said Placket whipped 
+the girl as above stated. She was not stripped. That about 10 or 12 days ago 
+she saw Madame Placket whip the said girl <del>who</del> with a cowhide&#8212;the 
+said Girl was then naked. <del>Just</del> before Mrs Placket whipt her she saw  
+Mr Placket strike her twice with his fist&#8212;knocking said girl against 
+a barrel&#8212;that after the said girl was whipt she saw Mrs Placket 
+throw her while she was naked on the fire&#8212;That Madame Placket 
 told her that the reason she whipt the girl was that a negroe woman 
-belonging to Mr Walker had advised her to <unclear> kill </unclear> her Mrs Placket </p>
+belonging to Mr Walker had advised her to <unclear>kill</unclear> her Mrs Placket</p>
 
-<fw type="footer">Sworn to and subscribed before me 
+<p>Sworn to and subscribed before me 
     19th December 1825 
-    P Ferguson J.P. </fw>
+    P Ferguson J.P. </p>
 
-<p> Louise her X mark Fouche </p>
+<p>Louise  Fouché her X mark</p>
 
 </div1>
     

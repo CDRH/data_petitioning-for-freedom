@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Plackett and Wife v. State. Cover</title>
+<title>John Plackett and May Plackett v. Missouri. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plackett and Wife v. State. Cover</title>
+<title level="m" type="main">John Plackett and May Plackett v. Missouri. Cover</title>
 <date when="1825-11">November 1825</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,12 +88,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Lucy</term>
-<term>Plackett, John</term>
-<term>Plackett, May</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -106,17 +104,17 @@
 <person role="petitioner">       
 <persName>Plackett, May</persName>
 </person>
-<person role="defendant">
-<persName>State</persName>
-</person>
+<org role="defendant">
+<orgName>Missouri</orgName>
+</org>
 <person role="attorney_petitioner">
-<persName>S., Arthur</persName>
+<persName>Magson, Arthur S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Peter Ferguson</persName>
+<persName>Ferguson, Peter</persName>
 </person>
 </listPerson>
 
@@ -132,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded.</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,21 +143,21 @@
 
 <pb facs="hc.case.0026.001"/>
 
-<p> Box 104      Fold </p>
+<p>Box 104      Fold</p>
 
-<p> St Louis Circuit Court </p>
-<p> Civil Case File No. 86 </p>
-<p> November 1825 </p>
+<p>St Louis Circuit Court</p>
+<p>Civil Case File No. 86</p>
+<p>November 1825</p>
 
-<p> John Plackett &amp; May, his wife </p>
-<p> v. </p>
-<p> ------ </p>
-<p> Habeas Corpus </p>
-<p> (confined to jail for maltreatment of slave, Lucy) </p>
+<p>John Plackett &amp; May, his wife</p>
+<p>v.</p>
+<p>------</p>
+<p>Habeas Corpus</p>
+<p>(confined to jail for maltreatment of slave, Lucy)</p>
 
-<p> Bail $1000 a piece </p>
+<p>Bail $1000 a piece</p>
 
-<p> several witnesses to whipping, beating, pulling with rope, and throwing into fire of slave girl Lucy, 8-11 years old. </p>
+<p>several witnesses to whipping, beating, pulling with rope, and throwing into fire of slave girl Lucy, 8-11 years old.</p>
 
 </div1>
     
