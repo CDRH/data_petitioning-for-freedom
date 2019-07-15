@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Scheiber, J. v. Scheiber, M.. Cover</title>
+<title>Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Scheiber, J. v. Scheiber, M.. Cover</title>
+<title level="m" type="main">Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Cover</title>
 <date when="1862-02">February 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,15 +87,11 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Scheiber, Edward</term>
-<term>Schieber, Joseph</term>
-<term>Schieber, Mary Anne</term>
-<term>Steinberg, Henry</term>
-<term>Thompson, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
 <term>Madison County, Illinois</term> 
-<term>St. Louis</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -108,6 +104,9 @@
 <person role="defendant">
 <persName>Scheiber, Mary Anne</persName>
 </person>
+<person role="defendant">
+<persName>Steinberg, Henry</persName>
+</person>
 <person role="attorney_petitioner">
 <persName>Thompson, John B.</persName>
 </person>
@@ -115,7 +114,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Goldschwidt, Martin M.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -131,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>

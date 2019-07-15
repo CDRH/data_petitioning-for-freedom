@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Scheiber, J. v. Scheiber, M.. Petition of Habeas Corpus</title>
+<title>Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Scheiber, J. v. Scheiber, M.. Petition of Habeas Corpus</title>
+<title level="m" type="main">Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Writ of Habeas Corpus</title>
 <date when="1862-05-12">May 12, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,17 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Goldschwidt, Martin M.</term>
+<term>Goldschmidt, Martin M.</term>
 <term>Rice, Stephen</term>
 <term>Schieber, Edward</term>
-<term>Schieber, Joseph</term>
-<term>Schieer, Mary Anne</term>
-<term>Thompson, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Missouri</term> 
-<term>St. Louis Circuit Court</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -109,6 +105,9 @@
 <person role="defendant">
 <persName>Scheiber, Mary Anne</persName>
 </person>
+<person role="defendant">
+<persName>Steinberg, Henry</persName>
+</person>
 <person role="attorney_petitioner">
 <persName>Thompson, John B.</persName>
 </person>
@@ -116,7 +115,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Goldschwidt, Martin M.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -132,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,16 +154,16 @@
 writ of Habeas Corpus</p>
 
 <p>Filed May 13th 1862</p>
-<p>Stephen Rill</p>
+<p>Stephen Rice</p>
 <p>Clerk</p>
 
 
-<p>Let the writ <unclear></unclear>
+<p>Let the writ issue
  <unclear>whenmable</unclear> at 3 o'clock 
 P.M. Tuesday May 13th 1852 
 at the Circuit Court 
-<unclear></unclear> - Stu <unclear>Buckw..ish</unclear></p>
-<p><unclear></unclear></p>
+<unclear>house</unclear> - Stu <unclear>Buckwish</unclear></p>
+<p>Judge</p>
 
 <p>$2 paid by J B Thompson</p>
 
@@ -172,12 +172,10 @@ at the Circuit Court
 
 <p>To Mary Ann Scheiber, and Henry Steinberg</p>
 
-<p>You are hereby com- <!-- word split between lines -->
-manded to bring before the Judge of the St 
+<p>You are hereby commanded to bring before the Judge of the St 
 Louis Circuit Court at the Circuit Court 
 Room on the 13th May Inst at 3 o'clock the body of a 
-child named Edward Scheiber, who is ille-  <!-- word split between lines -->
-gally detained by you as it is said, and 
+child named Edward Scheiber, who is illegally detained by you as it is said, and 
 herein jail not under the penalties that 
 may fall thereon.</p>
 

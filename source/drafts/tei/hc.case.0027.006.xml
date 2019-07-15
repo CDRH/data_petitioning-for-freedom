@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Scheiber, J. v. Scheiber, M.. Defendant Response to Writ</title>
+<title>Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Mary Anne Scheiber Response</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Scheiber, J. v. Scheiber, M.. Defendant Response to Writ</title>
+<title level="m" type="main">Joseph Scheiber v. Mary Anne Scheiber and Henry Steinberg. Mary Anne Scheiber Response</title>
 <date when="1862-05-13">May 13, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,9 +88,6 @@
 <keywords scheme="lcsh" n="people">
 <term>Rice, Stephen</term>
 <term>Schieber, Edward</term>
-<term>Schieber, Joeseph</term>
-<term>Schieber, Mary Anne</term>
-<term>Steinberg, Henry</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -107,6 +104,9 @@
 <person role="defendant">
 <persName>Scheiber, Mary Anne</persName>
 </person>
+<person role="defendant">
+<persName>Steinberg, Henry</persName>
+</person>
 <person role="attorney_petitioner">
 <persName>Thompson, John B.</persName>
 </person>
@@ -114,7 +114,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Goldschwidt, Martin M.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -130,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,11 +147,10 @@
 Mary Anne Scheiber and brings into Court the body of the 
 child Edward Scheiber, and while she denies that she 
 unlawfully detains said child, says that she is the 
-mother of said child, who is still and infant, and that 
+mother of said child, who is still an infant, and that 
 the petitioner, Joseph Scheiber is an improper person 
 to have the custody of said child and has publicly 
-proclaimed that the same is not his child. And there-  <!-- word split between lines -->
-fore claims to be the legal &amp; proper custodian of the same. 
+proclaimed that the same is not his child. And therefore claims to be the legal &amp; proper custodian of the same. 
 this 13th day of May 1862</p>
 
 <p>Mary Anne Scheiber</p>
