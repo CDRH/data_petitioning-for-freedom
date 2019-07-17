@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>US v. Milly. Cover</title>
+<title>United States v. Milly. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">US v. Milly. Cover</title>
+<title level="m" type="main">United States v. Milly. Order</title>
 <date when="1818-12-04">December 4, 1818</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,24 +86,23 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Archibald Gamble Clerk</term>
+<term>Gamble, Archibald</term>
 <term>Milly</term>
-<term>Sloth, T.</term>
-<term>Wather, John E.</term>
+<term>Stoth, T.</term>
+<term>Walker, John K.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term> 
-<term>St. Louis County, Missouri</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>United States</persName>
-</person>
+<org role="petitioner">
+<orgName>United States</orgName>
+</org>
 <person role="defendant">
 <persName>Milly</persName>
 </person>
@@ -151,18 +150,18 @@ said County Greeting</p>
 
 <p>We command you to take Milly a slave 
 of one T Stoth if she may be found within 
-your County and her safely <unclear>es</unclear> that you have 
+your County and her safely so that you have 
 her body before the Judge of our Circuit 
-Court at the next term too be held at the 
+Court at the next term to be held at the 
 town of St Louis within and for the 
 County of St Louis on the second Monday 
 of February next then and there to answer 
 unto the United States of America on a 
 charge of Larceny with force and arms against the peace and 
 dignity of the said United States. And 
-have <gap></gap> then there this writ</p>
+have <unclear>you</unclear> then there this writ</p>
 
-<!-- seal -->
+<figure/>
 
 <p>Witness Archibald Gamble Clerk 
 at our said Court at Office this 
@@ -180,15 +179,15 @@ Independence the forty third</p>
 <p>Febry Term 1819</p>
 
 <p>United States vs Milly a Slave</p>
-<p>Larceny <unclear>Capear</unclear></p>
+<p>Larceny Capias</p>
 
 
 <p>The defendant not found in <del>this</del> St. Louis County 22nd March 1819</p>
-<p>John <unclear>E Wather</unclear></p>
+<p>John K Walker</p>
 <p>D Shff</p>
 
 <p>Nov Est. 50 cts</p>
-
+<p>68</p>
 </div1>
     
 </body>

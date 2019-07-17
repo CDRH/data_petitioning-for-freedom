@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>US v. Milly. Cover</title>
+<title>United States v. Milly. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">US v. Milly. Cover</title>
+<title level="m" type="main">United States v. Milly. Cover</title>
 <date when="1819-04">April 1819</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -90,16 +90,16 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Circuit Court</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>           
-<person role="petitioner">
-<persName>United States</persName>
-</person>
+<org role="petitioner">
+<orgName>United States</orgName>
+</org>
 <person role="defendant">
 <persName>Milly</persName>
 </person>
@@ -126,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
