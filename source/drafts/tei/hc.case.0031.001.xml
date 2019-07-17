@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Engle and Vanhorn v. the Matron Keeper. Cover</title>
+<title>Eliza Engle and Frances Vanhorn v. Sister Mary of the Sacred Heart. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Engle and Vanhorn v. the Matron Keeper. Cover</title>
+<title level="m" type="main">Eliza Engle and Frances Vanhorn v. Sister Mary of the Sacred Heart. Cover</title>
 <date when="1865-09">September 1865</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,14 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Engle, Eliza</term>
-<term>Epsy, Thomas S.</term>
-<term>Vanhorn, Francis</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis</term>
-<term>House of the Good Shepard</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -104,10 +101,10 @@
 <persName>Engle, Eliza</persName>
 </person>
 <person role="petitioner">
-<persName>Vanhorn, Francis</persName>
+<persName>Vanhorn, Frances</persName>
 </person>
 <person role="defendant">
-<persName>United Stats</persName>
+<persName>Sister Mary of the Sacred Heart</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Epsy, Thomas S.</persName>
@@ -132,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Engle and Vanhorn v. the Matron Keeper. Memo from the Court Clerk Describing Testimony</title>
+<title>Eliza Engle and Frances Vanhorn v. Sister Mary of the Sacred Heart. Memo from the Court Clerk Describing Testimony</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Engle and Vanhorn v. the Matron Keeper. Memo from the Court Clerk Describing Testimony</title>
+<title level="m" type="main">Eliza Engle and Frances Vanhorn v. Sister Mary of the Sacred Heart. Memo from the Court Clerk Describing Testimony</title>
 <date when="1865-08-25">August 25, 1865</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,18 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Engle, Eliza</term>
-<term>Mary, Sister</term>
-<term>Moody, James C.</term>
-<term>Vanhorn, Francis</term>
-<term>Waltch, D. J.</term>
+<term>Walch, E. S.</term>
 <term>White, Robert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis</term>
-<term>St. Louis Land Court</term>
-<term>House of the Good Shepard</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -108,10 +102,10 @@
 <persName>Engle, Eliza</persName>
 </person>
 <person role="petitioner">
-<persName>Vanhorn, Francis</persName>
+<persName>Vanhorn, Frances</persName>
 </person>
 <person role="defendant">
-<persName>United Stats</persName>
+<persName>Sister Mary of the Sacred Heart</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Epsy, Thomas S.</persName>
@@ -136,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,34 +143,33 @@
 
 <pb facs="hc.case.0031.002"/>
 
-<p>of the Sacred Heart</p>
 
-<p>Sister Mary <del></del> Mother Superior of the 
+<p>Sister Mary <del>Ignatious</del> <add>of the Sacred Heart</add> Mother Superior of the 
 House of the Good Shepherd for return to the 
 within writ states that she has under her charge 
 the said Frances Vanhorn. That said Frances 
-Vanhorn is a minor and <del></del> under 
-the age of 17 and will be 18 years of age on <unclear></unclear> <unclear>November</unclear> next that said Frances 
+Vanhorn is a minor and <del/> under 
+the age of 17 and will be 18 years of age on  <unclear>11</unclear> <unclear>November</unclear>  next that said Frances 
 Vanhorn was committed to said House of the 
-Good Shephard by <del></del> consent 
+Good Shephard by <del/> consent 
 of her father who still lives. And in Obedience 
 to the mandate of the within writ the body of 
 said Frances Vanhorn is here brought into Court</p>
 
 <p>St Louis August 25. 1865</p>
-<p>Sister Mary of the Sacred Heard Superior</p>
+<p>Sister Mary of the Sacred Heart Superior</p>
 
 <p>Sworn to and subscribed before me this 20th day of August</p>
 
-<p>Testimony whereof I hereto set my <gap></gap> and 
+<p>Testimony whereof I hereto set my <unclear/> and 
 affix the seal of the St Louis Land Court at 
 Office the date aforesaid</p>
 
-<!-- signature -->
-<p>Robert White Clerk</p>
-<p>By E.S. Walch D.J.</p>
 
-<!-- seal -->
+<p>Robert White Clerk</p>
+<p>By E.S. Walch D.C.</p>
+
+<figure/>
 
 
 <p>490 Sept</p>
@@ -183,15 +177,15 @@ Office the date aforesaid</p>
 <p>Frances Vanhorn</p>
 <p>By Eliza Engle</p>
 
-<p>To Matron <unclear>Sale</unclear> of 
+<p>To Matron <unclear/> of 
 House of the Good Shepherd</p>
 
-<p>Producing before 
+<p>Proceeding before 
 Hon J.C. Moodey at 
 Chambers</p>
 
-<p>Augt 25th 65 <unclear>Denaver</unclear> sust. leave to arrest 
-Deft refusing to arrest Girl discharged</p>
+<p>Augt 25th 65 Demurrer sust. leave to amend 
+Deft refusing to amend Girl discharged</p>
 
 </div1>
     
