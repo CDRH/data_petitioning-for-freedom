@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Memo to Jailor</title>
+<title>George Bailey v. James A. Felps. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Memo to Jailor</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Order</title>
 <date when="1856-08-08">August 8, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,13 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bailey, George</term>
-<term>Johnston, Peter W.</term>
+<term>Adams, James C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis County</term>
-<term>Missouri</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -100,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Baily, George</persName>
+<persName>Bailey, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="defendant">
 <persName>Adams, James C.</persName>
@@ -131,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,7 +147,7 @@ Common Jail of St. Louis County Greeting</p>
 
 <p>You are hereby commanded to receive 
 the body of George Bailey a black man 
-taken up as a run-away slave and have 
+taken up as a run-away slave and him 
 safely keep until called for by his master 
 or otherwise discharged in due course of 
 law</p>

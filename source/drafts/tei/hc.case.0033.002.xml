@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Petitioner Attorney Petition for Writ</title>
+<title>George Bailey v. James A. Felps. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Petitioner Attorney Petition for Writ</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Petition</title>
 <date when="1856-08-08">August 8, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -87,10 +87,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Adams, James C.</term>
-<term>Bailey, George</term>
-<term>Felps, James A.</term>
-<term>Johnston, Peter W.</term>
-<term>Smith, Robert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,13 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Baily, George</persName>
+<persName>Bailey, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName>
-</person>
-<person role="defendant">
-<persName>Adams, James C.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Smith, Robert</persName>
@@ -133,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,7 +142,7 @@
 <p>To the Honorable the Law Commissioners 
 Court of St Louis County-</p>
 
-<p>The petitioner of Robert 
+<p>The petition of Robert 
 Smith respectfully states and shows unto this 
 Honorable Court, that George Bailey the person 
 for whom relief is prayed is imprisoned and is 
@@ -176,7 +170,7 @@ advised and believes; that the annexed paper
 marked "A" is a true copy of the order or process 
 by which said Bailey is thus restrained and 
 confined as your Petitioner is also informed 
-and believes; that the said Adams <unclear>reo...</unclear> other 
+and believes; that the said Adams <unclear>nor any</unclear> other 
 Person to the knowledge or belief of your petitioner 
 claims the said Bailey as a Slave, and that 
 he was merely arrested and committed upon 

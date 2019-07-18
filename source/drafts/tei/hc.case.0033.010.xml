@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Writ of Habeas Corpus</title>
+<title>George Bailey v. James A. Felps. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Writ of Habeas Corpus</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Order</title>
 <date when="1856-08-08">August 8, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,8 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bailey, George</term>
-<term>Johnston, Peter W.</term>
+<term>Adams, James C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -99,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Baily, George</persName>
+<persName>Bailey, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="defendant">
 <persName>Adams, James C.</persName>
@@ -130,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,13 +149,10 @@ St Louis County Greeting:</p>
 
 <p><del>Whereas</del> You are hereby commanded 
 to receive the body George Bailey a 
-Black man taken up as a run-
-away slave and have safely kept
-until called for by his Master or other-
-wise discharged in due courts of Law</p>
+Black man taken up as a runaway slave and have safely kept
+until called for by his Master or otherwise discharged in due course of Law</p>
 
-<p>Given under my hand this 8th day of Au-
-gust 1856</p>
+<p>Given under my hand this 8th day of August 1856</p>
 
 <p>Peter W Johnstone</p>
 <p>Justice</p>

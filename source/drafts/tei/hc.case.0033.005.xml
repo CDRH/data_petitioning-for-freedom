@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Memo from Jailor in Compliance with Writ</title>
+<title>George Bailey v. James A. Felps. Jailor in Compliance with Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Memo from Jailor in Compliance with Writ</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Jailor in Compliance with Writ</title>
 <date when="1856-08-11">August 11, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,13 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bailey, George</term>
-<term>Felps, James A.</term>
+<term>Adams, James C.</term>
 <term>Williams, Matthew </term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -100,13 +99,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Baily, George</persName>
+<persName>Bailey, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName>
-</person>
-<person role="defendant">
-<persName>Adams, James C.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Smith, Robert</persName>
@@ -131,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -172,8 +169,8 @@ Act."</p>
 <p>M Williams CK</p>
 
 
-<p>Aug 9: 1856 Writ Awarded Hh 163;</p>
-<p>Aug 11: 1856 discharged Hh 166;</p>
+<p>Aug 9: 1856 Writ Awarded 4h 163;</p>
+<p>Aug 11: 1856 discharged 4h 166;</p>
 
 </div1>
     

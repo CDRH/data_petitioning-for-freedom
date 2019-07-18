@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Defendant Sworn Statement to Judge</title>
+<title>George Bailey v. James A. Felps. Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Defendant Sworn Statement to Judge</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Commitment</title>
 <date when="1856-08-08">August 8, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -87,12 +87,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Adams, James C.</term>
-<term>Bailey, George</term>
-<term>Johnston, Peter W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis County</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -100,13 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Baily, George</persName>
+<persName>Bailey, George</persName>
 </person>
 <person role="defendant">
 <persName>James A. Felps</persName>
-</person>
-<person role="defendant">
-<persName>Adams, James C.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Smith, Robert</persName>
@@ -131,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Baily v. Felps an Adams. Statement from Deponent</title>
+<title>George Bailey v. James A. Felps. Jesse Wells Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Baily v. Felps. Statement from Deponent</title>
+<title level="m" type="main">George Bailey v. James A. Felps. Jesse Wells Statement</title>
 <date when="1856-08-09">August 9, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,16 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Baily, Alexander</term>
-<term>Bailey, George</term>
-<term>Johnston, Peter W.</term>
-<term>Wells, Jessee</term>
-<term>Will, Jolset</term>
+<term>Bailey, Alexander</term>
+<term>Wells, Jesse</term>
+<term>Adams, James C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Adriatic</term>  <!-- this is a boat -->
-<term>J.M. Corweis</term>  <!-- this is a boat -->
 <term>Pittsburgh, Pennsylvania</term>
 <term>St. Louis, Missouri</term>
 </keywords>
@@ -108,10 +104,7 @@
 <persName>Baily, George</persName>
 </person>
 <person role="defendant">
-<persName>James A. Felps</persName>
-</person>
-<person role="defendant">
-<persName>Adams, James C.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Smith, Robert</persName>
@@ -136,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -151,12 +145,12 @@
 <p>State of Missouri 
 County of St Louis } ss</p>
 
-<p>Jessee Wells of Pittsburgh 
+<p>Jesse Wells of Pittsburgh 
 in the State of Pennsylvania being duly sworn 
 says he known George Bailey and has known 
 him since he was quite a small boy and 
 knows his mother and has know his
- mother for the last several years: that 
+mother for the last several years: that 
 he first knew the said George and his 
 brother Alexander, and their mother at 
 the City of Pittsburgh aforesaid, and that 
@@ -168,8 +162,7 @@ and he always understood and believed
 she has been and is now free, and that 
 this deponent has known the said George 
 to be acting as and always understood and 
-now believes him to be free; that this depo-
-nent has employed the said George at 
+now believes him to be free; that this deponent has employed the said George at 
 the City of Pittsburgh as a hand upon 
 the Steamer "Adriatic" and also upon the 
 Steamer "J.M. Corweis" and dealt with him 
@@ -186,7 +179,7 @@ before me</p>
 
 <p>Peter W Johnstone Justice</p>
 
-<p><unclear>Jolset</unclear> Will</p>
+<p>Jesse Wells</p>
 
 </div1>
     
