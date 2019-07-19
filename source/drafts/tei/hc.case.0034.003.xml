@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Bellamy and Brook v. Logan. Sheriff Obedience with Writ</title>
+<title>John Bellamy v. R. F. Logan. Obedience with Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Bellamy and Brook v. Logan. Sheriff Obedience with Writ</title>
+<title level="m" type="main">John Bellamy v. R. F. Logan. Obedience with Writ</title>
 <date when="1858-07-03">July 3, 1858</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,12 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bellamy, John</term>
 <term>Dusenbury, Henry</term>
+<term>Musick, J. L.</term>
+<term>Corbin, Thompson</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -101,14 +102,11 @@
 <person role="petitioner">
 <persName>Bellamy, John</persName>
 </person>
-<person role="petitioner">
-<persName>Brook, Frank W.</persName>
-</person>
 <person role="defendant">
 <persName>Logan, R. J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>
+<persName>Brook, Frank W.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -130,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,14 +144,14 @@
 <p>In obedience to the command of the foregoing 
 writ I have the body of the within named 
 Defendent John Delany hear at open court 
-and for my return say that she was committed 
+and for my return say that he was committed 
 to my custody on the 30 day AD 1858 of June by Justice 
 Johnson on charge of being a runaway 
 slave which <sic>warent</sic> of <sic>comitment is 
 hear to anexx and maid</sic> a part of my return 
 this 3 day of July 1858</p>
 
-<p>R.J. Logan Jailor</p>
+<p>R.F. Logan Jailor</p>
 <p>by JL Musick dep</p>
 
 <p>fee 75</p>
@@ -168,11 +167,11 @@ of writ
 John Bellamy</p>
 
 <p>To <del>Corbin Thompson</del> Jailor S Louis Co-
-<unclear>Rethle</unclear> July 1st 58 
+<unclear/> July 1st 58 
 at 3 oc pm</p>
 
 
-<p>July 30 1858 <del></del> John Bellamy dischd op 220</p> 
+<p>July 30 1858 <del/> John Bellamy dischd op 220</p> 
 
 </div1>
     
