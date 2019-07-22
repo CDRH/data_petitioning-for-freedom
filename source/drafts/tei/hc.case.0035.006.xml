@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Blackburn v. Felks. Judge Statement</title>
+<title>Sarah Broadwater v. James A. Felps. Arrest</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Blackburn v. Defendant. Judge Statement</title>
+<title level="m" type="main">Sarah Broadwater v. James A. Felps. Arrest</title>
 <date when="1855-04-11">April 11, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,7 +87,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Blackburn, William</term>
-<term>du Breuil, Louis</term>
 <term>Homan, August</term>
 </keywords>
 
@@ -101,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Blackthorn, William</persName>
+<persName>Broadwater, Sarah</persName>
 </person>
 <person role="defendant">
-<persName>Felks, James A.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -113,12 +112,9 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Homan, August</persName>
-</person>
-<person role="judge">
 <persName>du Breuil, Louis</persName>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 </listPerson>
@@ -135,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,21 +144,21 @@
 
 <pb facs="hc.case.0035.006"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis } SS </p>
+<p>State of Missouri</p>
+<p>County of St Louis } SS</p>
 
-<p> Before me a Justice of the Peace 
+<p>Before me a Justice of the Peace 
 within &amp; for the county aforesaid cause August Homan and 
 made oath that he did apprehend as a run away slave, 
 William Blackburn a negro man so calling himself who 
 pretends &amp; says he is a free man but has no evidence of his 
-freedom. </p>
+freedom.</p>
 
-<fw type="footer">Sworn to &amp; Subscribed before me this 
-11th April 1855 Louis De Breuil </fw>
+<p>Sworn to &amp; Subscribed before me this 
+11th April 1855 Louis De Breuil</p>
 
-<p> Justice <del> of the Peace </del> }</p>
-<p> August Homan </p>
+<p>Justice <del>of the Peace</del> }</p>
+<p>August Homan</p>
 
 </div1>
     

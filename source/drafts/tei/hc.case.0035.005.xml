@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Blackburn v. Felks. Witness Sworn Statement of Truth</title>
+<title>Sarah Broadwater v. James A. Felps. Sworn Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Blackburn v. Defendant. Witness Sworn Statement of Truth</title>
+<title level="m" type="main">Sarah Broadwater v. James A. Felps. Sworn Statement</title>
 <date when="1855-04-11">April 11, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,13 +87,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Blackburn, William</term>
-<term>Broadwater, Sarah</term>
-<term>Colvin, John W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Missouri</term>
-<term>St. Louis</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -101,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Blackthorn, William</persName>
+<persName>Broadwater, Sarah</persName>
 </person>
 <person role="defendant">
-<persName>Felks, James A.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -113,12 +110,9 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Homan, August</persName>
-</person>
-<person role="judge">
 <persName>du Breuil, Louis</persName>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 </listPerson>
@@ -135,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,20 +142,20 @@
 
 <pb facs="hc.case.0035.005"/>
 
-<p> County of Saint Louis Ss: </p>
+<p>State of Missouri County of Saint Louis} Ss:</p>
 
-<p> On behalf of William Blackburn <del> the above named petitioner </del> Sarah Broadwater, who makes the foregoing petition 
+<p>On behalf of William Blackburn <del>the above named petitioner</del> Sarah Broadwater, who makes the foregoing petition 
 being duly sworn, says, that the said petition above by her
 signed is true in substance &amp; matter of fact to his best 
-knowledge &amp; belief &amp; further saith not. </p>
+knowledge &amp; belief &amp; further saith not.</p>
 
-<p> Sarah her X mark Broadwater</p>
+<p>Sarah Broadwater her X mark</p>
 
-<p> Sworn &amp; Subscribed this 10th day of April A.D. 1855 before me. </p>
-<p> John W. Colvin Law Com </p>
+<p>Sworn &amp; Subscribed this 10th day of April A.D. 1855 before me.</p>
+<p>John W. Colvin Law Com</p>
 
-<p> Filed 11th April 1855 </p>
-<p> John W. Colvin </p>
+<p>Filed 11th April 1855</p>
+<p>John W. Colvin</p>
 
 </div1>
     

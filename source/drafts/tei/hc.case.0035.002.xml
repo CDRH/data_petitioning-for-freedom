@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Blackburn v. Felks. Writ of Habeas Corpus from Law Commissioner</title>
+<title>Sarah Broadwater v. James A. Felps. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Blackburn v. Defendant. Writ of Habeas Corpus from Law Commissioner</title>
+<title level="m" type="main">Sarah Broadwater v. James A. Felps. Writ of Habeas Corpus</title>
 <date when="1855-04-16">April 16, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,13 +87,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Blackburn, William</term>
-<term>Colvin, John W.</term>
-<term>Felks, James A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Missouri</term>
-<term>St. Louis</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -101,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Blackthorn, William</persName>
+<persName>Broadwater, Sarah</persName>
 </person>
 <person role="defendant">
-<persName>Felks, James A.</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -113,12 +110,9 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Homan, August</persName>
-</person>
-<person role="judge">
 <persName>du Breuil, Louis</persName>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 </listPerson>
@@ -135,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,36 +142,35 @@
 
 <pb facs="hc.case.0035.002"/>
 
-<p> State of Missouri </p>
-<p> County of Saint Louis }Ss </p>
+<p>State of Missouri</p>
+<p>County of Saint Louis } Ss</p>
 
-<p> The State of Missouri. To 
-James A Felks County Jailor of the 
-County of Saint Louis Missouri ~ </p>
+<p>The State of Missouri. To 
+James A Felps County Jailor of the 
+County of Saint Louis Missouri ~</p>
 
-<p> You 
+<p>You 
 are hereby commanded, that you have the Body 
 of William Blackburn, by you imprisoned and 
 detained, as it is said, together with the time and 
 cause of such imprisonment and detention, by 
 whatsoever name the said William Blackburn 
-shall be called and charged, before the Law com-
-missioned Court of Saint Louis County, <del> at his Chambers </del> 
-in the City of Saint Louis this 16th day of April 1855 at 3 PM <del>for slow the </del> after the receipt 
+shall be called and charged, before the Law commissioners Court of Saint Louis County, <del>at his Chambers</del> 
+in the City of Saint Louis this 16th day of April 1855 at 3 PM <del/> after the receipt 
 of this writ by you, to do and receive what shall 
 then and there be considered concerning the said 
 William Blackburn - And have you then there 
-this writ - </p>
+this writ -</p>
 
 <p>Witness the Hon John W Colvin 
 Law Commissioner of the County of 
 Saint Louis this 16th day of April one 
 thousand eight hundred fifty five - 
 with the seal of the Law Com 
-Court hereto affixed </p>
+Court hereto affixed</p>
 
-<p> John W Colvin </p>
-<p> Law Com </p>
+<p>John W Colvin</p>
+<p>Law Com</p>
 
 
 </div1>
