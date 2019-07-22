@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Butler v. Pennington and Lawler. Sworn Statement from Defendants</title>
+<title>Alexander S. Butler v. John Hempstead. Arrest</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Butler v. Pennington and Lawler. Sworn Statement from Defendants</title>
+<title level="m" type="main">Alexander S. Butler v. John Hempstead. Arrest</title>
 <date when="1854-09-07">September 7, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,10 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, Alexander S.</term>
-<term>Lawler, Michael</term>
+<term>Lawlor, Michael</term>
 <term>Pennington, William</term>
-<term>Waite, Liberty</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,10 +102,10 @@
 <persName>Butler, Alexander S.</persName>
 </person>
 <person role="defendant">
-<persName>Pennington, William</persName>
+<persName>Hempstead, John</persName>
 </person>
 <person role="defendant">
-<persName>Lawler, Michael</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Macdonal</persName>
@@ -115,7 +113,7 @@
 <person role="attorney_defendant">
 <persName/>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 <person role="judge">
@@ -135,6 +133,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded and edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,32 +146,31 @@
 
 <pb facs="hc.case.0036.007"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis </p>
+<p>State of Missouri</p>
+<p>County of St Louis</p>
 
-<p> Wm Pennington &amp; Michael 
+<p>Wm Pennington &amp; Michael 
 Lawler appeared before me Liberty Waite 
 a justice of the Peace in and for said County 
 and being duly sworn says they have taken 
-up a run away slave in city of <del> and </del> St Louis 
+up a run away slave in city of <del>and</del> St Louis 
 of said county and state, a negro about 
 23 years old who goes by the name of 
-Alex S. Butler this <unclear>affiant</unclear> believes the 
+Alex S. Butler this affiant believes the 
 said Alex S. Butler is a runaway slave 
 and prays a commitment may be had 
-for his safe keeping </p>
+for his safe keeping</p>
 
-<p> Wm Pennington </p>
-<p> his 
-Michael X Lawler 
-mark</p>
+<p>Wm Pennington</p>
+<p>Michael Lawlor 
+his x mark</p>
 
-<fw type="footer"> Sworn to and subscribed 
+<p>Sworn to and subscribed 
 before me this 7th day of 
-September 1854 </fw>
+September 1854</p>
 
-<p> Liberty Waite </p>
-<p> Justice of the Peace</p>
+<p>Liberty Waite</p>
+<p>Justice of the Peace</p>
 
 </div1>
     

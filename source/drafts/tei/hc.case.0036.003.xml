@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Butler v. Pennington and Lawler. Petitioner Oath of Truth to Law Commissioner</title>
+<title>Alexander S. Butler v. John Hempstead. Alexander S. Butler Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Butler v. Pennington and Lawler. Petitioner Oath of Truth to Law Commissioner</title>
+<title level="m" type="main">Alexander S. Butler v. John Hempstead. Alexander S. Butler Being Sworn</title>
 <date when="1854-10-13">October 13, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,8 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, Alexander S.</term>
-<term>Colvin, John W.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,10 +101,10 @@
 <persName>Butler, Alexander S.</persName>
 </person>
 <person role="defendant">
-<persName>Pennington, William</persName>
+<persName>Hempstead, John</persName>
 </person>
 <person role="defendant">
-<persName>Lawler, Michael</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Macdonal</persName>
@@ -113,7 +112,7 @@
 <person role="attorney_defendant">
 <persName/>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 <person role="judge">
@@ -133,6 +132,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded and edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,22 +145,21 @@
 
 <pb facs="hc.case.0036.003"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis } SS</p>
+<p>State of Missouri</p>
+<p>County of St Louis } SS</p>
 
-<p> Alexander S Butler makes 
+<p>Alexander S Butler makes 
 oath and says that the facts set 
 forth in the above petition are 
 true to the best of his knowledge 
-and belief </p>
-<p> his
-Alexander X S. Butler 
-mark</p>
+and belief</p>
+<p>Alexander S. Butler 
+his x mark</p>
  
-<fw type="footer">Sworn to and Subscribed 
-before me Oct 13th 1854</fw>
+<p>Sworn to and Subscribed 
+before me Oct 13th 1854</p>
 
-<p> John W Colvin Law Com</p>
+<p>John W Colvin Law Com</p>
 
 </div1>
     

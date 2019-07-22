@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Butler v. Pennington and Lawler. Petition by Alexander Butler for Habease Corpus</title>
+<title>Alexander S. Butler v. John Hempstead. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Butler v. Pennington and Lawler. Petition of Alexander Butler for Habeas Corpus</title>
+<title level="m" type="main">Alexander S. Butler v. John Hempstead. Petition</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,7 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, Alexander S.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -101,10 +101,10 @@
 <persName>Butler, Alexander S.</persName>
 </person>
 <person role="defendant">
-<persName>Pennington, William</persName>
+<persName>Hempstead, John</persName>
 </person>
 <person role="defendant">
-<persName>Lawler, Michael</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Macdonal</persName>
@@ -112,7 +112,7 @@
 <person role="attorney_defendant">
 <persName/>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 <person role="judge">
@@ -132,6 +132,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded and edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>

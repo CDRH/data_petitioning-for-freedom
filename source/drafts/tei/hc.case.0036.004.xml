@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Butler v. Pennington and Lawler. Writ of Habeas Corpus from Law Commissioner</title>
+<title>Alexander S. Butler v. John Hempstead. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Butler v. Pennington and Lawler. Writ of Habeas Corpus Law Commissioner</title>
+<title level="m" type="main">Alexander S. Butler v. John Hempstead. Writ of Habeas Corpus</title>
 <date when="1854-10-13">October 13, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, Alexander S.</term>
-<term>Colvin, John W.</term>
-<term>Hempstead, John</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,10 +101,10 @@
 <persName>Butler, Alexander S.</persName>
 </person>
 <person role="defendant">
-<persName>Pennington, William</persName>
+<persName>Hempstead, John</persName>
 </person>
 <person role="defendant">
-<persName>Lawler, Michael</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Macdonal</persName>
@@ -114,7 +112,7 @@
 <person role="attorney_defendant">
 <persName/>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 <person role="judge">
@@ -134,6 +132,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded and edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,12 +145,12 @@
 
 <pb facs="hc.case.0036.004"/>
 
-<p> The State of Missouri </p>
+<p>The State of Missouri</p>
 
-<p> To John Hempstead Jailor of the 
-County of Saint Louis County Greeting </p>
+<p>To John Hempstead Jailor of the 
+County of Saint Louis County Greeting</p>
 
-<p> You are commanded to have the body 
+<p>You are commanded to have the body 
 of Alexander S Butler before the 
 Law Commissioners Court of Saint Louis 
 County on the 13th day of October 1854 
@@ -164,17 +163,17 @@ Butler who, as alleged in the annexed
 petition is illegally restrained of his 
 liberty by you and have you then 
 and there this writ with your return 
-thereon. </p>
+thereon.</p>
 
-<fw type="footer">Witness John W. Colvin the 
+<p>Witness John W. Colvin the 
 Law Com of St Louis County 
 with the seal of said Law 
 Coms Court at office in 
 St Louis the 13th day of 
-Oct 1854</fw>
+Oct 1854</p>
 
-<p> Jno W Colvin </p>
-<p> Law Com </p>
+<p>Jno W Colvin</p>
+<p>Law Com</p>
 
 </div1>
     
