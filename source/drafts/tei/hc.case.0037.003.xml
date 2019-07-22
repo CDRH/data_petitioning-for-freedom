@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Crawley and Logan v. Henley and Logan. Sworn Statement from Petitioner</title>
+<title>William C. Logan v. R. F. Logan. George Henley Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Crawley and Logan v. Henley and Logan. Sworn Statement from Petitioner</title>
+<title level="m" type="main">William C. Logan v. R. F. Logan. George Henley Statement</title>
 <date when="1858-05-01">May 1, 1858</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,7 +86,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Black, John</term>
 <term>Crawley, John</term>
 <term>Gardier, Stephen</term>
 <term>Henley, George</term>
@@ -94,7 +93,7 @@
 
 <keywords scheme="lcsh" n="places"> 
 <term>Alabama</term>
-<term>St. Louis</term> 
+<term>St. Louis, Missouri</term> 
 </keywords>
 
 </textClass>
@@ -102,16 +101,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Crawley, John</persName>
-</person>
-<person role="petitioner">
 <persName>Logan, William C.</persName>
 </person>
 <person role="defendant">
-<persName>Logan, R.F.</persName>
-</person>
-<person role="defendant">
-<persName>Henley, George</persName>
+<persName>Logan, R. F.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Decker, John</persName>
@@ -136,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -152,23 +146,21 @@
 
 <p>State of Missouri, 
 County of St. Louis } ss. Before me, the undersigned, a 
-Justice of the Peace within and for the County aforesaid, per-
-sonally came George Henley, who being duly sworn on his oath 
+Justice of the Peace within and for the County aforesaid, personally came George Henley, who being duly sworn on his oath 
 deposeth &amp; saith as follows, to wit: I know the man (colored) 
 John Black, alias Crawley. The last time I saw him absent 
 from the State of Missouri, was at Mobile, State of Alabama, 
 I knew him then as the slave property of one Stephen Gardier 
-of the twelve mile point or Ashwood Landing, State of Illi-
-nois, and is at present at large in said County without 
+of the twelve mile point or Ashwood Landing, State of Illinois, and is at present at large in said County without 
 knowledge or consent of owner. I know that he is a runaway 
 slave, and believe him still to be the property of said Stephen 
 Gardier. Said slave is the man now produced before said 
 Justice.</p>
 
 <p>George Henley.</p>
-<fw type="footer">Sworn to &amp; subscribed 
+<p>Sworn to &amp; subscribed 
 before me on this 1st 
-day of May, 1858</fw>
+day of May, 1858</p>
 
 <p>John Black, J.P.</p>
 

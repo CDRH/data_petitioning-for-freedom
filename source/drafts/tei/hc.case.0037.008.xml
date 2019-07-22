@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Crawley and Logan v. Henley and Logan. Memo from the Judge to the City Marshal</title>
+<title>William C. Logan v. R. F. Logan. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Crawley and Logan v. Henley and Logan. Memo from the Judge to the City Marshal</title>
+<title level="m" type="main">William C. Logan v. R. F. Logan. Order</title>
 <date when="1856-05-01">May 1, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,7 +86,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Black, John</term>
 <term>Crawley, John</term>
 <term>Gardier, Stephen</term>
 </keywords>
@@ -101,16 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Crawley, John</persName>
-</person>
-<person role="petitioner">
 <persName>Logan, William C.</persName>
 </person>
 <person role="defendant">
 <persName>Logan, R.F.</persName>
-</person>
-<person role="defendant">
-<persName>Henley, George</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Decker, John</persName>
@@ -135,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -152,7 +146,7 @@ to the City Marshal of the City of St. Louis, County of
 St. Louis &amp; State of Missouri, 
 Greeting:</p>
 
-<p><del>For are</del>It appearing on information of George 
+<p><del>You are</del>It appearing on information of George 
 Hanley under oath in above accompanying recited 
 complaint under his oath, that a certain male slave, named John Black alias --
 Crawley is at present at large in said County 
@@ -170,7 +164,7 @@ according to law.</p>
 this 1st day of May, A.D., 1856.</p>
 
 <p>John Black., J.P.,</p>
-<!-- seal -->
+<figure n="seal"><p>Seal</p></figure>
 
 
 </div1>

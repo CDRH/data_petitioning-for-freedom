@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Crawley and Logan v. Henley and Logan. Defendant Sworn Statement</title>
+<title>William C. Logan v. R. F. Logan. George Henley Being Sworn</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Crawley and Logan v. Henley and Logan. Defendnat Sworn Statement</title>
+<title level="m" type="main">William C. Logan v. R. F. Logan. George Henley Being Sworn</title>
 <date when="1856-05-01">May 1, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,7 +88,6 @@
 <keywords scheme="lcsh" n="people">
 <term>Black, John</term>
 <term>Crawley, John</term>
-<term>Decker, John</term>
 <term>Gardier, Stephen</term>
 <term>Henley, George</term>
 </keywords>
@@ -104,16 +103,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Crawley, John</persName>
-</person>
-<person role="petitioner">
 <persName>Logan, William C.</persName>
 </person>
 <person role="defendant">
 <persName>Logan, R.F.</persName>
-</person>
-<person role="defendant">
-<persName>Henley, George</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Decker, John</persName>
@@ -138,6 +131,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -155,7 +149,7 @@ a Justice of the Peace within and for the County --
 aforesaid personally comes George Henley --
 who being duly sworn on his oath deposeth 
 &amp; saith as follows to wit: I know the man (colored) 
-John Black alias Crawley the last time I saw his absent 
+John Black alias Crawley the last time I saw him absent 
 from the State of Missouri was at Mobile 
 State of Alabama; I knew him then as the 
 slave property of one Stephen Gardier--
@@ -167,9 +161,9 @@ now produced before said Justice.</p>
 
 <p>George Henley</p>
 
-<fw type="footer">Sworn to &amp; subscribed 
+<p>Sworn to &amp; subscribed 
 before me in the 1st 
-day of May 1856</fw>
+day of May 1856</p>
 <p>John Black JP</p>
 
 

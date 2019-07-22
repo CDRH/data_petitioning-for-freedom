@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Crawley and Logan v. Henley and Logan. Newspaper Ad for the Petitioner</title>
+<title>William C. Logan v. R. F. Logan. Runaway Slave Sale Ad</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Crawley and Logan v. Henley and Logan. News Paper Ad for the Petitioner</title>
+<title level="m" type="main">William C. Logan v. R. F. Logan. Runaway Slave Sale Ad</title>
 <date when="1856-05-01">May 1, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,7 +86,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Black, John</term>
 <term>Crawley, John</term>
 <term>Gardier, Stephen</term>
 <term>Henley, George</term>
@@ -94,7 +93,6 @@
 
 <keywords scheme="lcsh" n="places"> 
 <term>Alabama</term>
-<term>Illinois River</term>
 <term>St. Louis, Missouri</term> 
 </keywords>
 
@@ -103,16 +101,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Crawley, John</persName>
-</person>
-<person role="petitioner">
 <persName>Logan, William C.</persName>
 </person>
 <person role="defendant">
 <persName>Logan, R.F.</persName>
-</person>
-<person role="defendant">
-<persName>Henley, George</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Decker, John</persName>
@@ -137,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,12 +142,10 @@
 
 <pb facs="hc.case.0037.009"/>
 
-<p>House, will be prompely accended to.    my10 lw&amp;Sun*</p>
-<figure></figure>
 
 <p>SHERIFF'S SALE OF RUNAWAY SLAVE.</p>
 
-<figure></figure>
+<figure/>
 
 <p>THERE was committed to the County Jail of St. Louis 
 County, on the 1st day of May, 1856, as a runaway Slave, 
@@ -178,13 +169,12 @@ to the statute as in such case made and provided.</p>
 once a week for three months and send bill to the office of the St. 
 Louis Republican.</p>
 
-<p>For Illinois River.</p>
 
 
 
 <p>No 1 May 1856</p>
 
-<p>Complt <unclear>Waut</unclear></p>
+<p>Complt <unclear>Warrt</unclear></p>
 
 <p>The State 
 vs 
@@ -192,8 +182,8 @@ John Black
 alias Crowley 
 (a slave)</p>
 
-<p>Just. for #1.357</p>
-<p><unclear>H</unclear> by Ge Henley</p>
+<p>Just. fee $1.357</p>
+<p><unclear>Pd</unclear> by Ge Henley</p>
 
 </div1>
     
