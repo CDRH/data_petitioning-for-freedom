@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dorsey v. Greyon and Felps. Petitioner Sworn Statement</title>
+<title>Charles Dorsey v. James A. Felps. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dorsey v. Greyon and Felps. Petitioner Sworn Statement</title>
+<title level="m" type="main">Charles Dorsey v. James A. Felps. Petition</title>
 <date when="1855-04-11">April 11, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,18 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dorsey, Charles</term>
 <term>Greyon, William</term>
-<term>Felps, James A.</term>
-<term>Smith, Erving</term>
-<term>Waite, Liberty</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Mississippi Rivers</term>
-<term>Ohio</term>
-<term>Pittsburgh, PA</term>
-<term>St. Louis</term>
+<term>Pittsburgh, Pennsylvania</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -108,13 +102,10 @@
 <persName>Dorsey, Charles</persName>
 </person>
 <person role="defendant">
-<persName>Greyon, William</persName>
-</person>
-<person role="defendant">
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Smith, Erving</persName>
+<persName>Smith, Irving</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -122,7 +113,7 @@
 <person role="judge">
 <persName>Waite, Liberty</persName>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 </listPerson>
@@ -139,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -151,14 +143,13 @@
 
 <pb facs="hc.case.0038.004"/>
 
-<p> State of Missouri </p>
-<p> County of St. Louis } Ss </p>
+<p>State of Missouri</p>
+<p>County of St. Louis } Ss</p>
 
-<p> To the Honorable the Law 
-Commissioner of the County of St. Louis. </p>
+<p>To the Honorable the Law 
+Commissioner of the County of St. Louis.</p>
 
-<p> The undersigned petition-
-er being duly sworn upon his oath states that he is a free man of color 
+<p>The undersigned petitioner being duly sworn upon his oath states that he is a free man of color 
 a resident or citizen of Pittsburgh in the 
 state of Pennsylvania, that he has been 
 engaged for some time past as a hand 
@@ -172,36 +163,35 @@ and taken before Liberty Waite a Justice
 of the Peace within and for the county 
 of St. Louis by whom he was committed to 
 the common Jail of St. Louis county where 
-he is now held by the keeper of the com-
-mon Jail of St. Louis county.</p>
+he is now held by the keeper of the common Jail of St. Louis county.</p>
 
-<p> Petitioner further states that he is illegally 
+<p>Petitioner further states that he is illegally 
 restrained and deprived of his liberty in 
 this, that he was arrested and committed 
 to Jail as a runaway slave where in 
-such, he is a free man. </p>
+fact, he is a free man.</p>
 
-<p> Petitioner further states that a copy 
+<p>Petitioner further states that a copy 
 the warrant for his commitment and all 
 of the papers in relation thereto are 
-herewith filed </p>
+herewith filed</p>
 
-<p> Petitioner therefore prays of your honorable 
+<p>Petitioner therefore prays of your honorable 
 court that you issue your gracious 
 writ of Habeas Corpus &amp; inquire into 
 the cause of the commitment of your
 
-petitioner and that you issue <unclear> are 
-now </unclear> for his release- </p>
+petitioner and that you issue <unclear>an 
+vow</unclear> for his release-</p>
 
-<p> Charles Dorsey </p>
+<p>Charles Dorsey</p>
 
-<p> Sworn to &amp; subscribed 
+<p>Sworn to &amp; subscribed 
 before me this 11th day 
-of April 1855 </p>
+of April 1855</p>
 
-<p> <unclear> Erving </unclear> Smith</p>
-<p> Notary Public </p>
+<p><unclear>Irving</unclear> Smith</p>
+<p>Notary Public</p>
 
 
 </div1>

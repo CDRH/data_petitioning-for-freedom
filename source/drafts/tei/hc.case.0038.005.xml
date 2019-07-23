@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dorsey v. Greyon and Felps. Defendant Sworn Statement to Judge</title>
+<title>Charles Dorsey v. James A. Felps. William Greyon Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dorsey v. Greyon and Felps. Defendant Sworn Statement to Judge</title>
+<title level="m" type="main">Charles Dorsey v. James A. Felps. William Greyon Statement</title>
 <date when="1855-03-20">March 20, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,13 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dorsey, Charles</term>
 <term>Greyon, William</term>
-<term>Waite, Liberty</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -103,13 +101,10 @@
 <persName>Dorsey, Charles</persName>
 </person>
 <person role="defendant">
-<persName>Greyon, William</persName>
-</person>
-<person role="defendant">
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Smith, Erving</persName>
+<persName>Smith, Irving</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -117,7 +112,7 @@
 <person role="judge">
 <persName>Waite, Liberty</persName>
 </person>
-<person role="law commissioner">
+<person role="judge">
 <persName>Colvin, John W.</persName>
 </person>
 </listPerson>
@@ -134,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,10 +142,10 @@
 
 <pb facs="hc.case.0038.005"/>
 
-<p> State of Missouri </p>
-<p> County of St. Louis } Ss </p>
+<p>State of Missouri</p>
+<p>County of St. Louis } Ss</p>
 
-<p> William Greyon, personally 
+<p>William Greyon, personally 
 appeared before me Liberty Waite a Justice of 
 the Peace within &amp; for said county &amp; being 
 duly sworn says he has taken up as a 
@@ -159,13 +155,13 @@ runaway slave in the County of St. Louis
 Charles Dorsey &amp; this affiant believes the 
 said Charles Dorsey is a runaway slave 
 and prays his commitment may be had for 
-his safe keeping. </p>
-<p> William Greyon </p>
+his safe keeping.</p>
+<p>William Greyon</p>
 
-<p> Sworn to &amp; subscribed before 
-me this 20th day of March 1855 </p>
-<p> Liberty Waite </p>
-<p> Justice Peace </p>
+<p>Sworn to &amp; subscribed before 
+me this 20th day of March 1855</p>
+<p>Liberty Waite</p>
+<p>Justice Peace</p>
 
 </div1>
     
