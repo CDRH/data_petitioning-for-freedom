@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Duncan v. Lawlor. Law Commissioner Memo to Defendant</title>
+<title>Duncan v. Lawlor. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Lawlor. Law Commissioner Memo to Defendant</title>
+<title level="m" type="main">Petitioner v. Lawlor. Writ of Habeas Corpus</title>
 <date when="1854-09-14">September 14, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Colvin, John W.</term>
-<term>Duncan, Eliza</term>
-<term>Lawler, William</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -106,7 +104,10 @@
 <persName>Lawlor, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Olshausen, Arthur</persName>
+<persName>Delafield</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kribben</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -128,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,9 +142,9 @@
 
 <pb facs="hc.case.0039.003"/>
 
-<p> The State of Missouri </p>
+<p> The State of Missouri</p>
 
-<p> To William Lawler,          Greeting </p>
+<p> To William Lawler,          Greeting</p>
 
 <p> You are commanded to have the body 
 of Eliza Duncan before the Law Commissioners 
@@ -151,18 +153,18 @@ of September 1854 at 3 Oclock P.M.
 together with the time and cause of her 
 detention by you to do and receive 
 what shall then and there be adjudged 
-concerning said Eliza Duncan, who <unclear></unclear> 
+concerning said Eliza Duncan, who as 
 alleged in the annexed petition is illegally 
 restrained of her liberty by you, and have 
 you then and there this writ with your 
-return thereon </p>
+return thereon</p>
 
-<p> Given under my hand and 
+<p>Given under my hand and 
 the seal of the Law Commissioners 
 Court at Saint Louis Sept 14" 
-1854 </p>
-<p> Jno W. Colvin </p>
-<p> Law Com </p>
+1854</p>
+<p>Jno W. Colvin</p>
+<p>Law Com</p>
 
 
 </div1>

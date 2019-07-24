@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Duncan v. Lawlor. Petitioner Sworn Statement</title>
+<title>Duncan v. Lawlor. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Lawlor. Petitioner Sworn Statement</title>
+<title level="m" type="main">Petitioner v. Lawlor. Petition</title>
 <date when="1854-09-13">September 13, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,8 +86,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Colvin, John W.</term>
-<term>Duncan, Eliza</term>
 <term>Olshausen, Arthur</term>
 </keywords>
 
@@ -106,7 +104,10 @@
 <persName>Lawlor, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Olshausen, Arthur</persName>
+<persName>Delafield</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kribben</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -128,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,13 +143,11 @@
 <pb facs="hc.case.0039.002"/>
 
 <p> To Hon. Jno. Colvin, Law Commissioner 
-<unclear> &amp;c </unclear> </p>
+&amp;c </p>
 
-<p> The undersigned Eliza Duncan is im-
-prisoned and restrained of her liberty in this 
+<p>The undersigned Eliza Duncan is imprisoned and restrained of her liberty in this 
 Calaboose or commons jail of the city of St 
-Louis, St. Louis County and State of Mis-
-souri. <unclear> Altho </unclear> colored, she is free, and is well 
+Louis, St. Louis County and State of Missouri. Altho' colored, she is free, and is well 
 known to be so to many citizens of St. Louis. 
 She knows not why or by whom she has been 
 taken and detained. There is no charge 
@@ -162,20 +162,19 @@ That petitioner is free, has committed
 no violation of law, and she knows of 
 no reason why she should be there farther 
 detained. She therefore prays a writ of Habeas Corpus 
-be issued for her instant relief from farther imprisonment </p>
-<p> <unclear> Delafuid a Tiribbeer </unclear> </p>
+be issued for her instant relief from farther imprisonment</p>
+<p><unclear> Delafield &amp; Kribben</unclear></p>
 
-<p> Eliza Duncan being sworn says the for-
-going petition and the matters therein stated 
-are true </p>
-<p> Eliza Duncan </p>
+<p>Eliza Duncan being sworn says the forgoing petition and the matters therein stated 
+are true</p>
+<p>Eliza Duncan</p>
 
-<fw type="footer">Sworn to and subscribed 
+<p>Sworn to and subscribed 
 before me this 13th day of 
-September A.D. 1854 </fw>
+September A.D. 1854 </p>
 
-<p> Arthur Olshausen </p>
-<p> Notary Public</p>
+<p>Arthur Olshausen</p>
+<p>Notary Public</p>
 
 
 </div1>

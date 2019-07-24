@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Duncan v. Lawlor. Memo from the Defendant to the Law Commissioner</title>
+<title>Duncan v. Lawlor. Discharge</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Lawlor. Memo form the Defendant to the Law Commissioner</title>
+<title level="m" type="main">Petitioner v. Lawlor. Discharge</title>
 <date when="1854-09-14">September 14, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Colvin, John W.</term>
-<term>Duncan, Eliza</term>
-<term>Lawler, William</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -106,7 +104,10 @@
 <persName>Lawlor, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Olshausen, Arthur</persName>
+<persName>Delafield</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kribben</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -128,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,34 +142,33 @@
 
 <pb facs="hc.case.0039.004"/>
 
-<p> In obedience to the within writ the undersigned 
+<p>In obedience to the within writ the undersigned 
 states that the girl Eliza complainant has been 
 detained and yet is in his custody for safe 
 keeping but he has no process whatever to 
-authorize him to detain her. he has no au-
-thority for her farther detention </p>
-<p> September 14 Wm Lawlor </p>
-<p> Calaboos Keeper </p>
+authorize him to detain her. he has no authority for her farther detention</p>
+<p>September 14 Wm Lawlor</p>
+<p>Calaboos Keeper</p>
 
 
 
-<p> Law Com Court </p>
-<p> No 129 </p>
-<p> August Term 1854 </p>
+<p>Law Com Court</p>
+<p>No 129</p>
+<p>August Term 1854</p>
 
-<p> Habeas Corpus 
+<p>Habeas Corpus 
 in the matter of 
-Eliza Duncan </p>
+Eliza Duncan</p>
 
-<p> "By the Habeas Corpus 
-Act" </p>
+<p>"By the Habeas Corpus 
+Act"</p>
 
-<p> De Kribben </p>
+<p>De Kribben</p>
 
-<p> Issued 14th Sept 1854 </p>
-<p> Jno W. Colvin </p>
+<p>Issued 14th Sept 1854</p>
+<p>Jno W. Colvin</p>
 
-<p> Aug discharged <unclear> 3h </unclear> 38 </p>
+<p>Aug discharged <unclear>3h</unclear> 38</p>
 
 
 </div1>
