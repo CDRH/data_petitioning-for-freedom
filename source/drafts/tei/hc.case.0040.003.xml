@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edwards v. Rodeman. Note to the Defendant</title>
+<title>William Edwards v. Charles Rodeman. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Edwards v. Rodeman. Note to the Defendant</title>
+<title level="m" type="main">William Edwards v. Charles Rodeman. Order</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,12 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Edwards, William</term>
-<term>Rodeman, Charles</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
-<term>St. Louis</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -127,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Review</change>
 </revisionDesc>
 
 </teiHeader>
