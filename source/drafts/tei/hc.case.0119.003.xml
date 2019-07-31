@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0040.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0040.011">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edwards v. Rodeman. Memo from Judge to Jailor</title>
+<title>Edwards v. Rodeman. Petitioner Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0040.009</idno>
+<idno type="project">oscys.case.0040.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Edwards v. Rodeman. Memo from Judge to Jailor</title>
+<title level="m" type="main">Edwards v. Rodeman. Petitioner Statement</title>
 <date when="1858-08-24">August 24, 1858</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,6 +87,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Dusenbury, Henry</term>
+<term>Edwards, Eliza</term>
 <term>Edwards, Martha</term>
 <term>Ward, Charles G.</term>
 </keywords>
@@ -128,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,33 +140,52 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0040.009"/>
+<pb facs="hc.case.0040.011"/>
 
-<p>State of Missouri 
-County of St. Louis } ss "By the Habeas Corpus Act".</p>
-<p>The State of Missouri to 
+<p>To the Honorable Law Commissioners Court of St. Louis County:</p>
 
-Charles G. Ward.</p>
+<p>Your petitioners respectfully represents 
+that one Martha Edwards, a female minor child of the age 
+of nine years, is unjustly and unlawfully imprisoned 
+and restrained of her liberty by one Chas. G. Ward, 
+at his place of residence on Eighth street between Locust 
+and St. Charles streets, in the city of St. Louis or his agents or servants that your 
+petitioner is the mother of said child, and her legal 
+guardian, and entitled to her care and custody; that 
+said child was forcibly and violently taken from your 
+petitioner, at her place of residence in said city, by 
+two persons by name to your petitioner unknown, and 
+forcibly and violently incarcerated and confined at 
+the place of residence of said Ward as aforesaid 
+that said child was taken and confined as aforesaid 
+as your petitioner believes, without any process, warrant, 
+or other authority of law that your petitioner is now 
+denied by said Ward, his servants and agents, admission 
+to the company and presence of her said child <del>as is 
+her right</del> and is prevented from providing for and 
+protecting her said child, as it is her right and duty to 
+do and that no application for the relief sought for by this petition, has been made to and refused by <del>any</del> 
+Court officer or officers, inferior to your Hon Court our petitioner therefore prays that a writ of habeas corpus 
+may be issued to said Chas. G. Ward, commanding him to produce 
+the body of said Martha Edwards before your Honorable Court, that 
+she may be restored to the custody of your petitioner</p>
 
-<p>You are hereby commanded that 
-the body of Martha Edwards, under your custody 
-detained, as it is said, under safe and secure conduct, 
-together with the day and cause of her being detained 
-by you, and by whatsoever name the said Martha 
-Edwards may be known, you have before me Henry 
-Dusenbury, Law Commissioner of St. Louis County, 
-at the Courthouse in the City of St. Louis in said 
-County, this, the twenty fourth day of August 
-1858, at 3 o'clock P.M. to do and receive what 
-shall then and there be considered concerning the 
-said Martha Edwards, so detained as aforesaid 
-and here of fail not at your peril.</p>
+<p>Eliza Edwards her mark </p>
 
-<p>Witness my signature this 24th day of 
-August AD 1858.</p>
+<p>Duly sworn before me 
+on this 24th day of Augt 1858 - H Dusenbury 
+Law Com</p>
 
-<p>H. Dusenbury</p>
-<p>Law Commissioner</p>
+
+<p>Eliza Edwards, the petitioner, makes oath and says 
+that the matters and things stated in the within and 
+foregoing petition, are true, to the best of her knowledge and 
+belief</p>
+
+<p>Eliza Edwards her x mark</p>
+
+
+<p>"By the Habeas Corpus Act"</p>
 
 </div1>
     
