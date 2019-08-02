@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Johnson v. Johnstone. Writ of Habeas Corpus</title>
+<title>William Johnson v. John Hempstead. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Johnson v. Johnstone. Writ of Habeas Corpus</title>
+<title level="m" type="main">William Johnson v. John Hempstead. Writ of Habeas Corpus</title>
 <date when="1854-10-11">October 11, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Colvin, John W.</term>
-<term>Hempstead</term>
-<term>Johnson, William</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,7 +101,7 @@
 <persName>Johnson, William</persName>
 </person>
 <person role="defendant">
-<persName>Johnstone, P.W.</persName>
+<persName>Hempstead, John</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Burke</persName>
@@ -131,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,27 +142,25 @@
 
 <pb facs="hc.case.0043.003"/>
 
-<p> State of Missouri </p>
-<p> To John Hempstead </p>
-<p> Jailor of St Louis County </p>
+<p>State of Missouri</p>
+<p>To John Hempstead</p>
+<p>Jailor of St Louis County</p>
 
-<p> You are hereby commanded to Bring before 
-me at my office in the city of St Louis forth-
-with the body of William Johnson, impris-
-oned by the name of John Johnson, a free 
+<p>You are hereby commanded to Bring before 
+me at my office in the city of St Louis forthwith the body of William Johnson, imprisoned by the name of John Johnson, a free 
 person of color who is illegally detained 
 by you, as it is said, together with the day 
 and cause of his detention, and here in 
 fail not under the penalties that may 
-fall thereon </p>
+fall thereon</p>
 
-<p> Witness my hand and seal this 11th 
-day of October 1854 </p>
+<p>Witness my hand and seal this 11th 
+day of October 1854</p>
 
-<p> John W. Colvin </p>
-<p> Law Com </p>
+<p>John W. Colvin</p>
+<p>Law Com</p>
 
-<p> <del> seal </del> </p>
+<p><del> seal </del></p>
 
 
 </div1>
