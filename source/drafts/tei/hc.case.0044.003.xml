@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones v. Herkenrath. Judge Issue of Writ</title>
+<title>John Jones v. Robert F. Logan. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones v. Herkenrath. Judge Issue of Writ</title>
+<title level="m" type="main">John Jones v. Robert F. Logan. Writ of Habeas Corpus</title>
 <date when="1857-12-24">December 24, 1857</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,8 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dusenbury, Henry</term>
-<term>Jones, John</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,10 +101,10 @@
 <persName>Jones, John</persName>
 </person>
 <person role="defendant">
-<persName>Herkenrath, R.M.</persName>
+<persName>Logan, Robert F.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Meraiams, J.R.</persName>
+<persName>Merriam, J. R.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -127,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,11 +139,11 @@
 
 <pb facs="hc.case.0044.003"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis } Ss "By the Habeas Corpus act" </p>
+<p>State of Missouri</p>
+<p>County of St Louis } Ss "By the Habeas Corpus act"</p>
 
-<p> The State of Missouri to the Jailor of the County of St Louis       Greeting </p>
-<p> You are hereby commanded that 
+<p>The State of Missouri to the Jailor of the County of St Louis       Greeting</p>
+<p>You are hereby commanded that 
 the body of John Jones alias John 
 Cook in the Jail of said County 
 of St Louis under your custody detained 
@@ -155,20 +155,18 @@ said John Jones alias John
 Cook may be known, you have 
 before me Henry Dusenbury The 
 Law Commissioner of St Louis county 
-at <del> the </del> my court room in the Court 
+at <del>the</del> my court room in the Court 
 House in the City of St Louis in the 
 said County on the 26" day of 
 Dec. 1857 at 9 Oc A.M. to do 
-and receive what shall then and there be con-
-sidered concerning the said John Jones 
-alias John Cook so imprisoned and de-
-tained aforesaid; and here of fail 
-not at your peril </p>
+and receive what shall then and there be considered concerning the said John Jones 
+alias John Cook so imprisoned and detained aforesaid; and hereof fail 
+not at your peril</p>
 
-<p> Witness my signature this 24" day of Dec 1857 </p>
-<p> Henry Dusenbury </p>
-<p> Law Com. 
-St Louis County </p>
+<p>Witness my signature this 24" day of Dec 1857</p>
+<p>Henry Dusenbury</p>
+<p>Law Com. 
+St Louis County</p>
 
 
 </div1>
