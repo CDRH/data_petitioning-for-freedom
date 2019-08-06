@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Kirk v. Maddox. Witness Testimony</title>
+<title>George Washington Kirk v. James A. Felps. J. L. Engart Testimony</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Kirk v. Maddox. Witness Testimony</title>
+<title level="m" type="main">George Washington Kirk v. James A. Felps. J. L. Engart Testimony</title>
 <date when="1856-08-07">August 7, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,17 +86,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Carpenter, Saml P.</term>
-<term>Engart, J.L.</term>
-<term>Engart, R.F.</term>
-<term>Kirk, George Washington</term>
-<term>Lector, Henry F.</term>
+<term>Carpenter, Samuel S.</term>
+<term>Engart, J. L.</term>
+<term>Engart, R. F.</term>
+<term>Teetor, Henry F.</term>
 <term>Richardson, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cincinnati</term>
-<term>Ohio</term>
+<term>Cincinnati, Ohio</term>
 </keywords>
 
 </textClass>
@@ -107,7 +105,7 @@
 <persName>Kirk, George Washington</persName>
 </person>
 <person role="defendant">
-<persName>Maddox, Thumer</persName>
+<persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Whittelsey, Charles C.</persName>
@@ -116,7 +114,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Herkenrath</persName>
+<persName>Herkenrath, R. M.</persName>
 </person>
 </listPerson>
             
@@ -132,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -178,7 +177,7 @@ and authorized to take affidavit</p>
 
 <p>Witness my hand &amp; official seal</p>
 
-<p>Saml P Carpenter</p>
+<p>Saml S Carpenter</p>
 <p>Commissioner</p>
 
 </div1>
