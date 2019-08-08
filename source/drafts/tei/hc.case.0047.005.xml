@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Loan v. Johnstone. Defendant Witness Statement</title>
+<title>Joseph W. Loan v. Robert F. Logan. Command</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Loan v. Johnstone. Defendant Witness Statement</title>
+<title level="m" type="main">Joseph W. Loan v. Robert F. Logan. Command</title>
 <date when="1856-10-25">October 25, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,12 +88,11 @@
 <keywords scheme="lcsh" n="people">
 <term>Johnstone, Peter W.</term>
 <term>Loan, Eleck</term>
-<term>Loan, Joseph W.</term>
 <term>White, Hugh L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis Co.</term>
+<term>St. Louis, Missouri</term>
 </keywords>
 
 </textClass>
@@ -104,7 +103,7 @@
 <persName>Loan, Joseph W.</persName>
 </person>
 <person role="defendant">
-<persName>Johnstone, Peter W.</persName>
+<persName>Logan, Robert F.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -130,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,10 +142,10 @@
 
 <pb facs="hc.case.0047.005"/>
 
-<p> State of Missouri </p>
-<p> County of StLouis }Ss </p>
+<p>State of Missouri</p>
+<p>County of St Louis } Ss</p>
 
-<p> Hugh L White personally 
+<p>Hugh L White personally 
 appeared before me Peter W. Johnstone 
 a Justice of the Peace within and for said 
 County and being duly Sworn says 
@@ -154,12 +154,14 @@ that on or about the 20th day of October
 on the Steamboat Emigrant, which 
 I believe to be a Runaway Slave 
 and pray the Justice to command to the 
-common Jail of Saint Louis Co said negro as a Runaway Slave </p>
-<p> Hugh L. White </p>
+common Jail of Saint Louis Co said negro as a Runaway Slave</p>
+<p>Hugh L. White</p>
 
-<p> Sworn to and subscribed before me 
-this 25h day of October 1856 </p>
-<p> Peter W Johnstone,       Justice of the Peace </p>
+<p>Sworn to and subscribed before me 
+this 25h day of October 1856</p>
+<p>Peter W Johnstone,       Justice of the Peace</p>
+
+
 
 
 </div1>
