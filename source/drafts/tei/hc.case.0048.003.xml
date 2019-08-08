@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Smith v. Felps. Sworn Statement of Truth</title>
+<title>Mary Logan Smith v. James A. Felps. Sworn Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Smith v. Felps. Sworn Statement of Truth</title>
+<title level="m" type="main">Mary Logan Smith v. James A. Felps. Sworn Statement</title>
 <date when="1855-04-19">April 19, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Breckimichs, S.W.</term>
 <term>Bull, John C.</term>
-<term>Colvin, John W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
@@ -106,16 +104,16 @@
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Breckimichs, S.W.</persName>
+<persName>Breckinridge, S. W.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Chival, R.M.U. Kei Chival</persName>
+<persName>Kerchival, R. M. U.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Henry, William M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Mitchell, A.S.</persName>
+<persName>Mitchell, A. S.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Rice, Nathan L.</persName>
@@ -140,6 +138,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -152,24 +151,24 @@
 
 <pb facs="hc.case.0048.003"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis }Ss </p>
+<p>State of Missouri</p>
+<p>County of St Louis } Ss</p>
 
-<p> <strike> John C. Bull </strike> S.W. Breckimichs being 
+<p><del>John C. Bull</del> S.W. Breckinridge being 
 duly sworn in his oath states that the 
 above petition &amp; the matters &amp; things therein as 
 stated, are true. </p>
-<p> S.W. Breckimichs</p>
+<p>S.W. Breckinridge</p>
 
-<p> Sworn to and subscribed before me 
+<p>Sworn to and subscribed before me 
 this 19th day of April, A.D. 1855 </p>
-<p> J.W. Colvin </p>
-<p> Law Com. </p>
+<p>J.W. Colvin</p>
+<p>Law Com.</p>
 
 
-<p> Filed April 19 1885 </p>
-<p> JWColvin </p>
-<p> Law Com </p>
+<p>Filed April 19 1885</p>
+<p>J. W. Colvin</p>
+<p>Law Com</p>
 
 </div1>
     

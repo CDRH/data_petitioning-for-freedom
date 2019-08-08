@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Smith v. Felps. Witness Statement</title>
+<title>Mary Logan Smith v. James A. Felps. Witness Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Smith v. Felps. Witness Statement</title>
+<title level="m" type="main">Mary Logan Smith v. James A. Felps. Witness Statement</title>
 <date when="1855-04-07">April 7, 1855</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -89,11 +89,10 @@
 <term>Du Breuil, Louis</term>
 <term>Doyle, Gerard</term>
 <term>Marshall, Adam</term>
-<term>Smith, Mary Logan</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
-<term>Shelbyville, Sheltz County, Kentucky</term> 
+<term>Shelbyville, Kentucky</term> 
 <term>St. Louis, Missouri</term>
 </keywords>
 
@@ -108,16 +107,16 @@
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Breckimichs, S.W.</persName>
+<persName>Breckinridge, S. W.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Chival, R.M.U. Kei Chival</persName>
+<persName>Kerchival, R. M. U.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Henry, William M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Mitchell, A.S.</persName>
+<persName>Mitchell, A. S.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Rice, Nathan L.</persName>
@@ -142,6 +141,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,27 +154,27 @@
 
 <pb facs="hc.case.0048.011"/>
 
-<p> State of Missouri </p>
-<p> County of St Louis } SS </p>
+<p>State of Missouri</p>
+<p>County of St Louis } SS</p>
 
-<p> Personally appeared before me Louis 
+<p>Personally appeared before me Louis 
 DuBreuil Justice of the Peace, within and for the County 
 aforesaid Gerard Doyle who being sworn upon his oath 
 says that he did on the 7th day of April 1855, arrest &amp; 
 apprehend Adam Marshall a negro slave and that 
 he verily believes that said Adam Marshall is a run-
 away negro and belongs to Mary L. Smith of Shelbyville 
-Kentucky. </p>
-<p> G. Doyle </p>
+Kentucky.</p>
+<p>G. Doyle</p>
 
-<p> Sworn to &amp; subscribed 
+<p>Sworn to &amp; subscribed 
 before me this 7th day of 
-April 1855.    Louis Du Breuil </p>
-<p> Justice of the Peace </p>
+April 1855.    Louis Du Breuil</p>
+<p>Justice of the Peace</p>
 
 
 </div1>
     
 </body>
 </text>
-</TEI
+</TEI>
