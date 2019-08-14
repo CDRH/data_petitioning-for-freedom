@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seibert v. Seibert. Cover</title> 
+<title>Seibert v. Seibert. Plaintiff Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seibert v. Seibert. Type of document</title>
+<title level="m" type="main">Seibert v. Seibert. Plaintiff Sworn Statement</title>
 <date when="1878-05-28">May 28, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -105,14 +105,14 @@
 <person role="defendant">
 <persName>Seibert, Sarah E.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName>Fadeeu, John P.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName/>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             

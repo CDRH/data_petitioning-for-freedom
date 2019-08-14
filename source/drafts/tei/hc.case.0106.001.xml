@@ -51,7 +51,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Seibert v. Seibert. Type of document</title>
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1878-05">May 1878</date></term>
+<term><date when="1875-05">May 1878</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -106,14 +106,14 @@
 <person role="defendant">
 <persName>Seibert, Sarah E.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName>Fadeeu, John P.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName/>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
