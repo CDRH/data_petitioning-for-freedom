@@ -1,4 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0111.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seibert v. Billings. Petition for Writ of Habeas Corpus</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0111.001</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seibert v. Billings. Petition for Writ of Habeas Corpus</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1877-12">December 1877</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Billings, William</term>
+<term>Greene, Robert S.</term>
+<term>Judson, John P.</term>
+<term>Seibert, Sarah Elizabeth</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Chehalis County, Washington</term>
+<term>Mason County, Washington</term>
+<term>Olympia, Washington</term> 
+<term>Servis County, Washington</term>
+<term>Thurston County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Seibert, Sarah Elizabeth</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Judson, John P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Greene, Robert S.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the 2nd Judicial District of Washington Territory</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nl">transcribed.</change> 
+<change when="2019" who="sab">encoded, edited transcription.</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0111.001"/> 
 
 <note>1708</note>
 
@@ -16,17 +162,17 @@
 
 <pb...></pb...>
 
-best of her knowledge, is a committment issued out of the District Court of the 2nd Judicial District of Washington Territory, holding terms at Olympia upon a pretenced, or assumed conviction judgment and sentence, for the crime of polygamy, under Section 128, of the Criminal practice act of Washington Territory approved Nov. 10th 1873.</p>
+best of her knowledge, is a commitment issued out of the District Court of the 2nd Judicial District of Washington Territory, holding terms at Olympia upon a pretenced, or assumed conviction judgment and sentence, for the crime of polygamy, under Section 128, of the Criminal practice act of Washington Territory approved Nov. 10th 1873.</p>
 
 <p>That the said confinement, detention, and imprisonment is illegal, and that the illegality thereof consists in this:</p>
 
-<p>First That the Grand Jury which found the Indictment, upon which the petitioner was tried, convicted and sentenced, had no legal authroity to inquire into the offense charged in said indictment because said offense is within the exclusive Jurisdiction of the District Court of the United States and because the said Grand Jury had no Jurisdiction to enquire of offenses committed against the laws of the United States.</p>
+<p>First That the Grand Jury which found the Indictment, upon which the petitioner was tried, convicted and sentenced, had no legal authority to inquire into the offense charged in said indictment because said offense is within the exclusive Jurisdiction of the District Court of the United States and because the said Grand Jury had no Jurisdiction to enquire of offenses committed against the laws of the United States.</p>
 
 <pb...></pb...>
 
-<p>Second Because said Section 128 of the Criminal Practice Act of the Territory of Washington upon which the indictment, conviction, judgment and committment are based, is unconstitutional and void, because it is inconsistent with Section 5352 of the Revised Statutes of the United States.</p>
+<p>Second Because said Section 128 of the Criminal Practice Act of the Territory of Washington upon which the indictment, conviction, judgment and commitment are based, is unconstitutional and void, because it is inconsistent with Section 5352 of the Revised Statutes of the United States.</p>
 
-<p>Third Because the District Court of the 2nd Judicial District of Washington Territory holding terms at Olympia, being the Court to which the indictment against petitioner was returned, and iin which she was tried, convicted and sentenced and out of which the committment issued had no Jursidiction over the offense charged in said Indictment by reason of the provisions of Section 711 of the Revised Statutes of the United States.</p>
+<p>Third Because the District Court of the 2nd Judicial District of Washington Territory holding terms at Olympia, being the Court to which the indictment against petitioner was returned, and in which she was tried, convicted and sentenced and out of which the commitment issued had no Jurisdiction over the offense charged in said Indictment by reason of the provisions of Section 711 of the Revised Statutes of the United States.</p>
 
 <p>Fourth Because the Grand Jury, which found the indictment, upon which petitioner was convicted, sentenced, and committed. Could only
 
@@ -38,3 +184,9 @@ inquire off and presentment make of offenses committed against the laws of the T
 
 <p>John P. Judson
 Attorney for Petitioner</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
