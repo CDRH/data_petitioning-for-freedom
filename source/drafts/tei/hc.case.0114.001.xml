@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Jones et al. v. George. Cover</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Jones et al. v. George. Cover</title>
 <date when="1185-03-11">March 11, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -107,16 +107,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Jones, William</persName>
+</person>
+<person role="petitioner">
+<persName>Doyle, William H.</persName>
+</person>
+<person role="petitioner">
+<persName>Williams, Fred</persName>
+</person>
+<person role="petitioner">
+<persName>Woods, Alfred</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>George, Jesse W.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName>Robinson, Joseph W.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
 </person>
 <person role="judge">
 <persName>Hoyt, John P.</persName>
