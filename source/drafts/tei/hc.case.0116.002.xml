@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Syllabus</title> 
+<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.001</idno> 
+<idno type="project">oscys.case.0116.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Syllabus</title>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
 <date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,16 +83,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-01">Month 1870</date></term>
+<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Keokuk, Moses</term>
-<term>Wiley, Albert</term>
+<term></term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Douglas County</term> 
+<term></term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -100,33 +99,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Last, First</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Last, First</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Last, First</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Last, First</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2019" who="sab">transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,23 +136,19 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.001"/> 
+<pb facs="hc.case.0116.002"/> 
 
-<p>Albert Wiley
+<p>501</p>
+
+<p>Albert Wyley.
 v
-Kiskick. } Error from Douglas County
-Affirmed</p>
+Ke-o-Keek.</p>
 
-<p>Syllabus</p>
-<p>By the Court Kingman C.F.</p>
+<p>Syllabus.</p>
 
-<p>1 A person who had served as a talesman in the trial of a cause at the same term of the court was placed on the regular panel in place of a prior excused. He was challenged by defendant because of his <del>habing used som</del> previous service as talesman. The court reminded the challenge, and he was then challenged peremptorily held. That the court used in overling the challengers, but in as much as the record does not show that the defendant exhausted his peremptory challenges <del>a new trial</del> will not be
-<del>adued for</del> reversed for an ever which was caused by the action of the defendant.</p>
-<p>2) It is not ever to change that an illegal act has been committed by the defendant, when the answer of defendant admits facts that show he did certain acts which must be held illegal</p>
-<p>3 It's not ever to change the jury that they are authorized to give exemplary damages where the elements of fraud, malice, gross negligence, or oppression mingle in and form pact of the cause of action.</p>
-
-<p>Safford J. Concuning</p>
-
+<p>Filed May 10th 1870
+E.B. Fowler
+Clerk</p>
 
 </div1>
     
