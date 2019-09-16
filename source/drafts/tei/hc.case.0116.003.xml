@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.003"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Wiley v. Keokuk. Syllabus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.001</idno> 
+<idno type="project">oscys.case.0116.003</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,13 +50,13 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Wiley v. Keokuk. Syllabus</title>
 <date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>]
+<repository></repository>
 <collection></collection>
 <idno></idno>
 </msIdentifier>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,15 +83,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1870-01">Month 1870</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Keokuk, Moses</term>
+<term>Kingman, C.F.</term>
+<term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Douglas County</term> 
+<term>Indiana</term>
+<term>Massachusetts</term>
+<term>North Carolina</term>
 </keywords>
 
 </textClass>
@@ -99,34 +104,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Wiley, Albert</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Keokuk, Moses</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Last, First</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Kingman, C.F.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName></orgName> 
+<placeName>Douglas County, Kansas</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed.</change>
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="sab">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,21 +141,52 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.003"/>
+<pb facs="hc.case.0116.003"/> 
 
 <p>Albert Wiley
 v
-Kiskick
+Keokuk
 Kingman</p>
 
-<p>The first error alleged occurred in selecting a jury. The person was challenged for cause on the ground that he had once already errored on a <unclear>jury</unclear> on a talesman in the treat of a cause at the same team of the conet, the court overrated the challenge, This was error. Code sec 270, It appears that after the person had served as a talesman he had ben called to seen as a regular juror for te term in place of a juror excused. This made no difference, the law remained the same, the challenge should have been allowed, the beneficent objects of the section could not to frees hated by placing a man on the regular paned who could not serve on a penny if challenged. The object of the law is to get rid of professional jurors, a most pertiferous set as every lawyer knows, and this could not be done away with by a sheriff or court, by <del>mutting could</del> putting such a jurer on the regular <unclear></unclear>. The juror was afterwards challenged peremptoily by plantiff in then and there removed from the jury. The record does not show that the defendant exhausted his persemptory challenges. Then funds bring the case directly within the ruling of thi court in the case of Merton v The State 1st <unclear></unclear> 468, "By the means the defendant seems
+<p>The first error alleged occurred in selecting a jury. The person was challenged for cause on the ground that he had once already errored on a <unclear>jury</unclear> on a talesman in the treat of a cause at the same team of the conet, the court overrated the challenge, This was error. Code sec 270, It appears that after the person had served as a talesman he had ben called to seen as a regular juror for te term in place of a juror excused. This made no difference, the law remained the same, the challenge should have been allowed, the beneficent objects of the section could not to frees hated by placing a man on the regular paned who could not serve on a penny if challenged. The object of the law is to get rid of professional jurors, a most pertiferous set as every lawyer knows, and this could not be done away with by a sheriff or court, by <del>mutting could</del> putting such a jurer on the regular <unclear></unclear>. The juror was afterwards challenged peremptoily by plantiff in then and there removed from the jury. The record does not show that the defendant exhausted his persemptory challenges. Then funds bring the case directly within the ruling of thi court in the case of Merton v The State 1st <unclear></unclear> 468, "By the means the defendant seems</p>
 
-effectivally to have relived himself from the grievance of which he complains" and the case will not be reserved for an error of the court which the paty cured by his own action. </p>
+<p>2</p>
+
+<p>effectivally to have relived himself from the grievance of which he complains" and the case will not be reserved for an error of the court which the party cured by his own action. </p>
 <p>The next serer claimed in that the court used in the chargs to the jury and special attention in called to the 6th intention which is as follows
 "That the letter of instruction of communication Mix, does not pistfy the illegal act of Agent Wiley. He is answerable in damages to the plaintiff for any illegal act."</p>
-<p>The plaintiff in error claims that by the insturction the court total the jury that Wiley did do some <del>illegal</del> act to Kiskick and that such act was illegal and that the letter of <unclear>communition</unclear> mint did not justify such illegal act. It is apparent from the neend that the court did do just what it is claimed that is did. The indication of the court is two plain not to have been understood by the jury. Did the pleadings need evidence authorize such an instruction. The jury are only to pass upon the issues made up in the case. They pass upon the controverted facts, that is the facts controverted vy the proceedings. In this case the petition alleged an assault and battery and false imprisonment. The answer set up two grounds of defense
+<p>The plaintiff in error claims that by the instruction the court total the jury that Wiley did do some <del>illegal</del> act to Keokuk and that such act was illegal and that the letter of <unclear>communition</unclear> mint did not justify such illegal act. It is apparent from the need that the court did do just what it is claimed that is did. The indication of the court is two plain not to have been understood by the jury. Did the pleadings need evidence authorize such an instruction. The jury are only to pass upon the issues made up in the case. They pass upon the controverted facts, that is the facts controverted vy the proceedings. In this case the petition alleged an assault and battery and false imprisonment. The answer set up two grounds of defense</p>
 
-first a general denial and seemed a special defense showing what the defendant had really done and attempting to </p>
+<p>3</p>
+
+<p>first a general denial and seemed a special defense showing what the defendant had really done and attempting to justify his acts by these facts. It was an <unclear>atminine</unclear> that the defendant was the primary moving cause of the arrest and imprisonment of the plaintiff and an attempt to justify his conduct therein. Now notwithstanding the general denial we suppose that whatever was admitted in the special defense need not have been proved. This special defense so far modified the general denial that whatever was admitted therein was excepted from the general denial. It ought to be so on general principle of pleading, it must be so enamoured as it is a formal confession of the existence of the facts therein set forth. A careful examination of the answer has conrimced us. That had there been no evidence in the case the courts would have had to give nominal damages at least on the pleadings as they stood, and to do so would necessarily have hel that in the answer was an admission of facts that made the defendant guilty of an illegal act in <del>the ane</del> causing the arrest and <del>false</del> imprisonment of Keokuk.</p>
+<p>The court there committed no error in <unclear></unclear> the jury as it did that Wiley had been guilty of an illegal act towards the plaintiff and of course these can be no justification in laws</p>
+
+<p>4</p>
+
+<p>for an illegal act. I there if justification in law, there can be no illegallity. As the pleadings had admitted the acts done it was proper for the court to <del>set</del> so say to the jury and it was its duty to say to them that such acts were illegal if such was the law.</p>
+<p><unclear>Aor</unclear> we think this ruling is at all in conflict with the case of Carl Home v The State /Kansas 42. to which we have been refused. The plea of not <unclear></unclear> is that case put everything in <del>don</del> issue, and it was necessary for the state to prove every fact essential to make up the crime, and every such fact was to be passed upon by the jury, unbiased by <del>the court</del> anything thte court might say. in this case it was the duty of the court on the pleadings to say that the judgements must be for the plaintiff and it was proper to say/do to the jury, and the court, did no more at most in the instruction under consideration</p>
+<p>The seventh and eighth instructions are objected to. They are as follows</p>
+<p>7 "That whenever the elements of frand malice gross negligence or oppression mingle in the controversy the law allows the jury to give</p>
+
+<p>5</p>
+
+<p>what is called exemplary or indictive damages" 
+8 " That in cases of tors and actions for false imprisonment, the jury are the only proper judges of how much the plaintiff ought to recover,"</p>
+<p>These instructions raise the question so much discussed of late by writers upon law as to whether such damages as are called exemplary, indictive or punitive ought ever to be allowed We content ourselves with following to connect of authorities and decide that the instructions go no further than such authorities warrant. If the law is wrong let the law making power correct it. The rule as laid down by the court below has already received the sanctions of this court. Malone v Muphey 2nd Kansas 2150., The whole subject is discussed pro and con, and the authorities refused to in 2 <unclear>Grempleafs</unclear> Ev. sees 253-5 and note, and in <unclear>Seos.</unclear> on measure of damages 4th Ed. 533 and note. And after all this discussion, the Supreme Court of the US decide the law as laid down in these instructions. No Justice given delivering the opinion of the court well says." If repeated pedicial decision for more than a century are to be received at the best experition of what the law is, the question will not admit of argument. By the common as well as by statute laws, men are often punished for aggravated misconduct of lawless acts by means of a civil action, and the damages inflicted by way of penalty or punishment, given to the party</p>
+
+<p>6</p>
+
+<p>injured" We have no doubt that such is the law. Where it be founded in grand reason or not is not so much our promise to say, as to determine if it be law. The writer hereof believes it to be not only good law but founded on sound principles and beneficial in its application. It often fernishes the only restraint upon a bad man who cares little for his neighbors character his person, or his property. The party injured pursues the wrong doer to punishment, when society is too careless to do so.</p>
+<p>It is claimed however in this case that the action being for assault and battery, which is punishable by criminal proceedings, if exemplary damages are allowed, then the wrong doer is likable to be punished twice. To this answers may be made each of which is satisfactory, while the action is free assault and battery and false imprisonment. The evidence only showed a false impoverishment and the plaintiff fails to show how that is made a criminal offence again. the great weight of authorities is against such a modification of the doctrine. In Massachusetts, Indiana and North Carolina such a limitation has been engrafted upon the doctrine of exemplary damages. but in most of the states it has been rejected and we think rightfully.</p>
+
+<p>7</p>
+
+<p>These reasons under it unnecessary to consider at length the instructions asked by the defendant and refund, for they are the direct converse of those given, asking the court to say that the jury could only give a verdict for the damages sustained or "actually sustained" The petition contained the usual averments formerly found in actions for assault and battery and false imprisonment and the jury were authorized under it to give exemplary damages as we understand the law, and the instructions asked laid down a much more limited rule and consequently ought not to have been given
+
+on a motion for a new trial it was insisted that the verdict was against the law and the evidence and two reasons are urged in support of the petition. First that the evidence did not show a state of facts that would authorize a recovery against Wiley, Set as see. Wiley was agent for the Sae and <unclear></unclear> enorinns of which tribe Keokuk was chief. Communioner mix had directed that no delegations from any of the tribes should visit Washington as there was not appropriation to pay their expenses. This letter as was one from <unclear>Superinterduct</unclear> Murphy was read by Wylie to Keokuk and other on the 16th day of November 1868. When Keokuk said he <del>had</del> should go as he had money and would pay his own expenses. That on the 22nd of November Keokuk and four others of the tribe started for Washington without license so to do.</p>
+
+<p>8</p>
 
 </div1>
     
