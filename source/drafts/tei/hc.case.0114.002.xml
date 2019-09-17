@@ -1,6 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<p>In the U.S. District Court holding terms at Olympia. In the matter of the petition of Willaim Jones, William H. Doyle, Fred Williams and Afred Woods for a writ of habeas corpus.</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0114.002"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Jones et al. v. George. Petition for Writ of Habeas Corpus</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0114.002</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Jones et al. v. George. Petition for Writ of Habeas Corpus</title>
+<date when="1885-03-06">March 6, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-03">March 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Doyle, Fred</term>
+<term>George, Jesse W.</term>
+<term>Hoyt, John P.</term>
+<term>Jones, William</term>
+<term>Robinson, Joesph W.</term>
+<term>Smith, Eben</term>
+<term>Wood, Alfred</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Olympia, Washington</term> 
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Jones, William</persName>
+</person>
+<person role="petitioner">
+<persName>Doyle, William H.</persName>
+</person>
+<person role="petitioner">
+<persName>Williams, Fred</persName>
+</person>
+<person role="petitioner">
+<persName>Woods, Alfred</persName>
+</person>
+<person role="defendant">
+<persName>George, Jesse W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson, Joseph W.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, John B.</persName>
+</person>
+<person role="judge">
+<persName>Hoyt, John P.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName>
+<placeName>Olympia, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nl">transcribed.</change> 
+<change when="2019" who="sab">encoded, edited transcription.</change>  
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0114.002"/>
+
+<p>In the U.S. District Court holding terms at Olympia. In the matter of the petition of William Jones, William H. Doyle, Fred Williams and Alfred Woods for a writ of habeas corpus.</p>
 
 <p>To the Hon. John P. Hoyt</p>
 
@@ -8,9 +163,9 @@
 
 <p>Your petitioners above named most respectfully show to your Honor that they and each of them are illegally restrained of their and each of their liberty. That they and each of them are now and have been since on or about the 12th day of Feby 1885 confined in the Pententiary situated on McNeils Island in Pierce County Washington Territory in the custody of one Jesse W. George United States Marshall of said Territory.</p>
 
-<p>And your petetioners further show that such confinement is by virtue of a committment issudeby Eben Smith U.S. Commissioner in and for the 3rd District of Washington Territory a copy of which is hereunto annexed and made a part hereof, together with a copy of complaint upon which said commission acted which is also made a part hereof.</p>
+<p>And your petitioners further show that such confinement is by virtue of a commitment issued by Eben Smith U.S. Commissioner in and for the 3rd District of Washington Territory a copy of which is hereunto annexed and made a part hereof, together with a copy of complaint upon which said commission acted which is also made a part hereof.</p>
 
-<p>That at the date and before the said commissioner had ordered your and each of your petetioners to be committed to the custody of said U.S. Marshall asin the commitment recited, your and each of your petetioners offered to enter into their and each of their personal recognisance for their and each of their appearance at the next term of the District Court holding terms at Seattle and are now ready to do so, but they and each of them are too poor to give other sureties than their personal recognisance and can not give secureity as required</p>
+<p>That at the date and before the said commissioner had ordered your and each of your petitioners to be committed to the custody of said U.S. Marshall as in the commitment recited, your and each of your petitioners offered to enter into their and each of their personal recognisance for their and each of their appearance at the next term of the District Court holding terms at Seattle and are now ready to do so, but they and each of them are too poor to give other sureties than their personal recognisance and can not give security as required</p>
 
 <p>That said Commissioner refused to accept said
 
@@ -20,15 +175,15 @@ offer and thereupon made the order recited in <del>said</del> the annexed Commit
 
 <p>That they were not committed by virtue of any final judgment or decree of any court in the United States. That your petitioners are advised by their counsel and believe that they and each of them are illegally confined in said Pententiary and unjustly deprived of their and each of their liberty, and that such illegality consists in this to wit:</p>
 
-<p>1st: That said Commissioner had no authroity by law to commit your petitioners or any one of them.</p>
+<p>1st: That said Commissioner had no authority by law to commit your petitioners or any one of them.</p>
 
 <p>2nd: For the reason that they and each of them <del>ever</del> were not and are not charged with <del></del> the violation of any law or accused of any crime before said Commissioner.</p>
 
-<p>3rd: That no warrant of arrest against any one of your petetioners was ever issued by said Commissioner.</p>
+<p>3rd: That no warrant of arrest against any one of your petitioners was ever issued by said Commissioner.</p>
 
-<p>4th: That your and each of your petetioners have been and are deprived of their and each of their liberty without due process of law.</p>
+<p>4th: That your and each of your petitioners have been and are deprived of their and each of their liberty without due process of law.</p>
 
-<p>Wherefore your petetioners pray that a writ of Habeas Corpus may be granted, directed to the said Jesse W. George U.S. Marshall in whose custodywe and each of us are, commanding him to have the bodies of each and <del>any</del> every of your petetioners before your Honor at a time and place therein to be named, to do and receive what shall then and there be ordered by your Honor</p>
+<p>Wherefore your petitioners pray that a writ of Habeas Corpus may be granted, directed to the said Jesse W. George U.S. Marshall in whose custody we and each of us are, commanding him to have the bodies of each and <del>any</del> every of your petitioners before your Honor at a time and place therein to be named, to do and receive what shall then and there be ordered by your Honor</p>
 
 <pb...></pb...>
 
@@ -40,3 +195,9 @@ offer and thereupon made the order recited in <del>said</del> the annexed Commit
 March 6" 1885
 Robinson <unclear>Porlic</unclear> &amp; Robinson
 Attys for petitioners.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
