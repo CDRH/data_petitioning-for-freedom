@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.005"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.013"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Opinion</title> 
+<title>Wiley v. Keokuk. Letter from Attorney Defendants</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.005</idno> 
+<idno type="project">oscys.case.0116.013</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Opinion</title>
-<date when="1870-05-10">May 10, 1870</date>
+<title level="m" type="main">Wiley v. Keokuk. Letter from Attorney Defendants</title>
+<date when="1868-11-23">November 23, 1868</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,13 +87,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fowler, E.B.</term>
+<term>Fonte</term>
 <term>Keokuk, Moses</term>
+<term>Nerisor, Rigg</term>
 <term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term/>
+<term>Franklin County</term>
+<term>Kansas</term>
+<term>United States of America</term>
 </keywords>
 
 </textClass>
@@ -110,7 +113,10 @@
 <persName>Christian, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Nerisor, Rigg</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fonte</persName>
 </person>
 <person role="judge">
 <persName>Kingman, C.F.</persName>
@@ -138,18 +144,14 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.005"/> 
+<pb facs="hc.case.0116.013"/>
 
-<p>1,10 501</p>
+<p>Rigg Nerison &amp; Forte</p> 
+<p>Attys for Wiley aft</p>
+<p>The plaintiff then to the jury as evidence in the case as affidavit made by defendant Wiley in words and figures as follows. United States of America. District of Kansas</p>
+<p>The complainant Albert Wiley of Franklin County who being duly sworn says that Keokuk a Sue &amp; Fox Indian <unclear>late</unclear> of the Sue &amp; Fox Reserve in said District heretofore to court. On the 28th day of November AD 1868 at said Reserve in said District did leave said Sue &amp; Fox Reserve  and did disobey the orders of the United States commission of Indian affairs and the orders of other agents of the United States to him given contrary to the laws of the United States in such case made and provided. Wherefore complainant prays that the said Keokuk may be apprehended and dealt with according to law.</p>
 
-<p>Albert Wyley 
-&amp; Keokuk</p>
-
-<p>Opinion</p>
-
-<p>Filed May 10th 1870
-E.B. Fowler
-clerk</p>
+<p>Albert Wiley</p>
 
 </div1>
     
