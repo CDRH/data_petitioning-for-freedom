@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Appearance</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Order Denying Writ</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.006</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.001</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title><!-- replace with name of case; type of document -->
-<date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Order Denying Writ</title><!-- replace with name of case; type of document -->
+<date when="1919-02-05">February 5, 1919</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1918-11">November 1918</date></term><!-- insert date of court term -->
+<term><date when="1919-02">February 1919</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -101,7 +101,7 @@
 <persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Pierce, Ralph S.</persName>
+<persName>Pierce, Ralph D.</persName>
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -122,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 

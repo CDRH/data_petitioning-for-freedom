@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Appearance</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Order</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 
-<name n="Silva, Salma J." xml:id="djr">Salma J. Silva</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.006</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.001</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Order Denying Writ</title><!-- replace with name of case; type of document -->
 <date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -101,7 +101,7 @@
 <persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Pierce, Ralph S.</persName>
+<persName>Pierce, Ralph D.</persName>
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -122,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -137,11 +137,9 @@
 <pb facs="hc.case.0189.001"/> <!-- insert number from spreadhseet -->
 
 <p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
-<p>No. 4356 ORDER DENYING WRIT</p>
-<p>The above entitled matter having come regularly on for hearing on the 2d day of December, 1918, on the petition for a Writ of Habeas Corpus, the Writ of Habeas Corpus and respondent's return thereto, and the Court having heard arguments of counsel and being fully advised in the premises, it is hereby</p>
-<p>ORDERED, That the said Writ be and the same is hereby denied with costs to petitioner, and the petitioner remanded to the custody of the Commissioner of Immigration.</p>
-<p>Done in open court this 5 day of February, A. D. 1919.</p>
-
+<p>No. 4356 ORDER.</p>
+<p> On reading and filing the complaint of Charles Jackson, and it appearing therefrom that the said Charles Jackson is unlawfully restrained of his liberty at the United States Immigration Detention Station in Seattle, King County, Washington, by Henry M. White, Commissioner of Labor of the United States, acting under the pretended authority of a warrant of deportation issued by the Secratary of Labor of the United States, wherein it is charged that the said complainant is an alien, and that he was a person likely to become a public charge at the time of his entry into the united States, and that a hearing was held to inquire into the merits of said charge, and that a complete copy of the testimony taken at such hearing is in the possession of said Henry M. White, and ought to be produced on the hearing of said mattter in order that the court may have the best evidence available upon the issues tendered in the complaint herein,</p>
+<p>Now, therefore, it is ordered that <del>the clerk issue out of and under the seal of this court, a writ of Habeas Corpus directed to Henry M. White, Commissioner of Labor of the United States, stationed at Seattle, Washington, requiring that he produce the body of the complainant, Charles Jackson, in the above entitled court before me</del> on the 18th day of November, 1918, at two o'clock in the afternoon, and then and there show cause if any, he has, why the said Charles jackson should be further restrained of his liberty, <del>and that said writ further direct the said Henry M. White also then and there to produce properl authenticated under his seal, a copy of the testimony taken at the hearings held pursuant to the mandate of the warrant of arrest issued by the Secretary of Labor, pursuant to which the complainant, the said Charles Jackson, is restrained of his liberty by him, the said Henry M. White.</del> <add>and why a writ of Habeas Corpus should not <unclear> </unclear></add> </p>
 <fw type="footer"> &amp;</fw>
 
 

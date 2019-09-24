@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Appearance</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Return on Service of Writ</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 
-<name n="Silva, Salma J." xml:id="djr">Salma J. Silva</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Return on Service of Writ</title><!-- replace with name of case; type of document -->
 <date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -83,11 +83,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Henry M. White</term><!-- insert names of other people mentioned in document -->
+<term>J.H. Sargent</term>
+<term>John M. Boyle</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -122,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -134,13 +136,10 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0189.006"/> <!-- insert number from spreadhseet -->
 
-<p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
-<p>No. 4356 ORDER DENYING WRIT</p>
-<p>The above entitled matter having come regularly on for hearing on the 2d day of December, 1918, on the petition for a Writ of Habeas Corpus, the Writ of Habeas Corpus and respondent's return thereto, and the Court having heard arguments of counsel and being fully advised in the premises, it is hereby</p>
-<p>ORDERED, That the said Writ be and the same is hereby denied with costs to petitioner, and the petitioner remanded to the custody of the Commissioner of Immigration.</p>
-<p>Done in open court this 5 day of February, A. D. 1919.</p>
+<p>I hereby certify and return that I served the anexed Order on the therein-named Henry M. White, Commissioner of Labor, by handing to and leaving a true and correct copy thereof with J. H. Sargent, Assistant Commissioner of Labor personally at Seatlle, Wash. in said District on the 14th day of November, A.D. 1918.</p>
+
 
 <fw type="footer"> &amp;</fw>
 
