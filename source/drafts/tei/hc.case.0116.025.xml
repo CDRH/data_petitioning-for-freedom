@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.019"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.025"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Defendant Counsel</title> 
+<title>Wiley v. Keokuk. Case</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.019</idno> 
+<idno type="project">oscys.case.0116.025</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Defendant Counsel</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Wiley v. Keokuk. Case</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,15 +83,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1870-01">January 1870</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Anderson, A.D.</term>
+<term>Dorwin, Thomas</term>
+<term>Keokuk, Moses</term>
+<term>Mix, Charles E.</term>
+<term>Montgomery, William P.</term>
+<term>Murphey, Thomas</term>
+<term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term/>
+<term>Douglas County, Kansas</term>
+<term>Franklin County, Kansas</term>
+<term>Washington D.C.</term>
 </keywords>
 
 </textClass>
@@ -123,7 +130,7 @@
             
 <listOrg>
 <org>
-<orgName></orgName> 
+<orgName>Douglas District Court</orgName> 
 <placeName>Douglas County, Kansas</placeName> 
 </org>
 </listOrg>   
@@ -142,18 +149,14 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.019"/>
+<pb facs="hc.case.0116.025"/>
 
-<p>Thereupon the defendant by his counsel filed in said court then and there a motion for a new trial, which said motion was in writing and in the following words viz:</p>
-
-
-
-<p>That <unclear></unclear> exceptions be allowed noted and made a part of the Record of this case which was accordingly done.</p>
-<p>The jury after having heard the proofs adduced the arguments of counsel and the charge of the court as above set forth relived to there room under charge of an officer to consider of their <unclear></unclear>. Shall <unclear></unclear> therefore said jury returned their verdict in words and figures as follows to wit: We the jury find for the plaintiff and assess his damages at one Thousand dollars.</p>
-<p>A.D. Anderson foreman of jury</p>
-
-<p>Thereupon the defendant by his counsel filed in said court then and these a motion for a new trial, which said motion was in writing and in the following words viz:</p>
-
+<p>60</p>
+<p>KANSAS REPORTS.</p>
+<p>Action for assault and battery, and false imprisonment, brought by Keokuk, chief of the Sac and Fox Indians, as plaintiff, against Albert Wiley, Charles E. Mix, Thomas Murphy, Thomas Dorwin, and William P. Montgomery, and subsequently dismissed as to all except Wiley. The body of the petition was as follows:</p>
+<p>[*95] *"The said plaintiff complains of said defendants, for that the said defendants, on the twenty-third of November, 1868, at Lawrence, in the county of Douglas, unlawfully, and with force, assaulted the said plaintiff, and beat, bruised, wounded, and ill-treated him, and then and there imprisoned him, and kept and detained him in prison in the county jail of Douglas county, among a probable cause whatever, for the space of one night and two days next following, and other wrongs then and there did to the said plaintiff, to the damage of the said plaintiff, ten thousand dollars."</p>
+<p>The defendant answered, in addition to a general denial, as follows:</p>
+<p>"And for a second and further defense the defendant says that, on and pior to the twenty-third day of November, 1868, he was the United States Indian agent for the Sace and Fox Indians of said tribe, and pretends to be a chief of said Indians, and on said twenty-third of November, and for a long time previous thereto, resided on the lands of said tribe, in the county of Franklin, in the state of Kansas; that on or about the twenty-sixth of October, 1868, this defendant, as such Indian agent, received from the said Thomas Murphy, then the United States superintendent of Indian affairs in the state of Kansas, an order, of which a copy is hereto attached, marked 'A;' that with said order he received a copy of an order given by Charles E. Mix, who was then the acting commissioner of Indian affairs of the United States, which order is dated October 16, 1868, and a copy thereof is hereto attached, marked 'B;' that by the terms of said order this defendant, as such Indian agent, was required to prevent any Indians of said tribe visiting Washington D.C.; that on or about the sixteenth of said November this defendant caused the above-mentioned orders to be read to the plaintiff and other Indians of said tribe; that on or about the nineteenth of said No- [96*] vember this defendant *informed said Murphy that said plaintiff, with others, had left said reserve, and was then in the city of Lawrence, on his way to the city of Washington, D.C., in violation of said order above mentioned; that this defendant on said day went before said William P.</p>
 
 </div1>
     
