@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.011"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.017"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Copy of Affidavit</title> 
+<title>Wiley v. Keokuk. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.011</idno> 
+<idno type="project">oscys.case.0116.017</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Copy of Affidavit</title>
+<title level="m" type="main">Wiley v. Keokuk. Writ</title>
 <date when="1868-11-23">November 23, 1868</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,16 +87,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Dorwin, Thomas</term>
 <term>Keokuk, Moses</term>
-<term>Montgomery, William P.</term>
-<term>Murphy, Thomas</term>
+<term>Montgomery, W.P.</term>
+<term>Whitney, C.C.</term>
 <term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Franklin County</term>
-<term>Kansas</term>
-<term>United States of America</term>
+<term>Lawrence, Kansas</term>
+<term>United States Circuit Court</term>
 </keywords>
 
 </textClass>
@@ -147,22 +147,29 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.011"/> 
+<pb facs="hc.case.0116.017"/>
 
-<p>Copy of Affidavit mentioned in defendant answer marked "C" and make a part thereof.</p>
+<p>The defendant then read in evidence to the jury the Warrant for the arrest of the plaintiff which in the words and <unclear>pejures</unclear> as follows to Wit:</p>
 
-<p>United States of America
-District of Kansas S.S.</p>
-<p>The complainant Albert Wiley of Franklin County who bring duly sworn says that Keokuk a Sae &amp; Fox Indian late of the Sae</p>
-
+<p>The President of the United States of America.</p>
+<p>To the Marshall of the District of Kansas</p>
 
 
-<p>&amp; Fox Reserve in said District heretofore to wit: on the 23rd day of November AD 1868 at said Reserve in said District did leave said Sae &amp; Fox Reserve and did disobey the orders of the United States commission of Indian affairs and the orders of other agents of the United States to him given contrary to the laws of the United States in such case made and provided. Wherefore complainant prayed that the said Keokuk may be apprehended and dealt with according to law. Albert Wiley</p>
-<p>Taken subscribed and sworn to this 23d day of November AD 1868 before me. </p>
+
+<p>8</p>
+<p>Greeting:</p>
+<p>Whereas complaint upon the oath of Albert Wiley U.S. Indian agent has the: day been made before me chargins that Keokuk a Sue &amp; Fox Reserve in said District heretofore to Wit: on the 23d day of November AD 1868 at the county of <unclear></unclear> in said District did leave the said Reserve and did disobey the orders of the Commissioners of the United States of Indian affairs and did disobey the orders of certain agents of the United States to him given contrary to the laws of the United States in such case made and provided which complaint is hereon ordered.</p>
+<p>You are therefor hereby commanded that you take the vain Keokuk if he should be found in your district and him safely keep so that you may bring him for therewith before me a commission appointed by the United States Circuit Court for said District by virtue of the laws of the United States in such</p>
+
+
+
+<p>cases enacted at my office in the city of Lawrence in said District to be dealt with according to law you are also commanded in the name of the President of the United States to subpoena Albert Wiley to appear before me at my office aforesaid where you shall have the said witness to testify his knowledge on behalf of the United States touching the matter of said complaint and have you then and there this Warrant. Hereof fail not, Witness my hand and seal this 23d day of November AD 1868 </p>
 <p>W.P. Montgomery
-U.S. commission for the
-District of Kansas</p>
-
+U.S. Com for said District</p>
+<p>District of Kansas S.S.</p>
+<p>I hereby certify and return that on the 23d day of November AD 1868 by virtue of the above earned Keokuk and now have him in my custody and I did summon the above named Albert Wiley witness as commanded in said warrant.</p>
+<p>C.C. Whitney Marshall or <unclear>Troment</unclear></p>
+<p>Dorwin Deputy Mar.</p>
 
 </div1>
     

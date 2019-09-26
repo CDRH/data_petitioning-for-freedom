@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.011"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.022"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Copy of Affidavit</title> 
+<title>Wiley v. Keokuk. Case No. 501</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.011</idno> 
+<idno type="project">oscys.case.0116.022</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Copy of Affidavit</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Wiley v. Keokuk. Case No. 501</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,16 +87,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Fowler, E.B.</term>
 <term>Keokuk, Moses</term>
-<term>Montgomery, William P.</term>
-<term>Murphy, Thomas</term>
 <term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Franklin County</term>
-<term>Kansas</term>
-<term>United States of America</term>
+<term/>
 </keywords>
 
 </textClass>
@@ -147,22 +144,20 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.011"/> 
+<pb facs="hc.case.0116.022"/>
 
-<p>Copy of Affidavit mentioned in defendant answer marked "C" and make a part thereof.</p>
+<p>Albert Wiley
+vs
+Keokuk</p>
 
-<p>United States of America
-District of Kansas S.S.</p>
-<p>The complainant Albert Wiley of Franklin County who bring duly sworn says that Keokuk a Sae &amp; Fox Indian late of the Sae</p>
+<p>Petition in Error
+a Transcript.</p>
 
+<p>Filed Oct 21st 1869
+E.B. Fowler
+Clerk</p>
 
-
-<p>&amp; Fox Reserve in said District heretofore to wit: on the 23rd day of November AD 1868 at said Reserve in said District did leave said Sae &amp; Fox Reserve and did disobey the orders of the United States commission of Indian affairs and the orders of other agents of the United States to him given contrary to the laws of the United States in such case made and provided. Wherefore complainant prayed that the said Keokuk may be apprehended and dealt with according to law. Albert Wiley</p>
-<p>Taken subscribed and sworn to this 23d day of November AD 1868 before me. </p>
-<p>W.P. Montgomery
-U.S. commission for the
-District of Kansas</p>
-
+<p>NO. 501</p>
 
 </div1>
     

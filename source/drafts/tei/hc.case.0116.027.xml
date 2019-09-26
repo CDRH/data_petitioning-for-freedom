@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.027"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Wiley v. Keokuk. Kansas Reports</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0116.027</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Wiley v. Keokuk. Kansas Reports</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1870-01">January 1870</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Allen</term>
+<term>Ash</term>
+<term>Austin</term>
+<term>Carpenter</term>
+<term>Deyo</term>
+<term>Foote</term>
+<term>Hastings</term>
+<term>Hitchcock</term>
+<term>Horne</term>
+<term>Johnson</term>
+<term>Keokuk, Moses</term>
+<term>Kerry</term>
+<term>Malone</term>
+<term>Marlow</term>
+<term>Masten</term>
+<term>Mix, Charles E.</term>
+<term>Montgomery, William P.</term>
+<term>Murphy</term>
+<term>Nevison</term>
+<term>Riggs</term>
+<term>Sutton</term>
+<term>Taylor</term>
+<term>Thorley</term>
+<term>Wiley, Albert</term>
+<term>Whitney</term>
+<term>Wilson</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Kansas</term>
+<term>Ohio</term>
+<term>United States</term>
+<term>Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Wiley, Albert</persName>
+</person>
+<person role="defendant">
+<persName>Keokuk, Moses</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Christian, James</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Nevison</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Rigg</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fonte</persName>
+</person>
+<person role="judge">
+<persName>Kingman, C.F.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Douglas District Court</orgName> 
+<placeName>Douglas County, Kansas</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="sab">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0116.027"/>
+
+<p>62</p>
+<p>KANSAS REPORTS.</p>
+<p>of Com'r Mix does not justify the illegal act of Agent Wiley. He is answerable in damages to the plaintiff for any illegal act. This is clearly improper. All the averments of the petition were denied by the answer. Whether any or all of these allegations of the petition were true or false, were exclusively questions of fact for the jury, and it was the exclusive duty and province of the jury to determine the truth or falsity of each and all of said allegations. Broom, Leg. Max. 45; Johnson v. Sutton, 1 Term R. 544; Masten v. Deyo, 2 Wend. 424; Ash v. Marlow, 20 Ohio, 119. It is an error in the court to assume to find a disputed fact." Hastings v. Allen, 14 Ohio, 58; and Horne v. State, 1 Kan. 42, fully sustains this view.</p>
+<p>[*99] It was also error to give the seventh and eighth *instructions, to-wit: "(7) Whenever the elements of fraud, malice, gross negligence, or oppression mingle in the controversy, the law allows the jury to give what is called exemplary or vindictive damages. (8) In cases of torts, and actions for false imprisonment, the jury are the only proper judges of how much the plaintiff ought to recover." These charges were calculated to mislead the jury. There is no averment in the petition of malice, fraud, or gross negligence. If the facts alleged were true, the plaintiff would be entitled to the actual damages he had sustained, and no more; and every dollar that the jury should give him, after compensating him or such damages, would be legalized robbery. Austin v. Wilson, 4 Cush. 274; thorley v. Lord Kerry, 4 Taunt. 355; Whitney v. Hitchcock ,4 Denio, 461; Taylor v. Carpenter, 2 Wood. &amp; M. 1, 22; 14 Ind. 479; Hil. Torts, 444, 445. In Malone v. Murphy, 2 Kan. 250, which was for malicious prosecution, the petition charged that the act was done "maliciously" and "without probable cause." A person may be liable in damagess for malicious prosecution, and not liable to be criminally prosecuted. Malone v. Murphy does not in any manner bear on this case; for the case at bar the plaintiff in error is charged with an assault and battery, false imprisonment, etc., and charged with an assault and battery, false imprisonment, etc., and is liable to be criminally prosecuted for the same.</p>
+<p>[*100] The instructions asked by plaintiff in error (being *the converse of the instructions complained of) stated the correct rule and should have been given. The verdict is against the evidence and contrary to law, and should have been set aside. The verdict and judgment should have been in favor of the defendant below. The letter and instructions of Com'r Mix and orders of Supt. Murphy were full and complete authority to Wiley for all that he did in the premises. The plaintiff below was an Indian, and as such was subject to the power and right of the United States to make such regulations for his government as the president of the United States should deem proper, and for the interest of the tribe to which he belonged; or, in other words, Keokuk was then a ward of the government, and if the government should thin kit for the interest of Keokuk or his tribe to restrain him from going to Washington it had a clear right to do. See Laws of the Untied States and treaties made with the various tribes of Indians; 1 Brightly, Dig. p. 426, 1, 8 10, 17, 18, 25, 52, 62, 69, 102, 111.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

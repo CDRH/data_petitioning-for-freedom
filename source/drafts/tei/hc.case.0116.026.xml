@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.011"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.026"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Copy of Affidavit</title> 
+<title>Wiley v. Keokuk. Wiley v. Keokuk</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.011</idno> 
+<idno type="project">oscys.case.0116.026</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Copy of Affidavit</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Wiley v. Keokuk. Wiley v. Keokuk</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,20 +83,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1870-01">January 1870</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Foote</term>
 <term>Keokuk, Moses</term>
+<term>Mix, Charles E.</term>
 <term>Montgomery, William P.</term>
-<term>Murphy, Thomas</term>
+<term>Nevison</term>
+<term>Riggs</term>
 <term>Wiley, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Franklin County</term>
 <term>Kansas</term>
-<term>United States of America</term>
+<term>United States</term>
 </keywords>
 
 </textClass>
@@ -128,7 +130,7 @@
             
 <listOrg>
 <org>
-<orgName></orgName> 
+<orgName>Douglas District Court</orgName> 
 <placeName>Douglas County, Kansas</placeName> 
 </org>
 </listOrg>   
@@ -147,22 +149,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.011"/> 
+<pb facs="hc.case.0116.026"/>
 
-<p>Copy of Affidavit mentioned in defendant answer marked "C" and make a part thereof.</p>
-
-<p>United States of America
-District of Kansas S.S.</p>
-<p>The complainant Albert Wiley of Franklin County who bring duly sworn says that Keokuk a Sae &amp; Fox Indian late of the Sae</p>
-
-
-
-<p>&amp; Fox Reserve in said District heretofore to wit: on the 23rd day of November AD 1868 at said Reserve in said District did leave said Sae &amp; Fox Reserve and did disobey the orders of the United States commission of Indian affairs and the orders of other agents of the United States to him given contrary to the laws of the United States in such case made and provided. Wherefore complainant prayed that the said Keokuk may be apprehended and dealt with according to law. Albert Wiley</p>
-<p>Taken subscribed and sworn to this 23d day of November AD 1868 before me. </p>
-<p>W.P. Montgomery
-U.S. commission for the
-District of Kansas</p>
-
+<p>Wiley v. Keokuk.</p>
+<p>61</p>
+<p>Montgomery, who then was the United States commissioner for the district and state of kansas, and made an affidavit in writing, and copy of which is hereto attached marked 'C;' that on the same day he gave his testimony as a witness on the hearing of said complaint before said commissioner against the said plaintiff.</p>
+<p>"And defendant says that the above is a full statement of all that this defendant hd to do with said plaintiff, or the arrest, assault, or imprisonment of said plaintiff; that this defendant did not arrest, touch, or imprison and said plaintiff; that this defendant did not arrest, touch, or imprison said plaintiff, or in any manner interfere with him; and all he did in the premises was strictly in accordance with the instructions and orders he had received as above mentioned, and which this defendant, as an officer of the United States, was bound by law to obey."</p>
+<p>Exhibit B, Mix's "order," mentioned in said answer, omitting: date, names, etc., is as follows:</p>
+<p>"Sir: I have to advise you that as congress failed to make certain appropriations from which the expenses of delegaitons of Indians visiting this city have heretofore been paid, no delegation from any of the tribes in your superintendency will be allowed to visit this place during the present fiscal year unless specially directed to do so by this office, for the reason that there are no funds at the disposal of the department othat can be used to defray their necessary expenses.</p>
+<p>[*97] *"You will inform the different agents under you of the foregoing, and take such other steps to prevent any Indians coming here as may be necessary to accomplish the object."</p>
+<p>And Wiley's affidavit, (Exhibit C,) made for the arrest of Keokuk, is as follows:</p>
+<p>[VENUE.] "The complainant, Albert Wiley, of Franklin county, upon being duly sworn, says that Keokuk, a Sac and Fox Indian, late of the Sac and Fox reserve, in said district, heretofore, to-wit, on the twenty-second of November, 1868, at said reserve, in said district, did leave said Sac and Fox reserve, and did disobey the orders of the United States commissioner of Indian affairs, and the orders of other agents of the United States, to him given, contrary to the laws of the United States in such case made and provided. Wherefore," etc.</p>
+<p>Other facts are stated in the opinion. There was judgment for plaintiff for $1,000 damages.</p>
+<p>[*98] *Riggs, Nevison &amp; Foote, for plaintiff in error.</p>
+<p>The court erred in overruling the challenge to the juror Willis. Willis had served already on one jury at that term, as a talesman, and was incompetent when challenged for that cause. Section 270, Civil Code. Nor has the party waived the error. The doctrine of the case of Morton v. State, 1 Kan. 468, is not applicable. The law has been changed since that decision was given. It is now made the duty of parties to first complete their challenges for cuase, before resorting to peremptory challenges. Gen. St. p. 681, 271.</p>
+<p>It was error to give the sixth instruction, to-wit, that "the letter</p>
 
 </div1>
     

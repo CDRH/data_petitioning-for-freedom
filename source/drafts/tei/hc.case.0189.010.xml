@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.011"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Copy of Affidavit</title> 
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -40,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.011</idno> 
+<idno type="project">hc.case.0189.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Copy of Affidavit</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Charles Jackson v. Henry M. White. Stipulation</title>
+<date when="1918-11-15">November 15, 1918</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -75,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,60 +80,51 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1918-11">November 1918</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Keokuk, Moses</term>
-<term>Montgomery, William P.</term>
-<term>Murphy, Thomas</term>
-<term>Wiley, Albert</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Franklin County</term>
-<term>Kansas</term>
-<term>United States of America</term>
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Jackson, Charles</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Christian, James</persName>
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Nevison</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Rigg</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Fonte</persName>
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-01" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,22 +135,9 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.011"/> 
+<pb/>
 
-<p>Copy of Affidavit mentioned in defendant answer marked "C" and make a part thereof.</p>
-
-<p>United States of America
-District of Kansas S.S.</p>
-<p>The complainant Albert Wiley of Franklin County who bring duly sworn says that Keokuk a Sae &amp; Fox Indian late of the Sae</p>
-
-
-
-<p>&amp; Fox Reserve in said District heretofore to wit: on the 23rd day of November AD 1868 at said Reserve in said District did leave said Sae &amp; Fox Reserve and did disobey the orders of the United States commission of Indian affairs and the orders of other agents of the United States to him given contrary to the laws of the United States in such case made and provided. Wherefore complainant prayed that the said Keokuk may be apprehended and dealt with according to law. Albert Wiley</p>
-<p>Taken subscribed and sworn to this 23d day of November AD 1868 before me. </p>
-<p>W.P. Montgomery
-U.S. commission for the
-District of Kansas</p>
-
+<p></p>
 
 </div1>
     
