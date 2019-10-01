@@ -102,7 +102,6 @@
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Pierce, Ralph S.</persName>
-<<<<<<< HEAD
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -110,14 +109,6 @@
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
-=======
-</person>
-<person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
-</person>
-<person role="judge">
-<persName>Last, Jeremiah</persName><!-- insert name of judge, if known -->
->>>>>>> parent of 114e7a9... Revert "I encoded 10 documents from the Charles Jackson case"
 </person>
 </listPerson>
             

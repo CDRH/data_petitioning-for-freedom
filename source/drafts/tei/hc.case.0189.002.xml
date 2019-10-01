@@ -103,12 +103,13 @@
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Saunders, Robert C.</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, Jeremiah</persName><!-- insert name of judge, if known -->
+<persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
@@ -122,11 +123,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<<<<<<< HEAD
 <change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
-=======
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
->>>>>>> parent of 114e7a9... Revert "I encoded 10 documents from the Charles Jackson case"
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
