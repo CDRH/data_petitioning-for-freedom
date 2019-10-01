@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.001"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Appearance</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+
+<name n="Silva, Salma J." xml:id="djr">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -40,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.006</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title><!-- replace with name of case; type of document -->
+<date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1918-11">November 1918</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -99,26 +95,27 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Jackson, Charles</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Saunders, Robert C.</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> <!-- insert court name -->
+<placeName>Western District of Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
@@ -137,9 +134,13 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0189.001"/> <!-- insert number from spreadhseet -->
 
-<p></p>
+<p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
+<p>No. 4356 ORDER DENYING WRIT</p>
+<p>The above entitled matter having come regularly on for hearing on the 2d day of December, 1918, on the petition for a Writ of Habeas Corpus, the Writ of Habeas Corpus and respondent's return thereto, and the Court having heard arguments of counsel and being fully advised in the premises, it is hereby</p>
+<p>ORDERED, That the said Writ be and the same is hereby denied with costs to petitioner, and the petitioner remanded to the custody of the Commissioner of Immigration.</p>
+<p>Done in open court this 5 day of February, A. D. 1919.</p>
 
 <fw type="footer"> &amp;</fw>
 

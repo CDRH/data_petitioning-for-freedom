@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Order Denying Writ</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Stipulation</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.003</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.002</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Order</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Stipulation</title><!-- replace with name of case; type of document -->
 <date when="1919-01-24">January 24, 1919</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -83,7 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Henry M. White</term><!-- insert names of other people mentioned in document -->
+<term>Ralph S. Pierce</term><!-- insert names of other people mentioned in document -->
+<term>Geo. T. Vanderveer</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -101,8 +102,7 @@
 <persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Pierce, Ralph S.</persName>
-<<<<<<< HEAD
+<persName>Pierce, Ralph D.</persName>
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -110,14 +110,6 @@
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
-=======
-</person>
-<person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
-</person>
-<person role="judge">
-<persName>Last, Jeremiah</persName><!-- insert name of judge, if known -->
->>>>>>> parent of 114e7a9... Revert "I encoded 10 documents from the Charles Jackson case"
 </person>
 </listPerson>
             
@@ -131,7 +123,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -143,12 +135,13 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.003"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0189.002"/> <!-- insert number from spreadhseet -->
 
 <p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
-<p>No. 4356 ORDER</p>
-<p>The above named applicant and petitioner, by his attorneys, having stipulated herin with the respondent through his attourney, for the withdrawal of certain exhibits from the files herein, it is therefore, by the Court hereby considered and ordered, That the respondent Henry M. White, Commissioner of Immigration at Seattle, Washington, be, and he hereby is, permitted and authorized to withdraw from the files and records herin that certain exhibit attached to the return of said respondent herin, said exhibit being a transcript of record of the proceedings and testimony adduced in said proceedings before the Immigration officers of the United States with relation to the deportatiion of the above named petitioner, and the clerk of the court is hereby ordered and directed to deliever and surrender said exhibit to the said Henry M. White, or his attorney.</p>
-<p>Done in open court this 24 day of January, 1919.</p>
+<p>No. 4356 Stipulation</p>
+<p> It is stipulated and agreed by and between Ralph S. Pierce and Geo. T. Vanderveer, attorneys for the above named applicant, and United States Attorney Robert C. Saunders, attorney for respondent Henry M. White, that the exhibit attached to respondent's return herein, being the record of proceedings before the Immigration authorities, and the testimony adduced in said proceedings with relation to the deportation of said applicant, may be withdraw from the records and files of this court.</p>
+<p> Dated this 24 day of January, A. D. 1919.</p>
+
 
 <fw type="footer"> &amp;</fw>
 

@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Order Denying Writ</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Return on Service of Writ</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 
-<name n="Silva, Salma J." xml:id="djr">Salma J. Silva</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.003</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.006</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Order</title><!-- replace with name of case; type of document -->
-<date when="1919-01-24">January 24, 1919</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Return on Service of Writ</title><!-- replace with name of case; type of document -->
+<date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -79,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1919-01">January 1919</date></term><!-- insert date of court term -->
+<term><date when="1918-11">November 1918</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Henry M. White</term><!-- insert names of other people mentioned in document -->
+<term>J.H. Sargent</term>
+<term>John M. Boyle</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -102,7 +104,6 @@
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Pierce, Ralph S.</persName>
-<<<<<<< HEAD
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -110,14 +111,6 @@
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
-=======
-</person>
-<person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
-</person>
-<person role="judge">
-<persName>Last, Jeremiah</persName><!-- insert name of judge, if known -->
->>>>>>> parent of 114e7a9... Revert "I encoded 10 documents from the Charles Jackson case"
 </person>
 </listPerson>
             
@@ -131,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -143,12 +136,10 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.003"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0189.006"/> <!-- insert number from spreadhseet -->
 
-<p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
-<p>No. 4356 ORDER</p>
-<p>The above named applicant and petitioner, by his attorneys, having stipulated herin with the respondent through his attourney, for the withdrawal of certain exhibits from the files herein, it is therefore, by the Court hereby considered and ordered, That the respondent Henry M. White, Commissioner of Immigration at Seattle, Washington, be, and he hereby is, permitted and authorized to withdraw from the files and records herin that certain exhibit attached to the return of said respondent herin, said exhibit being a transcript of record of the proceedings and testimony adduced in said proceedings before the Immigration officers of the United States with relation to the deportatiion of the above named petitioner, and the clerk of the court is hereby ordered and directed to deliever and surrender said exhibit to the said Henry M. White, or his attorney.</p>
-<p>Done in open court this 24 day of January, 1919.</p>
+<p>I hereby certify and return that I served the anexed Order on the therein-named Henry M. White, Commissioner of Labor, by handing to and leaving a true and correct copy thereof with J. H. Sargent, Assistant Commissioner of Labor personally at Seatlle, Wash. in said District on the 14th day of November, A.D. 1918.</p>
+
 
 <fw type="footer"> &amp;</fw>
 
