@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.003"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Order Denying Writ</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Order</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-
-<name n="Silva, Salma J." xml:id="djr">Salma J. Silva</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -83,11 +81,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Henry M. White</term><!-- insert names of other people mentioned in document -->
+<term></term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -122,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -138,7 +136,7 @@
 
 <p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
 <p>No. 4356 ORDER</p>
-<p>The above named applicant and petitioner, by his attorneys, having stipulated herin with the respondent through his attourney, for the withdrawal of certain exhibits from the files herein, it is therefore, by the Court hereby considered and ordered, That the respondent Henry M. White, Commissioner of Immigration at Seattle, Washington, be, and he hereby is, permitted and authorized to withdraw from the files and records herin that certain exhibit attached to the return of said respondent herin, said exhibit being a transcript of record of the proceedings and testimony adduced in said proceedings before the Immigration officers of the United States with relation to the deportatiion of the above named petitioner, and the clerk of the court is hereby ordered and directed to deliever and surrender said exhibit to the said Henry M. White, or his attorney.</p>
+<p>The above named applicant and petitioner, by his attorneys, having stipulated herein with the respondent through his attourney, for the withdrawal of certain exhibits from the files herein, it is therefore, by the Court hereby considered and ordered, That the respondent Henry M. White, Commissioner of Immigration at Seattle, Washington, be, and he hereby is, permitted and authorized to withdraw from the files and records herin that certain exhibit attached to the return of said respondent herein, said exhibit being a transcript of record of the proceedings and testimony adduced in said proceedings before the Immigration officers of the United States with relation to the deportatiion of the above named petitioner, and the clerk of the court is hereby ordered and directed to deliever and surrender said exhibit to the said Henry M. White, or his attorney.</p>
 <p>Done in open court this 24 day of January, 1919.</p>
 
 <fw type="footer"> &amp;</fw>
