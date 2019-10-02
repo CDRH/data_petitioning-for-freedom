@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.016"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0117.007"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Letter from the Commissioner</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Defendants' Answer to Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.016</idno> 
+<idno type="project">oscys.case.0117.007</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Letter from the Commissioner</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Defendants' Answer to Petition</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,17 +83,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1899-12">December 1899</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Keokuk, Moses</term>
-<term>Montgomery, W.P.</term>
-<term>Wiley, Albert</term>
+<term>Lelah-Puc-ka-Chee</term>
+<term>Malin, W.G.</term>
+<term>Nellis, G.N.</term>
+<term>Ta-Ta-Pi-Cha</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Kansas</term>
+<term>Kansas City</term>
+<term>Tama County, Iowa</term>
+<term>Tama Reserve, Iowa</term>
 </keywords>
 
 </textClass>
@@ -101,39 +104,39 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Lelah-Puc-Ka-Chee</persName>
+</person>
+<person role="petitioner">
+<persName>Ta-Ta-Pi-Cha</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Malin, W.G.</persName>
+</person>
+<person role="defendant">
+<persName>Nellis, G.N.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Christian, James</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Nerisor</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Fonte</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Rigg</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Shiras, O.P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName>United States Circuit Court in Northern District Iowa</orgName> 
+<placeName>Toledo, Iowa</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2019" who="sab">transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,21 +147,23 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.016"/>
+<pb facs="hc.case.0117.007"/> 
 
-<p>The United States
-v
-Keokuk, Man to Wa
-Wa Co Mo.
-KaKa nape gnah }</p>
-<p>Whereas the defendant Keokuk, Man to Wa; Wa, Co, Mo; <unclear>Ka Ka nape gnah</unclear>; have been arrested on a warrant by me issued on the compenin of Albert Wiley United States Indian agent fortune Sue &amp; Fox Indian tribe and siad defendants having been <unclear></unclear> before me nd examination had and said defendant sold to appear before the United States District Court for the District of <unclear></unclear> to be held at Topeka in said District at the <unclear></unclear> day of the next term of said court to answer to a charge of</p>
+<p>Copied at the National Archives at Kansas City</p>
 
+<p>IN THE UNITED STATES DISTRICT COURT IN AND FOR NORTHERN DISTRICT OF IOWA.</p>
+<p>--:--</p>
+<p>Ta-Ta-Pi-Cha &amp; Lelah-Puc-Ka-Chee, Plaintiffs.
+vs.
+W.G. Malin &amp; G.N. Nellis, Defendants. } Answer.</p>
+<p>Ex. A.
+A.M.A.</p>
 
-
-<p><unclear></unclear> the mass and authority of the United States. Each of said defendants are required to give bail in the sum of one thousand <unclear></unclear>. You are hereby ordered to take and safety keep said defendants and if desired by them to accompany them to their reserve and afford them all needful means and opportunity to obtain bail; which said when obtained is to be subjected to my approval or rejection. Given under my hand this 23d day of November AD 1868</p>
-<p>W.P. Montgomery 
-U.S. Commission
-for the District of Kansas</p>
+<p>Comes now the defendants herein. G.W. Malin and G.N. Nellis, and answering plaintiffs' petition for writ of habeas corpus state to the court:</p>
+<p>1st. Denies each and every allegation contained in plaintiffs: petition unless hereinafter specifically admitted.</p>
+<p>2d. Admits that W.G. Malin is the duly appointed nad acting agent of the Sac and Fox Indians located on the Tama Reservation in Tama County, Iowa, and that said G.N. Nellis is the superintendent of and in charge of the Inian school on said Reservation.</p>
+<p>3d. Defendant Malin was appointed guardian of the plaintiff Lelah-Puc-Ka-Chee by the District Court of Tama County, Iowa, but defendants deny that said appointment was secured through any faud or misrepresentation to the court, or otherwise. Defendants aver that the plaintiff Lelah-Puc-Ka-Chee is but sixteen years of age and at the time said W.G. Malin was appointed guardian, as aforesaid, the parents of said Lelah-Puc-Ka-Chee were wholly incompetent to care and provide for said plaintiff and that said W.G. Malin was appointed her guardian for the sole and only purpose of giving her proper care and education.</p>
+<p>4th. Defendants further aver that under the laws of Congress and in accordance with provisions of the Rules &amp; Regulations of the Commissioner of Indian Affairs, it is the duty of the agent of said Reservation and said superintendent of the Indian school to</p>
 
 </div1>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.016"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0117.008"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Letter from the Commissioner</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Defendants' Answer to Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.016</idno> 
+<idno type="project">oscys.case.0117.008</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Letter from the Commissioner</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Defendants' Answer to Petition</title>
+<date when="1899-12-08">December 8, 1899</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,17 +83,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1899-12">December 1899</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Keokuk, Moses</term>
-<term>Montgomery, W.P.</term>
-<term>Wiley, Albert</term>
+<term>Lelah-Puc-ka-Chee</term>
+<term>Malin, W.G.</term>
+<term>Nellis, G.N.</term>
+<term>Ta-Ta-Pi-Cha</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Kansas</term>
+<term>Dubuque County</term>
+<term>Kansas City</term>
 </keywords>
 
 </textClass>
@@ -101,39 +103,39 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Lelah-Puc-Ka-Chee</persName>
+</person>
+<person role="petitioner">
+<persName>Ta-Ta-Pi-Cha</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Malin, W.G.</persName>
+</person>
+<person role="defendant">
+<persName>Nellis, G.N.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Christian, James</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Nerisor</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Fonte</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Rigg</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Shiras, O.P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName>United States Circuit Court in Northern District Iowa</orgName> 
+<placeName>Toledo, Iowa</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2019" who="sab">transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,21 +146,23 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.016"/>
+<pb facs="hc.case.0117.008"/> 
 
-<p>The United States
-v
-Keokuk, Man to Wa
-Wa Co Mo.
-KaKa nape gnah }</p>
-<p>Whereas the defendant Keokuk, Man to Wa; Wa, Co, Mo; <unclear>Ka Ka nape gnah</unclear>; have been arrested on a warrant by me issued on the compenin of Albert Wiley United States Indian agent fortune Sue &amp; Fox Indian tribe and siad defendants having been <unclear></unclear> before me nd examination had and said defendant sold to appear before the United States District Court for the District of <unclear></unclear> to be held at Topeka in said District at the <unclear></unclear> day of the next term of said court to answer to a charge of</p>
+<p>Copied at the National Archives at Kansas City</p>
 
+<p><del>Ta-Ta-Pi-Cha</del> as these defendants believe, for no other purpose than as a pretense upon which to base this cause of action, their real purpose and design being to prevent her attendance at the school. These defendants aver the fact to be that there has been no legal marriage of Lelah-Puc-Ka-Chee and if they are permitted to prevail in this action that other suits of like character will be instituted based upon claimed and pretended marriages of the Indian girls which will result disastrously to the Indian school and thwart the purposes of the Indian Department in the establishment of said school.</p>
+<p>WHEREFORE, defendants pray that the petition of plaintiffs may be dismissed and that defendants may have and retain possession of the said plaintiff Lelah-Puc-Ka-Chee now in the Indian school on said Reservation.</p>
 
+<p>HG Willan
+U.S. Attorney.</p>
 
-<p><unclear></unclear> the mass and authority of the United States. Each of said defendants are required to give bail in the sum of one thousand <unclear></unclear>. You are hereby ordered to take and safety keep said defendants and if desired by them to accompany them to their reserve and afford them all needful means and opportunity to obtain bail; which said when obtained is to be subjected to my approval or rejection. Given under my hand this 23d day of November AD 1868</p>
-<p>W.P. Montgomery 
-U.S. Commission
-for the District of Kansas</p>
+<p>STZTE OF IOWA,) ss.
+DUBUQUE COUNY.)</p>
+<p>I,W.G. Malin, first being duly sworn, on oath state that I am one of hte defendants in the above cause and that I have read the foregoin answer therein and that the facts and statements therein contained are true, as I verily believe.</p>
+
+<p>Wm ls Malin</p>
+<p>SUBSCRIBED and sworn to before me by the said W.G. Malin this 8th day of December, A.D. 1899.</p>
+<p>AJ <unclear></unclear></p>
 
 </div1>
     

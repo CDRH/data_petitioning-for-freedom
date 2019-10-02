@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0116.016"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0117.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Letter from the Commissioner</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Second Count</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0116.016</idno> 
+<idno type="project">oscys.case.0117.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Letter from the Commissioner</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Second Count</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,17 +83,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1899-12">December 1899</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Keokuk, Moses</term>
-<term>Montgomery, W.P.</term>
-<term>Wiley, Albert</term>
+<term>Lelah-Puc-ka-Chee</term>
+<term>Na-Wau-Kee-Kee</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Kansas</term>
+<term>Toledo, Iowa</term> 
 </keywords>
 
 </textClass>
@@ -101,39 +100,39 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Lelah-Puc-ka-Chee</persName>
+</person>
+<person role="petitioner">
+<persName>Ta-Ta-Pi-Cha</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Malin, W.G.</persName>
+</person>
+<person role="defendant">
+<persName>Nellis, G.N.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Christian, James</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Nerisor</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Fonte</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Rigg</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Shiras, O.P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName>United States Circuit Court in Northern District Iowa</orgName> 
+<placeName>Toledo, Iowa</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2019" who="sab">transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,21 +143,12 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0116.016"/>
+<pb facs="hc.case.0117.002"/> 
 
-<p>The United States
-v
-Keokuk, Man to Wa
-Wa Co Mo.
-KaKa nape gnah }</p>
-<p>Whereas the defendant Keokuk, Man to Wa; Wa, Co, Mo; <unclear>Ka Ka nape gnah</unclear>; have been arrested on a warrant by me issued on the compenin of Albert Wiley United States Indian agent fortune Sue &amp; Fox Indian tribe and siad defendants having been <unclear></unclear> before me nd examination had and said defendant sold to appear before the United States District Court for the District of <unclear></unclear> to be held at Topeka in said District at the <unclear></unclear> day of the next term of said court to answer to a charge of</p>
+<p>Copied at the National Archives at Kansas City</p>
 
-
-
-<p><unclear></unclear> the mass and authority of the United States. Each of said defendants are required to give bail in the sum of one thousand <unclear></unclear>. You are hereby ordered to take and safety keep said defendants and if desired by them to accompany them to their reserve and afford them all needful means and opportunity to obtain bail; which said when obtained is to be subjected to my approval or rejection. Given under my hand this 23d day of November AD 1868</p>
-<p>W.P. Montgomery 
-U.S. Commission
-for the District of Kansas</p>
+<p>SECOND--COUNT,</p>
+<p>Your petitioners for additional affirmative defense and reply to said answer and return of said defendants filed herein further respectfully allege; That the petitioner, Lelah-Puc-ka-Chee, has no father living;That from about the first of January, A,D, 1898to and until her marriage as heretofore alleged, She lived with and remained under the care, protection and control of her mother Na-WAu-Kee-Kee, and with and as a part of said Indian Tribe on said reservation, That her said mother, Na-Wau-Kee-Kee is still living, That twice prior to her said marriage she had been taken by force and violence from her said mother, Tribe and reservation and against the will and consent of her said mother and self, and forcibly placed and enrolled in said United States Indian School at Toledo Iowa by the defendants herein; That the said defendants,each, well knew, before said petitioner was ever forcibly taken and enrolled in said School; That the said mother, Na-Wau-Kee-Kee resisted and refused her consent,; That the defendants,each further well knew that,before they ever enrolled the said petitioner, as a pupil in said School; That they had not complied with the United States laws and statutes and the acts of Congress, by first procuring the consent of said mother and parent of said petitioner and first filing the same with Indian Commissioner as by law and the acts of congress in such cases made provided before attempting to place an enroll said petitioner in said School. Your petitioners further expressly aver that defendants wilfully and purposely used force and violence to unlawfully and purposely, defeat and disregard the frequently and verbally expressed objections and active opposition of said parent and mother and Tribe, from the beginning in forcibly taking and enrolling you petitioner as pupil in said United States Indian School at Toledo Iowa contrary to law in such cases made and provided.</p>
 
 </div1>
     
