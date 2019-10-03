@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0117.010"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0117.012"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Petitioners vs. Defendants</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Supplement to Petitioner's Brief and Argument</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0117.010</idno> 
+<idno type="project">oscys.case.0117.012</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Petitioners vs. Defendants</title>
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Supplement to Petitioner's Brief and Argument</title>
 <date when="1899-12-08">December 8, 1899</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,16 +87,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>A.J.</term>
-<term>Lelah-Puc-ka-Chee</term>
-<term>Malin, W.G.</term>
-<term>Nellis, G.N.</term>
-<term>Ta-Ta-Pi-Cha</term>
+<term>James, George W.</term>
+<term>Jones</term>
+<term>Lanula, Jacob W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Dubuque County, Iowa</term>
 <term>Kansas City</term>
+<term>Toledo, Iowa</term>
 </keywords>
 
 </textClass>
@@ -116,7 +114,7 @@
 <persName>Nellis, G.N.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lanula, Jacob W.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -147,20 +145,16 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0117.010"/> 
+<pb facs="hc.case.0117.012"/> 
 
-<p>Ta-Ta-Pi-Cha
-and 
-Lelah-Puc-Ka-Chee
-Ptfs
-vs
-G.W. Malin
-&amp;
-G.N. Nellis
-Answer</p>
+<p>Copied at the National Archives at Kansas City</p>
 
-<p>Filed Decer 8. 1899
-A J <unclear>Nansuzu</unclear> Clerk</p>
+<p>these dirty, uncivilized, uneducated, skunk-eating, dog-eating, cat-eating, rat-eating, and snake-eating Tribal-Indians have no, social, political, domestic, or religious rights and usages and laws of their own That either under the Federal Constitution or the laws of the United States must or should be respected.</p>
+<p>I further submit, to your consideration, that Commissioner Jones to U,S, Agents &amp;&amp; Dated Sept,- 9th 1897 on page 7 of his 1898 report is both unreliable and misleading to agents and superintendents of these Government Boarding schools, because Jones must be wrong when he says they can compel attendants at such schools on such Indians Reservation located, without the voluntary consent of such children,s parents Providing the law and policy of the United States Government, as laid down in the case of the United States VS IMODA 4 Mont,-38 is to be followed and respected. Because in the above case the Federal Court refused to enforce the return and attendance to the Government-School located on the Black-Feet Agency and reservation to which Tribe and reservation the children in controversy belonged. I further respectfully submit that petition before you in this case not only shows the law of the above case has been violated and disregarded by the defendants herein but also the policy of the Federal Government. and I am of the opinion that the policy laid down in this Imoda case is the correct one and intended by our Federal Government to be carefully and faithful followed by these defendants. I believe the only legal and correct way to xxxxxxxxxxxxxxxxxx put this policy of our Federal Government by Government Indian Agents and Government Boarding School Superintendents, is clearly and correctly pointed out by George W, James on page 175 of Commissioner Jones Report of 1898.</p>
+<p>Let the defendants in this case be ordered and compelled to adopt the course Mr James suggests (Which in my judgment is the only tre policy of our Federal Government towards these Tribal Indians intended to be persued) and then the Indian Boarding School at Toledo will be a crowning success but xxxxxxxxxxxxxxxxxxxxxx if they should be permitted to go on in the future as in the past then surely this School as wel as the official career of these defendants, as servants of the Federal Government will surely be a signal and sad failure.</p>
+
+<p>Jacob W. Lanule
+atty for Petitioners</p>
 
 </div1>
     
