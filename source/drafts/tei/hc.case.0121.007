@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.007"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0121.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0121.007</idno> <!-- replace with number from spreadsheet -->
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -133,27 +133,51 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0121.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0121.007"/> <!-- insert number from spreadhseet -->
                 
                 
-<p>The Territory of Washington
-vs
-Jacbo Schuman</p>
-                
-<p>Indictment for violating the local
-option Law</p>
-                
-<p>Not a true Bill
-Lewis Heece
-Foreman of the Grand Jury</p>
-                
-<p>1433</p>
-                
-<p>Grand Jury in their
-presence and filed
-September 21 1886 by
-JW Jessel
-Clerk</p>
+<p>In the District Court of the Territory of
+Washington and for the First Judicial
+District thereof holding terms at Dayton,
+for the county of Columbia
+in said Territory</p>
+
+<p>In the matter of the application of
+Jacob Schuman for a writ
+of Habeas Corpus</p>
+
+<p>In the name of the United States of
+American Greetin:</p>
+
+<p>To J.H. Josler Sheriff of Columbia
+County Washington Territory,
+you are hereby commanded
+to have the body of Jacob Schuman
+by you impriosned and detained,
+as it is said, together with the
+time and cause of such detention
+and imprisonment before the
+Hon Tom G. Langford Judge of
+the above court and associate
+Justice of the Supreme Court of
+said Territory at Drakes Hall
+<del>in the County Court House</del> at
+at Dayton; County and Territory
+aforesaid at the hour of 10
+o'clock A.M. of the 31st day
+of August 1886 there to do
+and receive what shall be
+ordered concerning said Jacob
+Schuman and have then and
+there this writ.</p>
+
+<p>Dated this 25th day of August 1886</p>
+
+<p>Tom G. Langford
+Judge of the above named
+District Court and associate
+Justice of the Supreme
+Court of Washington Territory</p>
                 
 <fw type="footer"> &amp;</fw>
                 
@@ -164,3 +188,4 @@ Clerk</p>
 </body>
 </text>
 </TEI>
+
