@@ -3,255 +3,255 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.003"> <!-- replace with number from spreadsheet -->
     
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
-                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
-                <respStmt>
-                    <resp>transcription and encoding</resp>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
                     
-                    <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-                    <name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
                     
-                </respStmt>
-                <sponsor>University of Nebraska-Lincoln</sponsor>
-            </titleStmt>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
             
-            <editionStmt>
-                <edition>
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
             
-            <publicationStmt>
-                <authority>Produce the Body</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Center for Digital Research in the Humanities</name>
-                    <address>
-                        <addrLine>319 Love Library</addrLine>
-                        <addrLine>University of Nebraska–Lincoln</addrLine>
-                        <addrLine>Lincoln, NE 68588-4100</addrLine>
-                        <addrLine>cdrh@unl.edu</addrLine>
-                    </address>
-                </distributor>
-                <idno type="project">hc.case.0121.003</idno> <!-- replace with number from spreadsheet -->
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0121.003</idno> <!-- replace with number from spreadsheet -->
                 
-                <availability>
-                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
-                </availability>
-            </publicationStmt>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
             
-            <sourceDesc>
-                <bibl>
-                    <title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-                    <date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
-                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository><!-- insert name of repository -->
-                        <collection></collection><!-- insert name of collection -->
-                        <idno></idno><!-- insert name of repository's identifier -->
-                    </msIdentifier>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
+<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
         
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term>Case Papers</term>
-                </keywords>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
                 
-                <keywords scheme="original" n="subcategory">
-                    <term></term>
-                </keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
                 
-                <keywords scheme="original" n="type">
-                    <term></term><!-- Civil or Criminal -->
-                </keywords>
+<keywords scheme="original" n="type">
+<term></term><!-- Civil or Criminal -->
+</keywords>
                 
-                <keywords scheme="original" n="subtype">
-                    <term></term>
-                </keywords>
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
                 
-                <keywords scheme="original" n="term">
-                    <term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
-                </keywords>
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+</keywords>
                 
-                <keywords scheme="lcsh" n="people">
-                    <term></term><!-- insert names of other people mentioned in document -->
-                </keywords>
+<keywords scheme="lcsh" n="people">
+<term></term><!-- insert names of other people mentioned in document -->
+</keywords>
                 
-                <keywords scheme="lcsh" n="places"> 
-                    <term></term> <!-- insert places mentioned -->
-                </keywords>
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
                 
-            </textClass>
+</textClass>
             
-            <particDesc>   
-                <listPerson>           
-                    <person role="petitioner">
-                        <persName>Last, First</persName><!-- insert name of petitioner, if a person -->
-                    </person>
-                    <person role="defendant">
-                        <persName>Last, First</persName><!-- insert name of defendant, if a person -->
-                    </person>
-                    <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-                        <persName>Last, First</persName>
-                    </person>
-                    <person role="attorney_defendant">
-                        <persName>Last, First</persName><!-- insert name of attorney, if known -->
-                    </person>
-                    <person role="judge">
-                        <persName>Last, First</persName><!-- insert name of judge, if known -->
-                    </person>
-                </listPerson>
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Last, First</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Last, First</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
                 
-                <listOrg>
-                    <org>
-                        <orgName></orgName> <!-- insert court name -->
-                        <placeName></placeName> <!-- insert court location -->
-                    </org>
-                </listOrg>   
-            </particDesc> 
-        </profileDesc>
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
         
-        <revisionDesc>         
-            <change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-            <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
-        </revisionDesc>
+<revisionDesc>         
+<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+</revisionDesc>
         
-    </teiHeader>
+</teiHeader>
     
-    <text>
+<text>
         
-        <body>  
+<body>  
             
-            <div1 type="case">
+<div1 type="case">
                 
-                <pb facs="hc.case.0121.003"/> <!-- insert number from spreadhseet -->
-                
-                
-                <p>#1433</p>
-                
-                <p>Jacob Schuman
-                    <unclear></unclear> <unclear></unclear> Aim. Ex</p>
-                
-                <p>On this 27th day of July
-                    A.D. 1886 A.L. McCauley complained
-                    under oath, that on the 27th day of
-                    July A.D. 1886, in the Precinct of Dayton
-                    in the County of Columbia Washington Territory,
-                    Jacob Schuman did unlawfully and
-                    in violation of the "local <unclear></unclear> law"
-                    tell to him, the said A.L. McCauley, one
-                    <abbr>pt</abbr> of Layer <unclear>beer</unclear>. Warrant issued
-                    and given to Sheriff JH Hosler at once,
-                    this warrant was <unclear></unclear> on the
-                    same day and the defendant Jacob
-                    Schuman brought into Court, present
-                    R.F Sturdevant Prosecuting Atty and
-                    Sheriff Hosler with prisoner,
-                    when the examination was adjourned to the
-                    29th day of August 1886 at 10 o'clock
-                    A.M. and the defendant Jacob
-                    Schuman ordered to enter with
-                    recognizance in the sum of five
-                    hundred dollars with good and suf-
-                    ficient <unclear></unclear> for his appearance
-                    and subjection to all the orders
-                    of the court. The defendant
-                    filed his Recognizance with L. E. <unclear>Hauis?</unclear>
-                    as his <unclear></unclear>, which was approved
-                    and the defendant Jacob Schuman was
-                    discharged from arrest. Precipe for
-                    witnesses on the part of the <unclear></unclear> filed
-                    by R.F. Sturdevant Pros. Atty. and
-                    subpoenas issued for A.L. McCauley
-                    and Lw. V. Crussler July 28th subpoenas
-                    returned endorsed with service.</p>
-                
-                <p>July 29th at 10 o'clock A.M. by
-                    request of B.L. Sharpstein of counsel
-                    for the Defendant this examination was
-                    continued at 2 o'clock P.M.. At
-                    2 o'clock P.M. July 29th/86 by mutual
-                    consent this examination was ad-
-                    journed to the 29 day of August 1886
-                    at 10 o'clock A.M..</p>
-                
-                <p>August 29
-                    /86 now comes the attorneys in
-                    this case and by mutual agreement
-                    the further examination of this charge was
-                    adjourned to the 9th day of August 1886
-                    at 10 o'clock A.M.. At 11 o'clock on
-                    the same day the defendant Jacob
-                    Schuman was surrendered to the Sheriff
-                    J.H. Hosler, by his surety L.E. <unclear>Hauis?</unclear>
-                    and by the said Sheriff to the Court.
-                    Wherefrom commitment to Jail was
-                    made and given to the said Sheriff.</p>
-                
-                <p>August 7th 1886 Sheriff J.H. Hosler
-                    brought the Deff Jacob Schuman into
-                    court and the said defendant filed
-                    his recognizance in the sum of five
-                    hundred dollars with Jacob <unclear>Weinlard?</unclear> as
-                    his surety which was approved and a
-                    certificate of discharge from the commitment,
-                    was made to the Sheriff J.H. Hosler.</p>
-                
-                <p>August 9th at 10 o'clock A.M. on
-                    acct of the <unclear></unclear> of the Pros. Atty.
-                    R.F. Sturdevant this examination was
-                    adjourned to the 16th day of August
-                    1886 at 10 o'clock A.M. with the
-                    full consent of the defense.</p>
-                
-                <p>Aug 16th at 10 o'clock A.M. now
-                    comes on this examination present Pros.
-                    Atty. R.F. Sturdevant, Sheriff J.H. Hosler
-                    Defendant Schuman and the witnesses
-                    A.L. McCauley and Lw. V. Crussler who
-                    was <unclear></unclear> and examined on the
-                    part of the Territory, No defense made
-                    and the court having considered all
-                    and singular the premises of the case
-                    and the law and the <unclear>residence?</unclear>,
-                    ordered that the defendant Jacob Schuman
-                    be held to answer before the next
-                    grand jury for the Dis Court for
-                    Columbia County holding terms at
-                    Dayton, in the sum of five hundred
-                    dollars with good and sufficient surety
-                    and in default thereof stand committed.
-                    Default being made commitment was
-                    made out and given to the Sheriff.
-                    The witnesses for the Territory were
-                    ordered to enter into personal re-
-                    cognizance in the sum of one hundred
-                    dollars each for their appearance at
-                    the said next term of the District Court,
-                    and A.L. McCauley and Lw. V. Crussler
-                    <unclear></unclear> and filed their recognizances
-                    as required which was filed and
-                    approved.</p>
-                
-                <p>J.C. Dorr
-                    Justice of the Peace</p>
-                
-                <fw type="footer"> &amp;</fw>
+<pb facs="hc.case.0121.003"/> <!-- insert number from spreadhseet -->
                 
                 
+<p>#1433</p>
                 
-            </div1>
+<p>Jacob Schuman
+<unclear></unclear> <unclear></unclear> Aim. Ex</p>
+                
+<p>On this 27th day of July
+A.D. 1886 A.L. McCauley complained
+under oath, that on the 27th day of
+July A.D. 1886, in the Precinct of Dayton
+in the County of Columbia Washington Territory,
+Jacob Schuman did unlawfully and
+in violation of the "local option law"
+tell to him, the said A.L. McCauley, one
+<abbr>pt</abbr> of Lager beer. Warrant issued
+and given to Sheriff JH Hosler at once,
+this warrant was <unclear></unclear> on the
+same day and the defendant Jacob
+Schuman brought into Court, present
+R.F Sturdevant Prosecuting Atty and
+Sheriff Hosler with prisoner,
+when the examination was adjourned to the
+29th day of August 1886 at 10 o'clock
+A.M. and the defendant Jacob
+Schuman ordered to enter with
+recognizance in the sum of five
+hundred dollars with good and suf-
+ficient <unclear></unclear> for his appearance
+and subjection to all the orders
+of the court. The defendant
+filed his Recognizance with L. E. <unclear>Hauis?</unclear>
+as his <unclear></unclear>, which was approved
+and the defendant Jacob Schuman was
+discharged from arrest. Precipe for
+witnesses on the part of the <unclear></unclear> filed
+by R.F. Sturdevant Pros. Atty. and
+subpoenas issued for A.L. McCauley
+and Lw. V. Crussler July 28th subpoenas
+returned endorsed with service.</p>
+                
+<p>July 29th at 10 o'clock A.M. by
+request of B.L. Sharpstein of counsel
+for the Defendant this examination was
+continued at 2 o'clock P.M.. At
+2 o'clock P.M. July 29th/86 by mutual
+consent this examination was ad-
+journed to the 29 day of August 1886
+at 10 o'clock A.M..</p>
+                
+<p>August 29
+/86 now comes the attorneys in
+this case and by mutual agreement
+the further examination of this charge was
+adjourned to the 9th day of August 1886
+at 10 o'clock A.M.. At 11 o'clock on
+the same day the defendant Jacob
+Schuman was surrendered to the Sheriff
+J.H. Hosler, by his surety L.E. <unclear>Hauis?</unclear>
+and by the said Sheriff to the Court.
+Wherefrom commitment to Jail was
+made and given to the said Sheriff.</p>
+                
+<p>August 7th 1886 Sheriff J.H. Hosler
+brought the Deff Jacob Schuman into
+court and the said defendant filed
+his recognizance in the sum of five
+hundred dollars with Jacob <unclear>Weinlard?</unclear> as
+his surety which was approved and a
+certificate of discharge from the commitment,
+was made to the Sheriff J.H. Hosler.</p>
+                
+<p>August 9th at 10 o'clock A.M. on
+acct of the <unclear></unclear> of the Pros. Atty.
+R.F. Sturdevant this examination was
+adjourned to the 16th day of August
+1886 at 10 o'clock A.M. with the
+full consent of the defense.</p>
+                
+<p>Aug 16th at 10 o'clock A.M. now
+comes on this examination present Pros.
+Atty. R.F. Sturdevant, Sheriff J.H. Hosler
+Defendant Schuman and the witnesses
+A.L. McCauley and Lw. V. Crussler who
+was <unclear></unclear> and examined on the
+part of the Territory, No defense made
+and the court having considered all
+and singular the premises of the case
+and the law and the <unclear>residence?</unclear>,
+ordered that the defendant Jacob Schuman
+be held to answer before the next
+grand jury for the Dis Court for
+Columbia County holding terms at
+Dayton, in the sum of five hundred
+dollars with good and sufficient surety
+and in default thereof stand committed.
+Default being made commitment was
+made out and given to the Sheriff.
+The witnesses for the Territory were
+ordered to enter into personal re-
+cognizance in the sum of one hundred
+dollars each for their appearance at
+the said next term of the District Court,
+and A.L. McCauley and Lw. V. Crussler
+<unclear></unclear> and filed their recognizances
+as required which was filed and
+approved.</p>
+                
+<p>J.C. Dorr
+Justice of the Peace</p>
+                
+<fw type="footer"> &amp;</fw>
+                
+                
+                
+</div1>
             
-        </body>
-    </text>
+</body>
+</text>
 </TEI>
 
