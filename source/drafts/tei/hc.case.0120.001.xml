@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Defendant's Answer to Petition</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">L.T. Savacool v. Territory of Washington. Defendant's Answer to Petition</title><!-- replace with name of case; type of document -->
+<date when="1000-01-01">February 28, 1886</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1000-01">February 1886</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Cauenagh, M.A.</term>
+<term>Hosler, J.H.</term>
+<term>Jessel, J.W.</term>
+<term>Piper, Florence</term>
+<term>Rice, Dan</term>
+<term>Savacool, L.T.</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -95,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Last, First</persName>
@@ -113,15 +118,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
+<placeName>Dayton, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -155,16 +160,13 @@ Total, $140</p>
 County of Columbia. } SS</p>
 
 <p>I, J H Hosler Sheriff of Columbia County, Washington Territory,
-do hereby certify that I served the witihin Subpoena on the within named
-
-
+do hereby certify that I served the witihin Subpoena on the within named.
 Dan Rice and Florence Piper in Columbia county WP. on Feb 28 1886</p>
-
 
 <p>J H Hosler
 Sheriff of Columbia County, W.T.</p>
 
-<p>By M A <unclear>Cauenagh?</unclear> Deputy</p>
+<p>By M A Cauenagh Deputy</p>
 
 <fw type="footer"> &amp;</fw>
 

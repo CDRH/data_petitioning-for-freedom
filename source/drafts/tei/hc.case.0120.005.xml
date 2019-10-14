@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Plaintiff's Petition</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">L.T. Savacool. Plaintiff's Petition</title><!-- replace with name of case; type of document -->
+<date when="1000-01-01">February 18, 1886</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1000-01">February 1886</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Baker, Gio</term>
+<term>Hosler, J.H.</term>
+<term>Newland, William</term>
+<term>Savacool, L.T.</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -95,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName>Last, First</persName>
@@ -107,21 +110,21 @@
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Langford, William</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
+<placeName>Dayton, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -138,49 +141,51 @@
 <p>#1384</p>
 
 <p>In District Court of Columbia County Washington
-territory, holding terms at Dayton.
-Before Hon. William G. Larry -
-for a 2nd yr of <unclear></unclear><unclear></unclear>Court</p>
+territory, holding terms at Dayton.</p>
 
-<p>In the matter of this
-<unclear></unclear> <unclear></unclear>
+<p>Before Hon. William G. Lang-
+ford Judge of above named Court</p>
+
+<p>In the matter of the
+application of
 L. T. Savacool for
 Writ of Habeas Corpus</p>
 
-<p>by the Hon William G. Larry -
-for a 2nd yr of this <unclear></unclear> Court - and <unclear></unclear>
-Justice of the <unclear></unclear> Court of the Territory of Washington</p>
+<p>Complaint</p>
+
+<p>by the Hon William G. Lang-
+ford Judge of the above named Court and associate
+Justice of the Subpoena Court of the Territory of Washington</p>
 
 <p>The petition of L. T. Savacool
-<unclear></unclear><unclear></unclear>respectfully shows.</p>
+the plaintiff respectfully shows:</p>
 
-<p><unclear></unclear>he is illegally imprisoned, detained
-<unclear></unclear>and <unclear></unclear> <unclear></unclear> of this liberty by J. H.
+<p>1 That he is illegally imprisoned, detained
+confined and restrained of this liberty by J. H.
 Hosler, Sheriff of Columbia County Washington
-Terrirtory; <unclear></unclear> <unclear></unclear>Confined by <unclear></unclear> Sheriff
-in the Country Jail at the City of Dayton in
-the <unclear></unclear> <unclear></unclear> <unclear></unclear>.</p>
+Territory; he is confined by said Sheriff
+in the county jail at the City of Dayton in
+the county and territory aforesaid.</p>
 
-<p>2nd This <unclear></unclear>or<unclear></unclear><unclear></unclear>
-<unclear></unclear><unclear></unclear>after knowledge and  <unclear></unclear>
-<unclear></unclear>applicant on this; this applicant was
-<unclear></unclear> William Newland are of the Justice
-of the Peace in and for <unclear></unclear>County, 
-Washington Territory, for <unclear></unclear> <unclear></unclear> a Change of <unclear></unclear>
-and <unclear></unclear> <unclear></unclear> a <unclear></unclear> for <unclear></unclear> and
-when ever examination <unclear></unclear> Justice of the Peace
-on level this <unclear></unclear> applicant <unclear></unclear><unclear></unclear>
-Jail <unclear></unclear> <unclear></unclear> into guard <unclear></unclear> of <unclear></unclear>
-County, And the <unclear></unclear> Sheriff J.H. Hosler.</p>
-
-<p><unclear></unclear><unclear>Whall?</unclear> Keefe, <unclear></unclear> and <unclear></unclear>
-applicant of this liberty - by <unclear></unclear> <unclear></unclear>
+<p>2nd That the cause or precurse of such restrain
+according to the best of his knowledge and belief
+of the applicant is this; this applicant was
+brought before William Newland one of the Justices
+of the Peace in and for Garfield County, Washington
+Territory, for examination upon a charge of uttering
+and publishing <unclear></unclear> a deed for property and
+upon <unclear></unclear> examination by said Justice of the Peace
+or <unclear></unclear> this said applicant be held <unclear></unclear> answer
+said charge before the grand jury of Garfield
+County, And the said Sheriff J.H. Hosler
+<unclear></unclear>and shall keep, imprison and restrain
+applicant of this liberty - by writing a commitment
 issued by <unclear></unclear> Justice of the Peace authorizing
-him <unclear></unclear> his <unclear></unclear> and <unclear></unclear>
-Keefe <unclear></unclear> applicant.</p>
+him <unclear></unclear> his custody and <unclear></unclear>
+keep said applicant.</p>
 
-<p>3rd This <unclear></unclear> <unclear></unclear> as illegal <unclear></unclear>
-this, <del>the</del> <unclear></unclear> <unclear></unclear> of <unclear></unclear> this <unclear></unclear>
+<p>3rd This <unclear></unclear> restrain is illegal in
+this, <del>the</del> said <unclear></unclear> of <unclear></unclear> this <unclear></unclear>
 Court is <unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
 as this, no <unclear></unclear> a <unclear></unclear> for <unclear></unclear> <unclear></unclear>
 on of the <unclear></unclear> <unclear></unclear><unclear></unclear>
