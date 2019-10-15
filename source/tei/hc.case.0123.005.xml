@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones v. Dillon. Petition</title>
+<title>Jones v. Dillon. Obedience of Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.001</idno>
+<idno type="project">oscys.case.0123.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones v. Dillon. Petition</title>
-<date when="1883-08-14">August 14, 1883</date>
+<title level="m" type="main">Jones v. Dillon. Obedience of Writ</title>
+<date when="1883-08-15">August 15, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,14 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Andrews, W.R.</term>
+<term>Aipes, A. Reeves</term>
 <term>Roadmann, T.S.</term>
-<term>Still, J.W.</term>
+<term>Sarpe A.W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Cheney, Washington</term>
-<term>Spokane County, Washington</term>
 </keywords>
 
 </textClass>
@@ -139,41 +138,40 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0123.001"/>
-
-<p>In the District Court of Washington Territory and for the First Judicial District thereof, holding tenant at Cheney in and for Spokane County In the matter of the application of T.S. Roadman for a writ of Habeas Corpus. 
-
-To the Honorable S.C. Wingard the Judge of the above entitled court. The petition of W.C. Jones, respectfully shows- That he is one of the attorneys for T.S. Roadman the applicant above named and makes this application in behalf of said applicant- That said T.S. Roadman is unlawfully restrained of his liberty by P.W. Dillon the Sheriff of Spokane County-at Spokane County aforesaid. 
-
-That the cause and pretense of said restraint is that said Dillon let as sheriff as aforesaid holds a warrant of Commitment issued by one J.W. Still, a justice of the peace in and for Spokane County aforesaid. 
-
-That said warrant of commitment is unlawful and irregular in this- 
-
-The compaints upon which said T.S Roadman was arrested and the hearing 
-
-
-did not charge any on with the comission of any crime- The evidence adduced from the invesitagation had as aforesaid upon said complaint, did not tend to prove said Roadman guilty of any crime or that there was probable cause for holding him for <unclear></unclear> appearance at the next time of the District Court aforesaid- 
-
-That the judgement of said justice was in effect that said T.S. Roadman should enter into bail in the sum of three hundred dollars for his appearance at the next term of the aforesaid District Court, and the commitment aforesaid was issued upon said order-
-
-Wherefore your petitioner prays: That a writ of Habeas Corpus may be granted directed to be specified to do and receive what shall then and there be considered by your house concerning him together with the time and cause of detention, and that said T.S. Roadman may be sestored to his
-
-liberty.
-Dated August 14th, 1883 
-W.C. Jones
-Petitioner
-
-Territory of Washington
+<pb facs="hc.case.0123.005"/>
+<p>Territory of Washington
 County of Spokane
+ I hereby certify that by 
+virtue of and in obedience to the within writ I <del>have</del> the body of 
+the within wanted T.S. Roadmann 
+before the Honorable S.C. Wingard, 
+Judge of the District Court of the First
+Judicial District of said Territory 
+at the Court room at said County
+on the 13th day of August 1883 
+at the hour of seven O'clock P.M.
+of said day and herewith return 
+this writ with said T.S. Roadmann 
+to said Court
+Dated Cheney W.T. August 13th 1883
+Sheriff of said Court
 
-W.C. Jones being first duly sworn deposes and says: That he is an attornet for T.S. Roadmann the appicant names in the foregoing petition for a writ of Habeas Corpus- That he has had the foregoing petition, knows the contents, thereof, and believes the same to be true
-W.C. Jones
+Sheriffs Fees
+Service $1.00
+<unclear></unclear> .20
+$1.20
 
-Subscribed and sworn to 
-before me August 14th 1883
-W.R. Andrews
-Notary Public</p>
-
+No. 430
+In the matter of 
+the application of T.S. 
+Roadmann for Habeas
+Corpus
+Writ of Habeas Corpus
+Rturned and 
+filed Aug. 15, 1883
+A. Reeves Aipes, Clerk
+By A.W. Sarpe, Def.
+</p>
 
 </div1>
     
