@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0237.006006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0237.008">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>US v. Arlington and Johnson. Memo from Judge About Writ</title>
+<title>Territory of Washington v. Arlington and Johnson. Order of Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0237.006</idno>
+<idno type="project">hc.case.0237.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Arlington and Johnson v. . Memo from Judge About Writ</title>
+<title level="m" type="main">Arlington and Johnson v. . Order of Writ of Habeas Corpus</title>
 <date when="1885-01-28">January 28, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -82,11 +82,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Arlington, Mary</term>
 <term>Brotton</term>
 <term>Byrd, Lewis</term>
 <term>Hoyt, John P.</term>
 <term>Johnson, Timothy</term>
-<term>Obrien, A.G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -139,20 +139,22 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0237.006"/>
+<pb facs="hc.case.0237.008"/>
 
-<!-- this letter is nearly illegible. -->
+<p>1336</p>
 
-<p>In the District Court of the Second Federal District of Washington Territory holding Terms at Tacoma in and for Pierce County.</p>
-<p>The Territory of Washington 
-vs.
-Timothy Johnson</p>
+<p>In the matter of the 
+application of
+Timothy Johnson 
+for a writ of Habeas Corpus}</p>
 
-<p>To Lewis Byrd Sheriff of Pierce County.</p>
-<p>I've command you that you have the body of Timothy Johson by you imprisoned and detained, as it is said, together with the lenie and canel afanch imprisonment and defensive by whatever name an aid Timothy Johnson shall be called on charged before Medew. John P. Hoyt Judge of the Second Judicial District of Washington Territory at the Court House at the City of Tacoma at said District on the 28th day of January AD 1885 at one oclock p.m. of that day <unclear>ts di</unclear> and were what shall then and there be considered <unclear>concerning</unclear> the said Timothy Johnson. And have for then and there this writ.</p>
-<p>Witness the Hon John P Hoyt, Judge of the sed district Court and the seal thereof this 27th January AD 1885</p>
-<p>AGOBrien 
-Clerk</p>
+<p>To</p>
+<p>The Hon. John P. Hoyt. Judge of the District Court of the Second Judicial District.</p>
+
+<p>The Petition of Timothy Johnson of the City of Tacoma Labourer.</p>
+<p>Respectfully <unclear>Shiveth</unclear></p>
+<p>That your Petition is unlawfully <unclear>unprisouned</unclear>, detained, confound, and restrainted of his liberty by Lewis Byrd. Sheriff of re</p>
+
 
 </div1>
     
