@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0120.008"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0120.008"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>L.T. Savacool v. Territory of Washington. Petition</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0120.008</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0120.008</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">L.T. Savacool v. Territory of Washington. Petition</title><!-- replace with name of case; type of document -->
-<date when="1886-02-23">February 23, 1886</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">L.T. Savacool v. Territory of Washington. Petition</title>
+<date when="1886-02-23">February 23, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,7 +79,7 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1886-02">February 1886</date></term><!-- insert date of court term -->
+<term><date when="1886-02">February 1886</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
@@ -98,12 +98,12 @@
 <term>Savacool, L.T.</term>
 <term>Seeley, C.H.</term>
 <term>Sturdevant, Robert</term>
-<term>Wilson, W.E.</term><!-- insert names of other people mentioned in document -->
+<term>Wilson, W.E.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
 <term>Columbia County, Washington</term>
-<term>Garfield County, Washington</term> <!-- insert places mentioned -->
+<term>Garfield County, Washington</term> 
 </keywords>
                 
 </textClass>
@@ -111,34 +111,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName>
 </person>
 <person role="defendant">
-<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Sturdevant, Robert</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Gudman, M.M.</persName><!-- insert name of attorney, if known -->
+<persName>Gudman, M.M.</persName>
 </person>
 <person role="judge">
-<persName>Langford, Tom</persName><!-- insert name of judge, if known -->
+<persName>Langford, Tom</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
-<placeName>Dayton, Washington</placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> 
+<placeName>Dayton, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> 
+<change when="2019" who="#ini">encoded, edited transcription.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -149,11 +149,11 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0120.008"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0120.008"/> 
                 
 <p>Before the District Court of the
-Territory of Washington Tom G. Langford
-judge presiding at <unclear></unclear>
+Territory of Washington Wm G. Langford
+judge presiding at Chambers
 at Dayton Columbia County
 Territory of Washington</p>
                 
@@ -161,36 +161,39 @@ Territory of Washington</p>
 Savacool habeas corpus vs
 J.H. Hosler</p>
                 
-<p>This course coming on <unclear></unclear>
-at chambers at Dayton
+<p>This cause coming on to be
+heard at chambers at Dayton
 Columbia County Territory
 of Washington on the 23d of
 February 1886, upon the application
-for the court and the <unclear></unclear> of
+for the court and the return of
 J.H. Hosler and the said served
 appearing in his own proper person
 and by his attorney M.M. Gudman
 his attorney and the said J.H. Hosler
 by this attorney Robert T. Sturdevant
 and the case being submitted
-the court adjudges that the known
+the court adjudges that the process
 upon which the said Savacool is
 held in defective and as justification
-for the imprisonment of here
+for the imprisonment of him
 the said Savacool and therefore
 orders an examination made
 as of whether he the said
 Savacool is guility of any offense
+
+<pb/>
+
 for which he should be held
 in custody whereupon the
 evidence is submitted to the
 Court and upon the evidence
-and how the judge Tom G.
+and how the judge Wm G.
 Langford finds that there is
 is no probable cause to find
 him the said Savacool guilty
 of any such offense and it is 
-hereby ordererd that he the
+hereby orderered that he the
 said Savacool be and he
 is hereby discharged from
 all custody and imprisonment
@@ -198,12 +201,12 @@ to go hence without day and
 what the costs of the prosecution
 hence be freed by the County
 of Garfield of the Territory of
-Washington as her <unclear></unclear>
+Washington as per <unclear></unclear>
 hereto attached</p>
                 
 <p>Dated this 23d of February 1886 -</p>
                 
-<p>Tom G. Langford Judge</p>
+<p>Wm. G. Langford Judge</p>
                 
 <p>Costs Bill</p>
 
@@ -211,41 +214,46 @@ hereto attached</p>
 C.A. McCabe 1 day and 50 miles  $7 00
 W.S Newland 1 " " " " "                      7 00
 Ben Butler 1 " " " " "                            7 00
+
+<pb/>
+
 C.H. Seeley 1 " " " " "                         7 00
-J H Roberson 1 " " " " "                       7 00
+J H Robinson 1 " " " " "                       7 00
 L P Mulkey 1 " " " " "                            7 00
-Josiah Butran 1 " " " " "                      7 00
+Josiah Butrain 1 " " " " "                      7 00
 W E Wilson 1 " " " " "                         7 00
 Dan Rice 1 " " " 2 "                            2 20
 D C Guernesy " " " " "                        2 20
 C R Dorr " " " " "                                 2 20</p>
 
 <p>Sheriff Hoslers fees
-Boarding persons 8 days                     $8 00
-Serving 4 subpoenas and 8                   2.40
-For guarding persons 1 day                  3.00</p>
+Boarding prisoner 8 days                     $8 00
+Serving 4 subpoenas and 8 miles                  2.40
+For guarding prisoner 1 day                  3.00</p>
 
 <p>Clerk of Court fees
 Filing and entering Petition                                      60
-Issuing Writ and Return                                         1.60
+Issuing Writ &amp; Return                                         1.60
 Docket and appearances                                       .50
-<unclear></unclear><unclear></unclear>              25
+<unclear>Defts</unclear><unclear>app</unclear>              25
 Issuing 2 subpoenas and filing                             1.20
-<unclear></unclear><unclear></unclear>              50
+<unclear>Issue</unclear><unclear>joined</unclear>              50
 Taking and filing one affidavit                                 .35
 Entering 3 orders                                                   1.50
 Taxing costs                                                             .50
 <unclear></unclear>of this<unclear></unclear> Garfield County               2 20</p>
                 
-<p>I R.T. Sturdevant prosecuting attorney of
+<p>I R.F. Sturdevant prosecuting attorney of
 the Counties of Garfield Columbia
-and Asotin do hereby Certify that
+and Assotin do hereby Certify that
 I have examined the foregoing Bill
-of costs and that the <unclear></unclear>is
+of costs and that the same is
 correct</p>
                 
-<p>R.T. Sturdevant
+<p>R.F. Sturdevant
 Prosecuting Attorney</p>
+
+<pb/>
 
 <p>I William G. Langford Judge of the
 First Judicial District of Washington Territory
@@ -256,7 +264,7 @@ the foregoing case Bill and find
 the same correct</p>
                 
 <p>W.G. Langford
-Judge</p>
+Judge &amp;c</p>
 
 <p>Judgment Order</p>
                 
@@ -265,8 +273,6 @@ JW Jessel
 Clerk</p>
                 
 <p>No 1384</p>
-                
-<fw type="footer"> &amp;</fw>
                 
                 
                 
