@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.007"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Choey et al v. The State. Matter of Application</title> 
+<title>Choey et al v. The State. Memo from the Marshal</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0238.001</idno> 
+<idno type="project">oscys.case.0238.007</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Choey et al v. The State. Matter of Application</title>
-<date/>
+<title level="m" type="main">Choey et. al v. The State. Memo from the Marshal</title>
+<date when="1888-07-07">July 7, 1888</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,7 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Choey, Num</term>
+<term>Hamilton, T.J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -132,20 +133,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0238.001"/>
+<pb facs="hc.case.0238.007"/>
 
 <p>2307</p>
 
-<!-- Almost illegible. Type is very faint.  -->
+<p>I T.J. Hamilton U.S. Marshal hereby make further return to the writ of Habeas Corpus heretofore issued herein and ceritfy that in compliance iwht the order of the court made herein on to wit June A.D. 1888 and under the writ of Deportation made a part of my return heretofore made herein. I did on July 5th 1888 remove said Num Choey to British Colubia and there discharge him the said Num Choey.</p>
 
-<p>Matter of Application
-of Num Choey Sir
-Writ of Habeas Corpus}</p>
-<p>Order In P</p>
+<p>T.J. Hamilton
+U.S. Marshal</p>
 
-<p>Now comes <unclear></unclear> Newton &amp; Smittin attorneys for the Petitioner and suggest to the Court the property of the Petitioner and the Court havaing heard the argument of counsel and <unclear>upon</unclear> the <unclear></unclear> command <unclear></unclear> of the United States Attorney for Washington Territory, it is <unclear>Lessby Mland these</unclear> paid Petition be <unclear>hand haley</unclear> allowed to prosecute <del></del> this application in former <unclear></unclear> and that the <unclear></unclear> of this proceeding be paid by the United States.
 
-<del></del></p>
+<p>FILED
+JUL 7 1888
+
+By T.O. Cebleau
+Deputy Clerk</p>
 
 </div1>
     
