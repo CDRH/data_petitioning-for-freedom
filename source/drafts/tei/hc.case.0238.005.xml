@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.003"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.004"> 
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0238.003</idno> 
+<idno type="project">oscys.case.0238.004</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -95,7 +95,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>Cr</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -132,19 +132,9 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0238.003"/>
+<pb facs="hc.case.0238.004"/>
 
 <!-- Almost illegible. Type is very faint.  -->
-
-<p>2307</p>
-
-<p>Matter of Application
-of News Cohey for Writ
-of Habeas Corpus}</p>
-<p>Order for Writ</p>
-
-<p>Now this matter coming on to be heard upon the application of Petitioner and the Court having heard the argument of counsel and being fully advised in the promises it is <unclear>lovely mlared</unclear> that the said Petitioner <unclear>New Cohoey</unclear> be discharged from custody <del>and by <unclear></unclear> of the functions for trial the case</del> unless the United States Marshal. <del></del> on or before July 6th AD 1888 removal said <unclear></unclear> Choey to British Colonies trial under the writ of deportation made <unclear>part</unclear> this return</p>
-
 
 </div1>
     
