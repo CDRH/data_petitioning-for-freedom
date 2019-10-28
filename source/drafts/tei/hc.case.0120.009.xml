@@ -100,13 +100,13 @@
 <persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName></persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
 <persName>Wingard, S.C.</persName><!-- insert name of judge, if known -->
