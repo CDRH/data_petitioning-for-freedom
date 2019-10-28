@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Defendant's Response</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">L.T. Savacool v. Territory of Washington. Defendant's Response</title><!-- replace with name of case; type of document -->
+<date when="1886-02-23">February 23, 1886</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,23 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-02">February 1886</date></term><!-- insert date of court term -->
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Hosler, J.H.</term>
+<term>McCabe, C.A.</term>
+<term>Newland, W.S.</term>
+<term>Robinson, Jas</term>
+<term>Savacool, L.T.</term>
+<term>Sturdevant, R.T.</term>
+<term>Wilson, W.E.</term>
+<term>Wingard, S.C..</term><!-- insert names of other people mentioned in document -->
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
+<term>Garfield County, Washington</term> <!-- insert places mentioned -->
 </keywords>
                 
 </textClass>
@@ -95,33 +103,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<persName>Sturdevant, R.T.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Last, First</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Wingard, S.C.</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Garfield County</orgName> <!-- insert court name -->
+<placeName>Pomeroy, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
         
@@ -135,13 +143,95 @@
                 
 <pb facs="hc.case.0120.011"/> <!-- insert number from spreadhseet -->
                 
-<p>53 Copy</p>
                 
-<p>In the matter of the
-<unclear></unclear> of
-<unclear></unclear>Garfield
-<unclear></unclear><unclear></unclear>
-General Order</p>
+<p>Territory of Washington
+County of Garfield } SS</p>
+                
+<p>I, J.H. Hosler
+the person to whom the annexed writ
+of Habeas Corpus is directed for
+return to the same State as follows,
+First, that I am now and during
+all the time for the two years past
+have been Sheriff of Columbia County
+Washington Territory and the Keeper
+of the common jail of said County,
+that on the 18th day of April 1884
+the County of Garfield in said
+Territory had no jail or other place
+for the safe keeping of prisoners and
+that said County of Garfield has at no
+time since had such jail or place,
+that on the 18th day of April 1884 the
+Honorable S.C. Wingard Judge of
+the District Court of Garfield County
+Washington Territory holding terms
+at Pomeroy in said County made
+an order, that all persons bound
+over to wait trial before the District
+Court in said County of Garfield and who are unable to furnish
+bonds be confined in the County jail
+of said Columbia County, A true copy
+of which order is hereby annexed and
+marked "A" and made a part of this
+return, that on the 13th day of February
+1886 L.T. Savacool was brought before
+W.S. Newland, one of the Justices of
+the Peace in and for said Counrt of Garfield
+charged on the oath of C.A. McCabe and
+Jas Robinson with having on the
+8th day of February 1886, in said County
+committed the offence of uttering and
+publishing a forgery and in having
+appeared to the said W.S. Newland Justice
+of the Peace as aforesaid on the exam-
+ination of the said L.T. Savacool then
+and there by him made that the said
+offence or crime had been committed
+and that there was probable cause to believe
+the said L.T. Savacool guility thereof,
+ordered that the said L.T. Savacool
+enter into recognizance in the sum of
+One Thousand Dollars for his apperance
+to answer at the next term of said
+District Court, and that in default
+of said recognizance that he be committed
+to jail until he shold be thence
+discharged by due process of Law,
+that the said L.T. Savacool failed to
+enter into said recognizance whereupon
+the said Justice of the Peace issued
+his commitment in due form of law
+(a true copy of which is hereinto an-
+nexed marked "B" and made a part
+of this return) and delivered the
+same to W.E. Wilson, Sheriff of said
+County of Garfield who by virtue of
+said commitment on the 13th day
+of February 1886, delivered the said
+L.T. Savacool into my custody in
+said jail, since which time
+and for the causes aforesaid I have as
+said keeper of said jail imprisoned
+and detained the said L.T. Savacool in my
+custody in said jail,
+Dated this 23rd day of February 1886
+J.H. Hosler</p>
+                
+<p>Territory of Washington
+County of Columbia } SS</p>
+                
+<p>J.H. Hosler being
+duly sworn on oath says, he is the
+person who made the foregoing return
+that he has read the same and believes
+it to be true               JH Hosler</p>
+                
+<p>Subscribed and sworn to before me this 23rd day of
+February 1886</p>               
+
+<p>R.T. Sturdevant
+Notary Public</p>
                 
 <fw type="footer"> &amp;</fw>
                 
@@ -152,4 +242,3 @@ General Order</p>
 </body>
 </text>
 </TEI>
-

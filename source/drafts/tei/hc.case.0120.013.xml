@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Writ Issued to Defendant</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">L.T. Savacool v. Territory of Washington. Writ Issued to Defendant</title><!-- replace with name of case; type of document -->
+<date when="1886-02-19">February 19, 1886</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,18 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-02">February 1886</date></term><!-- insert date of court term -->
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Hosler, J.H.</term>
+<term>Jessel, J.W.</term>
+<term>Langford, William</term>
+<term>Savacool, L.T.</term><!-- insert names of other people mentioned in document -->
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term> <!-- insert places mentioned -->
 </keywords>
                 
 </textClass>
@@ -95,33 +98,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Langford, William</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
+<placeName>Dayton, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
         
@@ -135,10 +138,58 @@
                 
 <pb facs="hc.case.0120.013"/> <!-- insert number from spreadhseet -->
                 
-<p>Territory of Wash.
-vs
-L.T. Savacool
-Commitment</p>
+                
+<p>In this District Court of Columbia County
+Washington Territory, holding terms
+at Dayton</p>
+                
+<p>Before William G. Langford
+Judge of this where Court and associate
+Justices of the Supreme Court of the Territory
+Washington</p>
+                
+<p>Territory Washington
+County of Columbia } SS</p>
+                
+<p>The United States
+of America</p>
+
+<p>To J.H. Hosler Greeting:
+We command you, that you have
+the body of L.T. Savacool, by you imprisoned
+and detained, as in is said, to this with
+the time and course of such imprisonment
+and detention by whatsoever name said
+L.T. Savacool shall be called or charged
+before William G. Langford Judge of the 
+District of Columbia County, Washington
+Territory, holding terms at Dayton, of this
+Chambers in the <unclear></unclear> office in Dayton
+Columbia County Washington Territory on
+the 23rd day of February 1886 on the hour
+of 9 O'clock A.M. of said day, is do and
+receive what shall where and when
+he Considered Concerning the said L.T.
+Savacool and have you there and
+then this writ.</p>
+                
+<p>Witniss the Hon. William G. Langford
+Justice of the District Court of Columbia
+County, holding terms at Dayton and
+Associate Justice of the Subpoena
+Court of said Territory of Washington this
+19th day of February 1886.</p>
+                
+<p>Attest my hand and the seal of
+said District Court affixed <unclear></unclear> the
+day and your above written</p>
+                
+<p>JW Jessel
+Clerk District Court</p>
+                
+<p>Filed Feb 23 1886
+JW Jessel
+Clerk</p>
                 
 <fw type="footer"> &amp;</fw>
                 
@@ -149,3 +200,4 @@ Commitment</p>
 </body>
 </text>
 </TEI>
+
