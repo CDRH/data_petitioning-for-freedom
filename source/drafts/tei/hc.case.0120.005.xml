@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0120.005"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0120.005"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>L.T. Savacool v. Territory of Washington. Plaintiff's Petition</title> <!-- replace with name of case; type of document -->
+<title>L.T. Savacool v. Territory of Washington. Plaintiff's Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0120.005</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0120.005</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">L.T. Savacool. Plaintiff's Petition</title><!-- replace with name of case; type of document -->
-<date when="1886-02-18">February 18, 1886</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">L.T. Savacool. Plaintiff's Petition</title>
+<date when="1886-02-18">February 18, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,18 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1886-02">February 1886</date></term><!-- insert date of court term -->
+<term><date when="1886-02">February 1886</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Baker, Gio</term>
 <term>Hosler, J.H.</term>
 <term>Newland, William</term>
-<term>Savacool, L.T.</term><!-- insert names of other people mentioned in document -->
+<term>Savacool, L.T.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Columbia County, Washington</term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term> 
 </keywords>
 
 </textClass>
@@ -98,34 +98,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Savacool, L.T.</persName><!-- insert name of petitioner, if a person -->
+<persName>Savacool, L.T.</persName>
 </person>
 <person role="defendant">
-<persName>Hosler, J.H.</persName><!-- insert name of defendant, if a person -->
+<persName>Hosler, J.H.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Last, First</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Last, First</persName>
 </person>
 <person role="judge">
-<persName>Langford, William</persName><!-- insert name of judge, if known -->
+<persName>Langford, William</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
-<placeName>Dayton, Washington</placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> 
+<placeName>Dayton, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> 
+<change when="2019" who="#ini">encoded, edited transcription.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -136,15 +136,14 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0120.005"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0120.005"/> 
 
 <p>#1384</p>
 
 <p>In District Court of Columbia County Washington
 territory, holding terms at Dayton.</p>
 
-<p>Before Hon. William G. Lang-
-ford Judge of above named Court</p>
+<p>Before Hon. William G. Langford Judge of above named Court</p>
 
 <p>In the matter of the
 application of
@@ -153,8 +152,7 @@ Writ of Habeas Corpus</p>
 
 <p>Complaint</p>
 
-<p>by the Hon William G. Lang-
-ford Judge of the above named Court and associate
+<p>by the Hon William G. Langford Judge of the above named Court and associate
 Justice of the Subpoena Court of the Territory of Washington</p>
 
 <p>The petition of L. T. Savacool
@@ -167,27 +165,30 @@ Territory; he is confined by said Sheriff
 in the county jail at the City of Dayton in
 the county and territory aforesaid.</p>
 
-<p>2nd That the cause or precurse of such restrain
+<p>2nd That the cause or pretense of such restrain
 according to the best of his knowledge and belief
 of the applicant is this; this applicant was
 brought before William Newland one of the Justices
 of the Peace in and for Garfield County, Washington
 Territory, for examination upon a charge of uttering
-and publishing action a deed for property and
-upon <unclear></unclear> examination by said Justice of the Peace
-on <unclear></unclear> this said applicant be held to answer
+and publishing as true a deed for property and
+upon <unclear>such</unclear> examination by said Justice of the Peace
+ordered this said applicant be held to answer
 said charge before the grand jury of Garfield
 County, And the said Sheriff J.H. Hosler
-claims and shall keep, imprison and restrain
+
+
+<pb/>
+
+claims &amp; should keep, imprison and restrain
 applicant of this liberty - by writing a commitment
 issued by said Justice of the Peace authorizing
 him into his custody and safely
 keep said applicant.</p>
 
-<p>3rd This <unclear></unclear> restrain is illegal in
-this, <del>the</del> said instrument of which this appli-
-cant is charged with of having uttered and published
-action, <unclear></unclear> a deed for property - or any
+<p>3rd That such restraint is illegal in
+this, <del>the</del> said instrument of which this applicant is charged with of having uttered and published
+action, <unclear>so not</unclear> a deed for property - or any
 one of the instruments mentioned in section
 854 of the Code of Washington.</p>
 
@@ -196,27 +197,31 @@ and Committment issued by said Justice of
 the Peace and all authorizing or empowering
 him the said Sheriff imprison, detain
 or restrain said applicant of his liberty - or
-as all</p>
+at all</p>
 
-<p>Wherefor he <unclear></unclear> for a writ of Habeas
+<p>Wherefor he prays for a writ of Habeas
 Corpus that the same may be inquired
 <unclear></unclear> and he be discharged </p>
+
+<p>L. T. Savacool<lb/>
+Petitioner</p>
+
 
 <p>Territory of Washington
 County of Columbia } SS</p>
 
 <p>L.T. Savacool being
-first duly sworn say he is petitioner and
+first duly sworn says he is petitioner and
 applicant above named this the foregoing
 petition or complaint is true as he verily believes.</p>
-    
+<p>L. T. Savacool</p>
 <p>subscribed and sworn to before me this 18 day
 of February 1884</p>
     
-<p>Gio B. Baker</p>
+<p>Geo B. Baker</p>
     
-<p>Notary Peeblie</p>
-<fw type="footer"> &amp;</fw>
+<p>Notary Public</p>
+
 
 
 

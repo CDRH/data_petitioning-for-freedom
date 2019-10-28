@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Jacob Schuman v. Territory of Washington. Summary and Response</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Jacob Schuman v. Territory of Washington. Summary and Response</title><!-- replace with name of case; type of document -->
+<date when="1886-07-27">July 27, 1886</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,23 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-07">July 1886</date></term><!-- insert date of court term -->
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Cussler, Gw.V.</term>
+<term>Dorr, J.C.</term>
+<term>Hanis, L.E.</term>
+<term>Hosler, J.H.</term>
+<term>McCauley, A.L.</term>
+<term>Schuman, Jacob</term>
+<term>Sharpstein, B.L.</term>
+<term>Sturdevant, R.T.</term>
+<term>Weinhard, Jacob</term><!-- insert names of other people mentioned in document -->
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term> <!-- insert places mentioned -->
 </keywords>
                 
 </textClass>
@@ -95,33 +103,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName>Schuman, Jacob</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName></persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName>Sturdevant, R.T.</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Dorr, J.C.</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName> <!-- insert court name -->
+<placeName>Dayton, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2019" who="cdw">transcribed.</change> <!-- change description, initials, and date -->
 <change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
 </revisionDesc>
         
@@ -138,8 +146,9 @@
                 
 <p>#1433</p>
                 
-<p>Jacob Schuman
-<unclear></unclear> <unclear></unclear> Aim. Ex</p>
+<p>Jacob Schuman</p>
+
+<p><unclear></unclear> <unclear></unclear> crime. Ex</p>
                 
 <p>On this 27th day of July
 A.D. 1886 A.L. McCauley complained
@@ -151,7 +160,7 @@ in violation of the "local option law"
 tell to him, the said A.L. McCauley, one
 <abbr>pt</abbr> of Lager beer. Warrant issued
 and given to Sheriff JH Hosler at once,
-this warrant was <unclear></unclear> on the
+this warrant was returned on the
 same day and the defendant Jacob
 Schuman brought into Court, present
 R.F Sturdevant Prosecuting Atty and
@@ -162,14 +171,14 @@ A.M. and the defendant Jacob
 Schuman ordered to enter with
 recognizance in the sum of five
 hundred dollars with good and suf-
-ficient <unclear></unclear> for his appearance
+ficient surety for his appearance
 and subjection to all the orders
 of the court. The defendant
 filed his Recognizance with L. E. Hanis
-as his <unclear></unclear>, which was approved
+as his surety, which was approved
 and the defendant Jacob Schuman was
 discharged from arrest. Precipe for
-witnesses on the part of the <unclear></unclear> filed
+witnesses on the part of the Territory filed
 by R.F. Sturdevant Pros. Atty. and
 subpoenas issued for A.L. McCauley
 and Gw. V. Cussler July 28th subpoenas
@@ -198,7 +207,7 @@ Wherefrom commitment to Jail was
 made and given to the said Sheriff.</p>
                 
 <p>August 7th 1886 Sheriff J.H. Hosler
-brought the Deff Jacob Schuman into
+brought the Deft Jacob Schuman into
 court and the said defendant filed
 his recognizance in the sum of five
 hundred dollars with Jacob Weinhard as
@@ -218,11 +227,11 @@ comes on this examination present Pros.
 Atty. R.F. Sturdevant, Sheriff J.H. Hosler
 Defendant Schuman and the witnesses
 A.L. McCauley and Gw. V. Cussler who
-was <unclear></unclear> and examined on the
+was sworn and examined on the
 part of the Territory, No defense made
 and the court having considered all
 and singular the premises of the case
-and the law and the <unclear>restraint?</unclear>,
+and the law and the incidence,
 ordered that the defendant Jacob Schuman
 be held to answer before the next
 grand jury for the Dis Court for
@@ -238,7 +247,7 @@ cognizance in the sum of one hundred
 dollars each for their appearance at
 the said next term of the District Court,
 and A.L. McCauley and Gw. V. Cussler
-<unclear></unclear> and filed their recognizances
+executed and filed their recognizances
 as required which was filed and
 approved.</p>
                 
