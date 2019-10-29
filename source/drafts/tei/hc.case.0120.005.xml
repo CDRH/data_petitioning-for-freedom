@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>L.T. Savacool v. Territory of Washington. Plaintiff's Petition</title> 
+<title>L. T. Savacool v. J. H. Hosler. Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">L.T. Savacool. Plaintiff's Petition</title>
+<title level="m" type="main">L. T. Savacool v. J. H. Hosler. Complaint</title>
 <date when="1886-02-18">February 18, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,10 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Baker, Gio</term>
-<term>Hosler, J.H.</term>
-<term>Newland, William</term>
-<term>Savacool, L.T.</term>
+<term>Baker, George B.</term>
+<term>Newland, William S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,10 +102,10 @@
 <persName>Hosler, J.H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Langford, William</persName>
@@ -124,8 +122,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="cdw">transcribed.</change> 
-<change when="2019" who="#ini">encoded, edited transcription.</change>  
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -138,16 +136,16 @@
 
 <pb facs="hc.case.0120.005"/> 
 
-<p>#1384</p>
+<note>#1384</note>
 
 <p>In District Court of Columbia County Washington
 territory, holding terms at Dayton.</p>
 
 <p>Before Hon. William G. Langford Judge of above named Court</p>
 
-<p>In the matter of the
-application of
-L. T. Savacool for
+<p>In the matter of the<lb/>
+application of<lb/>
+L. T. Savacool for<lb/>
 Writ of Habeas Corpus</p>
 
 <p>Complaint</p>
@@ -186,7 +184,7 @@ issued by said Justice of the Peace authorizing
 him into his custody and safely
 keep said applicant.</p>
 
-<p>3rd That such restraint is illegal in
+<p>3= That such restraint is illegal in
 this, <del>the</del> said instrument of which this applicant is charged with of having uttered and published
 action, <unclear>so not</unclear> a deed for property - or any
 one of the instruments mentioned in section
@@ -201,7 +199,7 @@ at all</p>
 
 <p>Wherefor he prays for a writ of Habeas
 Corpus that the same may be inquired
-<unclear></unclear> and he be discharged </p>
+<unclear>into</unclear> and he be discharged </p>
 
 <p>L. T. Savacool<lb/>
 Petitioner</p>

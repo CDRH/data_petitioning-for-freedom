@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>L.T. Savacool v. Territory of Washington. Issuing of Writ</title> 
+<title>L. T. Savacool v. J. H. Hosler. Commitment</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">L.T. Savacool v. Territory of Washington. Issuing of Writ</title>
+<title level="m" type="main">L. T. Savacool v. J. H. Hosler. Commitment</title>
 <date when="1886-02-13">February 13, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,8 +83,7 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term>Newland, W.S.</term>
-<term>Savacool, L.T.</term>
+<term></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -96,19 +95,19 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Savacool, L.T.</persName>
+<persName>Savacool, L. T.</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Hosler, J. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Newland, W.S.</persName>
+<persName>Newland, William S.</persName>
 </person>
 </listPerson>
                 
@@ -122,8 +121,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="cdw">transcribed.</change> 
-<change when="2019" who="#ini">encoded, edited transcription.</change>  
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
 </revisionDesc>
         
 </teiHeader>
