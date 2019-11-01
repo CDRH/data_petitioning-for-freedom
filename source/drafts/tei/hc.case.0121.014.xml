@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. Jacob Schuman. Abstract of Cost</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. Jacob Schuman. Abstract of Cost</title>
+<date when="1886-08-16">August 16, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,16 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-08">August 1886</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Crosslir,George V.</term>
+<term>McCauley, A.L.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -95,34 +96,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Schuman, Jacob</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Dorr, J.C.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -135,22 +136,62 @@
                 
 <pb facs="hc.case.0121.014"/> <!-- insert number from spreadhseet -->
                 
- <p>In Justice's Court,
-Before J.C. Dorr,
-Justice of the Peace</p>
+ <p>Abstract cost continuance
+Sheriffs Fees       J.H. Hosler
+July 27     Serving Warrant                             1.20
+                 1 day of court with persons           3.00
+                 2 Subpoenas served                     1.20
+Aug 7       1 day of court with persons           3.00
+"      16     1 day of court with persons           3.00
+                 2 Commitments                              2.00
+                                                                       $13.40</p>
 
-<p>Territory of Washington
-Plaintiff,
-Jacob Schuman
-Defendant</p>
+<p>Witness Fees     (For Territory)
+A.L. McCauley 4 days and 8 miles    8.80
+Geo V. Crosslir    4 " and 8 "                  8.8"</p>
 
-<p>Recognizance</p>
+<p>Abstract of Costs</p>
 
-<p>and affined</p>
+<p>Jacob Schuman</p>
 
-<p>Filed Aug 4th 1886
-J.C. Dorr
-Justice of the Peace</p>
+<p>Justice's Fees       J.C. Dorr
+        Affidavit and Warrant                                      1.25
+        Entering docket tax costs                               1.00
+        2 Subpoenas                                                      .30
+        adjournment to 29th                                           .30
+        Taking Recognizance of Bail                         1.00
+July 29  continuance to 2 o'clock                             .50
+" "     Adjournment to Aug 2nd                                  .50
+August 2    on                 "    9th                                 .50
+" "     Commitment                                                    .50
+" 7    Taking Recognizance of Bail                        1.00
+" "     Certificate of Discharge from Com.             1.00
+" 9     adjournment to Aug 16                                    .50
+" 16   2 Witnesses sworn                                          .30
+          Judgment Satisfaction                                   1.00
+          Commitment                                                      .50
+          Taking Recognizance 2 Witnesses              2.00
+          12 papers filed in all                                       1.80
+          Extra <unclear></unclear> in docket 8         1.60
+          this namescript 11 <unclear></unclear>       2.20
+          Certificate                                                         1.00
+                                                                                 $19.15</p>
+
+<p>I, J.C. Dorr one of the
+Justices of the Peace in and for
+said County, do hereby certify that
+the foregoing is a true and complete
+transcript of all the proceedings had
+before me in the case of the Territory of Wash-
+ington against Jacob Schuman charged
+with violation of the Local Option Law on
+July 27th 1886 in Dayton Precinct, that the
+hereunto annexed are the papers of the said
+case and that the accompanying abstract of
+cost is correct to the best of my knowledge</p>
+
+<p>Given under my hand this 16th day of August 1886
+J.C. Dorr</p>
 
 <fw type="footer"> &amp;</fw>
                 
@@ -161,4 +202,5 @@ Justice of the Peace</p>
 </body>
 </text>
 </TEI>
+
 

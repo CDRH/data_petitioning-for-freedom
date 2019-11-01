@@ -6,18 +6,18 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>L. T. Savacool v. J. H. Hosler. Complaint</title> 
+<title>L. T. Savacool v. J. H. Hosler. Discharge</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-    
+                    
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
-
+                    
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
-    
+            
 <editionStmt>
 <edition>
 <date>2019</date>
@@ -37,7 +37,7 @@
 </address>
 </distributor>
 <idno type="project">hc.case.0120.005</idno> 
-
+                
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">L. T. Savacool v. J. H. Hosler. Complaint</title>
-<date when="1886-02-18">February 18, 1886</date>
+<title level="m" type="main">L. T. Savacool v. J. H. Hosler. Discharge</title>
+<date when="1886-02-23">February 23, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -65,53 +65,63 @@
 <keywords scheme="original" n="category">
 <term>Case Papers</term>
 </keywords>
-    
+                
 <keywords scheme="original" n="subcategory">
 <term></term>
 </keywords>
-
+                
 <keywords scheme="original" n="type">
 <term>Criminal</term>
 </keywords>
-
+                
 <keywords scheme="original" n="subtype">
 <term></term>
 </keywords>
-
+                
 <keywords scheme="original" n="term">
 <term><date when="1886-02">February 1886</date></term>
 </keywords>
-    
+                
 <keywords scheme="lcsh" n="people">
-<term>Baker, George B.</term>
+<term>Butler, Ben</term>
+<term>Butran, Josiah</term>
+<term>Dorr, C. R.</term>
+<term>Guernsey, D. C.</term>
+<term>McCabe, C. A.</term>
+<term>Mulkey, L. P.</term>
 <term>Newland, William S.</term>
+<term>Rice, Dan</term>
+<term>Robinson, James H.</term>
+<term>Seeley, C. H.</term>
+<term>Wilson, W. E.</term>
 </keywords>
-
+                
 <keywords scheme="lcsh" n="places"> 
-<term>Columbia County, Washington</term> 
+<term>Columbia County, Washington</term>
+<term>Garfield County, Washington</term> 
 </keywords>
-
+                
 </textClass>
             
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Savacool, L.T.</persName>
+<persName>Savacool, L. T.</persName>
 </person>
 <person role="defendant">
-<persName>Hosler, J.H.</persName>
+<persName>Hosler, J. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Sturdevant, Robert</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Gudman, M. M.</persName>
 </person>
 <person role="judge">
-<persName>Langford, William</persName>
+<persName>Langford, William G.</persName>
 </person>
 </listPerson>
-            
+                
 <listOrg>
 <org>
 <orgName>District Court of Columbia County</orgName> 
@@ -129,103 +139,142 @@
 </teiHeader>
     
 <text>
-
+        
 <body>  
-               
+            
 <div1 type="case">
-
+                
 <pb facs="hc.case.0120.005"/> 
-
-<note>#1384</note>
-
-<p>In District Court of Columbia County Washington
-territory, holding terms at Dayton.</p>
-
-<p>Before Hon. William G. Langford Judge of above named Court</p>
-
-<p>In the matter of the<lb/>
-application of<lb/>
-L. T. Savacool for<lb/>
-Writ of Habeas Corpus</p>
-
-<p>Complaint</p>
-
-<p>by the Hon William G. Langford Judge of the above named Court and associate
-Justice of the Subpoena Court of the Territory of Washington</p>
-
-<p>The petition of L. T. Savacool
-the plaintiff respectfully shows:</p>
-
-<p>1 That he is illegally imprisoned, detained
-confined and restrained of this liberty by J. H.
-Hosler, Sheriff of Columbia County Washington
-Territory; he is confined by said Sheriff
-in the county jail at the City of Dayton in
-the county and territory aforesaid.</p>
-
-<p>2nd That the cause or pretense of such restrain
-according to the best of his knowledge and belief
-of the applicant is this; this applicant was
-brought before William Newland one of the Justices
-of the Peace in and for Garfield County, Washington
-Territory, for examination upon a charge of uttering
-and publishing as true a deed for property and
-upon <unclear>such</unclear> examination by said Justice of the Peace
-ordered this said applicant be held to answer
-said charge before the grand jury of Garfield
-County, And the said Sheriff J.H. Hosler
-
+                
+<p>Before the District Court of the
+Territory of Washington Wm G. Langford
+judge presiding at Chambers
+at Dayton Columbia County
+Territory of Washington</p>
+                
+<p>In the matter of L.T.
+Savacool habeas corpus vs
+J.H. Hosler</p>
+                
+<p>This cause coming on to be
+heard at chambers at Dayton
+Columbia County Territory
+of Washington on the 23d of
+February 1886, upon the application
+for the court and the return of
+J.H. Hosler and the said served
+appearing in his own proper person
+and by his attorney M.M. Gudman
+his attorney and the said J.H. Hosler
+by this attorney Robert T. Sturdevant
+and the case being submitted
+the court adjudges that the process
+upon which the said Savacool is
+held in defective and as justification
+for the imprisonment of him
+the said Savacool and therefore
+orders an examination made
+as of whether he the said
+Savacool is guility of any offense
 
 <pb/>
 
-claims &amp; should keep, imprison and restrain
-applicant of this liberty - by writing a commitment
-issued by said Justice of the Peace authorizing
-him into his custody and safely
-keep said applicant.</p>
+for which he should be held
+in custody whereupon the
+evidence is submitted to the
+Court and upon the evidence
+and how the judge Wm G.
+Langford finds that there is
+is no probable cause to find
+him the said Savacool guilty
+of any such offense and it is 
+hereby orderered that he the
+said Savacool be and he
+is hereby discharged from
+all custody and imprisonment
+to go hence without day and
+what the costs of the prosecution
+hence be freed by the County
+of Garfield of the Territory of
+Washington as per <unclear>cost - bill</unclear>
+hereto attached</p>
+                
+<p>Dated this 23d of February 1886 -</p>
+                
+<p>Wm. G. Langford Judge</p>
+                
+<p>Costs Bill</p>
 
-<p>3= That such restraint is illegal in
-this, <del>the</del> said instrument of which this applicant is charged with of having uttered and published
-action, <unclear>so not</unclear> a deed for property - or any
-one of the instruments mentioned in section
-854 of the Code of Washington.</p>
+<p>Miles fees
+C.A. McCabe 1 day and 50 miles  $7 00
+W.S Newland 1 " " " " "                      7 00
+Ben Butler 1 " " " " "                            7 00
 
-<p>That said Sheriff J.H. Hosler has on writ
-and Committment issued by said Justice of
-the Peace and all authorizing or empowering
-him the said Sheriff imprison, detain
-or restrain said applicant of his liberty - or
-at all</p>
+<pb/>
 
-<p>Wherefor he prays for a writ of Habeas
-Corpus that the same may be inquired
-<unclear>into</unclear> and he be discharged </p>
+C.H. Seeley 1 " " " " "                         7 00
+J H Robinson 1 " " " " "                       7 00
+L P Mulkey 1 " " " " "                            7 00
+Josiah Butrain 1 " " " " "                      7 00
+W E Wilson 1 " " " " "                         7 00
+Dan Rice 1 " " " 2 "                            2 20
+D C Guernesy " " " " "                        2 20
+C R Dorr " " " " "                                 2 20</p>
 
-<p>L. T. Savacool<lb/>
-Petitioner</p>
+<p>Sheriff Hoslers fees
+Boarding prisoner 8 days                     $8 00
+Serving 4 subpoenas and 8 miles                  2.40
+For guarding prisoner 1 day                  3.00</p>
 
+<p>Clerk of Court fees
+Filing and entering Petition                                      60
+Issuing Writ &amp; Return                                         1.60
+Docket and appearances                                       .50
+<unclear>Defts</unclear><unclear>app</unclear>              25
+Issuing 2 subpoenas and filing                             1.20
+<unclear>Issue</unclear><unclear>joined</unclear>              50
+Taking and filing one affidavit                                 .35
+Entering 3 orders                                                   1.50
+Taxing costs                                                             .50
+<unclear></unclear>of this<unclear></unclear> Garfield County               2 20</p>
+                
+<p>I R.F. Sturdevant prosecuting attorney of
+the Counties of Garfield Columbia
+and Assotin do hereby Certify that
+I have examined the foregoing Bill
+of costs and that the same is
+correct</p>
+                
+<p>R.F. Sturdevant
+Prosecuting Attorney</p>
 
-<p>Territory of Washington
-County of Columbia } SS</p>
+<pb/>
 
-<p>L.T. Savacool being
-first duly sworn says he is petitioner and
-applicant above named this the foregoing
-petition or complaint is true as he verily believes.</p>
-<p>L. T. Savacool</p>
-<p>subscribed and sworn to before me this 18 day
-of February 1884</p>
-    
-<p>Geo B. Baker</p>
-    
-<p>Notary Public</p>
+<p>I William G. Langford Judge of the
+First Judicial District of Washington Territory
+and the District Court of Columbia
+County W.T. holding terms at Dayton
+do hereby certify that I have examined
+the foregoing case Bill and find
+the same correct</p>
+                
+<p>W.G. Langford
+Judge &amp;c</p>
 
-
-
-
+<p>Judgment Order</p>
+                
+<p>Filed Feb 23/1886
+JW Jessel
+Clerk</p>
+                
+<p>No 1384</p>
+                
+                
+                
 </div1>
-    
+            
 </body>
 </text>
 </TEI>
+
 

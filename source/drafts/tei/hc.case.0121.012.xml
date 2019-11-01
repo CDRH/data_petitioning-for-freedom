@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. Jacob Schuman. Recognizance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. Jacob Schuman. Recognizance</title>
+<date when="1886-07-27">July 27, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,15 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-07">July 1886</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Hanis, L.E.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -95,34 +95,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Schuman, Jacob</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Dorr, J.C.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -136,6 +136,36 @@
 <pb facs="hc.case.0121.012"/> <!-- insert number from spreadhseet -->
                 
  <p>In Justice's Court,
+Before J.C. Dorr,
+Justice of the Peace</p>
+
+<p>An order having been made on
+this 27th day of July 1886 by J.C.
+Dorr a Justice of the Peace in and
+for Columbia County W.T., that Jacob
+Schuman, who was brought before said
+justice on a charge of selling malt
+liquor without license, be admitted
+to bail in the sum of Five Hundred
+dollars for his appearance before said
+justice to be examined upon said
+charge on 29th day of July 1886
+at 10 o'clock A.M. of said day
+I L.E. Hanis a resident of
+Columbia County, hereby undertake that
+the above named Jacob Schuman will
+appear before said justice at the time
+above named and will hold himself
+amenable to the orders of the Court, or
+if he fail to perform either of these
+conditions, that I will pay to the
+Territory of Washington the sum of
+five hundred dollars
+L.E. Hanis</p>
+
+<p>J.C. Dorr</p>
+
+<p>In Justice's Court,
 Before J.C. Dorr,
 Justice of the Peace</p>
 
