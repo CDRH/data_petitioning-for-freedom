@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. Jacob Schuman. Recognizance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. Jacob Schuman. Recognizance</title>
+<date when="1886-08-16">August 16, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,15 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1886-08">August 1886</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Crossler, Geo V.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -95,34 +95,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>Schuman, Jacob</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Dorr, J.C.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -161,11 +161,11 @@ County of Columbia } SS</p>
 
 <p>In Justice Court, before J.C. Dorr Justice of the Peace.</p>
 
-<p>KNOW ALL MEN BY THESE PRESENTS, That I, G.V. Crosslir
+<p>KNOW ALL MEN BY THESE PRESENTS, That I, Geo V. Crossler
 acknowledge myself firmly held and bound unto the Territory of Washington in the sum of one
 hundred Dollars for which payment well and turly to be made,
 I bind myself, my executors and administrators, if default shall be made in the condition following:
-The condition of this Recognizance is such, that if the said G.V. Crosslir
+The condition of this Recognizance is such, that if the said Geo V. Crossler
 shall personally appear at the next term of the District Court to be held in and for said county,
 then and there to give evidence on the part of hte Territory against Jacob Schuman
 charged with the offense of selling Lager beer in
@@ -179,7 +179,7 @@ of August A.D. 1886, in presence of
 J.C. Dorr
 Justice of the Peace.</p>
 
-<p>Geo V. Cussler</p>
+<p>Geo V. Crossler</p>
 
 
 <fw type="footer"> &amp;</fw>

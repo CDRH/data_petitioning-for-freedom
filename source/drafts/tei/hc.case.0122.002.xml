@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. S.M. McFarland. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. S.M. McFarland. Subpoena</title>
+<date when="1888-05-09">May 9, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,7 +79,7 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1888-05">May 1888</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
@@ -121,8 +121,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -136,18 +136,68 @@
 <pb facs="hc.case.0122.002"/> <!-- insert number from spreadhseet -->
                 
                 
-<p>In Dis. Court</p>
+<p>Exhibit "A"</p>
 
-<p>In the matter of
-application of SM
-McFarland for Writ
-of Habeas Corpus</p>
+<p>In Justice Court of Columbia County Washington Territory
+before W H Kuhn Justice of the Peace</p>
 
-<p>Petition and Complaint
-N 1570</p>
+<p>The Territory of Washington
+vs
+S.M. McFarland</p>
+
+<p>To the Sheriff or any constable and the keeper
+of the County jail Aflaro County</p>
+
+<p>Whereas of a Justice Court held at my office
+in said County for the examination of S.M Mc-
+Farland the above named defendant upon the
+written complaint under oath of M Cross charging
+that the said defendant SM McFarland on the 24th
+day of April 1888 within Columbia County aforesaid
+unlawfully did remove from the County of Columbia
+in said Territory certain personal property towit
+One brown mule about seven years old One brown mule
+about seven years old One set of team harness and
+one 3 1/2 inch Stud Skein Bain Wagon which said
+personal property the said SM McFarland had
+therefore towit On May 15th 1886 duly mortgaged
+by certain chattel mortgage bearing date on that
+day to M Cross to secure the payment by a certain
+promissory note therein set forth which said
+personal property was at the date of said mortgage
+situate in Columbia County aforesaid and that
+said property was so removed as aforesaid
+without the said mortgage being duly released
+and without the consent in writing or otherwise
+of said mortgage M Cross and after hearing
+the <unclear></unclear> adduced had the arguments
+of counsel <unclear></unclear> hears to the satisfaction of
+the Court that an offense against the Laws
+of said Territory has been committed and that
+there is probable cause for charging the
+defendant with said offense and whereas the
+said SM McFarland has failed to give bail
+in the sum of Three hundred dollars for
+his appearance to answer at the next term of
+the District Court for <unclear></unclear> County as required
+by me</p>
+
+<p>Therefore in the name of the United States
+you the said Sheriff or said Constable are commanded
+forth with to convey and deliver the said
+SM McFarland to the said keeper and you
+the said keeper are commanded to receive <del>the</del>
+him the said SM McFarland into your custody
+in said jail and him there safely keep until
+here discharged by due course of law</p>
+
+<p>Given under my hand May 9th 1888</p>
+
+<p>W H Kuhn
+Justice of the Peace</p>
 
 <p>Filed
-May 9 1888
+May 12 1888
 JW Jessel Clerk
 By U.J. Ellis Deputy</p>
 
@@ -161,6 +211,7 @@ By U.J. Ellis Deputy</p>
 </body>
 </text>
 </TEI>
+
 
 
 
