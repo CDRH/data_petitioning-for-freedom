@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.005"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.001"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Choey et al v. Hamilton. Petitioner Attorney Oath</title> 
+<title>Tait v. . Summons from Judge</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0238.005</idno> 
+<idno type="project">oscys.case.0239.001</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Choey et al v. Hamilton. Petitioner Attorney Oath</title>
-<date/>
+<title level="m" type="main">Tait v. . Summons from Judge</title>
+<date when="1889-08-01">August 1, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,11 +82,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crockett, John S.</term>
+<term>Burt, J.B.</term>
+<term>Case, C.S.</term>
+<term>Price, J.H.</term>
+<term>Tait, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce County</term>
+<term>United States</term>
 <term>Washington Territory</term>
 </keywords>
 
@@ -95,38 +98,20 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Choey, Num</persName>
-<persName>Big, Wong</persName>
-<persName>Chun, Al</persName>
-<persName>Ding</persName>
-<persName>Gong</persName>
-<persName>Jon, Ah</persName>
-<persName>Juin, Ah</persName>
-<persName>Kim, Wa</persName>
-<persName>Kin</persName>
-<persName>Kong</persName>
-<persName>Ling, Chung</persName>
-<persName>Ling, Hong</persName>
-<persName>Pim Lee</persName>
-<persName>Ring</persName>
-<persName>Sour, Ah</persName>
-<persName>Su, Guan</persName>
-<persName>Wie, Song</persName>
-<persName>You, Jon-Ah</persName>
+<persName>Tait, Albert</persName>
 </person>
 <person role="defendant">
-<persName>Hamilton, T.J.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Crockett, John S.</persName>
-<persName>Newton, W.W.</persName>
-<persName>Smittin</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Burt, J.B.</persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
@@ -151,17 +136,27 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0238.005"/>
+<pb facs="hc.case.0239.001"/>
 
-<p>2307</p>
+<p>(Copy)</p>
+<p>2905</p>
 
-<p>Washington Territory
-Pierce County- } ss</p>
-<p>John S. Crockett being first duly sworn on oath says that he is the Petitioner <unclear>wound</unclear> within that he has used the forgoing petition runs the content thereof &amp; that the same are him.</p>
+<p>Territory of Washington
+County of Pierce } ss</p>
 
-<p>Subscribed &amp; sworn to
-before me this   day of
-June 1888</p>
+<p>On Justice Circuit Tacoma Precinct Pierce County Washington Territory,</p>
+<p>J.B. Burt. J. P.
+To the Sheriff and keeper of the jail of said count, </p>
+<p>Whereas, Albert Tait has been ordered by this court to recognize with sufficient <unclear>sureness</unclear> to secure his appearance at the District Court for the 2nd Judicial District of Washington Territory at its next session, for the purpose of testifying in the case of the Territory of Washington vs. C.S. Case, and whereas said Albert Tait has refused to so recognize, therefore in the name of the United States, you are commanded to receive into said Jail &amp; safely keep the said Albert Tait until he shall comply with the said order or be otherwise discharged according to law.</p>
+<p>Given under my hand August 1st 1889</p>
+<p>J.B. Burt
+Justice of the Peace
+--------------------</p>
+
+<p>Thereby certify the foregoing to be a true and <unclear></unclear> of the original commitment received by me Aug. 1st 1889 and now in my hands.</p>
+<p>J.G. Price
+Sheriff of 
+Pierce Co. Wash. Terr.</p>
 
 </div1>
     

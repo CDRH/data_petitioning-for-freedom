@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.007"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0238.008"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Choey et al v. The State. Memo from the Marshal</title> 
+<title>Choey et al v. Hamilton. Memo from the Marshal</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0238.007</idno> 
+<idno type="project">oscys.case.0238.008</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Choey et. al v. The State. Memo from the Marshal</title>
-<date when="1888-07-07">July 7, 1888</date>
+<title level="m" type="main">Choey et. al v. Hamilton. Memo from the Marshal</title>
+<date when="1888-07-11">July 11, 1888</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -85,7 +85,8 @@
 <term>Choey, Num</term>
 <term>Crockett, John S.</term>
 <term>Hamilton, T.J.</term>
-<term>Nurtin, W.W.</term>
+<term>Newton, W.W.</term>
+<term>Smittin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -121,6 +122,8 @@
 </person>
 <person role="attorney_petitioner">
 <persName>Crockett, John S.</persName>
+<persName>Newton, W.W.</persName>
+<persName>Smittin</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -151,26 +154,26 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0238.007"/>
+<pb facs="hc.case.0238.008"/>
 
 <p>2307</p>
 
 <p>In the matter of
 Application of Num Choey
 for Writ of Habeas Corpus</p>
-<p>John S. Crockett atty for Petitioner being <unclear></unclear>duly sworn <unclear></unclear> &amp; Dory, That upon <unclear></unclear> of the <unclear></unclear> in this case he is <unclear></unclear> to find any return of the US Marshal to an order heretofore made by the court, in this case, and therefore <unclear></unclear> the Court that the Clerk of this Court be required to produce said return</p>
+<p>John S. Crockett atty for Petitioner being first duly sworn <unclear></unclear> &amp; Dory, That upon <unclear></unclear> of the <unclear></unclear> in this case he is <unclear></unclear> to find any return of the US Marshal to an order heretofore made by the court, in this case, and therefore <unclear></unclear> the Court that the Clerk of this Court be required to produce said return</p>
 <p>Jno S. Cockett</p>
 
 <p>Subscribed &amp; sworn to
 before me this 11th day
 of July 1888
-W.W. Nurtin
-MLary Prlles</p>
+W.W. Newtin
+<unclear></unclear> <unclear>Smittin</unclear></p>
 
 <p>Num Choey
 application for
 Habeas Corpus
-<unclear>applicaiton</unclear> &amp;
+<unclear>application</unclear> &amp;
 <unclear></unclear></p>
 
 <p>FILED
