@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.004"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tait v. . Command of Writ of Habeas Corpus</title> 
+<title>Tait v. . Petition for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0239.002</idno> 
+<idno type="project">oscys.case.0239.004</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Tait v. . Command of Writ of Habeas Corpus</title>
-<date when="1889-08-15">August 15, 1889</date>
+<title level="m" type="main">Tait v. . Petition for Writ of Habeas Corpus</title>
+<date when="1889-08-06">August 6, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,16 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allyn, Frank</term>
-<term>Meyer, A. Reeus</term>
 <term>Price, James H.</term>
 <term>Tait, Albert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce County, Washington</term>
-<term>Tacoma, Washington</term>
-<term>Washington Territory</term>
+<term/>
 </keywords>
 
 </textClass>
@@ -138,27 +134,10 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0239.002"/>
+<pb facs="hc.case.0239.004"/>
 
-<p>2905</p>
-<p>No ___</p>
-<p>Territory of Washington )
-                           ) ss
-County of Pierce           )</p>
-
-<p>In the District Court of the Second Judicial District of Washington Territory, holding terms at Tacoma in and for the County of Pierce.</p>
-<p>In the Matter of the Application of Albert Tait for a Writ of Habeas Corpus.</p>
-
-<p>To
-
-James H. Price Sheriff of Pierce County Washington Territory.    Greeting</p>
-<p>We command you, that you have the body of Albert Tait by you imprisoned and detained, as it averred, together with the time and cause of such imprisonment and detention, by whatsoever name said Albert Tait shall be called or charged before Hon. Frank Allyn Judge of the District Court of the Second Judicial District of Washington Territory, holding terms at Tacoma, at the Court room of said District court, on the 16th day of August, 1889 at ten o'clock in the forenoon of that day, to do and receive what shall be then and there considered concerning the said Albert Tait.</p>
-<p>And have you then and there this writ.</p>
-<p>Witness, Hon. Frank Allyn Judge of hte said District Court this 15th Day of August 1889.</p>
-<p>Attest my hand and the seal of said Court, the day and year last above written.</p>
-<!-- signature -->
-<p>A Reeus Meyer
-Clerk.</p>
+<p>That said Albert Tait was lawfully imprisoned for a refusal to give sureties for his appearances in the upper Court. But after due deliberation said Tait is anxious and willing to give he security for his appearances as required by law and that through his attorneys <unclear>Wastarton</unclear> and Emerson <unclear>dilligert</unclear> and <unclear></unclear> effort has term made to obtain said sureties but that said securities cannot be obtained.</p>
+<p>Wherefore you petitioner prays that a writ of Habeas Corpus may be granted directed to the said Sheriff Price <unclear>can</unclear> <unclear>Manding</unclear> him to have the body of Albert Tait before your hours at a time and place therein to be specified, to do and receive what shall then an there be considered by you hours <unclear>e</unclear> him, and that his recognigner, or his deposition and recogngacer taken</p>
 
 </div1>
     
