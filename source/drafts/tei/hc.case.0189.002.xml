@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.002"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Stipulation</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Stipulation</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.002</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0189.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,9 +44,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Stipulation</title><!-- replace with name of case; type of document -->
-<date when="1919-01-24">January 24, 1919</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Stipulation</title>
+<date when="1919-01-24">January 24, 1919</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,16 +77,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1919-01">January 1919</date></term><!-- insert date of court term -->
+<term><date when="1919-01">January 1919</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ralph S. Pierce</term><!-- insert names of other people mentioned in document -->
-<term>Geo. T. Vanderveer</term>
+<term>Koenig</term>
+<term>Harsberger, F. M.</term>
+<term>Leitch, S. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term></term> 
 </keywords>
 
 </textClass>
@@ -94,35 +95,38 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Jackson, Charles</persName><!-- insert name of petitioner, if a person -->
+<persName>Jackson, Charles</persName>
 </person>
 <person role="defendant">
-<persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
+<persName>White, Henry M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Saunders, Robert C.</persName><!-- insert name of attorney, if known -->
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> <!-- insert court name -->
-<placeName>Western District of Washington</placeName> <!-- insert court location -->
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<revisionDesc>
+<change when="2019" who="#lkw">reviewed.</change>           
+<change when="2019-09" who="#sjs">transcribed and encoded.</change> 
+
 </revisionDesc>
 
 </teiHeader>
@@ -133,15 +137,40 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.002"/> <!-- insert number from spreadhseet -->
+<pb/>
+
+<ab>No. 4356</ab>
+<p>In the District Court of the United States for the Western District of Washington. Northern Division.</p>
+
+<p>In the Matter of the Application of
+Chas. Jackson, for a Writ of Habeas Corpus.</p>
+
+<p>Stipulation</p>
+
+<ab>Tx</ab>
+
+<ab>Filed in the United States District Court Western District of Washington Northern Division</ab>
+<ab>Jan 24 1919</ab>
+
+<ab>F. M. Harshberger, Clerk<lb/>
+By S. E. Leitch, Deputy</ab>
+
+<pb facs="hc.case.0189.002"/> 
 
 <p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
 <p>No. 4356 Stipulation</p>
 <p> IT IS STIPULATED AND AGREED by and between Ralph S. Pierce and Geo. T. Vanderveer, attorneys for the above named applicant, and United States Attorney Robert C. Saunders, attorney for respondent Henry M. White, that the exhibit attached to respondent's return herein, being the record of proceedings before the Immigration authorities, and the testimony adduced in said proceedings with relation to the deportation of said applicant, may be withdraw from the records and files of this court.</p>
 <p> Dated this 24 day of January, A. D. 1919.</p>
 
-
-<fw type="footer"> &amp;</fw>
+<closer>
+<signed>Ralph S. Pierce<lb/>
+Attorney for Petitioner<lb/>
+Robt. C. Saunders<lb/>
+United States Attorney<lb/>
+<unclear>Charlotte</unclear> Koenig<lb/>
+Assistant United States Attorney
+</signed>
+</closer>
 
 
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.007"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.007"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White. Appearance</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Appearance</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.007</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.007</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title><!-- replace with name of case; type of document -->
-<date when="1918-11-14">November 14, 1918</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Appearance</title>
+<date when="1918-11-14">November 14, 1918</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1918-11">November 1918</date></term><!-- insert date of court term -->
+<term><date when="1918-11">November 1918</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term></term> 
 </keywords>
 
 </textClass>
@@ -95,35 +95,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Jackson, Charles</persName><!-- insert name of petitioner, if a person -->
+<persName>Jackson, Charles</persName>
 </person>
 <person role="defendant">
-<persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
+<persName>White, Henry M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Saunders, Robert C.</persName><!-- insert name of attorney, if known -->
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> <!-- insert court name -->
-<placeName>Western District of Washington</placeName> <!-- insert court location -->
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#lkw">reviewed.</change>  
+<change when="2019-09" who="#sjs">transcribed and encoded.</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -134,14 +136,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.007"/> <!-- insert number from spreadhseet -->
+<pb/>
 
-<p>In the Matter of the application of job Charles Jackson of a writ of habeas corpus </p>
+<p>No. United States District Court Western District of Washington</p>
+<p>vs.</p>
+<p>Appearance</p>
+<p>Filed in the United States District Court Western District of Washington Northern Division Nov 14 1918 F. M. Harshberger, Clerk By S. W. Leitch, Deputy</p>
+
+<pb facs="hc.case.0189.007"/> 
+
+<p>United States District Court for the Western District of Washington</p>
+<p>In the Matter of the application of <del>Joh</del> Charles Jackson for a writ of habeas corpus </p>
 <p>No. 4356 Appearance</p>
 <p>In the Clerk of the above Entitled Court:</p>
-<p>You will please enter our appearance as attorney for Charles Jackson in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said Charles Jackson by leaving the same with George F Vanderveer Ralph D Pierce.</p>
-
-<fw type="footer"> &amp;</fw>
+<p>You will please enter our appearance as attorneys for Chas Jackson in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said Charles Jackson by leaving the same with George F Vanderveer Ralph D Pierce. Office Address 607 Central Bldg Seattle.</p>
+<p>NOTICE&#8212;Attorneys will please endorse their own Filings, Rule 11</p>
 
 
 
