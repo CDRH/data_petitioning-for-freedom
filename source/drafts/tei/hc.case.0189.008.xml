@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.008"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0189.008"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Jackson v. Henry M. White.</title> <!-- replace with name of case; type of document -->
+<title>Charles Jackson v. Henry M. White. Application for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0189.008</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0189.008</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Jackson v. Henry M. White.</title><!-- replace with name of case; type of document -->
-<date when="1918-12-02">December 2, 1918</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Charles Jackson v. Henry M. White. Application for Writ of Habeas Corpus</title>
+<date when="1918-12-02">December 2, 1918</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,17 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1918-12">December 1918</date></term><!-- insert date of court term -->
+<term><date when="1918-12">December 1918</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Robert C. Saunders</term><!-- insert names of other people mentioned in document -->
-<term>Ben L. Moore</term>
-<term>H.D. Folsom, Jr.</term>
+<term>Moore, Ben L.</term>
+<term>Folsom, H. D.</term>
+<term>Caminetti</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Denmark</term> <!-- insert places mentioned -->
+<term>Denmark</term> 
 <term>Mount Vernon</term>
 <term>Canada</term>
 <term>British Columbia</term>
@@ -100,35 +100,38 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Jackson, Charles</persName><!-- insert name of petitioner, if a person -->
+<persName>Jackson, Charles</persName>
 </person>
 <person role="defendant">
-<persName>White, Henry M.</persName><!-- insert name of defendant, if a person -->
+<persName>White, Henry M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Saunders, Robert C.</persName><!-- insert name of attorney, if known -->
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName><!-- insert name of judge, if known -->
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> <!-- insert court name -->
-<placeName>Western District of Washington</placeName> <!-- insert court location -->
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019-09" who="#sjs">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#lkw"> reviewed.</change>  
+<change when="2019-09" who="#sjs">transcribed and encoded.</change> 
+
 </revisionDesc>
 
 </teiHeader>
@@ -139,25 +142,36 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0189.008"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0189.008"/> 
 
-<p>In the Matter of the Application of CHAS. JACKSON for a Writ of Habeas Corpus.</p>
+<p>United States District Court Western District of Washington Northern Division</p>
+
+<p>In the Matter of the Application of CHARLES JACKSON for a Writ of Habeas Corpus.</p>
 <p>No. 4356 December 2nd, 1918.</p>
-<p>Robert C. Saunders, U.S. District Attorney, Ben L. Moore, Ass't " " " H.D. Folsom, Jr., Special Attorney for Dept. of Justice. --- For Government.</p>
-<p>George F. Vanderveer, Ralph D. Pierce, --- For Petitioner.</p>
+<p>Robert C. Saunders, U.S. District Attorney, Ben L. Moore, Ass't " " " H.D. Folsom, Jr., Special Attorney for Dept. of Justice. } For Government.</p>
+<p>George F. Vanderveer, Ralph D. Pierce, } For Petitioner.</p>
 <p>NETERER, District Judge.</p>
-<p> The petitioner, a subject of Denmark, surreptitiously entered the United States in June, 1917, a sailor from the Barge "HENRY VILLARD." He was arrested in January 1918, on a warrant of the Secretary of Labor-charging--</p>
-<p> "That he had been found advocationg or teaching the unlawful destruction of property and that he was a person likely to become a public charge at the time of his entry in the United States."</p>
+<p>The petitioner, a subject of Denmark, surreptitiously entered the United States in June, 1917, a sailor from the Barge "HENRY VILLARD." He was arrested in January, 1918, on a warrant of the Secretary of Labor-charging--</p>
+<p>"That he had been found advocating or teaching the unlawful destruction of property and that he was a person likely to become a public charge at the time of his entry in the United States."</p>
 <p>>He was granted a hearing in January, and a further hearing in June following. In September, Commissioner Caminetti, in a memorandum decision stated:</p>
-<p> "The evidence shows that this man was excluded at Mount Vernon, after a hearing by a Board of Special Inquiry on June 15, 1918, on the ground that he was suffering from a loathsome contagious disease; that he was a person likely to become a public chage; and that he was then affiliated with an organization which advocated or taught the unlawful destruction of property. The evidence shows that he has been a member of the I.W.W. since July last year and has contributed to the various defense funds. He says that he is through with the I.W.W. organization, and evidently believes that it is the cause of much of his present trouble. He denied his belief in sabotage and in the principles and ideas set fourth in the various official books of the organization. The alien resided in Canada for several years, but made no effort to become a citizen there. The record shows that he was a member of this organization at the time of his entry into the country."</p>
+<p>"The evidence shows that this man was excluded at Mount Vernon, after a hearing by a Board of Special Inquiry on June 15, 1918, on the ground that he was suffering from a loathsome contagious disease; that he was a person likely to become a public chage; and that he was then affiliated with an organization which advocated or taught the unlawful destruction of property. The evidence shows that he has been a member of the I.W.W. since July last year and has contributed to the various defense funds. He says that he is through with the I.W.W. organization, and evidently believes that it is the cause of much of his present trouble. He denied his belief in sabotage and in the principles and ideas set fourth in the various official books of the organization. The alien resided in Canada for 
+
+<fw>--1--</fw>
+<pb/>
+
+several years, but made no effort to become a citizen there. The record shows that he was a member of this organization at the time of his entry into the country."</p>
 <p>"As he was afflicted with gonorrhoea at the time of entry, and without funds and a floating laborer, the Bureau recommends that warrant issue directing his DEPORTATION to Denmark at Government expense, when possible, on the ground that he was a person likely to become a public charge at the time of his entry into the United States ***."</p>
 <p>This memorandum decision was approved by the Acting Secretary of Labor. On October 2nd, a warrant of deportation was issued, stating that the petitioner was found in the United States in violation of the Immigration Act of February 5, 1917 --</p>
-<p> "That he was a person likely to become a public charge at the time of his entry into the United States."</p>
-<p> The petitioner claims that he is unlawfully restrained; that there is no evidence to support the order of deportation; that he has been denied a fair hearing; and that the order is void. In his testimony he states that he came to this country for the purpose of being treated for venereal disease. At the time of the examination seven months after his entry, he said:</p>
-<p> "I am not diseased now; I am supposed to be cured now."</p>
-<p>He also stated that he, at the time of the hearing, had $100 in the Puget Sound Hotel. He had a book on the Bank of Montreal, Vancouver Branch, showing a balance September 27, 1917, of $777.80. Also a bank book on the Scandinavian Amerian Bank in the name of Charles Peterson, showing a balance September 15, 1917, of $265. He says that he changed his name from Jackson to Peterson for the purpose of securing a job in the mines.</p>
+<p>"That he was a person likely to become a public charge at the time of his entry into the United States."</p>
+<p>The petitioner claims that he is unlawfully restrained; that there is no evidence to support the order of deportation; that he has been denied a fair hearing; and that the order is void. In his testimony he states that he came to this country for the purpose of being treated for venereal disease. At the time of the examination seven months after his entry, he said:</p>
+
+<p>"I am not diseased now; I am supposed to be cured now." He also stated that he, at the time of the hearing, had $100 in the Puget Sound Hotel. He had a book on the Bank of Montreal, Vancouver Branch, showing a balance September 27, 1917, of $777.80. Also a bank book on the Scandinavian Amerian Bank in the name of Charles Peterson, showing a balance September 15, 1917, of $265. He says that he changed his name from Jackson to Peterson for the purpose of securing a job in the mines.</p>
 <p> There is no evidence in the record as to what, if any money the petitioner had at the time of his entry into the United States. In his petition. sworn to on the 14th day of November, 1918, he states under oath, in support of a request that an order be entered directing the Commissioner of Labor to present with his return the original testimony taken at the petitioner's hearing upon which the deportation order is predicated. That he is unable <add>***</add> by reason of his poverty, to pay for the preparation of such a copy**".</p>
-<p>The testimony was very short. In his examination in June, the petitioner stated:</p>
+<p><catchwords>The</catchwords>
+
+<pb/>
+
+ testimony was very short. In his examination in June, the petitioner stated:</p>
 <p>"Q. Now you say you left the boat here for treatment?</p>
 <p>A. yes.</p>
 <p>Q. What was the nature of your troubles, what was wrong with you?</p>
@@ -178,14 +192,20 @@
 <p>A. Yes."</p>
 <p> The petitioner also had in his possession extracts from literature published by Industrial Workers of the World; "The I.W.W. --- Its History, Structure and Methods" by Vincent St. John; "The New Unionism" by Andre Tridon; "Sabotage" by Emile Pouget; "Sabotage, Its History, Philosophy and Function" by Walker C. Smith; I.W.W songs "To Fan the Flames of Discontent. Joe Hill Memorial Edition;" "Should I Ever Be a Sodier, "Christians At War", "Casey Jones - The Union Scab", "Workers of the World, Awaken!" "The Internationale" by Eugene Pottier; and a number of other publications and extracts.</p>
 <p> The issue presented before the court is whether the petitioner was accorded a fair trial. The authority of the immigration officers and the jurisdiction of the courts are powers conferred by Congress. This court in Ex Parte Moola Singh, 207 Fed. 780, at 782, said:</p>
-<p> "The authority of the Immigration Officers and the jurisdiction of the courts depends upon power conferred by Congress. It is a matter of legislation. No discretion is vested in the courts. Congress has the right to legislate upon the subject, prescribe rules, fix limits, confer authority where it deems wise in legislating upon the subject at hand. The supreme authority is conferred upon the Immigration officers. The jurisdiction of the courts is limited to ascertaining whether petitioners were denied a hearing."</p>
-<p> The contention of the petitioner that the court may review the evidence to determine whether the conclusion of the Commissioner is justified, citing Gegiow v. Uhl, 239 U.S., page 3, is hot sustained. The Supreme Court in this case held that the decision of the Immigration Officers under Section 25 of the Immigration Act is conclusive of questions of fact.</p>
-<p> The ground for deportation, given in the order, is very comprehensive. There are several angles from which the contention that he is "likely to become a public charge" can be approached. The Inspectors had the petitioner before them, heard his testimony, obsesrved his physical appearance, and in view of his testimony with relation to his affliction at the time of his entry, as well as his relation to the acts denounced by Section 19 of the Act of Feb. 5, 1917 (U.S.Comp.Stat.4289-1/4-JJ). Judge LaCombe in United States ex rel Buccino, et al. v. Williams, Commissioner, 190 Fed. 897, said --</p>
-<p> "Ever since the decision of the Supreme Court in Nishimura Ekiu v. United States, 142 U.S.651 (12 Sup.Ct.336, 35 L.Ed.1146), it has so far as I know, been held in this circuit that if he board of Inspectors had the alien before them so that they might themselves inspect and examine him, thre was sufficient before them to warrant his exclusion on the ground that he was liable to become a public charge, if, in their discretion, they reached such a conclusion. Nothing which has been presented in this argument persuades me to reverse this holding."</p>
+
+<pb/>
+
+<p>"The authority of the Immigration Officers and the jurisdiction of the courts depends upon power conferred by Congress. It is a matter of legislation. No discretion is vested in the courts. Congress has the right to legislate upon the subject, prescribe rules, fix limits, confer authority where it deems wise in legislating upon the subject at hand. The supreme authority is conferred upon the Immigration officers. The jurisdiction of the courts is limited to ascertaining whether petitioners were denied a hearing."</p>
+<p>The contention of the petitioner that the court may review the evidence to determine whether the conclusion of the Commissioner is justified, citing Gegiow v. Uhl, 239 U.S., page 3, is not sustained. The Supreme Court in this case held that the decision of the Immigration Officers under Section 25 of the Immigration Act is conclusive of questions of fact.</p>
+<p>The ground for deportation, given in the order, is very comprehensive. There are several angles from which the contention that he is "likely to become a public charge" can be approached. The Inspectors had the petitioner before them, heard his testimony, observed his physical appearance, and in view of his testimony with relation to his affliction at the time of his entry, as well as his relation to the acts denounced by Section 19 of the Act of Feb. 5, 1917 (U.S.Comp.Stat.4289-1/4-JJ). Judge LaCombe in United States ex rel Buccino, et al. v. Williams, Commissioner, 190 Fed. 897, said --</p>
+<p>"Ever since the decision of the Supreme Court in Nishimura Ekiu v. United States, 142 U.S.651 (12 Sup.Ct.336, 35 L.Ed.1146), it has so far as I know, been held in this circuit that if the board of Inspectors had the alien before them so that they might themselves inspect and examine him, there was sufficient before them to warrant his exclusion on the ground that he was liable to become a public charge, if, in their discretion, they reached such a conclusion. Nothing which has been presented in this argument persuades me to reverse this holding."</p>
 <p>This is quoted not for the purpose of endorsing it, but to show the length the courts have gone on such an issue. The court cannot, in view of the testimony in the record, say that the petitioner was not accorded a fair hearing. The writ is denied.</p>
 <p>207 Fed. 780. 175 Fed. 274. 191 Fed. 970. 187 Fed. 471.</p>
 <p>225 Fed. 90. 195 Fed.705. 184 Fed.566 202 Fed. 66.</p>
-<fw type="footer"> &amp;</fw>
+<closer>
+<signed>Jeremiah Neterer<lb/>
+Judge.</signed>
+</closer>
 
 
 
