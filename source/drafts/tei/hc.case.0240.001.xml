@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.005"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.001"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tait v. Price. Petition for Writ of Habeas Corpus</title> 
+<title>Dougherty v. . </title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0239.005</idno> 
+<idno type="project">oscys.case.0240.001</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Tait v. Price. Petition for Writ of Habeas Corpus</title>
-<date when="1889-08-06">August 6, 1889</date>
+<title level="m" type="main">Dougherty</title>
+<date when="1874-08-01">August 1, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -78,18 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06"></date>June 1888</term>
+<term><date when="1874-06"></date>1874</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Kennedy, J.W.</term>
-<term>Price, James H.</term>
-<term>Tait, Albert</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce County, Washington</term>
-<term>Tacoma, Washington</term>
+<term>United States</term>
 <term>Washington Territory</term>
 </keywords>
 
@@ -98,21 +95,19 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Tait, Albert</persName>
+<persName>Dougherty, John</persName>
 </person>
 <person role="defendant">
-<persName>Price, James H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Emerson</persName>
-<persName>Wastarton</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Burt, J.B.</persName>
-<persName>Allyn, Frank</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -137,21 +132,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0239.005"/>
+<pb facs="hc.case.0240.001"/>
 
-<p>2905</p>
-
-<p>that he will appear in the upper court together with the time and court of his detention, and said writ; and that he may be <unclear>seated</unclear> to his liberty</p>
-<p>Dated this sixth day of August, Wasterston &amp; Emerson
-Attorneys for Tait</p>
-
+<p>35</p>
 <p>Territory of Washington
-County of Pierce } ss.</p>
-<p><unclear>D</unclear> Wastarton being first duly sworn on his oath drfores and days; that he is one of the attorneys for the above mentioned Tait; that he has read the foregoing complaint that he knows the contsructs of his own knowledge and that the same are <unclear>bur</unclear></p>
-<p>Subscribd and sowrn to before me this sixth day of Aug } <unclear></unclear> Wastarton.</p>
-
-<p>J.W. Kennedy
-<unclear></unclear> <unclear></unclear></p>
+County of Pierce } ss</p>
+<p>In the Matter of the
+{Application of John
+Dougherty for a Writ of
+Habeas Corpus</p>
+<p>To the Hon. Orange Jacobs Chief Justice of Washington Territory and judges of the 3rd Judicial District.</p>
+<p>The petition of John Dougherty Respectfully shows:</p>
+<p>That he is unlawfully imprisoned, detained, confined and restrained of his liberty by <unclear>U.</unclear>W.C. Dearison Sheriff of Pierce County at <unclear>Stistareium</unclear> in the jail of said county of Pierce in Washington Territory</p>
+<p>The cause as pretense of the <unclear>restaavnt</unclear> according to the <unclear>cust</unclear> of the knowledge and belief of your petitioner <unclear>cunstets</unclear> is this.</p>
+<p>That your petitioner filed to pay and satisfy a certain judgment obtained by <unclear>Asuae Ranter</unclear> against your petitioner in Justices Court Tacoma <unclear>Presinet</unclear> Fe. 13 st 1834 for the sum of $86.</p>
+<p>That the said imprisonment detention confinement and restraint are illegal; and the illegality thereof </p>
 
 </div1>
     

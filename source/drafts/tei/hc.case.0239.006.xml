@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.005"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0239.006"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tait v. Price. Petition for Writ of Habeas Corpus</title> 
+<title>Tait v. Price. Attorneys Notified</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0239.005</idno> 
+<idno type="project">oscys.case.0239.006</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Tait v. Price. Petition for Writ of Habeas Corpus</title>
-<date when="1889-08-06">August 6, 1889</date>
+<title level="m" type="main">Tait v. Price. Attorneys Notified</title>
+<date when="1889-08-14">August 14, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,15 +82,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Kennedy, J.W.</term>
-<term>Price, James H.</term>
+<term>Emerson</term>
+<term>Meyer, A. Reeus</term>
 <term>Tait, Albert</term>
+<term>Wastarton</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce County, Washington</term>
 <term>Tacoma, Washington</term>
-<term>Washington Territory</term>
 </keywords>
 
 </textClass>
@@ -137,21 +136,33 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0239.005"/>
+<pb facs="hc.case.0239.006"/>
 
-<p>2905</p>
+<p>Set writ came returnable Aug 16th 89 at <unclear>10</unclear> due at Tacoma a pros atty be notified--</p>
+<p>Atty</p>
 
-<p>that he will appear in the upper court together with the time and court of his detention, and said writ; and that he may be <unclear>seated</unclear> to his liberty</p>
-<p>Dated this sixth day of August, Wasterston &amp; Emerson
-Attorneys for Tait</p>
+<p>Aug 10/89</p>
 
-<p>Territory of Washington
-County of Pierce } ss.</p>
-<p><unclear>D</unclear> Wastarton being first duly sworn on his oath drfores and days; that he is one of the attorneys for the above mentioned Tait; that he has read the foregoing complaint that he knows the contsructs of his own knowledge and that the same are <unclear>bur</unclear></p>
-<p>Subscribd and sowrn to before me this sixth day of Aug } <unclear></unclear> Wastarton.</p>
 
-<p>J.W. Kennedy
-<unclear></unclear> <unclear></unclear></p>
+<p>(2905)</p>
+
+<p>In the matters
+of the <unclear></unclear>
+of Albert Tait</p>
+<p>_______________
+Petition for
+Habeas Corpus
+__________________</p>
+
+
+<p>FILED
+AUG 14 1889
+A. Reeus Meyer Clerk.
+By _________________
+Deputy Clerk,</p>
+
+<p>Wastarton &amp; Emerson
+Attys for Tait</p>
 
 </div1>
     
