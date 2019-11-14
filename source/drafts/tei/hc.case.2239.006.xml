@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2239.005"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2239.006"> 
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.2239.005</idno> 
+<idno type="project">hc.case.2239.006</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">G.M. Savage v. William Billings. Writ</title>
-<date when="1884-03-29">March 29, 1884</date>
+<date when="1884-05-31">May 31, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,14 +79,18 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1884-03">March 1884</date></term>
+<term><date when="1884-05">May 1884</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
 <term>Carmey, Distina Z.</term>
+<term>Harman, C.B.</term>
+<term>Hauman, C.W.</term>
+<term>O'Rion, R.S.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
+<term>Chehalis County, Washington</term>
 <term>Thurston County, Washington</term>
 </keywords>
                 
@@ -101,7 +105,7 @@
 <persName>Billings, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Ballard, D.P.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -133,40 +137,82 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.2239.005"/> 
+<pb facs="hc.case.2239.006"/> 
                 
                 
-<p>Of the Second Judicial District of Washington Territory, holding
-terms at Olympia for the Counties of
-Thurston and Mason</p>
+<p>Territory of Washington
+County of Thurston } ss</p>
+
+<p>D P Ballard being duly sworn
+upon oath says: that about March
+28th 1884 applicant was and now is one
+of the attys for Distina Z. Carmey;
+that about said time said Distina Z.
+Carmey as a <unclear></unclear> in intrust caused
+one G M Savage to be arrested by
+the Probate Judge of Chehalis County
+and by said Probate Judge ordered
+committed to the jail of Thurston
+County; that at said time William
+Billings Sheriff of said Thurston
+County as such Sheriff had
+charge of said Thurston County
+jail; that the Sheriff of Chehalis
+County delivered said G M Savage
+to said Billings as such Sheriff
+and keeper of said jail of said
+Thurston County; that said
+Billings as such keeper was
+entitled to demand and receive
+the sum of one dollar per
+day and no more for receiving
+and keeping said G M Savage
+in said Thurston County jail;
+that said Billings and one
+C B Harman Deputy Sheriff
+Kep. of said Savage in said
+jail for the space of twenty
+four hours and no more;
+and that said Billings
+as such Sheriff and Keeper
+of said jail by said C B
+Harman his deputy did
+demand and receive from
+this applicant as atty for said
+Distina Z. Carmey the sum
+of ten dollars in <unclear></unclear>
+for keeping said Savage in
+said jail for the space of
+said 24 hours; that after
+due demand to <unclear></unclear> the
+<unclear></unclear> said Sheriff refused
+and still refuses to <unclear></unclear>
+the same.</p>
+
+<p>D P Ballard</p>
+
+<p>Subscribed and sworn to
+before me May 31 1884
+C W Hauman
+Notary Public
+Thurston County
+Wash Ty.</p>
+
+<p>No. 2239</p>
+
+<p>District Court at Olympia</p>
 
 <p>G.M. Savage
 Ex parte
+Plaintiff
 vs.
-Habeas Corpus</p>
+Habeas Corpus
+Defendant
+Motion to tax costs</p>
 
-<p>Comes now Distina Z. Carmey
-by her attys and moves the court to
-make an order compelling William
-Billings to return the costs charged
-in said cause as follows
-over charge of $8.00</p>
-
-<p>Because the charge of
-$10 in said cause is an excess
-of $8 of what is allowed by
-case</p>
-
-<p>Ballard and McFadden
-Attys for Distina Z. Carmey</p>
-
-<p>No.</p>
-
-<p>District Court at</p>
-
-<p>Plaintiff
-vs.
-Defendant</p>
+<p>Received and Filed
+Jun 3 1884
+R.S. O'Rion</p>
 
 <p>BALLARD + McFADDEN.
 Attorneys for</p>
@@ -176,5 +222,7 @@ Attorneys for</p>
 </body>
 </text>
 </TEI>
+
+
 
 
