@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. S.M. McFarland. Issuing of Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. S.M. McFarland. Issuing of Writ</title>
+<date when="1888-05-12">May 12, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,16 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1888-05">May 1888</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Marquiss, N.R.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
+<term>Walla Walla County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -95,34 +96,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>McFarland, S.M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Langford, William G.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -164,8 +165,8 @@ M. McFarland shall be called or charged be-
 fore William G. Langford Judge of the
 District Court of Columbia County,
 Washington Territory holding terms at Day
-ton, as the <unclear></unclear> <unclear></unclear>
-Walla Walla, Walla Walla County, Wash-
+ton, as the court rooms
+in Walla Walla, Walla Walla County, Wash-
 ington Territory, forethrough
 said day do and receive which shall there
 and then be considered, concerning the
@@ -185,7 +186,39 @@ your above written</p>
 <p>J.W. Jessel Clerk
 By W.J. Ellis Deputy</p>
 
-                
+<p>In the matter of
+the application for
+Writ of Habeas Cor-
+pus</p>
+
+<p>Writ
+No 1570</p>
+
+<p>Filed
+May 9 1888
+JW Jessel Clerk.
+By W J Ellis Deputy.</p>
+
+<p>Returned and
+filed May 12th
+1888</p>
+
+<p>JW Jessel Clerk
+By W J Ellis Deputy</p>
+
+<p>Territory of Washington
+County of Walla Walla } SS</p>
+
+<p>I NR Marquiss Sheriff of Columbia County Washington Territory
+do hereby certify that in obedience to the within Writ and have
+this 10th day of May 1888 served the same in the within named S.
+M. McFarland in Columbia County Washington Territory
+and now have him before the court together with Statement and by
+<del></del> hold the said SM McFarland</p>
+
+<p>N R Marquiss
+<del></del>County Wash Terr</p>
+     
 <fw type="footer"> &amp;</fw>
                 
                 

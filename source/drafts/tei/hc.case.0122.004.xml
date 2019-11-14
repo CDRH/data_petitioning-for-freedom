@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. S.M. McFarland. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title><!-- replace with name of case; type of document -->
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. S.M. McFarland. Return</title>
+<date when="1888-05-09">May 9, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
                 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
                 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,17 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term><!-- insert date of court term -->
+<term><date when="1888-05">May 1888</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Cross, M.</term>
+<term>Dorr, C.R.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Columbia County, Washington</term>
+<term>Whitman County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -95,34 +97,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Last, First</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName>McFarland, S.M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName><!-- insert name of judge, if known -->
+<persName>Kuhn, W.H.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#ini">transcribed.</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
 </teiHeader>
@@ -162,7 +164,7 @@ County Washington Territory upon the sworn complaint
 of M Cross charging that the said S.M. McFarland
 on the 24th day of April AD 1888 within said County and
 Territory unlawfully did remove from the County of
-Columbia in said Territory into the Countie of Whitman
+Columbia in said Territory into the County of Whitman
 and Lincoln therein certain persoanl property
 towit: One brown mule about seven years old
 One brown mule about seven years old One set of
@@ -197,7 +199,7 @@ answer said charge.</p>
 into such recognizance whereupon the
 said Justice of the Peace committed the said
 SM McFarland into my custody as Sheriff
-and Keeper of the County jail of said County
+and Keeper of the County Jail of said County
 by his commitment in writing duly issued
 a true copy of which is hereunto annexed
 marked Exhibit "A" and made a part of this return</p>
