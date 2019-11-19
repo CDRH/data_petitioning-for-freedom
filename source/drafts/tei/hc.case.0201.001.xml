@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0199.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0201.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rudolph Tschahle v. Henry M. White. Order</title>
+<title>Alex Kisil v. Henry M. White. Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0199.009</idno>
+<idno type="project">hc.case.0201.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Rudolph Tschahle v. Henry M. White. Order</title>
-<date when="1919-01-28">January 28, 1919</date>
+<title level="m" type="main">Alex Kisil v. Henry M. White. Appearance</title>
+<date when="1919-01-15">January 15, 1919</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,7 +86,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -94,7 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Tschale, Rudolph</persName>
+<persName>Kisil, Alex</persName>
 </person>
 <person role="defendant">
 <persName>White, Henry M.</persName>
@@ -111,7 +111,7 @@
 <persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
-
+            
 <listOrg>
 <org>
 <orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
@@ -134,18 +134,16 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.0199.009"/>
+<pb facs="#hc.case.0201.001"/>
 
-<p>No. 4476</p>
+<p>No. 4501</p>
 
-<p>50B-7-239</p>
+<p>50B-7-223</p>
 
-<p>In the District Court of the United States for the Western District of Washington.</p>
-<p>Northern Division</p>
+<p>United States District Court</p>
+<p>Western District of Washington</p>
 
-<p>In the Matter of the Application of Rudolph Tschable, for a Writ of Habeas Corpus.</p>
-
-<p>Order</p>
+<p>Appearance</p>
 
 <p>Tx</p>
 
@@ -153,32 +151,19 @@
 <p>Western District of Washington</p>
 <p>Northern Division</p>
 
-<p>Jan 28 1919</p>
+<p>Jan 15 1919</p>
 
 <p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
 
-<p>By S.E. Lietch Deputy</p>
+<p>No. 4501 Appearance</p>
 
-<p>No. 4476 Order</p>
+<p>In the matter of the application of Alex Kisil for habeas corpus.</p>
 
-<p>In the Matter of the Application of RUDOLPH TSCHABLE, for a Writ of Habeas Corpus.</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please enter my appearance as attorney for Alex Kisil in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said Alex Kisil, by leaving the same with Ralph S Pierce</p>
 
-<p>The above named applicant and petitioner, by his attorneys, having stipulated herein with the respondent through his attorney, for the withdrawal of certain exhibits from the files herein, it is</p>
-<p>THEREFORE, by the Court hereby</p>
-<p>CONSIDERED AND ORDERED, That the respondent Henry M. White, Commissioner of Immigration at Seattle, Washington, be, and he hereby is, permitted and authorized to withdraw from the files and records herein that certain exhibit attached to the return of said respondent herein, said exhibit being a transcript of record of the proceedings and testimony adduced in said proceedings before the Immigration officers of the United States with relation to the deportation of the above named petitioner, and the clerk of the court is hereby ordered and directed to deliver and surrender said exhibit to the said Henry M. White, or his attorney.</p>
-
-<p>Done in open court this 28 day of January, 1919.</p>
-
-<p>Jeremiah Neterer</p>
-<p>United States District Judge.</p>
-
-<p>OK</p>
-<p>Ralph S Pierce</p>
-
-<p>Received exhibit Jan 2d, 1919</p>
-<p>Henry M. White</p>
-<p>by Charlotte Holmes</p>
-<p>Asst U.S. atty.</p>
+<p>Office Address 607 Central Bldg Seattle</p>
 
 </div1>
     
