@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.010"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.014"> 
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.010</idno> 
+<idno type="project">oscys.case.0240.014</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -104,7 +104,7 @@
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ballard</persName>
+<persName>Ballard, </persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -135,19 +135,18 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0240.010"/>
+<pb facs="hc.case.0240.014"/>
 
 <p>35</p>
 
-<p>Writ of Habeas Corpus--</p>
-
-<p>In the United States Dist. Court of the 3d. Judl. Dist. of Washington Territory holding terms at Steilacoon- for Pierce County</p>
-
-<p>To the Sheriff of Pierce County Greeting--</p>
-
-<p>In the name of the United States you are hereby commanded, that ou have the body of John Dougherty, by you imprisoned and detained as it--is said, together with the time and cause of such imprisonment and detention, by whatsoever name said John Dougherty shall be called on charged, before Orange Jacobs, Chief Justice of Wash. Tery. Judge of the 3d. Judl. Dist., at the Courtroom of the District Court of said district in and for Pierce County, on the 10th day of March A.D. 1874. at the home of one O'Clock in the afternoon of that day, to do and recieve what shall then and there be coinsidence concerning the said John Dougherty--</p>
-<p>And have you then and there this and--
-Witness the Hon. O.Jacobs</p>
+<p>In the U.P. Dist. Court of the 3d Judl. Dist. of Wash. Tery. hold my terms for Pierce Co_</p>
+<p>Mar. 10th 1874--</p>
+<p>In the matter of John Dougherty for a Writ of Habeas Corpus--</p>
+<p>S.W.C. Danson
+to Costs  DM</p>
+<p>Clerks fees_         $.
+<unclear></unclear> Writ of Habeas Corpus      1.00
+" </p>
 
 </div1>
     
