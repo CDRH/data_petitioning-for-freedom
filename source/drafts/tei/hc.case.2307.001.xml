@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0612.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2307.001"> 
     
 <teiHeader>
 <fileDesc>
@@ -36,18 +36,17 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0612.002</idno> 
+<idno type="project">hc.case.2307.001</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
             
 <sourceDesc>
 <bibl>
 <title level="m" type="main">William Martz v. J.H. Whitcourt. Writ</title>
-<date when="1876-03-03">March 3, 1876</date>
+<date when="1876-02-18">February 18, 1876</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,13 +78,13 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1876-03">March 1876</date></term>
+<term><date when="1876-02">February 1876</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
 <term>Coughton, Joseph H.</term>
 <term>Holt, H.H.</term>
-<term>Paulding, Hiram W.</term>
+<term>Stevens, H.K.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -98,26 +97,26 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Martz, William C.F.</persName>
+<persName>Hadlan, Herman</persName>
 </person>
 <person role="defendant">
-<persName>Whitcourt, J.H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Bill, O.F.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Wilson, George W.</persName>
+<persName>Keady, W.T.</persName>
 </person>
 </listPerson>
                 
 <listOrg>
 <org>
-<orgName>District Court of Cowlitz County</orgName> 
-<placeName>Kalama, Washington</placeName> 
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
@@ -136,96 +135,73 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0612.002"/> 
+<pb facs="hc.case.2307.001"/> 
                     
-<p>In obedience to the annexed writ
-I herewith being the within named
-W. F.C. Martz before your Honor,
-and <unclear></unclear> that I hold him
-by virtue of a warrant of Com-
-mitment of which the annexed is
-a true copy</p>
+<p>In the Justice Court of Olympia Precinct Thurston
+County Washington Territory before W T Keady
+Esq Justice of the Peace siting as committing
+magistrate of the City of Olympia</p>
+
+<p>The City of Olympia
+vs
+Herman Hadlan</p>
 
 <p>Territory of Washington
-County of Pacific</p>
+County of Thurston } ss</p>
 
-<p>Upon the Sheriff of said
-County, whereas Hiram Wing
-has notified me in writing
-and Hiram W. Paulding personly
-that they will not be responsible
-for the conduct of W.C.F. Martz,
-therefore you are commanded
-to arrest him and keep him
-in custody in said jail and
-there keep him until he be
-discharged by due process of law
-this 11th day of Dec A.D. 1875
-Geo W. Wilson
-Justice of the Peace
-J.H. Whitcourt
-Sheriff of Pacific County</p>
+<p>To the Marshall of the City of Olympia</p>
 
-<p>Olympia March
-2nd 1876</p>
+<p>Whereas, at a Committing magistrate court held
+at my office in said City of Olympia County of
+Thurston and Territory of Washington for the trial of
+Herman Hadlan for the offense hereinafter stated
+the said Herman Hadlan after a plea of N Gwitty
+and <unclear></unclear> of jury trial was convicted of having on the
+2nd day of July AD 1884 in the City of Olympia
+County of Thurston Territory of Washington committed
+the offense of violating City Ordinance Number
+149 together with City Ordinance Number 191
+which is an amendment thereto in selling and
+drinking <unclear></unclear> liquor without first
+obtaining a license so to do as required by
+said Ordinance, in this that said Herman
+Hadlan did on the 2nd day of June 1884 in
+the City of Olympia County and Territory aforesaid
+then and there give sell and dispense of malt liquor
+towit <unclear></unclear> to one C.N. Mausil for a  <unclear></unclear>
+consideration he the said Herman Hadlan
+there and then not having a license as required
+by Ordinances Number 149 and 191 of the City of
+Olympia so to do.</p>
 
-<p>Territory of Washington
-County of Pacific</p>
+<p>And upon convictions the said Court did adjudge
+and determine that the said Herman Hadlaw
+should pay a fine in the sum of five Dollars
+and costs of prosecution total of nine and 90/100 Dollars
+and in default thereof stand committed to the
+CIty jail until said fine and costs were paid or
+he be discharged by due process of law.</p>
 
-<p>For the Sheriff of said County
-whereas Hiram Wing has notified me in
-writing and Hiram W Paulding personly
-that they will not be responsible for
-the conduct of W C F Martz Therefore
-you are commanded to arrest him and
-keep him in custody in said jail
-and there keep him until he be
-discharged by due course of law</p>
+<p>Therefore, for the said Marshall are commanded
+in the name of the United States forthwith to
+carry and deliver the said Herman Hadlan to
+the keeper of said City jail. And you, the said
+keeper are hereby commanded to receive the said
+Herman Hadlan into your custody in said
+jail and herein there safely keep until said trial and
+costs are paid or until he shall cause be
+discharged by due course of law.</p>
 
-<p>This 11 day of Dec AD 1875
-Geo W Wilson
-Justice of the Peace</p>
+<p>Dated this 2nd day of July 1884
+W.T. Keady</p>
 
-<p>I hereby certify the foregoing to be
-a true copy of the assigned which
-was put unto my hand, for <unclear></unclear></p>
-
-<p>J H Whitcourt
-Sheriff of Pacific Co
-WT</p>
-
-<p>Writ of
-Habeas Corpus</p>
-
-<p>In the District Court of the
-Second Judicial District
-of Washington Territory
-holding terms at Kalama
-in the county of Cowlitz W.T.</p>
-
-<p>The clerk will <unclear></unclear>
-an order of discharge
-in <unclear></unclear></p>
-
-<p>2 Mar 76</p>
-
-<p>Filed in the District Court
-this 3rd day of March AD.
-1876</p>
-
-<p>Joseph H. Coughton
-Clerk</p>
-
-<p>By H.H. Holt Deputy</p>
-
-<p>O.F. Bill for
-Atty for Martz</p>
+<p>Committing magistrate of
+the City of Olympia.</p>
               
 </div1>
             
 </body>
 </text>
 </TEI>
-
 
 
