@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2307.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2307.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Herman Hadlan v. William Billings. Writ</title> 
+<title>Herman Hadlan v. Territory of Washington. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.2307.001</idno> 
+<idno type="project">hc.case.2307.002</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Herman Hadlan v. William Billings. Writ</title>
+<title level="m" type="main">Herman Hadlan v. Territory of Washington. Writ</title>
 <date when="1884-07-02">July 2, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -82,11 +82,13 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term>Gwitty, N.L.</term>
-<term>Maurill, C.N.</term>
+<term>Brown, D.M.</term>
+<term>O'Bruin, R.S.</term>
+<term>Shocroft, R.P.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
+<term>Mason County, Washington</term>
 <term>Thurston County, Washington</term>
 </keywords>
                 
@@ -107,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Keady, W.T.</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
                 
@@ -133,68 +135,73 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.2307.001"/> 
+<pb facs="hc.case.2307.002"/> 
                     
-<p>In the Justice Court of Olympia Precinct Thurston
-County Washington Territory before W T Keady
-Esq Justice of the Peace siting as committing
-magistrate of the City of Olympia</p>
+<p>In the District Court holding terms
+at Olympia for Mason and Thurston Counties:</p>
 
-<p>The City of Olympia
-vs
-Herman Hadlan</p>
+<p>In the matter of
+Herman Hadlan for a
+Writ of Habeas Corpus</p>
+
+<p>Upon wording and filing the petition of Herman
+Hadlan, duly signed and verified by him, whereby it
+appears that he is illegally imprisoned and restrained
+of his liberty by D.M. Brown Marshall of the City
+of Olympia County of Thurston Territory of Washington
+and stating wherein the alleged illegality consists: from
+which it appears to me that a writ of Habeas Corpus
+ought to issue. It is ordered that a writ of Habeas
+Corpus issue out of and under the seal of the Dis-
+trict Court of the second Judicial District of Wash-
+ington Territory holding terms at Olympia, directed
+to the said D.M. Brown, Marshall as afore-
+said commanding hereinto for the body of the
+said Herman Hadlan before me in the Court
+room of said Court, at the City of Olympia
+County of Thurston Territory of Washington, on the
+second day of July A.D. 1884 at the hour of three
+o'clock P.M. of said day, to do and receive
+what shall then and there be considered concerning
+the said petitoner Herman Hadlan: together
+with the time and cause of his detention, and that
+you, have then and there the said writ.</p>
+
+<p>Dated July 2nd 1884
+John P. Hoyt
+Judge of said Court</p>
 
 <p>Territory of Washington
 County of Thurston } ss</p>
 
-<p>To the Marshall of the City of Olympia</p>
+<p>I R.S. O'Bruin, clerk of said Court
+hereby certify the foregoing to be a true copy of
+the order in said matter made and centered
+now of word in my office</p>
 
-<p>Whereas, at a Committing magistrate court held
-at my office in said City of Olympia County of
-Thurston and Territory of Washington for the trial of
-Herman Hadlan for the offense hereinafter stated
-the said Herman Hadlan after a plea of N L Gwitty
-and <unclear></unclear> of jury trial was convicted of having on the
-2nd day of July AD 1884 in the City of Olympia
-County of Thurston Territory of Washington committed
-the offense of violating City Ordinance Number
-149 together with City Ordinance Number 191
-which is an amendment thereto in selling and
-drinking <unclear></unclear> liquor without first
-obtaining a license so to do as required by
-said Ordinance, in this that said Herman
-Hadlan did on the 2nd day of June 1884 in
-the City of Olympia County and Territory aforesaid
-then and there give sell and dispense of malt liquor
-towit <unclear></unclear> to one C.N. Maurril for a  <unclear></unclear>
-consideration he the said Herman Hadlan
-there and then not having a license as required
-by Ordinances Number 149 and 191 of the City of
-Olympia so to do.</p>
+<p>Witness my hand and the seal of said
+Court this July 2, 1884
+R.S. O'Bruin
+Clerk</p>
 
-<p>And upon convictions the said Court did adjudge
-and determine that the said Herman Hadlaw
-should pay a fine in the sum of five Dollars
-and costs of prosecution total of nine and 90/100 Dollars
-and in default thereof stand committed to the
-CIty jail until said fine and costs were paid or
-he be discharged by due process of law.</p>
+<p>Seal of Court</p>
 
-<p>Therefore, for the said Marshall are commanded
-in the name of the United States forthwith to
-carry and deliver the said Herman Hadlan to
-the keeper of said City jail. And you, the said
-keeper are hereby commanded to receive the said
-Herman Hadlan into your custody in said
-jail and herein there safely keep until said trial and
-costs are paid or until he shall cause be
-discharged by due course of law.</p>
+<p>Territory of Washington
+County of Thurston } ss</p>
 
-<p>Dated this 2nd day of July 1884
-W.T. Keady</p>
+<p>I hereby ceritfy that the above and foregoing
+is a true copy of the <unclear></unclear> now in my hands for
+service.</p>
 
-<p>Committing magistrate of
-the City of Olympia.</p>
+<p>William Billings Sheriff
+of Thurston County W.T.
+July 2nd 1884
+By R.P. Shocroft Deputy</p>
+
+<p>Received and Filed
+Jul 2 1884
+R.S. O'Bruin Clerk</p>
+
               
 </div1>
             
