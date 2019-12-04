@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0203.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Margaret Roy v. Henry M. White. Complaint</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0203.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Margaret Roy v. Henry M. White. Complaint</title>
+<date when="1919-01-24">January 24, 1919</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1919-01">January 1919</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Callahan, W.P.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Scotland</term>
+<term>New York</term>
+<term>England</term>
+<term>Seattle, Washington</term>
+<term>Washington, D.C.</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Roy, Margaret</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moore, Ben L.</persName>
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-11" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="#hc.case.0203.001"/>
+
+<p>4516</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Jan 27 1919</p>
+
+<p>F.M. Harshberger, Clerk</p>
+<p>By <gap></gap> Deputy</p>
+
+<p>No. 4516 Complaint</p>
+
+<p>In the Matter of the Application of MARGARET ROY, for a writ of habeas corpus.</p>
+
+<p>The complainant Margaret Roy, appearing by Ralph S. Pierce, her attorney, complains to the court and alleges and petitions as follows:</p>
+
+<p>1.</p>
+
+<p>That at all times hereinafter mentioned, complainant was and still is a subject of Scotland, lawfully domiciled in the United States of America; that she is not restrained of her liberty on any charge or conviction of crime, nor on any process issued on any warrant, committment or other process issued on any indictment or information; nor on any order or warrant of committment, otherwise than as hereinafter specified.</p>
+
+<p>II.</p>
+
+<p>That on the 24th day of June, 1918, complainant was arrested by an Immigration Inspector of the United States on a warrant of arrest issued by the secretary of labor of the United States wherein complainant is charged with being an alien and with having been at the time of her entry into the United States a person who believed in and advocated the overthrow by force or violence of the Government of the United States and of all forms of law, and who disbelieved in and who was opposed to organized government, and who advocated or taught the unlawful destruction of property, and who was a member of or affiliated with an organization entertaining and teaching disbelief in or opposition to organized government, or who advocate or teach the unlawful destruction of property. And on the 7th day of July, 1918, pursuant to the mandate of said warrant, complainant was taken before W.P.Callahan, an immigration inspector of the United States at Seattle, Washington, and given a hearing for the purpose of inquiring into the merits of said  charge; that she was questioned by the said W.P.Callahan and in reply to said questions, answered that she was 26 years of age, was a single woman, that she entered the United States in the year 1916 at New York and was examined by an immigration inspector; that she was a member of the I.W.W. but was never active in the teachings of its propaganda; that she believed in the overthrow of the capitalistic system and in the general principles of the I.W.W., but stated "That there is a great deal of stuff that has been written that I don't believe in." Asked by the inspector "What is the difference between your beliefs and anarchistic beliefs," the complainant  answered: "We believe in mass action and organization." The complainant further stated that her family belonged to the Independent Socialist party of Great Britain but that she had not been a member of it. That said questions and answers were reported by a stenographer employed by the United States Department of Labor and were subsequently transcribed and introduced in evidence against the complainent in substantiation of the charges obtained in the warrant of arrest hereinabove referred to, together with many other questions and answers having no bearing upon or in any way material to said charges. That there was attached to said transcript as exhibits, excerps from literature and songs published by the I.W.W. Publishing Company and other publishers. That the complainant stated that she had not read and did not accept all of said literature, and that said literature was not in the complainant's possession at the time of her arrest and that said transcript and the exhibits attached thereto constituted the only evidence ever introduced against the complainant in the substantiation of said charges; that at no time was  the complainant questioned as to whether she had ever advocated or taught the unlawful destruction of property or anything else, or even whether she believed in such unlawful destruction except as above indicated, nor was the complainant ever asked if she believed in or advocated the overthrow by force or violence of the Government of the United States or of all forms of law, or if she disbelieved in or was opposed to organized government or if she advocated the assassination of public officials or if she was a member of or affiliated with any organization entertaining or teaching disbelief in or oppositions to organized government or who advocate or teach the duty, necessity or propriety of the unlawful assaulting or killing of any officer or officers either of specific individuals or officers generally of the Government of the United States or of any other organized government or who advocate or teach the unlawful destruction of property except as above indicated. Not was any evidence of any character offered or received upon any of said questions except as above indicatd. That thereafter, the complainant was upon order of the secretary of labor of the United States released from custody upon bail in the sum of One Thousand Dollars, and that on the 21st day of January, 1919, the complainant was arrested by the said Henry M.White, Commissioner of Labor of the United States and placed in custody, and that she is sill held in custody by the said Henry M.White. That thereafter, and on the <gap></gap> day of <gap></gap>, 1919, the secretary of labor of the United States issued his order directing the deportation of the complainant to England.</p>
+
+<p>III.</p>
+
+<p>That the complainant is now and ever since the 24th day of June, 1918, has been continuously restrained of her liberty in the detention station of the immigration service at Seattle, Washington, by Henry M.White, United States Commissioner of Labor stationed at Seattle, Washington, except during the time she was released on bail under the pretended aurthority of the warrant of arrest and order of deportation issued by the secretary of labor as hereinabove alleged, and not otherwise, and that said restraint and order of deportation is illegal for the following reasons, to-wit: That on the hearing conducted to inquire into the charges upon which the complainant is restrained of herliberty and ordered deported above referred to, no evidence whatever was introduced to sustain the charges preferred against the complainant or in any way sustaining an order directing that the complainant be deported from the United States, or any other order in anyway restraining the complainant of her liberty and that the said warrant and order which the said secretary of labor has made is arbitrary and wholly void, and that the complainant has been at the times hereinabove referred to and now is restrained of her liberty without due process of law and deprived of her rights under the provisions of the Fifth Article of the Amendment to the Constitution of the United States. </p>
+
+<p>IV.</p>
+
+<p>That complainant is informed and believes that there are only two copies of the testimony introduced on the hearing of the charges upon which she is restrained of her liberty and that one of said copies is in the possession of the secretary of labor of the United States at Washington, D.C. and the other in the possession of Henry M. White, commissioner of labor of the United States at Seattle, Washington. That complainant demanded a copy of said evidence in order that she might attach the same to this petition, but her demand therefor was refused by said Henry M.White. That complainant is a wage earner and as a result of her long confinement and the drprivation of her usual means of support she is unable, by reason of her poverty, to pay for the preparation of such a copy, but deponent is informed by her attorney, and believes that if the said Henry M.White is required to produce the transcript of said evidence, now in his possession, and make the same a part of his return herein, or exhibit the same to the court, the verity of complainant's allegations in relation thereto will clearly appear therefrom.</p>
+
+<p>WHEREFORE, complainant prays for an order directed to Henry M.White, commissioner of labor of the United States, stationed at Seattle, Washington, requiring him to produce the body of the complainant in the above entitled court before the Honorable Jeremiah Neterer, the Judge thereof, and the 3rd day of February 1919, at 2 o'clock in the afternoon, and that he then and there show cause, if any he has, why the complainant should be further restrained of her liberty and further directing that the said Henry M.White also then and there produce, properly authenticated under his seal, the copy of the testimony taken at the hearing held pursuant to the mandate of the warrant of arrest issued by the secretary of labor pursuant to which the complainant, alias Margaret Roy, is restrained of her liberty by the said Henry M. White, and is deported by te said secretary of labor.</p>
+
+<p>Ralph S Pierce</p>
+
+<p>State of Washington County of King</p>
+<p>SS</p>
+
+<p>MARGARET ROY states: That she is the complainant in the above entitled cause; that she has read the foregoing complaint, knows the contents thereof and that she solemnly affirms the same to be true.</p>
+
+<p>Margaret R. Roy</p>
+
+<p>Subscribed and sworn to before me this 24 day of Jan, 1919.</p>
+
+<p>D.L.Young</p>
+
+<p>Notary Public in and for the State of Washington,residing at Seattle.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

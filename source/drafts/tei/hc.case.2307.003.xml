@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2307.003"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Herman Hadlan v. D.M Brown. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.2307.003</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Herman Hadlan v. D.M. Brown. Writ</title>
+<date when="1884-07-02">July 2, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1884-07">July 1884</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Israel, G.C.</term>
+<term>Keady, W.T.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Hadlan, Herman</persName>
+</person>
+<person role="defendant">
+<persName>Brown, D.M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Hoyt, John P.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.2307.003"/> 
+                    
+<p>No 2307</p>
+
+<p>In the District Court of the Second Judicial District of Washington
+Territory, holding terms at Olympia</p>
+
+<p>In the matter of the
+application of
+Herman Hadlan
+for a writ of Habeas
+Corpus</p>
+
+<p>To the and for John P Hoyt of the
+District Court of the Second Judicial District of
+Washington Territory</p>
+
+<p>The Petitions of Herman Hadlan respectfully shows -
+That he the said Herman Hadlan is unlawfully
+imprisoned detained, confined, and restrianed of his
+liberty by D.M. Brown. City Marshall of
+the City of Olympia in the City jail of
+Olympia Thurston County Washington Territory.</p>
+
+<p>That said imprisonment, detention, confinement
+and restraint are illegal, and the illegality thereof
+consists in this towit</p>
+
+<p>That on the 2nd day of July AD 1884 he was by
+process issued out of the Justice Court of W.T. Keady
+Esq Olympia Precinct Thurston County Washington
+Territory sitting as committing magistrate for the
+City of Olympia arrested and taken before that
+tribunal charged with the offense of violating
+the <unclear></unclear> of Ordinance Number 191 of the
+City of Olympia by selling liquor without a
+license, (which said ordinance is entitled "All
+Ordinances to amend all Ordinances of the City of
+Olympia W.T. Known as Ordinance Number 149
+an Ordinance <unclear></unclear> lisences, regulating the
+manner of issuing the same and fixing the times and
+rates thereof approved February 22nd 1882.)
+under a sworn complaint so charging him
+filed in said Court. That he was arrained plead
+not guilty and was by the said Committing Magistrate
+adjudged guilty and ordered and adjudged to pay a fee
+of Forty Dollars and costs, and committed to the
+City jail in default of such fine and costs, under
+a committment <del>in needs as follows towit.</del>
+issued out of said Committing Magistrate Court and
+devoted to said Marshall.</p>
+
+<p>That said Ordinances under which your petitioner
+was so commited and is now imprisoned are whereby
+void and without effect and that the City of
+Olympia has no power to pass the same under
+its charter.</p>
+
+<p>Wherefore your petitioner prays that as a writ of
+Habeas Corpus may be granted, directed to the
+said D.M. Brown Marshall as aforesaid, com-
+manding him to have the body of said Herman
+Hadlan before your Honor at a time and place
+therein to be specified, to do and receive what
+shall then and there be considered by your honor
+concerning said Herman Hadlan together with
+the time and cause of his detention and said writ
+and that he the said Herman Hadlan may be
+restored to his liberty.</p>
+
+<p>Dated July 2nd 1884
+Herman Hadlan</p>
+
+<p>Territory of Washington
+County of Thurston } ss</p>
+
+<p>Herman Hadlan being
+forth duly sworn depose and says I am the
+Petitioner named in and who signed the foregoing
+petitions. I have heard the same read know the
+contents thereof and believe the same to be
+true.</p>
+
+<p>Herman Hadlan</p>
+
+<p>Subscribed and sworn to before me this 2nd day of
+July AD 1884</p>
+
+<p>G.C. Israel
+Notary Public for
+Washington Territory</p>
+
+              
+</div1>
+            
+</body>
+</text>
+</TEI>
+
+
