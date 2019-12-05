@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.009"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0204.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dougherty v. Dawsson. Clerks Fees</title> 
+<title>Janet Mackay v. Henry M. White. Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.009</idno> 
+<idno type="project">hc.case.0204.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dougherty vs. Dawsson. Clerks Fees</title>
-<date when="1874-08-01">March 10, 1874</date>
-<note type="project">Our transcription is based on a digital image.</note> 
+<title level="m" type="main">Janet Mackay v. Henry M. White. Appearance</title>
+<date when="1919-01-27">January 27, 1919</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -55,7 +55,6 @@
 <collection></collection>
 <idno></idno>
 </msIdentifier>
-
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1874-06"></date>1874</term>
+<term><date when="1919-01">January 1919</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dalton, John</term>
-<term>Kuhlow, W.R.</term>
-<term>Pastes, G.H.</term>
-<term>Powell, A.E.</term>
-<term>Price, D.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -97,35 +92,38 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Dougherty, John</persName>
+<persName>Mackay, Janet</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ballard</persName>
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Moore, Ben L.</persName>
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Jacobs, Orange</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
-<placeName>Western District of Washington</placeName> 
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#sab">transcribed, encoded.</change> 
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,24 +134,36 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0240.009"/>
+<pb facs="#hc.case.0204.002"/>
 
-<p>Clerks Fees
-leaning Writ     # 1.00
-Subpoena             00
-Sheriff Bees        8.00
-Subpoenas           3.20
-Witness Fees &amp; witness 8.00
-Milage .            11.20
-                    $31.90</p>
-<p>W.R. Kuhlow
-D. Price
-GH Pastes} .    Witness
-AE. Powell</p>
+<p>No. <gap></gap></p>
 
-<p>Filed Mar 10th 1874
-John Dalton
-Clerk</p>
+<p>50B-7-237</p>
+
+<p>United States District Court</p>
+<p>Western District of Washington</p>
+
+<p>Appearance</p>
+
+<p>Tx</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Jan 27 1919</p>
+
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
+
+<p>No. 4517 Appearance</p>
+
+<p>In the matter of the application of Janet Mackay</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please enter my appearance as attorney for Janet Mackay in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said Janet Mackay, by leaving the same with Ralph S Pierce</p>
+
+<p>Office Address 607 Centrail Bldg</p>
 
 </div1>
     
