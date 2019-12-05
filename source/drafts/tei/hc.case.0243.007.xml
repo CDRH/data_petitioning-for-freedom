@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.006"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.007"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dougherty v. Banta. Memo to the Sheriff</title> 
+<title>. Memo from the Sheriff</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.006</idno> 
+<idno type="project">oscys.case.0241.007</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dougherty v. Banta. Memo to the Sheriff</title>
-<date when="1874-03-07">March 7, 1874</date>
+<title level="m" type="main">. Memo from the Sheriff</title>
+<date when="1885-08-31">August 31, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -55,7 +55,6 @@
 <collection></collection>
 <idno></idno>
 </msIdentifier>
-
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,21 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1874-06"></date>1874</term>
+<term><date when="1885-07">July 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dougherty, John</term>
-<term>Jacobs, Orange</term>
-<term>Kahlow, W.R.</term>
-<term>Palton, John</term>
-<term>Powell, E.</term>
+<term>Byrd, Lewis</term>
+<term>Walker, M.A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Stalacoom</term>
-<term>United States</term>
-<term>Washington Territory</term>
+<term>Tacoma, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,25 +95,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Dougherty, John</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Banta, Isaac</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ballard</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jacobs, Orange</persName>
+<persName>Campbell, A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
 <placeName>Western District of Washington</placeName> 
 </org>
 </listOrg>   
@@ -127,7 +121,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#sab">transcribed, encoded.</change> 
+<change when="2019" who="#sab">transcribed, encoded</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -138,22 +132,16 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0240.006"/>
+<pb facs="hc.case.0241.007"/>
 
-<p>35</p>
+<p>Sheriff Office      1604 1/2
+County of Pierce W.T. } ss. </p>
 
-<p>Territory of Washington
-County of Pierce }</p>
+<p>I do hereby return to the honorable. Jude of the District Court of the Second Judicial District of the Territory of Washington that before the coming to me of the <unclear></unclear> and hereinto annexed writ, the said M.A. Walker was committed to my custody, and is detained by virtue of a commitment, a copy of which is hereto annexed, the original of which I also herewith produce; nevertheless, I have the body of the said M.A. Walker before you at the time and place within mentioned, as I am within commanded--</p>
 
-<p>To the Sheriff of Pierce County, Greeting-</p>
-
-<p>In the <unclear>petition</unclear> of the <unclear></unclear> Statue you are hereby commanded to subpoena E. Powell W.R. Kahlow She Price</p>
-<p>before the Hon OJacobs Judge of the 3d Judicial Dist. holding court at Stalacoom, at the courtroom of the courthouse in said town of Stailacoom on the 10th day of March A.D. 1874, at the hour of 1 O'Clock in the <unclear></unclear> of that day. Then and there to testify in a custom case to be heard before the Hon. Court, wherein John Dougherty is petitioner on Writ of Habeas Corpus</p>
-<p><unclear></unclear> the Hon OJacobs-
-Chief Justice of Wash. Tery.
-Judge of the 3rd, Judl. Dist.
-that 7th day of March A.D. 1874
-John Palton, Clerk--</p>
+<p>Dated Tacoma W.T. Lewis Byrd
+August 31st 1885     Sheriff of Pierce
+                     County W.T.</p>
 
 </div1>
     

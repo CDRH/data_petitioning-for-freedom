@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.006"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dougherty v. Banta. Memo to the Sheriff</title> 
+<title>. Subpoena</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.006</idno> 
+<idno type="project">oscys.case.0241.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dougherty v. Banta. Memo to the Sheriff</title>
-<date when="1874-03-07">March 7, 1874</date>
+<title level="m" type="main">. Subpoena</title>
+<date when="1885-07-21">July 21, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -55,7 +55,6 @@
 <collection></collection>
 <idno></idno>
 </msIdentifier>
-
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,21 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1874-06"></date>1874</term>
+<term><date when="1885-07">July 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dougherty, John</term>
-<term>Jacobs, Orange</term>
-<term>Kahlow, W.R.</term>
-<term>Palton, John</term>
-<term>Powell, E.</term>
+<term>Byrd, Lewis</term>
+<term>Lowes, A.A.</term>
+<term>Sherman, E.H.</term>
+<term>Walker, Ma</term>
+<term>Whitten</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Stalacoom</term>
-<term>United States</term>
-<term>Washington Territory</term>
+<term>Pierce County</term>
 </keywords>
 
 </textClass>
@@ -101,25 +98,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Dougherty, John</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Banta, Isaac</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ballard</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jacobs, Orange</persName>
+<persName>Campbell, A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
 <placeName>Western District of Washington</placeName> 
 </org>
 </listOrg>   
@@ -127,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#sab">transcribed, encoded.</change> 
+<change when="2019" who="#sab">transcribed, encoded</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -138,22 +135,55 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0240.006"/>
+<pb facs="hc.case.0241.002"/>
 
-<p>35</p>
+<p>I hereby certify that I received the within Subpoena on the 21st day of July 1885 and that <unclear>I order</unclear> service by reading and exhibiting the same to the within named witness Mrs Whitten at her residence in Tacoma Pierce County Washington Territory this 21st day of July A.D. 1885</p> 
+<p>Lewis Byrd
+Sheriff of Pierce County</p>
 
-<p>Territory of Washington
-County of Pierce }</p>
+<p>Sheriffs fees
+reading to one Witness
+3:4
+Mileage 4 miles 40/809</p>
 
-<p>To the Sheriff of Pierce County, Greeting-</p>
 
-<p>In the <unclear>petition</unclear> of the <unclear></unclear> Statue you are hereby commanded to subpoena E. Powell W.R. Kahlow She Price</p>
-<p>before the Hon OJacobs Judge of the 3d Judicial Dist. holding court at Stalacoom, at the courtroom of the courthouse in said town of Stailacoom on the 10th day of March A.D. 1874, at the hour of 1 O'Clock in the <unclear></unclear> of that day. Then and there to testify in a custom case to be heard before the Hon. Court, wherein John Dougherty is petitioner on Writ of Habeas Corpus</p>
-<p><unclear></unclear> the Hon OJacobs-
-Chief Justice of Wash. Tery.
-Judge of the 3rd, Judl. Dist.
-that 7th day of March A.D. 1874
-John Palton, Clerk--</p>
+<p>In Justice Court.
+______________________
+
+......................
+             Plaintiff,
+        vs.
+             
+.............Defendant.</p>
+<p>____________________
+       SUBPOENA. 
+________________________</p>
+
+<p>In Justice Court.
+______________________
+
+Territory of Washington
+             Plaintiff,
+        vs.
+             
+Ma Walker et al, .Defendants.</p>
+<p>____________________
+       SUBPOENA. 
+________________________</p>
+
+<p>Received the within Subpoena on the 21st day of July 1885, and served the same on the 21st day of July 1885 on E.A. Sherman by reading the same to him</p>
+<p>Lewis Byrd
+Sheriff of Pierce 
+County W.T.
+By A.A. Lows
+Deputy</p>
+<p>Sheriffs Fees,
+To Serving Subpoena
+"Mileage 2 mils</p>
+
+<p>.40
+   .20
+  $.60</p>
 
 </div1>
     
