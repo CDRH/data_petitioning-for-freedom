@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0205.008">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bartholomeo Massulo v. Henry M. White. John H Sargent Sworn</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0205.008</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Bartholomeo Massulo v. Henry M. White. John H Sargent Sworn</title>
+<date when="1919-02-17">February 17, 1919</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1919-02">February 1919</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sargent, John H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Massulo, Bartholomeo</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moore, Ben L.</persName>
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-12" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="#hc.case.0205.008"/>
+
+<p>No. 4523</p>
+
+<p>In the District Court of the United States for the Western District of Washington.</p>
+<p>Nothern Division</p>
+
+<p>In the Matter of the Application of Bartolomeo Massulo for a Writ of Habeas Corpus,</p>
+
+<p>Tx</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Feb 17 1919</p>
+
+<p>F.M. Harshberger, Clerk</p>
+
+<p>By S.E. Leitch Deputy</p>
+
+<p><unclear></unclear> and service of within hereby acknowledged</p>
+<p>This FEb. 17th-1919.</p>
+<p>Ralph S Pierce</p>
+
+<p>The United States of America</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>ss.</p>
+
+<p>John H Sargent being first duly sworn, upon oath deposes and says that he is Acting Commissioner of Immigration at Seattle Washington; that he has read the foregoing return and answer, is familiar with the contents thereof and that the matters and facts therein set forth and alleged are true.</p>
+
+<p>John H Sargent</p>
+
+<p>Subscribed and sworn to before me this 17th day of February, 1919.</p>
+<p>S.E. Leitch</p>
+
+<p>Deputy Clerk, U.S. District Court, Western District of Washington</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
