@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2239.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1798.002"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>G.M. Savage v. William Billings. Writ</title> 
+<title>S.W. Hall v. William Billings. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,18 +36,17 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.2239.002</idno> 
+<idno type="project">hc.case.1798.002</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">G.M. Savage v. William Billings. Writ</title>
-<date when="1884-03-29">March 29, 1884</date>
+<title level="m" type="main">S.W. Hall v. William Billings. Writ</title>
+<date when="1879-01-06">January 6, 1879</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +78,7 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1884-03">March 1884</date></term>
+<term><date when="1879-01">January 1879</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
@@ -87,8 +86,10 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
-<term>Thurston County, Washington</term>
 <term>Chehalis County, Washington</term>
+<term>Lewis County, Washington</term>
+<term>Mason County, Washington</term>
+<term>Thurston County, Washington</term>
 </keywords>
                 
 </textClass>
@@ -96,7 +97,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Savage, G.M.</persName>
+<persName>Hall, S.W.</persName>
 </person>
 <person role="defendant">
 <persName>Billings, William</persName>
@@ -108,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Hoyt, John P.</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
                 
@@ -134,45 +135,70 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.2239.002"/> 
-                
-                
-<p>Olympia Washington Territory
-March 29 1884.</p>
+<pb facs="hc.case.1798.002"/> 
+                    
+<p>In the District Court of the Second
+Judicial District of Washington
+Territory, holding terms at Olympia
+for the counties of Thurston, Lewis,
+Chehalis and Mason.</p>
 
-<p>To the Hon John P. Hoyt Judge of the District Court of the Second
-Judicial District of Washington Territory holding terms at
-Olympia</p>
+<p>In the matter of the application
+of S W Hall, for a writ
+of Habeas Corpus.</p>
 
-<p>In answer to the within order the undersigned
-William Billings Sheriff of Thurston County
-and keeper of the jail thereof respectfully shows
-that he has the said within named G M Savage
-in custody by virtue of a commandment issued
-out of the Probate Court of Chehalis County
-on the 27th day of March 1884, under the seal
-thereof, which said commitment together
-with the body of said G.M. Savage I now
-have in Court in <unclear></unclear> thereof</p>
+<p>Order granting Writ</p>
 
-<p>William Billings
-Sheriff of Thurston County</p>
+<p>Upon reading and filing the
+petition of S W Hall, duly
+signed and verified by him,
+whereby it appears that the
+petitioner, S W Hall, is illegally
+imprisoned and restrained of his
+liberty by William Billings Sheriff
+of said Thurston County, at the
+county jail in said Thurston
+County, in the Territory of Washington,
+and stating wherein the alleged
+illegality consists, from which it
+appears to me that a writ of
+Habeas Corpus ought to issue:
+It is ordered, that a writ of
+Habeas Corpus isse out of and
+under the seal of the District Court
+of the Second Judicial District of
+Washington Territory holding
+terms at Olympia in and for
+said Thurston County, directed to
+the said William Billings, sheriff
+as aforesaid, commanding him
+to have the body of the said
+petitioner before me; in the
+Court room of the said District
+Court at Kalama
+on the 7th day of January 1879,
+at 10 o'clock A.M. of that
+day or soon thereafter as may be possible to do and receive what
+shall then and there be considered
+concerning the said petitioner, together
+with the time and causes of his
+detention, and that he have
+then and there the said writ.</p>
 
-<p>#2239</p>
+<p>Dated January 6th 1879
+Roger S. Greene
+Judge</p>
 
-<p>Habeas Corpus
-of
-G M Savage</p>
+<p>Order for
+Writ of Habeas Corpus</p>
 
-<p>Received and Filed
-March 29 1884
-R.G. O'Bruin</p>   
-                
+<p>Filed January 6 1879
+R.G. O'Bruin
+Clerk</p>
+
 </div1>
             
 </body>
 </text>
 </TEI>
-
-
 

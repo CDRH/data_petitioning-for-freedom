@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0240.006"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0205.009">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dougherty v. Banta. Memo to the Sheriff</title> 
+<title>Bartholomeo Massulo v. Henry M. White. Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.006</idno> 
+<idno type="project">hc.case.0205.009</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Dougherty v. Banta. Memo to the Sheriff</title>
-<date when="1874-03-07">March 7, 1874</date>
-<note type="project">Our transcription is based on a digital image.</note> 
+<title level="m" type="main">Bartholomeo Massulo v. Henry M. White. Decision</title>
+<date when="1919-02-18">February 18, 1919</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -55,7 +55,6 @@
 <collection></collection>
 <idno></idno>
 </msIdentifier>
-
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,55 +78,52 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1874-06"></date>1874</term>
+<term><date when="1919-02">February 1919</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dougherty, John</term>
-<term>Jacobs, Orange</term>
-<term>Kahlow, W.R.</term>
-<term>Palton, John</term>
-<term>Powell, E.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Stalacoom</term>
-<term>United States</term>
-<term>Washington Territory</term>
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Dougherty, John</persName>
+<persName>Massulo, Bartholomeo</persName>
 </person>
 <person role="defendant">
-<persName>Banta, Isaac</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ballard</persName>
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Moore, Ben L.</persName>
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName>Jacobs, Orange</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
-<placeName>Western District of Washington</placeName> 
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#sab">transcribed, encoded.</change> 
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,22 +134,44 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0240.006"/>
+<pb facs="#hc.case.0205.009"/>
 
-<p>35</p>
+<p>No. <gap></gap></p>
 
-<p>Territory of Washington
-County of Pierce }</p>
+<p>In the District Court of the United States for the Western District of Washington</p>
+<p>Northern Division</p>
 
-<p>To the Sheriff of Pierce County, Greeting-</p>
+<p>Tx</p>
 
-<p>In the <unclear>petition</unclear> of the <unclear></unclear> Statue you are hereby commanded to subpoena E. Powell W.R. Kahlow She Price</p>
-<p>before the Hon OJacobs Judge of the 3d Judicial Dist. holding court at Stalacoom, at the courtroom of the courthouse in said town of Stailacoom on the 10th day of March A.D. 1874, at the hour of 1 O'Clock in the <unclear></unclear> of that day. Then and there to testify in a custom case to be heard before the Hon. Court, wherein John Dougherty is petitioner on Writ of Habeas Corpus</p>
-<p><unclear></unclear> the Hon OJacobs-
-Chief Justice of Wash. Tery.
-Judge of the 3rd, Judl. Dist.
-that 7th day of March A.D. 1874
-John Palton, Clerk--</p>
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Feb 18 1919</p>
+
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
+
+<p>No. 4523.</p>
+<p>Decision.</p>
+
+<p>Filed Feb. 18, 1919.</p>
+
+<p>In the Matter of the Application of BARTOLOMEO MASSULO for a Writ of Habeas Corpus.</p>
+
+<p>Robert C. Saunders, U.S. Dist. Atty.,</p>
+<p>Ben L. More, Asst. U.S. Dist. Atty.,</p>
+<p>Attys. for Government.</p>
+
+<p>Ralph S. Pierce,</p>
+<p>Atty. for Petitioner.</p>
+
+<p>NETERER, District Judge, -----</p>
+
+<p>An examination of the entire record in this case is conclusive of the fact that there is some testimony to support the charge made, and that <add>being</add> the only issue for the court to determine is determinative of the issue here presented. Petition for writ is therefore denied.</p>
+
+<p>Jeremiah Neterer</p>
+<p>Judge.</p>
 
 </div1>
     
