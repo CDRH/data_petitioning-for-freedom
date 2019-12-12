@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1724.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1724.003"> 
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.1724.002</idno> 
+<idno type="project">hc.case.1724.003</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Henry Palm v. William Billings. Writ</title>
-<date when="1878-05-14">May 14, 1878</date>
+<date when="1878-04-19">April 19, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,11 +78,12 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1878-05">May 1878</date></term>
+<term><date when="1878-04">April 1878</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
 <term>Elder, A.R.</term>
+<term>Mossman, J.N.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -132,44 +133,39 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.1724.002"/> 
+<pb facs="hc.case.1724.003"/> 
                     
-<p>To the <unclear></unclear> County <unclear></unclear>
-of Thurston County</p>
-
-<p>Return of A.R. Elder on Reporter's
-fees in the case of Territory vs. Palm</p>
-
 <p>Territory of Washington
-County of Thurston }</p>
+County of Thurston } ss</p>
 
-<p>I hereby certify
-that Mark Dobrin, at my request,
-and also at the request of the prosecuting
-attorney for the 2nd Judicial District,
-has taken down in writing the
-subscribed and sworn depositions
-of all the material witnesses in the case
-of the Territory vs Palm alias Palmer,
-charged with murder, during the
-trial of said Palm alias Palmer in
-my Justice Court, at Olympia and
-I for then certify that said depositions
-are included for the use of the Grand
-Jury and District Court to hold ses-
-sions in Olympia, and are certified
-to by me as being correct and faith-
-fully taken, and that all of said wit-
-nesses were by me sworn. I further
-certify that the number of words con-
-tained in said depositions of said
-witnesses and to which they subscribed
-their names is 1 H, 500 and that
-at the legal rate of <unclear></unclear> per 100 words
-there is now due said Mark Dobrin
-for his said services the sum of
-$29.00, and recommend its allowances by your
-Honorable body A.R. Elder J.P.</p>
+<p>To any constable, and the keeper of the jail
+of said County:</p>
+
+<p>Whereas Henry Palmer, alias H. Palm, of said
+County, has been brought this day before the
+undersigned, one of the justices of the peace
+in and for said county, charged on the oath
+of J.N. Mossman, with having on the 14th day
+of November 1874, in said county committed the
+offense of murder and in the progress of the
+trial of said charge, it appearing to the said
+justice that the said Henry Palmer alias Henry P-
+alm, has been guilty of the offense of murder
+at the time and place aforesaid; and whereas,
+the said Henry Palmer has been held to an-
+swer at the next term of the district court,
+therefore, in the name of the United States,
+you are commanded ot receive the said Henry
+Palm or Palmer, into your custody in the said
+jail, and him there safely keep until he be
+discharged by due course of law.</p>
+
+<p>Given under my hand this 19th day of April 1878
+A.R. Elder
+Justice of the Peace</p>
+
+<p>To William Billings
+Commitment</p>
 
 </div1>
             
