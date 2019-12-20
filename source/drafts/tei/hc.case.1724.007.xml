@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1724.007"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henry Palm v. William Billings. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.1724.007</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Henry Palm v. William Billings. Writ</title>
+<date when="1878-05-15">May 15, 1878</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1878-05">May 1878</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Elder, A.R.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Palm, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Newlin, H.H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.1724.007"/> 
+                    
+<p>Olympia May 15th day 1878</p>
+
+<p>In the matter of the Application
+of Henry Palm for a writ of
+Habeas Corpus</p>
+
+<p>I William Billings Sheriff
+of Thurston County to whom
+the <unclear></unclear> writ is directed
+make the following return
+That the said Henry Palmer, has
+been confined in the County
+jail of Thurston County charged with murder by order
+of A.R. Elder Esq one of the Justices
+of the Peace of said County, since
+the 19th day of April 1878, and I
+herewith have the Body of the
+said Henry Palm, together with the
+Commitment, and order
+by which he has him held,
+and confined by me.</p>
+
+<p>William Billings
+Sheriff of Thurston
+County W.T.</p>
+
+<p>Filed May 15
+1878
+R.G O'Bruin
+Clerk</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+

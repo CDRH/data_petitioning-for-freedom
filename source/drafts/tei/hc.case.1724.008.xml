@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1724.008"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henry Palm v. William Billings. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.1724.008</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Henry Palm v. William Billings. Writ</title>
+<date when="1878-05-15">May 15, 1878</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1878-05">May 1878</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>O'Bruin, R.G.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Palm, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Newlin, H.H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.1724.008"/> 
+                    
+<p>In the District Court of the Second
+Judicial District of Washington Territory
+holding terms at Olympia this
+14th day of May AD 1878</p>
+
+<p>In the matter of the
+application of Henry Palm
+for a Writ of Habeas Corpus</p>
+
+<p>Thurston County ss.</p>
+
+<p>To William Billings Sheriff of
+Thurston County Greeting</p>
+
+<p>In the name of the United
+States of America we command
+you that you have the body of
+Henry Palm by you imprisoned
+and detained as it is said, together
+with the time and cause of such
+imprisonment and detention
+by whatever name said Henry
+Palm shall be called or char-
+ged before Honorable Roger
+S Greene Judge of the above
+Court at the Court house in Olympia
+in said Thurston County, on the
+15th day of May AD 1878 at 2 o'clock
+P.M. of that day, to do and to
+receive what shall then and there
+be considered concerning the said
+Henry Palm and have you
+then and there this writ.</p>
+
+<p>Witness the Honorable Roger
+S Greene Judge of the said
+District Court at Olympia
+in said County this 14th
+day of May AD 1878.
+R.G. O'Bruin
+Clerk.</p>
+
+<p>Returned and Filed
+May 15 1878
+R.G.O'Bruin
+Clerk</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+
