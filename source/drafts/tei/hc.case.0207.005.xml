@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0207.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0207.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nora Sullivan v. Henry M. White. Order</title>
+<title>Nora Sullivan v. Henry M. White. Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0207.002</idno>
+<idno type="project">hc.case.0207.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Nora Sullivan v. Henry M. White. Order</title>
+<title level="m" type="main">Nora Sullivan v. Henry M. White. Appearance</title>
 <date when="1919-08-15">August 15, 1919</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -122,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2019-12" who="#sjs">transcribed and encoded</change>
+<change when="2020-01" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,13 +133,14 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.0207.002"/>
+<pb/>
 
-<p>4764</p>
+<p>No. 4764</p>
 
-<p>50B 7 pg 406</p>
+<p>United States District Court</p>
+<p>Western District of Washington</p>
 
-<p>Tx</p>
+<p>Appearance</p>
 
 <p>Filed in the United States District Court</p>
 <p>Western District of Washington</p>
@@ -148,25 +149,28 @@
 <p>Aug 15 1919</p>
 
 <p>F.M. Harshberger</p>
-<p>F.M. Harshberger, Clerk</p>
 
+<p>F.M. Harshberger, Clerk</p>
 <p>By <gap></gap> Deputy</p>
 
-<p>4764</p>
-<p>Order:</p>
+<p>Tx</p>
+<p>Y0B7 pg 406</p>
 
-<p>In the Matter of the Application of Nora Sullivan for a Writ of Habeas Corpus:</p>
+<pb/>
 
-<p>Verified petition, supported by affidavit, has been presented to the Court, charging that the petitioner is deprived and restrained of her liberty contrary to law by the Commissioner of Immigration, and praying that a writ of habeas corpus issue, and that she produced before the Court and here detention considered and determined, and upon such hearing that she be discharged;</p>
+<p>No. 4764</p>
 
-<p>IT IS THEREFORE ORDERED that the Commissioner of Immigration appear before this Court at the court room in the Federal Building on Monday morning, August 18, 1919, at ten o'clock, and show cause why a writ of habeas corpus should not issue.</p>
+<p>Appearance</p>
 
-<p>IT IS FURTHER ORDERED that a copy of this order be forthwith served upon the Commissioner of Immigration.</p>
+<p>In the Matter of the Application of Nora Sullivan for a Writ of Habeas Corpus</p>
 
-<p>Dated this fifteenth day of August, 1919.</p>
+<p>To the Clerk of the above Entitled Court:</p>
 
-<p>Jeremiah Neterer</p>
-<p>Judge.</p>
+<p>You will please enter my appearance as Attorney for the Petitioner in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said <del>Attorney</del> me, by leaving the same with me.</p>
+
+<p>NY <unclear></unclear></p>
+<p>308 New York Bldg</p>
+<p>Seattle, Wash.</p>
 
 </div1>
     
