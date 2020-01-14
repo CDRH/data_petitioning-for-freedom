@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1098.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1098.005"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Kirkland v. William Billings. Subpoena</title> 
+<title>William Kirkland v. William Billings. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.1098.002</idno> 
+<idno type="project">hc.case.1098.005</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William Kirkland v. William Billings. Subpoena</title>
+<title level="m" type="main">William Kirkland v. William Billings. Writ</title>
 <date when="1872-09-07">September 7, 1872</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,7 +83,7 @@
                 
 <keywords scheme="lcsh" n="people">
 <term>Campbell, A.J.</term>
-<term>Fletcher, M.W.</term>
+<term>Campbell, Edward</term>
 <term>Houghton, J.H.</term>
 <term>McFarland, William</term>
 <term>Taylor, H.D.</term>
@@ -137,63 +137,80 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.1098.002"/> 
+<pb facs="hc.case.1098.005"/> 
                     
-<p>United States of America
-Territory of Washington
-Second Judicial District } ss</p>
+<p>Washington Territory
+Thurston County } ss</p>
 
-<p>To H.D. Taylor</p>
+<p>Wm Billings
+Sheriff of Thurston County being first duly
+sworn, on his oath makes the following
+return on the attached writ of Habeas
+Corpus. That he has before the said
+Judge of the District Court of the 2nd
+Judicial district of W.T. the body of
+William Kirkland as by said writ
+directed. That he restrains said
+Kirkland by virtue of a certain
+warrant of commitment to him
+directed by H.D. Taylor Esq. a Justice
+of the Peace in and for the County of
+Chehalis W.T. of which the following is
+a true copy.</p>
 
-<p>In the name of the
-United States you are hereby required to
-appear before Roger S. Greene Esquire, Dis-
-trict Judge at Chambers in the town of
-Olympia in Thurston County in the building
-known as the Land Office Building on Saturday the
-7th day of September A.D. 1872 at the hour
-of 10 o'clock A.M. then and there to give
-evidence in a certain matter wherein the
-Territory of Washington is plaintiff and Wil-
-liam Kirkland is defendant and that you
-bring with you and produce then and there
-the record of your proceedings in the prelimi-
-nary examination of William Kirkland brought
-before you on the 12th day of May 1872 on the charge
-of murdering A.J. Campbell and all the evidence
-and writings which you have in your custody
-or power, concerning the premises.</p>
+<p>Territory of Washington
+County of Chehalis } ss</p>
 
-<p>Witness Roger S. Greene Esquire
-District Judge and the seal of said
-Court this 31st day of August
-AD 1872
+<p>To the Sheriff of said County and
+to the keeper of common jail of Thurston
+County. Whereas on the twelfth day of May
+1872 Edward Campbell made complaint
+in writing and on oath before the un-
+dersigned one of the Justices of the Peace
+in and for said County charging William
+Kirkland with having on the eighth day
+of May A.D. 1872 committed the crime
+of murder and the said William Kirkland
+having been brought before and examined
+by me, and it being sufficiently proven
+to me that the said WIlliam Kirkland
+has in said county committed the crime
+of murder by killing Andrew J. Campbell
+on the Eighth day of May A.D. 1872.
+Therefore in the name of The United
+States, you the said Sheriff are com-
+manded forthwith to convey and
+deliver the said William Kirkland to
+the said keeper, and you the said
+keeper are hereby commanded to
+safely keep the said William Kirkland
+to appear and answer at the next
+Term of the District Court of the
+aforesaid charge.</p>
+
+<p>Given under my hand
+this 12th day of May A.D. 1872
+H.D. Taylor
+Justice of the Peace</p>
+
+<p>William Billings
+Sheriff of Thurston
+Co. W.T.</p>
+
+<p>Subscribed and sworn
+to before me this
+7th day of September 1872
 J H Houghton
 Clerk</p>
 
-<p>Subpoena</p>
+<p>Territory of Washington
+ex relations
+William Kirkland
+vs
+William Billings</p>
 
-<p>Received the within
-Sept. 3rd 1872
-and
-Served the same by
-leaving a copy at
-the residence of
-H.D. Taylor Sept. 3rd</p>
-
-<p>I hereby certify that
-the above service
-was performed in
-Chehalis County W.T.
-Wm O. McFarland
-Sheriff of Chehalis County W.T.
-per M.W. Fletcher
-Deputy</p>
-
-<p>fees on the above, 80 cts
-Filed Sept 7 1872
-J H Houghton
-Clerk</p>
+<p>Writ of
+Habeas Corpus</p>
 
 </div1>
             
