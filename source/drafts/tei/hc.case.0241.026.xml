@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.025"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.026"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Walker et al. Coroner Memo</title> 
+<title>Territory of Washington v. Walker et al. Memo from Coroner</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0241.025</idno> 
+<idno type="project">oscys.case.0241.026</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Walker et al. Coroner Memo</title>
-<date when="1885-07-17">July 17, 1885</date>
+<title level="m" type="main">Territory of Washington v. Walker et al. Memo from Coroner</title>
+<date when="1885-07-17">July 20, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -81,14 +81,25 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brotton, M.</term>
-<term>Daughherty, Thomas W.</term>
-<term>M.K.</term>
-<term>Steele, J.M.</term>
+<term>Arnold, Emma</term>
+<term>Boseman, William H.</term>
+<term>Campbell, A.</term>
+<term>Hoy, Thomas</term>
+<term>Hunter, Grace</term>
+<term>Hunter, William E.</term>
+<term>Kelly, Jay U.</term>
+<term>Kirkbride, J.W.</term>
+<term>Lockwood, H.B.</term>
+<term>Lockwood, William M.</term>
+<term>McKay, H.T.</term>
+<term>Measer, Howard</term>
+<term>Osgood, Walter</term>
+<term>Shintermute, Ja</term>
+<term>Thompson, Art.</term>
+<term>Vale, William</term>
 <term>Walker, Charles</term>
-<term>Walker, MA</term>
-<term>Whitemart, James D.</term>
-<term>Wilson, J.E.</term>
+<term>Walker, Helen</term>
+<term>Walker, M.A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -139,18 +150,24 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0241.025"/>
+<pb facs="hc.case.0241.026"/>
 
-<p>In the jury summoned before James D. Witermart Coroner of Pierce County, Wash. Terr: trinquire into the cause of death after having the evidence, and inspecting the body: that the deceased name was Wm M Lockwood: a musician &amp; painter: an American by birth: aged about twenty eight years: and <unclear>unmeared</unclear>: that he came to his death upon Thursday morning July 16th '85 between one and three o'clock: That he was found upon the W.P.R.R. track near the house of M.K. &amp; Chal Walker and that we believe from the evidence, that he came to his death by being struck upon the head by some blunt instrument in the hands of M.A. Walker &amp; Charles Walker or both of them: and that Helen Walker has knowledge of such deed: that we believe the body was afterwards placed upon the Rail Road track more the house of said Walkers: and that afterwards his body was run over by the <unclear></unclear> Enquired of the N.P.R.R.W</p>
+<p>Filed July 20th 1885
+A Campbell</p>
 
-<p><unclear>J.M. Steele
-M. Brotton
-Thos W. Daugherty
-J.E. Wilson</unclear></p>
+<p>Office of the Coroner
+Pierce Co. Wash. Terr. }</p>
 
-<p>Dated before me upon Friday evening July 17th 1885. In the city of Tacoma, Pierce Co. Wash. Terr.</p>
-<p><unclear>Ja. S. Wintermute</unclear></p>
-<p>Coroner</p>
+<p>I James Shintermute Coroner of Pierce Font. do hereby certify that I held on inquicition upon the body of Wm M. Lockwood: a native of America: aged about 28 years upon these 16th &amp; 17th days of July 1885.</p>
+<p>Verdict of Jury as given upon other side of these shut of paper--</p>
+<p>Dated before me this 17th day of July. '85 at Tacoma. Wash. Terr.</p>
+<p>Ja Shinternute</p>
+<p>Coroner Pierce Cony.</p>
+
+
+<p>Junpere- each two days and a night. J.M. Steele M Brotton: Tho.s Daugherty: J.E. Wilson</p>
+
+<p>Witnesses-- H.T. McKay two days: J.W. Kirkbride. Wm. Vale: Walter Osgood: M.A. Walker: Charles Walker: Grace Hunter: Art. Thompson: Wm H. Boseman: Helen Walker: Emma Arnold: Wm E. Hunter: Thos Hoy. <unclear></unclear> H.B. Lockwood: Jay U. Kelly: Howard Measer:</p>
 
 </div1>
     

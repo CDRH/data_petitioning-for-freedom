@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.025"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.029"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Walker et al. Coroner Memo</title> 
+<title>Territory of Washington v. Walker et al. Memo from the Sheriff</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0241.025</idno> 
+<idno type="project">oscys.case.0241.029</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Walker et al. Coroner Memo</title>
-<date when="1885-07-17">July 17, 1885</date>
+<title level="m" type="main">Territory of Washington v. Walker et al. Memo from the Sheriff</title>
+<date when="1885-07-17">August 31, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -81,18 +81,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brotton, M.</term>
-<term>Daughherty, Thomas W.</term>
-<term>M.K.</term>
-<term>Steele, J.M.</term>
-<term>Walker, Charles</term>
-<term>Walker, MA</term>
-<term>Whitemart, James D.</term>
-<term>Wilson, J.E.</term>
+<term>Byrd, Lewis</term>
+<term>Hoyt, John P.</term>
+<term>Olympia</term>
+<term>Walker, M.A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Pierce County, Washington Territory</term> 
+<term>Tacoma, Pierce County, Washington Territory</term> 
 </keywords>
 
 </textClass>
@@ -139,18 +135,30 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0241.025"/>
+<pb facs="hc.case.0241.029"/>
 
-<p>In the jury summoned before James D. Witermart Coroner of Pierce County, Wash. Terr: trinquire into the cause of death after having the evidence, and inspecting the body: that the deceased name was Wm M Lockwood: a musician &amp; painter: an American by birth: aged about twenty eight years: and <unclear>unmeared</unclear>: that he came to his death upon Thursday morning July 16th '85 between one and three o'clock: That he was found upon the W.P.R.R. track near the house of M.K. &amp; Chal Walker and that we believe from the evidence, that he came to his death by being struck upon the head by some blunt instrument in the hands of M.A. Walker &amp; Charles Walker or both of them: and that Helen Walker has knowledge of such deed: that we believe the body was afterwards placed upon the Rail Road track more the house of said Walkers: and that afterwards his body was run over by the <unclear></unclear> Enquired of the N.P.R.R.W</p>
+<p>In <del>the</del> district  Court of Second Judicial District of Washington Terry. holding terms at Tacoma, in and for Pierce County.</p>
 
-<p><unclear>J.M. Steele
-M. Brotton
-Thos W. Daugherty
-J.E. Wilson</unclear></p>
+<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                   x
+In the matter of the application ofx
+                                   x
+M.A. Walker                        x
+                                   x
+for a WRIT of HABEAS CORPUS.       x
+                                   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 
-<p>Dated before me upon Friday evening July 17th 1885. In the city of Tacoma, Pierce Co. Wash. Terr.</p>
-<p><unclear>Ja. S. Wintermute</unclear></p>
-<p>Coroner</p>
+<p>to LEWIS BYRD, Sheriff of Pierce County, greeting:--</p>
+
+<p>We command you, that you have the body of M.A. WALEKR, by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention, by whatsoever name said M.A. Walker, shall be called or charged, before Hon. JOHN P. HOYT, Judge of the District Court of the Second Judicial District of the Territory of Washington, at the Court-room of said Court, at Olympia, on the 1st day of <unclear></unclear>, 1885, at 2 oclock, P.,M, of that day, to do and receive what shall then and there be considered concerning the said M.A. WALKER,
+And have you then and there this writ.</p>
+
+<p>Witness the HON JOHN P. HOYT, Judge of the said District Court, at the Court room there-of in the City of Tacoma, Pierce County, Wahs. Terry. this 2nd day of August, 1885.</p>
+
+<p>R.G. OBriend
+Clerk
+By J</p>
 
 </div1>
     
