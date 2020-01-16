@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.029"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.034"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Walker et al. Memo from the Clerk</title> 
+<title>Territory of Washington v. Walker et al. Filed From the Clerk</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0241.029</idno> 
+<idno type="project">oscys.case.0241.034</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Walker et al. Memo from the Clerk</title>
-<date when="1885-07-17">August 2, 1885</date>
+<title level="m" type="main">Territory of Washington v. Walker et al. Filed From the Clerk</title>
+<date when="1885-07-17">July 21, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -81,13 +81,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Byrd, Lewis</term>
-<term>Hoyt, John P.</term>
-<term>Obrien, R.G.</term>
-<term>Walker, M.A.</term>
+<term>OBrien, R.G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
+<term>Port Townsend</term>
 <term>Tacoma, Pierce County, Washington Territory</term> 
 </keywords>
 
@@ -135,31 +133,13 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0241.029"/>
+<pb facs="hc.case.0241.034"/>
 
-<p>In <del>the</del> district  Court of Second Judicial District of Washington Terry. holding terms at Tacoma, in and for Pierce County.</p>
-
-<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                   x
-In the matter of the application ofx
-                                   x
-M.A. Walker                        x
-                                   x
-for a WRIT of HABEAS CORPUS.       x
-                                   x
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-
-<p>to LEWIS BYRD, Sheriff of Pierce County, greeting:--</p>
-
-<p>We command you, that you have the body of M.A. WALEKR, by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention, by whatsoever name said M.A. Walker, shall be called or charged, before Hon. JOHN P. HOYT, Judge of the District Court of the Second Judicial District of the Territory of Washington, at the Court-room of said Court, at Olympia, on the 1st day of <unclear></unclear>, 1885, at 2 oclock, P.,M, of that day, to do and receive what shall then and there be considered concerning the said M.A. WALKER,
-And have you then and there this writ.</p>
-
-<p>Witness the HON JOHN P. HOYT, Judge of the said District Court, at the Court room there-of in the City of Tacoma, Pierce County, Wahs. Terry. this 2nd day of August, 1885.</p>
-
-<p>R.G. OBrien
+<p>Filed Aug 27 1885
+RG OBrien
 Clerk
-By J <unclear></unclear>
-Deputy Clerk</p>
+By <unclear></unclear>
+Deputy</p>
 
 </div1>
     
