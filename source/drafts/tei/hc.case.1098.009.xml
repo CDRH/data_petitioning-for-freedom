@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1098.009"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Kirkland v. William Billings. Complaint</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.1098.009</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Kirkland v. William Billings. Complaint</title>
+<date when="1872-05-12">May 12, 1872</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1872-05">May 1872</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Campbell, A.J.</term>
+<term>Campbell, Edward</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Chehalis County, Washington</term>
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Kirkland, William</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.1098.009"/> 
+                    
+<p>Territory of Washington
+County of Chehalis</p>
+
+<p>Territory of Washington
+vs
+William Kirkland</p>
+
+<p>Criminal
+Action</p>
+
+<p>Cause of Action the murder of
+Andrew J Campbell</p>
+
+<p>Warrant of arrest issued May the
+12th AD 1872 On complaint of Edward Campbell
+made in writing on the 12 day of May AD 1872
+sworn and subscribed to before me charging
+William Kirkland with having murdered
+Andrew J Campbell on the Eighth day of May
+AD 1872 on which complaint the afforesaid
+warrant was issued this 12th day of May AD 1872
+and returned by Delivering the Defendant in
+court at 10 o'clock P.M. of May the 12th AD 1872
+charge read to the Defendant</p>
+
+<p>Defend, Reads Guilty to the charge in the
+complaint stating that he killed Andrew J Camp-
+bell. The court not having jurisdiction to <unclear></unclear>
+commited the Defendant on his confession
+to jail to answer to the charge at the next term
+of the District court, adjudging that the county
+pay all the cost</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+

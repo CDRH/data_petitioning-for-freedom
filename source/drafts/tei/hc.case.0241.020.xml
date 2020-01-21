@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.020"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Walker et al. Summary of Case</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0241.020</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Walker et al. Summary of Case</title>
+<date when="1885-07-17">July 20, 1885</date>
+<note type="project">Our transcription is based on a digital image.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-07">July 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Arnold, Emma</term>
+<term>Campbell, A.</term>
+<term>Dolan</term>
+<term>Dolan</term>
+<term>Hunter, William E.</term>
+<term>Lockwood</term>
+<term>Smith, Anna</term>
+<term>Stunter, Grace</term>
+<term>Walker, Charles</term>
+<term>Whithem</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term></term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName>Walker, M.A.</persName>
+<persName>Walker, Charles</persName>
+<persName>Walker, Helen</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Campbell, A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
+<placeName>Western District of Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#sab">transcribed, encoded</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0241.020"/>
+
+<p>Filed July 20th 1885 A Campbell</p>
+
+<p>Grace Stunter: <del>file</del> sworn: am the mile of M Stuner was reciting Mr Walker last evening: Mr. Lockwood was then: have known him since last February: Left Mrs Walkers I think about one o'clock this morning according to Mr Hunter watch Mr. Lockwood my sister miss Arnold: Mr &amp; Mrs Dolan my husband any myself left together: we live on E. St between 19th &amp; 21st and we came home by R.R. track &amp; depot: went straight home &amp; upon reaching there left Mr Lockwood: that is the last we saw of him, and think it was sometime between one &amp; half past: had some beer at Mrs Walkers did not act as though under the influence of house at all when was with us: was alone when he left us__ Have met Mrs Walker but once was the first time I had been at her house would take about 25 minutes to go from an house to Mrs Walkers: didn't see anyone when oing home: had but one lantern in our party:</p>
+<p>Emma Arnold: sworn: M L saw me home last night from Mrs Walkers: must have ben a quarter to one when we left there: Mr Lockwood left me at my sister Mrs Stunters: he said nothing to me about returning to Mrs Walkers: he drank 3.04 glasses of beer at Mr Walkers: I <del>not</del> do not think he was intoxicated at all:</p>
+<p>Wm E. Hunter: a Painter: sworn: corrolerated wifes &amp; Miss Arnold's evidence:</p>
+<p>Tho. Sty. Dolan: Corrolerates Mr &amp; Mrs Hunter K. Miss Arnold's testimony__ never saw Lockwood more sober:</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

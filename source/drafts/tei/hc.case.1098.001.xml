@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1098.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Kirkland v. William Billings. Subpoena</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.1098.001</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Kirkland v. William Billings. Subpoena</title>
+<date when="1872-09-07">September 7, 1872</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1872-09">September 1872</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Campbell, Edward</term>
+<term>Fletcher, M.W.</term>
+<term>Houghton, J.H.</term>
+<term>McFarland, William</term>
+<term>Scarnmon, George</term>
+<term>Scarnmon, J.L.</term>
+<term>Taylor, H.D.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Chehalis County, Washington</term>
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Kirkland, William</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.1098.001"/> 
+                    
+<p>United States of America
+Territory of Washington
+Second Judicial District } ss</p>
+
+<p>To Edward Campbell, J.L. Scarnmon
+George Scarnmon and Harrison Taylor</p>
+
+<p>In the name of the United States you
+are required to appear before Roger S
+Green Esquire District Judge at Cham-
+ber in the term of Olympia in Thurston
+County in the building known as the Land
+Office Building on the 7th day of September
+A.D. 1872 at the hour at two o'clock P.M.
+then and there to give evidence in a cer-
+tain matter wherein the Territory of
+Washington is plaintiff and William
+Kirkland is defendant</p>
+
+<p>Witness Roger S Greene Esquire
+District Judge and the
+seal of said Court this 31st
+day of August AD 1872
+J H Houghton
+Clerk</p>
+
+<p>Subpoena</p>
+
+<p>Received the within Sept 1st 1872
+Served the same an H.D. Taylor by
+leaving copy at his residence. Sept. 3rd
+an George Scarnmon by reading Sept. 1st
+an J.L. Scarnmon and Edward Campbell by
+reading Sept. 3rd 1872</p>
+
+<p>I hereby certify that the above service
+was made on the within by me in
+Chehalis County Washington Territory
+Wm O. McFarland
+Sheriff of Chehalis County W.T.
+per M.W. Fletcher
+Deputy</p>
+
+<p>Served on the above      1.60
+one  copy                                   80
+miledge                                  7.00
+                                              $9.40</p>
+
+<p>Filed Sept 7th 1872
+J H Houghton
+Clerk</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+
