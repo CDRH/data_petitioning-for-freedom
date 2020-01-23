@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0245.003">
@@ -8,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>John Duffery v. Territory of Washington. Petition.</title>
+                <title>John Duffy v. Territory of Washington. Petition.</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -46,7 +44,7 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">John Duffery v. Territory of Washington. Petition</title>
+                    <title level="m" type="main">John Duffy v. Territory of Washington. Petition</title>
                     <date when="1886-10-16">October 16, 1886</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
@@ -83,11 +81,20 @@
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+<term>Duffy, John</term>
+<term>Turner, George</term>
+<term>McKown, Sam</term>
+<term>Whitman, Edward</term>
+<term>OBiren, J. H.</term>
+<term>Sullivan</term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="places"> 
-                    <term></term>
+<term>Yakima County</term>
+<term>Washington Territory</term>
+<term>Ellensburg</term>
+<term>Montana Territory</term>
+<term>Kittitas County</term>
                 </keywords>
                 
             </textClass>
@@ -95,7 +102,7 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>John Duffery</persName>
+                        <persName>Duffy, John</persName>
                     </person>
                     <person role="defendant">
                         <persName>Territory of Washington</persName>
@@ -107,13 +114,13 @@
                         <persName>Last, First</persName>
                     </person>
                     <person role="judge">
-                        <persName>George Turner</persName>
+                        <persName>Turner, George</persName>
                     </person>
                 </listPerson>
                 
                 <listOrg>
                     <org>
-                        <orgName></orgName>
+                        <orgName>Northern Pacific Railroad Company</orgName>
                         <placeName></placeName>
                     </org>
                 </listOrg>   
@@ -135,13 +142,19 @@
                 
                 <pb facs="hc.case.0245.003"/>
                 
-                <p><unclear>Ellenburgh</unclear> and the <unclear/> That he <unclear>fums? by? mhn?</unclear> he was arrested and heretofore has been and still is restrained of his liberty is one.</p>
-<p>Sullivan chief of Detectives for the Northern Pacific Railroad and his assistants and J. H. OBiren Condenter of the freight &amp; Passenger train of the Northern Pacific Railroad Company and the Employees of said Rails <unclear/> Company in <unclear/> the <unclear>names?</unclear> of all of whom are petitions <unclear/> (the <unclear/> passing from North Yakima to <unclear>Ellenburgh</unclear> and returning to day)</p>
-<p>restraint demanding to the best of the knowledge and relief of <unclear/> is the alleged <unclear/> open of a sealed railroad can in the <unclear/> of <unclear>Montrand?</unclear></p>
+<p>Ellensburg and the <unclear>County</unclear> That the persons by whom he was arrested and heretofore has been and still is restrained of his liberty is one
+Sullivan chief of Detectives for the Northern Pacific Railroad and his assistants and J. H. OBiren Conductor of the freight &amp; Passenger train of the Northern Pacific Railroad Company and the Employees of said Railroad Company in said have the names of all of whom are to petition unknown (being the <unclear>mine?</unclear> passing from North Yakima to Ellensburg and returning to day)</p>
+<p>That the cause or pretense of said restraint according to the best of the knowledge and belief of petitioners is the alleged breaking open of a sealed railroad car in the Territory of Montana</p>
 <p>That said restraint is illegal no that petition never before 
 <pb facs="hc.case.0245.003"/>
-open said car or committed any criminal offense and that no complaint has been made charging petitioner inthe said as any crime and that no warrant or other legal fences has been some against petitioner <unclear/> has he been arrested or restrained by any legal <unclear/> to his knowledge</p>
-<p>That the said <unclear>Sullivan</unclear> and his assistants and the said Conductor and his Employees and holding <unclear>petitioner</unclear> and <unclear/> forbidding communication with <unclear/> his friends or counsel and <unclear>recently?</unclear> <hi rend="strikethrough">and</hi> unlawfully and forcibly attempting to remove him from Washington Territory to send Montana Territory.</p>
+open said car or committed any criminal offense and that no complaint has been made charging petitioner with said or any crime and that no warrant or other legal powers has been some against petitioners <unclear>nor?</unclear> has he been arrested or restrained by any legal power to his knowledge</p>
+<p>That the said Sullivan and his assistants and the said Conductor and his Employees and holding petitioner and keeping him in secret places forbidding communication with him or his friends or counsel and secretly <hi rend="strikethrough">and</hi> unlawfully and forcibly attempting to remove him from Washington Territory to send Montana Territory.</p>
+<p>Wherefore petitioner prays that a writ of Habeas Corpus may immediately issue to inquire into the cause of 
+<pb facs="hc.case.0245.003"/>
+his restraint and <hi rend="strikethrough">that</hi> to the end that he may be delivered therefrom</p>
+<p>Sam McKown
+On behalf of said
+Petitioner John Duffy</p>
             </div1>
             
         </body>
