@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.029"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.039"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Walker et al. Memo from the Clerk</title> 
+<title>Territory of Washington v. Walker et al. Application for M.A. Walker</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0241.029</idno> 
+<idno type="project">oscys.case.0241.039</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Walker et al. Memo from the Clerk</title>
-<date when="1885-08-02">August 2, 1885</date>
+<title level="m" type="main">Territory of Washington v. Walker et al. Application for M.A. Walker</title>
+<date when="1885-08-25">August 25, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,8 +82,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Byrd, Lewis</term>
+<term>Campbell, Alex</term>
 <term>Hoyt, John P.</term>
-<term>Obrien, R.G.</term>
 <term>Walker, M.A.</term>
 </keywords>
 
@@ -135,31 +135,34 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0241.029"/>
+<pb facs="hc.case.0241.039"/>
 
-<p>In <del>the</del> district  Court of Second Judicial District of Washington Terry. holding terms at Tacoma, in and for Pierce County.</p>
+<p>1601 1/2</p>
 
-<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                   x
-In the matter of the application ofx
-                                   x
-M.A. Walker                        x
-                                   x
-for a WRIT of HABEAS CORPUS.       x
-                                   x
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+<p>In the District of the Second Judicial District of Washington Territory, holding terms at Tacoma, in and for Pierce County, Wash. Terry.</p>
 
-<p>to LEWIS BYRD, Sheriff of Pierce County, greeting:--</p>
+<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+In the matter of application of x
+                                x
+M.A. WALKER,                    x     Habeas Corpus
+                                x
+for a Writ of Habeas Corpus     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 
-<p>We command you, that you have the body of M.A. WALEKR, by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention, by whatsoever name said M.A. Walker, shall be called or charged, before Hon. JOHN P. HOYT, Judge of the District Court of the Second Judicial District of the Territory of Washington, at the Court-room of said Court, at Olympia, on the 1st day of <unclear></unclear>, 1885, at 2 oclock, P.,M, of that day, to do and receive what shall then and there be considered concerning the said M.A. WALKER,
-And have you then and there this writ.</p>
+<p>To the Honorable John, P. Hoyt, Judge of the Second Judicial District of Washington Territory, holding terms at Tacoma, in and for Pierce County, Washington Territory.</p>
+<p>The petition of M. A. Walker, respectfully shows: ---</p>
+<p>I.</p>
 
-<p>Witness the HON JOHN P. HOYT, Judge of the said District Court, at the Court room there-of in the City of Tacoma, Pierce County, Wahs. Terry. this 2nd day of August, 1885.</p>
+<p>That he, the said petitioner, is unlawfully imprisoned, contained, confined and restrained of his liberty by Lewis Byrd, Sheriff of said Pierce County, Washington Territory, and that he is imprisoned in the County jail of said County, at Tacoma.</p>
+<p>II.</p>
+<p>That the cause or pretense of said confinement is as follows:-- On the 16th of July 1885, at about 2 oclock in the morning of that day one William Lockwood was struck by an engine and car on the track of the Northern Pacific Railroad in Tacoma aforesaid, and was run over and cut, bruised and killed. That this petitioner was arrested on suspicion o having killed said Lockwood, and was on the 23rd day of July 1885, examined before A. Campbell, Esq, a justice of the peace, and ordered to be confined in said jail without bail to await the action of the grand jury, and that said Lewis Byrd, Sheriff, detains him by virtue of said warrant of commitment.</p>
 
-<p>R.G. OBrien
-Clerk
-By J <unclear></unclear>
-Deputy Clerk</p>
+<!-- note over the typed text -->
+
+<p>That the substance of all the testimony, and the material parts of all the evidence, and all the testimony and evidence taken before said A. Campbell Esq. tending to connect this petitioner with said crime are set forth in "Exhibit A". which is heats annexed and hereby made past of this Complaint and <del>afed</del> petition.</p>
+<!-- continuation of typed text -->
+
+<p>taken or presented before said justice of the peace that said William Lockwood was killed, or attempted to be killed, or was s truck, stabbed, shot or otherwise hurt or assaulted, or was in anywise injured or attempted to be injured by this petitioner, or by or through his assistance, knowledge or connivance; or that he met his death or was killed by this petitioner, or that this petitioner was in anywise accessory thereto; but said evidence only tended to show that said deceased was killed on said railroad track by being struck and run over by an engine and car on said track, and by accident,</p>
 
 </div1>
     

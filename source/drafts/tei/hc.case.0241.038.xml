@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.029"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0241.038"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Walker et al. Memo from the Clerk</title> 
+<title>Territory of Washington v. Walker et al. Defendant Testimony</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0241.029</idno> 
+<idno type="project">oscys.case.0241.038</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Walker et al. Memo from the Clerk</title>
-<date when="1885-08-02">August 2, 1885</date>
+<title level="m" type="main">Territory of Washington v. Walker et al. Defendant Testimony</title>
+<date when="1885-08-25">August 25, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,12 +82,12 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Byrd, Lewis</term>
-<term>Hoyt, John P.</term>
-<term>Obrien, R.G.</term>
+<term>Hoppe, Ernest</term>
 <term>Walker, M.A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
+<term>Port Townsend</term>
 <term>Tacoma, Pierce County, Washington Territory</term> 
 </keywords>
 
@@ -135,31 +135,27 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0241.029"/>
+<pb facs="hc.case.0241.038"/>
 
-<p>In <del>the</del> district  Court of Second Judicial District of Washington Terry. holding terms at Tacoma, in and for Pierce County.</p>
+<p>1601 1/2</p>
 
-<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                   x
-In the matter of the application ofx
-                                   x
-M.A. Walker                        x
-                                   x
-for a WRIT of HABEAS CORPUS.       x
-                                   x
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+<p>That said engine and car were not in charge or under the control and management of this petitioner, and that this petitioner was not present and had no interest in running the same at the time of said killing, or at any time.</p>
+<p>That this petitioner did not commit the crime charged against him, or any crime, but is innocent thereof and unjustly confined. That it did not appear  upon the whole examination before said justice of the peace aforesaid, that any offence had been committed, or that this petitioner had committed the crime charged against him, or any crime, or that there was probable cause for charging this petitioner with the offence, or any offence. That the proof was not evident nor the presumption great from said evidence that this petitioner is or was guilty of murder, or any of the degrees thereof, or of any crime whatever.</p>
 
-<p>to LEWIS BYRD, Sheriff of Pierce County, greeting:--</p>
+<p>Wherefore your petitioner prays that a writ of Habeas Corpus may be granted directed to said Lewis Byrd, Sheriff, commanding him to have the body of M.A. Walker, your petitioner, before you Honor at a time and place therein to be specified, to do and receive what shall then and there e considered by your Honor concerning him, together with the time and cause of his, or my, detection, and said wait; and that your petitioner may them be restored to his liberty.</p>
+<p>Dated this <del>19th</del> 25th day of August, 1885</p>
 
-<p>We command you, that you have the body of M.A. WALEKR, by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention, by whatsoever name said M.A. Walker, shall be called or charged, before Hon. JOHN P. HOYT, Judge of the District Court of the Second Judicial District of the Territory of Washington, at the Court-room of said Court, at Olympia, on the 1st day of <unclear></unclear>, 1885, at 2 oclock, P.,M, of that day, to do and receive what shall then and there be considered concerning the said M.A. WALKER,
-And have you then and there this writ.</p>
+<p>MA Walker</p>
 
-<p>Witness the HON JOHN P. HOYT, Judge of the said District Court, at the Court room there-of in the City of Tacoma, Pierce County, Wahs. Terry. this 2nd day of August, 1885.</p>
+<p>Territory of Washington
+County of Pierce } ss.</p>
+<p>M.A. Walker being first duly sworn says that he is the petitioner mentioned in the foregoing petition; that he has heard the same read, knows the contacts thereof, and the same is truce.</p>
+<p>MA Walker</p>
 
-<p>R.G. OBrien
-Clerk
-By J <unclear></unclear>
-Deputy Clerk</p>
+<p>Subscribed and sworn to before me this 25th <del>19th</del> day of August, 1885</p>
+<p>Ernest Hoppe</p>
+
+<p>Notary Public in and for Pierce County, Washington Territory.</p>
 
 </div1>
     
