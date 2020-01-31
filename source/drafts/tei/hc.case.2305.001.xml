@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2305.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Doyle v. William Billings. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.2305.001</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">John Doyle v. William Billings. Writ</title>
+<date when="1884-07-01">July 1, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1884-07">July 1884</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Latham, John</term>
+<term>O'Bruin, R.G.</term>
+<term>McReavy, E.F.</term>
+<term>McReavy, John</term>
+<term>Ross, N.J.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places">
+<term>Mason County, Washington</term>
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Doyle, John</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ballard, D.P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>McFadden, J.C.</persName>
+</person>
+<person role="judge">
+<persName>Hoyt, John P.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.2305.001"/> 
+
+<p>#2305</p>
+
+<p>In The District Court,
+Of the Second Judicial District of Washington Territory,
+holding terms at Olympia for the Counties of
+Mason and Thurston</p>
+
+<p>The People of the
+Territory of Washington
+at the motion of John
+Doyle
+Ex parte</p>
+
+<p>By the Writ of
+Habeas Corpus</p>
+
+<p>The Petition of John
+Doyle to the Honorable John
+P Hoyt Associate Justice of
+the Supreme Court and Judge
+of the Second Judicial District
+of Washington Territory most
+respectfully showith</p>
+
+<p>That the said John Doyle
+is unlawfully restrained
+of his liberty by being confined
+in the jail of Thurston
+County by one William
+Billings the Keeper of said
+jail at the City of Olympia</p>
+
+<p>That the cause or pretense
+for confining your petitioner
+is as follows. On the 14th
+day of June 1884 at the County
+of Mason in Washington Territory
+one E.F. McReavy appeared
+before one N J Ross a Justice
+of the Peace in said Mason
+County and falsely accused
+your petitioner with motioning
+Section 788 of the Code of Washington
+Territory by putting obstructions
+upon the track of a railway
+whereby the lives of persons
+travelling on said railway
+were endangered. That the
+said socalled railway is
+a wood tramway on which
+only cars are used. That
+two cars drawn by
+steam is used on said
+road. That said E F McReavy
+and one John Latham and
+John McReavy claim to be
+ownersb of said wood tramway.</p>
+
+<p>That said tramway is a
+private road way and not a
+public way, and is solely
+used by said three persons
+McReavy, Latham, and McReavy,
+and by no one else, for
+the sale and only purpose
+of hauling logs from a
+point in the woods a
+short distance to a point
+on Hood's Canal in said
+Mason County, for the
+sale and exclusive benefit
+of said three persons named
+and for no on else.</p>
+
+<p>That near the place
+where said tramway
+was his said Hood's Canal,
+this petitioner owned and
+owns in fee and is and
+was lawfully possessed
+of a house garden and
+farm, fenced and in
+continuation on and long
+before said 14th day of
+June 1884. That while
+so peaceably possessed
+of his said home, the
+said E F McReavy
+and divers other persons
+with force and arms broke
+and therein down the fences
+of your petitioner and dug
+and tore up his grounds
+fields and gardens and
+spoiled his grain and
+erected built and constructed
+said wood tramway along
+on and across your petitioners
+lands and grounds. That the
+offense for which your
+petitioner is restrained
+of his liberty consists of
+his having fend up his
+fences and with having
+tried to prevent the building
+and running said wood
+tramway across his
+said farm garden and
+grounds.</p>
+
+<p>That the said N J Ross
+Justice of the Peace aforesaid
+had no jurisdiction to
+commit your petitioner
+under section 788 afore-
+said. That the offense
+charged against your petitioner
+does not constitute a crime.</p>
+
+<p>That this application is
+based upon the commitment
+now in the hands of said
+William Billings, upon the
+affidavits hereunto annexed
+and upon the whole record
+in the cause of the Territory
+of Washington vs John Doyle
+your petitioner before said
+N J Ross Justice as aforesaid.</p>
+
+<p>That a notice of this
+application has been duly served
+upon J.C. McFadden the
+Prosecuting Atty of the Second
+Judicial District. That bail in
+his case was fixed at the excessive sum of
+$3000</p>
+
+<p>Wherefore your
+petitioner prays that he may
+be discharged from custody
+upon his own personal recognizance
+of bail, or that his bail
+may be reduced to $100.</p>
+
+<p>Relator</p>
+
+<p>Territory of Washington,
+County of Thurston } ss</p>
+
+<p>John Doyle
+being first duly sworn, on oath, says: That he is the Relator
+named in the above entitled action; that he
+has heard the foregoing petition read, knows the contents
+thererof, and believes the same to be true; that he makes this affidavit because</p>
+
+<p>John Doyle</p>
+
+<p>Subscribed and sworn to before me this 30th
+day of June 1884.
+D P Ballard
+Notary Public for Washington Territory.</p>
+
+<p>No.
+Dist. Court at Olympia</p>
+
+<p>Ty of Washington
+John Doyle
+Relator
+Ex parte</p>
+
+<p>Habeas Corpus</p>
+
+<p>Received and Filed
+Jul 1 1884
+R.G. O'Bruin Clerk</p>
+
+<p>Ballard and McFadden
+Attorneys for</p>
+
+<p>Notice of application for
+writ is hereby waived.
+Olympia Jul 30 1884</p>
+
+<p>J C McFadden
+Pros atty</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+

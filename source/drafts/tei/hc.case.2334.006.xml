@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.2334.006"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles H. Phillips v. William Billings. Writ</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.2334.006</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Charles H. Phillips  v. William Billings. Writ</title>
+<date when="1884-08-04">August 4, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1884-08">August 1884</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Harmon, C.B.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places">
+<term>Thurston County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Phillips, Charles H.</persName>
+</person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ballard, D.P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>McFadden, O.K.</persName>
+</person>
+<person role="judge">
+<persName>Hoyt, John P.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Thurston County</orgName> 
+<placeName>Olympia, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.2334.006"/> 
+
+<p>The body of Charles H. Phillips
+in the foregoing Writ of Habeas
+Corpus mentioned being brought
+before me at the time and
+place in the said writ named,
+and the return thereto being
+read and considered, and it
+appearing to me that the facts
+and circumstances therein set
+forth are not sufficient
+to justify his imprisonment,
+and no sufficient
+cause for the detention of
+the said Charles H Phillips
+appearing it is hereby ordered
+that the said Charles H Phillips
+be by the said Sheriff forthwith
+discharged from imprisonment
+and detention for the cause
+aforesaid.</p>
+
+<p>Given under my hand
+and seal this 2nd day of August
+1884.</p>
+
+<p>John P. Hoyt
+Justice of the Supreme
+Court and Judge of the
+Second Judicial District
+of Washington Territory</p>
+
+<p>O K McFadden
+Pros atty
+2nd Dist.</p>
+
+<p>Territory of Washington
+County of Thurston } ss</p>
+
+<p>I William Billings Sheriff
+of Thurston County do hereby certify that
+under and by virtue of the within order
+of discharge I released the defendant
+C H Phillips from custody and the 2nd
+day of August 1884 and I herewith
+return this order with my doings thereon.</p>
+
+<p>By C B Harmon Deputy</p>
+
+<p>Sheriff Fees
+To Discharge            $1.00
+" Return                          .20
+                                   $1.20</p>
+
+<p>Territory of Washington
+vs.
+C H Phillips</p>
+
+<p>Order of Discharge
+2334.</p>
+
+<p>Received and Filed
+Aug 4 1884
+R.G. O'Bruin</p>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+
