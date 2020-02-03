@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0247.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0247.015"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Demarco v. McKay. Sworn Oath from Notary Public</title> 
+<title>Demarco v. McKay. Letter from Judge</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0247.004</idno> 
+<idno type="project">oscys.case.0247.015</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Demarco v. McKay. Sworn Oath from Notary Public</title>
-<date when="1887-03-07">March 7, 1887</date>
+<title level="m" type="main">Demarco v. McKay. Letter from Judge</title>
+<date when="1887-03-05">March 5, 1887</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,11 +82,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McKay, H.F.</term>
+<term>Hoyt, John P.</term>
+<term>O'Brien, R.G.</term>
+<term>Wills, J.F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce county, Washington</term> 
+<term>Tacoma, Washington</term>
 </keywords>
 
 </textClass>
@@ -133,17 +135,19 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0247.004"/>
+<pb facs="hc.case.0247.015"/>
 
-<p>1948</p>
+<p><del>the</del> Judge of this Court at the Court room in Tacoma said county forthwith &amp; to show cause of any there be way said petition is so held by him and why he should not be discharged</p>
+<p>John P. Hoyt 
+Judge</p>
 
-<p>Territory of Washington
-County of Pierce} ss</p>
-<p>H.F. McKay being duly sworn on oath says that she is the respondents named in the above return to a writ of Habeas Corpus that he has heard said return read knows the <unclear></unclear> thereof That the name is Free as he <unclear>vesily</unclear> believes</p>
-<p>H.F. McKay</p>
-<p>Subscribed and brought before me this 7th day of March AD 1887</p>
-<p><!-- unreadable -->
-<unclear>Ntry</unclear> Public</p>
+
+
+<p>Filed Mch 5 1887
+RG O'Brien
+Clerk
+By JF Wills
+Deputy</p>
 
 </div1>
     

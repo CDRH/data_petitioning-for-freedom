@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0247.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0247.014"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Demarco v. McKay. Sworn Oath from Notary Public</title> 
+<title>Demarco v. McKay. Letter from Judge</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0247.004</idno> 
+<idno type="project">oscys.case.0247.014</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Demarco v. McKay. Sworn Oath from Notary Public</title>
-<date when="1887-03-07">March 7, 1887</date>
+<title level="m" type="main">Demarco v. McKay. Letter from Judge</title>
+<date when="1887-03-05">March 5, 1887</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,11 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Demarco, Frank</term>
 <term>McKay, H.F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Pierce county, Washington</term> 
+<term>Tacoma, Washington</term>
 </keywords>
 
 </textClass>
@@ -133,17 +134,18 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0247.004"/>
+<pb facs="hc.case.0247.014"/>
 
 <p>1948</p>
 
 <p>Territory of Washington
-County of Pierce} ss</p>
-<p>H.F. McKay being duly sworn on oath says that she is the respondents named in the above return to a writ of Habeas Corpus that he has heard said return read knows the <unclear></unclear> thereof That the name is Free as he <unclear>vesily</unclear> believes</p>
-<p>H.F. McKay</p>
-<p>Subscribed and brought before me this 7th day of March AD 1887</p>
-<p><!-- unreadable -->
-<unclear>Ntry</unclear> Public</p>
+County of Pierce} SS In District Court</p>
+
+<p>In the Matter of the Application
+of Frank Demarco for Writ
+of Habeas Corpus} </p>
+
+<p>This matter coming on before me at <unclear>Chambines</unclear> in the city of Tacoma, W.T. on this 8th day of March 1887, upon the application of Frank Demarco, for a writ of Habeas Corpus Comading H.F. McKay, Chief of Police of said City of Tacoma, to him the body of said petitioner brought before the said petitioner brought before the said District Court, and there I show cause if any there be why said petitioner shall be longer restrained of his liberty, and it appears that sufficient cause exist and is shown why such writ should issue it is hereby ordered by the Judge of said Court that a writ of Habeas Corpus do issue forthwith out of <del>said</del> <del>this</del>court commands said H.F. McKay to harm the body of said Petitioner, Frank Demarco before</p>
 
 </div1>
     
