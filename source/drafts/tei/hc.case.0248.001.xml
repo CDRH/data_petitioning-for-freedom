@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0248.001"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title> <!-- replace with name of case; type of document -->
+<title>Davenport v. . Memo from Petitioner Attorneys</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -34,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0248.001</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Davenport v. . Memo from Petitioner Attorneys.</title>
+<date/>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,15 +78,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1918-11"></date></term><!-- insert date of court term -->
+<term><date when="1887-03"></date>March 1887</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Calhoun</term>
+<term>Colenian</term>
+<term>Davenport, Steve</term>
+<term>Sheehan, John F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -93,34 +97,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Davenport, Stephen</persName>
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
-</person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
 </person>
+<person role="attorney_petitioner">
+<persName>Calhoun</persName>
+<persName>Colenian</persName>
+</person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Allen, Frank</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> <!-- insert court name -->
-<placeName>Western District of Washington</placeName> <!-- insert court location -->
+<orgName>United States District Court of Washington Territory, Second Judicial District</orgName>
+<placeName>Pierce County, Tacoma, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
-<change when="2019" who="#ini">encoded, edited transcription.</change>  <!-- change description, initials, and date -->
+<change when="2019" who="#sab">transcribed, encoded</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -131,10 +135,16 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0248.001"/>
 
+<p>made an order requiring petitioner to enter into bond in the <unclear>final</unclear> sum of Two Thousand give hundred dollars, for his appearance at the District Court in said County to answer any Indictment that the Grand Jury might present against him upon said charge, and in default of said bond that the sheriff of said County of Whaltcom take him into his custody and hold him until discharged by due process of law:</p>
+<p>That petitioner was and is unable to give said bond, which is exhorbitant, and that on the 23d day of September 1888 the sheriff of said County of Whatcom delivered petitioner to said Sheehan, without any writ on process of any kind whatever, and ever since said last named day said Sheehan has held, and still continues to hold, &amp; confine petitioner without any process and without any right so to do.</p>
+<p>Wherefore petitioner prays that your Honor grant him a writ of Habeas Corpus directed to said John F. Sheehan, requiring him to have petitioner before your HOnor at such time and place as to Your Honor may seem best, and that in facts with reference to said charge may be examined into, and petitioner discharged from further custody.</p>
 
-<fw type="footer"> &amp;</fw>
+<p>Steve Devenport</p>
+
+<p>Calhoun &amp; Colenian</p>
+<p>Attys for Petitioner</p>
 
 
 </div1>
