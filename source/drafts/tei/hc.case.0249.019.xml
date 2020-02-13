@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.010"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.019"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Hazzard v. Aguirre and Price. Memo from Petitioner Attorneys.</title> 
+<title>Hazzard v. Aguirre and Price. Filed</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0249.010</idno> 
+<idno type="project">oscys.case.0249.019</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Hazzard v. Aguirre and Price. Memo from Petitioner Attorneys.</title>
-<date when="1889-12-13">December 13, 1889</date>
+<title level="m" type="main">Hazzard v. Aguirre and Price. Filed</title>
+<date when="1889-10-09">October 9, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,8 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Aguirre, M.J.</term>
-<term>Hazzard, George</term>
+<term>Aguirre, M.G.</term>
+<term>Hynes, Reeves</term>
 <term>Price, James H.</term>
 </keywords>
 
@@ -104,7 +104,9 @@
 <persName>Aguirre, M.J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Palmer</persName>
+<persName>Griggs, Herbert S.</persName>
+<persName>Sullivan</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Campbell, Fremont</persName>
@@ -135,19 +137,28 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0249.010"/>
+<pb facs="hc.case.0249.019"/>
 
-<p>3063</p>
+<p>No 3063</p>
 
-<p>with discharged and released from the illegal restraint and detention in his petition herein mentioned, and that he may go hence without <del>delay</del> day with his costs and charges etc.</p>
+<p>In the District Court of the Second Judicial District of the Territory of Washington, holding Terms at Tacoma in and for the County of Pierce.</p>
 
-<p>George Hazzard</p>
+<p>The Territory of Washington on relator of George Hazzard 
+Plaintiff
+vs. 
+James H Price and Att &amp; Aguirre
+Defendants</p>
+<p>Exception to Return</p>
+<p>Service by receipt of a copy, admitted at Tacoma this 7th day of Oct A.D. 1889
 
-<p><unclear></unclear> S. Griggs
-P.C. Sullivan
-Frank T. Reich &amp;
-Gruttary Palmer
-Attys for Petitioner</p>
+Attorney for FILED OCT 9 1889</p>
+
+<p>H. Reeves Hynes Clerk
+
+By 
+Deputy Clerk,</p>
+<p>JUDSON, SHARPSTEIN &amp; SULLIVAN,
+Attorneys for</p>
 
 </div1>
     
