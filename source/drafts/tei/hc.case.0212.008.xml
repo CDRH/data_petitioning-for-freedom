@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0212.008">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Hazzard v. Aguirre and Price. Copies of the Following.</title> 
+<title>Taka Shibata v. Henry M. White. Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0249.001</idno> 
+<idno type="project">hc.case.0212.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Hazzard v. Aguirre and Price. Copies of the Following.</title>
-<date/>
-<note type="project">Our transcription is based on a digital image.</note> 
+<title level="m" type="main">Taka Shibata v. Henry M. White. Appearance</title>
+<date when="1920-07-12">July 12, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,13 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-12">December 1889</date></term>
+<term><date when="1920-07">July 1920</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Aguirre, M.J.</term>
-<term>Hazzard, George</term>
-<term>Price, James H.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,38 +92,39 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Hazzard, George</persName>
+<persName>Shibata, Taka</persName>
 </person>
 <person role="defendant">
-<persName>Price, James H.</persName>
-<persName>Aguirre, M.J.</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Palmer</persName>
-<persName>Griggs, Herbert S.</persName>
-<persName>Sullivan</persName>
+<persName>Davis, P.V.</persName>
+<persName>Kiefer, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Campbell, Fremont</persName>
+<persName>Saunders, Robert C.</persName>
+<persName>Capers, R.E</persName>
 </person>
 <person role="judge">
-<persName>Allyn, Frank</persName>
+<persName>Neterer, Jeremiah</persName>
+<persName>Rudkin, Frank H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court of Washington Territory, Second Judicial District</orgName>
-<placeName>Pierce County, Tacoma, Washington</placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#sab">transcribed, encoded</change> 
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-02" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,28 +135,46 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0249.001"/>
+<pb/>
 
-<p>3063</p>
+<p>No. <supplied>5449</supplied></p>
 
-<p>Is the lileh of the Supreme Court</p>
+<p>G0B-8-187</p>
 
-<p>In the case of the Territory of Washington on the relation of George Hazzard plaintiff v. James H. Price and <del>Ja</del> M.J. Aguirre defendants</p>
+<p>United States District Court</p>
+<p>Western District of Washington</p>
 
-<p>Please make teanerft thereof for the Supreme Court on appeal</p>
-<p>Copies of following <unclear>tableus</unclear></p>
+<p>Appearance</p>
 
-<p>Petition for writ of Habeas Corpus
-Writ of Habeas Corpus issued by the lilent 
-Until the return thats of the deffendants
-Exceptions of petitioner to the return
-Answer of Petition Hazzard until <del>a copy of</del> exhibit "a" therein inflned to x
-Demainer to aminer
-all Jourice entirls in the cancer
-Bend on appeal
-Attach "Exhibit B" to the statement of facts
-certify the argumeant statement of  facts
-copy of anngument of enors</p>
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Tx</p>
+
+<p>Jul 12 1920</p>
+
+<p>F.M. Harshberger, Clerk</p>
+
+<p>By S.E. Leitch Deputy</p>
+
+<pb/>
+
+<p>No. 5449</p>
+
+<p>Appearance</p>
+
+<p>In Re Application of Taka Shibata for Writ of Habeas Corpus</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+
+<p>You will please enter our appearance as attorney for the petitioner in the above entitled cause, and service of all subsequent papers, except writs and process, may be made upon said Taka Shibata by leaving the same with P.V. Davis</p>
+
+<p>Office Address 300 Central Bldg</p>
+
+<p>or James Kiefer</p>
+<p>Colman Bldg</p>
+<p>Seattle</p>
 
 </div1>
     

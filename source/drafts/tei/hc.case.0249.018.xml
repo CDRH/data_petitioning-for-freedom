@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.018"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Hazzard v. Aguirre and Price. Copies of the Following.</title> 
+<title>Hazzard v. Aguirre and Price. Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0249.001</idno> 
+<idno type="project">oscys.case.0249.018</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Hazzard v. Aguirre and Price. Copies of the Following.</title>
-<date/>
+<title level="m" type="main">Hazzard v. Aguirre and Price. Habeas Corpus</title>
+<date when="1889-10-06">October 6, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,13 +82,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Aguirre, M.J.</term>
-<term>Hazzard, George</term>
+<term>Aguirre, M.G.</term>
+<term>Hynes, Reeves</term>
 <term>Price, James H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Los Angeles, California</term>
+<term>Tacoma, Washington</term>
 </keywords>
 
 </textClass>
@@ -136,28 +137,31 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0249.001"/>
+<pb facs="hc.case.0249.018"/>
 
 <p>3063</p>
+<p>In the District Court of the Second Judicial District of Washington Territory, holding terms at Tacoma, within and for the County of Pierce.</p>
 
-<p>Is the lileh of the Supreme Court</p>
+<p>THE TERRITORY OF WASHINGTON ON THE
+RELATION OF GEORGE HAZZARD,
+Plaintiff,
+vs.
 
-<p>In the case of the Territory of Washington on the relation of George Hazzard plaintiff v. James H. Price and <del>Ja</del> M.J. Aguirre defendants</p>
+JAMES H. PRICE and M. G. AGUIRRE,
+Defendants</p>
 
-<p>Please make teanerft thereof for the Supreme Court on appeal</p>
-<p>Copies of following <unclear>tableus</unclear></p>
+<p>Habeas Corpus.</p>
 
-<p>Petition for writ of Habeas Corpus
-Writ of Habeas Corpus issued by the lilent 
-Until the return thats of the deffendants
-Exceptions of petitioner to the return
-Answer of Petition Hazzard until <del>a copy of</del> exhibit "a" therein inflned to x
-Demainer to aminer
-all Jourice entirls in the cancer
-Bend on appeal
-Attach "Exhibit B" to the statement of facts
-certify the argumeant statement of  facts
-copy of anngument of enors</p>
+<p>And now on this 9th day of October A.D. 1889, comes the said petitioner George Hazzard in his own proper person as well as by his counsel, and doth except to the return herein filed by James H. Price and M.G. Aguirre, defendants, and says that the said return is insufficient in law and that the said defendants ought not, for or on account of any matter or thing in the said return alleged and set forth restrain the said petitioner of his liberty.</p>
+<p>WHEREFORE the petitioner prays, as he has by his petition herein before prayed, that he may be discharged of the said allegal restraint and detention and that he may go hence without <del>delay</del> day etc.</p>
+
+<p>George Hazzard</p>
+
+<p>Hentrick S. Griggs
+P.C. Sallion
+Frank T Rein
+John May  Palmer
+Attornes for Petition</p>
 
 </div1>
     
