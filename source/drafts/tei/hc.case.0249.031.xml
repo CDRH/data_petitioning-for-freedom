@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.031"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Hazzard v. Aguirre and Price. Case No 3063</title> 
+<title>Hazzard v. Aguirre and Price. Memo from Petitioner</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0249.002</idno> 
+<idno type="project">oscys.case.0249.031</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Hazzard v. Aguirre and Price. Case No 3063</title>
-<date/>
+<title level="m" type="main">Hazzard v. Aguirre and Price. Memo from Petitioner</title>
+<date when="1889-10-06">October 6, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -82,12 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Aguirre, M.G.</term>
 <term>Price, James H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>California</term>
+<term>Pierce County, Washington</term>
 </keywords>
 
 </textClass>
@@ -135,17 +135,10 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0249.002"/>
+<pb facs="hc.case.0249.031"/>
 
-<p>No 3063</p>
-
-<p>The Territory of 
-Washington to
-<unclear></unclear>
-plaintiff
-vs
-James H. Price
-and MG Aguirre</p>
+<p>H. Price at the place aforesaid is illegal and the illegality of the said restraint counsels in this that the said pretended warrant of the Governor of the territory of Washington was issued by the said Governor without any authority of law whatever: that no demand was or has been made upon the Governor of Washington territory by the Executive authority of the State of California for the delivery or arrest or apprehension of your petitioner as a fugitive from justice, in the manner required by the law of the United States or of this territory.</p>
+<p>That your petitioner is not and hath not been a fugitive from the justice of the State of California; That your petitioner hath not fled from the State of California. That your petitioner hath not been charged in the State of California with any treason, felony, or other crime: That your petitioner is not guilty of any treason, felony, or other crime against the laws of the State of California: nor is there any reasonable or probable cause for believing that your petitioner is guilty of any treason, felony or other crime against the laws of the State of California: that your petitioner is wrongfully restrained of his liberty without any such probable cause therefor</p>
 
 </div1>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.002"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0249.034"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Hazzard v. Aguirre and Price. Case No 3063</title> 
+<title>Hazzard v. Aguirre and Price. Memo from Judge</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0249.002</idno> 
+<idno type="project">oscys.case.0249.034</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Hazzard v. Aguirre and Price. Case No 3063</title>
-<date/>
+<title level="m" type="main">Hazzard v. Aguirre and Price. Memo from Judge</title>
+<date when="1889-10-06">October 6, 1889</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -83,11 +83,13 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Aguirre, M.G.</term>
+<term>Hazzard, George</term>
 <term>Price, James H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>California</term>
+<term>Pierce County, Washington</term>
 </keywords>
 
 </textClass>
@@ -135,17 +137,20 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0249.002"/>
+<pb facs="hc.case.0249.034"/>
 
-<p>No 3063</p>
+<p>3063</p>
 
-<p>The Territory of 
-Washington to
-<unclear></unclear>
-plaintiff
-vs
-James H. Price
-and MG Aguirre</p>
+<p>In the District Court of the 2d Judicial
+District holding terms at Tacoma, Pierce 
+County, Washington Territory</p>
+
+<p>In the matter of the application of
+George Hazard
+for a Writ of Habeas Corpus }</p>
+<p>Upon reading and filing the petition of George Hazard duly signed and verified by him, whereby it appears that he is illegally imprisoned and restrained of his liberty by James H. Price, sheriff of the County of Pierce Territory of Washington</p>
+<p><unclear>Arg</unclear> M.H. Aguirre,
+at the county jail in Pierce County in the Territory of Washington, and stating wherein the alleged illegality consists, from which it appears to me that a writ of habeas corpus ought to issue H is therefore hereby ordered that a writ of habeas corpus issue out of and under the seal of the District Court holding terms for the 2d Judicial District at Tacoma, in and for Pierce County aforesaid directed to the said James H. Price, sheriff as aforesai <del>aurthor said M.G. Aguirre</del> commanding them to have the body of said George Hazard before me, in Tacoma at the Court room on the 8th day of October, 1889 at 10 oclock</p>
 
 </div1>
     
