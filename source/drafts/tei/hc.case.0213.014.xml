@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0213.014">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Taichi Hiura v. Henry M. White</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0213.014</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Taichi Hiura v. Henry M. White</title>
+<date when="1920-07-17">July 17, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1920-07">July 1920</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Okajima, Kinya</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Japan</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hiura, Taichi</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kiefer, James</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+<persName>Capers, R.E</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-02" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>Mails and Files</p>
+<p>Jul 22 1920</p>
+<p>Immigration</p>
+
+<p>U.S. Department of Labor</p>
+<p>Immigration Service</p>
+<p>District No. 16</p>
+
+<p>In Replying Refer to</p>
+<p>No. 37801/3-1</p>
+
+<p>District Headquarters</p>
+<p>U.S. Commissioner of Immigration</p>
+<p>Seattle, Wash.</p>
+
+<p>July 17, 1920.</p>
+
+<p>896/10</p>
+
+<p>Commissioner General of Immigration, Washington D.C.</p>
+
+<p>I transmit herewith on appeal, Board of Special Inquiry record in the case of TEIICHI HIURA, 28, male, laborer, subject of Japan who arrived at this port on the S.S. "Africa Maru" on the 1st instant, and who has been rejected by a Board of Special Inquiry as a Japanese laborer, not in possesssion of a proper passport, and as a person likely to become a public charge.</p>
+
+<p>Attention is requested to the statement and motion of the chairman of the Board (pages 3 and 4 of the record), which contains a resume of the important points in the case.</p>
+
+<p>The appeal is being prosecuted by Kinya Okajima, whose brief will be found attached to the record.</p>
+
+<p>I have carefully reviewed the record in this case, and it is my judgment that the applicant is not entitled to admission, and I, therefore, recommend that the excluding decision of the Board be affirmed and that deportation be ordered.</p>
+
+<p>Scheduled sailings: July 23, August 7, August 21, September 7.</p>
+
+<p>Henry M. White</p>
+<p>Commissioner.</p>
+
+<p>TD/LHB</p>
+<p>Enclosure 22449</p>
+
+<p>Received Jul 23 1920</p>
+<p>Bureau of Immigration Law</p>
+
+<p>S</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
