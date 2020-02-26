@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1066.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.1066.009"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Samuel Coulter v. William Billings. Attachment</title> 
+<title>Samuel Coulter v. William Billings. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.1066.004</idno> 
+<idno type="project">hc.case.1066.009</idno> 
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Samuel Coulter v. William Billings. Attachment</title>
-<date when="1872-01-24">January 24, 1872</date>
+<title level="m" type="main">Samuel Coulter v. William Billings. Writ</title>
+<date when="1872-01-23">January 23, 1872</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -82,11 +82,7 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term>Hawks, W.C.</term>
 <term>Houghton, J.H.</term>
-<term>Jacobs, O.</term>
-<term>Sherr, H.</term>
-<term>Sprochule, F.A.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places">
@@ -137,72 +133,26 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.1066.004"/> 
+<pb facs="hc.case.1066.009"/> 
 
-<p>Attachment for Witness</p>
+<p>Jan 23 1872</p>
 
-<p>Territory of Washington
-County of Pierce</p>
+<p>To Ballard and Ureche - The paper Hawk showed
+me may or may not be an <unclear></unclear> of Court - I have
+no <unclear></unclear> of knowing there is no seal and I
+<unclear></unclear> an authenticated copy of the 
+for my protection: before I furnish certified copies
+of my <unclear></unclear></p>
 
-<p>To the Sheriff of Pierce Co
-Greeting</p>
+<p>S. Coulter
+Collector</p>
 
-<p>In the name
-of the United States are hereby
-commanded to forthwith take
-in your charge and safely bring
-into the District Court for
-3rd Judicial Dist of W.T. holdings
-for Pierce Co at the town of
-Steilacoom now in session
-the person of Samuel Coulter to
-be punished for contempt of court.
-Also then and there to testify
-before it is a certain cause
-therein pleading wherein H. Sherr
-is Plaintiff and F.A. Sprochule
-is Defendant and
-also to show cause why he should
-not be punished for contempt
-of Court.</p>
-
-<p>Witness the Hon O. Jacobs Chief
-Justice of W.T. and Judge of 3rd
-Judicial District this 23rd
-day of Jany A.D. 1872</p>
-
-<p>John Salter
-Clerk</p>
-
-<p>Seal of
-Court</p>
-
-<p>Attachment
-for
-Witness</p>
-
-<p>I hereby appoint
-W.C. Hawks to
-serve the <unclear></unclear>
-attachment
-Jany 23rd 1872
-O. Jacobs
-Judge 3rd Jud
-Dist W.T.</p>
-
-<p>Copy</p>
+<p>In vs. Coulter
+Exhibit D</p>
 
 <p>Filed Jany 24 1872
 J.H. Houghton
 Clerk</p>
-
-<p>I hereby certify that the within is a true
-and correct copy of the original Attachment
-placed in my hands for service</p>
-
-<p>W.C. Hawks
-Deputy Sheriff Pierce
-Co. W.T.</p>
 
 </div1>
             
