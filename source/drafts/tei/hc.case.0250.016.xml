@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0250.007"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0250.016"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leiffman v. Stein. Order of Discharge</title> 
+<title>Leiffman v. Stein. Testimony</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0250.007</idno> 
+<idno type="project">oscys.case.0250.016</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,7 +44,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leiffman v. Stein. Order of Discharge</title>
+<title level="m" type="main">Leiffman v. Stein. Testimony</title>
 <date when="1880-06-09">June 9, 1880</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
@@ -81,15 +81,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hynes, Reevus</term>
 <term>Leiffman, Julius</term>
-<term>Stein, R.P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Columbus County</term>
 <term>Texas</term>
-<term>Whitman County</term>
 </keywords>
 
 </textClass>
@@ -134,18 +130,20 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.250.007"/>
+<pb facs="hc.case.250.016"/>
 
-<p>Julius Leiffman 
-vs.
-RP Stein
-Habeas Corpus
-Order of Discharge</p>
+<p>Territory of Washington
+County of Columbia}</p>
+<p>Julius Leiffman
+vs
+RP Stein, Sheriff}</p>
 
+<p>Before Hon S.C. Wingard Judge of Washington Territory for the 1st Judicial Justice
+at his Chambers in <unclear></unclear> W.T.</p>
 
-<p>Ruled June 9th 1880
-Reeves Hynes
-Clerk</p>
+<p>The above named Julius Leiffman, Complaining of said Defendant RP Stein Sheriff of Columbia County in said Territory alleges</p>
+<p>1st. That the said complement, Julius Leiffman is illegally restrained of his liberty in the County Jail of Columbia County in said Territory by the said Defendant RP Stein Sheriff of said County and keeper of said Jail</p>
+<p>2d. That the cause of pretence of the said restraint and imprisonment, according to the best of the knowledge and belief of this complaint, the said Julius Leiffman, is that one Jackson requests the said RP Stein Defendant, as such Sheriff to arrest and hold complement in prison, on the rounds, as alleged by said Jackson, that he, the said Jackson had some papers, documents on authority</p>
 
 </div1>
     
