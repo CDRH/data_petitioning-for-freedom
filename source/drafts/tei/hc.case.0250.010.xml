@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> v . Testimony</title> 
+<title>Leiffman v. Stein. In the Matter of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"> Testimony</title>
-<date when="1880-06-09">June 9, 1880</date>
+<title level="m" type="main">Leiffman v. Stein. In the Matter of Habeas Corpus</title>
+<date when="1880-05-17">May 17, 1880</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,13 +82,13 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Boyles</term>
+<term>Jackson, M.</term>
 <term>Leiffman, Julius</term>
+<term>Stein, R.P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Columbus County</term>
-<term>Texas</term>
-<term>Whitman County</term>
+<term>Columbia County, Washington</term>
 </keywords>
 
 </textClass>
@@ -96,19 +96,20 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>Leiffman, Julius</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Stein, R.P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>George, W.A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Freeman, William A.</persName>
+<persName>Wingard, S.C.</persName>
 </person>
 </listPerson>
             

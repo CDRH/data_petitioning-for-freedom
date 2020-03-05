@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0250.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0250.017"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leiffman v. Stein. Memo to the Defendant</title> 
+<title>Leiffman v. Stein. Memo from Petitioner Attorney</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0250.004</idno> 
+<idno type="project">oscys.case.0250.017</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leiffman v. Stein. Memo to the Defendant</title>
-<date when="1880-06-07">June 7, 1880</date>
+<title level="m" type="main">Leiffman v. Stein. Memo from Petitioner Attorney</title>
+<date when="1880-06-09">June 9, 1880</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -81,17 +81,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hynes, Reevus</term>
+<term>George, W.A.</term>
+<term>Jackson, J.E.</term>
 <term>Leiffman, Julius</term>
 <term>Stein, R.P.</term>
-<term>Wingard, S.C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Colfax County</term>
-<term>Columbia County</term>
-<term>Washington</term>
-<term>Whitman County</term>
+<term>Collax</term>
+<term>Texas</term>
+<term>Walla Walla County</term>
 </keywords>
 
 </textClass>
@@ -137,15 +136,14 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.250.004"/>
+<pb facs="hc.case.250.017"/>
 
-<p>Territory of Washington
-County of Whitman } ss</p>
-<p>To RP. Stein Sheriff of Columbia County W.T.</p>
-<p>In the name of the United States: You are hereby commanded that you have the body of Julius Leiffman by you imprisoned and detained as it is said together with the time and cause of such imprisonment and detention, by whatever name the said Julius Leiffman shall be called or charged before the Hon S.C. Wing and <unclear>Juap</unclear> of this District Circuit of Washington Territory of the Just Judicial District at his Chambers at Colfax in said District forthwith upon the receipt of this writ to do and receive what shall then and there be considered concerning the said Julius Leiffman and have you then and there this writ</p>
-<p>Witness the Hon S.C. Wingard Judge of said District Court and the seal of said Court of Colfax in said District this the 7th day of June A D 1880</p>
-
-<p><unclear>A. Reeves Hynes</unclear></p>
+<p>from the State of Texas authorizing such arrest and imprisonment</p>
+<p>3d. That the illegality of said restraint and imprisonment consists in this that the Defendant RP Stein, as such Sheriff or otherwise, has no such papers, documents or process whatever and that said Jackson has not produced or exhibited any such papers, documents or authority to complaint or to the Defendant Stein to complement has been Confined in said Jail for more than sixteen days</p>
+<p>Wherefore complement prays that a writ Habeas Corpus issue herein, directs to said Defendant RP Stein Commanding him for the with to bring and have complainant before his Honor the said S.C. Wingard Judge of said Court as aforesaid at his Chambers in Collax <del>the Coty of Walla Walla</del> in said Judicial District, that the cause of his said restraint maybe engine of into and that he may be dealt with according to law</p>
+<p>WA George
+Attorney for <unclear>Pet</unclear>
+Complainant</p>
 
 </div1>
     
