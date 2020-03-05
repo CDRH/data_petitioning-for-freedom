@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leiffman v. Stein. Testimony</title> 
+<title>Leiffman v. Stein. Petitioner Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leiffman v. Stein. Testimony</title>
-<date when="1880-06-09">June 9, 1880</date>
+<title level="m" type="main">Leiffman v. Stein. Petitioner Statement</title>
+<date when="1880-06-02">June 2, 1880</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,11 +81,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>George, Wyatt A.</term>
 <term>Leiffman, Julius</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Texas</term>
+<term>Columbia County</term>
 </keywords>
 
 </textClass>
@@ -93,19 +94,20 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>Leiffman, Julius</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Stein, R.P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>George, W.A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Freeman, William A.</persName>
+<persName>Wingard, S.C.</persName>
 </person>
 </listPerson>
             
