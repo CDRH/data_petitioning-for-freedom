@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0252.013"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0253.008"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Bunnell and Bunnell v. Isbell. Matter of Application</title> 
+<title>Davis v. Davis. Petition for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0252.013</idno>
+<idno type="project">oscys.case.0253.008</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Bunnell and Bunnell v. Isbell. Matter of Application</title>
-<date when="1888-09-10">September 10, 1888</date>
-<note type="project">Our transcription is based on a digital image.</note> 
+<title level="m" type="main">Davis v. Davis. Petition for Writ of Habeas Corpus</title>
+<date when="1888-12-05">December 5, 1888</date>
+<note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -78,22 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-09"></date>September 1888</term>
+<term><date when="1888-11"></date>November 1888</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bunnell, Arthur</term>
-<term>Bunnell, Edgar</term>
-<term>Burtenshaw, L.L.</term>
-<term>Crowly, D.J.</term>
-<term>Isbell, William</term>
-<term>Sharpstein, John L.</term>
+<term>Marion, Alfred H.</term>
+<term>Marion, A.G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Colfax</term>
-<term>Walla Walla</term>
-<term>Washington Territory</term>
+<term>Colfax, Washington Territory</term> 
+<term>Whitman County</term>
 </keywords>
 
 </textClass>
@@ -101,14 +96,15 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Bunnell, Arthur</persName>
-<persName>Bunnell, Edgar</persName>
+<persName>Davis, Nelson</persName>
 </person>
 <person role="defendant">
-<persName>Isbell, William</persName>
+<persName>Davis, Sarah M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Brown</persName>
+<persName>Chadwick</persName>
+<persName>Sullivan</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -120,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
-<placeName>Western District of Washington</placeName> 
+<orgName>United States District Court For The First Judicial District Court</orgName> 
+<placeName>Colfax, Whitman County, Washington Territory</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#sab">encoded, transcribed.</change> 
+<change when="2020" who="#sab">encoded, transcribed, edited.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,16 +135,13 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0252.013"/> 
+<pb facs="hc.case.0253.008"/>
 
-<p>In the District Court of the Territory of Washingotn and for the Trial Judicial District Honor holding terms at Colfax</p>
-
-<p>In the Matter of the Application of</p>
-
-<p>Edgar Bunnell and Arthur Bunnell for Writ Habeas Corpus</p>
-
-<p>The above application coming in for having at Chambers at Walla Walla this 25th day of September AD 1888 at ten oclock AM the said petitioners appearing by John L. Sharpstein and LL Burtenshaw and the marshall William Isbell appearing by DJ Crowly his attorney and having made his return to said writ.</p>
-<p>And now on motion of attorneys for Petitioner it is indeed that the said writ be guashed and denied It is futher indeed that said William Isbell do have and receive from said Edgar Bunnell and Arthur Bunnell his costs</p>
+<p>And the head afraid court this 5 day of December 1888</p>
+<p>A h Marion
+Clerk.
+By A G Marion 
+Deputy</p>
 
 </div1>
     
