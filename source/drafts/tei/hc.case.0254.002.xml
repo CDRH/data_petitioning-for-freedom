@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0253.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0254.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Davis v. Davis. Memo from Petitioner Attorneys</title> 
+<title> Shrek v. Berry. Commitment Upon Sentence</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0253.004</idno> 
+<idno type="project">oscys.case.0254.002</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Davis v. Davis. Memo from Petitioner Attorneys</title>
-<date when="1888-12-05">December 5, 1888</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main"> Shrek v. Berry. Commitment Upon Sentence</title>
+<date when="1888-12-20">December 20, 1888</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -78,19 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-11"></date>November 1888</term>
+<term><date when="1888-12"></date>December 1888</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brown</term>
-<term>Chadwick, S.J.</term>
-<term>Davis, Nelson</term>
-<term>Sullivan</term>
+<term>Herman, Frank</term>
+<term>Shrek, Michael</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Colfax, Washington Territory</term> 
-<term>Whitman County</term>
+<term>Colfax, Washington Territory</term>
+<term>Whitman County</term> 
 </keywords>
 
 </textClass>
@@ -98,10 +96,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Davis, Nelson</persName>
+<persName>Shrek, Michael</persName>
 </person>
 <person role="defendant">
-<persName>Davis, Sarah M.</persName>
+<persName>Berry, L.P.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Brown</persName>
@@ -118,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName>United States District Court For The First Judicial District Court</orgName> 
-<placeName>Colfax, Whitman County, Washington Territory</placeName> 
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName>  
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#sab">encoded, transcribed, edited.</change>
+<change when="2020" who="#sab">transcribed.</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -137,19 +135,25 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0253.004"/>
+<pb facs="hc.case.0254.002"/>
 
-<p>Case No. 2223.</p>
+<p>In the Distrit Court of Washington Territory and for the First Judicial District thereof holding terms as Colfax</p>
 
-<p>In the District Court of the Territory of Washington, and for the First Judicial District thereof, holding terms at Colfax, in the County of Whitman, in said Territory.</p>
+<p>In the matter of
+the Petition of 
+Michael Shrek
+for a Writ of Habeas 
+Corpus }</p>
+<p>Territory of Washington 
+County of Whitman</p>
+<p>Frank Herman being first duly sworn says that he is one of the attornys in the above entitled action That on the 19th day of December 1888 a petition was filed in said Court on which a writ of Habeas Corpus was granted that affix <unclear></unclear> search said petition cannot be found</p>
+<p>That the anexed petition is a true and correct copy of the said original petition filed as aforesaid</p>
+<p>Subscribed and
+sworn to before me
+this 20th day of December 1888
+<unclear>J Eadeik</unclear></p>
 
-<p>In the Matter of Nelson Davis for Writ of <del>Plaintiff,</del> 
-Habeas Corpus 
-<del>Defendant.</del></p>
-
-<p>Filed in the office of the Clerk of the District Court, this, the 5" day of Dec 1888 Alfred H Marion, Clerk. By HJ Marion Deputy.</p>
-<p>Sullivan Chadwick Brown
-Attorny S for Petitioner</p>
+<p>Frank Herman</p>
 
 </div1>
     
