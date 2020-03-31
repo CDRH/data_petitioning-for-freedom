@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0253.001"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title> <!-- replace with name of case; type of document -->
+<title>Davis v. Davis. Petition for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -34,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0253.001</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Davis v. Davis. Petition for Writ of Habeas Corpus</title>
+<date/>
+<note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1888-11"></date>November 1888</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Davis, Maggie</term>
+<term>Davis, Nelson</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Colfax, Washington Territory</term> 
 </keywords>
 
 </textClass>
@@ -93,33 +95,35 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Davis, Nelson</persName>
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Davis, Sarah M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<person role="attorney_petitioner">
+<persName>Brown</persName>
+<persName>Chadwick</persName>
+<persName>Sullivan</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Langford, William G.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court For The First Judicial District Court</orgName> 
+<placeName>Colfax, Whitman County, Washington Territory</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2020" who="#sab">encoded, transcribed, edited.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,11 +134,13 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0253.001"/>
 
+<p>IN THE DISTRICT COURT OF WASHINGTON TERRITORY AND FOR THE FIRST JUDICIAL DISTRICT THEREOF HOLDING TERMS AT COLFAX IN WHITMAN COUNTY IN SAID TERRITORY.</p>
 
-<fw type="footer"> &amp;</fw>
+<p>IN THE MATTER OF THE APPLICATION OF NELSON DAVIS FOR THE CUSTODY OF MAGGIE M. DAVIS A MINOR CHILD.</p>
 
+<p>PETITION FOR WRIT OF HABEAS CORPUS</p>
 
 </div1>
     

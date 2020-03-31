@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0252.020"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title> <!-- replace with name of case; type of document -->
+<title>Bunnell and Bunnell v. Isbell. Order Granting Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -34,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0252.020</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Bunnell and Bunnell v. Isbell. Order Granting Writ</title>
+<date when="1888-09-25">September 14, 1888</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,15 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1888-09"></date>September 1888</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Bunnell, Arthur</term>
+<term>Bunnell, Edgar</term>
+<term>Isbell, William</term>
+<term>Langford, William G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Colfax, Washington Territory</term>
+<term>Whitman County</term>
 </keywords>
 
 </textClass>
@@ -93,33 +98,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Bunnell, Arthur</persName>
+<persName>Bunnell, Edgar</persName>
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Isbell, William</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Langford, William G.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2020" who="#sab">encoded, transcribed.</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -130,11 +136,15 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0252.020"/>
 
+<p>In the District Court of Washington Territory and for the first Judicial District thereof holding terms at the City of Colfax in and for the County of Whitman, said Territory.</p>
 
-<fw type="footer"> &amp;</fw>
+<p>In the Matter of Application
+of
+Edgar Bunnell and Arthur Bunnell} Order granting Writ.</p>
 
+<p>Upon reading and filing the petition of Edgar Bunnell and Arthur Bunnell duly signed and verified by there whereby it appears that they are illegally imprisoned and restrained of their liberty by William Isbell Marshal of the town of Garfield of the County of Whitman and Territory of Washington and stating wherein the alleged illegallity consists from which it appears to me that a Writ of Habeas Corpus ought to issue- It is thereofre orderedby me William G. Langford Judge of the aboe entitled Court that a Writ of Habeas Corpus issue out of and under the seal of the District Court of the First Judicial District of Washington Territory holding terms at the City of Colfax in and for the County of Whitman directer to the said William Isbell Marshal of the aforesaid, commanding him to have the bodies of the said Edgar Bunnell and Arthur Bunnell</p>
 
 </div1>
     
