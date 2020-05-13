@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mettaner v. Felps. Order of Writ of Habeas Corpus</title>
+<title>Eliza Mettaner v. James A. Felps. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mettaner v. Felps. Order of Writ of Habeas Corpus</title>
+<title level="m" type="main">Eliza Mettaner v. James A. Felps. Writ of Habeas Corpus</title>
 <date when="1856-08-11">August 11, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,9 +87,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Felps, James A.</term>
-<term>Martin, Nancy</term>
-<term>Miller, Nancy Bell</term>
-<term>Williams, M.</term>
+<term>Martin, Nancy</term><!-- <term>Miller, Nancy Bell</term> -->
+<term>Williams, Matthew</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,13 +106,13 @@
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Richardson, Elmer</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -129,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="lkw">review.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,7 +146,7 @@
 <p>To James A Felps Jailor of St Louis 
 County Greeting:</p>
 
-<p>You are commanded to 
+<p>You are Commanded to 
 have the body of Nancy Martin alias 
 Nancy Belle Miller before the Law Commissioner 
 Court of St Louis County forthwith, together 

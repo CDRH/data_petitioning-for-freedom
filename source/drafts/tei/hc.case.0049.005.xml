@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mettaner v. Felps. Warrant of Commitment </title>
+<title>Eliza Mettaner v. James A. Felps. Warrant of Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mettaner v. Felps. Warrant of Commitment</title>
+<title level="m" type="main">Eliza Mettaner v. James A. Felps. Warrant of Commitment</title>
 <date when="1856-06-01">June 1, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,15 +86,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Herckenrath, R.M.</term>
+<term>Herckenrath, R. M.</term>
 <term>Lawler, Martin</term>
-<term>Martin, Nancy</term>
+<term>Martin, Nancy</term><!-- <term>Miller, Nancy Bell</term> -->
 <term>Miller, John</term>
-<term>Miller, Nancy Bell</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Palinzra, Missouri</term>
+<term>Palmyra, Missouri</term>
 <term>St. Louis, Missouri</term>
 </keywords>
 
@@ -112,10 +111,10 @@
 <persName>Richardson, Elmer</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -131,6 +130,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="lkw">review.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,8 +148,8 @@
 <p>THE STATE OF MISSOURI, 
 COUNTY OF SAINT LOUIS, } SS.</p>
 
-<p>The State of Missouri to Martin Lawless <del>a Constable</del> within and for St. 
-Louis township and county, and to the Keeper of the County Jail of St. Louis county--Greeting:</p>
+<p>The State of Missouri to Martin Lawler <del>a Constable</del> within and for St. 
+Louis township and county, and to the Keeper of the County Jail of St. Louis county&#8212;Greeting:</p>
 
 <p>YOU, THE SAID CONSTABLE, are hereby commanded to take and convey the body of 
 Nancy Bell Miller 
@@ -169,7 +169,7 @@ term thereof, which will be on the first Monday in    next</del>
 was this day brought before me by said 
 Martin Lawler and upon his oath proven 
 to be a runaway slave belonging to John 
-Miller near Palinzra, Missouri 
+Miller near Palmyra, Missouri 
 
 
 <del>in pursuance of a Warrant issued against   by said Justice, upon the affidavit of     

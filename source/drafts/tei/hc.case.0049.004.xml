@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mettaner v. Felps. Jailor Accordance with Writ</title>
+<title>Eliza Mettaner v. James A. Felps. Answer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mettaner v. Felps. Jailor Accordance with Writ</title>
+<title level="m" type="main">Eliza Mettaner v. James A. Felps. Answer</title>
 <date when="1856-08-11">August 11, 1856</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,10 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Felps, James A.</term>
-<term>Martin, Nancy</term>
-<term>Miller, Nancy Bell</term>
-<term>Williams, M.</term>
+<term>Martin, Nancy</term><!-- <term>Miller, Nancy Bell</term> -->
+<term>Williams, Matthew</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,13 +105,13 @@
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Richardson, Elmer</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -129,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="lkw">review.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -150,7 +149,7 @@ of commitment issued by Justice Herkenrath
 one of the Justice of the Peace for St Louis 
 County which is made a part of this return</p>
 
-<p>St Louis Aug 11 '1856 Jas A Felps</p>
+<p>St Louis Aug 11h 1856 Jas A Felps</p>
 <p>Jailor</p>
 
 
@@ -168,7 +167,9 @@ Nancy Belle Miller</p>
 <p>"By the Habeas Corpus 
 Act."</p>
 
-<p>Signed Aug. 11th 1856</p>
+<p>Paid 3.75</p>
+
+<p>Issued Aug. 11th 1856</p>
 <p>M Williams</p>
 <p>Clk</p>
 

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mettaner v. Felps. Cover</title>
+<title>Eliza Mettaner v. James A. Felps. Cover</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mettaner v. Felps. Cover</title>
+<title level="m" type="main">Eliza Mettaner v. James A. Felps. Cover</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Felps, James A.</term>
 <term>Martin, Nancy</term>
-<term>Mettaner, Eliza</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,13 +105,13 @@
 <persName>Felps, James A.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Richardson, Elmer</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -129,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="lkw">review.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,7 +146,7 @@
 <p>August Term 1856 No. 95</p>
 
 <p>Martin, Nancy</p>
-<p>In the matter of Habeas Corpus Alias Nance Belle Miller</p>
+<p>In the matter of Habeas Corpus Alias Nancy Belle Miller</p>
 
 <p>Jailed on June 26, 1856, as a runaway 
 slave by James A. Felps; Felps refused to 
