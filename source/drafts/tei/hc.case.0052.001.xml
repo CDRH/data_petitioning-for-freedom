@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Riley v. Castello. Cover</title> 
+<title>Adam Riley v. James Castello. Cover</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Riley v. Castello. Cover</title>
-<date when="1000-01-01">Month D, YYYY</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Adam Riley v. James Castello. Cover</title>
+<date when="1853-08">August 1853</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,12 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Adam, Riley</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Cincinnati, Ohio</term>
-<term>Indianapolis, IN</term> 
+<term>Indianapolis, Indiana</term> 
 <term>St. Louis, Missouri</term>
 </keywords>
 
@@ -106,13 +106,13 @@
 <persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>MacDonald, R.S.</persName>
+<persName> </persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Johnstone, Peter W.</persName>
+<persName> </persName>
 </person>
 </listPerson>
             
@@ -128,6 +128,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020" who="lkw"> review.</change> 
 </revisionDesc>
 
 </teiHeader>
