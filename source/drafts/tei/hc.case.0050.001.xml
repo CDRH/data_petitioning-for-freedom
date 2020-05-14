@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Moore v. Hempstead. Cover</title> 
+<title>Rebecca A. Moore v. John Hempstead. Cover</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Moore v. Hempstead. Cover</title>
+<title level="m" type="main">Rebecca A. Moore v. John Hempstead. Cover</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,13 +86,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Moore, Rebecca A.</term>
-<term>Webb, Dr. Noah S.</term>
+<term>Webb, Noah S.</term>
 <term>Wilson, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cincinnati</term>
+<term>Cincinnati, Ohio</term>
 <term>Pinkneyville, Mississippi</term>
 <term>St. Louis, Missouri</term> 
 </keywords>
@@ -108,13 +107,13 @@
 <persName>Hempstead, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Thompson, John Bruce</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -130,6 +129,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020" who="lkw">review.</change> 
 </revisionDesc>
 
 </teiHeader>
