@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Turley v. Garman and Longe. Notary Statement</title> 
+<title>George W. Turley v. James Castello. Notary Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Turley v. Garman and Longe. Notary Statement</title>
+<title level="m" type="main">George W. Turley v. James Castello. Notary Statement</title>
 <date when="1853-06-07">June 7, 1853</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -88,9 +88,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Gibson, Daniel W.</term>
 <term>Gibson, Joseph L.</term>
-<term>Jameson, Robert</term>
 <term>Mudd, Jerome</term>
-<term>Turley, George W.</term>
 <term>Turley, Jane</term>
 <term>Turley, Simon P.</term>
 </keywords>
@@ -109,10 +107,7 @@
 <persName>Turley, George W.</persName>
 </person>
 <person role="defendant">
-<persName>Longe, Hugh</persName>
-</person>
-<person role="defendant">
-<persName>Garman, John</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -121,7 +116,7 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -137,6 +132,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -150,7 +146,7 @@
 <pb facs="hc.case.0054.013"/> 
 
 <p>I, Jerome Mudd, a Notary Public in and 
-for the County of Hamilton, ohio, do hereby certify that the above 
+for the County of Hamilton, Ohio, do hereby certify that the above 
 named, Simon P. Turley and Jane Turley Daniel W. Gibson and 
 Joseph L. Gibson personally appeared before me at my office in Cincinnati and were by me first duly sworn to testify 
 the truth, the whole truth and nothing but the truth, and 
@@ -159,7 +155,7 @@ were reduced to writing by and were taken at the
 time and place specified.</p>
 
 <p>In testimony whereof, I have hereunto set 
-<del></del> and notarial seal, this 7th day of June 
+my hand and notarial seal, this 7th day of June 
 in the year 1853</p>
 
 <p>Jerome Mudd</p>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Turley v. Garman and Longe. Command to the Jailor</title> 
+<title>George W. Turley v. James Castello. Command to the Jailer</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Turley v. Garman and Longe. Command to the Jailor</title>
+<title level="m" type="main">George W. Turley v. James Castello. Command to the Jailer</title>
 <date when="1853-06-18">June 18, 1853</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,8 +87,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Castello, James</term>
-<term>Colvin, John W.</term>
-<term>Turley, George W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,10 +101,7 @@
 <persName>Turley, George W.</persName>
 </person>
 <person role="defendant">
-<persName>Longe, Hugh</persName>
-</person>
-<person role="defendant">
-<persName>Garman, John</persName>
+<persName>Castello, John</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -131,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -154,7 +150,7 @@ Corpus</p>
 <p>"By the Habeas Corpus Act"</p>
 <p>Issd June 18th 1853</p>
 
-<p>Relblo forthwith</p>
+<p><unclear>Relblo</unclear> forthwith</p>
 <p>Main in fee 
 Book cost fee 73</p>
 
@@ -172,7 +168,7 @@ George A Turley before the Law Commissioners Court
 of St Louis County <del>on the 11 day of June AD 1853 at 
 3 o'clock PM</del> forthwith together with the time and cause of 
 his detention by you to do and receive what shall then 
-and there be adjudjed concerning the said George W 
+and there be adjudged concerning the said George W 
 Turley who as alleged in the petition hereto annexed 
 is restrained of his liberty by you. And have you then 
 and there this writ with your return thereon.</p>
@@ -183,7 +179,7 @@ of St Louis this 18th day of June 1853</p>
 
 <p>John W Colvin Law Com</p>
 
-
+<note>Retd forthwith to day</note>
 </div1>
     
 </body>

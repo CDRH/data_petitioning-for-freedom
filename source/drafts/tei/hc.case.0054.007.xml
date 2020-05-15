@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Turley v. Garman and Longe. Petitioner Letter to Parents</title> 
+<title>George W. Turley v. James Castello. Letter</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Turley v. Garman and Longe. Petitioner Letter to Parents</title>
+<title level="m" type="main">George W. Turley v. James Castello. Letter</title>
 <date when="1853-06-01">June 1, 1853</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,14 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Frederick</term>
+<term>Turley, Frederick</term>
 <term>Jones, Gardnor</term>
-<term>Martin, Jas</term>
-<term>Turley, George W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Broadway Hotel</term>
 <term>St. Louis, Missouri</term> 
 </keywords>
 
@@ -105,19 +102,16 @@
 <persName>Turley, George W.</persName>
 </person>
 <person role="defendant">
-<persName>Longe, Hugh</persName>
-</person>
-<person role="defendant">
-<persName>Garman, John</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>
+<persName>Martin, James M.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -133,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="djr">transcribed.</change>
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -170,8 +165,8 @@ son</p>
 
 <p>George W. Turley</p>
 
-<p>Direct yours to the <unclear>case</unclear> of Mr. Jas <unclear></unclear> 
-Martin Esqr Chesnut Street St Louis, MO <unclear>upon</unclear> 
+<p>Direct yours to the care of Mr. Jas <unclear>M</unclear> 
+Martin Esqr Chesnut Street St Louis, Mo for 
 Geo Turley in Jail</p>
 
 
