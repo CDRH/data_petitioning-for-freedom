@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Boardman. Writ of Habeas Corpus</title> 
+<title>Elizabeth Vincent v. Charles Roderman. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Vincent v. Boardman. Writ of Habeas Corpus</title>
+<title level="m" type="main">Elizabeth Vincent v. Charles Roderman. Writ of Habeas Corpus</title>
 <date when="1859-05-13">May 13, 1859</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,8 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dusenbury, Henry</term>
-<term>Vincent, Elizabeth</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,10 +103,10 @@
 <persName>Vincent, Elizabeth</persName>
 </person>
 <person role="defendant">
-<persName>Boardman</persName>
+<persName>Roderman, Charles</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Caude</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -128,7 +127,8 @@
         
 <revisionDesc>         
 <change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2019" who="zcb">encoded.</change>
+<change when="2020" who="lkw"> reviewed</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -140,25 +140,27 @@
 <div1 type="case">
 
 <pb facs="hc.case.0055.003"/> 
-<p> The State of Missouri </p>
+<p>State of Missouri County of S. Louis } to wit By the Habeas Corpus Act.</p>
 
-<p> To the Jailor of St. Louis County: Greeting: </p>
-<p> You are hereby commanded to have the body 
+<p>The State of Missouri</p>
+
+<p>To the Jailor of St. Louis County: Greeting:</p>
+<p>You are hereby commanded to have the body 
 of Elizabeth Vincent, alias Elizabeth Allen, 
-alledged to be unlawfully detained by you, and 
+alleded to be unlawfully detained by you, and 
 imprisoned in the Jail of said County, together 
 with the cause of such imprisonment and detention 
 before me the undersigned at the Law 
 Commissioner Court Room in the City of St Louis &amp; State of Missouri on 
-<unclear></unclear> the 14th day of May A.D. 1859 at 4 
+on morrow the 14th day of May A.D. 1859 at 4 
 O'Clock P.M. to do and receive what shall 
 then and there be considered concerning the 
 said Elizabeth Vincent, alias Allen, the 
 person so imprisoned and detained and 
-have you then and there this writ </p>
-<p> Witness my hand this 13h day of May A.D. 1859 </p>
-<p> H Dusenbury </p>
-<p> Law Commissioner of St Louis County </p>
+have you then and there this writ</p>
+<p>Witness my hand this 13h day of May A.D. 1859</p>
+<p>H Dusenbury</p>
+<p>Law Commissioner of St Louis County</p>
 
 </div1>
     
