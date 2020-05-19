@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wilson v. Schuler. Warrant for Apprehension</title> 
+<title>Mary Wilson v. James Castello. Answer</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wilson v. Schuler. Warrant of Apprehension</title>
+<title level="m" type="main">Mary Wilson v. James Castello. Answer</title>
 <date when="1854-04-20">April 20, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,10 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>De Breuil, Louis</term>
-<term>La France, Chas</term>
+<term>La France, Charles</term>
 <term>Wegman, Peter</term>
-<term>Wilson, Mary</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,16 +102,16 @@
 <persName>Wilson, Mary</persName>
 </person>
 <person role="defendant">
-<persName>Schuler, John J.</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Caude, C.C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName>De Breuil, Louis</persName>
 </person>
 </listPerson>
             
@@ -129,6 +127,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>   
 </revisionDesc>
 
 </teiHeader>
@@ -141,23 +140,22 @@
 
 <pb facs="hc.case.0056.006"/> 
 
-<p> Warrant for appre=
-hension of Runaway 
+<p>Warrant for apprehension of Runaway 
 Slave 
-Mary Wilson </p>
+Mary Wilson</p>
 
-<p> Executed the within writ by having 
+<p>Executed the within writ by having 
 the body of the within named 
 Mary Wilson before Louis 
 Du Breuil Justice in St 
 Louis Township on the 20th 
-Day of April 1854 </p>
-<p> Peter Wegman </p>
-<p> Constable </p>
-<p> by Chas La France </p>
-<p> Deps </p>
+Day of April 1854</p>
+<p>Peter Wegman</p>
+<p>Constable</p>
+<p>by Chas La France</p>
+<p>Deps</p>
 
-<p> Fes      50 cts </p>
+<p>Fes      50 cts</p>
 
 
 </div1>

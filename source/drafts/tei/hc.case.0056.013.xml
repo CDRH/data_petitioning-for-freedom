@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wilson v. Schuler. Command to Court</title> 
+<title>Mary Wilson v. James Castello. Summons</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wilson v. Schuler. Command to Court</title>
+<title level="m" type="main">Mary Wilson v. James Castello. Summons</title>
 <date when="1854-04-21">April 21, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Colvin, John W.</term>
-<term>Sertt, William</term>
-<term>Wilson, Mary </term>
+<term>Scott, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,10 +101,10 @@
 <persName>Wilson, Mary</persName>
 </person>
 <person role="defendant">
-<persName>Schuler, John J.</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Caude, C.C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -128,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>   
 </revisionDesc>
 
 </teiHeader>
@@ -140,28 +139,28 @@
 
 <pb facs="hc.case.0056.013"/> 
 
-<p> The State of Missouri, </p>
-<p> To the Marshal of St. Louis County-- Greeting: </p>
+<p>The State of Missouri,</p>
+<p>To the Marshal of St. Louis County &#8212; Greeting:</p>
 
-<p> We command you to attach William Sertt 
+<p>We command you to attach William Scott 
 
 by his body and him safely keep, so that you have his body 
 before the Law Commissioner's Court of St. Louis County, now in session at the City of St. Louis, 
-within and for the County of St. Louis, on the <unclear> forthwith </unclear> 1854 
+within and for the County of St. Louis, on the forthwith 1854 
 then and there to testify and the truth to say in a certain matter of controversy, now pending in 
 said Court, between Habeas Corpus writ 
 plaintiff and Mary Wilson defendant, 
-wherein the said Mary Wilson has heretofore been 
-summoned on the part of the said Defs </p>
+wherein the said Mary Wilson ha heretofore been 
+summoned on the part of the said Deft</p>
 
-<p> Witness, John W. Colvin, the Law Commissioner 
+<p>Witness, John W. Colvin, the Law Commissioner 
 of St. Louis County, with the seal of said Court 
 hereto affixed, at office, in the City of St. Louis 
 this 21 day of April 
 in the year of our Lord eighteen hundred and 
-fifty- <strike> three </strike> 4 </p>
+fifty- <del>three</del> 4</p>
 
-<p> The Law Commissioner of St. Louis County. </p>
+<p>The Law Commissioner of St. Louis County.</p>
 
 
 </div1>

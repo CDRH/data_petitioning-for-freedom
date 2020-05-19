@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wilson v. Schuler. Apprehension of Petitioner</title> 
+<title>Mary Wilson v. James Castello. Warrant</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wilson v. Schuler. Apprehension of Petitioner</title>
+<title level="m" type="main">Mary Wilson v. James Castello. Warrant</title>
 <date when="1854-04-20">April 20, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>De Breuil, Louis</term>
 <term>Wegman, Peter</term>
-<term>Wilson, Mary</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,16 +101,16 @@
 <persName>Wilson, Mary</persName>
 </person>
 <person role="defendant">
-<persName>Schuler, John J.</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Caude, C.C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName>De Breuil, Louis</persName>
 </person>
 </listPerson>
             
@@ -128,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>   
 </revisionDesc>
 
 </teiHeader>
@@ -140,25 +139,25 @@
 
 <pb facs="hc.case.0056.005"/> 
 
-<p> State of Missouri </p>
-<p> County of StLouis }Ss </p>                          
-<p> State of Missouri </p>
+<p>State of Missouri</p>
+<p>County of St Louis } ss</p>                          
+<p>State of Missouri</p>
 
-<p> To Peter Wegman a constable of St Louis 
-Township </p>
+<p>To Peter Wegman a constable of St Louis 
+Township</p>
 
-<p> You are hereby commanded to apprehend 
+<p>You are hereby commanded to apprehend 
 Mary Wilson who is described in the above affidavit 
 and bring her before me to answer the charge 
 of being a runaway slave and to be dealt
  with as the law directs and to return this 
-writ forthwith </p>
+writ forthwith</p>
 
-<p> Given under my hand this twentieth day 
-of April 1854 </p>
-<p> Louis Du Breuil </p>
-<p> Justice of the Peace </p>
-<p> StLouis County </p>
+<p>Given under my hand this twentieth day 
+of April 1854</p>
+<p>Louis Du Breuil</p>
+<p>Justice of the Peace</p>
+<p>St Louis County</p>
 
 
 </div1>

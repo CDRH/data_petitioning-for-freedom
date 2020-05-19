@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wilson v. Schuler. Defendant Sworn Statement</title> 
+<title>Mary Wilson v. James Castello. Affidavit</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wilson v. Schuler. Defendant Sworn Statement</title>
+<title level="m" type="main">Mary Wilson v. James Castello. Affidavit</title>
 <date when="1854-04-20">April 20, 1854</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,10 +86,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Castello, James</term>
-<term>De Breuil, Louis</term>
 <term>Schuler, John J.</term>
-<term>Wilson, Mary</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,16 +101,16 @@
 <persName>Wilson, Mary</persName>
 </person>
 <person role="defendant">
-<persName>Schuler, John J.</persName>
+<persName>Castello, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Caude, C.C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Colvin, John W.</persName>
+<persName>De Breuil, Louis</persName>
 </person>
 </listPerson>
             
@@ -129,6 +126,7 @@
 <revisionDesc>         
 <change when="2018" who="nl">transcribed.</change> 
 <change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="lkw">review.</change>   
 </revisionDesc>
 
 </teiHeader>
@@ -141,10 +139,10 @@
 
 <pb facs="hc.case.0056.004"/> 
 
-<p> State of Missouri </p>
-<p> County of St Louis } Ss </p>
+<p>State of Missouri</p>
+<p>County of St Louis } ss</p>
 
-<p> Personally appeared before me Louis Du Breuil 
+<p>Personally appeared before me Louis Du Breuil 
 a Justice of the Peace within and for the County of St Louis 
 John J. Schuler who being duly sworn upon his oath, 
 says that he has reason to believe and does believe 
@@ -153,13 +151,13 @@ woman about thirty five years of age straight hair,
 and one tooth out in front is a runaway slave, 
 and now employed on steam Boat Isabel as a 
 Chambermaid and he therefore prays for a 
-warrant for her apprehension </p>
-<p> John J. Schuler </p>
+warrant for her apprehension</p>
+<p>John J. Schuler</p>
 
-<p> Sworn to and subscribed 
-before me this 20h April 1854 </p>
-<p> Louis Du Breuil </p>
-<p> Justice </p>
+<p>Sworn to and subscribed 
+before me this 20h April 1854</p>
+<p>Louis Du Breuil</p>
+<p>Justice</p>
 
 
 </div1>
