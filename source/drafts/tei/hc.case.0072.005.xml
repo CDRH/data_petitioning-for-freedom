@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0072.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Qui v. John H. McGraw. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0072.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Qui v. John H. McGraw. Petition</title>
+<date when="1884-11-18">November 18, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1884-11">November 1884</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Hale, Henry C.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Qui</persName>
+</person>
+<person role="defendant">
+<persName>McGraw, John H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Harris, Steve</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Micken, M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020" who="#lkw">encoded</change>
+<change when="2018" who="#mgn">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+
 <p>In the District Court holding
 terms at Seattle
-King County <unknown></unknown></p>
+King County ss</p>
 
 <p>In the matter of the 
 application of Qui (a
 Chinaman) for a writ of
 habeas corpus</p>
 
-<p><unknown></unknown> the 
+<p>To the 
 Hon. Roger S Greene Judge 
-of King County</p>
+of said court</p>
 
 <p>The petition of Qui a 
 Chinaman, respectfully shows</p>
@@ -28,73 +171,78 @@ illegal; and that said illegality consists in this to wit:</p>
 
 <p>That in the 17th day of November 
 1884 at Port Madison in Kitsap County
-before <unknown>Harry C Hale</unknown> a Justice of the Peace
+before Henry C Hale a Justice of the Peace
 in and for Port Madison Precinct in 
-Kitsap County a <unknown></unknown> complaint was 
-<strike>filed</strike> made before said Justice, by name 
-(NEW PAGE)
-<unknown></unknown> to your petitioner unknown
+Kitsap County a sworn complaint was 
+<del>filed</del> made before said Justice, by some 
+<pb/>
+person to your petitioner unknown
 whereby your petitioner was charged 
 with the alleged offense of smoking and 
 inhaling opium on said County on the 
 _ day of November 1884</p>
 
-<p>That when said complaint a 
+<p>That upon said complaint a 
 warrant was issued by said Justice 
 upon which warrant your petitioner
 was arrested and brought before said 
 Justice; that then after such proceedings 
-<unknown>were</unknown> had in said complaint that on the said 
+were had in said complaint that on the said 
 17 day of November your petitioner was 
-<unknown>tried</unknown> before said Justice for said 
+tried before said Justice for said 
 alleged offense and after such trial 
 your petitioner was found guilty of said
 alleged offense and was by the Judgment 
 of said Court sentenced to imprisonment, 
 for the period of sixteen days</p>
 
-<p>That therefore said Justice Court 
+<p>That thereupon said Justice Court 
 issued its warrant of commitment, 
-a true copy of which is <unknown>annexed to this</unknown>
-petition marked Exhibit "A" and in-
-tending to act under such warrant <unknown>of</unknown> 
-<unknown>Commitment</unknown>, the Sheriff of Kitsap County 
-bbrought your petitionerto the County Jail
+a true copy of which is annexed to this
+petition marked Exhibit "A" and intending to act under such warrant of 
+Commitment, the Sheriff of Kitsap County 
+brought your petitioner to the County Jail
 of King County and then on the said 17th 
 day of November 1884 delivered him unto 
 the custody of the said John H McGraw Sheriff
-of King County, <unknown>who will</unknown> detain him in 
-(NEW PAGE)
-custody and restrain him <unknown>from</unknown> his 
+of King County, who now detain him in 
+<pb/>
+custody and restrains him from his 
 liberty, having an other authority or 
-<unknown>pretext san</unknown> and <unknown></unknown> said writ
+pretext <unclear>san</unclear> and expecting said writ
 of Commitment</p>
 
 <p>That said trial and commitment 
-were <unknown>had, led</unknown> by virtue of Section 2073 of this
+were had by virtue of Section 2073 of the
 Code of Washington; that said Section is 
 unconstitutional and void and that 
-said <unknown></unknown> commitment and trial 
+said arrest commitment and trial 
 are without authority of law; that the 
-said complaint <unknown></unknown> against your
-petitioner <unknown>charges</unknown> no <unknown>defense</unknown>; and said 
+said complaint prepared against your
+petitioner charges no offense; and said 
 Justice had no power or jurisdiction 
 to render said judgment of imprisonment</p>
 
 <p>Wherefor your petitioner prays,
 that a writ of habeas corpus may
-issue <unknown></unknown> to said John H McGraw
+issue directed to said John H McGraw
 Sheriff of King County, commanding 
 him to have the body of your petitioner 
 before your Honor at a time and place 
-therein <unknown>with sferisseid</unknown>, to do and receive 
+therein to be specified, to do and receive 
 what shall then and there be ordered 
-concerning him, together with the <unknown>time</unknown> and
+concerning him, together with the time and
 cause of his detention and said writ 
 and that your petitioner may be 
 restored of his liberty</p>
 
 <p>Dated Nov 18, 1884
 Qui his signature 
-<unknown>Steven Merris + M Mricken
-Attys for petitioner</unknown></p>
+Steve Harris + M Micken
+Attys for petitioner</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
