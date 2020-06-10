@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0215.021">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0356.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chung Him and Seid Yam v. Henry M. White. In Re Memorandum Brief In Re Application</title>
+<title>Gin Kato v. State of Washington. Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0215.021</idno>
+<idno type="project">hc.case.0356.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Chung Him and Seid Yam v. Henry M. White. In Re Memorandum Brief In Re Application</title>
-<date/>
+<title level="m" type="main">Gin Kato v. State of Washington. Decision</title>
+<date when="1920-12-02">December 2, 1920</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date/></term>
+<term><date when="1920-12">December 1920</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,8 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Him, Chung</persName>
-<persName>Yam, Seid</persName>
+<persName>Kato, Gin</persName>
 </person>
 <person role="defendant">
 <persName>White, Henry M.</persName>
@@ -124,7 +123,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-03" who="#sjs">transcribed and encoded</change>
+<change when="2020-06" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,39 +136,52 @@
 
 <pb/>
 
-<p>In Re Memorandum Brief in Re Application of Jung Ham, Et Al, for Writ of Habeas Corpus.</p>
+<p>In the United States District Court for the Western District of Washington, Northern Division.</p>
 
-<p>no. 5630.</p>
+<p>No. 5631.</p>
+<p>Decision.</p>
+<p>Filed Dec. 2, 1920.</p>
 
-<p>Assuming that the Act of Feb. 5th, 1917 gives the Department of Labor authority to deport a Chinese person after a hearing conducted by or under the direction of the officers of that Department (a question which we shall refer to later on) that hearing must be conducted with fairness and in such a manner as to accord to the person accused a reasonable opportunity to present his defense. Colyer v. S Keffington 265 Fed 29.</p>
+<p>In the Matter of the Petition of Gin Kato for a Writ of Habeas Corpus.</p>
 
-<p>One of the clearest statements of what constitutes such a fair hearing is set forth in the opinion of Judge Sanborn in a case decided March 22, 1915, and reported in 222 Fed. Rep. P 745, Whitfield vs. Hanges.</p>
+<p>James Kiefer, Attorney for Petitioner.</p>
 
-<p>And see also the case of McDonald vs. Siu Tak Sam 225 Fed. 710.</p>
+<p>NETERER, District Judge, - - -</p>
 
-<p>And see also the case of McDonald vs. Siu Tak Sam 225 Fed. 710.</p>
+<p>Gin Kato, a subject of Japan, claims to have been in the United States since 1884, and to have a wife living in Japan. He was ordered deported for having been "found in the United States in violation of the Immigration Act of February 5, 1917, to wit: that he has been found employed by, in, or in connection with a house of prostitution."</p>
 
-<p>And see the opinion of Judge Morrow in the case of Backus vs. Owe Sam Goo, 235 Fed. 847.</p>
+<p>It is contended that the five year limitation provided by Sec. 19 of the Act, supra, applies, and that he cannot be legally deported, and further that to deport him is a violation of the treaty stipulations between Japan and the United States of March 21, 1895.</p>
 
-<p>See also the opinion of Judge Morrow in the case of Chin Chan Kam vs. U.S. 232 Fed. 855.</p>
+<p>The provision of Sec. 19, supra, among other matters, provides:</p>
 
-<p>See also the decision of the Circuit Court of Appeals for the 6th Circuit i re. Chan Foo Lin, 243 Fed. 137.</p>
+<p>"Any alien who manages or is employed by, in, or in connection with any house of prostitution***shall, upon the warrant of the Secretary of Labor, be taken into custody and deported****. The provisions of this section shall be applicable to the classes of aliens therein mentioned, irrespective of the time of their entry into the United States****."</p>
 
-<p>But there is a serious question whether the Act of Feb. 17th, 1917, is applicable to Chinese residing within the United States. The Supreme Court of the United States in the case of U.S. vs. Woo Jan, 62 L. Ed. 466, held that the Immigration Act of Feb. 20th, 1907 did not give the Secretary of Labor authority to deport a Chinese person residing within the United States, the Court holding that in cases of that character the Chinese person was entitled to a judicial trial.</p>
+<p>It is apparent that the five year limitation does not apply to the petitioner. Article II of the Treaty, supra, provides that the stipulations contained in the treaty:</p>
 
-<p>And in the case of White vs. Chin Fong, 64 L. Ed. 554, (Adv. Sheets June 15th, 1920) the Court held that a Chinese person claiming the right to re-enter the United States as a returned merchant may not be deported by executive action on the ground that the original entry was fraudulent, but he must be deemed to be entitled to a judicial inquiry and determination of his rights in view of the provisions of the Chinese Exclusion Act.</p>
+<p>"Do not in any way effect the laws, ordinances and regulations****with regard to**** the immigration of laborers****, which are in force or which may hereafter be enacted in either of the two countries."</p>
 
-<p>See also Mayo vs. U.S., 251 Fed. 275, and Sec. 38, Act of Feb. 5th, 1917.</p>
+<p>It is primer law that Congress has the right to exclude or deport aliens in its discretion, as an inherent right of sovereignty, and should an Act of Congress and the treaty stipulation be</p>
 
-<p>Respectfully submitted,</p>
+<pb/>
 
-<p>J. L. Corrigan</p>
+<p>in irreconcilable conflict, the duty of the Court is to follow the last expression of the legislative branch, and leave the question of breach of treaty stipulation to the executive branch of the Government.</p>
 
-<p>Attorney for Petitioners</p>
+<p>I think it is clear, however, that there is no conflict between the treaty stipulation and the Immigration Act, supra. An examination of the record shows that a fair trial was accorded.</p>
 
-<p>163 U.S. 228</p>
-<p>94 Fed. 831</p>
-<p>149 U.S. 698</p>
+<p>The writ is denied.</p>
+
+<p>Jeremiah Neterer</p>
+<p>Judge.</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Dec 2 1920</p>
+
+<p>F. M. Harshberger, Clerk</p>
+
+<p>By S. E. Leitch Deputy</p>
 
 </div1>
     

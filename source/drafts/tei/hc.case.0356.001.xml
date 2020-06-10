@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0215.021">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0356.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chung Him and Seid Yam v. Henry M. White. In Re Memorandum Brief In Re Application</title>
+<title>Gin Kato v. State of Washington. Order of Dismissal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0215.021</idno>
+<idno type="project">hc.case.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Chung Him and Seid Yam v. Henry M. White. In Re Memorandum Brief In Re Application</title>
-<date/>
+<title level="m" type="main">Gin Kato v. State of Washington. Order of Dismissal</title>
+<date when="1921-01-08">January 8, 1921</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date/></term>
+<term><date when="1921-01">January 1921</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,8 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Him, Chung</persName>
-<persName>Yam, Seid</persName>
+<persName>Kato, Gin</persName>
 </person>
 <person role="defendant">
 <persName>White, Henry M.</persName>
@@ -124,7 +123,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-03" who="#sjs">transcribed and encoded</change>
+<change when="2020-06" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,39 +136,21 @@
 
 <pb/>
 
-<p>In Re Memorandum Brief in Re Application of Jung Ham, Et Al, for Writ of Habeas Corpus.</p>
+<p>In the District Court of the United States for the Western District of Washington, Northern Division.</p>
 
-<p>no. 5630.</p>
+<p>No.5631.</p>
+<p>Order of Dismissal.</p>
 
-<p>Assuming that the Act of Feb. 5th, 1917 gives the Department of Labor authority to deport a Chinese person after a hearing conducted by or under the direction of the officers of that Department (a question which we shall refer to later on) that hearing must be conducted with fairness and in such a manner as to accord to the person accused a reasonable opportunity to present his defense. Colyer v. S Keffington 265 Fed 29.</p>
+<p>In the Matter of the Petition of GIN KATO for a Writ of Habeas Corpus.</p>
 
-<p>One of the clearest statements of what constitutes such a fair hearing is set forth in the opinion of Judge Sanborn in a case decided March 22, 1915, and reported in 222 Fed. Rep. P 745, Whitfield vs. Hanges.</p>
+<p>In this cause the court having heretofore filed a Memorandum of Decision denying the Writ of Habeas Corpus prayed for, and no appeal having been taken, and counsel for petitioner having announced in open court that no appeal would be taken</p>
 
-<p>And see also the case of McDonald vs. Siu Tak Sam 225 Fed. 710.</p>
+<p>It is by the court ORDERED and CONSIDERED, and the court does hereby ORDER and CONSIDER, that this proceeding be, and the same is hereby dismissed.</p>
 
-<p>And see also the case of McDonald vs. Siu Tak Sam 225 Fed. 710.</p>
+<p>Done in Open Court this 8 day of January, 1921.</p>
 
-<p>And see the opinion of Judge Morrow in the case of Backus vs. Owe Sam Goo, 235 Fed. 847.</p>
-
-<p>See also the opinion of Judge Morrow in the case of Chin Chan Kam vs. U.S. 232 Fed. 855.</p>
-
-<p>See also the decision of the Circuit Court of Appeals for the 6th Circuit i re. Chan Foo Lin, 243 Fed. 137.</p>
-
-<p>But there is a serious question whether the Act of Feb. 17th, 1917, is applicable to Chinese residing within the United States. The Supreme Court of the United States in the case of U.S. vs. Woo Jan, 62 L. Ed. 466, held that the Immigration Act of Feb. 20th, 1907 did not give the Secretary of Labor authority to deport a Chinese person residing within the United States, the Court holding that in cases of that character the Chinese person was entitled to a judicial trial.</p>
-
-<p>And in the case of White vs. Chin Fong, 64 L. Ed. 554, (Adv. Sheets June 15th, 1920) the Court held that a Chinese person claiming the right to re-enter the United States as a returned merchant may not be deported by executive action on the ground that the original entry was fraudulent, but he must be deemed to be entitled to a judicial inquiry and determination of his rights in view of the provisions of the Chinese Exclusion Act.</p>
-
-<p>See also Mayo vs. U.S., 251 Fed. 275, and Sec. 38, Act of Feb. 5th, 1917.</p>
-
-<p>Respectfully submitted,</p>
-
-<p>J. L. Corrigan</p>
-
-<p>Attorney for Petitioners</p>
-
-<p>163 U.S. 228</p>
-<p>94 Fed. 831</p>
-<p>149 U.S. 698</p>
+<p>Jeremiah Neterer</p>
+<p>Judge.</p>
 
 </div1>
     
