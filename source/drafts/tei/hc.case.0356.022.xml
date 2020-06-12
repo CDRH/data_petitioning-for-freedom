@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0356.008">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0356.022">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gin Kato v. Henry M. White</title>
+<title>Gin Kato v. Henry M. White. Warrant of Arrest</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0356.008</idno>
+<idno type="project">hc.case.0356.022</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gin Kato v. Henry M. White</title>
-<date when="1920-10-13">October 13, 1920</date>
+<title level="m" type="main">Gin Kato v. Henry M. White. Warrant of Arrest</title>
+<date when="1920-06-03">June 3, 1920</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1920-10">October 1920</date></term>
+<term><date when="1920-06">June 1920</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Strench, William G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Ketchikan, Alaska</term>
 </keywords>
 
 </textClass>
@@ -136,26 +136,36 @@
 
 <pb/>
 
-<p>No.54821/149</p>
+<p>Copy</p>
 
-<p>xxxxxxxxx xxxxx</p>
+<p>Warrant - Arrest of Alien</p>
 
-<p>Commercial Rate Collect</p>
-<p>October 13, 1920</p>
+<p>United States of America</p>
+<p>U.S. Department of Labor</p>
+<p>Washington</p>
 
-<p>Will H. Winston, Notary Public, Ketchikan, Alaska.</p>
+<p>No 54821/149</p>
 
-<p>Gin Kato ordered deported and Department has denied your application to reopen case.</p>
+<p>Incl. No. 3900</p>
 
-<p>Exact Copy as Signed by Alfred Hampton</p>
-<p>Mailed Oct 13 1920 By</p>
-<p>Assistant Commissioner General.</p>
+<p>To WILLIAM G. STRENCH, Inspector in Charge,Ketchikan, Alaska Or to any Immigrant Inspector in the service of the United States.</p>
 
-<p>EFH/FE</p>
-<p>HMC</p>
-<p>E.MT</p>
+<p>WHEREAS, from evidence submitted to me, it appears that the alien GIN KATO, who landed at <del>the port of</del> an unknown port, on or about the 15th day of January, 1900, has been found in the United States in violation of the immigration act of February 5, 1917, for the following among other reasons:</p>
 
-<p>11.30 R.M.</p>
+<p>That he has been found employed by, in, or in connection with a house of prostitution,</p>
+
+<p>I, Louis F. Post, Assistant Secretary of Labor, by virtue of the power and authority vested in me by the laws of the United States, do hereby command you to take into custody the said alien and grant him a hearing <gap></gap> to enable him to show cause why he should not be deported in conformity with law.</p>
+
+<p>The expenses of detention hereunder, if necessary, are authorized, payable from the appropriation, "Expenses of Regulating Immigration, 1920". Pending further proceedings the alien may be released from custody upon furnishing satisfactory bond in the sum of $1,000.00.</p>
+
+<p>For so doing, this shall be your sufficient warrant.</p>
+
+<p>Witness my hand and seal this 3rd day of June, 1920</p>
+
+<p>Sgd: Louis F. Post</p>
+<p>Assistant Secretary of Labor.</p>
+
+<p>"Ex A"</p>
 
 </div1>
     
