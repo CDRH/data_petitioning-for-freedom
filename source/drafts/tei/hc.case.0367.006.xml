@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0366.017">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0367.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fletcher Decker v. State of Washington</title>
+<title>Moy Hing Hun v. Henry M. White. Order to Show Cause</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0366.017</idno>
+<idno type="project">hc.case.0367.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fletcher Decker v. State of Washington</title>
-<date when="1921-08-12">August 12, 1921</date>
+<title level="m" type="main">Moy Hing Hun v. Henry M. White. Order to Show Cause</title>
+<date when="1921-10-06">October 6, 1921</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,12 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1921-08">August 1921</date></term>
+<term><date when="1921-10">October 1921</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>MacEchen, Alexander Joseph Gordon</term>
-<term>Wineatt, William Fabyan</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,21 +94,20 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Decker, Fletcher</persName>
+<persName>Hun, Moy Hing</persName>
 </person>
 <person role="defendant">
 <persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Beeler, Adam</persName>
-<persName>Sullivan</persName>
+<persName>Todd, Hugh C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Saunders, Robert C.</persName>
 <persName>Kolmitz, Charlotte M.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -137,50 +135,42 @@
 
 <pb/>
 
-<p>Copy</p>
+<p>Copy to <unclear></unclear></p>
 
-<p>Government of the Province of Saskatchewan</p>
-<p>Department of Provincial Secretary</p>
+<p>In the District Court of the United States for Western District of Washington, Northern Division.</p>
 
-<p>No. 2647</p>
+<p>No. 6323</p>
+<p>Order to Show Cause.</p>
 
-<p>I hereby Certify that ALEXANDER JOSEPH GORDON MacECHEN of REGINA in the Province of Saskatchewan was on the FIFTEENTH day of FEBRUARY, 1919 duly appointed a JUSTICE OF THE PEACE in and for the said Province, that the commission of the said ALEXANDER JOSEPH GORDON MacECHEN in that behalf has never been revoked and that he is at this date a JUSTICE OF THE PEACE as aforesaid, and as such is a person before whom proof may be made of the execution of deeds and other instruments by the law of the said Province.</p>
+<p>In the Matter of the Application of MOY HING HUN For a Writ of Habeas Corpus.</p>
 
-<p>Given under my hand at Regina, in the said Province, this TWELFTH day of AUGUST, 1921</p>
+<p>On reading and the filing of the petition of Moy Hing Hun, duly signed and verified, whereby it appears that the said Moy Hing Hun is wrongfully and unlawfully deprived of his liberty and imprisoned by Hon. Henry M. White, Commissioner of Immigration at Seattle, at the Immigration Station at Seattle, and stating wherein the illegality exists, from which it appears a Writ of Habeas Corpus ought to issue:</p>
 
-<p>(SGD.) F.J.C. EDWARDS</p>
+<p>NOW, THEREFORE, IT IS BY THIS COURT,</p>
 
-<p>Acting Deputy Provincial Secretary</p>
+<p>Ordered, adjudged and decreed that the said Henry M. White have the body of the said Moy Hing Hun before me in the Court room of this Court on the 17th day of October, 1921. at 10 A.M., of said day, to do and receive what shall then and there be considered concerning the said Moy Hing Hun, together with the time and cause of his detention, and that he then and there have this order with him; and it is further ordered that the Clerk of this Court under the Seal thereof cause to be served upon the said Henry M. White a true and correct copy of this order.</p>
+
+<p>Dated this 6th day of Oct. 1921.</p>
+
+<p>Edward E Cusham</p>
+<p>Judge.</p>
 
 <pb/>
 
-<p>CANADA</p>
-<p>PROVINCE OF SASKATCHEWAN</p>
+<p>No. 6323</p>
 
-<p>I, Frederick John Charles Edwards, of the City of REgina, in the Provines of Saskatchewan, Acting Deputy Provincial Secretary of the Province of Saskatchewan.</p>
+<p>goB #9-Page 96</p>
 
-<p>Solemly declare:-</p>
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
 
-<p>1. THAT I am now and have been since October 6th, A.D. 1920, Acting Deputy Provincial Secretary for the Province of Saskatchewan, and as such am by law entrusted with the custody of the records of the appointments of all Notaries Public.</p>
+<p>Tx</p>
 
-<p>2. THAT all appointments of Notaries Public are made by Order of the Lieutenant Governor in Council and that the records of such appointments are kept by me in my office and are under my custody and control.</p>
+<p>Oct 6 1921</p>
 
-<p>3. THAT annexed hereto and marked as Exhibit "A" to this Declaration is a certificate of the appointment of William Fabyan Windeatt, of the City of Regina, as a Notary Public in and for the Province of Saskatchewan, and that the seal impressed upon the said certificate is the authorized seal of the said Province.</p>
-
-<p>4. THAT the appointment of the said William Fabyan Windeatt has not been revoked and is still in full force.</p>
-
-<p>AND I MAKE this solemn declaration conscientiously believing it to be true, and knowing that it is of the same force and effect as if made under oath and by virtue of "THE CANADA EVIDENCE ACT".</p>
-
-<p>DECLARED before me at the City of Regina, in the Province of Saskatchewan, Canada, this twelfth day of August, A.D. 1921.</p>
-
-<p>(Signed) F.J.C. Edwards</p>
-<p>Acting Deputy Provincial Secretary.</p>
-
-<p>(Signed) (seal) W.F. Windeatt</p>
-<p>A Notary Public in and for the Province of Saskatchewan.</p>
-
-<p>Notary Public</p>
-<p>My commission expires December 31st, 1921</p>
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
 
 </div1>
     
