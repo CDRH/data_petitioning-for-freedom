@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0366.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0377.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fletcher Decker v. State of Washington</title>
+<title>Territory of Washington v James Sheridan. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 </respStmt>
+<sponsor>National Science Foundation</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2020</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0366.009</idno>
+<idno type="project">hc.case.0377.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fletcher Decker v. State of Washington</title>
-<date/>
+<title level="m" type="main">Territory of Washington v James Sheridan. Subpoena</title>
+<date when="1000-01-01">May 5, 1863</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date/></term>
+<term><date when="1000-01">May 1863</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,28 +99,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Decker, Fletcher</persName>
+<persName>Sheridan, James</persName>
 </person>
 <person role="defendant">
-<persName>White, Henry M.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Beeler, Adam</persName>
-<persName>Sullivan</persName>
+<persName>Sherman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Saunders, Robert C.</persName>
-<persName>Kolmitz, Charlotte M.</persName>
+<persName>Last, First</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -123,7 +126,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-07" who="#sjs">transcribed and encoded</change>
+<change when="2018-01" who="#ini">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,33 +139,22 @@
 
 <pb/>
 
-<p><unclear></unclear></p>
+<p>I hereby certify that I have served the within
+subpoena by <del>serving</del> reading the same to the parties
+therein named in Walla Walla, WT this the
+5th day of May 1863. E.B. Whitman, Sheriff
+By H.M. Hodges, Deputy</p>
 
-<p>United States of America,</p>
-<p>Western District of Washington.</p>
-<p>Northern Division.</p>
+<p>Filed May 6th 1863
+B.N. Sexton clerk
+by L.E. Rector deputy clerk</p>
 
-<p>ss.</p>
 
-<p>BE IT REMEMBERED, That on this 6th day of Aug. A. D. 1921, before me, a United States Commissioner for the said Western District of Washington, Northern Division, personally came Fletcher Decker, Principal and 5 Liberty Bonds of $100.00 each by Ruth Green, as sureties and jointly and severally acknowledged themselves to owe the United States of America the sum of five hundred dollars, to be levied on their goods and chattels, lands and tenements, if default be made in the condition following, to-wit:</p>
-
-<p>THE CONDITION of this Recognizance is such, that if the said Fletcher Decker shall personally appear before me, a United States Commissioner as aforesaid, at my office, 316 Marion Building, in the City of Seattle, and District aforesaid, on the 18th day of August, A. D. 1921, at 11 o'clock A. M. and from time to time thereafter, to which the case may be continued, then and there to answer the charge of having, on or about the 15th day of November, A. D. 1915, within said District, in violation of Section 5270 R. S. of the Revised Statutes of the United States, unlawfully steal; take and convey away flax, and then and there abide the order of the said Commissioner, and not depart from said District without leaves, then this Recognizance to be void, otherwise to remain in full forces and virtue.</p>
-
-<p>Fletcher Decker (Seal)</p>
-
-<p>Witness: Taken and acknowledged before me on the day and year first above written.</p>
-
-<p>Witness:</p>
-<p>Adam Beebe</p>
-
-<p>Robt. W. McClelland, United States Commissioner as aforesaid</p>
-
-<p>Seal: Robt. W. McClelland,</p>
-<p>United States Commissioner,</p>
-<p>Western Dist. of Washington.</p>
+<p></p>
 
 </div1>
     
 </body>
 </text>
 </TEI>
+

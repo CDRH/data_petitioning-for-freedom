@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0366.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0367.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fletcher Decker v. State of Washington</title>
+<title>Moy Hing Hun v. Henry M. White. Order Discharging Writ and Withdrawing Exhibits</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0366.009</idno>
+<idno type="project">hc.case.0367.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fletcher Decker v. State of Washington</title>
-<date/>
+<title level="m" type="main">Moy Hing Hun v. Henry M. White. Order Discharging Writ and Withdrawing Exhibits</title>
+<date when="1921-11-17">November 17, 1921</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date/></term>
+<term><date when="1921-11">November 1921</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,21 +94,20 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Decker, Fletcher</persName>
+<persName>Hun, Moy Hing</persName>
 </person>
 <person role="defendant">
 <persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Beeler, Adam</persName>
-<persName>Sullivan</persName>
+<persName>Todd, Hugh C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Saunders, Robert C.</persName>
 <persName>Kolmitz, Charlotte M.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -136,30 +135,56 @@
 
 <pb/>
 
-<p><unclear></unclear></p>
+<p>United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
 
-<p>United States of America,</p>
-<p>Western District of Washington.</p>
+<p>No. 6323</p>
+
+<p>Order Discharging Writ and Withdrawing Exhibits</p>
+
+<p>In the Matter of the Application of Moy Hing Hun for a Writ of Habeas Corpus</p>
+
+<p>In this matter, petition for a writ of habeas corpus having heretofore been filed and order having been granted requiring Henry M. White, Commissioner of Immigration, to show cause why a writ of habeas corpus should not be issued herein, and the writ having been issued on the day of October, 1921, and the court having considered the evidence and having heard the argument of counsel thereon; it is hereby</p>
+
+<p>ORDERED, ADJUDGED and DECREED that the said writ of habeas corpus be, and it is hereby, discharged, and that the petitioner remain in the custody of the said Henry M. White Commissioner of Immigration; and it is hereby further</p>
+
+<p>ORDERED that the exhibits attached to the return of Henry M. White, Commissioner of Immigration, filed herein, be withdrawn, to be delivered to the said Henry M. White, Commissioner of Immigration.</p>
+
+<p>DONE in open court this 17th day of November, 1921.</p>
+
+<p>Edward E Cushman</p>
+<p>Judge.</p>
+
+<p>Received exhibits mentioned above.</p>
+<p>E.D. Sutton</p>
+<p>Clerk, U.S. Attorney</p>
+<p>this 17th day of November 1921.</p>
+
+<pb/>
+
+<p>No. 6323</p>
+
+<p>In the District Court of the United States for the Western District of Washington</p>
 <p>Northern Division.</p>
 
-<p>ss.</p>
+<p>In Re Appln of Moy Hing Hung for Writ of Habeas Corpus</p>
 
-<p>BE IT REMEMBERED, That on this 6th day of Aug. A. D. 1921, before me, a United States Commissioner for the said Western District of Washington, Northern Division, personally came Fletcher Decker, Principal and 5 Liberty Bonds of $100.00 each by Ruth Green, as sureties and jointly and severally acknowledged themselves to owe the United States of America the sum of five hundred dollars, to be levied on their goods and chattels, lands and tenements, if default be made in the condition following, to-wit:</p>
+<p>Order Dischrging Writ and Withdrawing Exhibits</p>
 
-<p>THE CONDITION of this Recognizance is such, that if the said Fletcher Decker shall personally appear before me, a United States Commissioner as aforesaid, at my office, 316 Marion Building, in the City of Seattle, and District aforesaid, on the 18th day of August, A. D. 1921, at 11 o'clock A. M. and from time to time thereafter, to which the case may be continued, then and there to answer the charge of having, on or about the 15th day of November, A. D. 1915, within said District, in violation of Section 5270 R. S. of the Revised Statutes of the United States, unlawfully steal; take and convey away flax, and then and there abide the order of the said Commissioner, and not depart from said District without leaves, then this Recognizance to be void, otherwise to remain in full forces and virtue.</p>
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
 
-<p>Fletcher Decker (Seal)</p>
+<p>Tx</p>
 
-<p>Witness: Taken and acknowledged before me on the day and year first above written.</p>
+<p>Nov 17 1921</p>
 
-<p>Witness:</p>
-<p>Adam Beebe</p>
+<p>F.M. Harshberger, Clerk</p>
 
-<p>Robt. W. McClelland, United States Commissioner as aforesaid</p>
+<p>By S.E. Leitch Deputy</p>
 
-<p>Seal: Robt. W. McClelland,</p>
-<p>United States Commissioner,</p>
-<p>Western Dist. of Washington.</p>
+<p>GoB-9- P.144 </p>
 
 </div1>
     
