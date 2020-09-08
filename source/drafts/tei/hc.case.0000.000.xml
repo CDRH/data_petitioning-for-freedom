@@ -16,6 +16,10 @@
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -23,7 +27,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2020</date>
 </edition>
 </editionStmt>
             
@@ -50,7 +54,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000-01-01">Month D, YYYY</date>
+<date when="1891">1891</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -100,14 +104,17 @@
 <person role="petitioner">
 <persName></persName>
 </person>
+<person role="petitioner">
+<persName></persName>
+</person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -125,7 +132,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2018-01" who="#ini">transcribed and encoded</change>
+<change when="2020-09" who="#lkw">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,7 +145,6 @@
 
 <pb/>
 
-<p></p>
 
 </div1>
     
