@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e3dbc4f3f1460932a4823b7ce8a8cceff4e3e093
-  tag: v0.1.6
+  revision: 3748b4ade4fb78b79ec830eb8fcf308fdb805710
+  tag: v0.2.0-beta
   specs:
-    datura (0.1.6)
+    datura (0.2.0.pre.beta)
       colorize (~> 0.8.1)
       nokogiri (~> 1.8)
       rest-client (~> 2.0.2)

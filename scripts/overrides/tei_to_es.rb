@@ -74,8 +74,8 @@ class TeiToEs
     people = eles.map do |p|
       {
         "id" => "",
-        "name" => CommonXml.normalize_space(p.xpath("persName").text),
-        "role" => CommonXml.normalize_space(p["role"])
+        "name" => get_text("persName", xml: p),
+        "role" => get_text("@role", xml: p)
       }
     end
     return people
