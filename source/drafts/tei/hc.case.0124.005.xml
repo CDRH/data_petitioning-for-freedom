@@ -1,22 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0124.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. David Aimesworth. Criminal</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0124.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">. Territory of Washington V. David Aimesworth and J.S. Danford. Criminal</title>
+<date when="1884">1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">November 1884</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>David Aimesworth</term>
+<term>Samuel C. Wingard </term>
+<term>P.W. Dillon</term>
+<term>J.W. Range</term>
+<term>F.V. Hoyt</term>
+<term>W.R. Andrews</term>
+<term>A. Reeves Aipes</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Cheney, Washington</term>
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>David Aimesworth</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>W.R. Andrews</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Samuel C. Wingard</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-09" who="#lkw">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
 <p>In the District Court of Washington
 Territory and for the First Judicial 
 District thereof holding terms at Cheney in 
 Spokane County
 
 In the matter of the petition
-of Daniel Aimesworth for a 
+of David Aimesworth for a 
 writ of Habeas Corpus-}
 
 To the Honorable Samuel C. Wingard
 the judge of the above entitled court.
 
 The petition of David Aimesworth
-respectfully shows=
+respectfully shows= </p>
 <p>First: That he is unlawfully restrained 
 of his liberty at Cheney aforesaid, by 
 P.W. Dillon, the Sheriff of Spokane
 County aforesaid.</p>
+
 <p>Second: That the cause or pretense 
 of said restraint according to the best
 knowledge and belief of the petitioner, is, 
@@ -25,11 +179,11 @@ issued by one J.W. Range, a justice of
 the peace in and for said Spokane County
 aforesaid, Cheney Precinct, dated November
 17th 1884, commanding him the said sheriff
-to safely keep the said Daniel Aimesworth
+to safely keep the said David Aimesworth
 until discharged by due course of
 law to writ: until discharged by the 
 District Court aforesaid-</p>
-Third: That said restraint is illegal 
+<p>Third: That said restraint is illegal 
 and such illegality consists in this.
 On the 13th day of November 1884, one 
 F.V. Hoyt made a complaint in writing
@@ -66,9 +220,9 @@ your Honor, the said complaint and the
 testimony addresed thereunder reviewed
 and the <del></del> petitioner discharged.
 W.R. Andrews
-Attorney for said petitioner
+Attorney for said petitioner </p>
 
-Territory of Washington
+<p>Territory of Washington
 County of Walla Walla}s
 W.R. Andrews being first duly
 sworn, deposes and says:
@@ -91,3 +245,9 @@ Application of David
 Aimesworth for a writ of
 Habeas Corpus
 Petition</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
