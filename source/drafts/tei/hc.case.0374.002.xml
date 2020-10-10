@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Jow Mun Fuey v. Luther Weedin. Order to Show Cause</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Jow Mun Fuey v. Luther Weedin. Order to Show Cause</title>
+<date when="1922-06-05">January 5, 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,14 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-01">January 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Weedin, Luther</term>
+<term>Cusham, Edward E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
 <term></term>
 </keywords>
 
@@ -94,29 +96,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Fuey, Jow Mun</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Landon, Daniel</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revell, Thomas P.</persName>
+<persName>Faulkner, Judson F.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushum, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -124,7 +124,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#sjs">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,19 +139,19 @@
 
 <p>Original</p>
 
-186
+<p>186</p>
 
-United States District Court
-Western District of Washington
-Northern Division
+<p>United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
 
 
-No. 6453
-Order to Show Cause
+<p>No. 6453</p>
+<p>Order to Show Cause</p>
 
-In the Matter of the Application 
+<p>In the Matter of the Application 
 of Jow Mun Fuey for a Writ of
-Habeas Corpus.
+Habeas Corpus.</p>
 
 <p>The above named petitioner having made application to
 this court for a Writ of Habeas Corpus addressed to the United
@@ -161,7 +161,8 @@ of the United States Government, in whose custody the petitioner
 is shown by his petition to be confined and restrained of his
 liberty as alleged in his said petition illegally and unwarranted,
 and without power or authority of law and not under virtue of or
-by power or authority of the statutes of the United States; and the court being fully advised in the premises;</p>
+by power or authority of the statutes of the United States; and
+the court being fully advised in the premises;</p>
 
 <p>IT IS ORDERED That the Commissioner of Immigration in
 charge of the Immigration Station and Detention House at Seattle,
@@ -200,27 +201,6 @@ seal this 5 day of June 1922</p>
 <p>F.M. Harshberger, Clerk.</p>
 <p>By Elm <unclear>Layin</unclear></p>
 <p>Deputy.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </div1>
     

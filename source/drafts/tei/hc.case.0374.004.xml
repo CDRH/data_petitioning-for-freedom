@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Jon Mun Fuey v. Luther Weedin. Copy of Order to Show Cause</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Jon Mun Fuey v. Luther Weedin. Copy of Order to Show Cause</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date/></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Weedin, Luther</term>
+<term>Cusham, Edward E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,29 +95,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Fuey, Jow Mun</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Landon, Daniel</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revell, Thomas P.</persName>
+<persName>Faulkner, Judson F.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushum, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -124,7 +123,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#sjs">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,12 +136,12 @@
 
 <pb/>
 
-United States District Court
-Western District of Washington
-Northern Division
+<p>United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
 
-No. 6453
-Order to Show Cause
+<p>No. 6453</p>
+<p>Order to Show Cause</p>
 
 <p>In the Matter of the Application
 of Jow Mun Fuey for a Writ of

@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0374.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Ichitaro Akagi v. Luther Weedin. Order to Show Cause and Restraining Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="ka">Salma J. Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0374.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Ichitaro Akagi v. Luther Weedin. Order to Show Cause and Restraining Order</title>
+<date when="1922-03-02">March 3, 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-03">March 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Weedin, Luther</term>
+<term>Martin, Winter S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -102,29 +95,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Akagi, Ichitaro</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Martin, Winter S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revelle, Thomas P.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,28 +135,28 @@
 
 <pb/>
 
-UNITED STATES DISTRICT COURT
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION
+<p>UNITED STATES DISTRICT COURT</p>
+<p>WESTERN DISTRICT OF WASHINGTON</p>
+<p>NORTHERN DIVISION</p>
 
-No. 6612
+<p>No. 6612</p>
 
-ORDER TO SHOW CAUSE
+<p>ORDER TO SHOW CAUSE
 AND
-RESTRAINING ORDER
+RESTRAINING ORDER</p>
 
-IN THE MATTER OF THE APPLICATION
-OF AKAGI, ICHITARO, For Writ of Habeas Corpus.
+<p>IN THE MATTER OF THE APPLICATION
+OF AKAGI, ICHITARO, For Writ of Habeas Corpus.</p>
 
-AKAGI, ICHITARO, Petitioner,
+<p>AKAGI, ICHITARO, Petitioner,
 vs.
-LUTHER WEEDIN, Commissioner of Immigration, Respondent.
+LUTHER WEEDIN, Commissioner of Immigration, Respondent.</p>
 
-This matter coming on to be heard upon the application
+<p>This matter coming on to be heard upon the application
 of the petitioner herein for a Writ of Habeas Corpus, and the Court
-having read the petition and being now fully advised in the premises;
+having read the petition and being now fully advised in the premises;</p>
 
-IT IS ORDERED AND DIRECTED that LUTHER WEEDIN, Commissioner
+<p>IT IS ORDERED AND DIRECTED that LUTHER WEEDIN, Commissioner
 of Immigration, and to divers and sundry inspectors of immigration
 and employees of the Bureau of Immigration at the Port of Seattle
 in charge of the Immigration Station at said Seattle, King County, 
@@ -176,73 +166,70 @@ at Seattle, King County, Washington, in the Post Office Building,
 at the hour of 10 o'clock on the 6th day of March, 1922, then
 and there to show cause if any there by, why the Writ of Habeas
 Corpus prayed for in the petition filed herein, should not issue in
-accordance with the prayer of said petitioner.
+accordance with the prayer of said petitioner.</p>
 
-IT IS FURTHER ORDERED AND DIRECTED that the above named
-LUTHER WEEDIN, Commissioner of Immigration in charge of the United
+<p>IT IS FURTHER ORDERED AND DIRECTED that the above named
+LUTHER WEEDIN, Commissioner of Immigration in charge of the United</p>
 
--1-
+<p>-1-</p>
 
 <pb/>
 
-States Immigration Station at Seattle, Washington, together with
+<p>States Immigration Station at Seattle, Washington, together with
 all such inspectors and other persons acting under and by his
 authority, be, and each of them hereby are, enjoined and restrained
 from removing said petitioner from the City of Seattle and from and
 out of the jurisdiction of this Court pending the hearing and return
-upon this application for a Writ of Habeas Corpus.
+upon this application for a Writ of Habeas Corpus.</p>
 
-DONE IN OPEN COURT this 3 day of March, 1922.
+<p>DONE IN OPEN COURT this 3 day of March, 1922.</p>
 
-Jeremiah Neterer
-United States District Judge.
+<p>Jeremiah Neterer</p>
+<p>United States District Judge.</p>
 
 <pb/>
 
-No.
+<p>No.</p>
 
-In the United States
+<p>In the United States
 District Court
 FOR THE
 WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION
+NORTHERN DIVISION</p>
 
-IN THE MATTER OF THE APPLI-
-CATION OF AKAGI, ICHITARO,
+<p>IN THE MATTER OF THE APPLI-
+CATION OF AKAGI, ICHITARO,</p>
 
-For Writ of Habeas
-Corpus.
+<p>For Writ of Habeas
+Corpus.</p>
 
-GoB #9-Page 248
+<p>GoB #9-Page 248</p>
 
-ORDER TO SHOW CAUSE
+<p>ORDER TO SHOW CAUSE
 AND
-RESTRAINING ORDER
+RESTRAINING ORDER</p>
 
-FILED IN THE
-UNITED STATES DISTRICT COURT
-Western District of Washington
-NORTHERN DIVISION
+<p>FILED IN THE
+UNITED STATES DISTRICT COURT</p>
+<p>Western District of Washington</p>
+<p>NORTHERN DIVISION</p>
 
-Tx
+<p>Tx</p>
 
-MAR 3 1922
+<p>MAR 3 1922</p>
 
-F.M. Harshberger, Clerk
-By S.E. Leitch Deputy
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
 
 <p>ALLEN, MARTIN &amp; WARDALL</p>
 
-WINTER S. MARTIN
+<p>WINTER S. MARTIN</p>
 
-Attorney for Petitioner
+<p>Attorney for Petitioner</p>
 
-703-4-5-10 NEW YORK BLOCK
-SEATTLE
-MAIN 7465
-
-
-
+<p>703-4-5-10 NEW YORK BLOCK
+SEATTLE</p>
+<p>MAIN 7465</p>
 
 </div1>
     
