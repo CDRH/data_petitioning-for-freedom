@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Jow Mun Fuey v. Luther Weedin. Order of Dismissal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Jow Mun Fuey v. Luther Weedin. Order of Dismissal</title>
+<date when="1922-01-11">January 11, 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-01">January 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,29 +94,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Fuey, Jow Mun</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Landon, Daniel</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revell, Thomas P.</persName>
+<persName>Faulkner, Judson F.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushum, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -124,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#sjs">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,36 +135,37 @@
 
 <pb/>
 
-United States District Court
-Western District of Washington
-Northern Division
+<p>United States District Court
+Western District of Washington</p>
+<p>Northern Division</p>
 
-No. 6453
-Order of Dismissal
+<p>No. 6453</p>
+<p>Order of Dismissal</p>
 
-In the Matter of the Application of Jow Mun Fuey for a Writ of Habeas Corpus.
+<p>In the Matter of the Application of Jow Mun Fuey for a Writ of Habeas Corpus.</p>
 
-Upon motion of Daniel Landon, attorney for the petitioner
-herein,for an order of dismissial, and good cause being shown;
+<p>Upon motion of Daniel Landon, attorney for the petitioner
+herein,for an order of dismissial, and good cause being shown;</p>
 
-IT IS HEREBY ORDERED That the above entitled action be and the same is hereby dismissed and Writ held for naught.
+<p>IT IS HEREBY ORDERED That the above entitled action be
+and the same is hereby dismissed and Writ held for naught.</p>
 
-Dated this 11th day of January, 1922.
+<p>Dated this 11th day of January, 1922.</p>
 
-Edward E Cushman
-District Judge
+<p>Edward E Cushman</p>
+<p>District Judge</p>
 
-"OK"
-Daniel Landon
-Atty for <unclear>petitioner</unclear>
+<p>"OK"</p>
+<p>Daniel Landon</p>
+<p>Atty for <unclear>petitioner</unclear></p>
 
-OK.
+<p>OK.</p>
 
-<unclear></unclear> P Revelle
-US Atty
+<p>Thos P Revelle</p>
+<p>US Atty</p>
 
-Judson F. Falkner
-Asst US Atty
+<p>Judson F. Falkner</p>
+<p>Asst US Atty</p>
 
 </div1>
     

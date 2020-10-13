@@ -1,23 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>The Territory of Washington
-vs.
-David Aimesworth
-J.S. Danford } District Court for
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0124.014">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. David Aimesworth and J.S. Danford. Criminal</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0124.014</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. David Aimesworth and J.S. Danford. Criminal</title>
+<date when="1891">1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">September 1884</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>David Aimesworth</term>
+<term>J.S. Danford</term>
+<term>M.H. Whitney</term>
+<term>H.J. Whitney</term>
+<term>S.C. Whitney</term>
+<term>F.A. Bettes Deputy</term>
+<term>Dr. J.W. Johnson</term>
+<term>Helen Varker</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Cheney, Washington</term>
+<term>Spokane County, Washington</term>
+<term>Adams County, Washington</term>
+<term>New York</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Territory of Washington</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-09" who="#lkw">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>The Territory of Washington<lb/>
+vs.<lb/>
+David Aimesworth and<lb/>
+J.S. Danford }</p>
+
+<p>District Court for
 the first Judicial 
 District of Washington
 Territory, holding terms 
-at Cheney in Spokane County
+at Cheney in Spokane County</p>
 
-David Aimesworth and J.S. Danford are
+<p>David Aimesworth and J.S. Danford are
 accused by the grand juries of the counties of 
-Spokane and Adams, &amp; the Crime &amp; maiming
-<del></del> property by false pretenses comes
-written as follows: The said David Aimesworth 
+Spokane and Adams, &amp; of the Crime &amp; obtaining
+<unclear>money goods</unclear> property by false pretenses committed
+as follows: The said David Aimesworth 
 and J.S. Danford on the Sixth day of September
 A.D. 1884 in the county of Spokane in the District
-and Territory aforesaid unlawfully knowing
+and Territory aforesaid unlawfully knowingly
 designedly, and with intent to defraud one
-M.H. Whitney, did falsely pretend that a
+M.H. Whitney, did falsly pretend that a
 certain paper writing produced by the said 
 David Aimesworth and J.S. Danford to the said
 M.H. Whitney and purporting to be a bill of 
@@ -25,26 +183,33 @@ exchange drawn by the Spokane County
 Bank and signed by the said David Aimesworth
 as Cashier thereof, under and by the name 
 of D. Aimesworth Cas which said Spokane
-County Bank was then and there an <unclear></unclear>
+County Bank was then and there an <unclear>association</unclear>
 of persons consisting of the David Aimesworth
-and J.S. Danford and reporting then and 
+and J.S. Danford and purporting then and <gap/>
 to do a general banking business at the Town of
 Cheney in the County, District and Territory of 
+
+<pb/>
+
+
 upon the Seaboard Bank New York for the payment
-to the order of M.H. Whitney of the sum of One 
+to the order of H.J. Whitney of the sum of One 
 Hundred Dollars was then and there a good,
 genuine and available order for payment of the 
 sum of One Hundred Dollars, and was then and
 there of the value of One Hundred Dollars which
-said paper writing was of the ten or following then
-is to say:
-"No. 4065," "Cheney W.T. Sept. 6th 1884"
-"Spokane County Clerk"
-Pay to the order of H.J. Whitney One Hundred
-Dollars,
-To Seaboard Bank
-#100, New York, } D. Aimesworth, Cas.
-and the said David Aimesworth and J.S. Danford
+said paper writing was of the ten or following that
+is to say:</p>
+
+<p>"No. 4065," "Cheney W.T. Sept. 6th 1884"</p>
+<p>"Spokane County Clerk"</p>
+<p>Pay to the order of H.J. Whitney One Hundred
+Dollars,</p>
+<p>To Seaboard Bank</p>
+<p>#100, New York, }</p>
+<p>D. Aimesworth, Cas.</p>
+
+<p>and the said David Aimesworth and J.S. Danford
 did then and there unlawfully knowingly designed
 and with intent to defraud the said M.H. Whitney to
 pretend to the said M.H. Whitney that a certain paper
@@ -56,21 +221,27 @@ and signed by the said David Aimesworth as cashier
 under and by the name of D. Aimesworth Cas.
 upon the Seaboard Bank drew forth for the 
 payment to the order of H.J. Whitney of of the
+
+<pb/>
+
 sum of Two Hundred &amp; fifty Dollars, was
 then and there a good, genuine and available
 order for the payment of the sum of Two Hundred
 and fifty dollars and was then and there of the 
 value of two hundred and fifty dollars
-which said paper writing was of the ten or 
-following that is to say.
-No. 4066     Cheney W.T. Sept. 6th 1884,
-Spokane County Bank,
-Pay to the order of H.J. Whitney Two Hundred
-and fifty dollars.
-D. Aimesworth Cas.
+which said paper writing was of the tenor 
+following that is to say.</p>
+
+<p>No. 4066     Cheney W.T. Sept. 6th 1884,
+Spokane County Bank,</p>
+
+<p>Pay to the order of H.J. Whitney Two Hundred
+and fifty dollars.</p>
+<p>D. Aimesworth Cas.
 To Seaboard Bank
-4200. New York
-And the said David Aimesworth and
+4200. New York</p>
+
+<p>And the said David Aimesworth and
 J.S. Danford did then and there unlawfully, 
 knowingly, designedly and with intent to defraud
 the said M.H. Whitney falsely pretend to the said
@@ -82,22 +253,29 @@ by the Spokane County Bank as aforesaid and
 signed by the said David Aimesworth as cashier
 of said bank under and by the name of
 D. Aimesworth Cas upon the Seaboard Bank New
-York for the payment to the order of W.J. Whitney
+York for the payment to the order of M.H. Whitney
 of the sum of Five Hundred Dollars was then
+
+<pb/>
+
+
 and there a good genuine and available
 order for the payment of the sum of five
 hundred dollars and was then and 
 there of the value of five hundred dollars 
-which said paper writing was of the ten or
-following that is to say:
-No. 4064.  Cheney W.T. Sept. 6 1884
-Spokane County Bank
-Pay to the order of W.J. Whitney Five
+which said paper writing was of the tenor
+following that is to say:</p>
+
+<p>No. 4067.  Cheney W.T. Sept. 6 1884
+Spokane County Bank</p>
+
+<p>Pay to the order of H.J. Whitney Five
 Hundred Dollars.
-D.AImesworth Cas.
-To Seaboard Bank
-4500# New York}
-And the said David AImesworth and
+D.Aimesworth Cas.</p>
+<p>To Seaboard Bank
+4500# New York}</p>
+
+<p>And the said David Aimesworth and
 J.S. Danford did then and there unlawfully
 knowingly, designedly and with the intent 
 to defraud the said M.H. Whitney, falsely pretend
@@ -111,21 +289,26 @@ Aimesworth as cashier of said bank under
 and by the name of D. Aimesworth upon
 the Seaboard Bank of New York for payment
 to the order of H.J. Whitney of the sum of
-Five Hundred Dollars was then and 
-and there a good genuine and available 
-order for the payment of the sum of Five
-hundred dollars and was then and 
-there of the value of five hundred dollars 
-which said paper writing was of the ten or
-following that is to say:
-No. 6064 Cheney W.T. Sept. 6, 1884
-Spokane County Bank,
-Pay to the order of H.J. Whitney Five
+Five Hundred Dollars was then
+
+<pb/>
+
+and there a good genuine and available order for
+the payment of the sum of Five Hundred
+Dollars and was then and there of the value 
+of five hundred dollars which said paper
+writing is of the tenor
+following that is to say:</p>
+
+<p>No. 6067 Cheney W.T. Sept. 6, 1884
+Spokane County Bank,</p>
+<p>Pay to the order of M.H. Whitney Five
 Hundred Dollars,
-D. Aimesworth Cas.
-To Seaboard Bank
-4500# New York}
-And the said David Aimesworth and
+D. Aimesworth Cas.</p>
+<p>To Seaboard Bank
+#500# New York}</p>
+
+<p>And the said David Aimesworth and
 J.S. Danford did then and there unlawfully
 knowingly, designedly and with the intent
 to defraud the said M.H. Whitney falsely pretend
@@ -137,20 +320,26 @@ as aforesaid and signed by the said David
 Aimesworth as cashier of said Bank under
 and by the name of D. Aimesworth upon 
 the Seaboard Bank of New york for payment
-to teh order of H.J. Whitney of the sum of
+to the order of H.J. Whitney of the sum of
 Five Hundred Dollars was then and there
+
+<pb/>
+
 a good genuine and available order for 
 the payment of the sum of Five Hundred
 Dollars and was then and there of the value
 of Five Hundred Dollars which said paper
-writing is of the ten or following that is to say:
-No. 4068,  Cheney W.T. Sept. 6, 1884
+writing is of the tenor following that is to say:</p>
+
+<p>No. 4068,  Cheney W.T. Sept. 6, 1884
 Spokane County Bank
-Pay to the order of H.J. Whitney Five Hundred
-Dollars
-To Seaboard Bank
-43004 New York}  D. Aimesworth Cas.
-And the said David Aimesworth and J.S.
+Pay to the order of M.J. Whitney Five Hundred
+Dollars</p>
+
+<p>To Seaboard Bank
+$500# New York}  D. Aimesworth Cas.</p>
+
+<p>And the said David Aimesworth and J.S.
 Danford did then and there unlawfully, knowingly
 designedly and with intent to defraud the said
 M.H. Whitney falsely pretend to the said M.H. 
@@ -167,16 +356,21 @@ order of H.J. Whitney of the sum of Five
 Hundred dollars was then and there a 
 good, genuine and available order for the 
 payment of the sum of five hundred dollars
+
+<pb/>
+
 and was then and there of the value of five
 hundred dollars, which said paper 
-writing is of the ten or following that is to say:
-No. 4069 Cheney W.T. Sept. 6th, 1884
+writing is of the tenor following that is to say:</p>
+
+<p>No. 4069 Cheney W.T. Sept. 6th, 1884
 Spokane County Bank
 pay to the order of H.J. Whitney Five Hundred
-Dollars D. Aimesworth Cas.
-Seaboard Bank,
-#500# New York
-And the said David Aimesworth and J.S. Danford
+Dollars D. Aimesworth Cas.</p>
+<p>Seaboard Bank,
+#500# New York</p>
+
+<p>And the said David Aimesworth and J.S. Danford
 did then and there unlawfully,
 knowingly, designedly and with intent to defraud the 
 said M.H. Whitney, falsely pretend to the said
@@ -185,23 +379,31 @@ and there produced by the said David Aimesworth
 and J.S. Danford to the said M.H. Whitney and 
 purporting to be a bill of exchange drawn 
 by the Spokane County Bank as aforesaid and
-signed by the said David Aimesworth a cashier
-of said bank, under and by the name of D.
-Aimesworth Cas. upon the Seaboard Bank of New York
-for the payment to the order of H.J. Whitney of
+signed by the said David Aimesworth as cashier
+of said bank, under and by the name of
+D. Aimesworth Cas. upon the Seaboard Bank of New York
+for the payment to the order of M.H. Whitney of
 the sum of five hundred dollars was then
 and there a good, genuine and available 
-order for the payment of the sum of five hundred
-dollars and was then and there of the value of five
-hundred dollars which said paper writing
-was of the tenor following that is to say:
-No. 4070 Cheney W.T. Sept. 6th 1884
-Spokane County Bank
-Pay to the order of H.J. Whitney Five
-Hundred Dollars
-To Seaboard Bank. D.Aimesworth Cas.
-$500 New York
-And the said David Aimesworth and J.S. Danford
+order for the payment of the sum of five 
+hundred dollars and was then and 
+there of the value of five hundred dollars 
+which said paper writing was of the tenor
+following that is to say:</p>
+
+<pb/>
+
+
+<p>No. 4070 Cheney W.T. Sept. 6th 1884
+Spokane County Bank</p>
+
+<p>Pay to the order of H.J. Whitney Five
+Hundred Dollars</p>
+
+<p>To Seaboard Bank. D.Aimesworth Cas.
+$500# New York</p>
+
+<p>And the said David Aimesworth and J.S. Danford
 did then and there unlawfully, knowingly, designedly
 and with the intent to defraud the said M.H. Whitney
 falsely pretend to the said M.H. Whitney that the said
@@ -220,18 +422,21 @@ obtain from the said M.H. Whitney a negotiable
 promisary now signed by the said M.H. Whitney
 together with H.J. Whitney and S.C. Whitney for the sum
 of Five Hundred and eleven dollars and sixty seven cents
-which said promisary note was dated the said 6th 
-day of September A.D. 1884, and repayable to the <unclear></unclear>
+
+<pb/>
+
+which said promissary note was dated the said 6th 
+day of September A.D. 1884, and repayable to the <unclear/>
 of said David Aimesworth as cashier of said 
 Spokane County Bank, under and by the name
 of D. Aimesworth Cashier, in seventy days of 
-the date thereof, which said promisary note
+the date thereof, which said promissary note
 was then and there of the value of Five Hundred
 and eleven dollars and sixty seven cents, and which
 said promisary note was then and there of the goods
 chattel and property of said M.H. Whitney: and 
 one good genuine and available bill of 
-exchange <rep>bill of exchange</rep> for the sum of
+exchange bill of exchange for the sum of
 two hundred and eighty eight dollars, which 
 said bill of exchange was endorsed and payable
 to the order of said M.H. Whitney which said
@@ -248,6 +453,9 @@ of ninetwwn hundred dollars, dated the sixth
 day of September 1884 and payable to the said
 David Aimesworth and J.S. Danford under
 and by the name of D. Aimesworth Cas, she
+
+<pb/>
+
 the said M.H. Whitney then and there having money
 in the hands of the said Spokane County Bank for the
 payment thereof, which said check was then and
@@ -261,7 +469,7 @@ M.H. Whitney out of the same: Whereas in truth
 and in fact the said paper writings were with
 then and there, nor was any of them a good, genuine
 and available order for the payment of the sum of
-<rep>sum of</rep> money therein pursed, or for the payment
+sum of money therein pursed, or for the payment
 of any sum of money whatever, nor were
 the said paper writings, or either, or any or all of them of the
 value by the said David Aimesworth and J.S. Danford
@@ -276,6 +484,9 @@ hands of the said Seaboard Bank for the payment
 of the said bills of exchange, ot either or any of them
 and whereas in truth and in fact the said Spokane
 County Bank had not any power, right or authority
+
+<pb/>
+
 to draw bills of exchange upon the said Seaboard
 Bank, as the said David Aimesworth and 
 J.S. Danford then and there will know; contrary 
@@ -283,9 +494,16 @@ to the form of the statute in such case
 made and provided. Dated at Cheney in the District
 aforesaid the ninth day of October A.D. 1884  S.C. Hyde
 District Attorney
-By F.A. Bettes Deputy
-Names of the witnesses named before
-the Grand Jury
-Mrs. M.H. Whitney  Dr. J.W. Johnson
+By F.A. Bettes Deputy</p>
+
+<p>Names of the witnesses named before
+the Grand Jury</p>
+<p>Mrs. M.H. Whitney  Dr. J.W. Johnson
 Mrs. Helen Varker
-Found at the existance of Mrs. M.H. Whitney</p>
+Found at the <unclear>ristance</unclear> of Mrs. M.H. Whitney</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
