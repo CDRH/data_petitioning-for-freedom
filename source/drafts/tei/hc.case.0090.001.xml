@@ -1,4 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0090.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sarah McDonough v. William Murphy. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0090.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sarah McDonough v. William Murphy. Petition</title>
+<date when="1888">1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1888">1888</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>McDonough, Sarah</persName>
+</person>
+<person role="defendant">
+<persName>Murphy, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Jones, Richard A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020-10" who="#lkw">reviewed; encoded</change>
+<change when="2020-09" who="#nrl">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
 
 <note>#6006</note>
 
@@ -15,22 +157,28 @@
 
 <p>II That she is now unlawfully imprisoned detained confined and restrained of her liberty by Wm Murphy, Chief of Police of the City of Seattle in the City Prison of the said City of Seattle in the County and Territory aforesaid and has been so detained and imprisoned for the space of one day.</p>
 
-<p>II II That the cause or pretense of said imprisonment according to the best of plaintiffs belief is a <unclear>certuned</unclear> warrant of Comendmement in words and figures as follows to wit;</p>
+<p>II II That the cause or pretense of said imprisonment according to the best of plaintiffs belief is a certain warrant of Commitment in words and figures as follows to wit:</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>II II II That the said imprisonment and restraint is illegal and that the illegality thereof consists in this:</p>
 
-<p>II That the alleged offesnse for which the plaintiff is imprisoned as appears by said warrant of <unclear>coum</unclear> <unclear>ultrunt</unclear> is not a violation of any law of the United States of the Territory of Washington or of any ordinance of the City of Seattle</p>
+<p>II That the alleged offence for which the plaintiff is imprisoned as appears by said warrant of commitment is not a violation of any law of the United States of the Territory of Washington or of any ordinance of the City of Seattle</p>
 
-<p>2 That said Justice W Soderberg had no jurisdiction over the <del>defend</del> said Sarah McDonough that the time of the pretended trial as alleged in said <unclear>icurrent</unclear> of commitment</p>
+<p>2 That said Justice W Soderberg had no jurisdiction over the <del>defend</del> said Sarah McDonough that the time of the pretended trial as alleged in said warrent of commitment</p>
 
-<p>3 That the process and proceedings in the alleged course against the plaintiff herein before said W. Soderberg was illegal without jurisdiction, contrary to law and void</p>
+<p>3 That the process and proceedings in the alleged cause against the plaintiff herein before said W. Soderberg was illegal without jurisdiction, contrary to law and void</p>
 
 <p>Wherefore the plaintiff prays that a writ of Habeas Corpus be issued directed to the said Wm Murphy commanding him to produce <unclear>and</unclear> have the body of the Plaintiff Sarah McDonough before your Honor at a time and place therein to be specified to do and receive what shall then be considered
 
-<pb...></pb...>
+<pb/>
 
 by your Honor Concerning her together with the time and cause of the imprisonment and detention of plaintiff and have then and there the said writ and that the plaintiff may be restored to her liberty and have each other and further relief as the court may be pleased to order</p>
 
-<p>Sarah her X mark McDonough</p>
+<p>Sarah McDonough her X mark</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
