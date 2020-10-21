@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Sock and Sam. Cover</title> 
+<title>Sam, Lock and Jim v. Territory of Washington. Conviction</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Sock and Sam. Cover</title>
+<title level="m" type="main">Sam, Lock and Jim v. Territory of Washington. Conviction</title>
 <date when="1884-08-18">August 18, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,10 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ah Sock, Jim</term>
-<term>Morres, John</term>
-<term>Harris, W.T.</term>
-<term>Sam</term>
+<term>Morris, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,34 +99,31 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Territory of Washington</persName>
-</person>
-<person role="defendant">
 <persName>Lock</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Jim</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Sam</persName>
 </person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
 <person role="attorney_petitioner">
-<persName/>
+<persName></persName>
 </person>
-<person role="attorney_defendant">
-<persName>Judson, John P.</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Smurthevach, Thomas</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Harris, W.T.</persName>
+<persName>Harris, W. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -137,8 +131,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-10" who="#lkw">review</change>      
+<change when="2019" who="#sab">encoded, edited transcription</change>        
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -151,9 +146,9 @@
 
 <pb facs="hc.case.0100.001"/> 
 
-<note>#1255</note>
+<note>#1236</note>
 
-<p>In Justice Court before W.T. Harris an 
+<p>In Justice Court before W.H. Harris as 
 acting Justice of the Peace in and for 
 Tacoma Precinct Pierce County 
 Washington Territory.</p>
@@ -161,20 +156,20 @@ Washington Territory.</p>
 <p>Transcript of the Cause of the.</p>
 
 <p>Territory of Washington vs 
-<unclear>Sam, Ah Sock id Jim</unclear>}Smoking and inhaling opium</p>
+Sam, Ah Lock &amp; Jim} Smoking and inhaling opium</p>
 
 <p>Complaint filed on the 16th day of 
-August AD 1884 by John Morres 
+August AD 1884 by John Morris 
 in writing under oath, upon which 
 warrants were issued for the arrest of the 
 said defendants, and put into the 
-hands of the John Morres Special 
-Constable who executes the same by 
-arresting the Defendants therein <unclear>..xecutioned</unclear> and 
+hands of the John Morris Special 
+Constable who executed the same by 
+arresting the Defendants therein mentioned and 
 bringing them into open court on 
 the day above mentioned, and after 
-the complaint was <unclear></unclear> wherein they each 
-plead not guilty to the charge and 
+the complaint was read wherein they each 
+pled not guilty to the charge and 
 moved the court for a continuance 
 until 2 oclock of the 18th day 
 of August 1884 which was granted.</p>
@@ -182,13 +177,13 @@ of August 1884 which was granted.</p>
 <p>Now on this 18th day of August 
 1884 the above stated cause come
 
-<pb...></pb...>
+<pb/>
 
 on to be heard, when the defendants attorney 
-moved the court to push the complaint and 
-warrants on the ground that the <unclear>com-
-plecu...ing</unclear> witness swore to a conclusion 
-of lead sustance of a state of facts 
+moved the court to quash the complaint and 
+warrants on the ground that the complaining
+ witness swore to a conclusion 
+of law instead of a state of facts 
 which motion was overruled and the 
 defendants put on their trails.</p>
 
@@ -198,21 +193,22 @@ moved the court to discharge the
 Defendants on the Ground that the 
 Statute under which they charged 
 was unconstitutional and on the further 
-ground that the Court had no jurisdic-
-tion of the offense charged.</p>
+ground that the Court had no jurisdiction
+of the offense charged.</p>
 
 <p>Motions overruled. The Defendants 
 declined to offer any Evidence in 
 their defense. Their guilt 
-hearing <unclear>been</unclear> clearly proven 
+having been clearly proven 
 to the Satisfaction of the Court. They 
 are each convicted as charged 
 and Each sentenced to pay a fine 
-of thirty dollars and all costs of 
-this suit and in default of pay-
-ment they are each committed 
+of thirty-dollars and all costs of 
+this suit and in default of payment
+they are each committed 
 to the County Jail to work and the</p>
 
+<gap reason="missing"/>
 
 </div1>
     

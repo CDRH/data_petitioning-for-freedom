@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Sock and Sam. Affidavit</title> 
+<title>Sam, Lock and Jim v. Territory of Washington. Affidavit</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Sock and Sam. Affidavit</title>
+<title level="m" type="main">Sam, Lock and Jim v. Territory of Washington. Affidavit</title>
 <date when="1884-08-19">August 19, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,10 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ah Sock, Jim</term>
-<term>Sam</term>
-<term>Smurthevach, Thomas</term>
-<term>Yunug, C.D.</term>
+<term>Yunug, C. D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,34 +99,31 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Territory of Washington</persName>
-</person>
-<person role="defendant">
 <persName>Lock</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Jim</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Sam</persName>
 </person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
 <person role="attorney_petitioner">
-<persName/>
+<persName></persName>
 </person>
-<person role="attorney_defendant">
-<persName>Judson, John P.</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Smurthevach, Thomas</persName>
+<person role="attorney_petitioner">
+<persName>Smurthwaite, Thomas</persName>
 </person>
 <person role="judge">
-<persName>Harris, W.T.</persName>
+<persName>Harris, W. T.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -137,8 +131,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-10" who="#lkw">review</change>      
+<change when="2019" who="#sab">encoded, edited transcription</change>        
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -152,9 +147,9 @@
 <pb facs="hc.case.0100.003"/> 
 
 <p>Territory of Washington}</p>
-<p>County of Pierce}ss</p>
+<p>County of Pierce} ss</p>
 
-<p>Thomas <unclear>Smurthevache</unclear> <del></del> being first duly sworn 
+<p>Thomas Smurthwaite <del></del> being first duly sworn 
 deposes and says that he is <del>the agent and friend of</del> Attorney for 
 Sam, Sock and Jim the petitioners named 
 in the foregoing petition and makes this affidavit 
@@ -162,25 +157,24 @@ in their behalf for the reason that neither of
 said petitioners can speak or understand the 
 English language and that they are detained 
 in custody and are not easy of access but 
-have each of them requested this deponeath</p>
+have each of them requested this deponent to
+Sign &amp; verify said petitions in their behalf and
 
-<p>Sign &amp; verify said petitions in their behalf and
+<pb/>
 
-<pb...></pb...>
-
-1236
+<note>1236</note>
 
 in behalf of each of them.</p>
 
-<p>That this <unclear>depomet</unclear> has heard read the forego-
-ing petition by him subscribed in behalf of 
-and for said petitioners and knows the con-
-tents thereof. That the same is true of his own 
+<p>That this deponent has heard read the foregoing
+petition by him subscribed in behalf of 
+and for said petitioners and knows the contents
+thereof. That the same is true of his own 
 knowledge except as to matters therein stated 
 on information and belief and as to those 
 matters he believes them to be true.</p>
 
-<p>Thomas <unclear>Smurthevich</unclear></p>
+<p>Thomas Smurthwaite</p>
 
 <p>Subscribed and sworn to this 
 19th day of August A.D. 1884 

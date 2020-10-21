@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Sock and Sam. Application for Writ of Habeas Corpus</title> 
+<title>Sam, Lock and Jim v. Territory of Washington. Application for Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Sock and Sam. Application for Writ of Habeas Corpus</title>
+<title level="m" type="main">Sam, Lock and Jim v. Territory of Washington. Application for Writ of Habeas Corpus</title>
 <date when="1884-08-18">August 18, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,13 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ah Sock, Jim</term>
-<term>Hoyt, John P.</term>
-<term>Morres, John</term>
-<term>Harris, W.T.</term>
-<term>Sam</term>
-<term>Smurthevach, Thomas</term>
-<term>Winsar, Henry</term>
+<term>Harris, W. H.</term>
+<term>Morris, John</term>
+<term>Winsor, Henry</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -105,34 +101,28 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Territory of Washington</persName>
-</person>
-<person role="defendant">
 <persName>Lock</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Jim</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Sam</persName>
 </person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
 <person role="attorney_petitioner">
-<persName/>
-</person>
-<person role="attorney_defendant">
-<persName>Judson, John P.</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Smurthevach, Thomas</persName>
+<persName>Smurthwaite, Thomas</persName>
 </person>
 <person role="judge">
-<persName>Harris, W.T.</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -140,8 +130,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-10" who="#lkw">review</change>      
+<change when="2019" who="#sab">encoded, edited transcription</change>        
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -157,7 +148,7 @@
 <p>1236</p>
 
 <p>Territory of Washington}</p>
-<p>County of Pierce}SS</p>
+<p>County of Pierce} SS</p>
 
 <p>In the matter of the 
 application of Sam Sock and 
@@ -168,15 +159,15 @@ Judicial District of Washington Territory.</p>
 
 <p>County of Pierce ss.</p>
 
-<p>Your petitioners Sam Sock and Jim res-
-pectfully show unto your honor that they are 
+<p>Your petitioners Sam Sock and Jim respectfully
+show unto your honor that they are 
 residents of said County and Territory 
 That they are illegally restrained of their liberty 
-by one Henry <unclear>Wisar</unclear> Sheriff of said County of Pierce 
+by one Henry Winsor Sheriff of said County of Pierce 
 at the City of Tacoma in said County of Pierce</p>
 
 <p>That the cause or pretense of the restraint of
-their liberty of your <del></del> petitioners is as your 
+their liberty of your <del/> petitioners is as your 
 petitioners are informed and believe a certain 
 commitment or commitments under pretended 
 sentence issued and executed by one W.H. 
@@ -186,11 +177,11 @@ of Pierce</p>
 <p>That said restraint of the liberty of your petitioners 
 and said pretended commitment under said
 
-<pb...></pb...>
+<pb/>
 
-<sic>pretended</sic> sentence and all proceedings 
-in the cause hereinafter specified to and includ-
-ing the issuences of said pretended commitment or 
+<sic>pretendended</sic> sentence and all proceedings 
+in the cause hereinafter specified to and including
+the issuences of said pretended commitment or 
 commitments are and were wholly illegal, null 
 and void for reasons hereinafter stated</p>
 
@@ -215,9 +206,9 @@ them in said complaint and warrant.</p>
 refused to examine your petitioners in accordance 
 with law he the said Justice stating that he was in
 
-<pb...></pb...>
+<pb/>
 
-1236 
+<note>1236 </note>
 
 doubt as to whether he should examine your 
 petitioners or proceed to a trial of the cause</p>
@@ -225,16 +216,16 @@ petitioners or proceed to a trial of the cause</p>
 <p>Your petitioners by their counsel therefore 
 requested the said Justice of the Peace to elect 
 then and there whether he could examine or 
-by the cause that your petitioners and their 
+try the cause that your petitioners and their 
 counsel might be informed whether they were 
-being held for said offense or merely examined 
+being tried for said offense or merely examined 
 as to the probable cause to believe them guilty 
 of said offense which request the said Justice 
 of the Peace did then and there refuse to 
 grant but on the contrary decided that 
 he would hear the evidence and determine 
-then whether he should call it an examina-
-tion or trial. Said Justice thereupon asked 
+then whether he should call it an examination
+or trial. Said Justice thereupon asked 
 your petitioners if they desired a Jury and 
 your petitioners and their counsel not knowing 
 and being wholly unable to ascertain whether your 
@@ -244,50 +235,52 @@ there was probable cause to believe them guilty of
 said offence were unable to decide whether or 
 not a jury were desired or needed and so
 
-<pb...></pb...>
+<pb/>
 
 did not determine and did neither demand 
 or waive a Jury Whereupon said Justice of 
 the Peace proceeded to examine witnesses 
 and hear evidence against your petitioners 
 After hearing all the evidence produced by 
-himself the said Justice was informed by coun-
-sel for your petitioners that he had no jurisdiction 
+himself the said Justice was informed by counsel
+for your petitioners that he had no jurisdiction 
 to try said offense and was again requested to elect 
 whether the proceeding was a trial or an 
 examination and was further requested 
-<del>to</del> in cause he thought there was probable cause 
+<del>to</del> in case he thought there was probable cause 
 to believe the defendants your petitioners guilty 
-to <unclear>bind</unclear> them over for trial to the District 
-Court <del></del>. The said Justice of the 
+to bind them over for trial to the District 
+Court <del/>. The said Justice of the 
 Peace then and there asked your petitioners if they 
 had any evidence to offer your petitioners by 
 their counsel replied that not knowing whether 
 the proceeding was a trial or an examination 
-no evidence would be offered/authorized your 
-petitioners have as they are informed by their coun-
-sel after fully and fairly stating their case to them 
-a good defense to said offense on the marks thereof</p>
+no evidence would be offered / although your 
+petitioners have as they are informed by their counsel
+after fully and fairly stating their case to them 
+a good defense to said offense on the merits thereof</p>
 
-<p>Whereupon the said . Justice of the Peace stated
+<p>Whereupon the said Justice of the Peace stated
 
-<pb...></pb...>
+<pb/>
 
-1236
+<note>1236</note>
 
 that he determined to call the proceeding 
-a trial that he found your petitioners guil-
-ty as charged and passed judgment thereupon 
+a trial that he found your petitioners guilty
+as charged and passed judgment thereupon 
 that your petitioners pay a fine of <del>fifteen</del> 
-Thirty Dollars each binds the costs of pros-
-ecution which Judgment and sentence your 
+Thirty Dollars each besides the costs of prosecution
+which Judgment and sentence your 
 petitioners then and there refused to <unclear>propurcer</unclear> 
 and were then &amp; there committed by said Justice of the 
 Peace to the common jail of said county.</p>
 
 <p>Your Petitioners therefore allege <sic>that that</sic> 
 the said restraint of their liberty as 
-aforesaid by the said Henry <unclear>Weiser</unclear> sheriff as aforesaid is illegal for the following reason:</p>
+aforesaid by the said Henry <unclear>Weiser</unclear> sheriff
+as aforesaid is illegal for the following
+reasons:</p>
 
 <p>1st For that chapter 149 of the Code of Washington 
 Territory for the year 1881 and especially 
@@ -295,11 +288,11 @@ the second section of said Chapter being section
 2073 of said code and the amendment thereof 
 passed by the Legislature assembly of said 
 Territory at the session of 1883 is null 
-and void in that it is contrary to the Con-
-stitution of the United States and so 
+and void in that it is contrary to the Constitution
+of the United States and so 
 creates no offence whatever</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>2d That the offence created by said section 
 2073 if an offence at all is not an 
@@ -312,7 +305,7 @@ punishable by imprisonment.</p>
 Jurisdiction to hear try and determine said 
 cause for the reason that your petitioners were 
 charged in the complaint and warrant 
-aforesaid and were tried guilty as for 
+aforesaid and were tried jointly as for 
 a joint offence whereas the offence charged 
 if an offense at all was one that could be 
 committed only in <unclear>severalty</unclear></p>
@@ -328,9 +321,9 @@ tried or examined till the case was closed
 deprived him him of a trial by Jury in that 
 Your petitioners could not determine
 
-<pb...></pb...>
+<pb/>
 
-1236
+<note>1236</note>
 
 the use or necessity for a jury until the 
 trial was closed.</p>
@@ -347,7 +340,7 @@ Justice of the Peace were without Jurisdiction
 and the Judgement of said Justice of the 
 Peace so rendered in said cause was 
 without Jurisdiction and is void both as 
-to matters of force and substance and gave 
+to matters of form and substance and gave 
 him no authority whatever to issue 
 any commitment</p>
 
@@ -356,10 +349,10 @@ Most Gracious Writ of Habeas Corpus issue directed
 to the said Henry Ausor and his deputies and all 
 other persons under him commanding him and 
 them to have the bodies of your petitioners before 
-Your Honor at a time and place to be therein spec-
-ified and to do and receive what shall then
+Your Honor at a time and place to be therein specified
+and to do and receive what shall then
 
-<pb...></pb...>
+<pb/>
 
 and there be considered by Your Honor 
 concerning your petitioners together with 
@@ -367,17 +360,17 @@ the time and cause of their detention and
 that your petitioners may be restored to 
 their liberty and your petitioners will ever pray to.</p>
 
-<p>Said</p>
+<p>Sam</p>
 
-<p>by Thomas <unclear>Smurthevach</unclear> his attorney</p>
+<p>by Thomas Smurthwaite his attorney</p>
 
 <p>Sock</p>
 
-<p>by Thomas <unclear>Smurthevach</unclear> his attorney</p>
+<p>by Thomas Smurthwaite his attorney</p>
 
 <p>Jim</p>
 
-<p>by Thomas <unclear>Smurthevach</unclear> his attorney</p>
+<p>by Thomas Smurthwaite his attorney</p>
 
 
 </div1>

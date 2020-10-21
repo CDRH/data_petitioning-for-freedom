@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Sock and Sam. Complaint</title> 
+<title>Sam, Lock and Jim v. Territory of Washington. Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Sock and Sam. Complaint</title>
+<title level="m" type="main">Sam, Lock and Jim v. Territory of Washington. Complaint</title>
 <date when="1884-08-16">August 16, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,11 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ah Sock, Jim</term>
-<term>Gorgucs, R.</term>
-<term>Hult, J.H.</term>
+<term>Wilt, J. H.</term>
 <term>Morris, John</term>
-<term>Sam</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,34 +100,31 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Territory of Washington</persName>
-</person>
-<person role="defendant">
 <persName>Lock</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Jim</persName>
 </person>
-<person role="defendant">
+<person role="petitioner">
 <persName>Sam</persName>
 </person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
 <person role="attorney_petitioner">
-<persName/>
+<persName></persName>
 </person>
-<person role="attorney_defendant">
-<persName>Judson, John P.</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Smurthevach, Thomas</persName>
+<person role="attorney_petitioner">
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Harris, W.T.</persName>
+<persName>Harris, W. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -138,8 +132,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-10" who="#lkw">review</change>      
+<change when="2019" who="#sab">encoded, edited transcription</change>        
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -155,7 +150,7 @@
 <note>1236</note>
 
 <p>In Justice's Court before W H 
-Harrig an acting Justice of 
+Harris an acting Justice of 
 the Peace in and for Tacoma 
 Precinct Pierce County W.T.</p>
 
@@ -165,14 +160,14 @@ Precinct Pierce County W.T.</p>
 John Morris 
 who after being duly sworn on 
 this oath says that <del>one Bing 
-Ching</del> Sam Lock Jim 
+Ching</del> Sam Lock &amp; Jim 
 were guilty on or about the 15th day 
 of August AD 1884 in County of 
 Pierce and Territory of Washington 
-of <unclear>Jisithiny</unclear> a house in said County 
+of visiting a house in said County 
 and Territory Kept for the purpose of 
 smoking and inhaling opium 
-and that said Defendants did tried 
+and that said Defendants did visit 
 said house for the purpose of smoking 
 and in haling and opium 
 and did smoke and inhale the same in said house Which is all contrary to and in 
@@ -183,7 +178,7 @@ of the people of the same.</p>
 <p>Complainant therefor prays 
 that a warrant issue for the
 
-<pb...></pb...>
+<pb/>
 
 of the said Defendants and 
 That they be delt with according 
@@ -194,7 +189,7 @@ to law.</p>
 <p>Sworn to and subscribed before me 
 this 16th day of August AD 1884</p>
 
-<p>W H Harrs</p>
+<p>W H Harris</p>
 
 <p>Justice of the Peace</p>
 
@@ -206,15 +201,14 @@ Sam Lock &amp; Jim</p>
 <p>Complaint filed August 
 16th 1884</p>
 
-<p>W H Harrs</p>
-
-<p>JP</p>
+<p>W H Harrs<lb/>
+JP</p>
 
 <p>FILED Sept 4 1884</p>
 
 <p>R <unclear>Gorgucs</unclear> CLERK.</p>
 
-<p>By J H Hult DEPUTY CLERK.</p>
+<p>By J H Wilt DEPUTY CLERK.</p>
 
 
 </div1>
