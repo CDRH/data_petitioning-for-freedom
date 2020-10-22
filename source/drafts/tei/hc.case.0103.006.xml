@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Deppelippes &amp; Perell v. Byrd. Petition</title> 
+<title>Prospero Depelippes and Filip Perell v. Lewis Byrd. Oath</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Deppelippes &amp; Perell v. Byrd. Petition.</title>
+<title level="m" type="main">Prospero Depelippes and Filip Perell v. Lewis Byrd. Oath</title>
 <date when="1886-07-06">July 6, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,10 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Byrd, Lewis</term>
-<term>Deppelippes, Prospero</term>
-<term>Harris, J.R.</term>
-<term>Perell, Felip</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -102,8 +99,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Deppelippes, Prospero</persName>
-<persName>Perell, Felip</persName>
+<persName>Depelippes, Prospero</persName>
+</person>
+<person role="petitioner">
+<persName>Perell, Filip</persName>
 </person>
 <person role="defendant">
 <persName>Byrd, Lewis</persName>
@@ -115,22 +114,23 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hoyt, John P.</persName>
+<persName>Harris, J. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
-<placeName>Pierce County, Washington Territory</placeName> 
+<orgName>Second Judicial District</orgName> 
+<placeName>Tacoma, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change> 
+<change when="2019" who="#zcb">encoded</change> 
+<change when="2018" who="#nl">transcribed</change>  
 </revisionDesc>
 
 </teiHeader>
@@ -142,27 +142,19 @@
 <div1 type="case">
 
 <pb facs="hc.case.0103.006"/> 
-<note>1832</note>
 
-<p>Wherefore to be relieved from said unlawful 
-detention and imprisonment your petitioner 
-prays that a writ of Habeas Corpus to be directed 
-to the said Lewis Byrd, may issue in this behalf, 
-so that your petitioners may be forthwith 
-brought before <del></del> this court to do, submit to, and receive 
-what the law may require.</p>
 
 <p>United States of America</p>
 <p>Territory of Washington</p>
 <p>County of Pierce ) SS:</p>
 
-<p> Felip Perell and Prospro Deppelippes being 
+<p>Felip Perell and Prospro Deppelipps being 
 duly sworn each for himself, deposes and says that <del>he is</del>they are one of the petitioner 
 named in the foregoing petition subscribed by 
 him that they have heard the same read, and 
 knows the contents thereof, and that the 
 statements therein much are true as they 
-verily believes } Prospero Deppelippes Felip Perell</p>
+verily believes } Prospero Deppelippes Felipp Perell</p>
 
 <p>Subscribed and sworn to this 6th day of July 1886</p>
 
