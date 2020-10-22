@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Arlington and Johnson v. Byrd. Copy of Commitment</title> 
+<title>Mary Arlington and Timothy Johnson v. Lewis Byrd. Copy of Commitment</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Arlington and Johnson v. Byrd. Copy of Commitment</title>
+<title level="m" type="main">Mary Arlington and Timothy Johnson v. Lewis Byrd. Copy of Commitment</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,9 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Byrd, Lewis</term>
-<term>Prucde, W.T.</term>
-<term>Srayer, G.M.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -115,20 +113,11 @@
 <person role="attorney_defendant">
 <persName/>
 </person>
-<person role="judge">
-<persName>Lawrence, A.S.</persName>
-</person>
-<person role="judge">
-<persName>Hoyt, John P.</persName>
-</person>
-<person role="judge">
-<persName>Lawrence, A.E.</persName>
-</person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -136,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-10" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -150,15 +140,15 @@
 
 <pb facs="hc.case.0102.002"/>
 
-<p>I hereby <unclear>corty</unclear> the within 
+<p>I hereby <unclear>certy</unclear> the within 
 a true copy of original 
 placed in my hands</p>
 
 <p>Lewis Byrd</p>
 
-<p>Sheriff Prucde W.T.</p>
+<p>Sheriff Pierce Co W.T.</p>
 
-<p>By G. M. Srayer Deput</p>
+<p>By <unclear/> Deput</p>
 
 <note>copy of 
 commitment 

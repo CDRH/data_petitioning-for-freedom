@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Arlington and Johnson v. Byrd. Filed Petition for Writ</title> 
+<title>Mary Arlington and Timothy Johnson v. Lewis Byrd. Oath</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Arlington and Johnson v. Byrd. Filed Petition for Writ</title>
+<title level="m" type="main">Mary Arlington and Timothy Johnson v. Lewis Byrd. Oath</title>
 <date when="1885-01-27">January 27, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,9 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Arlington, Mary</term>
-<term>Lawrence, A.E.</term>
-<term>O'Brien, R.G.</term>
+<term>Abernethy, A. S.</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -128,7 +127,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -136,8 +135,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-10" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -151,11 +151,11 @@
 <pb facs="hc.case.0102.007"/>
 
 <p>Territory of Washington}</p>
-<p>County of Pierce}SS</p>
+<p>County of Pierce} SS</p>
 
 <p>Mrs. Mary
 
-<pb...></pb...>
+<pb/>
 
 Arlington being duly sworn on oath doth 
 depose and say That she is the petitioner 
@@ -172,7 +172,7 @@ in my presence by the said Mary
 Arlington this 26th day of January 
 AD 1885</p>
 
-<p>AS <unclear>Abemethy</unclear> Jo</p>
+<p>AS Abernethy J</p>
 <p>Notary Public Wash Ter</p>
 
 
@@ -185,9 +185,9 @@ Habeas Corpus</p>
 
 <p>Filed January 27th 1885</p>
 
-<p>L. G. O'Brien Clerk</p>
+<p>R. G. O'Brien Clerk</p>
 
-<p><unclear>Rogue at Boutton</unclear></p>
+<p><unclear>Rogers &amp; Brottan</unclear></p>
 
 </div1>
     

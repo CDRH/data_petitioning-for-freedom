@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Arlington and Johnson v. Byrd. Sworn Statement</title> 
+<title>Mary Arlington and Timothy Johnson v. Lewis Byrd. Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Arlington and Johnson v. Byrd. Sworn Statement</title>
+<title level="m" type="main">Mary Arlington and Timothy Johnson v. Lewis Byrd. Complaint</title>
 <date when="1885-01-23">January 23, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -88,9 +88,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Arlington, Harry</term>
-<term>Arlington, Mary</term>
-<term>Brotton</term>
-<term>Johnson, Tim</term>
+<term>Brottan, Roger A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -117,19 +115,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Lawrence, A.S.</persName>
-</person>
-<person role="judge">
-<persName>Hoyt, John P.</persName>
-</person>
-<person role="judge">
-<persName>Lawrence, A.E.</persName>
+<persName>Lawrence, A. E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of 2nd Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Tacoma, Washington</placeName>
 </org>
 </listOrg>   
@@ -137,8 +129,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-10" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -154,14 +147,14 @@
 <note>'B' 1331 1331</note>
 
 <p>Territory of Washington}</p>
-<p>County of Pierce}SS</p>
+<p>County of Pierce} SS</p>
 
 <p>M. Brotton being duly sworn on 
 his oath says that Mary Arlington and Tim Johnson at 
-the town of Tacoma in the said County of Pierce Terri-
-tory of Washington before the filing of this complaint, visited a 
+the town of Tacoma in the said County of Pierce Territory
+of Washington before the filing of this complaint, visited a 
 house used by one Harry Arlington as once for the 
-purpose of a <unclear>resort</unclear> for the purpose of smoking opium 
+purpose of a resort for the purpose of smoking opium 
 by other persons and that then and there being the same 
 defendants Mary Arlington, and Tim Johnson did 
 smoke and inhale opium contrary to the form 
@@ -177,7 +170,7 @@ according to Law</p>
 <p>Subscribed and sworn 
 to before me this 23rd day of 
 January A.D. 1885</p>
-<p>A. E. <unclear>Lannas</unclear></p>
+<p>A. E. Lawrence</p>
 <p>Justice of the Peace</p>
 
 
