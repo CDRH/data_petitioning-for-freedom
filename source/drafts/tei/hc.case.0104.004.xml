@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gaw et. al. v. Carroll. Memo from the Collector of Customs </title> 
+<title>Ah Gow et. al. v. James Carroll. Exhibit A</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gaw et. al. v. Carroll. Memo from the Collector of Customs</title>
+<title level="m" type="main">Ah Gow et. al. v. James Carroll. Exhibit A</title>
 <date when="1888-10-11">October 11, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -88,11 +88,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Brooks, Quincy A.</term>
-<term>Carroll, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cusom-House, Port Townsend, W. T.</term> 
+<term>Port Townsend, Washington</term> 
 </keywords>
 
 </textClass>
@@ -190,13 +189,13 @@
 <persName>Carroll, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ashton, Mitchell</persName>
+<persName>Ashton, James M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Aeopman</persName>
+<persName>Chapman</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Last, First</persName>
+<person role="attorney_petitioner">
+<persName>Mitchell</persName>
 </person>
 <person role="judge">
 <persName>Allyn, Frank</persName>
@@ -212,9 +211,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<revisionDesc> 
+<change when="2019" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>          
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -231,7 +231,8 @@
 
 <p>Collector's Office, Oct 11, 1888.</p>
 
-<note>"Exhibit A 2443</note>
+<note>"Exhibit A</note>
+<note>2443</note>
 
 <p>Captain James Carroll</p>
 
