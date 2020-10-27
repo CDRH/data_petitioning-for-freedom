@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James RIley. Testimony</title> 
+<title>James Riley v. Egbert H. Tucker. Testimony</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Testimony</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Testimony</title>
 <date when="1861-07-29">July 29, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term><date when="1861-03">March 1861</date></term>
+<term><date/></term>
 </keywords>
 
 <keywords scheme="original" n="term">
@@ -87,12 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bradley, Henry L.</term>
-<term>McLeod, John</term>
-<term>Riley, James W.</term>
-<term>Walmsley, John</term>
+<term>Bradley, Henry E.</term>
+<term>McCloud, John</term>
+<term>Wamsly, John</term>
 <term>White, Robert</term>
-<term>Wist, U.J.</term>
+<term>West, Miles J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,7 +103,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -116,13 +115,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Third Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -130,8 +129,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -146,12 +146,12 @@
 <note>906</note>
 
 <p>Robert White being first duly sworn says 
-on Sunday morning the 18inst went to 
-Montgomerys in company with H L Bradley 
+on Sunday morning the 18 inst went to 
+Montgomerys in company with H E Bradley 
 J.W. Riley, <unclear></unclear> <del></del> within some time. When he 
-returned to W Bradleys <unclear>house</unclear> was in company 
-with Walmsley, even a crowd such out of 
-Bradleys house, seen J. W Riley <unclear>jumps</unclear> off 
+returned to Mr Bradleys house was in company 
+with Walmsley, even a crowd rush out of 
+Bradleys house, seen Mr. Riley jump off 
 a fence in the rim of the house. he ran 
 toward the house. At the end of the house he seized 
 McLeod &amp; both went out of deponents sight for 
@@ -168,7 +168,7 @@ had killed McLeod &amp; threatened to kill
 Walmsley when Riley caught hold of 
 McLeod (he caught McLeod by the hair of his 
 head. Riley &amp; McLeod got out of deponants sight 
-when Riley first seized McLeod in came <unclear>gain</unclear> 
+when Riley first seized McLeod in <unclear>came gain</unclear> 
 of a fense between them &amp; deponant. all this 
 occured in Pierce County W.T.</p>
 
@@ -176,7 +176,7 @@ occured in Pierce County W.T.</p>
 
 <p>Subscribed &amp; sworn to before me this 29h day of July 1861</p>
 
-<p>U. J. Wist J P.</p>
+<p>M. J. West J P.</p>
 
 </div1>
     
