@@ -6,20 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Junichi Yamamoto v. Luther Weedin. Order Forfeiting Bond</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="ka">Salma J. Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Junichi Yamamoto v. Luther Weedin. Order Forfeiting Bond</title>
+<date when="1922-07-29">July 29, 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-07">July 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Harshberger, F. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -102,29 +94,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Yamamoto, Junichi</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hellsell, Frank P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gates</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revelle, Thomas P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Falkner, Judson J.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
+</person>
+<person role="judge">
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +130,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,19 +143,19 @@
 
 <pb/>
 
-UNITED STATES DISTRICT COURT
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON</p>
+<p>NORTHERN DIVISION</p>
 
-No. 6617
+<p>No. 6617</p>
 
-ORDER FORFEITING BOND
+<p>ORDER FORFEITING BOND</p>
 
-IN THE MATTER OF THE
+<p>IN THE MATTER OF THE
 APPLICATION OF JUNICHI YAMAMOTO
-FOR A WRIT OF HABEAS CORPUS
+FOR A WRIT OF HABEAS CORPUS</p>
 
-This matter having come on regularly to be heard
+<p>This matter having come on regularly to be heard
 before the above entitled court and it appearing to the court
 that on the 6th day of May, 1922, there was
 entered herein an order denying the petitioner a writ of
@@ -165,9 +163,9 @@ habeas corpus, and it further appearing to the court that the
 petitioner JUNICHI YAMAMOTO has heretofore filed with
 the clerk of this court a bond for the release of this said petition-
 er from custody pending the determination of this proceeding,
-which said bond was and is conditioned as follows:
+which said bond was and is conditioned as follows:</p>
 
-"NOW THEREFORE, if the said Junichi Yamamoto
+<p>"NOW THEREFORE, if the said Junichi Yamamoto
 will surrender himself to Luther Weeden, United 
 States Commissioner of Immigration at Seattle,
 Washington, in the event that the petition of the 
@@ -176,63 +174,63 @@ the said Junichi Yamamoto is remanded to the custody
 of the said Luther Weeden, United States Commissioner
 of Immigration at Seattle, Washington, by the above
 entitled court, then these presents shall be void,
-otherwise to remain in full force and effect."
+otherwise to remain in full force and effect."</p>
 
-And it further appearing to the court that heretofore and on
+<p>And it further appearing to the court that heretofore and on
 to wit, the 11th day of July, 1922, there was entered herein
 an order remanding the said petitioner to the custody of the
 said Commissioner of Immigration, the respondent herein, and
-it further appearing to the court from the affidavit of the
+it further appearing to the court from the affidavit of the</p>
 
 <pb/>
 
-respondent herein that the said petitioner has wholly failed, 
+<p>respondent herein that the said petitioner has wholly failed, 
 neglected and refused to surrender himself into the custody
 of the respondent as directed by said letter order and as pro-
 vided in said bond, and the court being fully advised in the
-premises, now, therefore, it is hereby
+premises, now, therefore, it is hereby</p>
 
-ORDERED, ADJUDGED and DECREED that the said bail
-bond of the petitioner JUNICHI YAMAMOTO be, and the same is hereby, forfeited.
+<p>ORDERED, ADJUDGED and DECREED that the said bail
+bond of the petitioner JUNICHI YAMAMOTO be, and the same is hereby, forfeited.</p>
 
-DONE in open court this 29 day of July, 1922.
+<p>DONE in open court this 29 day of July, 1922.</p>
 
-Jeremiah Neterer
-Judge
+<p>Jeremiah Neterer</p>
+<p>Judge</p>
 
--2-
+<p>-2-</p>
 
 <pb/>
 
-No. 6617
+<p>No. 6617</p>
 
-IN THE DISTRICT COURT
+<p>IN THE DISTRICT COURT
 OF THE UNITED STATES
 FOR THE
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION.
+WESTERN DISTRICT OF WASHINGTON</p>
+<p>NORTHERN DIVISION.</p>
 
-IN THE MATTER OF THE
+<p>IN THE MATTER OF THE
 APPLICATION OF
 JUNICHI YAMAMOTO
-FOR A WRIT OF HABEAS CORPUS
+FOR A WRIT OF HABEAS CORPUS</p>
 
-ORDER FOREFEITING BOND
+<p>ORDER FOREFEITING BOND</p>
 
-GoB #9-Page 424
+<p>GoB #9-Page 424</p>
 
-FILED IN THE 
-UNITED STATES DISTRICT COURT
-Western District of Washington
-NORTHERN DIVISION
+<p>FILED IN THE 
+UNITED STATES DISTRICT COURT</p>
+<p>Western District of Washington</p>
+<p>NORTHERN DIVISION</p>
 
-Tx
+<p>Tx</p>
 
-JUL 29 1922
+<p>JUL 29 1922</p>
 
-F.M. Harshberger, Clerk
+<p>F.M. Harshberger, Clerk</p>
 
-By S.E. Leitch Deputy
+<p>By S.E. Leitch Deputy</p>
 
 </div1>
     

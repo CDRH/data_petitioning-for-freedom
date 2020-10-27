@@ -6,20 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Junichi Yamamoto v. Luther Weedin. Bail Bond</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="ka">Salma J. Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Junichi Yamamoto v. Luther Weedin. Bail Bond</title>
+<date when="1922-03-09">March 9, 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-03">March 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ompaeel, H. </term>
+<term>Harshberger, F. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle</term>
+<term>Maryland</term>
 </keywords>
 
 </textClass>
@@ -102,29 +96,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Yamamoto, Junichi</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hellsell, Frank P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gates</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revelle, Thomas P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Falkner, Judson J.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
+</person>
+<person role="judge">
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +132,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,20 +145,20 @@
 
 <pb/>
 
-Cert copy to petitioner
+<p>Cert copy to petitioner</p>
 
-IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF
-WASHINGTON, NORTHERN DIVISION
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF
+WASHINGTON, NORTHERN DIVISION</p>
 
-No. 6617
+<p>No. 6617</p>
 
-BAIL BOND
+<p>BAIL BOND</p>
 
-IN THE MATTER OF THE APPLICATION OF
+<p>IN THE MATTER OF THE APPLICATION OF
 JUNICHI YAMAMOTO FOR
-WRIT OF HABEAS CORPUS
+WRIT OF HABEAS CORPUS</p>
 
-KNOW ALL MEN BY THESE PRESENTS, that we, JUNICHI YAMAMOTO, 
+<p>KNOW ALL MEN BY THESE PRESENTS, that we, JUNICHI YAMAMOTO, 
 as principal, and UNITED STTES FIDELITY AND GUARANTY COMPANY,
 a corporation organized and existing under and by virture of
 the laws of the State of Maryland, authorized to transact the
@@ -166,18 +166,18 @@ business of surety within the State of Washington, as surety,
 are held and firmly bound unto the UNITED STATES OF AMERICA In
 the penal sum of One Hundred
 Dollars ($1000,00, for the payment of which we jointly
-and severally are held and firmly bound by these presents.
+and severally are held and firmly bound by these presents.</p>
 
-DATED at Seattle, Washington, this 9th day of March,1922.
+<p>DATED at Seattle, Washington, this 9th day of March,1922.</p>
 
-THE CONDITION of this obligation is such that,
+<p>THE CONDITION of this obligation is such that,
 WHEREAS the above entitled court has issued an order in the
 above entitled cause directing a writ of habeas corpus to issue
 to Luther Weedin, United StatesCommissioner of Immigration at
 Seattle, Washington, and directing that the above named petition-
 er and the principal in this obligation be released upon furnish-
 ing a bond in the penal sum of One Hundred 
-Dollars ($1000,00).
+Dollars ($1000,00).</p>
 
 <p>NOW THEREFORE, if the said Junichi Yamamoto will surrender
 himself to Luther Weedin, United States Commissioner of Immigra-
@@ -199,7 +199,7 @@ ents shall be void, otherwise to remain in full force and effect.</p>
 <p>Approved</p>
 
 <p>F.M. Harshberger</p>
-Clerk
+<p>Clerk</p>
 
 </div1>
     
