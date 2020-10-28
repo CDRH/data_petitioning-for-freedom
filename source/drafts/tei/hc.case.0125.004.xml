@@ -1,12 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0125.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Daniel Ainsworth and J.S. Danford. Court File</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0125.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. Daniel Ainsworth and J.S. Danford. Court File</title>
+<date when="1891">1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">February 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Danford, J.S.</term>
+<term>Whitney, M.H</term>
+<term>Aipes, A. Reeves</term>
+<term>Lockhart, Warren J.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Ainsworth, Daniel</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bennett, Marcie N.</persName>
+<persName>Bennett, B.H.</persName>
+<persName>Cannon, A.H. </persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hyde J.C. </persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-09" who="#lkw">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
 <p>Territory of Washington
 vs.
-David Aimesworth
+Daniel Ainsworth
 and J.S. Danford
 And now on this 5th 
 day of February A.D. 1885. The 
-said David Aimesworth is there
-tried solemnly publicly called
+said Daniel Ainsworth is three
+times solemnly publicly called
 to come into court, as by 
 this bond or recognizance duly 
 taken approved and filed in 
@@ -18,32 +168,32 @@ Whereupon, on motion of
 J.C. Hyde, prosecuting attorney,
 Macie N. Bennett, B.H. 
 Bennett and A.N. Cannon,
-the parties of the said David
-Aimesworth, are, by order of
+the parties of the said Daniel
+Ainsworth, are, by order of
 the court there to be duly
 solemnly and publicly called
 upon to produce the said
-David Aimesworth there <unclear></unclear>
+Daniel Ainsworth here now
 in court, which they wholly
 fail to do, without sufficient 
-cause.
-And it fully appearing
+excuse.
+And is fully appearing
 to the court that
-by this bond or recognizance
+by their bond or recognizance
 duly made the 24th day
-<rep>day</rep> of November A.D. 1884, and
+day of November A.D. 1884, and
 duly taken approved and filed in 
 this court on the 25th day 
 of November A.D. 1884. The 
-said David Aimesworth as
+said Daniel Ainsworth as
 principal and said Macie N. Bennett,
 B.H. Bennett, and A.N. 
 Cannon have jointly and generally
-undertaken and bond 
+undertaken and <unclear></unclear>
 themselves to the Territory of 
 Washington in the sum of
-Six Thousand dollars, confined
-that if the said David Aimesworth
+Six Thousand dollars, <unclear></unclear>
+that if the said Daniel Ainsworth
 be and appear in
 this court on the 2nd day
 of February A.D. 1885 and 
@@ -51,17 +201,19 @@ from day to day, and from
 adjournment to adjournment.
 and from there to there.
 Thereafter, and in like manner
-appear at any of the
+appear at any other
 District court in said Territory, to 
 which the name of said cause
 might be removed, there to 
 answer, to an indictment 
-charging said David Aimesworth
-with the charge of 
+charging said Daniel Ainsworth
+and one J.S. Danford 
+with the <unclear></unclear> of 
 having obtained property of
 one M.H. Whitney, by 
 account of false pretenses
-and with intent to defraud the said M.H. Whitney
+and with intent to defraud 
+the said M.H. Whitney
 and to <unclear></unclear>
 in execution of any indictment
 that insight be endorsed
@@ -70,14 +222,14 @@ matter, there to be void,
 otherwise in full force.
 And it likewise fully
 appearing to the court,
-that the said David Aimesworth
+that the said Daniel Ainsworth
 and Macie N. Bennett B.H. 
 Bennett and A.N. Cannon,
 were all and each of them
 have violated the terms and
 conditions of the said bond
 or recognizance that the
-said David Aimesworth has
+said Daniel Ainsworth has
 wholly failed to appear in
 this court as by said bond
 or recognizance required to
@@ -87,15 +239,15 @@ the said parties, though duly
 called, have without any 
 excuse, therefore, wholly failed
 and neglected to produce
-the said David Aimesworth
+the said Daniel Ainsworth
 in court. It is therefore
 now here in dated and 
 adjudged that the default
-of said David Aimesworth,
+of said Daniel Ainsworth,
 Macie N. Bennett, B.H. Bennett,
 and A.N. Cannon, and each 
 of therein the <unclear></unclear> be
-and is hereby called and 
+and is hereby <unclear></unclear> and 
 endorsed. It is also considered
 and adjudged by the court.
 That the said bond or recognizance
@@ -106,7 +258,7 @@ for failed.
 E. 440 1356
 Territory of Washington
 vs.
-David Aimesworth
+Daniel Ainsworth
 Et. al
 Order of affecting
 Bond
@@ -114,3 +266,9 @@ Filed Febry. 5 1885
 A. Reeves Aipes, Clerk
 By Warren J. Lockhart
 Deputy</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
