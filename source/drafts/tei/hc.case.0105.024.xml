@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Court Document</title> 
+<title>James Riley v. Egbert H. Tucker. Court Document</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Court Document</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Court Document</title>
 <date when="1861-09-10">September 10, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -91,11 +91,11 @@
 <term>Bradley, Henry E.</term>
 <term>Collins, Daniel</term>
 <term>Horn, Thomas</term>
-<term>McLeod, John</term>
-<term>McGilard, John J.</term>
+<term>McCloud, John</term>
+<term>McGilvra, John J.</term>
 <term>Moses, Andrew J.</term>
-<term>Riley, James</term>
-<term>Tolenton, Thomas</term>
+<term>Tallentine, Thomas</term>
+<term>Ward, R. A.</term>
 <term>White, Robert</term>
 </keywords>
 
@@ -110,7 +110,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -122,13 +122,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -136,8 +136,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -164,7 +165,7 @@ of the United States, begun and held
 at Olympia in and for the second Judicial District 
 aforesaid on the second day of 
 September AD 1861. it being the first 
-Monday of said month, the <unclear>Seund</unclear> Jurors 
+Monday of said month, the <unclear>Seven</unclear> Jurors 
 good and lawful men duly elisted, 
 empounded, sworn and charged to inquire 
 within and for the body of the District, on 
@@ -191,7 +192,7 @@ statute in such case made and
 provided and against the peace and 
 dignity of the Territory of Washington</p>
 
-<p>John J McGilard Pros Atty for W.T.</p>
+<p>John J McGilvra Pros Atty for W.T.</p>
 
 <p>Amount of bail <del>$1000</del> $1400.00</p>
 <p>C.C. Hewitt Judge of 2d District</p>

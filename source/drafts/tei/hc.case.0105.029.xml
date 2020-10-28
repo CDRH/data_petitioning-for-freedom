@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Payment Obligation</title> 
+<title>James Riley v. Egbert H. Tucker. Sureties</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Payment Obligation</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Sureties</title>
 <date when="1861-03-05">March 5, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -89,8 +89,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Hughes, James</term>
 <term>Lo, Mowgatt</term>
-<term>Moory, PJ</term>
-<term>Riley, James</term>
+<term>Mooney, P. J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,7 +101,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -114,13 +113,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -128,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -160,7 +160,7 @@ presents.</p>
 the above obligation is such, that whereas 
 complaint has been made against James 
 Riley by one Mowgatt Lo in this: that he 
-the said Riley did assault said Mowatt Lo 
+the said Riley did assault said Mowatt Loo 
 and that he did <del>then</del> otherwise transgress &amp;c now if the said James Riley shall appear
 and answer to the complaint of said Lo 
 <del></del> at the next term of the 
@@ -172,7 +172,7 @@ an effect</p>
 
 <p>James Riley seal</p>
 <p>Thomas Hughes seal</p>
-<p>J <unclear>T Mooney</unclear> seal</p>
+<p><unclear>PJ Mooney</unclear> seal</p>
 
 </div1>
     
