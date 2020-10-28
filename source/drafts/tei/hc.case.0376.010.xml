@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0376.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Junichi Yamamoto v. Luther Weedin. Memo of Authorities Submitted by Government</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="ka">Salma J. Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0376.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Junichi Yamamoto v. Luther Weedin. Memo of Authorities Submitted by Government</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date/></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ono, Akira</term>
+<term>Mamoru, Nishikawa</term>
+<term>Matsuro, Iwamatus</term>
+<term>Fukunaga, Eiji</term>
+<term>Matsukawa, Shizuo</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>Japan</term>
 </keywords>
 
 </textClass>
@@ -102,29 +99,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Yamamoto, Junichi</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hellsell, Frank P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gates</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revelle, Thomas P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Falkner, Judson J.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
+</person>
+<person role="judge">
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +135,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,21 +147,21 @@
 <div1 type="case">
 
 <pb/>
-IN THE UNITED STATES DISTRICT COURT
-FOR THE WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION
+<p>IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WASHINGTON</p>
+<p>NORTHERN DIVISION</p>
 
-No. 6617
+<p>No. 6617</p>
 
-MEMO OF AUTHORITIES
+<p>MEMO OF AUTHORITIES
 SUBMITTED BY
-GOVERNMENT
+GOVERNMENT</p>
 
-IN THE MATTER OF THE APPLICATION
+<p>IN THE MATTER OF THE APPLICATION
 OF JUNICHI YAMAMOTO
-FOR A WRIT OF HABEAS CORPUS
+FOR A WRIT OF HABEAS CORPUS</p>
 
-It appears that petitioner on or about September
+<p>It appears that petitioner on or about September
 17, 1917, being at said time a member of the crew, a seaman,
 on the steamship TAIYO MARU deserted said steamship at Seattle,
 Washington, and ever since said date had been in the United
@@ -167,47 +170,47 @@ testimony that at no time was petitioner in possession of
 a passport from the Japanese Government. It further appears
 that he never presented himself for admission into the United
 States, and his subsequent residence here has been, without
-dispute, clandestine and surrepitious.
+dispute, clandestine and surrepitious.</p>
 
-Section 19 of the Immigration Act, (Act of Feb.
-5, 1917), provides:
+<p>Section 19 of the Immigration Act, (Act of Feb.
+5, 1917), provides:</p>
 
-"That at any time within five years after
+<p>"That at any time within five years after
 entry, any alien who at the time of entry
 was a member of one or more of the classes
 excluded by law; any alien who shall have
 entered or who shall be found in the United
 States in violation of this act, or in vio-
 lation of any other law of the United States;
-*****"
+*****"</p>
 
-Within five years after petitioner's surrepitious
+<p>Within five years after petitioner's surrepitious
 entry in the United States, he was arrested by the United
 States immigration officials, under a warrant of arrest issued
 by the Secretary of Labor, and was given a hearing before
 immigrant inspector at Seattle, upon the charges in said warrant.
-The record of said hearing was forwarded to Washington, and
+The record of said hearing was forwarded to Washington, and</p>
 
-1
+<p>1</p>
 
 <pb/>
 
-upon such record the Secretary of Labor decided that petitioner
+<p>upon such record the Secretary of Labor decided that petitioner
 was in the United States in violation of the immigrantion laws
 of the United States, to wit, in violation of fule 11 of the
 immigration rules, in violation of the President's Proclamation
 dated February 24, 1913, in violation of the "Gentlemen's
 Agreement" between the United States and Japan, and was further
 a member of an excluded class, to wit, that at the time of
-his entry he was a person likely to become a public charge.
+his entry he was a person likely to become a public charge.</p>
 
-Upon such findings the Secretary of Labor thereafter
+<p>Upon such findings the Secretary of Labor thereafter
 issued his warrant of deportation, which warrant is fully set
 out in the return filed herein, and it is upon the basis of 
 this warrant that the petitioner is detained by the Immigration
-Commissioner and held for deportation to Japan.
+Commissioner and held for deportation to Japan.</p>
 
-Under the President's Proclamation referred to, and under
+<p>Under the President's Proclamation referred to, and under
 the"Gentlemen's Agreement", and under rule 11 of the immigration
 laws, there is no dispute that the petitioner entered the
 United States in violation of this provision of the law <del>and</del>
@@ -215,76 +218,76 @@ in that at the time of his entry he was a laborer, skilled or
 unskilled, and had no passport issued by the Japanese Government.
 He was therefore a member of an excluded class; and this proceeding
 falls squarely under the portion of Section 19 of the Immigration
-Act referred to.
+Act referred to.</p>
 
-The facts in the case of AKIRA ONO versus United States,
+<p>The facts in the case of AKIRA ONO versus United States,
 M 267 Fed. 359, (C.C.A.9th Circ.) are identical with the facts
 in this case, and in the case the Circuit Court held that
 the petitioner was subject to deportation as having deserted
 his vessel and entered the United States clandestinely, without
 a passport from the Japanese Government, he being at the time
-of his entry a laborer, skilled or unskilled. Without quoting
+of his entry a laborer, skilled or unskilled. Without quoting</p>
 
-2
+<p>2</p>
 
 <pb/>
 
-ME-
+<p>Ms E-</p>
 
-Will you please present this
+<p>Will you please present this
 Order in the morning June, Marshal
 wants to <unclear>get</unclear> mid of the <unclear>boat</unclear> <unclear></unclear> <unclear></unclear>
 leaking, and the sale price wa<unclear></unclear>
-good.
+good.</p>
 
 <pb/>
 
-from this case, it is sufficient to say that it clearly covers
+<p>from this case, it is sufficient to say that it clearly covers
 the case at bar and is conclusive of all contentions made by
-the petitioner.
+the petitioner.</p>
 
-Your Honor's attention is further invited to
+<p>Your Honor's attention is further invited to
 four recent cases decided by Your Honor, the facts in all of
 which cases are absolutely identical with the facts in the
 present case, and in all of which recent cases Your Honor,
 following the Ono case supra, denied the writ. These cases
-are as follows:
+are as follows:</p>
 
-NISHIKAWA MAMORU, No. 6414 (check mark)
+<p>NISHIKAWA MAMORU, No. 6414 (check mark)</p>
 
-IWAMATUS MATSURO, No. 6415 (check mark)
+<p>IWAMATUS MATSURO, No. 6415 (check mark)</p>
 
-EIJI FUKUNAGA, No. 6435 - p. 517
+<p>EIJI FUKUNAGA, No. 6435 - p. 517</p>
 
-SHIZO MATSUKAWA, No. 6438. (check mark)
+<p>SHIZO MATSUKAWA, No. 6438. (check mark)</p>
 
-Respectfully submitted.
+<p>Respectfully submitted.</p>
 
-Thomas P. Revelle
-United States Attorney
+<p>Thomas P. Revelle</p>
+<p>United States Attorney</p>
 
-Judson F. Falkner
-Assistant United States Attorney
+<p>Judson F. Falkner</p>
+<p>Assistant United States Attorney</p>
 
-3
+<p>3</p>
 
 <pb/>
 
-No. 6617
+<p>No. 6617</p>
 
-IN THE DISTRICT COURT
+<p>IN THE DISTRICT COURT
 OF THE UNITED STATES
 FOR THE
-WESTERN DISTRICT OF WASHINGTON
+WESTERN DISTRICT OF WASHINGTON</p>
 
-Northern DIVISION.
+<p>Northern DIVISION.</p>
 
-IN THE MATTER OF THE APPLICATION
+<p>IN THE MATTER OF THE APPLICATION
 OF JUNICHI YAMAMOTO
-FOR A WRIT OF HABEAS CORPUS
+FOR A WRIT OF HABEAS CORPUS</p>
 
-MEMO OF AUTHORITIES SUBMITTED
-BY GOVERNMENT
+<p>MEMO OF AUTHORITIES SUBMITTED
+BY GOVERNMENT</p>
 
 </div1>
     

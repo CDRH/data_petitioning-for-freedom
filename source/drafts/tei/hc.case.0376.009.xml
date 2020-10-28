@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0376.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Junichi Yamamoto v. Luther Weedin. Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="ka">Salma J. Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0376.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Junichi Yamamoto v. Luther Weedin. Decision</title>
+<date when="1922-04">April 1922</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1922-04">April 1922</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,7 +86,8 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>Japan</term>
 </keywords>
 
 </textClass>
@@ -102,29 +95,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Yamamoto, Junichi</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Weedin, Luther</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hellsell, Frank P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gates</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Revelle, Thomas P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Falkner, Judson J.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
+</person>
+<person role="judge">
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +131,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,24 +143,24 @@
 <div1 type="case">
 
 <pb/>
-IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
-OF WASHINGTON NORTHERN DIVISION.
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
+OF WASHINGTON NORTHERN DIVISION.</p>
 
-No. 6617.
+<p>No. 6617.</p>
 
-DECISION.
-FILED April/ 1922.
+<p>DECISION.</p>
+<p>FILED April/ 1922.</p>
 
-IN THE MATTER OF THE APPLICATION OF
+<p>IN THE MATTER OF THE APPLICATION OF
 JUNICHI YAMAMOTO
-FOR A WRIT OF HABEAS CORPUS.
+FOR A WRIT OF HABEAS CORPUS.</p>
 
-Judson Falkner, Assistant District Attorney, attorney for U. S.
-Gates &amp; Hellsell, Attorneys for petitioner.
+<p>Judson Falkner, Assistant District Attorney, attorney for U. S.
+Gates &amp; Hellsell, Attorneys for petitioner.</p>
 
-NETERER  D. J.
+<p>NETERER  D. J. --------</p>
 
-The petitioner, a Japanese, shipped
+<p>The petitioner, a Japanese, shipped
 from Japan as a seaman for a round trip voyage, and deserted at
 Seattle on or about the 17th of September, 1917. He had no 
 passport from the Japanese government, and entered the United
@@ -170,18 +169,18 @@ has resided in Seattle from the date of his entry, and his de-
 portation is directed. He seeks release on the ground that
 his presence is governed by Sec. 34 of the Immigration Act of
 February 5, 1917, which limits deportation to three years from
-date of unlawful entry.
+date of unlawful entry.</p>
 
-The petitioner belongs to " skilled
+<p>The petitioner belongs to " skilled
 or unskilled" labor, having no passport, and having made an un-
 lawful entry is subject to deportation at any time within five
 years from the date of his entry under the 6th Provise of Sec.
 3 of the Immigration Act of 1917. This issue has been adjudi-
 cated <add>against the petitioner</add> by the Circuit Court of Appeals in Ono vs. UNS., 267 U.S.
-359. The writ is denied.
+359. The writ is denied.</p>
 
-Neterer
-JUDGE.
+<p>Neterer</p>
+<p>JUDGE.</p>
 
 </div1>
     
