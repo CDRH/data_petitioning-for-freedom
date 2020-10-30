@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0125.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0124.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. David Aimesworth &amp; J.S. Danford. Court File</title>
+<title>Daniel Ainsworth v. Territory of Washington. Indictment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0125.001</idno>
+<idno type="project">oscys.case.0124.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. David Aimesworth &amp; J.S. Danford. Court File </title>
+<title level="m" type="main">Daniel Ainsworth v. Territory of Washington. Indictment</title>
 <date when="1884-10-10">October 10, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,13 +86,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Aipes, A. Reeves</term><!-- insert names of other people mentioned in document -->
-<term>Danford, J.S.</term>
-<term>Hughes, J.H.</term>
+<term>Ayres, A. Reeves</term>
+<term>Danford, J. S.</term>
+<term>Hughes, J. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term></term> 
 </keywords>
 
 </textClass>
@@ -100,16 +100,16 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Ainsworth, Daniel</persName><!-- insert name of petitioner, if a person -->
+<persName>Ainsworth, Daniel</persName> 
 </person>
 <person role="defendant">
-<persName>Last, First</persName><!-- insert name of defendant, if a person -->
+<persName></persName> 
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName> 
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName><!-- insert name of attorney, if known -->
+<persName></persName> 
 </person>
 <person role="judge">
 <persName></persName>
@@ -118,16 +118,17 @@
             
 <listOrg>
 <org>
-<orgName></orgName><!-- insert court name -->
-<placeName></placeName><!-- insert court place -->
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2017-06" who="#ini">reviewed; edited</change><!-- change ini to your initials --> <!-- change date, if needed -->
-<change when="2017-06" who="#ini">transcribed and encoded</change><!-- change ini to your initials --> <!-- change date, if needed -->
+<change when="2020-10" who="#ini">review</change>
+<change when="2020" who="#lh">encoded</change>
+<change when="2020" who="#zcb">transcribed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,25 +139,27 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0125.001"/><!-- insert number from spreadsheet, repeat as needed at the top of each page -->
-<p>1356
-The Territory of Washington
+<pb facs="hc.case.0125.001"/>
+<note>1356</note>
+<p>The Territory of Washington
 vs.
 Daniel Ainsworth and
-J.S. Danford
-In <unclear></unclear> for obtaining
-<unclear></unclear> false <unclear></unclear>
-H. null bill
+J.S. Danford</p>
+
+<p>In <unclear></unclear> for obtaining
+property <unclear></unclear> false pretenses</p>
+<p>A True bill
 J.H. Hughes
 Foreman of
-the Grand Jury
-Presented to the court by the
+the Grand Jury</p>
+
+<p>Presented to the court by the
 foreman of the grand jury
 in their presence and filed
 this the 10th day of October
-A.D. 1884
-A. Reeves Aipes
-Clerk Distrcit Court</p>
+A.D. 1884</p>
+<p>A. Reeves Ayres
+Clerk District Court</p>
 
 
 </div1>
