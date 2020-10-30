@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.52"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.51"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Court Document</title> 
+<title>James Riley v. Egbert H. Tucker. Exception</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0105.052</idno> 
+<idno type="project">oscys.case.0105.051</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Court Document</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Exception</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,14 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dennison, Clark Lander</term>
-<term>Garfield</term>
-<term>Landon, Clarke</term>
-<term>Riley, James</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Thurston County, Washington</term>
+<term/>
 </keywords>
 
 </textClass>
@@ -102,25 +99,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>
+<persName>Clark, Frank</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Third Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -128,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -140,71 +138,26 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0105.052"/>
+<pb facs="hc.case.0105.051"/>
 <note>906</note>
 
-<p>The Territory vs James Riley</p>
+<p>District Court 2nd Judicial District of Washington Territory</p>
 
-<p>Be it remembered that on the 4th judicial day 
-of the Sept. Term 1861 of the District Court of 
-the 2d jud District W.T. the Defendent was 
-brought into Open Court in custody of 
-an officer and that the Grand Jury 
-empannelled sworn and charged on the 
-first days of the Term come into Court <sic>and 
-and</sic> was by order of the Court discharged 
-in presence of the Defendant and the 
-Court then ordered a Grand Jury to be 
-summoned by the Sheriff of Thurston 
-County which was done orally by the 
-Sheriff and that the times occupied in 
-orally summonings and puttings said 
-Jurys into the Box did not exceed five 
-minutes, and that the Defendant was 
-then called upon at once to make his 
-challenges to the pannel if any be taken</p>
+<p>The Grand Jury being called 
+Frank Clark Atty for James 
+Riley <del>appears and moves the 
+Court that</del> a person charged 
+with an offence and held in 
+custody to appear at the present term 
+of court appears and moves the Court 
+that said Riley be brought into 
+Court for the purpose of <unclear>exhibiting</unclear> 
+the right of challenge which 
+motion the Court do overrule because counsel had first appeared for Riley</p>
 
-<p>That the Defendant thereupon orally 
-challenged the pannel of Grand Jurors 
-then &amp; there presented to him at the Grand 
-Jury about to be sworn &amp; charged to 
-enquire of offenses against the laws 
-of the Territory, and thereupon requested 
-the Court to grant him sufficient time 
-to prepare his said challenges in writing 
-verified by affidavit as required by 
-law. to the said that the Court might 
-pass upon and determine the sufficiency 
-thereof and in case said challenges 
-to the persons should not be allowed 
-that them the Defendant <unclear>right to</unclear>
+<p>Ruling excepted to - Exception allowed</p>
 
-
-<unclear>exscribe</unclear> his right to challenge the indictment 
-<unclear/> of said Jury before being sworn 
-which request of the Defendant was refused 
-by the Court and did said challenge to 
-the persons <unclear>disadured</unclear> by the Court without 
-granting any time to propose said challenges 
-in writing as affidavits and without says 
-hearing as to the sufficing thereof. 
-and said Grand Jury was thereupon 
-immediately sworn and charged.</p>
-
-<p>To all which the Defendant excepted 
-and prays the Court to award this his 
-Bill of Exceptions and to sign and 
-seal the <unclear>same</unclear></p>
-
-<p>Clarke Landon &amp; Dennison &amp; Garfield</p>
-
-<p>Attys for Deft</p>
-
-
-<p>Refused as not being in accordance with the facts</p>
-
-<p>C C Hewitt C J and presiding Judge of 2nd Judicial District</p>
-
+<p>C C Hewitt C J of W T</p>
 
 </div1>
     

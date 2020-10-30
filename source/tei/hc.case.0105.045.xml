@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.42"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.045"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Writ</title> 
+<title>James Riley v. Egbert H. Tucker. Deposition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0105.042</idno> 
+<idno type="project">oscys.case.0105.045</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Writ</title>
-<date when="1861-09-06">September 6, 1861</date>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Deposition</title>
+<date when="1861-03-01">March 1, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,12 +87,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Horn, Thomas</term>
-<term>Moses, Andrew J.</term>
+<term>Loe, Al</term>
+<term>Emma</term>
+<term>Lo, Mowgatt</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Olympia, Washington</term>
 <term>Pierce County, Washington</term>
 </keywords>
 
@@ -101,7 +101,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -113,13 +113,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Rabbesen, A. B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Third Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -127,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -139,38 +140,79 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0105.042"/>
+<pb facs="hc.case.0105.045"/>
 <note>906</note>
 
-<p>United States of America</p>
-
 <p>Territory of Washington}</p>
-<p>2nd Judicial District}</p>
+<p>County of Pierce} SS</p>
 
-<p>To the Sheriff of Pierce County Greeting:</p>
+<p>Personally appeared before 
+me the undersigned, Mowgatt-
+Lo who being duly sworn 
+says that James Riley at the 
+county of Pierce then and there 
+being <del>who being</del> did on the 
+night of the 28th day of Feby 1861. 
+in a rude insolent and angry 
+manner, unlawfully touch, <del>beat</del> 
+strike, and beat one A Loe.</p>
 
-<p>In the name of the United States of 
-America you are hereby commanded to take the 
-body of Thos. Horn 
-if to be found in this Distrct and him safely keep so 
-that you have been forthwith before the United 
-States District Court for the 2nd Judicial 
-District of Washington Territory was in session at 
-Olympia, in the District aforesaid, then and there 
-to answer to the Territory of Washington in a 
-charge of an assault with intent to kill</p>
+<p>Deponant further says that said 
+James Riley at the said County <del>at</del> 
+then and there being on the said 
+Evening of the 28th of Feby 
+1861 did in and upon an Indian 
+woman named Emma make 
+an assault with intent then &amp; there to commit 
+a rape upon the person of her the 
+said Emma.</p>
 
-<p>Herein fail not, and have you then and there this writ.</p>
+<p>Deponant further says that 
+said James Riley at the County 
+aforesaid then and there being 
+on the said evening of the 28th 
+Feby 1861 did in a rude insolent 
+and angry manner unlawfully 
+touch and push and thrust deponents
 
-<p>Witness the Honorable C.C. Hewitt Chief 
-Justice of Washington Territory and 
-Judge of the 2nd Judicial District 
-this 6 day of September A.D. 1861.</p>
+<note>906</note>
 
-<p>Andrew J. Moses</p>
+<pb/>
 
-<p>Clerk</p>
+<note>906</note>
 
+to and against the wall of the dining 
+room in the Hotel or Restaurant 
+occupied by this deponant.</p>
+
+<p>Deponant further says that 
+said James Riley at the County 
+aforesaid then and there being 
+on the said evening of the 28th 
+Feby. 1861 did in a rude, angry 
+and threatening manner in a 
+crowd of two or more persons 
+exhibit a pistol and bowie 
+knife.</p>
+
+<p>Deponant further says 
+that said James Rily at the 
+said county then and there being 
+on the said evening of the 28th Feby. 
+1861 did felonously take steal and carry 
+away one silver watch from 
+the Hotel kept by this deponant 
+of the value of $15 of the 
+property of A Loe wherefore 
+deponant prays said James Rily 
+may be dealt with according to 
+law</p>
+
+<p>Mowgatt Lo his X mark</p>
+
+<p>Subscribed &amp; sworn to before me the 1st day of March 1861</p>
+
+<p>A.B. Rabbesen J.P.</p>
 
 
 </div1>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.44"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.47"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Juror Removal</title> 
+<title>James Riley v. Egbert H. Tucker. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0105.044</idno> 
+<idno type="project">oscys.case.0105.047</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Juror Removal</title>
-<date when="1861-09-09">September 9, 1861</date>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Writ of Habeas Corpus</title>
+<date when="1861-09-19">September 21, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,11 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dennison, Clark Lander</term>
-<term>Horn, Thomas</term>
-<term>Moses, Andrew J.</term>
-<term>Riley, James</term>
-<term>Ruys, Al</term>
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,7 +99,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -115,13 +111,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -129,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -141,33 +138,16 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0105.044"/>
+<pb facs="hc.case.0105.047"/>
 <note>906</note>
 
-<p>Dist Court 2nd Jdl District September Term 1861</p>
+<p>Let a writ of Habeas Corpus 
+issue on the above application 
+returnable before me 
+on this 21st day of September 
+at 10 oclock AM</p>
 
-<p>The Grand Jury being 
-empanneled, Mr. Clark Atty for Mr. 
-James Rily a person now under 
-recognizance to appear at the 
-present term of Court by permission 
-of the Court asks Mr. AJ Range 
-one of the persons empanneled as 
-a juror, if he is a committing 
-marshall within and for any 
-County or the second Judicial 
-District Mr Range answered 
-in the affirmation and Mr. 
-Rily counsel thereupon <unclear>asks</unclear> 
-the Court that the juror be excused which motion 
-the Court do overrule.</p>
-
-<p>Whereupon Mr. Rily by his counsel excepts. Exception allowed.</p>
-
-<p>C. C. Hewitt CJ of W.T.</p>
-
-
-<note>American</note>
+<p>To C C Hewitt CJ and Judge of 2 Judicial District</p>
 
 </div1>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.48"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0105.46"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Petition</title> 
+<title>James Riley v. Egbert H. Tucker. Writ</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0105.048</idno> 
+<idno type="project">oscys.case.0105.046</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Petition</title>
-<date when="1861-09-19">September 21, 1861</date>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Writ</title>
+<date when="1861-09-19">September 19, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -88,12 +88,11 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Moses, Andrew J.</term>
-<term>Riley, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
+<term>Olympia, Washington</term>
 <term>Pierce County, Washington</term>
-<term>Thurston County, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,7 +100,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -113,13 +112,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -127,8 +126,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -139,59 +139,42 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0105.048"/>
+<pb facs="hc.case.0105.046"/>
 <note>906</note>
 
-<p>Territory of Washington 2nd Judicial District Thurston County</p>
+<p>United State of America</p>
 
-<p>In the matter of James Riley}</p>
+<p>Territory of Washington</p>
+<p>Second Judicial District</p>
 
-<p>To the Honorable 
-CC Hewitt Chief Justice of 
-the Supreme Court of said Territory 
-and Judge 2nd Judicial District.</p>
+<p>To the Sheriff of Pierce County Greeting</p>
 
-<p>Your petitioner Edward 
-Lander respectfully represents that 
-James Riley is restrained of 
-his liberty by within the jail of the said County of Thurston 
-by E.H. Tucker Sheriff of the 
-County of Pierce in said district 
-under and by virtue of 
-a certain warrant directed 
-to him said Sheriff commanding 
-him apprehend the said 
-Riley and him safely keep 
-to answer to a charge of assault 
-&amp; battery with intent to kill</p>
+<p>In the name of the United 
+States of America you are hereby 
+commanded to take the body of 
+James Riley if to be found in this 
+District and him safely keep 
+so that you have him before the United 
+States District Court for the Second 
+Judicial District of Washington Territory 
+to be begun and held at Olympia 
+said district on the second Monday 
+of March next ensuing it being the 10th 
+day of said month 1862 to answer to the 
+Territory of Washington in a charge of an 
+assault and battery with intent 
+to kill</p>
 
-<p>That the said Tucker as 
-such Sheriff of Pierce County has 
-no power or authority to arrest 
-and keep the said Riley 
-in the said county of Thurston 
-and that the charge
+<p>Herein fail not and have you then and there this writ</p>
 
-<pb/>
+<p>Witness the Honorable 
+C C Hewitt Chief Justice 
+of Washington Territory and 
+Judge of the Second Judicial 
+District. this 19th day of September 
+AD 1861</p>
 
-against said Riley as in 
-said warrant set forth is 
-not an offense by the laws 
-of said Territory</p>
-
-<p>Wherefore you petitioner 
-asks that the writ of Habeas 
-Corpus may issue directed 
-to the said Tucker Sheriff of 
-Pierce County and that the 
-said Riley be discharged 
-from custody and imprisonment</p>
-
-<p>Edward Lander</p>
-
-<p>Subscribed and sworn to be true before me this 21st day of September 1861</p>
-
-<p>A J Moses <del>Edw</del></p>
+<p>Andrew J Moses</p>
 
 <p>Clerk</p>
 
