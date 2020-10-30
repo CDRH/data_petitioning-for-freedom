@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Complaint</title> 
+<title>James Riley v. Egbert H. Tucker. Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Complaint</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Complaint</title>
 <date when="1864-11-10">November 10, 1864</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,19 +83,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1861-03">March 1861</date></term>
+<term><date when="1864-11">November 1864</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Dolan, Frank</term>
 <term>Field, Job</term>
-<term>Gallagher, Geo</term>
+<term>Gallagher, George</term>
 <term>Gardner, John</term>
-<term>Hoore, Samuel</term>
-<term>Manson, J.H.</term>
-<term>Riley, James</term>
+<term>Moore, Samuel</term>
+<term>Munson, J. H.</term>
 <term>Vaz, Peter</term>
-<term>Waldrors, D.B.</term>
+<term>Waldron, D. B.</term>
 <term>Waterman, William H.</term>
 <term>Widdows, James</term>
 </keywords>
@@ -111,7 +110,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -123,13 +122,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Hewitt, C. C.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Third Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -137,8 +136,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -163,7 +163,7 @@ complained under oath to the undersigned Chief Justice of the
 Territory of Washington that on the Thirty first day of October 
 1864, or thereabouts, as the County of Snohomish in said
 District that James Riley Frank Dolan James Widdows 
-Peter Vaz and Samuel Hoore Job Field &amp; John 
+Peter Vaz and Samuel Moore Job Field &amp; John 
 Gardner did feloniously kill and murder one Charles, and two 
 other Indians of the Snohomish tribe of Indians, whose names 
 are unknown. Therefore in the name of the United States, 

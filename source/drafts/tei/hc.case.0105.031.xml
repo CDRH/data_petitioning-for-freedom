@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. James Riley. Subpoena</title> 
+<title>James Riley v. Egbert H. Tucker. Subpoena</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. James Riley. Subpoena</title>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Subpoena</title>
 <date when="1861-03-01">March 1, 1861</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,16 +87,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Caldron, R.B></term>
-<term>Faby, Marty</term>
+<term>Waldron, D. B.</term>
+<term>Fahy, Marty</term>
 <term>Hughes, James</term>
 <term>Madden, Hanson John</term>
 <term>McCaan, Richard</term>
-<term>Moores, R.J.</term>
-<term>Rabbesen, A.B.</term>
-<term>Riley, James</term>
-<term>Talentine, Thomas</term>
-<term>Webber, J.B.</term>
+<term>Mooney, P. J.</term>
+<term>Tallentine, Thomas</term>
+<term>Webber, J. B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -109,7 +107,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lander, Edward</persName>
+<persName>Riley, James</persName>
 </person>
 <person role="defendant">
 <persName>Tucker, Egbert H.</persName>
@@ -121,13 +119,13 @@
 <persName/>
 </person>
 <person role="judge">
-<persName>Hewitt, C.C.</persName>
+<persName>Rabbesen, A. B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
+<orgName>Third Judicial District</orgName> 
 <placeName>Pierce County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -135,8 +133,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nrl">transcribed.</change> 
-<change when="2019" who="zcb">encoded.</change>  
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -154,8 +153,8 @@
 <p>County of Pierce} SS</p>
 
 <p>To the Sheriff or any Constable of said County 
-James Hughes. J.B. Webber R. J. Moores Thos Talentine Hanson 
-John Madden Richard McCaan Fb Waldron Marty Faby</p>
+James Hughes. J.B. Webber P. J. Moorey Thos Talentine Hanson 
+John Madden Richard McCaan F.b. Waldron Marty Fahy</p>
 
 <p>You are hereby notified to be and appear before the undersigned 
 one of the Justices of the Peace in and for Pierce County Wt Ty 
@@ -165,7 +164,7 @@ Plaintiff and James Riley is defendant in the <unclear/></p>
 
 <p>Given under my hand this the 1st day of March AD 1861</p>
 
-<p>A B Rabbesen J.P.</p>
+<p>A B Rabbensen J.P.</p>
 
 </div1>
     
