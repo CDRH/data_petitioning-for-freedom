@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fuller v. Billings. Summons to Appear in Court</title> 
+<title>Edward B. Fuller v. William Billings. Petition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fuller v. Billings. Summons to Appear in Court</title>
-<date when="1877-09-31">August 31, 1877</date>
+<title level="m" type="main">Edward B. Fuller v. William Billings. Petition</title>
+<date when="1877-08-31">August 31, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,10 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Billings, William</term>
-<term>Fuller, Edward B.</term>
-<term>Greene, Roger S.</term>
-<term>OBrien, R.G.</term>
+<term>James, Galen F.</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -108,7 +106,10 @@
 <persName>Billings, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Saller, J.P.</persName>
+<persName>Allen, Joseph S.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Allen, J. B.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -120,7 +121,7 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the Second Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Thurston County, Washington</placeName>
 </org>
 </listOrg>   
@@ -128,8 +129,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change>
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,37 +142,61 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0110.005"/> 
+<pb facs="hc.case.0110.006"/> 
 
-<p>United States of America.</p>
+<p>In the District Court of the Second Judicial District of Washington Territory holding terms at Olympia
+Thurston County Ss.</p>
 
-<p>TERRITORY OF WASHINGTON,}
-Second Judicial District, }SS</p>
+<p>In the matter of the application of Edward B Fuller for a writ of Habeas Corpus to discharge him from the illegal restraint by William Billings at the Jail of said County.</p>
 
-<p>Territory of Washington vs. William Billings in the matter of the application of Edw'd B Fuller for a Writ of Habeas Corpus.</p>
+<p>To Honorable Roger S. Greene Judge of said Court.</p>
 
-<p>To <gap></gap></p>
+<p>Edward B Fuller hereby makes application for a writ of Habeas Corpus and for grounds of said application alleges the following:</p>
 
-<p>IN THE NAME OF THE UNITED STATES OF AMERICA, you are hereby required to appear forthwith at the <del>Court house</del> Clerks office in the town of Olympia on the <gap></gap> day of <gap></gap>, 187, at <gap></gap> o'clock in the forenoon to give evidence in a certain cause, wherein The Territory of Washington in relation to Edwd B Fuller is plaintiff and William Billings Sheriff Thurston Co defendant on the part of Plaintiff</p>
+<p>1st Applicant is now restrained of his liberty by William Billings at the Jail of said County at Olympia therein</p>
 
-<p>WITNESS Roger S. Greene, Esquire, Judge of the District Court of the Second Judicial District of Washington Territory, this <gap></gap> day of <gap></gap> A.D. 187</p>
+<p>2 The cause of said restraint is the following to the best of affiants
+
+<pb/>
+
+knowledge and belief towit.</p>
+
+<p>Said Billings so as aforesaid detains affiant by virtue of a certain pretended warrant of commitment hearing date June 13th 1877 executed by one Galen F James a Justice of the Peace for said county and commanding said Billings to keep affiant in said Jail until discharged by due process of law <del/></p>
+
+<p>3 Said restraint is illegal in this towit, It does not appear by said pretended commitment that affiant has committed any offense or that there exists any <unclear>warrants</unclear> suppose that affiant is guilty of any offense whatever, and it appears thereby that said Justice was &amp; is wholly without jurisdiction to order said commitment and that the same is wholly said.</p>
+
+<pb/>
+
+<p>Wherefore affiant prays that a writ of Habeas Corpus in this behalf be issued to said Billings to the end that affiant be discharged from said illegal restraints.</p>
+
+<p>Washington Territory
+Thurston County ss.</p>
+
+<p>Edward B. Fuller being duly sworn says he is the person of that name, named in &amp; who makes the foregoing complaint and application. That he has heard read said complaint, and that the same is true except as to matters therein stated on information and belief and as to these matters that he believes it to be true.</p>
+
+<p>E B Fuller</p>
+
+<p>Subscribed and sworn to before me this 22 day of August 1877</p>
+
+<p>Joseph S. Allen<lb/>
+Notary Public</p>
+
+<pb/>
+
+<p>Washington Territory
+Thurston County
+2d Dist Ct
+terms at Olympia</p>
+
+<p>Application of Edward B. Fuller for Habeas Corpus</p>
+
+<p>Filed Aug 27-72</p>
 
 <p>RG OBrien
 Clerk</p>
 
-<pb...></pb...>
-
-<p>Not Served
-Wm Billings
-Sheriff</p>
-
-<p>Mileage $4.00</p>
-
-<p>Returns &amp; filed
-Aug 31 1877</p>
-
-<p>R.G. OBrien
-Clerk</p>
+<p>JB &amp; JS Allen
+Attorneys for Applicant</p>
 
 
 </div1>

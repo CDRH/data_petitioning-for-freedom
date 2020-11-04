@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fuller v. Billings. Command of Writ of Habeas Corpus</title> 
+<title>Edward B. Fuller v. William Billings. Summons</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fuller v. Billings. Command of Writ of Habeas Corpus</title>
-<date when="1877-09-29">August 29, 1877</date>
+<title level="m" type="main">Edward B. Fuller v. William Billings. Summons</title>
+<date when="1877-08-31">August 31, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,18 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Billings, William</term>
-<term>Fuller, Edward B.</term>
-<term>Greene, Roger S.</term>
-<term>OBrien, R.G.</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Chehalis County, Washington</term>
-<term>Lewis County, Washington</term>
-<term>Mason County, Washington</term>
-<term>Olympia, Washington</term>
-<term>Thurston County, Washington</term> 
+<term>Washington</term>
 </keywords>
 
 </textClass>
@@ -112,7 +105,10 @@
 <persName>Billings, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Saller, J.P.</persName>
+<persName>Allen, Joseph S.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Allen, J. B.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -124,7 +120,7 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the Second Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Thurston County, Washington</placeName>
 </org>
 </listOrg>   
@@ -132,8 +128,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change>
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -144,55 +141,38 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0110.004"/> 
+<pb facs="hc.case.0110.005"/> 
+
+<p>United States of America.</p>
 
 <p>TERRITORY OF WASHINGTON,}
-County of Thurston; } SS.</p>
+Second Judicial District, }SS</p>
 
-<p>In the District Court of the Second Judicial District of Washington Territory, holding terms at Olympia, for the Counties of Thurston, Lewis, Mason and Chehalis, this <gap></gap> day of <gap></gap> A.D. 187</p>
+<p>Territory of Washington vs. William Billings in the matter of the application of Edw'd B Fuller for a Writ of Habeas Corpus.</p>
 
-<p>Edward P. Fuller
-Plaintiff . .
-vs.
-William Billings
-Defendant . .}
-In the matter of the application of Edward B Fuller for writ of Habeas Corpus.
+<p>To <gap/></p>
 
-Writ</p>
+<p>IN THE NAME OF THE UNITED STATES OF AMERICA, you are hereby required to appear forthwith at the <del>Court house</del> Clerks office in the town of Olympia on the <gap/> day of <gap/>, 187<gap/>, at <gap/> o'clock in the forenoon to give evidence in a certain cause, wherein The Territory of Washington in relation to Edwd B Fuller is plaintiff and William Billings Sheriff Thurston Co defendant on the part of Plaintiff</p>
 
-<p>To William Billings, greeting.</p>
+<p>WITNESS Roger S. Greene, Esquire, Judge of the District Court of the Second Judicial District of Washington Territory, this <gap/> day of <gap/> A.D. 187<gap/></p>
 
-<p>In the name of the United States of America, we command you that you have the body of Edward B Fuller, by you imprisoned and detained as it is said together, with the time, and cause of such imprisonment and detention by what ever name said Edward B Fuller shall be called or charged before Honorable Roger S Greene Judge of the above Court, in the office of the Clerk of said Court, in Olympia in said County on the <del>26th</del> 27th day of August, 1877 at two oclock pm of that day, to do and receive what
-
-<pb...></pb...>
-
-shall then, and there be considered concerning the said Edward B Fuller, and have you then and there this writ.</p>
-
-<p>Witness the Honorable Roger S Greene Judge of the said District Court at Olympia <del>this</del> in said County this 27 day of August 1877.</p>
-
-<p>RG OBrien
+<p>RG OBrien<lb/>
 Clerk</p>
 
+<pb/>
 
-<p>District Court,
-SECOND JUDICIAL DISTRICT,
-WASHINGTON TERRITORY,
-Holding Terms at Olympia.</p>
+<p>Not Served<lb/>
+Wm Billings<lb/>
+Sheriff</p>
 
-<p>Edwd B Fuller
-Plaintiff . .
-vs.
-William Billings
-Defendant . .</p>
+<p>Mileage $4.00</p>
 
-<p>Writ of habeas Corpus</p>
+<p>Returns &amp; filed
+Aug 31 1877</p>
 
-<p>Returned and Filed Aug 29 1877</p>
+<p>R.G. OBrien<lb/>
+Clerk</p>
 
-<p>RG OBrien Clerk</p>
-
-<p><unclear>JPw J Saller</unclear>
-Attorney for Pltff</p>
 
 </div1>
     
