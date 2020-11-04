@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Martin v. Martin Jr. Witness Statement</title> 
+<title>Catharine Martin v. Jesse Martin. Oath</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Martin v. Martin Jr. Witness Statement</title>
+<title level="m" type="main">Catharine Martin v. Jesse Martin. Oath</title>
 <date when="1868-03-02">March 2, 1868</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,13 +87,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Manter, A.S.</term>
-<term>McLadden, O.B.</term>
-<term>Zoates, Alexander</term>
+<term>Henry, Francis</term>
+<term>McFadden, Obidiah B.</term>
+<term>Zoates, Alexander S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Thurston County</term>
+<term>Thurston County, Washington</term>
 </keywords>
 
 </textClass>
@@ -104,31 +104,32 @@
 <persName>Martin, Catherine L.</persName>
 </person>
 <person role="defendant">
-<persName>Martin Jr, Jesse</persName>
+<persName>Martin, Jesse</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Manter, A.S.</persName>
+<persName>Manter, A. S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Wyche, J.E.</persName>
+<persName>Wyche, James E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District</orgName>
-<placeName>Washington</placeName> 
+<orgName>Second Judicial District</orgName>
+<placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>     
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -150,9 +151,19 @@ County of Thurston Ss</p>
 
 <p>Subscribed &amp; Sworn to before me this 2d of March 1868</p>
 
-<p>OB McLadden</p>
+<p>OB McFadden</p>
 <p>Notary Public
 for W Try</p>
+
+<p>Catharine L. Martin
+to
+Jesse Martin Jr</p>
+
+<p>Application for writ of Habeas Corpus and <unclear>restraining</unclear></p>
+
+<p>Filed March 2d 1868</p>
+
+<p>F Henry Clerk</p>
 
 </div1>
     
