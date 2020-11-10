@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seibert v. Seibert. Plaintiff Sworn Statement</title> 
+<title>Elizabeth Siebert v. William Billings. Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seibert v. Seibert. Plaintiff Sworn Statement</title>
+<title level="m" type="main">Elizabeth Siebert v. William Billings. Sworn Statement</title>
 <date when="1878-05-28">May 28, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Holt, H.H.</term>
+<term>Holt, H. H.</term>
 <term>Seibert, John</term>
 </keywords>
 
@@ -100,25 +100,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Seibert, John</persName>
-</person>
-<person role="defendant">
 <persName>Seibert, Sarah E.</persName>
 </person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
 <person role="attorney_petitioner">
-<persName>Fadeeu, John P.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 <person role="judge">
-<persName>Greene, Roger S.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the Second Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -126,8 +126,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="#lkw">review</change>   
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -143,7 +144,7 @@
 <p>Territory of Washington}</p>
 <p>County of Cowlitz} ss.</p>
 
-<p>John Seibret being duly 
+<p>John Seibert being duly 
 sworn says, that he is the 
 plaintiff in the above entitled 
 action, that he has read the 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0111.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0106.012"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seibert v. Billings. Petitioner Sworn Statement</title> 
+<title>Elizabeth Siebert v. William Billings. Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -40,7 +40,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0111.001</idno> 
+<idno type="project">oscys.case.0106.012</idno> 
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seibert v. Billings. Petitioner Sworn Statement</title>
+<title level="m" type="main">Elizabeth Siebert v. William Billings. Sworn Statement</title>
 <date when="1878-04-16">April 16, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
@@ -83,14 +83,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1877-12">December 1877</date></term>
+<term><date/></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Dobrein, Mark</term>
-<term>Judson, John P.</term>
-<term>OBrien, R.G.</term>
-<term>Seibert, Sarah Elizabeth</term>
+<term>O'Brein, Mark D.</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,7 +101,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Seibert, Sarah Elizabeth</persName>
+<persName>Seibert, Sarah E.</persName>
 </person>
 <person role="defendant">
 <persName>Billings, William</persName>
@@ -121,7 +119,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2nd Judicial District of Washington Territory</orgName> 
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -129,8 +127,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020" who="#lkw">review</change>   
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -148,7 +147,7 @@ County of Thurston} ss</p>
 
 <p>Sarah Elizabeth Seibert being first duly sworn says: That she is the petitioner named in the foregoing petition, that she has heard the said petition read, and knows the contents thereof, and that the same is true of her own knowledge, except as to the matters which are therein stated on her information and belief, and that as to those matters, she believes them to be true, Sarah E. Seibert</p>
 
-<p>Subscribed and Sworn to before me this 28th day of December 1877} Mark <unclear>Dobrein</unclear> Notary Public of Thurston Co, W.T.</p>
+<p>Subscribed and Sworn to before me this 28th day of December 1877} Mark <unclear>D. OBrein</unclear> Notary Public of Thurston Co, W.T.</p>
 
 <pb/>
 

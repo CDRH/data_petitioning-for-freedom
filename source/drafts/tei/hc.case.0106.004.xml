@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seibert v. Seibert. Response to Summons</title> 
+<title>Elizabeth Siebert v. William Billings. Summons Response</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seibert v. Seibert. Response to Summons</title>
+<title level="m" type="main">Elizabeth Siebert v. William Billings. Summons Response</title>
 <date when="1878-05-25">May 25, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,9 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Holt, H.H.</term>
-<term>OBrien, R.U.</term>
-<term>Seibert, Sarah</term>
+<term>Holt, H. H.</term>
+<term>Judson, John P.</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,13 +104,13 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Seibert, John</persName>
-</person>
-<person role="defendant">
 <persName>Seibert, Sarah E.</persName>
 </person>
+<person role="defendant">
+<persName>Billings, William</persName>
+</person>
 <person role="attorney_petitioner">
-<persName>Fadeeu, John P.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -122,7 +122,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the Second Judicial District of Washington Territory</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -130,8 +130,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>
+<change when="2020" who="#lkw">review</change>   
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -160,14 +161,14 @@ service of Complaint and summoned herein.</p>
 
 <p>No</p>
 
-<p>IN THE DISTRICT COURT 
-of the 
-Second Judicial District 
-of the 
+<p>IN THE DISTRICT COURT<lb/>
+of the<lb/>
+Second Judicial District<lb/>
+of the<lb/>
 TERRITORY OF WASHINGTON.</p>
 
-<p>John Seibert 
-vs. 
+<p>John Seibert<lb/>
+vs.<lb/>
 Sarah E. Seibert</p>
 
 <p>SUMMONS.</p>
