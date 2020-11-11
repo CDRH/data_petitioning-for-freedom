@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Heo v. Milroy. Summons to Court</title> 
+<title>John Heo v. Robert H. Milroy. Subpeona</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Heo v. Milroy. Summons to Court</title>
-<date when="1880-05-27">May 27,1880</date>
+<title level="m" type="main">John Heo v. Robert H. Milroy. Subpeona</title>
+<date when="1880-05-27">May 27, 1880</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,12 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brown, D.M.</term>
-<term>Heo, John</term>
-<term>Hoyt, J.P.</term>
-<term>McKing, T.J.</term>
-<term>Milroy, R.H.</term>
-<term>OBrien, R.G.</term>
+<term>Brown, D. M.</term>
+<term>McKing, T. S.</term>
+<term>OBrien, R. G.</term>
 <term>Walker, Jim</term>
 </keywords>
 
@@ -109,22 +106,22 @@
 <persName>Heo, John</persName>
 </person>
 <person role="defendant">
-<persName>Milroy, R.H.</persName>
+<persName>Milroy, Robert H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Judson, John P.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hoyt, J.P.</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 2nd Judicial District of Washington Territory</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -132,8 +129,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-11" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>          
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -151,7 +149,7 @@
 <p>TERRITORY OF WASHINGTON,}
 Second Judicial District.}ss.</p>
 
-<p>To T J McKing, Jim Walker</p>
+<p>To T S McKing, Jim Walker</p>
 
 <p>IN THE NAME OF THE UNITED STATES OF AMERICA, you are hereby required to appear forthwith at the Court House, in the town of Olympia, <del>on the<gap></gap> day of <gap></gap> 187, at</del> o'clock in the forenoon to give evidence in a certain cause, wherein <del>United States</del> plaintiff and Matter of applicatioin of defendant on the part of John Heo for writ of Habeas Corpus.</p>
 
@@ -160,7 +158,7 @@ Second Judicial District.}ss.</p>
 <p>R.G. O'Brien
 Clerk.</p>
 
-<pb...></pb...>
+<pb/>
 
 <p><gap></gap>
 vs.

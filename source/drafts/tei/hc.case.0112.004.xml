@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Heo v. Milroy. Command for Writ of Habeas Corpus</title> 
+<title>John Heo v. Robert H. Milroy. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Heo v. Milroy. Command for Writ of Habeas Corpus</title>
-<date when="1880-05-26">May 26,1880</date>
+<title level="m" type="main">John Heo v. Robert H. Milroy. Writ of Habeas Corpus</title>
+<date when="1880-05-26">May 26, 1880</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,10 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Heo, John</term>
-<term>Hoyt, J.P.</term>
-<term>Milroy, R.H.</term>
-<term>OBrien, R.G.</term>
+<term>OBrien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -108,22 +105,22 @@
 <persName>Heo, John</persName>
 </person>
 <person role="defendant">
-<persName>Milroy, R.H.</persName>
+<persName>Milroy, Robert H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Judson, John P.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hoyt, J.P.</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 2nd Judicial District of Washington Territory</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -131,8 +128,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-11" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>          
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -145,31 +143,31 @@
 
 <pb facs="hc.case.0112.004"/> 
 
-<p>Territory of Washington}
+<p>Territory of Washington}<lb/>
 County of Thurston} ss.</p>
 
 <p>In the District Court of the Second Judicial District Washington Territory holding terms at Olympia for the Counties of Mason Chehalis and Thurston.</p>
 
-<p>The <del>people of the</del> Territory of Washington, to R.H. Milroy <del></del> Indian Agent of the United States, greeting:</p>
+<p>The <del>people of the</del> Territory of Washington, to R.H. Milroy <del/> Indian Agent of the United States, greeting:</p>
 
 <p>We command you, that you have the body of John Heo by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention by whatsoever name said John Heo shall be called or charged before J.P. Hoyt, Judge of the second Judicial District of the Territory of Washington at the court room of the District Court of said District in and for the Counties of Mason, Chehalis and Thurston on the 27th day of May 1880 at 11 o'clock in the fornoon of that day, to do and receive what shall then and there be considered concerning the said John Heo, And have you then and there this writ.</p>
 
 <p>Witness Hon J.P. Hoyt Judge of the Second Judicial District at the Court room thereof, in the City of Olympia and County of Thurston this 26th day of May A.D. 1880</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>Attest my hand and the said seal of said Court, the day and year last above written.</p>
 
-<p>R.G. OBrien
+<p>R.G. OBrien<lb/>
 Clerk.</p>
 
-<pb...></pb...>
+<pb/>
 
-<p>In the matter of
-the application
-of
-John Heo
-for writ of
+<p>In the matter of<lb/>
+the application<lb/>
+of<lb/>
+John Heo<lb/>
+for writ of<lb/>
 Habeas Corpus</p>
 
 <p>Writ</p>

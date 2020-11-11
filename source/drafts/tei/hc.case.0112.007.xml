@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Heo v. Milroy. Petitioner Sworn Statement</title> 
+<title>John Heo v. Robert H. Milroy. Petitioner Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Heo v. Milroy. Petitioner Sworn Statement</title>
-<date when="1880-05-27">May 27,1880</date>
+<title level="m" type="main">John Heo v. Robert H. Milroy. Petitioner Sworn Statement</title>
+<date when="1880-05-27">May 27, 1880</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,9 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Heo, John</term>
-<term>Milroy, R.H.</term>
-<term>OBrien, R.G.</term>
+<term>OBrien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,22 +102,22 @@
 <persName>Heo, John</persName>
 </person>
 <person role="defendant">
-<persName>Milroy, R.H.</persName>
+<persName>Milroy, Robert H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Judson, John P.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hoyt, J.P.</persName>
+<persName>Hoyt, John P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 2nd Judicial District of Washington Territory</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Olympia, Washington</placeName> 
 </org>
 </listOrg>   
@@ -127,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-11" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>          
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -141,23 +140,23 @@
 
 <pb facs="hc.case.0112.007"/> 
 
-<p>Territory of Washington}
+<p>Territory of Washington}<lb/>
 County of Thurston} SS.</p>
 
 <p>John Heo being first duly sworn says that he is the petitioner herein.</p>
 
 <p>That he has heard read the above and foregoing reply to the return of R.H. Milroy respondent herein, and that he believes the same to be true</p>
 
-<p>John his X mark Heo</p>
+<p>John Heo his X mark </p>
 
 <p>Subscribed and Sworn to before me this 27th day of May 1880.}</p>
 
-<p>R.G. O'Brien
+<p>R.G. O'Brien<lb/>
 Clerk</p>
 
-<pb...></pb...>
+<pb/>
 
-<p>John Heo
+<p>John Heo<lb/>
 Habeas Corpus</p>
 
 <p>Answer</p>
