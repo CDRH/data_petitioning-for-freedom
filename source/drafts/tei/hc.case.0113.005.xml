@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Howard v. Billings. Court Hearing</title> 
+<title>Sid Howard v. William Billings. Dismissal</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Howard v. Billings. Court Hearing</title>
+<title level="m" type="main">Sid Howard v. William Billings. Dismissal</title>
 <date when="1884-05-13">May 13, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,10 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Billings, William</term>
-<term>Howard, Sid</term>
-<term>Hoyt, John P.</term>
-<term>OBrien, R.G</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -109,7 +106,7 @@
 <persName>Billings, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jrail, George C.</persName>
+<persName>Israel, George C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -121,16 +118,17 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Thurston County, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018" who="nl">transcribed.</change>
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<revisionDesc>    
+<change when="2020-11" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,13 +143,13 @@
 
 <p>District Court holding terms at Olympia before Hon John P. Hoyt at Chambers on Tuesday May 13 1884.</p>
 
-<p>This cause coming on to be heard upon the return of William Billings Sheriff of Thurston County to the writ of Habeas Corpus issued herein, <unclear>ausl</unclear> the Court having heard the argument of Counsel and after consideration thereof find that the said Howard is <del>properly</del>and lawfully in the custody of said Sheriff whereupon, it is ordered that the said Writ of Habeas Corpus be and the same is hereby dismissed, and it is further ordered that said Howard be remanded to the Custody of said Sheriff, and that he, the said Howard pay the costs of this proceeding</p>
+<p>This cause coming on to be heard upon the return of William Billings Sheriff of Thurston County to the writ of Habeas Corpus issued herein, <unclear>And</unclear> the Court having heard the argument of Counsel and after consideration thereof find that the said Howard is <del>properly</del> <unclear>held</unclear> lawfully in the custody of said Sheriff whereupon, it is ordered that the said Writ of Habeas Corpus be and the same is hereby dismissed, and it is further ordered that said Howard be remanded to the Custody of said Sheriff, and that he, the said Howard pay the costs of this proceeding</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>Thurston County, W.T. SS.</p>
 
-<p>I William Billings Sheriff of said County, hereby certify that the within named Sid Howard the person alleged to be detained was placed in my custody and charge by virtue of a commitment which is herewith presented with the body of said Howard, and which commitment with the body of said Howard was placed in my hands on the 10th <unclear>inct</unclear> and pursuent to the course and continued in said commitment I received the said Howard him confined to the county jail, the said commitment is all and the only authority I have for the holding detention or imprisonment of said Howard. I herewith <unclear>agreeable</unclear> to the command of the within writ produce the body of said Howard &amp; my authority as above stated for detaining him</p>
+<p>I William Billings Sheriff of said County, hereby certify that the within named Sid Howard the person alleged to be detained was placed in my custody and charge by virtue of a commitment which is herewith presented with the body of said Howard, and which commitment with the body of said Howard was placed in my hands on the 10th inst and pursuent to the course and continued in said commitment I received the said Howard him confined to the county jail, the said commitment is all and the only authority I have for the holding detention or imprisonment of said Howard. I herewith agreeable to the command of the within writ produce the body of said Howard &amp; my authority as above stated for detaining him</p>
 
 <p>May 13 1884</p>
 
@@ -163,13 +161,13 @@ Sheriff</p>
 <p>Writ</p>
 
 <p>Received &amp; Filed
-<unclear></unclear>
+<unclear/>
 R.G. OBrien Clerk.</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>Received &amp; Filed
-<unclear></unclear> 1884
+<unclear/> 1884
 R.G. OBrien Clerk.</p>
 
 </div1>

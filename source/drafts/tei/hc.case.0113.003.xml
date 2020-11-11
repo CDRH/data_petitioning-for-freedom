@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Howard v. Billings. Order for Writ of Habeas Corpus</title> 
+<title>Sid Howard v. William Billings. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Howard v. Billings. Order for Writ of Habeas Corpus</title>
-<date when="1884-05-10">May 10, 1884 </date>
+<title level="m" type="main">Sid Howard v. William Billings. Writ of Habeas Corpus</title>
+<date when="1884-05-10">May 10, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,11 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Billings, William</term>
-<term>Howard, Sid</term>
-<term>Hoyt, John P.</term>
-<term>Jrail, George C.</term>
-<term>OBrien, R.G</term>
+<term>O'Brien, R. G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -109,7 +105,7 @@
 <persName>Billings, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jrail, George C.</persName>
+<persName>Israel, George C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -121,7 +117,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName> 
+<orgName>Second Judicial District</orgName> 
 <placeName>Thurston County, Washington</placeName> 
 </org>
 </listOrg>   
@@ -129,8 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change>
-<change when="2019" who="sab">encoded, edited transcription.</change> 
+<change when="2020-11" who="#lkw">review</change> 
+<change when="2019" who="#sab">encoded, edited transcription</change>      
+<change when="2018" who="#nl">transcribed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,7 +146,7 @@
 
 <p>It is hereby ordered that a writ of Habeas Corpus issue out of and under the seal of the District Court of the 2d Judicial District of the Territory of Washington in and for the County of Thurston said Territory directed to William Billings Sheriff of said County commanding him to have the body of Sid Howard before me in Olympia on the 13th day May 1884 at 3 oclk
 
-<pb...></pb...>
+<pb/>
 
 PM of that day to do and receive what shall then and there be considered concerning the said Sid Howard together with the time and cause of his detention that he have then and there the said writ.</p>
 
@@ -158,14 +155,14 @@ PM of that day to do and receive what shall then and there be considered concern
 <p>John P. Hoyt
 Judge 2d Judicial District WT.</p>
 
-<pb...></pb...>
+<pb/>
 
 <p>In mater of application of Sid Howard for writ of Habeas Corpus</p>
 
 <p>Petition and order for writ to issue</p>
 
-<p>#2254
-George C. Jrail
+<p>#2254<lb/>
+George C. Israel<lb/>
 Atty for Petitioner</p>
 
 <p>Received &amp; Filed May 10 1884</p>
