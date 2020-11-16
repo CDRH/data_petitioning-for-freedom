@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones et al. v. George. Attorney Petitioner Sworn Statement</title> 
+<title>William Jones et al. v. Jesse W. George. Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones et al. v. George. Attorney Petitioner Sworn Statement</title>
+<title level="m" type="main">William Jones et al. v. Jesse W. George. Sworn Statement</title>
 <date when="1885-02-06">February 6, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,9 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>George, Jesse W.</term>
 <term>Porter, Nathan S.</term>
-<term>Robinson, Joesph W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -128,7 +126,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName>
 </org>
 </listOrg>   
@@ -136,8 +134,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-11" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -150,7 +149,7 @@
 
 <pb facs="hc.case.0114.003"/>
 
-<p>Territory of Washington}
+<p>Territory of Washington}<lb/>
 County of Thurston.} S.S</p>
 
 <p>Joseph W. Robinson being sworn says that he is one of the Attorneys for the above named Petitioners. that he has read the foregoing petition And knows fully the contents thereof, and knows the same to be true, except as to matters theirin stated upon information and belief and as to those, believes the same to be true. That he makes this Affidavit <del>for thereon</del> behalf of all and each of these petitioners for the reason that Jesse W. - George U.S.Marshall has forbidden and refused to allow affiant or any one for him, to enter said pententiary wherein these petetioners are confined, to secure their individual <sic>signitures</sic> and their oaths to the same.</p>
@@ -159,7 +158,7 @@ County of Thurston.} S.S</p>
 
 <p>Subscribed and sworn to before me this 6 day of Feby 1885.</p>
 
-<p>Nathan S. Porter
+<p>Nathan S. Porter<lb/>
 Notary Public W.T.</p>
 
 </div1>

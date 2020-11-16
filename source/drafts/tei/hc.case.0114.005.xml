@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones et al. v. George. In the matter of the Application of Wm John et al for a Writ of Habeas Corpus</title> 
+<title>William Jones et al. v. Jesse W. George. Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones et al. v. George. In the matter of the Application of Wm John et al for a Writ of Habeas Corpus</title>
+<title level="m" type="main">William Jones et al. v. Jesse W. George. Complaint</title>
 <date when="1885-03-06">March 6, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -89,9 +89,8 @@
 <keywords scheme="lcsh" n="people">
 <term>Daley, Michael</term>
 <term>Jamieson, William</term>
-<term>OBrien, R.G.</term>
+<term>O'Brien, R.G.</term>
 <term>Prosser, William F.</term>
-<term>Smith, Eben</term>
 <term>Taylor, Edward</term>
 <term>Winters, William</term>
 </keywords>
@@ -130,13 +129,13 @@
 <persName>Allen, John B.</persName>
 </person>
 <person role="judge">
-<persName>Hoyt, John P.</persName>
+<persName>Smith, Eben</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName>
+<orgName>Third Judicial District</orgName>
 <placeName>Olympia, Washington</placeName>
 </org>
 </listOrg>   
@@ -144,8 +143,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-11" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -158,11 +158,11 @@
 
 <pb facs="hc.case.0114.005"/>
 
-<p>Territory of Washington,
+<p>Territory of Washington,<lb/>
 Third Judicial District. ss</p>
 
-<p>United States of America,
--vs-
+<p>United States of America,<lb/>
+-vs-<lb/>
 William Jamison, Michael Daley and William Winters. ) Complaint for conspiracy.</p>
 
 <p>William F. Prosser, being first duly sworn deposes and says:</p>
@@ -171,9 +171,9 @@ William Jamison, Michael Daley and William Winters. ) Complaint for conspiracy.<
 
 <p>Sections two, four, six, eight, ten, eighteen, twenty, and thirty in township 20 north of range 7 west of the Williamette Meridian by hiring divers and sundry persons, towit: Edward Taylor, Wm. H. Doyle and Twenty others, whose true names are to affiant unknown, to unlawfully and fraudulently enter said lands at the United states land office at Olympia, Washington Territory, under the provision of the act of Congress approved the third day of June 1878 entitled "an act for the sale of timber land in the states of California, Oregon, Nevada, and in Washington Territory." and did then and there unlawfully and fraudulently
 
-<pb...></pb...>
+<pb/>
 
-proceed to carry into effect the conspiracy and purpose and did then and there unlawfully and fraudulently <del></del> procure and hire the said Edward Taylor, William H. Doyle and twenty other persons to go into the land office at Olympia aforesaid and falsely swear to the sworn statements required by said act of Congress and the rules of said land office of applicants to enter land under said act, and to file in said land office their sworn <sic>staesments</sic> and application to enter portions of said above described public land. </p>
+proceed to carry into effect the conspiracy and purpose and did then and there unlawfully and fraudulently <del/> procure and hire the said Edward Taylor, William H. Doyle and twenty other persons to go into the land office at Olympia aforesaid and falsely swear to the sworn statements required by said act of Congress and the rules of said land office of applicants to enter land under said act, and to file in said land office their sworn <sic>staesments</sic> and application to enter portions of said above described public land.</p>
 
 <p>Contrary to the statute in such case made and provided and against the peace and dignity of the United States</p>
 
@@ -184,13 +184,13 @@ proceed to carry into effect the conspiracy and purpose and did then and there u
 <p>(signed) Eben Smith.
 United States Commissioner in and for Third Judicial district, Washington Territory.</p>
 
-<pb...></pb...>
+<pb/>
 
 <note>No.</note>
 
 <p>U.S. District Court Holding Terms at Olympia</p>
 
-<p>In the matter of the Application of Wm John et al for a Writ of Habeas Corpus.</p>
+<p>In the matter of the Application of Wm Jones et al for a Writ of Habeas Corpus.</p>
 
 <p>Petition</p>
 

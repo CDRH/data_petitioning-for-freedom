@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones et al. v. George. Sworn Statement</title> 
+<title>William Jones et al. v. Jesse W. George. Copy of Complaint</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones et al. v. George. Sworn Statement</title>
+<title level="m" type="main">William Jones et al. v. Jesse W. George. Copy of Complaint</title>
 <date when="1885-03-10">March 10, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -127,16 +127,17 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<revisionDesc>    
+<change when="2020-11" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -148,7 +149,7 @@
 <div1 type="case">
 
 <pb facs="hc.case.0114.017"/>
-
+<!-- 
 <p>Territory of Washington,
 County of King. }SS.</p>
 
@@ -157,7 +158,7 @@ County of King. }SS.</p>
 <p>Subscribed and sworn to before me this <gap></gap> day of <gap></gap> 188</p>
 
 <p>Notary Public in and for King County, Washington Territory</p>
-
+-->
 <p>Territory of Washington,
 County of King. } ss.</p>
 

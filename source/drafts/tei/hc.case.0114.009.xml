@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jones et al. v. George. Sworn Statement</title> 
+<title>William Jones et al. v. Jesse W. George. Sworn Statement</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Jones et al. v. George. Sworn Statement</title>
+<title level="m" type="main">William Jones et al. v. Jesse W. George. Sworn Statement</title>
 <date when="1885-03-10">March 10, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +75,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,8 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>George, Jesse W.</term>
-<term>Hoyt, John P.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -127,7 +126,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the 2d Judicial District of the Territory of Washington</orgName>
+<orgName>Second Judicial District</orgName>
 <placeName>Olympia, Washington</placeName>
 </org>
 </listOrg>   
@@ -135,8 +134,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="nl">transcribed.</change> 
-<change when="2019" who="sab">encoded, edited transcription.</change>  
+<change when="2020-11" who="#lkw">review</change>  
+<change when="2019" who="#sab">encoded, edited transcription</change>       
+<change when="2018" who="#nl">transcribed</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -158,7 +158,7 @@ County of Thurston} ss.</p>
 
 <p>Subscribed and sworn to before me this 10th day of March 1885}</p>
 
-<p>John P. Hoyt
+<p>John P. Hoyt<lb/>
 Judge</p>
 
 </div1>
