@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Civil Action</title> 
+<title>Moses Keokuk v. Albert Wiley. Arrest</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Civil Action</title>
-<date when="1868-10-23">October 23, 1868</date>
+<title level="m" type="main">Moses Keokuk v. Albert Wiley. Arrest</title>
+<date when="1868-11-23">November 23, 1868</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,12 +87,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Alixe, Charles E.</term>
-<term>Dornir, Thomas</term>
-<term>Keokuk, Moses</term>
 <term>Montgomery, William P.</term>
-<term>Murphy, Thomas</term>
-<term>Wiley, Albert</term>
+<term>Wan-Com-Mo</term>
+<term>Man-A-To-Wah</term>
+<term>Quah-Quah-Lup-Pe-Quah</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,33 +105,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Keokuk, Moses</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Wiley, Albert</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Christian, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Kingman, Samuel Austin</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName>Supreme Court</orgName> 
+<placeName>Kansas</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2020-11" who="#lkw">transcribed, encoded</change>    
+<change when="2019" who="#sab">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>

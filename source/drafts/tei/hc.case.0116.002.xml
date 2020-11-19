@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Wiley v. Keokuk. Filed</title> 
+<title>Moses Keokuk v. Albert Wiley. Judgment</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Wiley v. Keokuk. Filed</title>
-<date when="1870-05-10">May 10, 1870</date>
+<title level="m" type="main">Moses Keokuk v. Albert Wiley. Judgment</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,17 +83,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fowler, E.B.</term>
-<term>Keokuk, Moses</term>
-<term>Wiley, Albert</term>
+<term>Mix, Charles E.</term>
+<term>Murphy, Thomas</term>
+<term>Safford, Jacob</term>
+<term>Grier, Robert Cooper</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term/> 
+<term>Douglas County, Kansas</term> 
+<term>Indiana</term>
+<term>Massachusetts</term>
+<term>North Carolina</term>
 </keywords>
 
 </textClass>
@@ -101,33 +105,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Wiley, Albert</persName>
+<persName>Keokuk, Moses</persName>
 </person>
 <person role="defendant">
-<persName>Keokuk, Moses</persName>
+<persName>Wiley, Albert</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Christian, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Kingman, C.F.</persName>
+<persName>Kingman, Samuel Austin</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName>Douglas County, Kansas</placeName> 
+<orgName>Supreme Court</orgName> 
+<placeName>Kansas</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded</change>
+<change when="2020-11" who="#lkw">transcribed, encoded</change>    
+<change when="2019" who="#sab">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,12 +145,12 @@
 
 <pb facs="hc.case.0116.002"/> 
 
-<p>Albert Wiley
-v
-Keokuk
+<p>Albert Wiley<lb/>
+v<lb/>
+Keokuk<lb/>
 Kingman</p>
 
-<p>The first error alleged occurred in selecting a jury. The person was challenged for cause on the ground that he had once already served on a jury as a talesman in the trial of a cause at the same term of the court, the court overruled the challenge. This was error. Code sec 270. It appears that after the person had served as a talesman he had ben called to serve as a regular juror for the term in place of a juror excused. This made no difference, the law remained the same, the challenge should have been allowed, the beneficent objects of the section could not br frustrated by placing a man on the regular panel who could not serve on a jury if challenged. The <del/> object of the law is to get rid of professional jurors, a most pertiferous set as every lawyer knows, and this could not be done away with by a sheriff or court, by <del>making and</del> putting such a jurer on the regular <unclear>panel</unclear>. The juror was afterwards challenged peremptoily by plantiff in <unclear>then</unclear> and thus removed from the jury. The record does not show that the defendant exhausted his peremptory challenges. Then facts bring the case directly within the ruling of this court in the case of Merton v The State 1st <unclear/> 468, "By this means the defendant seems
+<p>The first error alleged occurred in selecting a jury. The person was challenged for cause on the ground that he had once already served on a jury as a talesman in the trial of a cause at the same term of the court, the court overruled the challenge. This was error. Code sec 270. It appears that after the person had served as a talesman he had ben called to serve as a regular juror for the term in place of a juror excused. This made no difference, the law remained the same, the challenge should have been allowed, the beneficent objects of the section could not br frustrated by placing a man on the regular panel who could not serve on a jury if challenged. The <del/> object of the law is to get rid of professional jurors, a most pertiferous set as every lawyer knows, and this could not be done away with by a sheriff or court, by <del>making and</del> putting such a jurer on the regular <unclear>panel</unclear>. The juror was afterwards challenged peremptorily by plantiff in <unclear>then</unclear> and thus removed from the jury. The record does not show that the defendant exhausted his peremptory challenges. Then facts bring the case directly within the ruling of this court in the case of Merton v The State 1st <unclear/> 468, "By this means the defendant seems
 
 <pb/>
 
