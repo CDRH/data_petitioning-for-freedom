@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Moses Keokuk v. Albert Wiley. Letter from Attorney Defendants</title> 
+<title>Moses Keokuk v. Albert Wiley. Motion for New Trial</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,8 +50,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Moses Keokuk v. Albert Wiley. Letter from Attorney Defendants</title>
-<date when="1868-11-23">November 23, 1868</date>
+<title level="m" type="main">Moses Keokuk v. Albert Wiley. Motion for New Trial</title>
+<date when="1869-08-19">August 19, 1869</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,20 +83,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1869-08">August 1869</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fonte</term>
-<term>Keokuk, Moses</term>
-<term>Nerisor, Rigg</term>
-<term>Wiley, Albert</term>
+<term>Anderson, A. D.</term>
+<term>Willis, Walter</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Franklin County</term>
+<term>Franklin County, Kansas</term>
 <term>Kansas</term>
-<term>United States of America</term>
 </keywords>
 
 </textClass>
@@ -113,10 +110,16 @@
 <persName>Christian, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Riggs, Samuel</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Nevison</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Foote</persName>
 </person>
 <person role="judge">
-<persName>Kingman, Samuel Austin</persName>
+<persName>Bassett, Owen A.</persName>
 </person>
 </listPerson>
             
