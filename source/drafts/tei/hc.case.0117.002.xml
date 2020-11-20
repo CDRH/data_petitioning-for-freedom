@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Second Count</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W. G. Malin and G. N. Nellis. Oath</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Second Count</title>
-<date/>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W. G. Malin and G. N. Nellis. Oath</title>
+<date when="1899-12-11">December 11, 1899</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -87,8 +87,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lelah-Puc-ka-Chee</term>
+<term>James, Peter</term>
 <term>Na-Wau-Kee-Kee</term>
+<term>VanDuzee, A. J.</term>
+<term>Stewart, J. O.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -106,10 +108,10 @@
 <persName>Ta-Ta-Pi-Cha</persName>
 </person>
 <person role="defendant">
-<persName>Malin, W.G.</persName>
+<persName>Malin, W. G.</persName>
 </person>
 <person role="defendant">
-<persName>Nellis, G.N.</persName>
+<persName>Nellis, G. N.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Lamb, Jacob W.</persName>
@@ -118,13 +120,13 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Shiras, O.P.</persName>
+<persName>Shiras, O. P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States Circuit Court in Northern District Iowa</orgName> 
+<orgName>United States Circuit Court, Northern District Iowa</orgName> 
 <placeName>Toledo, Iowa</placeName> 
 </org>
 </listOrg>   
@@ -132,7 +134,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded.</change>
+<change when="2020-11" who="#lkw">review</change>         
+<change when="2019" who="#sab">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,7 +157,7 @@ TAMA COUNTY)</p>
 
 <p>te te da cha</p>
 <p>SUBSCRIBED AND SWORNE TO BEFORE ME BY THE SAID Ta-Ta-Pi-Cha, this 11th day of December A,D, 1899</p>
-<p>JW Larnle Notary Public</p>
+<p>JW Lamb Notary Public</p>
 <p>in and for said Tama County and State of Iowa</p>
 
 <p>State of Iowa<lb/>
@@ -166,7 +169,7 @@ James Peter}</p>
 
 <p>Na-Wau-Kee- Kee<lb/>
 her x mark</p>
-<p>subscribed sworn to before me by the said Na-Wau-Kee-Kee this 11th day of December 1899 JW Larnle Notary Public in and for said Tama Co Iowa</p>
+<p>subscribed sworn to before me by the said Na-Wau-Kee-Kee this 11th day of December 1899 JW Lambe Notary Public in and for said Tama Co Iowa</p>
 
 <pb/>
 

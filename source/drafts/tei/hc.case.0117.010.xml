@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Petitioners vs. Defendants</title> 
+<title>Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W. G. Malin and G. N. Nellis. Memorandum of Papers</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W.G. Malin and G.N. Nellis. Petitioners vs. Defendants</title>
-<date when="1899-12-08">December 8, 1899</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">Lelah-Puc-ka-Chee and Ta-Ta-Pi-Cha v. W. G. Malin and G. N. Nellis. Memorandum of Papers</title>
+<date when="1900-01-01">January 1, 1900</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -87,16 +87,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>A.J.</term>
-<term>Lelah-Puc-ka-Chee</term>
-<term>Malin, W.G.</term>
-<term>Nellis, G.N.</term>
-<term>Ta-Ta-Pi-Cha</term>
+<term>VanDuzee, A. J.</term>
+<term>Stewart, J. O.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Dubuque County, Iowa</term>
-<term>Kansas City</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -104,16 +101,16 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Lelah-Puc-Ka-Chee</persName>
+<persName>Lelah-Puc-ka-Chee</persName>
 </person>
 <person role="petitioner">
 <persName>Ta-Ta-Pi-Cha</persName>
 </person>
 <person role="defendant">
-<persName>Malin, W.G.</persName>
+<persName>Malin, W. G.</persName>
 </person>
 <person role="defendant">
-<persName>Nellis, G.N.</persName>
+<persName>Nellis, G. N.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Lamb, Jacob W.</persName>
@@ -122,21 +119,22 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Shiras, O.P.</persName>
+<persName>Shiras, O. P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States Circuit Court in Northern District Iowa</orgName> 
+<orgName>United States Circuit Court, Northern District Iowa</orgName> 
 <placeName>Toledo, Iowa</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2019" who="sab">transcribed, encoded.</change>
+<revisionDesc>
+<change when="2020-11" who="#lkw">review</change>         
+<change when="2019" who="#sab">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -162,8 +160,8 @@ Defendant</p>
 <p>Dec 4 "      |  Petition for <unclear/> for Writ</p>
 <p>" 8 "        |  Defendants answer</p>
 <p>" 8 "        |  Brief and argument of Petitioner, 2 Brief and argument</p>
-<p>" 8 "        |  Pltf answer and Citation of authorities (Citations <unclear/> to Plf atty)</p>
-<p>" 8 "        |  Order of Court for heary for on Petition for Was</p>
+<p>" 8 "        |  Pltf answer and Citation of authorities (Citations <unclear>Relvd</unclear> to Plf atty)</p>
+<p>" 8 "        |  Order of Court for heary <del>for</del> on Petition for Writ</p>
 <p>" 29 "       |  Opinion of Court upon heary</p>
 <p>Jan 1 1900   |  Plft Reply to Defendant answer</p>
 <p>File of Judge</p>
