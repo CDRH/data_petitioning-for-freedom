@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0456.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Albert Friedrich v. State of Washington. Opinion</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0456.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Albert Friedrich v. State of Washington. Opinion</title>
+<date when="1892-08-09">August 9, 1892</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1892-08">August 1892</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -102,29 +94,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Friedrich, Albert</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Tyler, W. B.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Haight, James A.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
+<persName>Humes, T. J.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States Circuit Court, District of Washington, Northern Division</orgName>
+<placeName>District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -207,7 +197,7 @@ have been duly and legally convicted thereof in a Court of
 competent jurisdiction; and no person indicted for an offense
 can be convicted thereof otherwise than by confession of this
 guilt in open Court, or by the verdict of a jury accepted and
-recorded in open Court. 2 Hill's Code <unclear></unclear> 1369. 1364. In a case
+recorded in open Court. 2 Hill's Code &#167; &#167; 1369. 1364. In a case
 wherein a person is accused of a crime like that of murder in th
 the first degree, which necessarily includes other crimes of 
 lesser magnitude, a question as to the grade of the offense or
@@ -231,7 +221,7 @@ cause, is, determinative and to be of any virtue or validity
 must be certain and actually decisive of every question in
 issue. A verdict which lacks the quality of certainty will
 not support a judgment. (Hayne on New Trial and Appeal, page
-706 <unclear></unclear> 235; Meeker vs Gardella 1 Wash. St. 148; Western Mill Co.
+706 &#167; 235; Meeker vs Gardella 1 Wash. St. 148; Western Mill Co.
 vs Blanchard ib. 234.) A verdict, or plea of guilty of murder in 
 the first degree; and guilty of murder in the second degree;
 and guilty of each lesser included crime, down to simple as-
@@ -279,7 +269,7 @@ jury in his case.</p>
 <p>The several propositions above stated are not directly
 controverted by the Supreme Court in its opinion in this case.
 The only authority claimed for the disposition of the case made
-by its decision and judgment, is found in <unclear></unclear>1429 of Hill's Code
+by its decision and judgment, is found in &#167; 1429 of Hill's Code
 which provides that "The Supreme Court may affirm, reverse or 
 modify any judgment or order appealed from, and may direct the
 proper judgment or order to be entered, or direct a new trial
