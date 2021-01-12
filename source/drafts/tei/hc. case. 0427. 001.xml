@@ -21,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0427.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0427.001</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -108,7 +108,7 @@ C.J. Young and Peter J. Wegner</persName><!-- insert name of petitioner, if a pe
 <persName>Junius Rochester</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Hon. C. D. Emery /persName><!-- insert name of attorney, if known -->
+<persName>Hon. C. D. Emery</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
 <persName>Richard A. Jones</persName><!-- insert name of judge, if known -->
