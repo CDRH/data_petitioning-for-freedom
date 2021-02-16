@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0459.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Moy Wah v. J. C. Drake. Deposition of Thomas Hawks</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0459.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<date when="1893-06-06">June 6, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hawks, Thomas</term>
+<term>Richards, N. C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Tacoma, Washington</term>
 </keywords>
 
 </textClass>
@@ -102,16 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Wah, Moy</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Drake, J.C.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Snell, Marshall K.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -123,8 +113,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,55 +134,76 @@
 <div1 type="case">
 
 <pb/>
-<p>In obedience to the within Writ, I hereby produce the body of
-Wah Ni
-as within directed and return that I hold Wah Ni in my custody, by virtue of 
-an order of U S District Court
-Western Diviision dated June
-5yh 1893 remanding said
-Wah Ni unto the Custody of
-the United States Marshal to
-be placed on board the steam
-ship from which he was
-taken</p>
 
-<p>James C Drake</p>
-<p>US Marshal</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, FOR THE DISTRICT OF
+WASHINGTON, WESTERN DIVISION.</p>
 
-<p>This 12th June 1892</p>
+<p>In the Matter of the Application 
+of Moye Wah, for a Writ of Habeas Corpus.</p>
 
-<p>By H K M Kay</p>
-<p>Deputy</p>
+<p>State of washington, )
+County of Pierce
+:ss.
+<del>County of Pierce</del></p>
+
+<p>Thomas Hawks being first duly sworn on his oath deposes and
+says:-</p>
+
+<p>That he is and has been for a number of years last past
+a citizen and resident <del>of</del> and freeholder of the City of Portland,
+Multnomah County, Oregon, and was for a number of years, deputy
+sheriff and a member of the police force of said city, and has for
+three years last past been deputy tax collector, engaged in the 
+collection of taxes in said city; that he is the identical person
+who signed as Capt. Thomas Hawks the statement in the foregoing
+exhibit "A" attached to the certificate of <del>wah Ni</del> Moy Wah as ac-
+knowledged on the 22nd day of January, A.D., 1892 before J.E.
+Marks, Notary Public; that he is well and personally acquainted
+with said Moy Wah, and has, at different times, collected taxes of
+him and called at his place of business which is 168 Fifth Street
+Portland; that the said Moy Way is a member of the firm of Gum
+Wing Chung &amp; Co., at said number; and deponent further says that
+owing to the fact that he was assigned, in the performance of his
+duties both as policeman and tax collector, to the district oc-
+cupied by the Chinese, he has, at different times been called up-
+on to sign statements for Chinamen who were intending to go to
+China and return to the United States; and deponent further says
+that he is duly informed and verily believes that the said Moy 
+Wah is a member of said firm of Gum <del>Chung</del> Wing Chung &amp; Co., de-
+ponent having at various times seen said Moy Wah engaged in work-
+ing about and employed in said place of business of said firm in
+Portland, and deponent has examined the original of said certifi-</p>
 
 <pb/>
 
-<p>Tx</p>
+<p>cates and knows the contents thereof andsays that each and every
+statement therein contained is true to the best knowledge and be-
+lief of deponent; and deponent further says that said Moy Wah did
+depart and go to China at and about the time of his obtaining said
+certificate and that he verily believes that he went there for the 
+sole purpose of further aiding and assisting in the carrying on of
+said business of said firm as aforesaid, as represented by said
+Moy Wah in said certificate, and deponent verily believes that said
+Moy Wah is a good, respectable and bona fide Chinese merchant of
+the United States and has been for three or more years last past,
+deponent stating upon oath that he has known him for at least that
+long including the period of his said absence from the United
+States, and deponent is duly informed and verily believes that at
+this time he has an interest in and is one of the joint owners of
+the business as carried on by said firm and is a good, honest,
+upright and bona fide Chinese merchant as aforesaid.</p>
 
-<p>No. 270</p>
+<p>Thomas Hawks</p>
 
-<p>Circuit Court of the United States,
-NINTH JUDICIAL CIRCUIT,
-DISTRICT OF WASHINGTON,
-Northern Division</p>
+<p>Subscribed and sworn to before me
+this 6th day of June, 1893</p>
 
-<p>IN THE MATTER OF 
-Wah Ni.
-ON HABEAS CORPUS.</p>
+<p>N.C. Richards</p>
 
-<p>WRIT OF HABEAS CORPUS
-AND RETURN THERETO.</p>
+<p>Notary Public in and for Pierce County
+Residing at Tacoma, Washington.</p>
 
-<p>Filed on return, this 12 day
-of June 1893</p>
-
-<p>A. Reeves Ayres</p>
-
-<p>Clerk.</p>
-
-<p>By R.M. Hopkins</p>
-
-<p>Deputy Clerk.</p>
-
+<pb/>
 
 </div1>
     
