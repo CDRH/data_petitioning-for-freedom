@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.00459.013">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0459.015">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Moy Wah v. J. C. Drake. Subpoena</title>
+<title>Moy Wah v. J. C. Drake</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.00459.013</idno>
+<idno type="project">hc.case.0459.015</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Moy Wah v. J. C. Drake. Subpoena</title>
-<date when="1893-06-09">June 9, 1893</date>
+<title level="m" type="main">Moy Wah v. J. C. Drake</title>
+<date when="1893-05-12">May 12 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,23 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1893-06">June 1893</date></term>
+<term><date when="1893-05">May 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ham, Moy</term>
-<term>Moy, Charles</term>
-<term>Fuller, Melville N.</term>
-<term>Ayres, A Reeves</term>
-<term>Hopkins, R. M.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
-            
+               
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
@@ -137,75 +133,34 @@
 <div1 type="case">
 
 <pb/>
-<p><supplied>United States of America.</supplied></p>
 
-<p>Circuit Court of the United States,
-NINTH CIRCUIT, DISTRICT OF WASHINGTON.</p>
+<p>Portland</p>
 
-<p>Nos. 270, 271, 272,</p>
+<p>May 12 - 93</p>
 
-<p>In re Wah Ni</p>
-<p>In re Moy Wah</p>
-<p>In re Moy Chong</p>
+<p>86 <del>336</del></p>
 
-<p>On Habeas Corpus</p>
+<p>Moy Wah</p>
 
-<p>The President of the United States of America,
-to Moy Ham and Charles Moy</p>
+<p>5183</p>
 
-<p>GREETING:</p>
+<p>I am a member
+of the within
+named firm
+and do not 
+know anything
+about Moy Wah
+and he is not
+a member of
+our firm</p>
 
-<p>You are hereby Required, That all and singular business and excuses being set aside, you appear
-and attend before the Honorable C H Hanford, District
-Judge, presiding in the Circuit Court
-<del>the Circuit Court</del> of the United States, of the Ninth Judicial Circuit, in and for the District of Wash-
-ington, to be held at the Court House of said Court, in the City of Seattle
-County of King, State of Washington, on the 12th day of
-June, A.D. 1893, at 10 o'clock A.M., then and there to testify in
-the above named cause; now pending in said Court, on the part of the above named Defendant
-(United States)</p>
+<p>Charles Moy</p>
 
-<p>And for a failure to attend as above required, you will be deemed guilty of contempt of Court, and liable
-to pay the party aggrieved all loss and damage sustained thereby.</p>
+<p>Examined and
+rejected</p>
 
-<p>Witness, The Honorable Melville N. Fuller
-Chief Justice of the Supreme Court of the United States, and 
-the Seal of said Circuit Court, this 9th
-day of June, in the year of Our Lord
-One Thousand Eight Hundred and Ninety three
-and of our Independence the 117th</p>
-
-<p>A Reeves Ayres Clerk.</p>
-
-<p>By R.M. Hopkins Deputy Clerk.</p>
-
-<pb/>
-
-<p>Tx</p>
-
-<p>No. 270. 271. 272</p>
-
-<p>U.S. Circuit Court,
-NINTH CIRCUIT,
-DISTRICT OF WASHINGTON.</p>
-
-<p>In re Wah Ni</p>
-<p>In re Moy Wah</p>
-<p>In re Moy Chung.</p>
-
-<p>Habeas Corpus</p>
-
-<p>SUBPOENA</p>
-
-<p>Files this 12 day of
-June, A.D. 1893</p>
-
-<p>A Reeves Ayres</p>
-<p>Clerk.</p>
-
-<p>By RM Hopkins</p>
-<p>Deputy Clerk.</p>
-
+<p><unclear></unclear></p>
+<p>Deputy</p>
 
 </div1>
     
