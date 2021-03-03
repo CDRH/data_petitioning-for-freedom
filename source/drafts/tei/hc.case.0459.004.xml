@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0459.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Moy Wah v. J. C. Drake.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0459.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Moy Wah v. J. C. Drake.</title>
+<date when="1893-06-04">June 4, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Gum, Leon</term>
+<term>Murray, Charles A</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Portland, Oregon</term>
 </keywords>
 
 </textClass>
@@ -102,29 +95,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Wah, Moy</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Drake, J.C.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Snell, Marshall K.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Brinker, Wm. H.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2020-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -155,7 +145,7 @@ habeas corpus</p>
 <p>State of Washington</p>
 <p>County of Pierce ss.</p>
 
-<p><unclear>Leon</unclear> <unclear>Yarn</unclear>, being first duly sworn,
+<p><unclear>Leon</unclear> <unclear>Gum</unclear>, being first duly sworn,
 on his oath deposes and says
 that he has been a resident of
 Portland Oregon for five years last
@@ -163,11 +153,11 @@ past and for the last three years
 has been a member of the mer-
 cantile firm of Gum Wing Chung
 and Co of which firm of above
-<unclear></unclear> Moy Wah is a member
+<unclear>named</unclear> Moy Wah is a member
 said firm being <unclear>deal</unclear> in Chinese
 and Japanese <unclear>wares</unclear> and other goods
 at <unclear>108</unclear> Fifth Street and he
-says that the  said Moy Wah
+says that the said Moy Wah
 was a member of said firm and
 a partner <unclear>merchant</unclear> before this <unclear>deponent</unclear>
 <unclear>because</unclear> a partner <unclear>mer</unclear> as
@@ -177,23 +167,26 @@ is <unclear>still</unclear> a <unclear>portion</unclear> in said firm</p>
 <pb/>
 
 <p>and has an interest therein as
-such partner in the <unclear>seen</unclear> of
+such partner in the sum of
 $1200 00, one thousand two
 hundred dollars</p>
 
 <p>Deponent further says that
 he is well and personally ac-
 quainted with said Moy Wah
-and knows that he was an <unclear></unclear>
+and knows that he was on <unclear>or about</unclear>
 the 22nd day of January 1892
 the said Moy Wah left the City of
 Portland for China with the intention
 of working <unclear>pe</unclear> of <unclear>gu</unclear> for
-this said firm <unclear>and</unclear> <unclear>also</unclear> <unclear>to</unclear> visit
+this said firm and also to visit
 his relatives and that he so
-went <unclear>in</unclear> the <unclear>app</unclear> and consent
+went <unclear>with</unclear> the approval and consent
 of his said firm and that he
-returned or <unclear>alli</unclear> as <unclear>portion</unclear>
+returned or <unclear>alli</unclear> to <unclear>portion</unclear>
+on the steamship Victoria.</p>
+
+<p>That this deponent as portion
 of said Moy Wah <unclear></unclear> cause to
 <unclear>Lacome</unclear> to appear before the United 
 States Court to <unclear></unclear> <unclear></unclear> facts
@@ -207,7 +200,32 @@ Marshal and recognizes and knows</p>
 
 <pb/>
 
-<p>him to the </p>
+<p>him to the his said <unclear>partiner</unclear> Moy
+Wah</p>
+
+<p>Deponent <unclear>Lench</unclear> <unclear>ali</unclear> a card
+of the said firm of which Moy Wah
+is a member as aforesaid and
+deponent further declares that said
+Moy Wah is a good <unclear>honest</unclear> bonafide
+merchant of the United States and 
+has been <add><unclear>such</unclear></add> for more than thtree years
+last past to deponent and personal
+knowledge <del>and for five years <unclear>of</unclear>
+aforesaid</del> and is still a <unclear>partiner</unclear>
+of said firm</p>
+
+<p>Subscribed
+and sworn to
+before me this
+4 June 1895</p>
+
+<p>Charles A Murray</p>
+
+<p>Notary Public</p>
+
+<p>Leon g <unclear>Gum</unclear></p>
+<p>(Chinese Signature)</p>
 
 </div1>
     

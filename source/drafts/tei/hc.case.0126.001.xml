@@ -17,13 +17,14 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Battaglia, Zoe" xml:id="zb">Zoe Battaglia</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2020</date>
 </edition>
 </editionStmt>
             
@@ -49,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington vs Sterling P. White. Telegraph</title>
+<title level="m" type="main">Territory of Washington vs Sterling P. White. Subpoena</title>
 <date when="1885-04-17">April 17, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -86,9 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Short, J.R.</term>
+<term>Short, J. R.</term>
 <term>Turner, George</term>
-<term>Brobach, R.S</term>
+<term>Brobach, R. S</term>
 <term>Cody, John</term>
 <term>Rodes</term>
 <term>Fauerbach, Kate</term>
@@ -104,7 +105,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>White, S.P.</persName>
+<persName>White, S. P.</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -129,9 +130,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2019-10" who="zcb">reviewed; edited</change>
-<change when="2019-10" who="zcb">transcribed and encoded</change> 
+<revisionDesc>   
+<change when="2021-02" who="lh"> additional encoding</change>      
+<change when="2019-10" who="zcb"> reviewed; edited</change>
+<change when="2019-10" who="zcb"> transcribed and encoded</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -143,59 +145,74 @@
 <div1 type="case">
 
 <pb facs="hc.case.0126.001"/>
-<p>Territory of Washington
-County of Spokane} SS
-Territory of Washington, Plaintiff
-vs.
-S.P. White, Defendant} In the district Court of the Territory of 
+<p>Territory of Washington<lb/>
+County of Spokane} SS</p>
+
+<p>Territory of Washington, Plaintiff<lb/>
+vs.<lb/>
+S.P. White, Defendant}<lb/>
+In the district Court of the Territory of 
 Washington for the Lincoln Judicial 
 Disctrict thereof, holding terms at 
 Cheney, Spokane County,
-in said Territory:
-To the Sheriff of Lincoln County, Greeting:
-In the name of the United States, You are hereby commanded to
+in said Territory:</p>
+
+<p>To the Sheriff of Lincoln County, Greeting:</p>
+
+<p>In the name of the United States, You are hereby commanded to
 summon J.R. Short
 to be and appear before the District Court aforesaid
 at the Court House, in Cheney, in said County, on the forthwith day of
 April A.D. 1885 at o'clock M., to there give 
 evidence in the above entitled cause on the part of said Defendant
-S.P. White
-Witness Hon. George Turner
+S.P. White</p>
+
+<p>Witness Hon. George Turner
 Associate Justice of the Supreme Court of Washington
 Territory, and Judge of said Court, and the seal thereof
-affixed, this 17 day of April A.D. 1885
-<unclear></unclear> Clerk
-By R.S brobuch Deputy
-Territory of Washington
-County of Lincoln}SS </p>
+affixed, this 17 day of April A.D. 1885</p>
 
-<p>I hereby certify that I served the within Subpoena on the wihtin named witness
-by reading the same to him in said County, on this day of April A.D. 1885
-John Cody
+<p><unclear></unclear> Clerk<lb/>
+By R.S brobuch Deputy<lb/>
+Territory of Washington<lb/>
+County of Lincoln} SS </p>
+
+<pb/>
+
+<p>Territory of Washington<lb/>
+County of Lincoln} SS</p>
+<p>I hereby certify that I served the within Subpoena on the within named witness
+by reading the same to him in said County, on this day of April A.D. 1885</p>
+
+<p>John Cody<lb/>
 By Mr. Rodes </p>
 
-<p>J.R. Short
-Case No. 1537
-Subpoena
-In the District Court of the Territory of
+<p>J.R. Short<lb/>
+Case No. 1537<lb/>
+Subpoena</p>
+
+<p>In the District Court of the Territory of
 Washington, and for the First Judicial 
 District thereof, holding terms at 
 Cheney, Spokane County
-in said Territory
-Territory of Wash.
-vs.
-Plaintiff
-vs.
-S.P. White
-Deft.
-Defendant
-Returned and Filed this 28 
-day of April A.D. 1885
-Kate Fauerbach, Clerk
-By R.S. Brobach Deputy
-Sheriff's Fees
-Serving 1 names at 40 40
-Mileage 164 miles at 10 1640
+in said Territory</p>
+
+<p>Territory of Wash.<lb/>
+vs.<lb/>
+Plaintiff<lb/>
+vs.<lb/>
+S.P. White<lb/>
+Deft.<lb/>
+Defendant</p>
+
+<p>Returned and Filed this 28 <lb/>
+day of April A.D. 1885<lb/>
+Kate Fauerbach, Clerk<lb/>
+By R.S. Brobach Deputy</p>
+
+<p>Sheriff's Fees<lb/>
+Serving 1 names at 40 40<lb/>
+Mileage 164 miles at 10 1640<lb/>
 Total, ---$1680</p>
 
 </div1>

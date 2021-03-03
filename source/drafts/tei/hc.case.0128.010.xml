@@ -1,40 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0128.010"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Sterling P. White; Criminal</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0128.010</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"></title><!-- replace with name of case; type of document -->
+<date when="1884-12-25">December 25, 1884</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1884-12">December 1884</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Beardon, H. L.</term><!-- insert names of other people mentioned in document -->
+<term>Warren, H. F.</term>
+<term>Blackfan, C. T.</term>
+<term>Black, J. S.</term>
+<term>Robinson, N</term>
+<term>Brindell, C. T.</term>
+<term>Short, S. L.</term>
+<term>Porteh, H. </term>
+<term>Porteh, E. A.</term>
+<term>Welch, R. C.</term>
+<term>Rogers, O. J.</term>
+<term>Beardon, Frank J.</term>
+<term>Beardon, Henry S.</term>
+<term>Lyle, M. A.</term>
+<term>Friedlander, J.</term>
+<term>Feauerbach, Kate W.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName></persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Carpenter, J. W.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-02" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0128.010"/> <!-- insert number from spreadhseet -->
+
+
+<fw type="footer"> &amp;</fw>
 <p>Lost Bill of Coroners inquest held this
 25th day December A.D. 1884 over the remains
-of A.L. beardon.
-J.W. Carpenter acting coroner
+of H.L. Beardon.
+J. W. Carpenter acting coroner
 Holding inquest $10.00
 To writing 2843 words 5.80
 " insuring <unclear></unclear> 1.00
 " mileage 14 miles 1.40   $18.20
-H.F. Warren
+H. F. Warren
 One (1) day attendance on jury 2.00
 mileage 6 miles .60  $2.60
-C.T. Blacktan 
+C. T. Blackfan 
 one (1) day attendance on jury 2.00
 mileage 10 miles 1.00  $3.00
-J.S. Black
+J. S. Black
 one (1) day on jury 2.00
 mileage 4 miles .40  2.40
 N. Robinson 
 one (1) day on jury 2.00
 mileage 6 miles .60  2.60
-C.T. Brindell
+C. T. Brindell
 one (1) day on jury 2.00
 mileage 10 miles 1.00  3.00
-S.L. Short
+S. L. Short
 one (1) day on jury 2.00
 mileage $.20  2.20
 H. Porteh
 Witness one (1) day 2.00
 mileage 2 miles .20  2.20
-E.A. Porteh
+E. A. Porteh
 Witness one day 2.00
 mileage .20  2.20
-R.C. Welch
+R. C. Welch
 Witness one (1) day 2.00
 mileage 6 miles .60  2.60
-T.J. Rogers
+O.J. Rogers
 Witness one (1) day 2.00
 mileage 2 miles .20  2.20
 Frank J. Beardon
@@ -43,32 +196,44 @@ mileage .20  2.20
 Henry S. Beardon
 witness one (1) day 2.00
 mileage .20  2.20
-N.A. Lyle
+M. A. Lyle
 witness one (1) day 2.00
 mileage 8 miles .80  2.80
-J. Friedlanfer Deputy Sheriff
+J. Friedlander Deputy Sheriff
 one (1) day attendance $3.00
-mileage on subpoena3 4 miles 3.40
+mileage on subpoena 34 miles 3.40
 serving warrant 1.00
 mileage 12 miles 1.20
 serving subpoena 6 persons 2.40
-To summoning 6 persons 1.50
+To summoning 6 persons 1.50 </p>
 
-Filed March 5 85
+<p>Filed March 5 85
 Kate Feauerbach
-Clerk
+Clerk </p>
 
-To mileage summoning jury 36 miles 3.60
+<p>To mileage summoning jury 36 miles 3.60
 " calling jury .25
 " " 6 witness .60
 " mileage going to attend inquest and
 return 14 miles 1.40
 " team for conveying prisoner to place of
-confinement 4.00
+confinement 4.00 </p>
 
-I hereby certify that the above is a true 
+<p>I hereby certify that the above is a true 
 and correct bill as allow for the Statute 
 of Washington Ter.
-J.W. Carpenter
+J. W. Carpenter
 Justice of the Peace
 Acting Coroner</p>
+
+<p>Lost Bill
+Filed Mch. 5th 1885
+Kate Feauerbach
+Clerk</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
