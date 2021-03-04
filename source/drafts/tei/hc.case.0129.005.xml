@@ -1,4 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0129.005"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Sterling P. White; </title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0129.005</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"></title><!-- replace with name of case; type of document -->
+<date when="1885-01-05">January 5, 1885</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-01">January 1885</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Friedlander, J. H.</term><!-- insert names of other people mentioned in document -->
+<term>Portch, H.</term>
+<term>Portch, E. A.</term>
+<term>Beardon, S. T.</term>
+<term>Jump, John</term>
+<term>Beardon, Frank</term>
+<term>Rodgers, O. J.</term>
+<term>Welch, R. C.</term>
+<term>Sherman, G. M.</term>
+<term>Williams, N. R.</term>
+<term>Rhodes, Wm.</term>
+<term>Beardon, H. L.</term>
+<term>Feauerbach, Kate W.</term>
+<term>Strobach, R.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName></persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>White, S. P.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName></persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-03" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0129.005"/> <!-- insert number from spreadhseet -->
+
+
+<fw type="footer"> &amp;</fw>
+
 <p>Territory of Wash. 
 vs.
 S.P. White } Brent Precinct. W.T.
@@ -7,7 +159,7 @@ In the matter of Territory versus S.P. White
 said S.P. White was arrested on a warrant issued 
 by the coroner upon a verdict of said Coroners Jury
 which commenced on 25th day of Dec. 1884.
-L.B. White for <del>plaintiff</del> defendant and at the request of the 
+S.P. White for <del>plaintiff</del> defendant and at the request of the 
 undersigned J.H. Friedlander assisted in trying said case
 could for defendant ask for a continuance on the 
 grounds that he was with a lawyer and had no time 
@@ -18,14 +170,25 @@ defendant then waived an examination on the same grounds not granted then filed 
 for a change of venue no cause being sworn
 the trial concluded and justice claimed that
 he had no jurisdiction only as a committing
-magistrate.
-The following witness were duly sworn and 
-examined are: H. Porteh, E.A. Porteh, S.T. Beardon,
-John James, Frank Beardon, S.J. Rodgers, R.C. Welch
-G.M. Sherman, N. R. Williams and Mrs. Rhodes.
+magistrate.</p>
+<p>The following witness were duly sworn and 
+examined are: H. Portch, E. A. Portch, S. T. Beardon,
+John Jump, Frank Beardon, O. J. Rodgers, R. C. Welch
+G.M. Sherman, N. R. Williams and Wm Rhodes.
 The evidence being all in the testimony of the court
-in that said S.P. White is guilty of the offence of causing
-the death of H.L. Beardon and in therefore commanded him 
+in that said S. P. White is guilty of the offence of causing
+the death of H. L. Beardon and in therefore commanded him 
 to jail to await the action of the stand jury.
-J.W. C. <unclear></unclear>
+J. W. C. <unclear></unclear>
 Justice of the Peace</p>
+
+<p>Filed April 1885
+Kate W. Feauerbach
+Clerk
+By R. Strobach</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
