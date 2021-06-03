@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0169.001"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title> <!-- replace with name of case; type of document -->
+<title>The Territory of Washington vs. George Smith</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -15,13 +15,14 @@
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
 <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +38,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">oscys.case.0169.001</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">The Territory of Washington vs. George Smith</title><!-- replace with name of case; type of document -->
+<date when="1888-05-31">May 31, 1888</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -72,19 +73,25 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term>Grand Larceny</term>
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1888-05-31">May 31, 1888</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Smith, George</term>
+<term>Colwoll, Charles D.</term>
+<term>Graves, Charles M.</term>
+<term>Graves, Frank L.</term>
+<term>Heath, S.</term>
+<term>Aclement, A.</term>
+<term>Abel, D.F.C</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -99,10 +106,10 @@
 <persName></persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>George Smith</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>Jones, M.C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName><!-- insert name of attorney, if known -->
@@ -114,8 +121,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court for the Fourth Judicial District of Washington Territory</orgName> <!-- insert court name -->
+<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
@@ -133,7 +140,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0169.001"/> <!-- insert number from spreadhseet -->
 
 
 
@@ -156,15 +163,15 @@ on the 31st day of May, 1888 in the county of Spokane in the
 District aforesaid did time and then unlaw-
 fully and feloneously tried to take and 
 carry away our leather valise of the value of 
-two dollars. The cost of the value of twenty dollars 
+two dollars. One coat of the value of twenty dollars 
 one light coat and vest of the value of two and 
-one half dollars. one pair of pants of the 
+one half dollars. One pair of pants of the 
 value of eight dollars, 6 six pair of cotton 
 socks of the value of sixty cents, six 
-white neck ties of the value of sixty cents 
+white neck ties of the value of sixty-cents 
 one blue neck tie of the value of one dollar 
-two suits of under clothes of the value of 
-four dollars, eight photograph pictures 
+two suits of under clothes of the value 
+of four dollars, eight photograph pictures 
 of the value of six dollars, Four tin 
 type pictures of the value of fifty-cents
 four white shirts of the value of three (3) 
@@ -176,13 +183,51 @@ dollars. One pair of <unclear/> of the value of five
 cents, all of the personal goods and property of Charles D. Colwoll </p>
 
 <p>Dated at Spokane Falls, in the District aforesaid the 2nd day of July 
-A.D., 1888</p>
+A.D., 1888
+W C Jones 
+Prosecuting Attorney. </p>
 
-<p>W C Jones 
-Prosecuting Attorney </p>
+<pb/>
+
+<p>Names of all the witnesses examined and who testified before the Grand Jury on the 
+finding of thi indictment.
+Charles D Colwell. Charles M
+Frank L. Graves.</p> 
+
+<pb/> 
+
+<p>2251
+Territory of Washington 
+vs 
+George Smith
+Indictment for 
+Grand Larceny </p>
+
+<p>A TRUE BILL. 
+S. Heath 
+Foreman of the Grand Jury.</p>
+
+<p>Presented to the Court by the 
+Foreman of the Grand Jury in 
+their presence and filed this 22
+day of June 
+A.D., 1888
+D Aclement
+Clerk. </p>
+
+<pb/> 
+
+<p>We the jury in the case of the Territory 
+of Washington plaintiff against George 
+Smith defendant find the defendant 
+guilty of pettit Larceny
+D.F.C Abel 
+Forman </p>
 
 
-    
+
+
+</div1>  
 </body>
 </text>
 </TEI>
