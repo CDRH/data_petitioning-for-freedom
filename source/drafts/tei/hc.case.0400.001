@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0400.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Anthony Han v. King County. Order Granting Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Grace Turner" xml:id="GT">Grace Turner</name>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2020</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -44,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Anthony Han v. King County. Order Granting Writ of Habeas Corpus</title>
+<date when="1878-10-04">October 4, 1878</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No. 2116</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,15 +77,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1878-10">October 1878</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>LV Wycroff
+Samuel Greene</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -93,16 +94,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Anthony Han</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>King County</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>J.M. Hall</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -114,8 +115,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -152,9 +153,37 @@ Sheriff of the County of King at the county
 jail in the County of King in the Terrority of 
 Washington, and stating wherein the alledged
 illegality, consents, which it appears to me
-that a Writ of Habeas Corpus conflict <unclear>to</unclear> issue.</p>
-<p></p>
-
+that a Writ of Habeas Corpus conflicts issue.</p>
+<p>It is indeed that a Writ of Habeas Corpus 
+out of and under the seal of the above
+named district court directed to the 
+said L.V. Wycliffe, Sheriff <unclear>afre</unclear> said
+commanding him to have the lady of the
+said Anthony Han before me, at my
+Chambers, in the city of Seattle, King
+County Washington Terriority, on the 5th
+day of October 1878, at ten o'clock <unclear></unclear>
+<del></del> of that day, to do and recieve what
+shall then and there be considered
+concerning the said complainiant
+Anthony Han, together with the time
+and caused of his detention and have
+then and there the said writ.</p>
+<ab>Seattle, October 4th, 1878
+at Chambers
+J.R. Lewis</ab>
+<pb></pb>
+<ab>In Re
+Anthony Han</ab>
+<ab>On Habeas Corpus</ab>
+<ab>Order Granting writ</ab>
+<ab>Filed Oct 4th 1878
+<unclear>James Jenny</unclear>
+<unclear>clerk</unclear>
+<unclear>Hon. H. Hamm</unclear>
+<unclear></unclear></ab>
+<ab>J.M. Hall
+Atty for pett </ab>
 </div1>
     
 </body>
