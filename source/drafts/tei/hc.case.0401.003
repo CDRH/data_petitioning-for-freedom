@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0455.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0401.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Frank Krebs and Pat Daughtery v. King County. Habeas Corpus Application Title</title>
+<title>M.T. Ward v. LV Wycroff. Letter of Retrival</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
-
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0455.004</idno>
+<idno type="project">hc.case.0401.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Frank Krebs and Pat Daughtery v. King County. Habeas Corpus Application Title</title>
-<date when="1889">1889-10-10</date>
+<title level="m" type="main">M.T. Ward v. LV Wycroff. Letter of Retrival</title>
+<date when="1879-07-14">July 14, 1879</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Washington State Archives</repository>
 <collection>King Frontier Justice</collection>
-<idno>Case No 7306</idno>
+<idno>Case 2180</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -66,11 +65,11 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +77,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-10">October 1889</date></term>
+<term><date when="1879-07">July 1879</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>R.M. Hopkins, Hes Hansen</term>
+<term>James Sadlow</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, W.T</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -94,29 +93,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Frank Krebs</persName>
+<persName>M.T.Grand</persName>
 </person>
 <person role="petitioner">
-<persName>Pat Daugherty</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>King County</persName>
+<persName>LV Wycroff</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>McGaugh
+O. Jacobs</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Cornelius H. Hanford</persName>
+<persName>Roger Greene</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>King County</orgName>
-<placeName>Seattle</placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -124,7 +124,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2021-06" who="#brh">transcribed and encoded</change>
+<change when="2021-06" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,16 +135,31 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0455.004"/>
-
-<p>No. 7306
-In the Disctrict Court, Third Judicial District, Holding terms at Seattle, Wash. Ter.</p>
-<p>Application of Frank Krebs and Pat Daugherty for Habeas Corpus
-Order for Habeas Corpus
-Filed this 10th day of October 1889
-RM Hopkins Clerk. By <unclear>Ken</unclear> Harmon Deputy Clerk.</p>
-<p>Jones &amp; <del>Fortsan</del> <add>Eddy</add>
-Attorneys-at-Law. Korn Block, Seattle, W.T</p>
+<pb/>
+<ab>To James Sadlow Clerk-</ab>
+<p>It is hereby reveled that a Writ of
+Habeas Corpus issue with Sherriff of 
+King County - Commanding him to 
+how it prision M.T. Ward - now in
+custody - before me as Chief
+Justice of the Supreme Court - July
+187879 at eight oclock P.M.
+at Olympia W.T. July 177879. </p>
+<ab>Roger S. Greene
+Chief Justice of
+Supreme Court</ab>
+<p>McGaugh Joeth 
+<unclear></unclear></p>
+<p>until grandeis
+Greene <unclear></unclear> clerk - return
+Kingly Greene her --</p>
+<ab>James McNaught</ab>
+<pb></pb>
+<ab>K Oyor 360</ab>
+<ab>Filed July 22nd 187 <add>9</add>
+James Schroll, Clerk
+By James Schroll
+Deputy Clerk</ab>
 
 </div1>
     
