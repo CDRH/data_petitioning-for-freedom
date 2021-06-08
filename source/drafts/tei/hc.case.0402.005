@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0402.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>James McGarth and William Herbert v King County. Search Warrant.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0402.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">James McGarth and William Herbert v. King County. Search Warrant.</title>
+<date when="1880-03-20">March 20, 1880</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 2411</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1880-03">March 1880</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>M.V. Mills
+Roswell Scott</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>James McGarth</persName>
+</person>
+<person role="petitioner">
+<persName>William Herbert</persName>
+</person>
+<person role="defendant">
+<persName>King County</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>J.M. Hall
+Osbourne</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Roger Greene</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2021-06" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+<ab>United States of America
+United States
+Territory of Washington,
+County of King
+ss.</ab>
+<ab>To the Sheriff or any Constable of said county, greeting:</ab>
+<p>Whereas, M.V. Mills has this day made 
+complaint on oath to the undersigned, one of the Justices of the Peace in and for said
+County, that <del>the following goods and chattels to-wit:</del> he has reason to believe
+that counterfit coin of the United States and the bodies
+for making the same <del>the property of said _ have been
+within _ days past or were on the _ day of</del> have been
+by some persons unknown <del>stolen, taken, or carried away out of the possession
+of the said _ in the county aforesaid and also 
+that the said _ verily believes that the said goods or a part
+thereof</del> are concealed in or about the house of _ in said County,
+site of faint street the faint fence south 
+of states foundry. Therefore in the name of the United States you are
+commanded that with the necessary and proper asistance you enter into the said 
+house a house designated said counterfit coin is the body for the King
+and diligently search for the _, and if the same or any part
+thereof be found on such search, being the same and also the said person whose possession
+the same as before forthwith before me, to be disposed of according to law. </p>
+<ab>Given under my hand this 18th day of March AD 1880
+Roswell Scott
+Justice of the Peace</ab>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
