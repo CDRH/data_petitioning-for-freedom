@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0401.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>M.T. Ward v. LV Wycroff. Letter asking for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2020</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0401.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">M.T. Ward v. LV Wycroff. Letter asking for Writ</title>
+<date when="1879-07-14">July 14, 1879</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 2180</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1879-07">July 1879</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -85,7 +85,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -93,29 +93,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>M.T. Ward</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>LV Wycroff</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>O. Jacobs
+McMaugh</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Samuel Greene</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -123,7 +124,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021-06" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -151,8 +152,72 @@ Habeas Corpus</ab>
 Chief Justice of Washington Territory 
 and Judge of said Court</p>
 <p>The said applicant, M.T. Ward
-</p>
-
+<unclear>can plainly</unclear> onto your
+Honor aledges</p>
+<p>1st that he is unjustly and
+unlawfully restrained of his
+liberty, by the said defendant,
+L.V. Wycroff, Sheriff as aforesaid,
+in the jail, at Seattle in
+King Co. M.T.</p>
+<p>2nd That the cause or pretense of
+the said restraint of the said
+applicant; according to the applicants'
+testimony and testifies 
+that he is <unclear>ascending</unclear> from
+<pb></pb>
+forces of certain alledged creditor 
+in the state of Oregeon.</p>
+<p>3rd The said applicant <unclear>airns</unclear>
+that he resettled cause to that
+Territory from the Colatig Clregers,
+are prisioners in hiding to avoid
+return to said Colath, and that
+it is <unclear>about</unclear> trees that he is
+ofsponding from the <unclear></unclear>
+of his creditors.</p>
+<p>H The illegeality of applicant's imprisionment
+or restraint, constraint is this, <unclear></unclear></p>
+<p>1st He was arrested without
+any complaint being made
+charging him with the committment 
+of any crime, either within
+<del>S</del> laws of Washington Territory 
+or the State of Oregon.</p>
+<p>2nd He was arrested without
+warrant or other forces.</p>
+<p>3rd He was imprisioned and 
+helled in confinement without
+warrant, or the committment 
+of any <unclear>mayistrath</unclear> or other Judge's
+said officers.</p>
+<pb></pb>
+<p>4th He is not confined on any 
+process issued on a final
+judgement, of <unclear>aloush</unclear> of a Court
+Judge Jurisidicition.</p>
+<p>5th He is <unclear></unclear> imprisioned for any
+confinement of any crouch, officer
+or body leaving authority in the 
+premises to committ</p>
+<p>He is not imprisioned upon 
+any warrant issued, from the 
+District Court, upon any indictment 
+or infornation. </p>
+<p>Herefore, he prays that 
+a Writ of Habeas Corpus, may 
+be issued against said
+defendent in his behalf-
+that his imprisionment be 
+declared illegal and that 
+he be discharged herefore.</p>
+<ab>McMaugh <unclear></unclear> and 
+O. Jacobs Attys 
+for Applicant</ab>
+<ab>Territory of Washington
+County of King W
+M.T. Ward, Writ
+told duly sworn on oath</ab>
 </div1>
     
 </body>
