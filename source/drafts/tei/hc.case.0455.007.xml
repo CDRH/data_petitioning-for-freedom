@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Frank Krebs and Pat Daughtery v. King County. Type of document</title>
+<title>Frank Krebs and Pat Daughtery v. King County. Affidavit</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Frank Krebs and Pat Daughtery v. King County. Affidavit </title>
+<date when="1889-10-08">October 8th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 7306</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-10">October 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>John Nelson</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>White River</term>
 </keywords>
 
 </textClass>
@@ -94,13 +94,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Pat Daugherty (Doherty)</persName>
 </person>
 <person role="petitioner">
-<persName></persName>
+<persName>Frank Krebs</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>John Nelson, King County</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,14 +109,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>John F. Miller</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -124,7 +124,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,8 +137,10 @@
 
 <pb facs="hc.case.0455.007"/>
 
-
-
+<p>Territory of Washington Plaintiff Pat Doherty and Frank Krebs Defendents
+Information. In Justice's Court. Before JOHN F. MILLER, Justice of the Peace. Territory of Washington, County of King. ss. John Nelson being first duly sworn, on oath says that at White River in said King County, on the 7 day of October 1889 Pat Doherty and Frank Krebs did <del>unlawfully</del> willfully and unlawfully attempt in a rude <unclear>misolent</unclear> and angry manner unlawfully to touch, strike, beat and wound another person, to writ this affiant. Said Pat Doherty, and Frank Krebs then and there having a present ability to carry such attempt into execution. contrary to the form of the Statute in such case made and provided, and against the peace and dignity of the Territory of Washington. x : John Nelson Subscribed and sworn to before me this 8 day of October 1889 John F Miller Justice of the Peace, Seattle Precinct, King County, W.T.</p>
+<pb></pb>
+<p></p>
 
 </div1>
     
