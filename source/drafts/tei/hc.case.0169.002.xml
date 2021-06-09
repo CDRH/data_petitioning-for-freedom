@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0169.002"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0169.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington vs. George Smith</title> <!-- replace with name of case; type of document -->
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
@@ -18,11 +23,12 @@
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -38,7 +44,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0169.002</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0169.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,15 +54,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington vs. George Smith</title><!-- replace with name of case; type of document -->
-<date when="1888-06-22">June 22, 1888</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Joseph Deveriske v. Territory of Washington. Habeas Corpus</title>
+<date when="1888-04-19">April 19, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -73,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,55 +87,57 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06-22">June 22, 1888</date></term><!-- insert date of court term -->
+<term><date when="1888-04-19">April 19, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Smith, George</term>
-<term>Glispin, James</term>
-<term>Luther, Edward</term>
-<term>Ericson, Peter</term>
-<term>Middaugh, William</term>
-<term>Allen, David</term>
-<term>Waller, L.C.</term><!-- insert names of other people mentioned in document -->
+
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County</term> <!-- insert places mentioned -->
+<term>Nash, L.B.</term>
+<term>Snyder, J.R.</term>
+<term>Clement, D.A.</term>
+<term>Nash, L.B.</term>
+<term>Warren, Joseph</term>
+<term>Baker, Lidell</term>
+<term>White, W.F.</term>
+<term>Deveriske, Batty</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>George Smith</persName><!-- insert name of petitioner, if a person -->
+<persName>Deveriske, Joseph</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName><!-- insert name of defendant, if a person -->
+<persName>Territory of Washington</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<person role="attorney_petitioner">
+<persName>Baker, Lidell</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Nash, L.B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court for the Fourth Judicial of Washington Territory</orgName> <!-- insert court name -->
-<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
+<orgName>District Court of the Territory of Washington</orgName>
+<placeName>Spokane County</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="#jlf">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,113 +145,99 @@
 <text>
 
 <body>  
-               
-<div1 type="case">
+<p>In the District Court of the Fourth
+Judicial District, Spokane County, Territory
+of Washington.
+Habeas Corpus}
+In the matter of the } Petition
+application of <del>John</del> Joseph
+Deveriske for said writ.</p>
 
-<p>In the District Court. 
-Term, A.D. 188      at
-Territory of Washington,
-County of </p>
+<p>To the Hon. L.B. Nash, Judge
+of said Court
+Your petitioner respectfully represents:
+I. That one <del>John</del> Joseph Deveriske is <del>defraud of</del> illegaly
+and by pretense reclaimed of his liberty
+by Joseph Warren, Chief of Police of the
+City of Spokane Falls in the calaboose
+and prison of said City.</p>
 
-<p>In the District of Washington Territory, and for the Fourt Judicial District 
-thereof holding terms of Cheney, Spokane County, for Spokane, Lincoln and 
-Douglas Counties. Term. A.D 1888</p>
+<p>II. That the cause and pretense of said
+restraint is an order and sentence made
+by J.R. Snyder, Justice of the Peace of said
+County is said Joseph Warren to imprison
+said <del>John</del> Joseph Deveriske for the crime of larceny
+as <unclear></unclear> forth in section 833 of the code of
+Washington,</p>
 
-<p>The Territory of Washington.
-vs
-L.C. Waller (2207)
-Indictment for 
-COST BILL. </p>
-
-<pb/>
-
-<p>Clerks fees s.a Clement Clerk
-1888
-May 
-Docket .25
-Appearance .50
-Cost + file indictment .60
-Issue warrant 1.00
-Issue Subpoena .50
-Red + file Subpoena .35
-Warrant .35
-Arraignment .50 
-Certified copy of indictment 2.00
-Plea .50
-Sentence .50
-Commitment 1.00
-File claims 5 witnesses .75
-5 affiants 5 claims 1.25
-File 5 affiants .50
-Issue 5 certificates 2.00
-Taxing costs .50
-Final record 2.00
-Two times <unclear></unclear> 2.00
-Two certificates 2.00
-19 55.
-carried forward $19.55</p>
+<p>III. That said imprisonment was and
+is illegal in this, that said Justices
+Court had no jurisdiction to make each
+order and sentence.
+Wherefore your petitioner prays that a writ
+of Habeas Corpus may issue that said
+<del>John</del> Joseph Deveriske may be brought before</p>
 
 <pb></pb>
 
-<p>Brot forward 1955
-James Glispin Sheriff 
-Serving Warrant + mileage 1.20
-Serving Sub to <unclear>4 names</unclear> 8 miles 2.40   3.60
-Edward Luther 
-1 day + 2 miles 2.20
-Peter Ericson 
-1 day + 2 miles 2.20
-<unclear></unclear>
-1 day + 2 miles 2.20
-F.W. Middaugh
-1 day + 2 miles 2.20
-Wm Davis 
-1 day + 4 miles 2.40  11.60
-$34 75</p>
+<p>this Honorable Court, and the cause of said
+imprisonment and restraint enquired
+That if said imprisonment be without
+foundation and illegal said <del>John</del> Joseph
+Deveriske may be discharged.</p>
 
-<pb/>
+<p>Lidell Baker
+Atty for petitioner.</p>
 
-<p>Territory of Washington 
-County of Spokane 
-James Glispin being duty sworn, deposes and says 
-that he is Sheriff of Spokane County that the above and foregoing 
-account is just, true and correct, and the services therein charged were actually 
-and necessarily performed.</p>
+<p>County of Spokane } SS
+Territory of Washington</p>
 
-<p>James Glispin 
-Subscribed and sworn to before me this 
-28th day of June 1888
-</p>
+<p>Batty Deverisky being duly sworn deposes
+says that she is the petitioner in the above
+<del>entittled</del> cause, that she has read the
+foregoing petition and knows the contents
+thereof, and that the same is true as
+she <unclear></unclear> believes
+Subscribed and sworn to
+by on this this 16th day of April. 
+A.D. 1888</p>
 
-<p>CERTIFICATE OF PROSECUTING ATTORNEY.
-I hereby certify that I have examined the foregoing bill of costs, and that the same 
-amounting to the sum of 34.75 is just and correct.
-W.C. James
-Prosecuting Attorney for Spokane County</p>
+<p>Batty Deveriske X her mark
+Witness to her <del>signature</del> mark
+W.F. White</p>
 
-<p>CERTIFICATE OF PRESIDING JUDGE 
-I certify that I have examined the foregoing Bill of Costs, amounting to the sum
-of $34.75 and the same appearing to me to be just and correct, is hereby
-approved and allowed.
-David Allen 
-Associate Justice Supreme Court of Washington Territory 
-and Judge Fourth Judicial District</p>
+<p>William F. White
+Noraty Public for
+Washington Territory</p>
 
-<p>In the District Court of Washington 
-Territory. Fourth Judicial District 2257
-Term at 
-The Territory of Washington 
+<pb></pb>
+
+<p>In the Dist. Court
+Spokane County
+Territory of Washington.</p>
+
+<p>People
 vs.
-L.C. Waller,
-BILL OF COSTS</p>
+John Deveriske
+Habeas Corpus</p>
+
+<p>Filed April 19, 1888
+D.A. Clement
+Clerk
+By Chaz B. Johnston</p>
+
+<p>Lidell Baker
+Atty for petitioner
+Deputy</p>
+
+<pb></pb>
+
+
+               
+<div1 type="case">
 
 <pb/>
 
-
-<pb facs="hc.case.169.002"/> <!-- insert number from spreadhseet -->
-
-
-<fw type="footer"> &amp;</fw>
 
 </div1>
     
