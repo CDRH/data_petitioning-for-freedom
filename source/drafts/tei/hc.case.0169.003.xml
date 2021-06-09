@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0169.003"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0169.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington vs. George Smith</title> <!-- replace with name of case; type of document -->
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
@@ -18,6 +23,7 @@
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -38,7 +44,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0169.003</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0169.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,15 +54,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington vs. George Smith</title><!-- replace with name of case; type of document -->
-<date when="1888-06-02">June 2, 1888</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Joseph Deveriske v. Territory of Washington. Habeas Corpus</title>
+<date when="1888-04-19">April 19, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -73,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,48 +87,52 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06-02">June 2, 1888</date></term><!-- insert date of court term -->
+<term><date when="1888-04-19">April 19, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Graves, Frank L.</term>
-<term>Graves, Charles M.</term>
-<term>Colwell, Charles D</term>
-<term>Goldberg, Louis</term>
-<term>Deversky, Joseph</term>
+<term>Nash, L.B.</term>
 <term>Snyder, J.R.</term>
-<term>Warren, J.F.</term>
-<term>Allen, David</term><!-- insert names of other people mentioned in document -->
+<term>Clement, D.A.</term>
+<term>Nash, L.B.</term>
+<term>Warren, Joseph</term>
+<term>Baker, Lidell</term>
+<term>Deveriske, Batty</term>
+<term>White, W.F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County</term> <!-- insert places mentioned -->
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Smith, George</persName><!-- insert name of petitioner, if a person -->
-</person>
-<person role="defendant">
-<persName>Territory of Washington</persName><!-- insert name of defendant, if a person -->
-</person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
 </person>
+<person role="petitioner">
+<persName>Deveriske, Joseph</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Baker, Lidell</persName>
+</person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Snyder, J.R</persName><!-- insert name of judge, if known -->
+<persName>Nash, L.B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court for the Fourth Judicial District of Washington Territory</orgName> 
+<orgName>District Court of the Territory of Washington</orgName>
 <placeName>Spokane County</placeName>
 </org>
 </listOrg>   
@@ -130,7 +140,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="#jlf">transcribed.</change> 
+<change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,161 +148,61 @@
 <text>
 
 <body>  
+
+<p>In the District Court in and for
+the County of Spokane, Territory of Washington
+Habeas Corpus }
+In the matter of the } Writ.
+application of Batty
+Deveriske for said writ.</p>
+
+<p>To Joseph Warren Chief of
+Police of <del>said</del> the City of Spokane Falls.</p>
+
+<p>Whereas application was this
+day made by Batty Deveriske is by you this day
+unlawfully and by pretense detained
+and restrained of his liberty and
+asking that said Joseph Deveriske
+may be brought before this Honorable
+Court and the cause of said alleged
+illegal detention and restraint
+enquired into.</p>
+
+<p>Now therefore you are commanded
+to have said Joseph Deverike
+before me, the Judge of said Court in my
+chambers in Hyde Block at 10 o'clock on the 20th
+day of April 1888, and there receive what
+shall be ordered concerning said
+Joseph Deveriske and have them
+and there this writ.</p>
+
+<pb></pb>
+
+<p>Given under my hand and
+the seal of this Court this 19th
+day of April 1888</p>
+
+<p>L.B. Nash
+Justice of Peace</p>
+
+<pb></pb>
+
+<p>District Court
+County of Spokane
+Territory of Washington
+No.2167
+Habeas Corpus
+Joseph Deveriske</p>
                
 <div1 type="case">
 
-<p>2251
-Territory of Washington
-vs
-George Smith 
-To the Clerk of the District Court 
-Spokane Falls</p>
+<pb/>
 
-<p>In the District Court. 
-Term, A.D. 188_
-The Territory of Washington 
-vs.
-George Smith 
-Indictment for 
-COST BILL.</p>
-
-<pb></pb>
-
-<p><unclear></unclear> George Smith. 2251
-Clerks Fees, D.A. Clement, Clerk 
-Socket .25
-Appearance .50 
-<unclear></unclear> + file <unclear></unclear> Transcripts .35
-<unclear></unclear> + file Indictment .60
-Arraingment .50
-Certified copy Indictment 2.00
-Plea .50
-Issue Subpoena .50
-Red + file .35
-Issue Subpoena .50
-Red + file .35
-Issue joined .50
-Calling jury .25
-Swear to answer questions .25
-Swear &amp; talesmen .45
-Swear jury to try case .25
-Swear 7 witnesses 1.05
-Swear bailiff .15
-Receive + file verdict .35
-Calling jury 3 times .75
-Sentence .50
-Certified copy sentence 2.00
-Take claims 5 witnesses .75
-Affidavits to claims 1.25
-File affidavits .50
-Issue certificates 2.50
-Taxing costs .50
-Final record 2.80
-Five transcripts 2.40
-Five certificates 2.00  25.60
-Carried Forward 25.60</p>
-
-<pb></pb>
-
-<p>Brot forward $25.60
-Witnesses before Court
-Frank L. Graves
-2 days + 2 miles 4.20
-Charles M. Graves
-2 days + 2 miles 4.20
-Charles D. Colwell
-5 days 2 miles 10.20
-Louis Goldberg
-1 day + 2 miles <del>2.10</del>
-Joseph <unclear>Deversky</unclear> 
-2 days + 2 miles <del>4.20</del>
-25.00</p>
-
-<pb></pb>
-
-<p>J.R Snyder, J.P.
-1888
-June 2 Socketing Lease 25
-" " Filing Complt. 15 Affidavit 25 40
-" " Issuing warrant, filing 15 1.15
-" " Affidavit .25
-" " Entering Appearance .25
-" " Continuance .50
-" " Issuing subpoena 25 Filing 15 .40
-" " 2 Add. names .20
-" " Swearing 4 witnesses .60
-" " Entering Judgment .50
-" " Taxing costs.50
-" " Taking 3 witness Bonds 50 cents each 1.50
-" " Filing 3 bonds .45
-" " Issuing Commitment .50
-    Making Transcript 
-    10 folios. 20 cents each 2.00
-    certificate 1.00</p>
-
-<p>J.F. Warren
-June 2 Serving Warrant 1.00, 2 miles .20 1.20
-" " Attending Court <del>3.00</del>
-" " Commuting to Jail 1.00 3.60
-' " Serving subpoena, 1.20 2 miles .20 1.40 <del>6.60</del></p>
-
-<p>Witness Fees
-June " Charles D. Colwell, 1 day 2.00, 2 miles .20 2.20
-"    " C.M. Graves, 1 day 2.00, 2 miles .20 2.20
-"    " F.L. Graves, 1 day 2.00, 2 miles .20 2.20  6.60
-Carried Forward 74.25</p>
-
-<pb></pb>
-
-<gap></gap>
-
-<p>June 6 To Serving Subpoena Five names @ 40c.
-"   " " Mileage Four miles @10c.
-"   " " Serving Subpoena One name @40c.
-"   " " Mileage Five miles @10c.
-"   8 " Commitment 
-Calling jury three times @ 25c.
-Summoning Three Extra Jurors @25c.
-<del>Bringing prisoner into town 3 times @50c. 1.50</del>
-<del>5.80</del>
-4.30
-Total $80.05</p>
-
-<pb></pb>
-
-<p>CERTIFICATE OF PROSECUTING ATTORNEY.
-I hereby certify that I have examined the foregoing bill of costs, and the same 
-amounting to the sum of $69.15 is just and correct.
-W.C. Jones
-Prosecuting Attorney for Spokane County</p>
-
-<p>CERTIFICATE OF PRESIDING JUDGE.
-I certify that I have examined the foregoing Bill of Costs, amounting to the sum 
-of $69.15 and the same appearing to be just and correct, is hereby 
-approved and allowed
-David Allen
-Associate Justice Supreme Court Washington Territory
-and Judge Fourth Judicial District</p>
-
-<pb></pb>
-
-<p>In the District Court of Wasington
-Terriory. Fourth Judicial District
-2251
-Term at
-The Territory of Washington
-vs.
-<unclear>GEO</unclear> Smith
-BILL OF COSTS</p>
-
-<pb facs="hc.case.169.003"/> <!-- insert number from spreadhseet -->
-
-
-<fw type="footer"> &amp;</fw>
 
 </div1>
     
 </body>
 </text>
 </TEI>
-
