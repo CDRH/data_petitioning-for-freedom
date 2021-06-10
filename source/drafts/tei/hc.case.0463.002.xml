@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0454.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George W. Anderson vs. King County. ype of document</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
-
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +43,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0454.004</idno>
+<idno type="project">hc.case.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -135,19 +143,96 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0454.004"/>
+<pb/>
 
-<p>
-Territory of Washington King County ss. 
-<unclear>O. Jho. H.</unclear>
-McGraw Sheriff of said County do hereby certify and <unclear>annead</unclear> that I have the <unclear>witness</unclear> named of George W. Anderson in my custody <unclear>such and cuya</unclear> of a commitment issued and of the justice court for Seattle Precinct in said County: a copy whereof is <unclear>hereby</unclear> accused: That in Seattle Court and <unclear>answer</unclear> that decread has him made of me, for he <unclear>lidy of occio</unclear> petition. I
-</p>
+IN THE CIRCUIT COURT OF THE UNITED STATES
+9th. jUDICIAL DIRCUIT, DISTRICT OF WASHINGTION, <add>northern</add> <del>WESTERN</del> DIVISION.
 
-<pb></pb>
-<p>
-FILED
-OCT 2 1889
-R M Hopkins</p>
+In the Matter of the Application of
+John McKinnon
+for 
+A WRIT of HABEAS CORPUS.
+
+State of Washington,
+County of King.
+
+ss
+
+Jas. L. Crotty, being first duly sworn upon oath depose
+and say: I am the attorney for the above named John McKinnon, a 
+citizen of the United States of America. That the authorities of
+of British Columbia are seeking to take the said John McKinnon
+from the United States to the Province of British Columbia for an
+alleged offense committed therein. I know that the said John McKinnon
+has no means with which to bear the expenses of this proceeding,
+and has no property upon which he can raise money with
+which to pay the expense of filing the papers in this cause and
+to pay for the service of the writ herein sought. I make this affidavit 
+in support of said John McKinnon's petition for writ of
+Habeas Corpus, that he may be allowed to maintain this proceeding
+in forma pauperis. For the further reason that an emergency exists
+and the defendant has not ample time in which to obtain thee assistance 
+of friends. This affiant further says that he has received
+no compensation for <add>his</add> <del>the</del> services whatever, for the reason
+that said John McKinnon had nothing with which to pay therefor.
+That this affiant is interested as attorney for said John McKinnon
+for the reason he believes his cause to be meritorious and that
+justice be done.
+
+Jas L Cotty
+
+<pb/>
+
+Subscribed and sworn to before me this 13th. day of January,
+A. D. 1897.
+
+<unclear>Hiram J. Jaeres</unclear>
+
+Notary Public in and for the State 
+of Washington, residing at Seattle,
+Washington.
+
+<pb/>
+
+No. 593 <del>1062</del>
+
+TX
+
+In the United States
+Circuit Court
+FOR THE DISTRICT OF WASHINGTON
+
+In the Matter of the Application
+of John McKinnon
+for A Writ of Habeas Corpus.
+
+Affidavit.
+
+Filed Jan 14 1897
+IN THE
+U.S. DISTRICT COURT.
+
+R. M. Hopkins
+CLERK.
+
+By 
+
+H M Walther
+DEPUTY
+
+Jas L Cotty
+
+Attorney for Petitioner
+
+418. Seattle Bldg
+
+Filed Jan 14 1897
+IN THE
+U.S. CIRCUIT COURT
+A. Reeves Ayres,
+CLERK
+By H. M. Walther
+DEPUTY
 
 </div1>
     
