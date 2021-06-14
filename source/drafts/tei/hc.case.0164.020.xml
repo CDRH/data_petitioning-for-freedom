@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Ray Raymond v. Territory of Washington. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -20,6 +20,7 @@
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
 <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -53,8 +54,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. Type of document</title>
+<date when="1886">July 2, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,11 +87,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Boyd, J.H</term>
+<term>Hanna, J.C.</term>
+<term>Raymond, Ray</term>
+<term>Bradshaw, Joseph</term>
+<term>Mabius, John</term>
+<term>Penfield, C.S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,10 +108,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Raymond, Ray</persName>
 </person>
-<person role="petitioner">
-<persName></persName>
+<person role="defendant">
+<persName>Territory of Washington</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -144,6 +150,36 @@
 <div1 type="case">
 
 <pb facs="hc.case.0164.020"/>
+
+<p>J.H. Boyd <add>and</add> J.C. Hanna acknoweledge
+ourselves each  severallly indebted into the 
+Territory of Washington in the sum of two 
+Hundred dollars, to be levied of our goods
+and chattels lands and tenements, To be 
+void nevertheless as to all the above named <unclear></unclear>
+shall well and trully appear before the 
+district Court of the <del></del> 4th Juducual district
+at its next term to be holden in and for the 
+County of Spokane Territory of Washington
+at the County seat of said County on the 
+fifteenth day of November AD 1886 and 
+give evidence in a certain Criminal Action 
+wherein the Territory of Washington is plantiff 
+and Ray Raymond is defendant, on the 
+part of the Territory and there appear and
+abide the order of said Court from day 
+to day from adjournment to adjournment 
+and from term to term thene after and 
+not depart there from withought Leave of the said Court</p>
+
+<p>Stated July 2nd 1886</p>
+
+<p>Joseph Bradshaw Seal</p>
+<p>John Mabius Seal</p>
+<p>W.D. Gillespie Seal</p>
+<p> J. C. Hanna Seal</p>
+<p>J H Boyd Seal</p>
+<p>CS Penfield Seal</p>
 
 
 </div1>
