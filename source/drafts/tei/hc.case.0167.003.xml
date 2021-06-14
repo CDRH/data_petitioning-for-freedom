@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0167.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0167.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Samuel O'Brien v. Nancy O'Brien. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,7 +44,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0167.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,8 +54,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Samuel O'Brien v. Nancy O'Brien. Type of document</title>
+<date when="1887-07-09">July 9th, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,15 +87,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-07-09">July 9th, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>O'Brien, Harry</term>
+<term>Turner, George</term>
+<term>Clement, D.A.</term>
+<term>Glispin, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Spokane County</term>
 </keywords>
 
 </textClass>
@@ -103,13 +106,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>O'Brien, Samuel</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>O'Brien, Nancy</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -118,14 +118,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Turner, George</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
 <orgName>District Court of the Territory of Washington</orgName>
-<placeName>Spokane Falls</placeName>
+<placeName>Spokane County</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,6 +140,52 @@
 <text>
 
 <body>  
+
+<p>Territory of Washington } SS.
+County of Spokane</p>
+
+<p>In the District Court of the Territory of Washington, and for
+the Fourth Judicial District thereof Holding terms at Spokane
+Falls, in said county and Territory.</p>
+
+<p>In the matter of the application
+of Samuel O'Brien for
+a writ of habeas corpus
+for Harry O'Brien.</p>
+
+<p>To the Sheriff of Spokane County: -- Greeting:
+You are hereby commanded to forthwith apprehend and take
+into your custody the body of Harry O'Brien, and that you have
+him the said Harry O'Brien before the Hon. George Turner on the
+12th day of July 1887, at 10 o'clock A.M. to await and abide
+the further order of the Court, and have you then and there
+this writ with your return thereon.</p>
+
+<p>Witness the Hon. George Turner,
+Associate Justice of the Supreme
+Court, and Judge of said Court, and
+the seal thereof affixed, this 9th
+July A.D. 1887.
+D.A. Clement, Clerk.</p>
+
+<pb></pb>
+
+<p>Territory of Washington } SS.
+County of Spokane </p>
+
+<p>I James Glispin Sheriff of Spokane County WS.
+I hereby certify that I have served the within writ
+on the within named Harry OBrien on this the 9. Day
+of July AD 1887 in Spokane County WS.
+and now have him in court as directed.</p>
+
+<p>James Glispin
+Sheriff of Spokane County.
+By A.J. Duncan
+Deputy</p>
+
+<pb></pb>
+
                
 <div1 type="case">
 
