@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0463.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>John McKinnon vs. The United States. Order of Dismissal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weekly, Laura K" xml:id="lkw">Laura K. Weekly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -43,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0463.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">John McKinnon vs. The United States. Order of Dismissal</title>
+<date when="1911-12-07">December 7, 1911</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1911-12">December 1911</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -102,29 +94,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>McKinnon, John</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>The United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Griswold, Gorman C.</persName>
+<persName>Cotty, James L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Brinker, William H.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States 9th Judicial Circuit</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +122,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021-06" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,26 +135,26 @@
 
 <pb/>
 
-IN THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN
-DISTRICT OF WASHINGTON, NORTHERN DIVISION.
+<ab>IN THE CIRCUIT COURT OF THE UNITED STATES FOR THE WESTERN
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</ab>
 
-In Re: Application of
+<ab>In Re: Application of
 John McKinnon for Writ of 
-Habeas Corpus.
+Habeas Corpus.</ab>
 
-No. 593.
-ORDER OF DISMISSAL.
+<ab>No. 593.
+ORDER OF DISMISSAL.</ab>
 
-On this 7th day of December, 1911, for the reason 
+<p>On this 7th day of December, 1911, for the reason 
 that the plaintiff has failed to proceed in the prosecution of
 this case for a period of more than one year and being called
 upon in open court to show cause, if any there be why the case
 should not be dismissed, it by the Court upon its own motion, is
 
-Ordered that said cause be and the same is hereby dismissed.
+Ordered that said cause be and the same is hereby dismissed.</p>
 
-C.H.Hanford
-Judge.
+<ab>C.H.Hanford
+Judge.</ab>
 
 
 </div1>
