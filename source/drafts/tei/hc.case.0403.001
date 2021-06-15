@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Summary of Case.</title>
+<title>James Carpenter v. King County. Summary of Case.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Case Summary.</title>
-<date when="1880-07-28">1891</date>
+<title level="m" type="main">James Carpenter v. King County. Case Summary.</title>
+<date when="1880-07-28">July 28, 1880</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -102,7 +102,7 @@ King County</term>
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>King County</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Pearce</persName>
@@ -117,8 +117,8 @@ King County</term>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -126,7 +126,7 @@ King County</term>
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021-06" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
