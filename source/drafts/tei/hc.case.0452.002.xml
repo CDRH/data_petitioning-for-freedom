@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George W. Anderson vs. John H. McGraw. Type of document</title>
+<title>George W. Anderson vs. John H. McGraw. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">George W. Anderson vs. John H. McGraw. Petition</title>
+<date when="1889">1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 7261</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-10">October 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -85,7 +85,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -93,13 +93,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Anderson, George W.</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -108,21 +108,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the Territory of Washington</orgName>
-<placeName>Spokane Falls</placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,7 +133,20 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0452.002"/>
+
+<p>In the District Court for the Third Judicial District of Washington Territoru holding terms at Seattle, for King County</p>
+
+<p>In the matter of the application of George W. Anderson for a Writ of Habeas Corpus</p>
+
+<p>To the Honorable C. H. Hanford, Chief Justice of the Territory of Washington, and Judge of the District Court for the Third Judicial District of Washington Territory</p>
+
+<p>The petition of George W. Anderson respectfully shows:
+That your petitioner is unlawfully imprisoned, detained, confined, and restrained of his liberty by John H. McGraw, Sheriff of King County, Washington Territory, at the County Jail of said King County in the City of Seattle in said county</p>
+<p> That the said imprisonment, detention, confinement, and restraint, an illegal; and that the illegality thereof consists in this, to=wit: that said confinement is without due process of law</p>
+
+<p>Wherefore your petitioner prays that a</p>
+
 
 
 </div1>
