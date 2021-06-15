@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0164.021">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0162.021">
     
 <teiHeader>
 <fileDesc>
@@ -44,7 +44,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0164.021</idno>
+<idno type="project">hc.case.0162.021</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -91,13 +91,27 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bradshaw, Joseph</term>
-<term>Mabius, John</term>
-<term>Gillespie, W.D.</term>
-<term>Penfield, C.S.</term>
+<term>Attison</term>
 <term>Boyd, J.H</term>
+<term> Barnes, James</term>
+<term>Bouyon, M</term>
+<term>Bradshaw, Joseph</term>
+<term>Crane, Robert</term>
+<term>Edwards, AC</term>
+<term>Gillespie, W.D.</term>
 <term>Hanna, J.C.</term>
+<term>Huschka, Joseph</term>
+<term>Jefferson, Thoma</term>
+<term>Kellinger, MR</term>
 <term>Leininger, S.B.</term>
+<term>Mabius, John W</term>
+<term>Morgan, J.M.</term>
+<term>Neff</term>
+<term>Stanley, Ruby</term>
+<term>Palentay, G</term>
+<term>Pearl Worthington</term>
+<term>Penfield, C.S.</term>
+<term>Raymond, Ray</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -150,7 +164,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0164.021"/>
+<pb facs="hc.case.0162.021"/>
 
 <p>July 2 1886 Acknowledged before me in 
 open Court by Joseph Bradshaw and John 
@@ -200,9 +214,9 @@ Ray Raymond deft } Trascript of fee Book </p>
 
 <p><add>1886  June 26</add></p>
 
-<p>Docketing Cause 25 On the bef to Complaint 25  50 </p>
+<p>Docketing Cause 25 On the ref to Complaint 25  50 </p>
 
-<p>Filing Complaint 15 Issuing  Warrant 1.00   115</p>
+<p>Filing Complaint 15 Issuing Warrant 1.00   115</p>
 
 <p>" Warrant 15 Issuing Subpoena by (7) 25  <unclear>40</unclear></p>
 
@@ -216,7 +230,9 @@ Ray Raymond deft } Trascript of fee Book </p>
 
 <p>6 additional Names 60 In Dulip 4 Witnesses 25     85</p>
 
-<p>29 &amp; " " 30 Dulip for By not filled 15    45 </p>
+<p><add>29</add></p>
+
+<p>&amp; " " 30 Dulip for By not filled 15    45 </p>
 
 <p>Issuing Dulip for deft 8 names 25 of additional names 70    95</p>
 
@@ -240,7 +256,7 @@ Ray Raymond deft } Trascript of fee Book </p>
 
 <p>Total Justuces fees   36.70</p>
 
-<p><unclear>Turd</unclear> to next page</p>
+<p><unclear>Tuwd</unclear> to next page</p>
 
 <pb/>
 
@@ -268,7 +284,7 @@ Ray Raymond deft } Trascript of fee Book </p>
 
 <p>Witness fees</p>
 
-<p>Thomas Jefferson 1 day       21  1 Mile   210     220</p>
+<p>Thomas Jefferson 1 day       21  1 Mile   210     210</p>
 
 <p>M Bouyon         3"          6.00  1"     210      620</p>
 
