@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0166.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Dugan v. James Glispin. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0166.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1887-06-30">June 30, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-06-30">June 30, 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Glispin, James</term>
+<term>Teller, Frank</term>
+<term>Booge, John J.</term>
+<term>Telle, Mary</term>
+<term>Forster, George M.</term>
+<term>Turner, George</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Dugan, John</persName>
+</person>
+<person role="defendant">
+<persName>Glispin, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Turner + Forster</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the Territory of Washington</orgName>
+<placeName>Spokane Falls</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-06" who="#jlf">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>Territory of Washington }SS.
+County of Spokane</p>
+
+<p>In the District Court of the
+Territory of Washington for the Fourth Judicial District
+thereof holding times as Spokane Falls, County of
+Spokane in said Territory.</p>
+
+<p>In the matter of the
+application of
+John Dugan
+for a writ of Habeas Corpus</p>
+
+<p>The petition of John
+Dugan respectfully shows</p>
+
+<p>1st That he the said John Dugan is unlawfully
+imprisoned, detained, confined and restrained of his
+liberty by James Glispin Sheriff of Spokane County W.T.
+at the <del>jail</del> County Jail in Cheney in said County.</p>
+
+<p>2nd That the said imprisonment, detention, confinement
+and restraint are illegal, and that the illegality thereof
+consists in this towit:</p>
+
+<p>Wherefore to and on the 1st day of June, 1887
+your petitioner was committed to Jail in default of
+giving $1500 bail. as required by <unclear></unclear> Pierce a
+Justice of the peace in and for Spokane County W.A. to
+answer to the charge of being accessory to the crime
+of murder. Committed upon one Frank Teller in said
+County on the 30 day of May 1887; That upon the
+examination of your petitioner before said
+Pierce Justice of the Peace, there was <add>not</add> provided
+any evidence tending in any manner to
+implicate this petitioner in said murder nor anything
+tending to show he is guilty of the civil charges
+of being accessory thereof; but nevertheless the
+said Justice unlawfully held him to bail
+as aforesaid and he is and ever since has
+been unlawfully imprisoned and restrained of</p>
+
+<pb></pb>
+
+<p>his liberty by said James Glispin Sheriff-by
+reason of the <unclear>premises</unclear> as aforesaid.</p>
+
+<p>Petitioner further states that on or about the
+11th day of June 1887 one John J. Booge,
+a Justice of the Peace in and for the <del>District</del>
+County of Spokane W.T. held the petitioner
+<unclear></unclear> in the case of The Territory of Washington
+as Mary Teller and required petitioner to finish
+bail in the sum of $1000. I as said witness
+that in deault thereof he was committed to
+the custody of James Glispin Sheriff as
+aforesaid who has ever said unlawfully
+imprisoned him and restrained him
+of his liberty because said amount of
+bail is extortionate and excessive -----</p>
+
+<p>Wherefore your petitioner prays that a
+writ of Habeas Corpus may be granted
+directed to said James Glispin Sheriff as
+aforesaid commanding him to have
+the body of your petitioner before
+your honor at a time and place therein to
+be specified to do and receive what shall
+then be considered by your Honor.
+Concerning your petition together
+with the civic and cause of his detention
+and this writ; and that your petitioner
+be restored to his liberty.</p>
+
+<p>John Dugan
+by Turner + Forster
+His attorneys</p>
+
+<p>Territory of Washington
+County of Spokane</p>
+
+<p>George M Forster
+Being first duly sworn on oath states</p>
+
+<pb></pb>
+
+<p>that he is the attorney of the petitioner
+John Dugan and makes this affadavit in
+his behalf : that he has read the foregoing
+petition for Habeas Corpus. Knows the contents
+thereof and believes the cause to be <unclear>true</unclear></p>
+
+<p>Geo M. Forster
+Subscribed and sworn to before me this
+29th day of June 1887.</p>
+
+<p><unclear>Adolph Munth</unclear>
+Notary Public
+Washington Territory</p>
+
+<p>In the Clerk office District Court.
+Let the writ issue
+as heard in the petition
+returnable before me at
+chambers in Spokane Falls W.T
+at 10 o'clock <unclear>a.d.</unclear> July 29
+1887</p>
+
+<p>Dated Spokane Falls W.T. June 30 1887
+George Turner,
+Judge</p>
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
