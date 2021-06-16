@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0167.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0165.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>George Woodard v. Territory of Washington. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -20,7 +20,7 @@
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
 <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -44,7 +44,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0165.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,8 +54,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">George Woodard v. Territory of Washington. Type of document</title>
+<date when="1887">July 6th, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,11 +87,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Woodard, George</term>
+<term>Richardson, B.J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,10 +104,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Woodard, George</persName>
 </person>
-<person role="petitioner">
-<persName></persName>
+<person role="defendant">
+<persName>Territory of Washington</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -143,8 +144,58 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0165.003"/>
 
+<p>Territory of Washington 
+County of Spokane WT</p>
+
+<p>To any constable and the 
+keeper of the jail of said county </p>
+
+<p>Where as George Woodard has 
+been brought this day before the
+undersigned justices
+of the peace in and for said 
+county charged in the oath of B.J.
+Richairdson, with having on the 5th 
+day of July 1887 in said county
+committed the offence of 
+unlawfully selling intoxicating 
+liquor in the precinct of Spangle
+in said county and in the 
+progress of the trial of said 
+chrged it appearing <unclear>to</unclear> the said 
+justice that the said George 
+Woodard here was guilty
+of the ofence of unlawfully 
+selling intoxicating liquor
+commited at the time and 
+place of foresaid, and whereas
+the said George Woodard has 
+failed to give bail in the sum
+of five hundred dollars 
+for his appearance <unclear></unclear>
+at the next term of the district 
+court or <unclear></unclear> by me 
+therfore in the name of 
+
+<pb></pb>
+
+the Unite States you are 
+commanded. That <unclear></unclear>
+<unclear>necessary</unclear> and proper 
+assistance to recive the 
+said George Woodard 
+into your custory in said 
+jail and him time safely
+keep until be be discharded
+by ue process of law
+Given under my hand 
+this 6th day of July 1887</p>
+
+<p>R.Gildea </p>
+
+<p>Justice of the peace</p>
 
 </div1>
     
