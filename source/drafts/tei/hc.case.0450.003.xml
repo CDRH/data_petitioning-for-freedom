@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>P. H. McNamara v. John H. McGraw. Type of document</title>
+<title>P. H. McNamara v. John H. McGraw. Writ Issued</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">P. H. McNamara v. John H. McGraw. Writ Issued</title>
+<date when="1889-08-19">August 19th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 7070</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-08">August 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Rivers, Claudius M</term>
+<term>Harmon, H. T.</term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +96,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>McNamara, P. H.</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +111,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,8 +136,31 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0450.003"/>
 
+
+<p>Subscribed and sworn to before me the 19th day of Aug 1889.
+Claudius M Rivers
+Justice of Peace
+Seattle Precinct</p>
+
+<p>Let a writ of Habeas Corpus issue as prayed for returnable before me at Seattle before me at 8 o'clock P. M. August 19th 1889.
+C. H. Hanford
+Judge</p>
+
+<pb></pb>
+<p>
+5.00
+7070
+In the matter of the application of P. H. McNamara for a writ of Habeas Corpus
+
+FILED
+AUG 19 1889
+R M Hopkins
+Clerk.
+H T Harmon
+Deputy Clerk.
+</p>
 
 </div1>
     
