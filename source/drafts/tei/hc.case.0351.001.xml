@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Herring v. J.C. Jewett. Writ</title> 
+<title>John Herring v. J.C. Jewett. Order of the Court</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
                     
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
                     
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -20,7 +21,7 @@
             
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Herring v. J.C. Jewett. Writ</title>
-<date when="1888-10-15">October 15, 1888</date>
+<title level="m" type="main">John Herring v. J.C. Jewett. Order of the court</title>
+<date when="1859-04-05">May 4, 1859</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,11 +79,14 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1888-10">October 1888</date></term>
+<term><date when="1859-05-04">May 4, 1859</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Fitzhugh, C.C.</term>
+<term>Hill, Robert C.</term>
+<term>Bagley, N.D.</term>
+<term>Jonna, J.E.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -94,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>Herring, John</persName>
 </person>
 <person role="defendant">
-<persName>John Herring</persName>
+<persName>Jewett, J.C.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,7 +110,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Fitzhugh, C.C.</persName>
 </person>
 </listPerson>
                 
@@ -121,7 +125,8 @@
         
 <revisionDesc>         
 <change when="2019" who="#lkw"> reviewed</change>        
-<change when="2019" who="#cdw"> transcribed and encoded</change> 
+<change when="2019" who="#cdw"> transcribed and encoded</change>
+<change when="2021" who="#jlf"> transcribed and encoded</change> 
 </revisionDesc>
         
 </teiHeader>
@@ -153,14 +158,15 @@ Greeting</p>
 commanded to appear before the Hon
 C.C. Fitzhugh Justice 3rd Judicial
 District in and for Washington Territory at
-Chambers in Whatcom County W.T. the 3rd day of May A.D. 1869
+Chambers in <add>Whatcom County W.T.</add> the 3rd day of May A.D. 1859
 at the hour of 12 M. and that you bring
 with you the body of John Herring, now
 held in custody by you, to do and receive
 what shall be order concerning him, and
 have then and there this writ.</p>
 
-<p>Witness my hand and the seal
+<p>(Seal)
+Witness my hand and the seal
 of the Court this 4th day of
 May A.D. 1859</p>
 
@@ -168,23 +174,12 @@ May A.D. 1859</p>
 Clerk
 By N.D. Bagley D.C.</p>
 
+<pb></pb>
+
 <p>Herring vs.
 Jewett</p>
 
-<p>Writ of Habeas Corpus</p>
-
-<p>Executed the within
-by bringing the
-prisoner into court
-this 9th day of
-May 1859</p>
-
-<p>J.E. Jonna
-Judge</p>
-
-<p>Filed May 5 1859
-Robert C. Hill Clerk
-By N.D. Bagley D.C.</p>
+<pb></pb>
 
 </div1>
             
