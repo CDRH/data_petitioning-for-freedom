@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jeremiah Mangan v. John H. McGraw. Petition Exhibit A</title>
+<title>Jeremiah Mangan v. John H. McGraw. Sheriff Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0448.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Jeremiah Mangan v. John H. McGraw. Sheriff Return</title>
+<date when="1889-05-29">May 29th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6867</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-05">May 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Harmon, H. T.</term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Mangan, Jeremiah</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +110,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,7 +135,33 @@
                
 <div1 type="case">
 
-<pb/>
+
+<pb facs="hc.case.0448.003"/>
+
+<p>
+O Territory of Washington
+County of King ss.
+
+I do hereby return to the Hon. C. H. Hanford, Judge of the Third Judicial District of Washington Territory, that before the coming to me of the annezed writ the said Jeremiah Mangan was committed to my custody and is detained by virtue of another writ, a copy of which is hereto annexed, the original of whih I also herewith produce; Herewithof I have the body of the said Jeremiah Mangan before you as I am commanded.
+J H McGraw, Sheriff of King County, W. T.,
+
+Subscribed and sworn to before me this 29th day of May 1889,
+
+R M Hopkins Dist. Clerk
+By H T Harmon
+Deputy
+</p>
+
+<p>
+Sheriff Fees:
+Bringing of Precinct 1.00
+Copy Writ            1.00
+Service               .20
+Return               50
+                    / 2.70
+</p>
+
+
 
 
 </div1>
