@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Petitioner v. Defendant. Command</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -54,8 +54,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Petitioner v. Defendant. Command</title>
+<date when="1869">May 7, 1869</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,15 +87,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Jones, A. N.</term>
+<term>Pettigrove,AB </term>
+<term>Littlefield, D M</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Jefferson County, Washington</term>
 </keywords>
 
 </textClass>
@@ -103,10 +105,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>James, A.N.</persName>
 </person>
-<person role="petitioner">
-<persName></persName>
+<person role="defendant">
+<persName>Territory of Washington</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -118,7 +120,9 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Chalmers, W.L.</persName>
+<persName>Dennison, B. F.</persName>
+<persName>Nelson</persName>
 </person>
 </listPerson>
             
@@ -154,53 +158,63 @@ County of Jefferson } ss</p>
 
 <p>Greting</p>
 
-<p>In persuance_ of an order this 
+<p>In persuance of an order this 
 day made by the Hon B. F. 
-____- Judge of the third 
+Dennison Judge of the third 
 judical District of Washington 
 Territory</p>
 
 <p>You are commanded in 
 the name of the United States of 
 America, to have the body of 
-A.n> Jones, before the said Hon. 
-B. F. __ Judge of the third
+A.N. Jones, before the said Hon. 
+B. F. Dennison Judge of the third
 judicial District of Washington Territory 
 at the Court House in Port 
 Townsend, Jefferson County, 
 W. T. at nine O'Clock A.M. May 
-8th A.D. 1869 then and there _ do and 
+8th A.D. 1869 then and there to do and 
 recive what shall be ordered concerning him
 and have you then and there this writ.</p>
 
-<p>Witness the Hon BF _____ 
-____ Justice Washinton Teritory 
-and Judge of the third Judica; district 
+<p>Witness the Hon BF Dennison
+Associate Justice Washinton Teritory 
+and Judge of the third Judical district 
 this 7th day May, AD 1869</p>
 
-<p>AB ______
+<p>AB Pettigrove
 clerk</p>
 
 <pb/>
 
-<p>Served the writ_ by having the ____
-name A N Jones before this court.
+<p>Served the within by having the within
+named A N Jones before this court.
 he being held by a writ of Execution 
-againt body ___ out of the 
-Justice court by W. L. ___-
+againt body issued out of the 
+Justice court by W. L. Chalmers
 Justice of the peace for Jefferson county 
-a ____ of week is ___ anexea_ 
-and__ mother____ </p>
+a copy of wich is here and to anexed 
+and by me the authority </p>
 
-<p>D. M. L___ 
+<p>D. M. Littlefield 
 Sheriff of 
-Jefferson COunty W.T.</p>
+Jefferson County W.T.</p>
 
 <p>Subscribed and 
 Sworn to before
 me this 8th day of 
 May 1869
-J.P. ___-</p>
+J.P. Nelson</p>
+
+<pb/>
+
+<p>NO 587</p>
+
+<p>Habeas Corpus</p>
+
+<p>A.N Jones</p>
+
+<p>To the Sheriff</p>
 </div1>
     
 </body>
