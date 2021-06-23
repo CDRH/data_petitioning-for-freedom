@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0352.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0448.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Thomas P. Overnall. Deposition</title>
+<title>Jeremiah Mangan v. John H. McGraw. Sheriff Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
-<name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0352.004</idno>
+<idno type="project">hc.case.0448.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -55,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Thomas P. Overnall. Deposition</title>
-<date when="1862">October 23, 1862</date>
+<title level="m" type="main">Jeremiah Mangan v. John H. McGraw. Sheriff Return</title>
+<date when="1889-05-27">May 27th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6867</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -80,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -88,17 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1889-05">May 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Miller, James</term>
-<term>Overnall, Thomas P.</term>
-<term></term>
+<term>Harmon, H. T.</term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Island County, Washington</term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -106,13 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Overnall, Thomas Nelson</persName>
+<persName>Mangan, Jeremiah</persName>
 </person>
-<person role="defendant">
-<persName>Territory of Washington</persName>
-</person>
-<person role="defendant">
+<person role="petitioner">
 <persName></persName>
+</person>
+<person role="defendant">
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -121,21 +110,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,37 +135,34 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0352.004"/> 
 
-<p>personly appeared before me a 
-justice of the peace in and for Island 
-County Washington Territory James Miller
-whom being first duly swon deposes and 
-says that on or about the 20th day of 
-September 1862 he saw Mr. Overnall 
-come to My fathers house I was at 
-the barn Mrs. Overnell came to the barn 
-and <add>told</add> me that Overnall was a going to take 
-the child away I came out of the Barn 
-and saw Mr. Overnells goin away 
-with the child in his arms I did not 
-atempt to take the chid from him 
-he semed angry and excited said child 
-is about 13 months old I have seen him 
-and Mr. Overnell at my fathers, house and
-judging from his candition I do not 
-Consider Mr. Overnell a fit person to 
-have charge of the child I see Mrs. Overnall
-almost dayly and think it very nessasary 
-to her health that the child be restored
-to her or be placed in the hands of some
-suitable person where it will be taken
-care of </p>
+<pb facs="hc.case.0448.003"/>
 
-<p>FS Millers</p>
+<p>
+O Territory of Washington
+County of King ss.
 
-<p>Subscribed and sworn to 
-the 23 d day of Oct 1865 James <unclear></unclear> Justice Peace</p>
+I do hereby return to the Hon. C. H. Hanford, Judge of the Third Judicial District of Washington Territory, that before the coming to me of the annezed writ the said Jeremiah Mangan was committed to my custody and is detained by virtue of another writ, a copy of which is hereto annexed, the original of whih I also herewith produce; Herewithof I have the body of the said Jeremiah Mangan before you as I am commanded.
+J H McGraw, Sheriff of King County, W. T.,
+
+Subscribed and sworn to before me this 27th day of May 1889,
+
+R M Hopkins Dist. Clerk
+By H T Harmon
+Deputy
+</p>
+
+<p>
+Sheriff Fees:
+Bringing of Precinct 1.00
+Copy Writ            1.00
+Service               .20
+Return               50
+                    / 2.70
+</p>
+
+
+
 
 </div1>
     

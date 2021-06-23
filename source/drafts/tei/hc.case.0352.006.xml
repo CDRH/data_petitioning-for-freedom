@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0352.001"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0352.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Thomas P. Overnall. Writ</title> 
+<title>Territory of Washington v. Thomas P. Overnall. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,7 +45,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0352.001</idno>
+<idno type="project">hc.case.0352.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -55,8 +55,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Thomas P. Overnall. Writ</title>
-<date when="1862">October 30, 1862</date>
+<title level="m" type="main">Territory of Washington v. Thomas P. Overnall. Order</title>
+<date when="1862">October 27, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -92,7 +92,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Overnall, Thomas Nelson</term>
 <term>Overnall, Thomas P.</term>
 <term>Dyer, E.S.</term>
 </keywords>
@@ -146,50 +145,37 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0352.001"/> 
+<pb facs="hc.case.0352.006"/> 
 
-<p>In the matter of application for a 
-writ of Habeas Corpus on behalf of 
-Thomas Nelson Overnall, <del></del> a small 
-child about 14 months old in 
-Island County.</p>
+<p>Order</p>
 
-<p>Oct 30th 1862
-at Chambers</p>
+<p>Let the Writ and warrant prayed 
+for in the forgiven petition issue
+forthwith and that ___ of 
+the writ of habeas Corpus be 
+served by the Sheriff of Island 
+County W.T. by delivering the 
+same to Thomas P. Overnalls, if 
+he be found, _____ in the 
+______ persoed by States in 
+sed case</p>
 
-<p>Returned to this Writ issued having 
-been made and the said
-Thomas P. Overnall having appeared 
-in Obediance to the Command
-of said writ, and having admitted 
-that the mother is for the time being 
-the more proper and suitable party 
-to have the custody of said child 
-and it appearing lawful and 
-proper in the premissis so to do.</p>
+<p> CC Hewitt J P and Judge 
+of 3d Judical Dist of W. T.</p>
 
-<p>It is <add>therfore</add> here by ordered <del></del>
-that said child Thomas Nelson
-Overnall be and remain in the 
-cutody of its mother, the wife of 
-Thomas P. Overnall until the further 
-order of <del></del>
-district Court of Port Townsend, or the 
-Judge Therefore
-and it is further ordered that the
-said Thomas P. Overnall pay the 
-costs of the procedings having to be 
-taxed by the clerk</p>
+<pb/>
 
-<p>CC, Hewitt CJ and Judge
-of his court of Port Townsend</p>
+<p>#364</p>
+ 
+<p>Territory x Thos ____
+Overnal</p>
 
-<p>Thos P. Overnall
+<p>Petition for 
 Habeas Corpus</p>
 
-<p>Filied Oct 30 1862</p>
-
-<p>E.S.Dyer Clerk</p>
+<p>Filed Oct 27 1862
+E.S Dyer
+Clerk</p>
 </div1>
     
 </body>
