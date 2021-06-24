@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Warden v. John H. McGraw. Type of document</title>
+<title>William Warden v. John H. McGraw. Sheriff Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">William Warden v. John H. McGraw. Sheriff Return</title>
+<date when="1889-05-11">May 11th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6866</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-05">May 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Warden, William</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -115,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#xxx">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,7 +137,29 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0447.003"/>
+
+<p>
+In the Justice Court at Seattle
+
+In the maatter of the application of William Warden for a <unclear>a is charge</unclear> up on writ of Habeas Corpus        Special Return
+                                                    Sheriff
+</p>
+<p>
+And said comes the Sheriff of King County John H. McGraw and for the rturn to the writ of Habeeas Corpus review response and returns
+</p>
+<p>
+That said William Warden or alais Ross is heed by Respondent upon a warrant foregoing the petitioner with a felony to wit. <unclear>Burglary</unclear> <del>and that the houses issue his confinement upon said charge had not expired </del> and the said petitioner has not yet had a <unclear></unclear> before the Justice commiting him, the fine for said examination not having arrived and expened, and respondent said he further Respondent having no knowledge of imformation sufficient to form any  <unclear></unclear> to the matters alleged in
+</p>
+<pb></pb>
+<p>
+Matters of fraud compirar or confeleratily, and therefore retrievns nothing as to the same, and for <unclear>another return to say</unclear> <del>respecfully </del> 
+Conict Respondent makes his applicant rephealtd hereto acciled especially apart. <del>Sheriff of and of County</del> John H. McGraw
+Subscribed and sworn this 11 day of May A D 1889 
+R. M. Hopkins
+Clerk.
+</p>
+
 
 
 </div1>
