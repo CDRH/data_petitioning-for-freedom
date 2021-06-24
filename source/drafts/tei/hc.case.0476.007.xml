@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0476.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>J.W. Tripp v. Territory of Washington. Order granting Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0476.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">J.W. Tripp v. Territory of Washington. Order granting Writ</title>
+<date when="1867-06-04">June 4, 1867</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1867-06-04">June 4, 1867</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Woodly, John H.</term>
+<term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Port Townsend</term>
+<term>Jefferson County</term>
 </keywords>
 
 </textClass>
@@ -94,13 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Tripp, J.W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +109,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Darwin, Charles B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Jefferson County Third Judicial District Court</orgName>
+<placeName>Jefferson County</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#xxx">transcribed and encoded</change>
+<change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,7 +132,64 @@
 
 <body>  
 
+<p><del>In the County Court
+of the</del></p>
 
+<p>Territory of Washington COUNTY OF Jefferson
+<del>State of</del> 3rd judicial District</p>
+
+<p>In the matter of the application of } Order granting Writ.
+J.W. Tripp
+for a Writ of Habeas Corpus.</p>
+
+<p>Upon reading and filing the petition of J.W. Tripp
+duly signed and verified by him whereby it appears that he
+may be or is illegaly imprisoned and restrained of his liberty by
+John H. Woodly, Sheriff of the County
+of Jefferson W.T.
+at the jail in the siad County of Jefferson
+<del>in the State of _____</del>
+and stating wherein the alleged illegality consists, from
+which it appears to me that a writ of Habeas of Corpus ought to issue.</p>
+
+<p>It is ordered that a writ of Habeas Corpus issue out of and under the seal
+of the <del>County</del> Court <del>of the ____ County of ____ State of ____</del>
+directed to the said John H. Woodly, Sheriff
+commanding him to have the body of said
+J.W. Tripp before me, in the Court Room of the said Court, on the
+Fourth day of June A.D. 1867, at 12 o'clock
+a.m. of that day, to do and recieve what shall then and there be considered
+concerning the siad J.W. Tripp --- together with the time and
+cause of his detention, and that he have then and there the said writ.</p>
+
+<p>Dated June fourth A.D. 1867</p>
+
+<p><del>Judge of the County Court of the
+County of</del></p>
+
+<p>Charles Beu Darwin
+Judge for Judicial
+District W.T.</p>
+
+<pb></pb>
+
+<p><del>County Court,
+County of</del></p>
+
+<p>In the matter of the application of
+J.W. Tripp
+for a Writ of Habeas Corpus.
+Order granting Writ.</p>
+
+<p>Filed June 4 A.D. 1867
+James Seavey
+<del>Deputy</del> Clerk</p>
+
+<p>Filed June 4th, 1867
+James Seavey
+Clerk</p>
+
+<pb></pb>
                
 <div1 type="case">
 

@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>J.W. Tripp v. Territory of Washington. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0476.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">J.W. Tripp v. Territory of Washington. Subpoena</title>
+<date when="1867-06-08">June 8, 1867</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1867-06-08">June 8, 1867</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Keys</term>
+<term>Seavey, James</term>
+<term>Chalmers, William L.</term>
+<term>Woodly, John H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Port Townsend</term>
+<term>Jefferson County</term>
 </keywords>
 
 </textClass>
@@ -94,13 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Tripp, J.W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +110,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Darwin, Charles B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Jefferson County Third Judicial District Court</orgName>
+<placeName>Jefferson County</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#xxx">transcribed and encoded</change>
+<change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,7 +133,58 @@
 
 <body>  
 
+<p>Territory of Washington
+J.W. Tripp</p>
 
+<p>Subpoena</p>
+
+<p>Filed June 4 - 1867
+J Seavey Clerk</p>
+
+<p>Served the
+within by
+supeoning the
+said William L
+Chalmers to
+appear forthwith
+and produced
+his docket
+before the court
+June 4, 1864</p>
+
+<p>J.H. Woodly
+Sheriff of
+Jefferson County</p>
+
+<p>Filed June 8 1887
+J Seavey
+Clerk</p>
+
+<pb></pb>
+
+<p>Territory of Washington
+J.W. Tripp + <unclear>D. Keyes</unclear></p>
+
+<p>Weight of missel taken from chamber of pistol 3 pennyweights + 3 grains
+Weight of missel taken from clefs of wood     3 "          " + 3 grains
+Weight of lead taken from partridges skull           2 "          "   3       "
+Weight of each piece of lead from Clarks body 1 "          "   12      "</p>
+
+<p>Difference of weight between ball from pistol chamber and
+the lead from partridges skull 1 pennyweight
+Difference between the lead from the partridge skull
+and the pieces lead from Clarks body 15 grams</p>
+
+<pb></pb>
+
+<p>Territory of Washington
+vs
+J.W. Tripp and
+<unclear></unclear> Keys</p>
+
+<p>Weights of shots</p>
+
+<pb></pb>
                
 <div1 type="case">
 
