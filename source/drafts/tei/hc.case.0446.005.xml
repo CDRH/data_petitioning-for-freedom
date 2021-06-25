@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Warden v. O. H. Butterfield. Type of document</title>
+<title>William Warden v. O. H. Butterfield. Judge Discharge</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">William Warden v. O. H. Butterfield. Judge Discharge</title>
+<date when="1889-05">May, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6858</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-05">May 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -87,7 +87,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -95,7 +95,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Warden, William</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
@@ -110,21 +110,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#xxx">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,8 +137,20 @@
                
 <div1 type="case">
 
-<pb/>
-
+<pb facs="hc.case.0446.005"/>
+<p>
+In the Matter of application of William Warden for writ of Habeas Corpus cro 6858
+</p>
+<p>
+In appearing to the <del></del> Judge what the Petitioner is held within legal process or just cause it is ordained by the Court that said petitioner William Warden be and he is hereby discharged
+    C H Hanford
+    Judge
+</p>
+<pb></pb>
+<p>
+A-365  E    6858    T
+In the matter of the application of William Warden for writ of Habeas Corpus
+</p>
 
 </div1>
     
