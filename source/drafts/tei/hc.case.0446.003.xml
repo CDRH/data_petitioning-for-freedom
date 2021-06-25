@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Warden v. O. D. Butterfield. Writ of Habeas Corpus</title>
+<title>William Warden v. O. H. Butterfield. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William Warden v. O. D. Butterfield. Writ of Habeas Corpus</title>
-<date when="1891">1891</date>
+<title level="m" type="main">William Warden v. O. H. Butterfield. Writ of Habeas Corpus</title>
+<date when="1889-05-25">May 25th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-05">May 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hopkins, R. M.</term>
+<term>Harmon, H. T.</term>
+<term>Bogart, Robert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +96,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Warden, William</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Butterfield, C. H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +111,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#xxx">transcribed and encoded</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,7 +138,46 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0446.003"/>
+<p>
+In the District Court,
+Of the Third Judical District of Washington Territory, holding Terms at Seattle, for the County of King.
+
+    HABEAS CORPUS.
+</p>
+<p>
+The People of the United States of America, to <add>O H Butterfield Chief of Police + James Bogart, and other officers of the jail</add> <del>the Sheriff of King County</del> Greeting:
+</p>
+<p>
+We command you, that you have the body of William Warden by you imprisoned and detained as it is said, together with this time and cause of such imprisonment and detention, by whatsoever name said William Warden shall be called or charged, before the HON. <add>C. H. Hanford</add> <del>Richard A. Jones</del> Judge of the aforesaid Court at the Court House in the City of Seattle King County W. T. at the chambers of said Judge forthwith to do and receive what shall then and there be considered concerning him the said William Warden 
+And have you then and there this writ.
+
+    WITNESS The HON. <del>RICHARD A. Jones</del> <add>C H Hanford</add> Judge of said District Court, and the seal thereof this 25th day of May A. D. 1889.
+R. M. Hopkins 
+    Clerk.
+By      Deputy Clerk.
+</p>
+<pb></pb>
+<p>
+E      T
+No. 6858
+In the 
+District Court,
+Third Judicial District,
+Holding Terms at Seattle, W. T.
+
+In the Matter of the Application of 
+William Warden
+
+For Writ of Habeas Corpus.
+
+HABEAS CORPUS.
+
+
+Returned and filed this 25 day of May A. D. 1889
+R. M. Hopkins   Clerk.
+By H. T. Harmon     Deputy Clerk.
+</p>
 
 
 </div1>
