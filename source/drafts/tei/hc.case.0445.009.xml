@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0445.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0445.009">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Howard McMillen v. O. D. Butterfield. Order granting Writ</title>
+<title>Howard McMillen v. O. D. Butterfield. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0445.007</idno>
+<idno type="project">hc.case.0445.009</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Howard McMillen v. O. D. Butterfield. Order granting Writ</title>
+<title level="m" type="main">Howard McMillen v. O. D. Butterfield. Writ of Habeas Corpus</title>
 <date when="1889-05-11">May 11th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,8 +83,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>McGraw, John H.</term>
 <term>Harmon, H. T.</term>
-<term></term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -125,7 +126,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="#brh">transcribed and encoded</change>
+<change when="2021-07" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,42 +139,51 @@
                
 <div1 type="case">
 
+<pb facs="hc.case.0445.009"/>
+<p>
+IN THE DISTRICT COURT,
+Of the Third Judicial District of Washington Territory, holding Terms at Seattle, for the Counties of King and Kitsap.
 
-<pb facs="hc.case.0445.007"/>
-<p>
-In the District Court Third Judicial District within and for the county of king and Territory of Washington holding terms at Seattle in said County and Territory
-</p>
-<p>
-In the matter of the application of Howard McMillen
-for a writ of Habeas Corpus                             Order granting Writ
-</p>
-<p>
-Upon reading and filing the petition of Howard McMillen duly signed and verified by him whereby it appears that Howard McMillen is illegal imprisoned and restrained of his liberty by O. D. Butterfield chief of Police of the city of Seattle at the city Jail in the city of Seattle in the County of King and Territory of Washington, and stating where in the alleged illegality consists from which it appears to me that a writ of Habeas Corpus aught to issue it is ordered that a writ of Habeas Corpus issue out of and under the seal of the District Court within and for said County of King and Territory of Washington directed to the said O. D. Butterfeild chief of police as aforesaid commanding him to have the body of the
+    HABEAS CORPUS.
+
+The People of the United States of America, to the <add>O. D. Butterfield Cheif of Police</add> <del>Sheriff of King County</del> Greeting:
+
+    We command you, that you have the body of Howard McMillen by you imprisoned and detained as it is said, together with the time and cause of such imprisonment and detention, by whatsoever name said Howard McMillen shall be called or chagred, before the HON. <add>C H Hanford</add> <del>ROGER S. GREENE</del> Judge of the aforesaid Court at in the Court Room of said Court, forthwith to do and receive what shall then and there be considered concerning him the said Howard McMillen 
+And have you then and there this writ.
+        C H Hanford
+       WITNESS THE HON. <add>C H Hanford</add> <del>ROGER S. GREENE</del> Judge of said District Court, and the seal thereof this 11th day of May A. D. 1889 
+<add>R. M. Hopkins</add>
+    <del>James Seavey</del> Clerk.
+By H. T. Harmon Deputy.
+
+Court <unclear>fail</unclear>
 </p>
 <pb></pb>
 <p>
-said Howard McMillen before me in the Court room of the said Court at the County of King <add>forthwith</add> <del>on the 11th day of May A. D. 1889 at 10 O'clock in the foregoing of said day</del> to do and receive what shall then and there be considered concerning the said Howard McMillan together with the time and cause of his detention and that you have then and there the said writ. 
-    C. H. Hanford
-    Judge of the District Court
+Territory of Washington
+County of King          ss.
+
+    J. H. McGraw Sheriff of King County, W. T.do hereby certify that on the 11th day of May, 1889, I read for service a writ, of which the within is a true copy, and that a personally served the same on the same day on O. D. Butterfiel, Chief of Police, he bring the person to whom said writ was directed, by delivering to him, said Chief of Police, personally, in said King County, said writ.
+    Seattle, May 11th 1889.
+Sheriff Fees;                                   J. H. McGraw
+Service     1.00                                   Sheriff
+Copy          80                                By      Deputy
+3 mile        20
+Return        50
+            $2.50
 </p>
 <p>
-E   6776    T
-a-324
+E   No. 6776    T
 
-In the Matter of the Petition of Howard McMillen for Writ of Habeas Corpus
+Habeas Corpus
 
-Order
-
-FILED
-May 11 1889
+FILED 
+May 17 1889
 R M Hopkins
     Clerk.
-By H T Harmon
+By H. T. Harmon
     Deputy Clerk.
 </p>
-
-
-
 
 </div1>
     
