@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0444.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0444.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edward Crofery v. O. D. Butterfield. Attorney Statement</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0444.005</idno>
+<idno type="project">hc.case.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Edward Crofery v. O. D. Butterfield. Attorney Statement</title>
-<date when="1889-05-11">May 11th, 1889</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1891">1891</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives</repository>
-<collection>King Frontier Justice</collection>
-<idno>Case No 6775</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-05">May 1889</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Oslrrir, Richard</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -98,13 +98,13 @@
 <persName></persName>
 </person>
 <person role="petitioner">
-<persName>Crofery, Edward</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jones, H. F.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -116,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName>King County</orgName>
-<placeName>Seattle, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#brh">transcribed and encoded</change>
+<change when="2021-06" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,27 +137,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0444.005"/>
-<p>
-Territory of Washington
-    County of King,         ss.
-I, H. F. Jones, beign first duly sworn on my oath depose and say:
-    That I am over the age of twnty one years, that I am an Attorney and counsellor at law, duly authorized to practice in the courts of Washington Territory.
-</p>
-<p>
-That on O. D. Buterfield, at present acting as chief of police and keeper of the jail of the cit of Seattle unlawfully imprisones, detains, restrains and confines one Edward Crofery: That the said edward Crofery Did on the ninth day of May 1889, send for this affiant, that the said essage was intrusted to an officer under the said Buterfield is the affiant verily beleives that the same was not delivered, that on the tenth day of Mayb affiant acting as an attorney and in no other capacity visited said jail; but was <unclear>rejssed</unclear> admission thereto by the jailer acting, as this affiant is informed and beleives under the direction of the said Buterfield. 
-That this affiant applied to the said Buterfield for permission to see the said Edward Crofery in the capacity of an attorney, and that cites four hours of persistent effort was allowed to see the said Edward Crofery That this affiant is a Notary Public, in and for Washington Territory, and that as such Notary Public this affiant swore the said Edward Crofery to the petition hereunto attached, after having read the same to the said Edward Crofery That this affiant asked the said Edward Crofery to sign the same when the said Buterfield with two assistants took hold o this affiant and forceably removed him therefrom and forthwith confined the said Edward Crofery in a cell and refused to allow the said Edward Crofery to sign the same. 
-    H. F. Jones
-Subscribed and swron to before me this 11th day of May 1889
-Richard <unclear>Oslrrir</unclear>
-Notary Public, in and for Washington Territory.
-</p>
-
-
-
-
-
-
+<pb/>
 
 
 </div1>
