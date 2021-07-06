@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0422.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0423.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nicholas Brown v. Olive Brown. Motion to dismiss</title>
+<title>Petitioner v. Defendant. Petition for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0422.003</idno>
+<idno type="project">hc.case.0423.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Nicholas Brown v. Olive Brown. Motion to dismiss</title>
-<date when="1887-05-23">May 23, 1887</date>
+<title level="m" type="main">Petitioner v. Defendant. Petition for Writ</title>
+<date when="1891">1891</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,19 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-05-23">May 23, 1887</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Seavey, James</term>
-<term>Ledgerwood, W.E.</term>
-<term>Brown, George</term>
-<term>Brown, Alexander</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -99,26 +94,29 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Brown, Nicholas</persName>
+<persName></persName>
+</person>
+<person role="petitioner">
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Brown, Olive</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Peterson, Fred H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the Third Judicial District holding terms at Seattle</orgName>
-<placeName>King County</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,43 +132,51 @@
 
 <body>  
 
-<p>In the District Court
-holding terms at Seattle</p>
-
-<p>In the matter of
-Alexander Brown +
-George Brown infants
-by their father Nicholas Brown
-for a Writ of Habeas Corpus
-"</p>
-
-<p>Comes now this 23rd day of
-May 1887, Fred H. Peterson allowing
-for said petitioners and moves
-this Honorable Court to
-dismiss the above proceedings
-at petitioners costs,
-Wherefor, it is considered
-ordered and adjudged that the above
-proceedings be dismissed
-at the costs of said petitioners</p>
-
-<p>Dated at Seattle May 23, 1887</p>
+<p>File No.5402</p>
 
 <pb></pb>
 
-<p>No. 5342</p>
+<p>Territory of Washington, )
+County of King,          ) ss.</p>
 
-<p><unclear></unclear> to
-dismiss</p>
+<p>To the Hon. Richard A. Jones, Chief of Justice of Washington
+Territor, and Judge of the Third Judicial District thereof.</p>
 
-<p>FILED
-MAY 23, 1887
-James Seavey, Clerk.</p>
+<p>The petition of Gustave Gunderson respectfully shows:</p>
 
-<p>By. W.E. Ledgerwood,
-Deputy Clerk.</p>
+<p>I.
+That Gustave Gunderson is unlawfully imprisoned, detained,
+confined and restrained of his liberty by William Cochrane, Sheriff of
+King County, Washington Territory, at the County Jail, in he said
+County of King and Territory of Washington.</p>
 
+<p>II.
+That according to the best of the knowledge and belief of this
+applicant the cause and pretense of his restraint is that this
+applicant is accused of being a fugitive from justice from the State
+of California, charged with the crime of murder.</p>
+
+<p>III.
+That the said imprisonment, detention, confinement and restraint
+are illegal, and that the illegality consists in this, to-wit: that
+this applicant is imprisoned with out any process of the law, that no
+complaint of any sort has ever been made against him before any
+migistrate or other judicial officer, that no warrant has ever been
+issued for his arrest, that he is held and confined, imprisoned,
+detained and restrained on the supposition that he is one Pete Olsen,
+person, to-wit: Gustave Gunderson.</p>
+
+<p>WHEREFORE your petitioner prays that a writ of habeas
+corpus may be granted, directed to the said William Cochane,
+commanding him to have the body of Gustave Gunderson before your
+Honor at a time and place therein to be specified, to do and receive
+what shall then and there be considered by your Honor concerning
+writ; and that he may be restored to his liberty</p>
+
+<p>Dated on the 27th day of June, 1887.</p>
+
+<p>Burke + Haller
+Attorneys for Applicant</p>
                
 <div1 type="case">
 

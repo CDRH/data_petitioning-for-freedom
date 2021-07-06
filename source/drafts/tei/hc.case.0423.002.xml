@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0422.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0423.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nicholas Brown v. Olive Brown. Motion to dismiss</title>
+<title>Petitioner v. Defendant. Document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0422.003</idno>
+<idno type="project">hc.case.0423.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Nicholas Brown v. Olive Brown. Motion to dismiss</title>
-<date when="1887-05-23">May 23, 1887</date>
+<title level="m" type="main">Petitioner v. Defendant. Document</title>
+<date when="1887-06-27">June 27, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,19 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-05-23">May 23, 1887</date></term>
+<term><date when="1887-06-27">June 27, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Seavey, James</term>
-<term>Ledgerwood, W.E.</term>
-<term>Brown, George</term>
-<term>Brown, Alexander</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -99,33 +94,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Brown, Nicholas</persName>
+<persName></persName>
+</person>
+<person role="petitioner">
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Brown, Olive</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Peterson, Fred H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the Third Judicial District holding terms at Seattle</orgName>
-<placeName>King County</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2021-07" who="#jf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,43 +132,54 @@
 
 <body>  
 
-<p>In the District Court
-holding terms at Seattle</p>
+<p>Territory of Washington } ss
+County of King</p>
 
-<p>In the matter of
-Alexander Brown +
-George Brown infants
-by their father Nicholas Brown
-for a Writ of Habeas Corpus
-"</p>
 
-<p>Comes now this 23rd day of
-May 1887, Fred H. Peterson allowing
-for said petitioners and moves
-this Honorable Court to
-dismiss the above proceedings
-at petitioners costs,
-Wherefor, it is considered
-ordered and adjudged that the above
-proceedings be dismissed
-at the costs of said petitioners</p>
+<p>Gustave Gunderson being
+first duly sworn, on aoth says: That he is the petitioner
+in the above entitled action; that he has heard the
+foregoing petition read, knows the contents thereof, and believes the same to be true:
+<del>that he makes this affidavit because</del></p>
 
-<p>Dated at Seattle May 23, 1887</p>
+<p>Gustave Gunderson
+Subscribed and sworn to before me this 27th
+day of June 1887</p>
+
+B.J. Talliman///
+Notary Public in and for King County, Washington Territory
 
 <pb></pb>
 
-<p>No. 5342</p>
+<p>No. 5402</p>
 
-<p><unclear></unclear> to
-dismiss</p>
+<p>In the District Court, Third
+Judicial District, holding terms at
+Seattle, W.T.</p>
+
+<p>Gustave Gunderson
+Petitioner</p>
+
+<p><del>Plaintiff
+vs
+Defendant</del></p>
+
+<p>Petition</p>
+
+<p><del>Filed 188_
+Clerk.
+By  Deputy.</del></p>
 
 <p>FILED
-MAY 23, 1887
-James Seavey, Clerk.</p>
-
-<p>By. W.E. Ledgerwood,
+JUN 27, 1887
+James Seavey, Clerk.
+By W.E. Ledgerwood,
 Deputy Clerk.</p>
 
+BURKE &amp; HALLER.
+Attorneys for
+
+<pb></pb>
                
 <div1 type="case">
 

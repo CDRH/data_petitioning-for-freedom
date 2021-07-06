@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Nicholas Brown v. Olive Brown. Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0422.001</idno>
+<idno type="project">hc.case.0422.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Nicholas Brown v. Olive Brown. Writ</title>
+<date when="1887-05-17">May 17, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,11 +79,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-05-17">May 17, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Seavey, James</term>
+<term>Ledgerwood, W.E.</term>
+<term>Brown, George</term>
+<term>Brown, Alexander</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,29 +98,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="petitioner">
-<persName></persName>
+<persName>Brown, Nicholas</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Brown, Olive</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Peterson, Fred H.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District holding terms at Seattle</orgName>
+<placeName>King County</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,7 +133,59 @@
 
 <body>  
 
+<p>Territory of Washington } ss.
+County of King</p>
 
+<p>Nicholas Brown
+being first duly sworn on
+oath says that he is the
+Nicholas Brown named in
+the foregoing petition: that
+he has read the foregoing
+petition and knows the contents
+thereof and that the statements
+therein are true.</p>
+
+<p>That he is the father of <del>petitioners</del>
+infant children <add>petitioners</add> and makes this
+affidavit in their behalf</p>
+
+<p>Subscribed + sworn to
+before me this 17th
+day of May 1887</p>
+
+<p>Fred H. Peterson
+Notary Public
+Wash. Terry.</p>
+
+<p>Nicholas <add>his mark.</add>Brown</p>
+
+<p>In presence of
+Louis <unclear></unclear></p>
+
+<pb></pb>
+
+<p>In District Court
+at Seattle $5.00
+No. 5342</p>
+
+<p>In the matter
+of the application
+of Alexander Brown
++ George Brown
+infants by their
+father Nicholas
+Brown for a
+Writ of Habeas Corpus</p>
+
+<p>FILED
+MAY 17 1887
+James Seavey, Clerk.
+By W.E. Ledgerwood,
+Deputy Clerk.</p>
+
+<p>Fred H. Peterson
+Atty. for Petitioner</p>
                
 <div1 type="case">
 
