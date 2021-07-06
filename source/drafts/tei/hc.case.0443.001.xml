@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0445.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0443.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Howard McMillen v. O. D. Butterfield. Chief of Police Message</title>
+<title>Thomas Allen v. John H. McGraw. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0445.002</idno>
+<idno type="project">hc.case.0443.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Howard McMillen v. O. D. Butterfield. Chief of Police Message</title>
-<date when="1889-05-09">May 9th, 1889</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1891">1891</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives</repository>
-<collection>King Frontier Justice</collection>
-<idno>Case No 6776</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,14 +80,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-05">May 1889</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Mackay, John W.</term>
-<term>Van Horne, W. C.</term>
-<term>Hosmer, Chas R.</term>
-<term>Storror, L. W.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -98,7 +96,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>McMillen, Howard</persName>
+<persName></persName>
 </person>
 <person role="petitioner">
 <persName></persName>
@@ -119,8 +117,8 @@
             
 <listOrg>
 <org>
-<orgName>King County</orgName>
-<placeName>Seattle, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,29 +138,12 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0445.002"/>
+
+<pb facs="hc.case.0443.001"/>
 <p>
-<figure></figure>PACIFIC POSTAL TELEGRAPH-CABLE CO In connection with the Commercial Mackay-Bennett CABLES
-
-Errors can be guarded against only by repeating a message back to the sending <unclear>station for</unclear> comparison, and the Company will not hold itself liable for errors or delays in transmission or delivery at UNREPEATED MESSAGES, beyond the amount of tolls paid thereon; xer in any case whee the <unclear>claim is not presented</unclear> in writing within sixty days after sending the message. 
-    This is an UNREPEATED MESSAGE, and is delivered by request of the sender under the conditions named above. 
-    JOHN W. MACKAY, President.          CHAS. R. HOSMER, Gen'l Manager.
-    W. C. VAN HORNE, Vice-President.    L. W. STORROR, Superintendent.
-NUMBER  SENT BY    EXPD BY      CHECK
-12 po      0         12         9 <unclear>pacs</unclear>
+FILE
+No. 6739
 </p>
-<p>
-Van Louven Be 9     Rec'd at  SEATTLE W. Ha
-To Chief Police        May 9 1889
-
-Will have on Premier today with witnesses to prosecute
-
-        Chief of Police
-</p>
-
-
-
-
 
 </div1>
     
