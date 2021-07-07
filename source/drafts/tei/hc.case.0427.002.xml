@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0472.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0472.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
+<date when="1887-10-15">October 15, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-10-15">October 15, 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Emery, C.D.</term>
+<term>Rochester, Junius</term>
+<term>Ledgerwood, W.E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>King County</term>
+<term>Kitsap County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Brown, Thomas S.</persName>
+</person>
+<person role="petitioner">
+<persName>Geods, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Downing, George</persName>
+</person>
+<person role="petitioner">
+<persName>Schubard, Chas.</persName>
+</person>
+<person role="petitioner">
+<persName>Young, C.J.</persName>
+</person>
+<person role="petitioner">
+<persName>Wegner, Peter J.</persName>
+</person>
+<person role="defendant">
+<persName>Hamilton, Thomas Jefferson</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hunday, Charles F.</persName>
+</person>
+<person role="judge">
+<persName>Richard A. Jones</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District of Washington Territory</orgName> 
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>IN THE DISTRICT COURT OF THE THIRD JUDICAL DISTRICT OF WASHINGTON 
+TERRITORY, HOLDING TERMS AT SEATTLE.</p>
+
+<p>In the matter of the application
+of Thomas S. Brown, G. Geods, George        No. 5267
+Downing, Chas. Schubard, Carl Jong          PETITION
+Matson named in the process as
+C.J. Young and Peter J. Wegner for
+a Writ of Habeas Corpus and discharge.</p>
+
+
+<p>TO THE HON. RICHARD A. JONES, JUDGE OF THE ABOVE STYLED COURT: </p>
+
+<p>Your petitioner Junius Rochester petitions the Court and says -
+That in this petition he appears in behalf of and as the agent of
+Thomas S. Brown, G. Geods, George Downing, Chas. Schubard, Carl Jong Matson
+named in the processes as C.J. Young and Peter J. Wegner.</p>
+
+<p>II
+That the said persons above named <add>were</add> defendants in cases of the
+United States against them before Hon. C.D. Emery, United States Commissioner
+at Seattle in King County, with jurisdiction to hear and try certain
+causes at law</p>
+
+<p>III
+That the above named persons are and each of them is illegaly,
+wrongfully and without any authority of law restrained of his liberty
+by Thomas Jefferson Hamilton United States Marshal for Washington
+Territory, at McNeils Island at the United States Penitentiary in the
+County of Washington Territory</p>
+
+<p>IV
+That the cause and pretense of the restraint of the liberty of
+said persons and each of them is the alleged commission of acts which
+are in no wise a violation of any law of the United States or of the
+Territory of Washington, and which constitutes no crime, misdemeanor or
+offense whatever.</p>
+
+<p>V
+That the illegality of the restraint herein complained of consists
+in the wrongful, unlawful and unwarranted detention of each of said
+persons named herein as detained by the said Hamilton upon an alleged
+commitment issued by C.D. Emery as aforesaid, which charges no offense
+against the laws of the United States or Territory of Washington, and</p>
+
+<pb></pb>
+
+<p>your petitioner further says, that the recitals in said commitments and
+in each of them, upon which the said Hamilton holds the said persons
+shows that there has been no crime or offense committed by said persons
+or either of them, and that the acts with which they and each of them is
+charged do no constitute any offense against the laws of the United
+States or Washington Territory, or any crime, misdemeanor or offese
+whatever: that the several commitments in the case of each of said
+persons are identical except the names of several defedants
+are different in each: a true and exact copy of one of said commitments,
+to wit: commitment in the case of Thomas S. Brown upon which said
+Thomas S. Brown is held as aforesaid, and which is the sole and only
+authority of the said Hamilton for detaining the siad persons or any
+of them, is hereto annexed as part hereof and made a part of this
+petition [marked exhibit A] and petitioner further says that the only
+offense charged against the said Thomas S. Brown or against any of
+said persons herein named is unlawfully restrained of their liberty,
+is that each "of said persons" on or about the 10th day of October
+1887, in the Territory aforesaid, disobeyed the orders of the Master of
+the American ship Ivanhoe".</p>
+
+<p>Petitioner says that there is no other or further cause for 
+such detention save as above stated:</p>
+
+<p>Wherefore your petitioner prays your Honor to grant unto the said 
+Thomas S. Brown, G. Geods, Gerorge Downing, Chas. Schubarb, Carl Jong Matson
+named in the processes as C.J. Young and Peter J. Wegner a Writ of Habeas
+Corpus commanding and ordering the said Thomas Jefferson Hamilton to
+produce before your Honor at such time and place as your Honor deems 
+wise and meet the bodies of the said Thomas S. Brown, G. Geods, George 
+Downing, Chas. Schubarb, Carl Jong Matson named in the processes as
+C.J Young and  Peter J. Wegner, and that your Honor will hear and determine
+whether they are or either of them is illegally detained or restrained
+of his liberty and that they and each of them be discharged and
+permitted to go their way without further delay detention, </p>
+
+<p>Metcalfe + Rochester          Junius Rochester
+Lewis + Gilman                  Petitioner and
+attys for plff + petitoner      on behalf of plaintiffs</p>
+
+<pb></pb>
+
+<p>TERRITORY OF WASHINGTON 
+COUNTY OF KING
+------------------ - S. S. </p>
+
+<p>PERSONALLY APPEARED BEFORE ME JUNIUS ROCHESTER 
+WHO UPON OATH DEPOSES AND SAYS THAT HE APPEARS HEREIN UPON THE
+HALF AND AS THE AGENT OF THOMAS S. BROW., G. GEODS GEORGE DOWNING,
+CHARLES SCHUBARD, CARL JOHN MATSON KNOWS AS C.J. YOUNG AND
+PETER J. WEGENER, THAT HE IS THE PETITION ON THEIR BEHALF NAMED
+HEREIN AND IN THE AFORESAID AND HEREIN PETITOIN, THAT HE HAS READ
+THE SAID PETITION AND KNOWS THE CONETENTS THEREOF AND BELEIVES 
+THE SAME TO BE TRUE. </p>
+
+<p>Junius Rochester
+
+   SWORN  TO AND SUVSCRIBED
+BEFORE ME THIS 15TH. DAY OF OCTOBER 1887.</p>
+
+<p><unclear>Jacob Mctrafe</unclear>
+Notary Public in and for
+Washington Territory</p>
+
+<pb></pb>
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

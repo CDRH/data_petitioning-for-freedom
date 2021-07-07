@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0425.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0427.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William W. Tinkham v. Jasper Gates. Habeas Corpus</title>
+<title>Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0425.001</idno>
+<idno type="project">hc.case.0427.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William W. Tinkham v. Jasper Gates. Type of document</title>
-<date when="1887-09-14">September 14, 1887</date>
+<title level="m" type="main">Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
+<date when="1887-10-15">October 15, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,13 +79,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-09-14">September 14, 1887</date></term>
-</keywords>
-    
-<keywords scheme="lcsh" n="people">
-<term>Ledgerwood, W.E.</term>
+<term><date when="1887-10-15">October 15, 1887</date></term>
 </keywords>
 
+<keywords scheme="lcsh" n="people">
+<term>Ledgerwood, W.E.</term>
+<term>Rochester, Junius</term>
+</keywords>
+    
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
 <term>King County</term>
@@ -95,28 +96,43 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Tinkham, William W.</persName>
+<persName>Brown, Thomas S.</persName>
+</person>
+<person role="petitioner">
+<persName>Geods, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Downing, George</persName>
+</person>
+<person role="petitioner">
+<persName>Schubard, Chas.</persName>
+</person>
+<person role="petitioner">
+<persName>Young, C.J.</persName>
+</person>
+<person role="petitioner">
+<persName>Wegner, Peter J.</persName>
 </person>
 <person role="defendant">
-<persName>Gates, Jasper</persName>
+<persName>Hamilton, Thomas Jefferson</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Hunday, Charles F.</persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName>Richard A. Jones</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Third Judicial District of Washington Territory, holding Terms at Seattle</orgName>
-<placeName>King County</placeName>
+<orgName>Third Judicial District of Washington Territory</orgName> 
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,62 +148,49 @@
 
 <body>  
 
-<p>FILE
-No.5524</p>
+<p>IN THE MATTER OF THE APPLICATION OF
+THOMAS S. BROWN ET AL.
+FOR A WRIT OF HABEAS CORPUS ETC.</p>
+
+<p>N. 511</p>
+
+<p>Upon reading the petition of Junius Rochester who petitions
+upon the behalf and as the agent of Thomas S. Brown, G. Geods
+George Downing Charles Schubard Carl John Matson known as C.J.
+Young and Peter J. Wegner praying for a Writ of Habeas Corpus
+for the reasons and causes named therein and complained therein
+and the court being fully advised in the premises and the
+petitioner ever praying now it is ordered that the said Writ of
+Habeas Corpus issue directed to T.J. Hamilton Marshal of
+Washington Territory commanding him to produce the bodies of Thomas
+S. Brown, G. Geods George Downing Charles Schubard Carl John
+Matson (known as C.J. Young) and Peter J. Wegner before me at
+the District Court Room in the city of Seattle W.T. at the hour
+of 2 o'clock in the afternoon of the 17th day of October
+A.D. 1887. That then and there I may enquire in the causes
+complained of and say if the said petioners are so illegaly restrained
+as complained, and that I may do and direct as proper in
+the premises, and the clerk of the herein named court is ordered
+to issue the herein named writ.
+Done at Seattle W.T. October 15th 1887.</p>
+
+<p>R.A. Jones
+Judge</p>
 
 <pb></pb>
 
-<p>IN THE DISTRICT COURT,
-Of the Third Judicial District of Washington Territory, holding
-Terms at Seattle, for the Counties of King and Kitsap.</p>
+<p>no 5367
 
-<p>HABEAS CORPUS.</p>
+In the matter of
+the application
+of Thomas S Brown
+et al for a
+Writ of Habeas
+Corpus </p>
 
-<p>The People of the United States of America, to the Sheriff
-of King County Greeting:</p>
-
-<p>We command you, that you have the body of William W. Tinkham
-by you imprisoned and detained as it is said, together with the time and cause of such
-imprisonment and detention, by whatsoever name said Wiliam W. Tinkham
-shall be called or charged, before the HON. <del>Roger S. Greene</del>
-<add>R.A. Jones</add>, Judge of the aforesaid Court at
-the hour of 2 o'clock P.M. on the 14th day of
-Sept 1887, at the Court Room in Seattle W.T.
-to do and receive what shall then and there be considered concerning the said
-William W. Tinkham
-And have you then and there this writ.</p>
-
-<p>WITNESS THE HON. R.A. Jones, Judge of said
-District Court, and the seal thereof this 14th day
-of Sept A.D. 1887</p>
-
-<p><del>James Seavey, Clerk.</del></p>
-
-<p>W.E. Ledgerwood, 
-Clerk.</p>
-
-<pb></pb>
-
-<p>5324</p>
-
-<p>Writ of Habeas
-Corpus</p>
-
-<p>Filed Sept. 14th, 1887
+<p>Filed on 17/87
 W.E. Ledgerwood,
-Clerk
-By <unclear>Harvey Hannon</unclear>,
-Deputy</p>
-
-<p>Service of the within writ
-acknowledged the 14th day
-of Sept 1887 <unclear></unclear> Seattle
-King County W.T.</p>
-
-<p>Jasper Gates</p>
-
-<p>Witness
-<unclear></unclear> Haller</p>
+Clerk</p>
 
 <pb></pb>
                

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0425.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0427.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William W. Tinkham v. Jasper Gates. Habeas Corpus</title>
+<title>Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0425.001</idno>
+<idno type="project">hc.case.0427.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William W. Tinkham v. Jasper Gates. Type of document</title>
-<date when="1887-09-14">September 14, 1887</date>
+<title level="m" type="main">Thomas S. Brown and et al. v. Thomas Jefferson Hamilton. Writ of Habeas Corpus</title>
+<date when="1887-10-17">October 17, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-09-14">September 14, 1887</date></term>
+<term><date when="1887-10-17">October 17, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -95,28 +95,43 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Tinkham, William W.</persName>
+<persName>Brown, Thomas S.</persName>
+</person>
+<person role="petitioner">
+<persName>Geods, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Downing, George</persName>
+</person>
+<person role="petitioner">
+<persName>Schubard, Chas.</persName>
+</person>
+<person role="petitioner">
+<persName>Young, C.J.</persName>
+</person>
+<person role="petitioner">
+<persName>Wegner, Peter J.</persName>
 </person>
 <person role="defendant">
-<persName>Gates, Jasper</persName>
+<persName>Hamilton, Thomas Jefferson</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Hunday, Charles F.</persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName>Richard A. Jones</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Third Judicial District of Washington Territory, holding Terms at Seattle</orgName>
-<placeName>King County</placeName>
+<orgName>Third Judicial District of Washington Territory</orgName> 
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,64 +147,64 @@
 
 <body>  
 
-<p>FILE
-No.5524</p>
+<ab>IN THE DISTRICT COURT,
 
-<pb></pb>
-
-<p>IN THE DISTRICT COURT,
 Of the Third Judicial District of Washington Territory, holding
-Terms at Seattle, for the Counties of King and Kitsap.</p>
+Terms at Seattle, for the Counties of King and Kitsap.</ab>
 
-<p>HABEAS CORPUS.</p>
+<ab>HABEAS CORPUS.</ab>
 
-<p>The People of the United States of America, to the Sheriff
-of King County Greeting:</p>
+<p>The People of the United States of America, to the marshall
+of Washington Territory Greeting:</p>
 
-<p>We command you, that you have the body of William W. Tinkham
+<p>We command you, that you have the bodys of Thomas S Brown, G Geods, Geo Downing,
+Charles Schubard, Carl Jong Matson (known as C.J. Young) + Peter J Wegner
 by you imprisoned and detained as it is said, together with the time and cause of such
-imprisonment and detention, by whatsoever name said Wiliam W. Tinkham
-shall be called or charged, before the HON. <del>Roger S. Greene</del>
-<add>R.A. Jones</add>, Judge of the aforesaid Court at
-the hour of 2 o'clock P.M. on the 14th day of
-Sept 1887, at the Court Room in Seattle W.T.
-to do and receive what shall then and there be considered concerning the said
-William W. Tinkham
-And have you then and there this writ.</p>
+imprisonment and detention, by whatsoever name said Thomas S Brown, G Geods, Geo Dowing,
+Charles Schubard, Carl Jong Matson (known as C.J. Young) + Peter J Wegner
+shall be called or charged, before the <del>Roger S. Greene</del>
+<add>HON. R.A. Jones</add>, Judge of the aforesaid Court at 
+the District Court Room, in the city of Seattle W.T.
+at the hour of two o'clock in the afternoon of the
+17th day of October AD 1887
+to do and receive what shall then and there be considered concerning the said Thomas S. Brown
+G Geods, George Downing, Chas Schubard, Carl Jong Matson (known
+as C.J. Young) + Peter J Wegner
+And have you then there this writ.</p>
 
-<p>WITNESS THE HON. R.A. Jones, Judge of said
-District Court, and the seal thereof this 14th day
-of Sept A.D. 1887</p>
+<p>WITNESS THE HON RICHARD JONES Judge of said
+District Court, and the seal thereof this 17th day 
+of Oct A.D. 1887
+W.E. Ledgerwood, Clerk.</p>
 
-<p><del>James Seavey, Clerk.</del></p>
-
-<p>W.E. Ledgerwood, 
-Clerk.</p>
-
-<pb></pb>
-
-<p>5324</p>
-
-<p>Writ of Habeas
-Corpus</p>
-
-<p>Filed Sept. 14th, 1887
-W.E. Ledgerwood,
-Clerk
-By <unclear>Harvey Hannon</unclear>,
-Deputy</p>
-
-<p>Service of the within writ
-acknowledged the 14th day
-of Sept 1887 <unclear></unclear> Seattle
-King County W.T.</p>
-
-<p>Jasper Gates</p>
-
-<p>Witness
-<unclear></unclear> Haller</p>
+<p><del>James Seavey, Clerk.
+By........................Deputy</del></p>
 
 <pb></pb>
+
+<p>No 5567</p>
+
+<p>Writ of 
+Habeaus Corpus </p>
+
+<p>Oct 17/87
+W.E. Ledgerwood</p>
+
+<p>United States of America  } ss.
+Territory of Washington</p>
+
+<p>I T.J. Hamilton U.S. Marshall for Washington Territory
+do hereby certify that as within commanded, I have now here before
+the Hon. R.A. Jones, Judge of the within entitled Court the bodies of
+the within named Thos. S. Brown, G Geod, Geo. Downing, Chas. Schubard, Carl
+Jong Matson (known as C.J. Young) and Peter J Wegner, amd each of them,
+together with the time and cause of their imprisonment.</p>
+
+<p>Seattle W.T. Oct 17 1887 2 o'clock p.m.</p>
+
+<p>T.J. Hamilton U.S. Marshal
+by <unclear>M.L. Hamilton</unclear>, Deputy</p>
+
                
 <div1 type="case">
 
