@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0424.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0425.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles W. Sawyer v. T.J. Hamilton. Application for Writ of Habeas Corpus</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0424.004</idno>
+<idno type="project">hc.case.0425.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,10 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles W. Sawyer v. T.J. Hamilton. Application for 
-
-Writ of Habeas Corpus</title>
-<date when="1887-07">July 1887</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1887-09-14">September 14, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -81,19 +78,15 @@ Writ of Habeas Corpus</title>
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-07">July 1887</date></term>
+<term><date when="1887-09-14">September 14, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ledgerwood, W.E.</term>
-<term>Seavey, James</term>
-<term>Ludlow, William L.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
-<term>Kitsap County</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -101,26 +94,26 @@ Writ of Habeas Corpus</title>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Sawyer, Charles W.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Hamilton, T.J.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Lewis + Gilman</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the 3rd Judicial District of Washington</orgName>
-<placeName>King County</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -136,89 +129,62 @@ Writ of Habeas Corpus</title>
 
 <body>  
 
-<p>Of the Third Judicial District of Washington Territory,
-holding terms at Seattle, for the Counties of King and Kitsap.</p>
+FILE
+No.5524
 
-<p>HABEAS CORPUS.</p>
+<pb></pb>
 
-<p>The people of the United States of America, to the
-<del>Sheriff of King County</del>
-<add>U.S. Marshal of Washington Territory</add> Greeting:</p>
+IN THE DISTRICT COURT,
+Of the Third Judicial District of Washington Territory, holding
+Terms at Seattle, for the Counties of King and Kitsap.
 
-<p>We command you, that you have the body of Chas W. Sawyer
+HABEAS CORPUS.
+
+The People of the United States of America, to the Sheriff
+of King County Greeting:
+
+We command you, that you have the body of William W. Tinkham
 by you imprisoned and detained as it is said, together with the time and cause of such
-imprisonment and detention, by whatsoever name said Chas. W. Sawyer
+imprisonment and detention, by whatsoever name said Wiliam W. Tinkham
 shall be called or charged, before the HON. <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of the aforesaid Court at
-Seattle King County Washington Territory at Chambers
-in the Court House in said Seattle on Thursday the 14th day
-of July, 1887 at 2 o'clock P.M. of that day
+<add>R.A. Jones</add>, Judge of the aforesaid Court at
+the hour of 2 o'clock P.M. on the 14th day of
+Sept 1887, at the Court Room in Seattle W.T.
 to do and receive what shall then and there be considered concerning the said
-Chas. W. Sawyer.</p>
+William W. Tinkham
+And have you then and there this writ.
 
-<p>And have you then and there this writ.</p>
+WITNESS THE HON. R.A. Jones, Judge of said
+District Court, and the seal thereof this 14th day
+of Sept A.D. 1887
 
-<p>WITNESS THE HON <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of said
-District Court, and the seal thereof this 13th day
-of July A.D. 1887</p>
+<del>James Seavey, Clerk.</del>
 
-<p>James Seavey, Clerk.
-By William L. Ludlow, Deputy</p>
-
-<p>(Court Seal)</p>
+W.E. Ledgerwood, 
+Clerk.
 
 <pb></pb>
 
-<p>4525</p>
+5324
 
-<p>District Court
-Seattle -</p>
+Writ of Habeas
+Corpus
 
-<p>Application of
-George W. Sawyer
-for Writ of Habeas
-Corpus</p>
+Filed Sept. 14th, 1887
+W.E. Ledgerwood,
+Clerk
+By Harvey Hannon,
+Deputy
 
-<p>Writ of Habeas Corpus
-Petition</p>
+Service of the within writ
+acknowledged the 14th day
+of Sept 1887 <unclear></unclear> Seattle
+King County W.T.
 
-<p>FILED
-Jul 14 1887
-James Seavey, Clerk.
-By. W.E. Ledgerwood,
-Deputy Clerk.</p>
+Jasper Gates
 
-<p>Lewis + Gilman
-attys for petitioner</p>
-
-<pb></pb>
-
-<p>United States of America
-Territory of Washington</p>
-
-<p>To the Honorable Richard A. Jones, Judge of
-the District Court of the Third Judicial District of Washington
-Territory, holding Terms at Seattle, for the counties of King
-and Katsip:</p>
-
-<p>I T.J. Hamilton U.S. Marshal for Washington Territory
-to whom the within writ is directed, have now here before
-your honor the body of Charles W. Sawyer therein named
-together with the time and cause of the imprisonment of said
-Charles W. Sawyer, therein named, as thereby commanded</p>
-
-<p>Dated this 14th day of
-July A.D. 1887</p>
-
-<p>T.J. Hamilton
-U.S. Marshal for Washington Territory
-by <unclear>T.W. Goodhire</unclear>,
-Deputy</p>
-
-<p>No. 5425</p>
-
-<pb></pb>
+Witness
+/// Haller
                
 <div1 type="case">
 
