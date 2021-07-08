@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0427.001"> <!-- replace with number from spreadsheet -->
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0426.006">
+    
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas Reddington and Patrick Gallagher v. William Cochrane. Case File Data Entry Form</title> 
+<title>Thomas Reddington and Patrick Gallagher v. William Cochrane. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -38,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0427.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0426.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas Reddington and Patrick Gallagher v. William Cochrane. Case File Data Entry Form</title><!-- replace with name of case; type of document -->
-<date when="1887-09">September 1887</date>
-<note type="project">Our transcription is based on a digital image.</note> 
+<title level="m" type="main">Thomas Reddington and Patrick Gallagher v. William Cochrane. Habeas Corpus</title>
+<date when="1887-09-29">September 29, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -81,11 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-09"></date></term>
+<term><date when="1887-09-29">September 29, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ledgerwood, W.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,7 +94,7 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
 <persName>Reddington, Thomas</persName>
 </person>
@@ -104,7 +102,7 @@
 <persName>Gallagher, Patrick</persName>
 </person>
 <person role="defendant">
-<persName>Cochrane, William</persName>
+<persName>William Cochrane</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -127,8 +125,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">Grace A. Rittscher.</change>
-<change when="2021" who="#jlf">Jacky Leon-Flores.</change> 
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,54 +133,56 @@
 <text>
 
 <body>  
+
+<p>IN THE DISTRICT COURT,
+Of the Third Judicial District of Washington Territory, holding
+Terms at Seattle, for the Couties of King and Kitsap.</p>
+
+<p>HABEAS CORPUS.</p>
+
+<p>The People of the United States of America, to the Sheriff
+of King County Greeting:</p>
+
+<p>We command you, that you have the body of Thomas Reddington + Patrick Gallagher
+by you imprisoned and detained as it is said, together with the time and cause of such
+imprisonment and detention, by whatsoever name said Thomas Reddington + Patrick Gallagher
+shall be called or charged, before the Hon. <del>Roger S. Greene</del>
+<add>R.A. Jones</add>, Judge of the aforesaid Court at
+the Court Room of saif court at Seattle in the
+Territory of Washington on the 30th day of September 1887 at
+the hour of two o'clock A.M.
+to do and receive what shall then and there be considered concerning     the said Thomas
+Reddington and Patrick Gallagher
+And have you then and there this writ.</p>
+
+<p>WITNESS THE HON. R.A. Jones, Judge of said
+District Court, and the seal thereof this 29th day
+of Sept. A.D. 1887</p>
+
+<p>W.E. Ledgerwood, Clerk.</p>
+
+<pb></pb>
+
+<p>No. 5549</p>
+
+<p>In the Thomas Reddington
+and     Gallagher
+application for writ
+of Habeas Corpus</p>
+
+<p>Writ of Habeas Corpus</p>
+
+<p>FILED SEP 29
+W.E. Ledgerwood</p>
+
+<pb></pb>
                
 <div1 type="case">
 
-<pb facs="hc.case.0427.001"/> 
+<pb/>
 
-
-<fw type="footer"> &amp;</fw>
-
-<p>FILE
-No. 5549</p>
-
-<pb></pb>
-
-<p>KING   1887
-COUNTY DATE</p>
-
-<p>TERRITORIAL COURT PROJECT
-CASE FILE DATA ENTRY FORM</p>
-
-<p>
-000 CONTROL NUMBER              120 ACCESS CODE
-    KING            _____/ 3     _ _ _  _ _ _ _
-140 CASE NUMBER                 200 DATE
-    5549                            1887
-36X NAME OF PLAINTIFF(S):
-
-37X NAME OF DEFENDANT(S):
-
-38X PROBATE CASE NAME(S):
-
-39X SUBJECT(S):
-    Habeas Corpus, Writ
-
-401 SEX OF DEFENDANT IN CRIMINAL CASE   410 TYPE OF CASE    420 DECISION OF COURT
-                                            Misc.
-700 COUNTY CODE                         711 TYPE
-    _ _ _                                   _ _ _ (PRO, CIV, ADM. EQU)
-90X DESCRIPTION
-        Application of Thomas Breddington and
-        Patrick Galligher for a Writ
-        of Habeas Corpus
-
-910 LOCATION {BOX NUMBER, REEL NUMBER}</p>
-
-<pb></pb>
 
 </div1>
-
     
 </body>
 </text>
