@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0443.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0430.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas Allen v. John H. McGraw. Judge Statement</title>
+<title>Henry Carlton v. William Cochrane. Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0447.007</idno>
+<idno type="project">hc.case.0430.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas Allen v. John H. McGraw. Judge Statement</title>
-<date when="1889-04-19">April 19th, 1889</date>
+<title level="m" type="main">Henry Carlton v. William Cochrane. Commitment</title>
+<date when="1888-04-24">April 24, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives</repository>
-<collection>King Frontier Justice</collection>
-<idno>Case No 6739</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-04">April 1889</date></term>
+<term><date when="1888-04-24">April 24, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Newlin, W. W.</term>
+<term>Thornton, H.G.</term>
+<term>Soderberg, N.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -94,25 +96,25 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Allen, Thomas</persName>
+<persName>Carlton, Henry</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Million, W. C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Hanford, Cornelius H.</persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>King County</orgName>
+<orgName>District Court of the Third Judicial District of Washington Territory</orgName>
 <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
@@ -120,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#brh">transcribed and encoded</change>
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,35 +131,77 @@
 
 <body>  
 
+<p>In the Justice Court before N. Soderberg, Justice
+of the Peace in and for Seattle Precinct
+King County, W.T.</p>
 
+<p>Territory of Washington     Plaintiff
+vs.
+Henry Carlton               Defendant</p>
+
+<p>Commitment</p>
+
+<p>United States of America
+Territory of Washington     }ss
+County of King</p>
+
+<p>I, H.G. Thornton Contable of said Precinct
+and the Keeper of the jail of said King
+County.</p>
+
+<p>Whereas at the Justices Court held at
+my office in said King County for the
+trial of Henry Carlton for the offense here
+inafter stated the said Henry Carlton
+was convicted of having on the 13th day of
+April 1888 committed the crime of vagrancy
+by wilfully and unlawfully pursuing
+the business of gambling as a common
+gamester and upon conviction the said
+court did adjudge and determine
+that said Henry Carlton should pay
+the costs herein taxed at $40.00 and
+stand committed for 13 days or until
+the same be paid and should give a bond
+or recognizance to the Territory of Washington
+with two sufficient sureties in the sum</p>
+
+<pb></pb>
+
+<p>of Two Hundred and fifty Dollars for
+his good behavior for 3 months from
+April 14th 1888 the date of the judgement
+herein and whereas said Henry Carlton
+has failed to pay said costs and
+has failed to give or furnish said
+or any bond or recognizance as in
+said judgement required</p>
+
+<p>Therefor you the said H.G. Thornton
+are hereby commanded in the name
+of the United States forthwith to convey
+and deliver the said Henry Carlton
+to the said Keeper and you the said
+Keeper are hereby commanded to receive
+the said Henry Carlton into your custody
+in said Jail and him there keep until
+he shall thence be discharged by due
+course of law.</p>
+
+<p>Dated this 24th day of April 1888
+N. Soderberg
+Justice of the Peace</p>
+
+<p>Endorsed- 541
+Territory of Washington vs Henry Carlton
+Commitment</p>
+
+<pb></pb>
                
 <div1 type="case">
 
-<pb facs="hc.case.0443.007"/>
-<p>
-In Dist Court of 3rd District holding terms at Seattle
-In the Matter of the application of Theo Allen for writ of Habeas Corpus
-</p>
-<p>
-And werein Court on this 19th day of April this cause comes on for having. Prosecuting attorney W. W. <unclear>Newlin</unclear> present &amp; inform dont presecit in person &amp; by E. C. Million comised
- The Court being fully advised in the provinces services the which and orders the <del>defendant</del> Petitioner Thos Allen remanded to the Jail of King County
-        C H Hanford
-            Judge
-</p>
-<pb></pb>
-<p>
-A CRO 6739 E
-In the
-Matter of the
-Application
-of Thos Allen
-"R"227
+<pb/>
 
-FILED
-APR 19 1889
-W. E Ledgerwood
-    Clerk.
-</p>
 
 </div1>
     
