@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0443.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0443.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas Allen v. John H. McGraw. Order Granting Writ</title>
+<title>Thomas Allen v. John H. McGraw. Committment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0443.003</idno>
+<idno type="project">hc.case.0443.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas Allen v. John H. McGraw. Order Granting Writ</title>
-<date when="1889-04-18">April 18th, 1889</date>
+<title level="m" type="main">Thomas Allen v. John H. McGraw. Committment</title>
+<date when="1889-02-01">February 1st, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,11 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1889-02">February 1889</date></term>
+<term><date when="11889-02">February 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ledgerwood, W. E.</term>
+<term>Caldwell, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,7 +107,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Hanford, Cornelius H.</persName>
+<persName>Jones, H. F.</persName>
 </person>
 </listPerson>
             
@@ -134,30 +134,32 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0443.003"/>
-<p>
-District Court of the Third Judicial District holding terms at Seattle
-    In the Matter of the Application of
-    Thos. Allen for writ of Habeas Corpus.
-And now upon this 18 day of April 1889 while in chambers it appearing to me that this is sufficient cause to grant a writ of Habeas Corpus for Thos Allen. It is hereby ordered by me that said writ be allowed <add>as prayed</add> returnable at 10 o clock A. M. on April the 19th 1889.
-Wriliones my hand this 18 day of April A. D. 1889
 
-    C. H. Hanford
-Jude of the Third Judicial District Court of Washington Ter.
+<pb facs="hc.case.0443.004"/>
+<p>
+United States of America.
+
+Territory of Washington,
+    County of King.         ss.
+
+To the Sheriff of any Constable and the Keeper of the Jail of said King County:
+    Wheras, At a Justice's Court held at my office in said County for the examination of Thos Allen the said being charged with the crime of Burglary <del>and said examination having been continued until     day of  188</del> and having been adjudged and determined by the Court that there is probable cause to charge Thos Allen defendant herein with the crime of Buglary and that said Thos Allen be held to await the action of the Grand Jury of said King County, and the District Court of the Third Judicial District, holding terms at Seattle, on the first day of the next term thereof, with bail fixed in the sum of 1000 - and, whereas, the said Thos Allen ahas made default in said amount.
+</p>
+<p>
+Therefore, You, the said John Caldwell are hereby commadned in the name of the United States forthwith to convery and deliver the said Thos Allen to the said Keeper; and you, the said Keeper, are hereby commanded to receive the said    into your custody in said jail and him there keep until released by said District Court, or unless said bail be sooner furnished.
+    Dated this 1st day of Feb 1889.
+
+    H. F. Jones     L. S.
+Justice of the Peace, Seattle Precinct, King County, Washington Territory
 </p>
 <pb></pb>
 <p>
-<unclear></unclear>
-"R" 223.
-
-FILED
-APR 18 1889
-W E Ledgerwood
-    Clerk
-By      Deputy Clerk
+(1057)
+COMMITMENT
+Territory of Washington
+    vs.
+Thos Allen
 </p>
-
-
 
 </div1>
     

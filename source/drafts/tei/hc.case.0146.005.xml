@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Genevive Wilds  v. Territory of Washington. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Genevive Wilds  v. Territory of Washington. Type of document</title>
+<date when="1918">Febuary 15, 1918</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,11 +83,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Wilds, Genevive</term>
+<term>McBride, J.S.</term>
+<term>Childe, Eugene A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,10 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Wilds, Genevive</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
