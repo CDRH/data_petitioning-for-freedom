@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0429.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0430.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Henry Carlton v. William Cochrane. Order granting Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0429.001</idno>
+<idno type="project">hc.case.0430.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Henry Carlton v. William Cochrane. Order granting Writ</title>
+<date when="1888-04-27">April 27, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1888-04-27">April 27, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ledgerwood, W.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -94,10 +96,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Carlton, Henry</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,21 +108,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,29 +131,57 @@
 
 <body>  
 
-FILE
-No. 5899
+<p>FILE
+No. 5930</p>
+
+<p>In the District Court of the Third Judicial District of Washington
+Territory, holding terms at Seattle, King County, Wash. Terr.</p>
+
+<p>In the matter of the application of
+Henry Carlton                           No. 5930
+For a Writ of Habeas Corpus             Order Granting Writ</p>
+
+<p>This cause coming on to be heard upon the Petition of Henry Carlton
+for a Writ of Habeas Corpus, and the Court having read and filed the
+said Petition, and it appearing to the Court therefrom that the said
+Henry Carlton is illegaly imprisoned and restrained of his liberty
+by William Cochrane, sheriff of King County, Washington Territory,
+in the common Jail of said County in the City of Seattle, and it
+appearing from the said petition that a Writ ought to issue, and
+it is considered and ordered by the Court that the Writ of Habeas
+Corpus issue out of this Court, directed to the said Sheriff, commanding
+him to have the body of the said Henry Carlton before me, in the
+Court room of the said Court, on this 27th day of April, 1888, at
+2 o'clock P.M. to do and receive what shall then and there be
+considered concerning the said Henry Carlton: together with the time and
+cause of his detention, and that he then and there have the said writ.</p>
+
+<p>R.A. Jones,
+Judge</p>
+
+<p>Dated at Seattle, on the 27th day of Apr 1888</p>
 
 <pb></pb>
 
-IN THE DISTRICT COURT BEFORE THE HON. R.A. JONES, JUDGE.
+<p>No. 5930</p>
 
-IN THE MATTER OF THE APPLICATION
-OF JULIOUS /// FOR A
-WRIT OF HABEAS CORPUS
+<p>In the District Court, Third
+Judicial District, holding
+terms at _____</p>
 
-PETITION
+<p>In the matter of the
+application of
+Henry Carlton
+for Habeas Corpus</p>
 
-TO THE HONORABLE THE JUDGE OF THE ABOVE ENTITLED COURT: - 
-YOUR PETITIONER COMPLAINS AND STATES
+<p><del>Plaintiff
+vs
+Defendant</del></p>
 
-I.
-That he is a citizen of the United States
-
-II.
-That he is now unlawfully detained and deprived of his liberty
-by the
-
+<p>FILED
+ARL 27 1887
+W.E. Ledgerwood,
+Clerk.</p>
                
 <div1 type="case">
 
