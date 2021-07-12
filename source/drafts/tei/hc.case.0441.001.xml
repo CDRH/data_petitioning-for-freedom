@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Joseph Mifford vs William Cochrane. Petition for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0441.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Joseph Mifford vs William Cochrane. Petition for Writ of Habeas Corpus</title>
+<date when="1889-02-12">February 12th, 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6567</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-02">February 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Glasgow, J. M.</term>
+<term>Glasgow, C. S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
+<term>Ledgerwood, W. E.</term>
 </keywords>
 
 </textClass>
@@ -95,10 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Mifford, Joseph</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -107,21 +109,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Burke, Thomas</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -166,7 +168,7 @@ Your petitioner represents to your honor at the Court. That he is wrongfully ret
 </p>
 <pb></pb>
 <p>
-I, Josephy Mufford on my oath say that I am <unclear>petitioner</unclear> heard and then heard the foregoing petition read over and the deals and delegations therin containing an <unclear></unclear>
+I, Joseph Mifford on my oath say that I am <unclear>petitioner</unclear> heard and then heard the foregoing petition read over and the deals and delegations therin containing an <unclear></unclear>
 Jos L Mufford
 </p>
 <p>
@@ -184,15 +186,15 @@ vs
 William Cochrane
 Shff
 </p>
-<p> Pettion for Writ of Habeas Corpus</p>
+<p> Petition for Writ of Habeas Corpus</p>
 <p>
 FILED
 FEB 14 1889
-W E Ledgewood
+W E Ledgerwood
     Clerk
 By  Deputy Clerk
 
-C. S. Gearson
+C. S. Glasgow
 Petitioner Georgion
 </p>
 
