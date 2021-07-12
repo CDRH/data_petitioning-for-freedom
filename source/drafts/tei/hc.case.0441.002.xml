@@ -51,9 +51,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6567</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -120,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,7 +133,12 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.0441.002"/>
+<p>
+Cochrane by telegram, from Bakersfield Kern County Caly, and that said Cochrane holds the <unclear>petitioner</unclear>
+</p>
+
+
 
 
 </div1>
