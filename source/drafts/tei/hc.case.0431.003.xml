@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Chad F. Reed v. William Cochrane. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Chad F. Reed v. William Cochrane. Writ of Habeas Corpus</title>
+<date when="1888-04-27">April 27, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1888-04-27">April 27, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ledgerwood, W.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -94,10 +96,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Reed, Chad F.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,21 +108,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,7 +131,37 @@
 
 <body>  
 
+<p>IN THE DISTRICT COURT,
+Of the Third Judicial District of Washington Territory, holding
+Terms at Seattle, for the Counties of King and Kitsap.</p>
 
+<p>HABEAS CORPUS.</p>
+
+<p>The People of the United States of America, to the Sheriff
+of King County Greeting:</p>
+
+<p>We command you, that you have the body of C.F. Reed
+by you imprisoned and detained as it is said, together with the time and cause of such
+imprisonment and detention, by whatsoever name said C.F. Reed
+shall be called or charged, before the HON. <del>Roger S. Greene</del>
+<add>R.A. Jones</add>, Judge of the aforesaid Court at
+the Court Room thereof in Seattle on this
+27th day of April 1888 at 2 o'clock P.M.
+to do and receive what shall then and there be considered concerning    the said
+C.F. Reed
+And have you then and there this writ.</p>
+
+<p>WITNESS THE HON. <del>Roger S. Greene</del>
+<add>R.A. Jones</add>, Judge of said
+District Court, and the seal thereof this 27th day
+of April A.D. 1888</p>
+
+<p>W.E. Ledgerwood,
+Clerk</p>
+
+<p>By. <unclear>Cannon</unclear>, Deputy</p>
+
+<pb></pb>
                
 <div1 type="case">
 

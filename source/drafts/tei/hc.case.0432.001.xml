@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0432.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0432.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Smith v. John Coldwell. Order Granting Writ</title>
+<title>Charles Smith v. John Coldwell. Application for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0432.002</idno>
+<idno type="project">hc.case.0432.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles Smith v. John Coldwell. Order Granting Writ</title>
+<title level="m" type="main">Charles Smith v. John Coldwell. Application for Writ</title>
 <date when="1888-05-10">May 10, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,11 +83,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Peterson, Fred H.</term>
 <term>Ledgerwood, W.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
+<term>Seattle, Washingotn</term>
 <term>King County</term>
 </keywords>
 
@@ -131,57 +132,107 @@
 
 <body>  
 
-<p>In the District Court of the 3rd Judicial
-District of Washington Territory holding
-Terms at Seattle King Co. Wash. Ty.</p>
-
-<p>In the matter of the
-application of Chas Smith    } No.5954
-for a Writ of Habeas Corpus</p>
-
-<p>On reading and filing the petition
-of Charles Smith duly signed and verified
-by him, whereby it appears that he is
-illegaly imprisoned and restrained of his
-liberty by one John Coldwell at the City
-of Seattle King Co. Wash. Terr. and stating
-wherein the illegality consists, from which
-it appears that a writ of Habeas Corpus
-ought to issue.</p>
-
-<p>It is ordered that a Writ of Habeas corpus
-issue out of and under the seal of
-the Dist. Court of the 3rd Judicial Dist of
-Wash. Tery. aforesaid directed to the said
-John Coldwell commanding him to have
-the body of the said Charles Smith before
-me in the Court room of the said court on
-the 11th day of May 1888 at 10 o'clock A.M.
-of that day to do and receive what shall
-then and there be considered concerning
-the said Charles Smith, together with
-the time and cause of his detention</p>
+<p>FILE
+No.5954</p>
 
 <pb></pb>
 
-<p>and that he then and there have the
-said Writ</p>
+<p>In the District Court of the 3rd
+Judicial District of Washington Territory
+holding terms at Seattle W.T.</p>
 
-<p>Dated this 10th day of
-May A.D. 1888</p>
+<p>In the matter of the
+application of Charles Smith
+for a writ of Habeas Corpus</p>
 
-<p>R.A. Jones
-Judge</p>
+<p>To the Hon. R.A. Jones, Judge of
+the District court of the 3rd Judicial
+District of Washington Territory holding terms
+at said City of Seattle</p>
 
-<p>No. 5954
-In Dist. Ct
+<p>The petition of Charles Smith
+respectfully shows;</p>
+
+<p>That Charles Smith is unlawfully imprisoned,
+detained, confined and restrained of his
+liberty by John Coldwell at his office
+on Washington Street in said City of Seattle
+in said King County Wash. Terr.</p>
+
+<p>That the said imprisonment, detention,
+confinement and restraint are illegal and
+that the illegality thereof consists in this
+to wit; That upon the the face of said warrant
+or process
+<add>under and by virtue of which said Smith was arrested and is detained</add>
+it appears that no offense has
+been committed contrary to the laws of this
+the Territoryof Washington. That said writ
+does not state that the defendant has
+removed or dispased of his property or is
+about to do so with intent to defraud his</p>
+
+<pb></pb>
+
+<p>creditors, but simply state that "on the
+9th day of May 1888, Charles Smith left his
+late residence with intent to defraud his
+creditors" and the said Writ is therefore
+and for other reasons shown upon the face
+thereof fatally defective and void, and the
+said imprisonment, detention, confinement and
+restraint thereunder is illegal.</p>
+
+<p>Wherefore your petitioner prays that a writ
+of Habeas Corpus may be granted directed
+to the said John Coldwell commanding
+him to have the body of said Charles Smith
+before your honor at a time and place
+therein to be specified, to do and receive
+what shall then and there be considered
+by your honor concerning him, together
+with the time and cause of said detention
+and said writ, and that he may be restored
+to his liberty</p>
+
+<p>Dated on the 10th day of May
+A.D. 1888</p>
+
+<p>Charles M. Smith
+Peterson + Haller
+Attys. for said Chas. Smith</p>
+
+<pb></pb>
+
+<p>Territory of Washington
+County of King</p>
+
+<p>Charles M. Smith being
+first duly sworn on oath says: That he is the petitioner named
+in the above entitled action; that he has heard the foregoing
+petition read, knows the contents thereof, and believes the same to be true;
+<del>that he makes this affidavit because</del> Charles Smith</p>
+
+<p>Subscribed and sworn to before me this 10th
+day of May 1888</p>
+
+<p>Fred. H. Peterson
+Notary Public in and for Washington Territory</p>
+
+<pb></pb>
+
+<p>$500</p>
+
+<p>No. 5954</p>
+
+<p>In the District Court 3rd
+Judicial District, holding terms
 at Seattle</p>
 
-<p>In re Charles Smith
-for Writ of Habeas
-Corpus</p>
-
-<p>Order granting Writ</p>
+<p>In the Chas
+Smith petition
+for habeas
+corpus</p>
 
 <p>FILED
 MAY 10 1888
