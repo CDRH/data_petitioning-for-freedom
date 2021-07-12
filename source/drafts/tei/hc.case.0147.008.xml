@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0147.008">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gladys Fredrika Fuson v. Territory of Washington. Order</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0147.008</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Order</title>
+<date when="1916">Novembe 2, 1916</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Fuson, Gladys Fredrika</term>
+<term>Crosby, Frank L.</term>
+<term>Wilson, P.H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Fuson, Gladys Fredrika</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Cushman, E.E.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.0147.008"/>
+
+<p>IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN SISTRICT OF WASHINGTON, NOTHTERN DIVISION</p>
+
+<p>In the Matter of the Application 
+of MRS. GLADYS FREDRIKS FUSON, 
+for the Writ of Habeas Corpu}
+No.3451
+ORDER</p>
+
+<p>Upon reading and filing the Affidavit and Petition of 
+GLadys Fredriks Fuson, the application for habeas corpus herein, 
+for permission to prosecute daid proceding in fprman pauperis, 
+and having been duly advised in the premises,</p>
+
+<p>ORDERED that the petition be granted, and that all of the
+procedings hertofore had may be entered by the Clerk if this
+Court as in forma pauperis, and that any deposits made by 
+the petitioner in this action be return to her by the CLerk</p>
+
+<p>DONE IN OPEN COURT this 2nd day of November AD 1916</p>
+
+<p>Edward E Cushman
+Judge</p>
+
+<pb/>
+
+<p><add>GOB-6-213</add></p>
+
+<p>U.S. SDistrict Court 
+Western District of 
+Washington
+Northern Division</p>
+
+<p>In Re Gladys Fuson's 
+Application for Wrif of 
+Habeas Corpus</p>
+
+<p>Order Forma Pauperis</p>
+
+<p>FILED IN THE 
+U.S District Court,
+Western Dist. of Wshington,
+NORTHERN DIVISION
+Nov 2-1916
+FRANK L. CROSBY, Clerk
+By HC Deputy</p>
+
+<p>P.H. Wilson
+atty for petitioner</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
