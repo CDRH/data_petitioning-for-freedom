@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0407.016">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Spears and James McGough v. King County. Warrant</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0407.016</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Spears and James McGough v. King County. Warrant.</title>
+<date when="1883-11-09">November 9, 1883</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archive</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1883-11">November 1883</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bernance McCronney</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>William Spears</persName>
+</person>
+<person role="petitioner">
+<persName>James McGough</persName>
+</person>
+<person role="defendant">
+<persName>King County</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>TH Cann</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<ab>United States of America</ab>
+<ab>In Justices Court - Before T.H. Cann, Justice of the Peace.</ab>
+<ab>Territory of Washington, 
+plaintiff
+vs.
+William Spears and
+James McGough
+Defendants | Territory of Washington
+County of King. -ss.</ab>
+<ab>To the Sheriff or any Constable of said County, Greeting:</ab>
+<p>Whereas, Bernard McCronney has this day complained in
+writing, under oath, to the undersigned, one of the Justices of the Peace in and for said County, that
+on the 26th day of October 1883, t Seattle
+in said County William Spears and James McGough 
+did commit the crime of obtaining money by false
+pretenses.</p>
+<p>Therefore, in the name of the United States, you are commanded forthwith to apprehend the said
+William Spears and James McGough and bring <del>him</del> <add>them</add> before me, to be dealt with
+according to law.</p>
+<ab>Given under my hand this second day of November 1883</ab>
+<ab>TH Cann
+Justice of the Peace, Seattle Precinct, King County, W.T.</ab>
+<pb></pb>
+<ab>No.
+Warrant</ab>
+<ab>Territory of Washington
+vs. 
+___________
+defendant.</ab>
+<ab>Filed Nov 2 1883.
+TH Cann
+Justice of the Peace</ab>
+
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
