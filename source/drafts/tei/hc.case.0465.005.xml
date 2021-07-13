@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0147.006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Appearance</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0147.006</idno>
+<idno type="project">hc.case.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Appearance</title>
-<date when="1916">October 27, 1916</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1891">1891</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,20 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fuson, Gladys Fredrika</term>
-<term>Crosby, Frank L.</term>
-<term>Laxew, Edin</term>
-<term>Lunfin, Fred H.</term>
-<term>Helsell, Frank P.</term>
-<term>Wilson, P.H.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -100,10 +94,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Fuson, Gladys Fredrika</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -139,78 +133,68 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0147.006"/>
+<pb/>
 
-<p>NO.3451</p>
+United States Circuit Court for the District of Washington.
 
-<p>IN U.S. DISTRICT COURT.WESTERN 
-DISTRICT OF WASHINGTON NORTHERN 
-DIVISION.</p>
+In the Matter of the
+Application of
+Charles W. Nordstrom
+for Writ of 
+Habeas Corpus, etc,
+W. H. Moyer, Sheriff of
+King County, Washington,
+etc
 
-<p>IN THE MATTER OF THE APPLICATION 
-OF GLADYS FREDRIKA FUSON 
-FOR A WRIT OF HABEAS CORPUS </p>
+No. 604. Praecipe.
 
-<p>RETURN OF RESPONDENT</p>
+To the Clerk of the above entitled Court:
 
-<p>FILED IN THE 
-U.S. District Court,
-Western <unclear></unclear> of Washington,
-OCT 27 1916
-FRANK L CROSBY Clerk,
-Edin Laxew Depuby</p>
+You will please issue citation returnable pursuant
+to the rules in such cases, also prepare
+appeal and make transcript on appeal
+to the Supreme Court of the United States to
+include Petition for Habeas Corpus Writ;
+Order denying the issuance of Writ and
+allowing the appeal; opinion filed in 
+the cause; notice of appeal to the Supreme 
+Court, <add>and Notice to Sheriff</add> and duly certify the same petition
+the time and in the manner prescribed 
+by hand. - 
 
-<p> ALFRED H. LUNDIN
-FRANK P. HELSELL
-431 Court House, Seattle, Wash,
-Attorney for Respondent.</p>
+Jas Hamilton Lewis.
+Attorney for Petitioner
+
+By J Henry Hemming,
+of Counsel
 
 <pb/>
 
-<p>UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON</p>
+Tx
 
-<p>In the Application of Ms. Gladys
-Fredrika Fuson for 
-Writ Habeas Corpus 
-vs.} 
-No.3451
-Appearance</p>
+No. 604
 
-<p>To the Clerk of theEntitled Court:
-You will please enter my appearace as Attorney 
-for Petitioner in the above
-entitled cause, and sercice of all subsequent papers, except writsand process, may be made upon
-said Ms. Glasys Fredrika Fuson, by leaving the 
-same with</p>
+Unites States Circuit Court
+District of Washington.
 
-<p>P.H. Wilson</p>
+In re application of
+Charles W. Nordstrom,
+for Writ of 
+Habeas Corpus,
+etc.,
 
-<p>Office Adress 1625 TheirAve
-Seattle Washington</p>
+Praecipe.
 
-<p><unclear></unclear>Elliott 3551</p>
+Filed Apr. 6 1897
 
-<p>NOTICE- Attorneys will please endorse their own Filings, Rule 11</p>
+A.Reeves Ayres Clerk.
 
-<pb/>
+A.N. Moore.
+Deputy Clerk
 
-<p>No.3451</p>
+Jas. Hamilton Lewis
 
-<p>United States District Court 
-Western District of Wshington
-vs<add>Go0207</add></p>
-
-<p>Appearance</p>
-
-<p>for</p>
-
-<p>FILED IN THE 
-U.S. District Court,
-Western Dist. of Washington
-NORTHERN DICISION
-OCT 27 1916
-FRANK L.CROSBY Clerk,
-by Eden Laxew Deputy</p>
+For Petitioner
 
 </div1>
     
