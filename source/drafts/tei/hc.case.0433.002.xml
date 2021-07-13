@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Motion</title>
+<title>James A. Balch v. J.W. Waughop. Motion</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Motion</title>
+<title level="m" type="main">James A. Balch v. J.W. Waughop. Motion</title>
 <date when="1888-06-05">June 5, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -84,11 +84,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Wilcoxen, J.M.</term>
+<term>Ledgerwood, W.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Pierce County</term>
+<term>Seattle, Washington</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -96,10 +99,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Balch, James A.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Waughop, D.J</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -108,14 +111,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 

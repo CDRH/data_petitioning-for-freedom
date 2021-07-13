@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0433.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0435.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Habeas Corpus</title>
+<title>John Bowler and Edward McCrinkle v. James H. Bennett. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0433.003</idno>
+<idno type="project">hc.case.0435.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Habeas Corpus</title>
-<date when="1888-01-05">June 1, 1888</date>
+<title level="m" type="main">John Bowler and Edward McCrinkle v. James H. Bennett. Habeas Corpus</title>
+<date when="1888-06-28">June 28, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-01-05">June 1, 1888</date></term>
+<term><date when="1888-06-28">June 28, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -97,13 +97,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Balch, James A.</persName>
+<persName>Bowler, John</persName>
+</person>
+<person role="petitioner">
+<persName>McCrinkle, Edward</persName>
 </person>
 <person role="defendant">
-<persName>Waughop, D.J</persName>
+<persName>Bennett, James H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -132,56 +138,47 @@
 
 <body>  
 
-<p>IN THE DISTRICT COURT,
-Of the Third Judicial District of Washington Territory,
-holding Terms at Seattle, for the Counties of King and Kitsap.</p>
+<p>IN THE DISTRICT COURT,</p>
+
+<p>Of the Third Judicial District of Washington Territory, holding Terms at Seattle,
+for the County of King</p>
 
 <p>HABEAS CORPUS.</p>
 
-<p>The People of the United States of America, to <del>the Sheriff of King County Greeting:</del>
-<add>Dr. J.W. Waughop manager of the Insane Asylum</add></p>
+<p>The People of the United States of America, to the <del>Sheriff of King County, Greeting:</del>
+<add>United States Marshal</add></p>
 
-<p>We command you, that you have the body of James A. Balch
-by you imprisoned and detained as it is said, together with the time and cause of such
-imprisonment and detention, by whatsoever name said James A. Balch
-shall be called or charged, before the <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of the aforesaid Court at
-the Court House in the City of Seattle W.T. on
-June 5th A.D. 1888 at the hour of 1:30 o'clock P.M.
-to do and receive what shall then and there be considered concerning the said
-James A. Balch
+<p>We command you, that you have the body of John Bowler and Edward McCrinkle
+by you imprisoned and detained as it is said, together with the time and cause of such imprisonment and detention, by
+whatsoever name said Bowler and McCrinkle shall be called or charged,
+before the HON. RICHARD A. JONES, Judge of the aforesaid Court at the Court House in
+the City of Seattle W.T. at the hour of 4 o'clock P.M.
+of said day
+to do and receive what shall then and there be considered concerning the said John Bowler
+and Edward McCrinkle
 And have you then and there this writ.</p>
 
-<p>WITNESS THE HON. <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of said
-District Court, and the seal thereof this 1st day
-of June A.D. 1888</p>
-
-<p>W.E. Ledgerwood,
-<del>JAMES SEAVEY</del>
+<p>WITNESS THE HON. RICHARD A. JONES, Judge of said District
+Court, and the seal thereof this 28th day of
+June A.D. 1888
+W.E. Ledgerwood,
 Clerk.
-By <unclear></unclear> Cannon, Deputy</p>
+By <unclear></unclear> Cannon Deputy Clerk.</p>
 
 <pb></pb>
 
-<p>#6023
-FILED
-JUN 5 1888</p>
+<p>No. 6086</p>
 
-<p>W.E. Ledgerwood,
-Clerk.</p>
+<p>In the
+District Court,
+Third Judicial District,
+Holding Terms at Seattle, W.T.</p>
 
-<pb></pb>
-
-<p>Copy</p>
-
-<p>IN THE DISTRICT COURT,
-Of the Third Judicial District of Washington Territory,
-holding Terms at Seattle, for the Counties of King and Kitsap.</p>
-
-<p>HABEAS CORPUS.</p>
-
-<pb></pb>
+<p>In the Matter of the Application of
+John Bowler etal.
+For Writ of Habeas Corpus
+HABEAS CORPUS
+</p>
                
 <div1 type="case">
 

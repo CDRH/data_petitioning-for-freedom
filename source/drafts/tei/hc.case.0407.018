@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0433.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0407.018">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Habeas Corpus</title>
+<title>William Spears and James McGough v King County. Information.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0433.003</idno>
+<idno type="project">hc.case.0407.018</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Habeas Corpus</title>
-<date when="1888-01-05">June 1, 1888</date>
+<title level="m" type="main">William Spears and James McGough v King County. Information.</title>
+<date when="1883-11-09">November 9, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3536</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,17 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-01-05">June 1, 1888</date></term>
+<term><date when="1883-11">November 1883</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ledgerwood, W.E.</term>
-<term>Cannon</term>
+<term>Bernance McCronney</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
+<term>Seattle</term>
 </keywords>
 
 </textClass>
@@ -97,10 +94,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Balch, James A.</persName>
+<persName>William Spears</persName>
+</person>
+<person role="petitioner">
+<persName>James McGough</persName>
 </person>
 <person role="defendant">
-<persName>Waughop, D.J</persName>
+<persName>King County</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,21 +109,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the Third Judicial District of Washington</orgName>
-<placeName>Seattle, Washington</placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2021-07" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,61 +132,47 @@
 
 <body>  
 
-<p>IN THE DISTRICT COURT,
-Of the Third Judicial District of Washington Territory,
-holding Terms at Seattle, for the Counties of King and Kitsap.</p>
 
-<p>HABEAS CORPUS.</p>
-
-<p>The People of the United States of America, to <del>the Sheriff of King County Greeting:</del>
-<add>Dr. J.W. Waughop manager of the Insane Asylum</add></p>
-
-<p>We command you, that you have the body of James A. Balch
-by you imprisoned and detained as it is said, together with the time and cause of such
-imprisonment and detention, by whatsoever name said James A. Balch
-shall be called or charged, before the <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of the aforesaid Court at
-the Court House in the City of Seattle W.T. on
-June 5th A.D. 1888 at the hour of 1:30 o'clock P.M.
-to do and receive what shall then and there be considered concerning the said
-James A. Balch
-And have you then and there this writ.</p>
-
-<p>WITNESS THE HON. <del>Roger S. Greene</del>
-<add>Richard A. Jones</add>, Judge of said
-District Court, and the seal thereof this 1st day
-of June A.D. 1888</p>
-
-<p>W.E. Ledgerwood,
-<del>JAMES SEAVEY</del>
-Clerk.
-By <unclear></unclear> Cannon, Deputy</p>
-
-<pb></pb>
-
-<p>#6023
-FILED
-JUN 5 1888</p>
-
-<p>W.E. Ledgerwood,
-Clerk.</p>
-
-<pb></pb>
-
-<p>Copy</p>
-
-<p>IN THE DISTRICT COURT,
-Of the Third Judicial District of Washington Territory,
-holding Terms at Seattle, for the Counties of King and Kitsap.</p>
-
-<p>HABEAS CORPUS.</p>
-
-<pb></pb>
                
 <div1 type="case">
 
 <pb/>
-
+<ab>Information</ab>
+<ab>In Justice's Court,
+Before Thomas H. Cann, Justice of the Peace in and for Seattle Precinct.</ab>
+<ab>Territory of Washington,
+County of King.| ss.</ab>
+<p>Bernard McCronney being first duly sworn,
+says that at Seattle in said King County, on the twenty sixth
+day of October 1883 William Spears and
+James McGough did commit the crime of obtaining
+money by false pretenses as follows:</p>
+<p>By then and there being did on the 26th day of October 1883
+designedly, wilfully, <unclear>fullknowingly</unclear> and
+falsely pretend to the said complaintant that there
+was a certain tract of land about six miles from the 
+city of Seattle which could be entrusted as public land by
+the said complaintant and which had and before that
+time unfiled upon by anyone, and function move
+states to the said Complaintant that if the said Complaintaint
+would give to them the said William
+Spears and James McGough the sum of one
+hundred dollars that they would inform him
+<del>contrary to the form of the Statute in such case made and provided, and against the peace and
+dignity of the Territory of Washington. 
+Subscribed and sworn to before me this, the
+day of _____ 188</del>
+ours
+<del>Justice of the Peace Seattle Precinct.</del></p>
+<pb></pb>
+<ab>Information</ab>
+<ab>Territory of Washington
+vs.
+BMcGough</ab>
+<ab>Filed Nov 2 1883
+TH Cann
+Justice of the Peace, Seattle Precinct
+King County, WT</ab>
 
 </div1>
     
