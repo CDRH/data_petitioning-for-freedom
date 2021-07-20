@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0437.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>M.C. Quinn v. H.G. Thornton. Order granting Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0437.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">M.C. Quinn v. H.G. Thornton. Order granting Writ</title>
+<date when="1889-02">February 1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-02">February 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -86,7 +87,8 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -94,33 +96,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Quinn, M.C.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Thornton, H.G.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Humes</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Andrews</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Burke, Thomas</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District in Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,67 +134,48 @@
 
 <body>  
 
+<p>In the matter of the application
+of M.C. Quinn for Writ of
+Habeas Corpus</p>
 
+<p>Now on this day
+comes M.C. Quinn by Humes
++ Andrews  his attorneys and
+presents his petitioner <add>and application</add> for a Writ
+of Habeas Corpus which application
+is <unclear></unclear> and it is therefore
+by the court considered and
+ordered <del>by the court</del> that
+a Writ of Habeas Corpus be
+issued and directed to H.G.
+Thornton and that he be
+required to have the body
+of said M.C. Quinn before the
+Court on this 5th day of Feb
+1889 at the hour of 6 o'clock
+and thirty minutes P.M.
+then and there to receive
+what may be ordered concerning
+him</p>
+
+<p>Thomas Burke
+Judge</p>
+
+<pb></pb>
+
+<p>no. 6542</p>
+
+<p>FILED
+FEB 5 1889
+W.E. Ledgerwood,
+Clerk.</p>
+
+<pb></pb>
                
 <div1 type="case">
 
 <pb/>
 
-<ab>United States Circuit Court for the District of Washington.</ab>
-
-<p>In the Matter of the
-Application of
-Charles W. Nordstrom
-for Writ of
-Habeas Corpus
-and Relief thereon,</p>
-
-<ab>No. 604.
-Praecipe for Appearance.</ab>
-
-<p>To the Clerk of the above entitled Court:
-
-You will please enter out appearance as attorneys
-for Petitioner,
-in the above entitled cause.</p>
-
-<ab>J Henry Hemming,
-of Counsel,</ab>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner</ab>
-
-<pb/>
-
-<ab>Tx</ab>
-
-<ab>#5.00 Docket Fee Pd</ab>
-
-<ab>No. 604</ab>
-
-<ab>GOB. 4-572</ab>
-
-<ab>United States Circuit Court
-DISTRICT OF WASHINGTON</ab>
-
-<p>In re Application of
-Charles W. Nordstrom
-for Writ of 
-Habeas Corpus, 
-etc,</p>
-
-<ab>Praecipe for Appearance.</ab>
-
-<p>Filed April 3 1897
-A. Reeves Ayres Clerk
-By R.M. Hopkins
-Deputy Clerk.</p>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner.</ab>
-
-<ab><del>For</del> J Henry Hemming
-of Counsel</ab>
 
 </div1>
     

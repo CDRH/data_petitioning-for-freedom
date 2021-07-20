@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0408.011">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>George Daly v. J.H. McGraw. Completion of Warrant.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0408.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">George Daly v. J.H. McGraw. Completion of Warrant.</title>
+<date when="1884-03-15">March 15, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3748</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1884-03">March 1884 </date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Will Rasue</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle</term>
 </keywords>
 
 </textClass>
@@ -94,10 +94,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>George Daly</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>J.H. McGraw</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -112,15 +112,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,62 +134,47 @@
 <div1 type="case">
 
 <pb/>
+<ab>In the District Court holding
+terms at Seattle.</ab>
+<ab>To the Hon. R. S. Greene
+Chief Justice of Washington Territory
+and Judge of the above named
+Court.</ab>
+<p>For return of the <unclear></unclear>
+writ. I, JH McGraw, Sheriff of
+King County W.T. duly certify 
+that preconsists the receipt 
+by me of said writ, the 
+said George R. Daly, therein
+named was <unclear>admitted</unclear> to
+my custody by virtue of a
+certain other wit, a true 
+copy of which is hereto
+annexed, and the orginial of which
+I herewith produce.</p>
+<ab>Nevertheless, I have the said
+George R Daly bow before
+you as I am commanded.</ab>
+<ab>Dated at Seattle, this
+17th dat of March 1884,
+JH McGraw
+Sheriff</ab>
+<ab>Territory of Washington
+County of King</ab>
+<ab>JH McGraw being first
+<pb></pb>
+duly sworn, on oath says, that the foregoing return by
+him signed, is ture and 
+correct in all particulars</ab>
+<ab>JH McGraw</ab>
+<ab>Subscribed and sworn to 
+beofre me this 17th day of March
+1884.</ab>
+<ab>Will Rasue
+Notary Public in afor
+King County W.T.</ab>
 
-<ab>United States Circuit Court for the District of Washington.</ab>
 
-<p>In the Matter of the
-Application of
-Charles W. Nordstrom
-for Writ of
-Habeas Corpus
-and Relief thereon,</p>
-
-<ab>No. 604.
-Praecipe for Appearance.</ab>
-
-<p>To the Clerk of the above entitled Court:
-
-You will please enter out appearance as attorneys
-for Petitioner,
-in the above entitled cause.</p>
-
-<ab>J Henry Hemming,
-of Counsel,</ab>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner</ab>
-
-<pb/>
-
-<ab>Tx</ab>
-
-<ab>#5.00 Docket Fee Pd</ab>
-
-<ab>No. 604</ab>
-
-<ab>GOB. 4-572</ab>
-
-<ab>United States Circuit Court
-DISTRICT OF WASHINGTON</ab>
-
-<p>In re Application of
-Charles W. Nordstrom
-for Writ of 
-Habeas Corpus, 
-etc,</p>
-
-<ab>Praecipe for Appearance.</ab>
-
-<p>Filed April 3 1897
-A. Reeves Ayres Clerk
-By R.M. Hopkins
-Deputy Clerk.</p>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner.</ab>
-
-<ab><del>For</del> J Henry Hemming
-of Counsel</ab>
 
 </div1>
     

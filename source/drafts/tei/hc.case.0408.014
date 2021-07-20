@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0408.014">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>George Daly v. J.H. McGraw. Exceptions to the Return of Sheriff</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0408.014</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">George Daly v. J.H. McGraw. Exceptions to the Return of Sheriff</title>
+<date when="1884-03-15">March 15, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3748</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1884-03">March 1884</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>James Seavey
+James P Ludlow</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle</term>
 </keywords>
 
 </textClass>
@@ -94,13 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>George Daly</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>J.H. McGraw</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>John H. Mitchell</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -112,15 +113,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Terriory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,63 +135,41 @@
 <div1 type="case">
 
 <pb/>
-
-<ab>United States Circuit Court for the District of Washington.</ab>
-
-<p>In the Matter of the
-Application of
-Charles W. Nordstrom
-for Writ of
-Habeas Corpus
-and Relief thereon,</p>
-
-<ab>No. 604.
-Praecipe for Appearance.</ab>
-
-<p>To the Clerk of the above entitled Court:
-
-You will please enter out appearance as attorneys
-for Petitioner,
-in the above entitled cause.</p>
-
-<ab>J Henry Hemming,
-of Counsel,</ab>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner</ab>
-
-<pb/>
-
-<ab>Tx</ab>
-
-<ab>#5.00 Docket Fee Pd</ab>
-
-<ab>No. 604</ab>
-
-<ab>GOB. 4-572</ab>
-
-<ab>United States Circuit Court
-DISTRICT OF WASHINGTON</ab>
-
-<p>In re Application of
-Charles W. Nordstrom
-for Writ of 
-Habeas Corpus, 
-etc,</p>
-
-<ab>Praecipe for Appearance.</ab>
-
-<p>Filed April 3 1897
-A. Reeves Ayres Clerk
-By R.M. Hopkins
-Deputy Clerk.</p>
-
-<ab>Jas. Hamilton Lewis
-Atty for Petitioner.</ab>
-
-<ab><del>For</del> J Henry Hemming
-of Counsel</ab>
-
+<ab>Territory of Washington 
+County of King</ab>
+<p>George R. Daly
+being first duly sowrn upon 
+first deposes and says 
+that he is the petitioner
+name in the foregoing
+<del>petition</del> <add><unclear></unclear></add> that be <unclear></unclear>
+read the foregoing exceptions
+knows the contents hereof
+and believes the said
+to be true</p>
+<ab>Geo R. Daly</ab>
+<ab>Subscribed and sworn
+to before me this 17th
+day of March 1884</ab>
+<ab>John H. Mitchell
+Notary Public
+in and for King County
+W.T.</ab>
+<pb></pb>
+<ab>3748
+In the District Court holding
+terms at Seattle</ab>
+<ab>In the matter of the application
+of George R. Daly
+for a writ of
+Habeas Corpus.</ab>
+<ab>Exceptions to the 
+return of
+Sheriff</ab>
+<ab>filed Mch 17 1884
+James Seavey, Clerk
+By James P Ludlow
+Deputy Clerk.</ab>
 </div1>
     
 </body>
