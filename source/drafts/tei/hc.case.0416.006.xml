@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0416.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0416.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. W. Hutchinson v. Territory of Washington. Writ of Habeas Corpus</title>
+<title>C. W. Hutchinson v. Territory of Washington. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0416.003</idno>
+<idno type="project">hc.case.0416.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Writ of Habeas Corpus</title>
+<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Habeas Corpus</title>
 <date when="1885">November 13, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -139,86 +139,60 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0416.003"/>
+<pb facs="hc.case.0416.006"/>
 
-<p>IN THE ISTRICT COURT</p>
+<p>IN THE DISTRICT COURT,</p>
 
-<p>Of the Judicial District of Washington Territory, holding
+<p>Of the Third Judicial District of Washington Territory, holding 
 Terms at Seattle, for the Counties of King and Kitsap.</p>
 
-<p>Habeas Corpus</p>
+<p>HABEAS CORPUS</p>
 
-<p>The People of the United States of America, to <add>W.H. Harris</add> <del>the Sheriff</del>
+<p>The People of the United States of America, to <add>No 4704
+H.N. Harris</add><del>the Sheriff</del>
 of King County Greeting:</p>
 
-<p>We command you, that you have the body of C.W. Hutchinson
+<p>We command you, that you have the body of G.H. Hutchinson
 by you imprisoned and detained as it is said, together with the time and cause of such imprisonment 
-and detention, by whatsoever name said C.N. Hutchinson 
-shall be called or charged, before the HON. ROGER S. GREENE, Judge of the aforesaid Court at
-the District Court house of King County on 
-the 13th day of November, 1885, at 2 O'Clock P.M
+and detention, by whatsoever named said C.H. Hutchinson
+shall be called or charged, before the HON. ROGER S. GREENE, Judge of the aforsaid Court at
+the District Court house of King County 
+on the 12 day of November, 1885 at 2 O'Clock P.M.
 to do and receive what shall then and there be considered concerning the said
-C.W. Hutchinson
-And have you then and there this writ.</p>
+C.H Hetchinson 
+And have then and there this writ.</p>
 
-<p>WITNESS THE HIN. ROGERS S. GREENE, Judge of said
-District Court, and the seal thereof this 17th day 
-of November A.D. 1885</p>
+<p>WITESS THE HON. ROGER S. GREENE, Judge of said 
+SDistrict Court, and the seal thereof this 12th day 
+of November A.D. 1885,</p>
 
-<p>JAMES SEAVEY, Clerk</p>
-
-<p>By James P. Ladlow Deputy</p>
-
-<figure></figure>
+<p>JAMES SEAVEY, Clerk
+By James P. Ludlow Deputy</p>
 
 <pb/>
 
-<p>I hereby certify that I received a writ of 
-Habeas Corpus, of which the within is a true 
-copy on the  1st day of Novemebr 1885, and that
-I personaly served that the same on the same 
-day on C.W. Hutchinson he bring the person
-to whom said writ is directed, by, delivering
-to and leaving with him, the said Hutchinson 
-husoully, in King County, W.T. said wit.</p>
+<p>No 4704
+District Court
+3d Judicial Dist</p>
 
-<p>Seattle Nov, 13th 1885,</p>
-
-<p>NHMc Graw
-Sheriff</p>
-
-<p>Sheriff Fees
-Service 1.00
-<unclear></unclear> .80
-<unclear></unclear> . 20
-Return .50
-$2.50</p>
-
-<pb/>
-
-<p>No.4704</p>
-
-<p>Dist Court 3rd
-Judicial District</p>
-
-<p>In Re,
-Application of 
-C.H. Hutchingson
-for writ of Habeas
-Corpus
-<unclear></unclear></p>
+<p>In Re 
+Application et
+G.H. Hutchinson 
+for a Writ of Habeas 
+Corpus</p>
 
 <p>Habeas Corpus</p>
 
-<p>Copy</p>
-
-<p>FILED
+<p>FILED 
 NOV 13 1885
 James Seavey, Clerk
-By James P. Ludlow</p>
+By James P. Ludluw
+Deputy Clerk</p>
 
 <p>Rasin &amp; Gilman 
-Jas Hamilton Lewis</p>
+Jas Hamilton Lewis
+Peffs Attorneys</p>
+
 </div1>
     
 </body>
