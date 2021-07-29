@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0362.016">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Hosaye Sakaguchi v. Henry M. White. Order Notice of Appeal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0362.016</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">Hosaye Sakaguchi v. Henry M. White. Notice of Appeal</title>
+<date when="1921-05-10">May 10, 1921</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1921-05-10">May 10, 1921</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Harshberger, F.M.</term>
+<term>Leitch, S.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,33 +96,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Sakaguchi, Hosaye</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Kiefer, James</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the United States for the Western District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,7 +131,66 @@
 
 <body>  
 
+<p>IN THE DISTRICT COURT OF THE UNITED STATES IN AND FOR THE WESTERN
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
+<p>In the Matter of the
+Petition of                   }     No. 5959
+Hosaye Sakaguchi,             } NOTICE OF APPEAL.
+for a Writ of Habeas Corpus.</p>
+
+<p>TO HENRY M. WHITE, UNITED STATES COMMISSIONER OF IMMIGRATION AT THE
+PORT OF SEATTLE, WASHINGTON AND THE UNITED STATES OF
+AMERICA AND TO ROBERT C. SAUNDERS, UNITES STATES DISTRICT
+ATTORNEY FOR THE WESTERN DISTRICT OF WASHINGTON:</p>
+
+<p>You, and each of you, are hereby notified that Hosaye
+Sakaguchi, petitioner above named, hereby now appeals from the
+certain order, judgement and decree made herein by the above entitled
+Court on the 9th day of May, 1921, adjudging, holding, finding
+and decreeing that the petition of the petitioner for writ of habeas
+corpus be dismissed, and that the petitioner be denied and refused
+a writ of habeas corpus, and adjuding that petitioner had a fair and
+impartial trial before the Board of Special Inquiry, and that the
+petitioner be remaded to the custody of Henry M. White, United States
+Commissioner of Immigration for the Port of Seattle, Washington, for
+the carrying out of the sentence of deportation, and from the whole
+therof, to the United States Circuit Court of Appeals for the Ninth
+Circuit.</p>
+
+<p>James Kiefer
+Attorney for Hosaye Sakaguchi
+Petitioner and Appellant.</p>
+
+<p>May 10, 1921.</p>
+
+<pb></pb>
+
+<p>Received copy of foregoing Notice of Appeal, and due
+service thereof is hereby admitted, this 10th day of May, 1921.</p>
+
+<p>Robert C. Saunders
+United States District Attorney for
+the Western District of Washington,
+and Attorney for Henry M. White,
+United States Commissioner of
+Immigration for the Port of Seattle,
+Washington,</p>
+
+<p>By. <unclear>F.C. Raegan</unclear>
+Assistant United States Attorney.</p>
+
+<p>FILED IN THE
+UNITED STATES DISTRICT COURT
+Western District of Washington
+Northern Division</p>
+
+<p>MAY 10 1921</p>
+
+<p>F.M. Harshberger, Clerk.
+By S.E. Leitch, Deputy.</p>
+
+<pb></pb>
                
 <div1 type="case">
 
