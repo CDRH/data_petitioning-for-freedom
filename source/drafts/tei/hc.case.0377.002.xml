@@ -16,6 +16,8 @@
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
 </respStmt>
 <sponsor>National Science Foundation</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -51,7 +53,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington v James Sheridan. Subpoena</title>
-<date when="1000-01-01">May 5, 1863</date>
+<date when="1863-05-01">May 1, 1863</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,15 +85,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">May 1863</date></term>
+<term><date when="1863-05">May 1863</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Fargo, S.B.</term>
+<term>Bridges, E.S.</term>
+<term>Apperson, St</term>
+<term>Sexton, B.N.</term>
+<term>Whitman, E.B.</term>
+<term>Rector, L.E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Walla Walla County, Washington</term>
 </keywords>
 
 </textClass>
@@ -108,7 +115,7 @@
 <persName>Sherman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -117,8 +124,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Walla Walla County</orgName>
+<placeName>Walla Walla, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -126,7 +133,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2018-01" who="#ini">transcribed and encoded</change>
+<change when="2021-08" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,18 +146,41 @@
 
 <pb/>
 
-<p>I hereby certify that I have served the within
-subpoena by <del>serving</del> reading the same to the parties
-therein named in Walla Walla, WT this the
-5th day of May 1863. E.B. Whitman, Sheriff
-By H.M. Hodges, Deputy</p>
+<p>Territory of Washington</p>
+<p>County of Walla Walla SS
+United States District Court
+First Judicial District</p>
 
-<p>Filed May 6th 1863
+<p>To S.B. Fargo, E.S. Bridges and St Apperson</p>
+
+<p>In the name of the United States, you are hereby commanded to be and appear
+before the said Court forthwith
+at the Court House in the City of Walla Walla, in said county, on the 1st day
+of May 1863 at <sic>o'clock</sic> to give evidence in a cause wherein
+Territory Plaintiff
+and James Sheridan Defendant
+on the part of Territory</p>
+
+<p>Witness my hand, and the seal of said Court
+this 1st day of May A.D. 1863
+B.N. Sexton, Clerk</p>
+
+<pb></pb>
+
+<p>I hereby certify that I have served the within
+subpoena by reading the same to S.B. Fargo and
+E.S. Bridges in the county of Walla Walla 
+this 2nd day of May 1863. St Apperson not
+to be found
+E.B. Whitman, Sheriff</p>
+
+<p>Territory 
+vs
+James Sheridan
+Subpoena
+Filed May 2nd 1863
 B.N. Sexton clerk
 by L.E. Rector deputy clerk</p>
-
-
-<p></p>
 
 </div1>
     
