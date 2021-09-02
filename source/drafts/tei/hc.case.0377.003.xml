@@ -51,7 +51,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington v James Sheridan. Subpoena</title>
-<date when="1000-01-01">May 1, 1863</date>
+<date when="1863-01-01">May 1, 1863</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,15 +83,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">May 1863</date></term>
+<term><date when="1863-05">May 1863</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Thompson, Coft</term>
+<term>Ryan, Edward</term>
+<term>Bell, John</term>
+<term>Ploogien, William</term>
+<term>Cabanis, St</term>
+<term>A. D. M.</term>
+<term>Whitman, E. B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Walla Walla County, Washington</term>
 </keywords>
 
 </textClass>
@@ -108,7 +114,7 @@
 <persName>Sherman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -117,8 +123,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Walla Walla County</orgName>
+<placeName>Walla Walla, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -126,7 +132,7 @@
         
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2021-05" who="#brh">transcribed and encoded</change>
+<change when="2021-08" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
