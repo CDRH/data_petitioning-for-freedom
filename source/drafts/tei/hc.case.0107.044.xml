@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0107.044">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gus Bendjus et al v. Territory of Washington. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Czapla, Ethan P." xml:id="EPC">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0107.044</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gus Bendjus et al v. Territory of Washington. Petition</title>
+<date when="1887-10-05">October 5, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-10">October 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Billings, William</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Robinson, Joseph</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Olympia</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Chehalis County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglauet, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Second Judicial Distrct Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#EPC">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<p>
+District Court Olympia
+Petition of Gus Bendjus et al for Writ of Habeas Corpus
+Filed October 7" 1887
+H Reeves Hynes
+Clerk
+</p>
+
+<p>
+United States of America,
+Territory of Washington}
+</p>
+<p>
+To the Honorable Frank Allyn, Associate Justice of the Supreme Court and Judge of the 2d. District, W.T</p>
+<p>
+The petetion of Gus Bendjus, Robert Stranglauet, Ben Fredricson, Frank Nelso, Andrue Johnson, Leaner Brown, John Thompson,
+Alex Green and Thomas Jacobs, respectfully show to your Honor that they and each of them are now prisoners, confined in the custody
+William Billings, Sheriff of Thurston County, in the County jail at Olympia Washington Territory and within the second judicial district, for a supposed
+criminal offense, to wit: Riot and also Malicious Mischief. And your petetioners also show that such confinment is by virtue of certain Warrants isued 
+from the District court holding terms at Montesano, directed to the Sheriff of Chehalis County, upon certain alleged indictmentswhich were found by
+a Grand Jury of said Chehalis County at its Sept, seession 1887, and it is further shown that petetioners were never held to answer to said Grand
+Jury, and that they were arrested upon said Warrants by said Sheriff of Chehalis County on the 17th. day of September 1887, and were by reason
+of the court adjourning on the 16th. of said Month, not permitted to have a speedy trial as guaranteed by the law. That said alleged Indictments were
+or are marked filed in said court by the clerk thereof on the 15th. day of Sept. 1887. That by reason of the foregoing, they have not been arrainged, 
+and that they have had no oportunyty to be heard in any manner whatever, respecting the validity of said indictments or the irregularity of the manner
+in which they were found by said Grand Jury. And we further show your Honor that non of the indictments</p>
+<pb/>
+<p>
+upon which said Warrants are said to have issed, are valid in law, but that the same are insufficent to rightfully deprive petetioners of their liberty,
+and are void for the following reasons to wit:-</p>
+<p>
+1. They are not signed by the "foreman of the Grand-Jury".
+2.- The names of all witnesses examined before said Grand Jury are not endorsed thereon.
+3.- That they were not presented of marked filed as required by law.
+4.- That said Grand Jury was not selected, drawn, summoned, empannelled or sworn as the law directs
+5.- That each of said indictments fail to state facts sufficent to constitue any offense under our law, and that 
+each of said indictments does not state any offense against thes petetioners.
+6.- That none of them comply with the requirements of the Code.</p>
+<p>
+And your petetioners aver that they nor none of them are confined or committed by virtue of anyother process, than that as herein before set forth, and that
+they are unable to get a copy of the Warrants upon which they were arrested and are now held. And your petetioners are informed by their counsel, that 
+said imprisonment is illegal, and that said illegality consists in the particulars as above setforth oppostie the figures from 1 to 6 inclusive on this page.</p>
+<p>
+Wherefore your petetioners pray that a Writ of Habeas corpus issue here in, to the end that they may be discharged from custody, and for such other order as may be just.
+
+Bynold and Robinson, Allies for Petitioners</p>
+<p>
+Territory of Washington,
+County of Thurston}</p>
+<p>Ben Frederickson being sworn says, that he is one fo the petetioners named above, and who are in confinement as therein alleged: that he has herad said petetion read, knows
+the contents therof, and that he is personally acquainted with all the facts as therein setforth, and thathe beleives the same to be true. That he makes this affidavit for and on behalf of 
+alloof said petetioners.
+Subscribed and sworn to before me this 5 day of Oct. 1887.
+
+Joseph W Robinson, Notary Public.</p>
+
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
