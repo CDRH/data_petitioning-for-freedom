@@ -7,6 +7,7 @@ class FileCsv < FileType
         puts "transforming #{self.filename}"
         es_doc = []
         @csv.each do |row|
+            byebug
             begin
                 if !row.header_row?
                     es_doc << row_to_es(@csv.headers, row)
