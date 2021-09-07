@@ -7,7 +7,41 @@ class CsvToEs
     ##########
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
-    def id
+    def assemble_collection_specific
+			bound_party = {
+				"name" => @row["Bound Party's Name(s): Last, First"],
+				"age" => @row["Age of Bound Party, If Stated"],
+				"sex" => @row["Sex of Bound Party"],
+				"minor" => @row["Bound Party a Minor? "],
+				"age_category_indicated" => @row["Age Category Indicated in Record (insert any descriptive term used in record pertaining to age: \"child\" \"minor\" \"infant\" \"adult\")"],
+				"race_category_indicated" => @row["Race or Ethnicity Indicated in Record (insert any racial/ethnic category spelled out in document and separate multiple terms or words with a semicolon; insert \"None\" if no racial categories are used)"],
+				"race_category_determined" => @row["Race of Bound Party as Determined by Team (may be same as listed in record)"],
+				"immigrant" => @row["Immigrant?"],
+				"nationality" => @row["Nationality/Country of Origin as Listed or Implied in Record"],
+				"relationship_to_holding_party" => @row["Relationship of Bound Party to Holding Party (Bound Party is ______ Holding Party)"]
+			}
+			petitioner =  {
+				"name" => @row["Petitioner Name (if Not the Bound Party): Last, First"],
+				"relationship" => @row["Petitioner Relationship to Bound Party"]
+			}
+			petitioning_attorney = {
+				"name" => @row["Petitioning Attorney Name-If Known: Last, First (if multiple names separate with a semi-colon; if illegible, insert \"illegible\")"]
+			}
+			judge = { "name" => @row["Presiding Judge Name-If Known: Last, First"] }
+			holding_party = { "name" => @row["Name of Person Holding Bound Party-If Known: Last, First"] }
+			@json["bound_party_k"] = bound_party
+			@json["petitioner_k"] = petitioner
+			@json["petitioning_attorney_k"] = petitioning_attorney
+			@json["judge_k"] = judge
+			@json["holding_party_k"] = holding_party
+			@json["court_k"] = @row["Court"]
+			@json["additional_parties_k"] = @row["Additional Parties Named in Document (Last, First); separate parties with a semicolon"]
+			@json["outcome_k"] = @row["Outcome"]
+			@json["additional_related_action_k"] = @row["Additional or Simultaneous Legal Action Related to the Habeas Petition"]
+			@json["notes_k"] = @row["Comments/notes"]
+		end
+		
+		def id
       @row["Case ID: hc.case.0000.000"]
     end
   
@@ -83,7 +117,6 @@ class CsvToEs
     def source
       @row["Case Citation/Source"]
     end
-
   
     def subjects
       @row["Petition Type"]
@@ -96,74 +129,11 @@ class CsvToEs
     def topics
       @row["Petition Type"]
     end
-		
-		def bound_party_k
-			bound = {
-				"name" => @row["Bound Party's Name(s): Last, First"],
-				"age" => @row["Age of Bound Party, If Stated"],
-				"sex" => @row["Sex of Bound Party"],
-				"minor" => @row["Bound Party a Minor? "],
-				"age_category_indicated" => @row["Age Category Indicated in Record (insert any descriptive term used in record pertaining to age: \"child\" \"minor\" \"infant\" \"adult\")"],
-				"race_category_indicated" => @row["Race or Ethnicity Indicated in Record (insert any racial/ethnic category spelled out in document and separate multiple terms or words with a semicolon; insert \"None\" if no racial categories are used)"],
-				"race_category_determined" => @row["Race of Bound Party as Determined by Team (may be same as listed in record)"],
-				"immigrant" => @row["Immigrant?"],
-				"nationality" => @row["Nationality/Country of Origin as Listed or Implied in Record"],
-				"relationship_to_holding_party" => @row["Relationship of Bound Party to Holding Party (Bound Party is ______ Holding Party)"]
-			}
-			bound
-		end
-
-		def petitioner_k
-			petitioner =  {
-				"name" => @row["Petitioner Name (if Not the Bound Party): Last, First"],
-				"relationship" => @row["Petitioner Relationship to Bound Party"]
-			}
-			petitioner
-		end
-
-		def petitioning_attorney_k
-			attorney = {
-				"name" => @row["Petitioning Attorney Name-If Known: Last, First (if multiple names separate with a semi-colon; if illegible, insert \"illegible\")"]
-			}
-			attorney
-		end
-
-		def judge_k
-			judge = { "name" => @row["Presiding Judge Name-If Known: Last, First"] }
-			judge
-		end
-
-		def holding_party_k
-			holding = { "name" => @row["Name of Person Holding Bound Party-If Known: Last, First"] }
-		end
-
-		def court_k
-			@row["Court"]
-		end
 
 		def spatial
 			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State/Territory"]}
 			place
 		end
 
-		def additional_parties_k
-			@row["Additional Parties Named in Document (Last, First); separate parties with a semicolon"] ?
-			@row["Additional Parties Named in Document (Last, First); separate parties with a semicolon"] :
-			""
-		end
-
-		def outcome_k
-			@row["Outcome"]
-		end
-
-		def additional_related_action_k
-			@row["Additional or Simultaneous Legal Action Related to the Habeas Petition"] ?
-			@row["Additional or Simultaneous Legal Action Related to the Habeas Petition"] :
-			""
-		end
-
-		def notes_k
-			@row["Comments/notes"] ? @row["Comments/notes"] : ""
-		end
   end
   
