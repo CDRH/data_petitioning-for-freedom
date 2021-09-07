@@ -180,5 +180,25 @@ class CsvToEs
 		def relationship_to_holding_party_k
 			@row["Relationship of Bound Party to Holding Party (Bound Party is ______ Holding Party)"]
 		end
+
+		def holding_party_name_k
+			@row["Name of Person Holding Bound Party-If Known: Last, First"]
+		end
+
+		def additional_parties_k
+			@row["Additional Parties Named in Document (Last, First); separate parties with a semicolon"]
+		end
+
+		def outcome_k
+			@row["Outcome"]
+		end
+
+		def additional_related_action_k
+			@row["Additional or Simultaneous Legal Action Related to the Habeas Petition"]
+		end
+
+		def notes_k
+			@row["Comments/notes"]
+		end
   end
   
