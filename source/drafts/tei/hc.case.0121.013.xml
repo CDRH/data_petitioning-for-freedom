@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.013"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.017"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0121.013</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0121.017</idno> <!-- replace with number from spreadsheet -->
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington v. Jacob Schuman. Recognizance</title>
-<date when="1886-08-04">August 4, 1886</date>
+<date when="1886-08-16">August 16, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -83,7 +83,7 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term>Weinhard, Jacob</term>
+<term>McCauley, A.L.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -133,59 +133,55 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0121.013"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0121.017"/> <!-- insert number from spreadhseet -->
                 
- <p>In Justice's Court,<lb/>
-Before J.C. Dorr,<lb/>
-Justice of the Peace</p>
+ <p>Recognizance of Witness</p>
 
-<p>An order having been made on
-the second day of August 1886 that
-Jacob Schuman who has been arrested
-charged with violation of the "Local Option Law"
-and whose examination had been adjourned
-to the 9th day of August be committed to
-the county jail of Columbia County and that
-he be admitted to bail in the sum of
-Five Hundred Dollars Now therefore
-I Jacob Weinhard a resident of Columbia
-County, hereby undertake that the above
-named Jacob Schuman will appear
-before J.C. Dorr at his office, at the
-time above named and that he will hold
-himself amenable to all the orders of
-the said justice, or if he fail to
-perform either of these conditions, that
-I will pay to the Territory of Washington
-the sum of Five Hundred Dollars,
-</p>
+<p>In Justice Court,<lb/>
+Before J.C. Dorr<lb/>
+Justice of the Peace.</p>
 
-<p>Witness my hand this
-4th day of August 1886</p>
+<p>Territory of Washington<lb/>
+Plaintiff.<lb/>
+vs.<lb/>
+Jacob Schuman<lb/>
+Defendant.</p>
 
-<p>Jacob Weinhard</p>
+<p>Filed and approved this 16th<lb/>
+day of August 1886</p>
 
-<p>Executed in presence of<lb/>
-J.C. Dorr</p>
+<p>Filed Aug 16 1886<lb/>
+JW Jessel<lb/>
+Clerk</p>
 
 <pb/>
 
-<p>In Justice's Court,<lb/>
-Before J.C. Dorr,<lb/>
-Justice of the Peace</p>
+<p>Recognizance.</p>
 
-<p>Territory of Washington<lb/>
-Plaintiff,<lb/>
-Jacob Schuman<lb/>
-Defendant</p>
+<p>Territory of Washington,<lb/>
+County of Columbia } SS</p>
 
-<p>Recognizance</p>
+<p>In Justice Court, before J.C. Dorr Justice of the Peace.</p>
 
-<p>and <unclear>appearance</unclear></p>
+<p>KNOW ALL MEN BY THESE PRESENTS, That I, A.L. McCauley
+acknowledge myself firmly held and bound unto the Territory of Washington in the sum of one
+hundred Dollars for which payment well and trurly to be made,
+I bind myself, my executors and administrators, if default shall be made in the condition following:
+The condition of this Recognizance is such, that if the said A.L. McCauley
+shall personally appear at the next term of the District Court to be held in and for said county,
+then and there to give evidence on the part of hte Territory against Jacob Schuman
+charged with the offense of selling Lager beer in
+violation of the "Local Option Law"
+alleged to have been committed in said county, on the 27th day of July
+A.D. 1886, as well to the Grand Jury as to the Petit Jury, and shall not depart the court without leave;
+then this Recognizance to be void, otherwise in full force</p>
 
-<p>Filed Aug 4th 1886<lb/>
+<p>Executed and approved this 16th day<lb/>
+of August A.D. 1886, in presence of<lb/>
 J.C. Dorr<lb/>
-Justice of the Peace</p>
+Justice of the Peace.</p>
+
+<p>A.L. McCauley</p>
                 
                 
                 
@@ -194,4 +190,7 @@ Justice of the Peace</p>
 </body>
 </text>
 </TEI>
+
+
+
 

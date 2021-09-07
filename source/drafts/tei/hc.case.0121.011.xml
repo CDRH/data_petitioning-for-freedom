@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.017"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0121.015"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Jacob Schuman. Recognizance</title>
+<title>Territory of Washington v. Jacob Schuman. Precipe</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0121.017</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.0121.015</idno> <!-- replace with number from spreadsheet -->
                 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Jacob Schuman. Recognizance</title>
-<date when="1886-08-16">August 16, 1886</date>
+<title level="m" type="main">Territory of Washington v. Jacob Schuman. Precipe</title>
+<date when="1886-07-27">July 27, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -79,10 +79,11 @@
 </keywords>
                 
 <keywords scheme="original" n="term">
-<term><date when="1886-08">August 1886</date></term>
+<term><date when="1886-07">July 1886</date></term>
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
+<term>Crossler, George V.</term>
 <term>McCauley, A.L.</term>
 </keywords>
                 
@@ -101,7 +102,7 @@
 <persName>Schuman, Jacob</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Sturdevant, R.T.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -133,13 +134,29 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0121.017"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0121.015"/> <!-- insert number from spreadhseet -->
                 
- <p>Recognizance of Witness</p>
+ <p>In Justice's Court,<lb/>
+of Columbia County, W.T.<lb/>
+Before J.C. Dorr, Justice of the Peace</p>
 
-<p>In Justice Court,<lb/>
-Before J.C. Dorr<lb/>
-Justice of the Peace.</p>
+<p>Territory of Washington<lb/>
+Plaintiff.<lb/>vs.<lb/>
+Jacob Schuman<lb/>
+Defendant.</p>
+
+<p>Precipe.</p>
+
+<p>Filed July 27 1886.<lb/>
+J.C. Dorr<lb/>
+Justice of the Peace</p>
+
+<pb/>
+
+ <p>Territory of Washington,<lb/>
+County of Columbia } SS</p>
+
+<p>In Justice's Court before J.C. Dorr, Justice of the Peace</p>
 
 <p>Territory of Washington<lb/>
 Plaintiff.<lb/>
@@ -147,50 +164,20 @@ vs.<lb/>
 Jacob Schuman<lb/>
 Defendant.</p>
 
-<p>Filed and approved this 16th<lb/>
-day of August 1886</p>
+<p>Precipe for Subpoenas for Witnesses.</p>
 
-<p>Filed Aug 16 1886<lb/>
-JW Jessel<lb/>
-Clerk</p>
+<p>To J.C. Dorr, Justice of the Peace in and for Columbia County:
+You will issue Subpoena for witnesses as follows, to-wit: A.L. McCauley
+and Geo V. Crossler</p>
 
-<pb/>
-
-<p>Recognizance.</p>
-
-<p>Territory of Washington,<lb/>
-County of Columbia } SS</p>
-
-<p>In Justice Court, before J.C. Dorr Justice of the Peace.</p>
-
-<p>KNOW ALL MEN BY THESE PRESENTS, That I, A.L. McCauley
-acknowledge myself firmly held and bound unto the Territory of Washington in the sum of one
-hundred Dollars for which payment well and trurly to be made,
-I bind myself, my executors and administrators, if default shall be made in the condition following:
-The condition of this Recognizance is such, that if the said A.L. McCauley
-shall personally appear at the next term of the District Court to be held in and for said county,
-then and there to give evidence on the part of hte Territory against Jacob Schuman
-charged with the offense of selling Lager beer in
-violation of the "Local Option Law"
-alleged to have been committed in said county, on the 27th day of July
-A.D. 1886, as well to the Grand Jury as to the Petit Jury, and shall not depart the court without leave;
-then this Recognizance to be void, otherwise in full force</p>
-
-<p>Executed and approved this 16th day<lb/>
-of August A.D. 1886, in presence of<lb/>
-J.C. Dorr<lb/>
-Justice of the Peace.</p>
-
-<p>A.L. McCauley</p>
-                
-                
+<p>R.T. Sturdevant<lb/>
+Prosecuting Attorney</p>        
                 
 </div1>
             
 </body>
 </text>
 </TEI>
-
 
 
 
