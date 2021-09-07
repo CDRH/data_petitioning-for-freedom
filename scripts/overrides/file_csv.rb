@@ -7,15 +7,10 @@ class FileCsv < FileType
         puts "transforming #{self.filename}"
         es_doc = []
         @csv.each do |row|
-            byebug
-            begin
-                if !row.header_row?
-                    es_doc << row_to_es(@csv.headers, row)
-                end
-            rescue
-                puts "nil error"
+            if !row.header_row?
+                es_doc << row_to_es(@csv.headers, row)
             end
-        end
+            end
         if @options["output"]
             filepath = "#{@out_es}/#{self.filename(false)}.json"
             File.open(filepath, "w") { |f| f.write(pretty_json(es_doc)) }
