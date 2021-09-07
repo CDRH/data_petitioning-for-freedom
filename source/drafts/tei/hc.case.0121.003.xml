@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Jacob Schuman. Summary and Response</title>
+<title>Territory of Washington v. Jacob Schuman. Docket</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -84,10 +84,10 @@
                 
 <keywords scheme="lcsh" n="people">
 <term>Crossler, George V.</term>
-<term>Hanis, L.E.</term>
-<term>Hosler, J.H.</term>
-<term>McCauley, A.L.</term>
-<term>Sharpstein, B.L.</term>
+<term>Hanis, L. E.</term>
+<term>Hosler, J. H.</term>
+<term>McCauley, A. L.</term>
+<term>Sharpstein, B. L.</term>
 <term>Weinhard, Jacob</term>
 </keywords>
                 
@@ -100,19 +100,19 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
-</person>
-<person role="defendant">
 <persName>Schuman, Jacob</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Sturdevant, R.T.</persName>
+<person role="defendant">
+<persName>Washington</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
+<person role="attorney_defendant">
+<persName>Sturdevant, R. T.</persName>
+</person>
 <person role="judge">
-<persName>Dorr, J.C.</persName>
+<persName>Dorr, J. C.</persName>
 </person>
 </listPerson>
                 
@@ -138,7 +138,7 @@
             
 <div1 type="case">
                 
-<pb facs="hc.case.0121.003"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0121.003"/> 
                 
                 
 <p>#1433</p>
