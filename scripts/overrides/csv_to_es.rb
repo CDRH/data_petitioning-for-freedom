@@ -21,7 +21,7 @@ class CsvToEs
   
     def creator
       # nested field
-      @row["Case Citation/Source"]
+      { "name" => @row["Case Citation/Source"]}
     end
   
     # def contributor
@@ -54,7 +54,7 @@ class CsvToEs
     # end
   
     def get_id
-      @row["Case ID: hc.case.0000.000"]
+      @row["Case ID: hc.case.0000.000"] ? @row["Case ID: hc.case.0000.000"] : "blank"
     end
   
     def language
