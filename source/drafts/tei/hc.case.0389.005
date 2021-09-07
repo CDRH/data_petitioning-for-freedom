@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0389.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0389.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William McCow v. Territory of Washington. Order Granting Writ</title>
+<title>William McCow v. Territory of Washington. Complaint.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0389.002</idno>
+<idno type="project">hc.case.0389.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William McCow v. Territory of Washington. Order Granting Writ.</title>
+<title level="m" type="main">William McCow v. Territory of Washington. Complaint.</title>
 <date when="1877-02-11">Feburary 11, 1877</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -53,7 +53,7 @@
 <msIdentifier>
 <repository>Washington State Archive</repository>
 <collection>Walla Walla Frontier Justice</collection>
-<idno>WAL 1319</idno>
+<idno>Case 1319</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -82,8 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ayers, Reeves A.</term>
+<term>Lacy, O. P.</term>
 </keywords>
+<keywords scheme="lcsh" n="people">
+<term>Thomas, George F.</term></keywords>
+<keywords scheme="lcsh" n="people">
+<term>Saman, J. D. </term></keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term></term>
@@ -97,10 +101,10 @@
 <persName>McCow, William</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Catern, N.J.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -135,38 +139,69 @@
 
 <pb/>
 <p>Territory of Washington
-County of Walla Walla | ss.</p>
-<p>In the District Court
-1st Judicial District
-The United States of America</p>
-<p>To George J. Thomas
-Sheriff of Walla Walla County 
-Greeting</p>
-<p>You are commanded to have the 
-body of William McCow by you detained
-as it is said before Hon. S.C. Wingard 
-Judge of the District Court of the 1st
-Judicial District of Washington Territory
-at his chamber in Walla Walla
-city on Thursday the 11th day of Feburary
-AD 1877 at the time of 10 o'clock am of
-that day to do and recieve what 
-shall then and there be considered
-concerning the said William McCow
-and have you then and there this
-Writ.</p>
-<p>Witness the Hon. S.C. Wingard
-Judge of the District Court of the 
-1st Judicial District of Washington
-Territory and the rule of said 
-Courth this 31st day of January
-AD 1877. </p>
-<ab>A Reeves Ayers
-Clerk</ab>
-<figure/>
-
-
-
+County of Walla Walla |</p>
+<p>In the matter of the
+application of
+William McCow
+for 
+a writ of Habeas Corpus | Complaint and Petition</p>
+<p>To the Honorable Samuel C
+Wingard Judge of the District Court
+for the First Judicial District of
+Washington Territory</p>
+<p>William McCow
+yor petitioner and complainant
+herein shows to your Honor by this 
+his complaint the following facts</p>
+<p>1. That he is restrained 
+of his liberty at Walla Walla City 
+Washington Territory by George F. 
+Thomas Sheriff of Walla Walla
+county W.T. and is now confined
+in the county Jail of said Walla
+Walla county</p>
+<p>2. That the cause of
+said restraint is as follows</p>
+<p>On the 20th day of November 
+1876 your petitioner was held to
+answer to the grand Jury <del>for the</del> <add>on of</add>
+<pb></pb>
+charge of assault with intent to 
+murder by O P Lacy one of the
+Justices of the Peace for Walla 
+Walla county W.T. and bail
+fixed at $1000.00 and in default of said bail
+was committed to jail. 3. Your petitioner
+shows that said bail is excessive
+that your petitioner is unable to
+give the sum.</p>
+<p>4. That if said bail
+is reduced he will be enabled
+to give the sum.</p>
+<p>Wherefore your complainant 
+prays that a writ of Habeas
+Corpus be issued commanding
+the said George F. Thomas to
+provide before your Honor this
+petitioner, and that your 
+Honor imagine into the cause
+of restraint of your petitioner
+and that he be admitted
+to bail.</p>
+<ab>William McCow</ab>
+<p>Territory of Washington
+County of Walla Walla | ss</p>
+<p>William McCow being
+first duly sworn says he is
+<pb></pb>
+petitioner above that the  foregoing
+complaint and petition is true
+as he verily believes</p>
+<ab>William McCow</ab>
+<p>Subscribed &amp; sworn to before
+me this January 31, 1877</p>
+<ab>JD Saman
+Justice of the Peace</ab>
 </div1>
     
 </body>
