@@ -8,41 +8,41 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-			bound_party = {
-				"name" => @row["Bound Party's Name(s): Last, First"],
-				"age" => @row["Age of Bound Party, If Stated"],
-				"sex" => @row["Sex of Bound Party"],
-				"minor" => @row["Bound Party a Minor? "],
-				"age_category_indicated" => @row["Age Category Indicated in Record (insert any descriptive term used in record pertaining to age: \"child\" \"minor\" \"infant\" \"adult\")"],
-				"race_category_indicated" => @row["Race or Ethnicity Indicated in Record (insert any racial/ethnic category spelled out in document and separate multiple terms or words with a semicolon; insert \"None\" if no racial categories are used)"],
-				"race_category_determined" => @row["Race of Bound Party as Determined by Team (may be same as listed in record)"],
-				"immigrant" => @row["Immigrant?"],
-				"nationality" => @row["Nationality/Country of Origin as Listed or Implied in Record"],
-				"relationship_to_holding_party" => @row["Relationship of Bound Party to Holding Party (Bound Party is ______ Holding Party)"]
+			bound_party_k = {
+				"name" => @row["Bound Party Name"],
+				"age" => @row["Bound Party Age"],
+				"sex" => @row["Bound Party Sex"],
+				"minor" => @row["Bound Party Minor"],
+				"age_category_indicated" => @row["Age Category Indicated"],
+				"race_category_indicated" => @row["Race Indicated"],
+				"race_category_determined" => @row["Race Determined"],
+				"immigrant" => @row["Bound Party Immigrant"],
+				"nationality" => @row["Bound Party Nationality"],
+				"relationship_to_holding_party" => @row["Relationship To Holding Party"]
 			}
-			petitioner =  {
-				"name" => @row["Petitioner Name (if Not the Bound Party): Last, First"],
-				"relationship" => @row["Petitioner Relationship to Bound Party"]
+			petitioner_k =  {
+				"name" => @row["Petitioner Name"],
+				"relationship" => @row["Relationship to Bound Party"]
 			}
-			petitioning_attorney = {
-				"name" => @row["Petitioning Attorney Name-If Known: Last, First (if multiple names separate with a semi-colon; if illegible, insert \"illegible\")"]
+			petitioning_attorney_k = {
+				"name" => @row["Petitioning Attorney Name"]
 			}
-			judge = { "name" => @row["Presiding Judge Name-If Known: Last, First"] }
-			holding_party = { "name" => @row["Name of Person Holding Bound Party-If Known: Last, First"] }
-			@json["bound_party_k"] = bound_party
-			@json["petitioner_k"] = petitioner
-			@json["petitioning_attorney_k"] = petitioning_attorney
-			@json["judge_k"] = judge
-			@json["holding_party_k"] = holding_party
+			judge_k = { "name" => @row["Judge Name"] }
+			holding_party_k = { "name" => @row["Holding Party Name"] }
+			@json["bound_party_k"] = bound_party_k
+			@json["petitioner_k"] = petitioner_k
+			@json["petitioning_attorney_k"] = petitioning_attorney_k
+			@json["judge_k"] = judge_k
+			@json["holding_party_k"] = holding_party_k
 			@json["court_k"] = @row["Court"]
-			@json["additional_parties_k"] = @row["Additional Parties Named in Document (Last, First); separate parties with a semicolon"]
+			@json["additional_parties_k"] = @row["Additional Parties"]
 			@json["outcome_k"] = @row["Outcome"]
-			@json["additional_related_action_k"] = @row["Additional or Simultaneous Legal Action Related to the Habeas Petition"]
-			@json["notes_k"] = @row["Comments/notes"]
+			@json["additional_related_action_k"] = @row["Additional Related Action"]
+			@json["notes_k"] = @row["Notes"]
 		end
 		
 		def id
-      @row["Case ID: hc.case.0000.000"]
+      @row["Case ID"]
     end
   
     def category
@@ -53,10 +53,10 @@ class CsvToEs
     #   @row["Section"]
     # end
   
-    def creator
-      # nested field
-      { "name" => @row["Case Citation/Source"]}
-    end
+    # def creator
+    #   # nested field
+    #   { "name" => @row["Case Citation/Source"]}
+    # end
   
     # def contributor
     #   # nested field
@@ -68,27 +68,27 @@ class CsvToEs
     # end
   
     def date(before=true)
-      Datura::Helpers.date_standardize(@row["Earliest Petition Date (YYYY-MM-DD)"], before)
+      Datura::Helpers.date_standardize(@row["Earliest Date"], before)
     end
 
 		def date_not_after
-			if @row["Latest Petition Date (YYYY-MM-DD)"] && !@row["Latest Petition Date (YYYY-MM-DD)"].empty?
-				Datura::Helpers.date_standardize(@row["Latest Petition Date (YYYY-MM-DD)"], false)
+			if @row["Latest Date"] && !@row["Latest Date"].empty?
+				Datura::Helpers.date_standardize(@row["Latest Date"], false)
 			else
 				date(false)
 			end
 		end
   
-    def description
-      @row["Description"]
-    end
+    # def description
+    #   @row["Description"]
+    # end
   
     # def format
     #   @row["Format"]
     # end
   
     def get_id
-      @row["Case ID: hc.case.0000.000"] ? @row["Case ID: hc.case.0000.000"] : "blank"
+      @row["Case ID"] ? @row["Case ID"] : "blank"
     end
   
     def language
@@ -96,7 +96,7 @@ class CsvToEs
     end
   
     def places
-      @row["State/Territory"]
+      @row["State"]
     end
   
     def publisher
@@ -115,7 +115,7 @@ class CsvToEs
     end
   
     def source
-      @row["Case Citation/Source"]
+      @row["Case Citation Or Source"]
     end
   
     def subjects
@@ -131,7 +131,7 @@ class CsvToEs
     end
 
 		def spatial
-			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State/Territory"]}
+			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State"]}
 			place
 		end
 

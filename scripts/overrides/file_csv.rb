@@ -11,6 +11,7 @@ class FileCsv < FileType
                 es_doc << row_to_es(@csv.headers, row)
             end
             end
+            
         if @options["output"]
             filepath = "#{@out_es}/#{self.filename(false)}.json"
             File.open(filepath, "w") { |f| f.write(pretty_json(es_doc)) }
