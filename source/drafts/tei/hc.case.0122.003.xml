@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. S.M. McFarland. Issuing of Writ</title>
+<title>S. M. McFarland v. Territory of Washingon. Petition. Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. S.M. McFarland. Issuing of Writ</title>
+<title level="m" type="main">S. M. McFarland v. Territory of Washingon. Petition. Writ</title>
 <date when="1888-05-10">May 10, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -83,9 +83,9 @@
 </keywords>
                 
 <keywords scheme="lcsh" n="people">
-<term>Ellis, U.J.</term>
-<term>Jessel, J.W.</term>
-<term>Marquiss, N.R.</term>
+<term>Ellis, U. Z.</term>
+<term>Jessel, J. W.</term>
+<term>Marquiss, N. R.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -98,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>McFarland, S. M.</persName>
 </person>
 <person role="defendant">
-<persName>McFarland, S.M.</persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -124,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#ini">transcribed.</change>
+<change when="2021" who="#lkw">Review</change>
 <change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. S.M. McFarland. Subpoena</title>
+<title>S. M. McFarland v. Territory of Washingon. Petition. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. S.M. McFarland. Subpoena</title>
+<title level="m" type="main">S. M. McFarland v. Territory of Washingon. Petition. Subpoena</title>
 <date when="1888-05-09">May 9, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -84,8 +84,8 @@
                 
 <keywords scheme="lcsh" n="people">
 <term>Cross, M.</term>
-<term>Ellis, U.J.</term>
-<term>Jessel, J.W.</term>
+<term>Ellis, U. Z.</term>
+<term>Jessel, J. W.</term>
 </keywords>
                 
 <keywords scheme="lcsh" n="places"> 
@@ -97,10 +97,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>McFarland, S. M.</persName>
 </person>
 <person role="defendant">
-<persName>McFarland, S.M.</persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Kuhn, W.H.</persName>
+<persName>Kuhn, W. H.</persName>
 </person>
 </listPerson>
                 
@@ -123,7 +123,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2019" who="#ini">transcribed.</change>
+<change when="2021" who="#lkw">Review</change>
 <change when="2019" who="#cdw">encoded, edited transcription.</change>
 </revisionDesc>
         
