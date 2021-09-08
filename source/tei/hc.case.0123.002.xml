@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>T. S. Roadman v. P. W. Dillon. Clerk File</title>
+<title>T. S. Roadman v. P. W. Dillon. Order granting writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.003</idno>
+<idno type="project">oscys.case.0123.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Clerk File</title>
+<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Order granting writ</title>
 <date when="1883-08-15">August 15, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -87,7 +87,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Ayres, A. Reeves</term>
-<term>Roadmann, T. S.</term>
 <term>Sarpe, A. W.</term>
 </keywords>
 
@@ -100,7 +99,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Jones, W. C.</persName>
+<persName>Roadman, T. S.</persName>
 </person>
 <person role="defendant">
 <persName>Dillon, P. W.</persName>
@@ -112,7 +111,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Wingard, S. C.</persName>
+<persName>Wingard, Samuel C.</persName>
 </person>
 </listPerson>
             
@@ -125,7 +124,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>  
+<change when="2021-08" who="lkw">review</change>          
 <change when="2019-10" who="zcb">reviewed; edited</change>
 <change when="2019-10" who="zcb">transcribed and encoded</change> 
 </revisionDesc>
