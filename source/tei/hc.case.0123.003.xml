@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>T. S. Roadman v. P. W. Dillon. Clerk File</title>
+<title>T. S. Roadman v. P. W. Dillon. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.003</idno>
+<idno type="project">oscys.case.0123.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Clerk File</title>
-<date when="1883-08-15">August 15, 1883</date>
+<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Writ of Habeas Corpus</title>
+<date when="1883-08-13">August 13, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,8 +87,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Ayres, A. Reeves</term>
-<term>Roadmann, T. S.</term>
-<term>Sarpe, A. W.</term>
+<term>Roadman, T.S.</term>
+<term>Sarpe A.W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -100,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Jones, W. C.</persName>
+<persName>Jones, W.C.</persName>
 </person>
 <person role="defendant">
-<persName>Dillon, P. W.</persName>
+<persName>Dillon, P.W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -112,7 +112,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Wingard, S. C.</persName>
+<persName>Wingard, S.C.</persName>
 </person>
 </listPerson>
             
@@ -138,33 +138,24 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0123.002"/>
-<p>In the matter of the application of T.S. Roadman for Habeas Corpus Petition Filed Aug. 15, 1883 A Reeves Ayres, Clerk By A.W. Sarpe Dep.</p>
+<pb facs="hc.case.0123.004"/>
+<p>In the District Court 
+First Judicial District
+holding terms at Cheney for
+The County of Spokane Territory 
+of Washington</p>
 
-<pb facs="hc.case.0123.003"/>
-<p>In the District Court of Washington Territory and for the First Judicial District charged of holding terms at Cheney for the County of Spokane</p>
+<p>To the Sheriff of Spokane County
+Territory of Washington</p>
 
-<p>In the matter of the application of T.S. Roadman for writ of Habeas Corpus. Order granting writ</p>
+<p>In the name of the United States you are hereby commanded to have the body of T.S. Roadman
+by you imprisoned and detained as it is avered together with the time and cause of such imprisonment and detainment by what soever name said T.S. Roadmann shall be called on charge before S.C. Wingard judge of the District Court of the Territory of Washington at the court room of said District Court of Spokane County on the 13th day of August 1883 at 7 o'clock PM of that day to do and receive what shall then and there be considered concerning the said T.S. Roadman and have you then and there this writ</p>
 
+<p>Witness the Hon. S.C. Wingard judge of the said District Court of the Court room in the County of Spokane this 13th day of August 1883.  Attest my hand and the seal of said court the day and year as above written.</p>
 
-<p>On reading and filing the petition of W.C. Jones of Cheney Spokane County W.T. one of the attorneys for T.S. Roadman duly signed and verified by him whereby it appears that the said T.S. Roadman is illegally imprisoned and restrained of his liberty by P.W. Dillon Sheriff of Spokane County. The at the town of Cheney Spokane County in the Territory of Washington and stating wherein the illegally <unclear>consists</unclear> from which it appears to be that a writ of Habeas Corpus ought to issue.</p>
+<p>A. Reeves Ayres, Clerk<lb/>
+By A. W. Sarpe, Dep.</p>
 
-<p>It is ordered that a writ of Habeas Corpus issue such under the seal of the District court of the First Judicial District Court of the Territory of Washington in and for the court of Spokane directed to the said sheriff commanding him to have the
-
-<pb/>
-
-body of the said T.S. Roadman before me in the court room of the said court on the 15th day of August 1883 at 7 o'clock P.M. of that day to do and receive what shall then and there be considered concerning the said T.S. Roadman together with the time and cause of his detention and that he then and there have the said writ.</p>
-
-<p>Dated on the 15th day of August 1883</p>
-
-<p>SC Wingard</p>
-
-<p>No. 430<lb/>
-In the matter of the application of T.S. Roadman for writ of Habeas Corpus</p>
-<p>Order granting writ</p>
-<p>Filed Aug. 15, 1883<lb/>
-A Reeves Ayres, clerk<lb/>
-by A.M. Sarpe, Dep.</p>
 
 </div1>
     

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>T. S. Roadman v. P. W. Dillon. Writ of Habeas Corpus</title>
+<title>T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.004</idno>
+<idno type="project">oscys.case.0123.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Writ of Habeas Corpus</title>
-<date when="1883-08-13">August 13, 1883</date>
+<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
+<date when="1883-08-15">August 15, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -86,8 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ayres, A. Reeves</term>
-<term>Roadman, T.S.</term>
+<term>Aipes, A. Reeves</term>
+<term>Roadmann, T.S.</term>
 <term>Sarpe A.W.</term>
 </keywords>
 
@@ -138,24 +138,44 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0123.004"/>
-<p>In the District Court 
-First Judicial District
-holding terms at Cheney for
-The County of Spokane Territory 
-of Washington</p>
+<pb facs="hc.case.0123.005"/>
+<p>Territory of Washington
+County of Spokane</p>
 
-<p>To the Sheriff of Spokane County
-Territory of Washington</p>
+<p>I hereby certify that by 
+virtue of and in obedience to the within writ I have the body of 
+the within wanted T.S. Roadman 
+before the Honorable S.C. Wingard, 
+Judge of the District Court of the First
+Judicial District of said Territory 
+at the Court room at said County
+on the 13th day of August 1883 
+at the hour of seven O'clock P.M.
+of said day and herewith return 
+this writ with said T.S. Roadman 
+to said Court</p>
 
-<p>In the name of the United States you are hereby commanded to have the body of T.S. Roadman
-by you imprisoned and detained as it is avered together with the time and cause of such imprisonment and detainment by what soever name said T.S. Roadmann shall be called on charge before S.C. Wingard judge of the District Court of the Territory of Washington at the court room of said District Court of Spokane County on the 13th day of August 1883 at 7 o'clock PM of that day to do and receive what shall then and there be considered concerning the said T.S. Roadman and have you then and there this writ</p>
+<p>Dated Cheney W.T. August 13th 1883</p>
+<p><unclear/>
+Sheriff of said County</p>
 
-<p>Witness the Hon. S.C. Wingard judge of the said District Court of the Court room in the County of Spokane this 13th day of August 1883.  Attest my hand and the seal of said court the day and year as above written.</p>
+<p>Sheriffs Fees<lb/>
+Service $1.00<lb/>
+<unclear></unclear> .20<lb/>
+$1.20</p>
 
+<p>No. 430
+In the matter of 
+the application of T.S. 
+Roadman for Habeas
+Corpus</p>
+
+<p>Writ of Habeas Corpus
+Returned and 
+filed Aug. 15, 1883</p>
 <p>A. Reeves Ayres, Clerk<lb/>
-By A. W. Sarpe, Dep.</p>
-
+By A.W. Sarpe, Dep.
+</p>
 
 </div1>
     
