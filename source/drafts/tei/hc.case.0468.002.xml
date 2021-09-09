@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0468.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
+<title>The State of Washington v. John W. Considine. Praecipe for Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Battaglia, Zoe" xml:id="zb">Zoe Battaglia</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -39,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.004</idno>
+<idno type="project">hc.case.0468.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
-<date when="1883-08-15">August 15, 1883</date>
+<title level="m" type="main">The State of Washington v. John W. Considine. Praecipe for Appearance</title>
+<date when="1897-06-29">June 29, 1897</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -74,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,52 +79,52 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1883-08">August 1883</date></term>
+<term><date when="1897-06">June 1897</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Ayres, A. Reeves</term>
-<term>Sarpe, A. W.</term>
+<term>Moore, A. N.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cheney, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Roadman, T. S.</persName>
+<persName>Considine, John W.</persName>
 </person>
 <person role="defendant">
-<persName>Dillon, P. W.</persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiley, John</persName>
+<persName>Bostwick, Harrison</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Feighan, J. W.</persName>
+<persName>Winston, Patrick Henry</persName>
 </person>
 <person role="judge">
-<persName>Wingard, Samuel C.</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>First District Court</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-08" who="lkw">review</change>   
-<change when="2019-10" who="zcb">reviewed; edited</change>
-<change when="2019-10" who="zcb">transcribed and encoded</change> 
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,47 +132,49 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
 
-<pb facs="hc.case.0123.005"/>
-<p>Territory of Washington
-County of Spokane</p>
+<pb/>
 
-<p>I hereby certify that by 
-virtue of and in obedience to the within writ I have the body of 
-the within wanted T.S. Roadman 
-before the Honorable S.C. Wingard, 
-Judge of the District Court of the First
-Judicial District of said Territory 
-at the Court room at said County
-on the 13th day of August 1883 
-at the hour of seven O'clock P.M.
-of said day and herewith return 
-this writ with said T.S. Roadman 
-to said Court</p>
+<ab>United States Circuit Court for the District of Washington.</ab>
 
-<p>Dated Cheney W.T. August 13th 1883</p>
-<p><unclear/>
-Sheriff of said County</p>
+<ab>In Re
+John W. Considine</ab>
 
-<p>Sheriffs Fees<lb/>
-Service $1.00<lb/>
-<unclear></unclear> .20<lb/>
-$1.20</p>
+<ab>No. 626
+Praecipe for Appearance</ab>
 
-<p>No. 430
-In the matter of 
-the application of T.S. 
-Roadman for Habeas
-Corpus</p>
+<p>To the clerk of the above entitled Court:
+You will please enter our appearance as attorneys
+for the Petitioner  John W. Considine
+in the above entitled cause.</p>
 
-<p>Writ of Habeas Corpus
-Returned and 
-filed Aug. 15, 1883</p>
-<p>A. Reeves Ayres, Clerk<lb/>
-By A.W. Sarpe, Dep.
-</p>
+<ab>Wiley &amp; Bortwick</ab>
+
+<pb/>
+
+<ab>Tx.</ab>
+
+<ab>No. 626</ab>
+
+<ab>G.O.B. 5-53.</ab>
+
+<ab>United States Circuit Court
+DISTRICT OF WASHINGTON</ab>
+
+<ab>In re 
+John W. Considine</ab>
+
+<ab>Praecipe for Appearance.</ab>
+
+<ab>Filed June 29 1897
+A Reeves Ayres Clerk
+A. N. Moore
+Deputy Clerk.</ab>
+
 
 </div1>
     

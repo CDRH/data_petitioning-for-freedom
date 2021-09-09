@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0123.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0389.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
+<title>William McCow v. Territory of Washington. Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Battaglia, Zoe" xml:id="zb">Zoe Battaglia</name>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -39,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0123.004</idno>
+<idno type="project">hc.case.0389.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">T. S. Roadman v. P. W. Dillon. Obedience of Writ</title>
-<date when="1883-08-15">August 15, 1883</date>
+<title level="m" type="main">William McCow v. Territory of Washington. Writ</title>
+<date when="1877-02-11">1877-02-11</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Walla Walla Frontier Justice</collection>
+<idno>WAL 1319</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -74,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,52 +78,49 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1883-08">August 1883</date></term>
+<term><date when="1877-02">Feburary 1877</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ayres, A. Reeves</term>
-<term>Sarpe, A. W.</term>
+<term>A. Reeves Ayers</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cheney, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Roadman, T. S.</persName>
+<persName>McCow, William</persName>
 </person>
 <person role="defendant">
-<persName>Dillon, P. W.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Catern, N. J.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Wingard, Samuel C.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>First District Court</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName>First Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-08" who="lkw">review</change>   
-<change when="2019-10" who="zcb">reviewed; edited</change>
-<change when="2019-10" who="zcb">transcribed and encoded</change> 
+<change when="2021-07" who="#GT">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,47 +128,28 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
 
-<pb facs="hc.case.0123.005"/>
-<p>Territory of Washington
-County of Spokane</p>
-
-<p>I hereby certify that by 
-virtue of and in obedience to the within writ I have the body of 
-the within wanted T.S. Roadman 
-before the Honorable S.C. Wingard, 
-Judge of the District Court of the First
-Judicial District of said Territory 
-at the Court room at said County
-on the 13th day of August 1883 
-at the hour of seven O'clock P.M.
-of said day and herewith return 
-this writ with said T.S. Roadman 
-to said Court</p>
-
-<p>Dated Cheney W.T. August 13th 1883</p>
-<p><unclear/>
-Sheriff of said County</p>
-
-<p>Sheriffs Fees<lb/>
-Service $1.00<lb/>
-<unclear></unclear> .20<lb/>
-$1.20</p>
-
-<p>No. 430
-In the matter of 
-the application of T.S. 
-Roadman for Habeas
-Corpus</p>
-
-<p>Writ of Habeas Corpus
-Returned and 
-filed Aug. 15, 1883</p>
-<p>A. Reeves Ayres, Clerk<lb/>
-By A.W. Sarpe, Dep.
-</p>
+<pb/>
+<p>In the District Court
+1st Judicial Dist W.T.</p>
+<p>In the Matter of the 
+application
+of William McCow
+for
+Writ of Habeas Corpus</p>
+<ab>Writ of Habeas Corpus</ab>
+<ab>Shffs fees
+$2.00
+Returned and Filed
+Feburary 11th 1877</ab>
+<ab>A Reeves Ayres
+Clerk</ab>
+<ab>N.J. Catern
+for Petitioner</ab>
 
 </div1>
     
