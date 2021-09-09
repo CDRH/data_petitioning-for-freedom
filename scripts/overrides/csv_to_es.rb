@@ -8,32 +8,32 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-			bound_party_k = {
-				"name" => @row["Bound Party Name"],
-				"age" => @row["Bound Party Age"],
-				"sex" => @row["Bound Party Sex"],
-				"minor" => @row["Bound Party Minor"],
-				"age_category_indicated" => @row["Age Category Indicated"],
-				"race_category_indicated" => @row["Race Indicated"],
-				"race_category_determined" => @row["Race Determined"],
-				"immigrant" => @row["Bound Party Immigrant"],
-				"nationality" => @row["Bound Party Nationality"],
-				"relationship_to_holding_party" => @row["Relationship To Holding Party"]
-			}
-			petitioner_k =  {
-				"name" => @row["Petitioner Name"],
-				"relationship" => @row["Relationship to Bound Party"]
-			}
-			petitioning_attorney_k = {
-				"name" => @row["Petitioning Attorney Name"]
-			}
-			judge_k = { "name" => @row["Judge Name"] }
-			holding_party_k = { "name" => @row["Holding Party Name"] }
-			@json["bound_party_k"] = bound_party_k
-			@json["petitioner_k"] = petitioner_k
-			@json["petitioning_attorney_k"] = petitioning_attorney_k
-			@json["judge_k"] = judge_k
-			@json["holding_party_k"] = holding_party_k
+			# bound_party_k = {
+			# 	"name" => @row["Bound Party Name"],
+			# 	"age" => @row["Bound Party Age"],
+			# 	"sex" => @row["Bound Party Sex"],
+			# 	"minor" => @row["Bound Party Minor"],
+			# 	"age_category_indicated" => @row["Age Category Indicated"],
+			# 	"race_category_indicated" => @row["Race Indicated"],
+			# 	"race_category_determined" => @row["Race Determined"],
+			# 	"immigrant" => @row["Bound Party Immigrant"],
+			# 	"nationality" => @row["Bound Party Nationality"],
+			# 	"relationship_to_holding_party" => @row["Relationship To Holding Party"]
+			# }
+			# petitioner_k =  {
+			# 	"name" => @row["Petitioner Name"],
+			# 	"relationship" => @row["Relationship to Bound Party"]
+			# }
+			# petitioning_attorney_k = {
+			# 	"name" => @row["Petitioning Attorney Name"]
+			# }
+			# judge_k = { "name" => @row["Judge Name"] }
+			# holding_party_k = { "name" => @row["Holding Party Name"] }
+			# @json["bound_party_k"] = bound_party_k
+			# @json["petitioner_k"] = petitioner_k
+			# @json["petitioning_attorney_k"] = petitioning_attorney_k
+			# @json["judge_k"] = judge_k
+			# @json["holding_party_k"] = holding_party_k
 			@json["court_k"] = @row["Court"]
 			@json["additional_parties_k"] = @row["Additional Parties"]
 			@json["outcome_k"] = @row["Outcome"]
@@ -93,6 +93,35 @@ class CsvToEs
   
     def language
       "en"
+    end
+
+    def person
+      list = []
+      bound_party = { "name" => @row["Bound Party Name"], "role" => "bound party"}
+      list << bound_party
+      if @row["Petitioner Name"]
+        petitioner = { "name" => @row["Petitioner Name"], "role" => "petitioner"}
+        list << petitioner
+      end
+      if @row["Petitioning Attorney Name"]
+        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "petitioning attorney"}
+        list << petitioning_attorney
+      end
+      if @row["Holding Party Name"]
+        holding_party = { "name" => @row["Holding Party Name"], "role" => "holding party"}
+        list << holding_party
+      end
+      if @row["Judge Name"]
+        judge = { "name" => @row["Bound Party Name"], "role" => "judge"}
+        list << judge
+      end
+      if @row["Additional Parties"]
+        additional_parties = @row["Additional Parties"].split("; ").map do |p|
+          { "name" => p, "role" => "additional party" }
+        end
+        list << additional_parties
+      end
+      list
     end
   
     def places
