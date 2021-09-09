@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0470.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0470.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 8, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>13 June 1897</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Burns, Pat
+Moyer, William H.
+Moors, A. N.  
+Sproul, G. C. 
+Ayres, A. Reeves
+Matthew, H.M.</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington
+Seattle, Washington
+Olympia, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Burns, Pat</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Sproul, G. C. </persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName></persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Kings County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0470.001"/> <!-- insert number from spreadhseet -->
+<p>I N T H E U N I T E D S T A T E S C I R C U I T C O U R T,</p>
+<p>FOR THE DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>--------oo00oo-------</p>
+<p>In the matter of the application:
+of Pat Burns for the Writ of Habeas Corpus: P E T I T I O N
+and Relief thereon.</p>
+<p>To the Honorable Circuit Court of the United States, for the District
+of Washington, and to the Judges thereof: </p>
+<p>Your petitioner, Pat Burns, alleges and shows:</p>
+<p>I</p>
+<p>That he is a citizen and a resident of the United States, residing
+in the County of King, at the City of Seattle, in the State of Washington.</p>
+<p>II</p>
+<p>That he is now being unlawfully detained and unlawfully held
+ in custody by William H. Moyer, Sheriff of King County, and, against his
+wish, is being held by the said Moyer under threats of the said Moyer,
+as Sheriff of King County, to transport him, the Petitioner, to the
+State Penitentary at Walla Walla, there to be confined for the period
+of five years under an alleged process and authority as herein-
+after more fully stated; and that the said Moyer threatens to carry
+said incarceration into immediate execution.</p>
+<p>III.</p>
+<p>Your Petitioner alleges that the said threat and attempt to
+imprision him as aforesaid is set for and arranged to be, as your 
+Petitioner understands, at once, and that the same is wholly without
+authority of law and without the jurisdiction of any court and contrary
+to the Laws and contrary to the rights of your Petitioner as a citizen
+of the United States under the constitution and law as will more fully
+appear in the matters hereinafter set forth.</p>
+<p>IV.</p>
+<p>Your Petitioner informs the court that on or about the 13 day of 
+June, 1897 he was attempted to be charged by the State of 
+Washington, by pretended information of the crime of grand larceny.
+and that your Petitioner was tried upon said alleged information upon
+issue joined in the Superior Court of King County, State of Washington,
+and was in said Court by virtue of said alleged information found
+guilty and sentenced by said court to 5 years in the Penitentiary
+of the State of washington, and that Your Petitioner perfected an
+appeal from said judgment which has been by the Supreme Court of
+the State of Washington affirmed upon the errors therein  assigned,
+and that said charge of grand larceny of which your Petitioner was
+convicted was and is a felony, and that Your Petitioner was not
+proceeded against by an indictment by any grand Jury of said Court;
+but, on the contrary, upon information, which information was an 
+attempt to comply with the Constitution and Laws of the State of 
+Washington, but that the same was not verified as by law required;
+and your Pettioner further states, that the provision of the said
+Constitution of the State of Washington and the laws enacted there-
+under whereby and upon which said attemped information was predicated
+were, and are, in derogation of and against the constitutional liber-
+ties granted your petitioner by the Constiution of the United States,
+and that the Honorable Court so trying and sentencing your Petitioner
+was wholly without jurisdiction and all of its acts in the premises
+were absolutely void: and that said court nort the judge thereof had
+any jurisdiction or authority to make any order of imprisonment for
+the imprisonment of your Petitioner in said cause; tthat notwithstand-
+ing all of the objections presented before said court and said Judge,
+your Petitioner was nevertheless ordered to be incarcerated as afore-
+said; that there was no authority for such order and the same is 
+wholly contrary to the laws of the United States and of the Con-
+stitution of the United States and the rights of your Petitioner as a 
+citizen of the United States,</p>
+<p>WHEREFORE, your Petitioner asks that upon due hearing of the cause
+and upon examination of the records of the cause and the evidence in 
+the cause, your Honor will make an order discharging your Petitioner
+and that your Honor will grant unto your Petitioner a Writ of Habeas
+Corpus commanding your Petitioner to be brought before the Court at
+such time and place as to the Court may be convenient for the hearing
+of the matters and things herein alleged by your Petitioner, and that
+your Honor do issue a Writ of certiotati to the Superior Court of the
+State of Washington for King County ordering to be duly certified to
+the Court the records of this said cause, particularily the alleged
+information, the verdict, the judgment and warrant of imprisonment
+made in the premises; that your Honor and the Court may be informed
+in the premises, and that upon such records and upon hearing of the
+cause such other and further orders shall be made in the premises
+as will be right and proper,
+And your Peitioner will ever pray.</p>
+<p>Patrick W. Burns</p>
+<p>Petitioner.</p>
+<p>Attorneys for Petitioner.</p>
+<p>State of Washington, )</p>
+<p>County of King. ) ss.</p>
+<p>Pat Burns, being first duly sworn,
+on oath says: That he is the Petitioner herein; that he knows the
+matters and things set forth in the petition, and of the matters of
+his own knowledge says they are true, and the other matters of law
+he is advised by his counsel that they are true and therefore believes
+the whole of said petition to betrue.</p>
+<p>Patrick W. Burns</p>
+<p>Subscribed and sworn to before me
+this 12th day of July, A.D. 1898,</p>
+<p>G. C. Sproul</p>
+<p>Notary Public in and for the State of 
+Washington, residing at Olympia</p>
+<p>No. 701</p>
+<p>IN THE </p>
+<p>U. S. Circuit Court</p>
+<p>District of Washington
+Northern Division</p>
+<p>State of Washington</p>
+<p>In the Re Pat Burns</p>
+<p>vs.</p>
+<p>Petition</p>
+<p>FILED July 12 1898</p>
+<p>IN THE</p>
+<p>U. S. CIRCUIT COURT</p>
+<p>A. Reeves Ayres</p>
+<p>Clerk.</p>
+<p>By A. N. Moors</p>
+<p>Deputy</p>
+<p>STOCK + Sproul</p>
+<p>SEATTLE, WASH.</p>
+<p>Attorneys for Petition</p>
+<p>United States Circuit Court for the District of Washington.</p>
+<p>In the matter of application
+of Pat Burns for Writ 
+of Habeas Corpus</p>
+<p>no. 701 Praecipe.</p>
+<p>To the Clerk of the above entitled Court:</p>
+<p>You will please enter my appearance as attorney 
+for applicant in this matter</p>
+<p> G. C. Jorarl</p>
+<p>Attorney for Petitioner</p>
+<p>NOTICE-- Attorneys will please endorse their own Filings. Rule 47.</p>
+<p>10.00 pd
+Tx.</p>
+<p>no. 791</p>
+<p>GoB 5-XoX.</p>
+<p>United States Circuit Court</p>
+<p>District of Washington.</p>
+<p>In re- Pat Burns</p>
+<p>vs.</p>
+<p>Praecipe</p>
+<p>for appearance</p>
+<p>FILED July 12 1898</p>
+<p>A. Reeves Ayres</p>
+<p>Clerk.</p>
+<p>A. N. Moors</p>
+<p>Deputy Clerk.</p>
+<p>For</p>
+<p>United States Circuit Court for the District of Washington.</p>
+<p>In the matter of this application
+of Patrick Burns for a
+Writ of Habeas Corpus</p>
+<p>no. 701 Praecipe</p>
+<p>vs.</p>
+<p>To the Clerk of the above entitled Court:</p>
+<p>You will please enter of withdrawl and dismissal
+of this application for a writ in the aforementioned
+matters on part of applicant and petitioner</p>
+<p> Date Jul 8th 1899.</p>
+<p>G. C. Sprout</p>
+<p>Attorney for Petitioner</p>
+<p>no. 701</p>
+<p>United States Circuit Court</p>
+<p>District of Washington</p>
+<p>GoB 6-9.</p>
+<p>In the matter of the
+application of Pat
+Burns for writ of 
+Habeas Corpus</p>
+<p>Praecipe. 
+for dismissal</p>
+<p>Filed FILED IN THE 
+U. S. Circuit Court, 189
+DIST. OF WASHINGTON.</p>
+<p>FEB 8 1899 Clerk.</p>
+<p>A. Reeves Ayres, Clerk</p>
+<p>H.M. Matthew Dep. Deputy Clerk.</p>
+<p>For</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
