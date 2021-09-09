@@ -139,7 +139,20 @@ class CsvToEs
     end
   
     def places
-      @row["State"]
+      places = []
+      if @row["State"]
+        state = @row["State"]
+        places << state
+        if @row["County"]
+          county = @row["County"] + " County, " + @row["State"]
+          places << county
+        end
+        if @row["City"]
+          city = @row["City"] + ", " + @row["State"]
+          places << city
+        end
+      end
+      places
     end
   
     def publisher
