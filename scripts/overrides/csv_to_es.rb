@@ -34,6 +34,16 @@ class CsvToEs
 			# @json["petitioning_attorney_k"] = petitioning_attorney_k
 			# @json["judge_k"] = judge_k
 			# @json["holding_party_k"] = holding_party_k
+      @json["bound_party_age_k"] = @row["Bound Party Age"]
+      @json["bound_party_sex_k"] = @row["Bound Party Sex"]
+      @json["bound_party_minor_k"] = @row["Bound Party Minor"]
+      @json["bound_party_age_category_indicated_k"] = @row["Age Category Indicated"]
+      @json["bound_party_race_indicated_k"] = @row["Race Indicated"]
+      @json["bound_party_race_determined_k"] = @row["Race Determined"]
+      @json["bound_party_immigrant_k"] = @row["Bound Party Immigrant"]
+      @json["bound_party_nationality_k"] = @row["Bound Party Nationality"]
+      @json["bound_party_relationship_to_holding_party_k"] = @row["Relationship To Holding Party"]
+      @json["petitioner_relationship_to_bound_party_k"] = @row["Relationship To Bound Party"]
 			@json["court_k"] = @row["Court"]
 			@json["additional_parties_k"] = @row["Additional Parties"]
 			@json["outcome_k"] = @row["Outcome"]
@@ -59,12 +69,14 @@ class CsvToEs
     # end
   
     # def contributor
-    #   # nested field
-    #   if @row["Contributor"]
-    #     @row["Contributor"].split("; ").map do |p|
-    #       { "name" => p }
-    #     end
-    #   end
+    #   # attributing everything to Katrina? leaving this aside
+    #   [
+    #       {
+    #         "id": "kj",
+    #         "name": "Katrina Jagodinsky",
+    #         "role": ""
+    #       }
+    #     ]
     # end
   
     def date(before=true)
@@ -97,18 +109,18 @@ class CsvToEs
 
     def person
       list = []
-      bound_party = { "name" => @row["Bound Party Name"], "role" => "bound party"}
+      bound_party = { "name" => @row["Bound Party Name"], "role" => "bound_party"}
       list << bound_party
       if @row["Petitioner Name"]
         petitioner = { "name" => @row["Petitioner Name"], "role" => "petitioner"}
         list << petitioner
       end
       if @row["Petitioning Attorney Name"]
-        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "petitioning attorney"}
+        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "attorney_petitioner"}
         list << petitioning_attorney
       end
       if @row["Holding Party Name"]
-        holding_party = { "name" => @row["Holding Party Name"], "role" => "holding party"}
+        holding_party = { "name" => @row["Holding Party Name"], "role" => "holding_party"}
         list << holding_party
       end
       if @row["Judge Name"]
@@ -119,7 +131,9 @@ class CsvToEs
         additional_parties = @row["Additional Parties"].split("; ").map do |p|
           { "name" => p, "role" => "additional party" }
         end
-        list << additional_parties
+        additional_parties.each do |p|
+          list << p
+        end
       end
       list
     end
@@ -160,7 +174,7 @@ class CsvToEs
     end
 
 		def spatial
-			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State"]}
+			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State"], "place_name" => @row["Court"]}
 			place
 		end
 
