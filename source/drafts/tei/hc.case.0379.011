@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0162.013">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ray Raymond v. Territory of Washington. W.D. Gillespie Called in Rebuttal</title>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
-<name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
-<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -44,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0162.013</idno>
+<idno type="project">hc.case.0000.000</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ray Raymond v. Territory of Washington. W.D. Gillespie Called in Rebuttal</title>
-<date when="1886">June 30, 1886</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,54 +77,49 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gillespie, W.D.</term>
-<term>Stanley, Ruby</term>
+<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County, Washington</term>
+<term>King County, Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Raymond, Ray</persName>
+<persName></persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName></persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="defendant">
-<persName></persName>
-</person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName></persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -145,15 +130,9 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.0162.013"/>
+<pb facs="hc.case.0000.000"/> <!-- insert number from spreadhseet -->
 
-<p>W.D. Gillespie, Called in Rebuttal</p>
 
-<p>I was preseant at the 
-Corners inquest of the <add>body</add> deceased
-I heard the testimony of Ruby
-Stanley at that time, I can state 
-the substance of her oath at that time</p>
 </div1>
     
 </body>
