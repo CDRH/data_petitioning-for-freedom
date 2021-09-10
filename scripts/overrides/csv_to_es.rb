@@ -8,6 +8,7 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
+      # commenting out nested fields and info that can be moved to generic person
 			# bound_party_k = {
 			# 	"name" => @row["Bound Party Name"],
 			# 	"age" => @row["Bound Party Age"],
@@ -109,27 +110,27 @@ class CsvToEs
 
     def person
       list = []
-      bound_party = { "name" => @row["Bound Party Name"], "role" => "bound_party"}
+      bound_party = { "name" => @row["Bound Party Name"], "role" => "Bound party"}
       list << bound_party
       if @row["Petitioner Name"]
-        petitioner = { "name" => @row["Petitioner Name"], "role" => "petitioner"}
+        petitioner = { "name" => @row["Petitioner Name"], "role" => "Petitioner"}
         list << petitioner
       end
       if @row["Petitioning Attorney Name"]
-        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "attorney_petitioner"}
+        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "Petitioning attorney"}
         list << petitioning_attorney
       end
       if @row["Holding Party Name"]
-        holding_party = { "name" => @row["Holding Party Name"], "role" => "holding_party"}
+        holding_party = { "name" => @row["Holding Party Name"], "role" => "Holding party"}
         list << holding_party
       end
       if @row["Judge Name"]
-        judge = { "name" => @row["Bound Party Name"], "role" => "judge"}
+        judge = { "name" => @row["Bound Party Name"], "role" => "Judge"}
         list << judge
       end
       if @row["Additional Parties"]
         additional_parties = @row["Additional Parties"].split("; ").map do |p|
-          { "name" => p, "role" => "additional party" }
+          { "name" => p, "role" => "Additional party" }
         end
         additional_parties.each do |p|
           list << p
@@ -157,14 +158,14 @@ class CsvToEs
   
     def publisher
       #is this the correct version?
-      @row["Repository"]
+      "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
     end
   
-    def rights_holder
-      # @row["Rights"]
-			# below may not be correct
-			@row["Repository"]
-    end
+    # def rights_holder
+    #   # @row["Rights"]
+		# 	# below may not be correct
+		# 	@row["Repository"]
+    # end
   
     def rights_uri
       # TODO
