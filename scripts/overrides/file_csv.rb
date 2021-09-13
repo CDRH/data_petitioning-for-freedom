@@ -16,13 +16,11 @@ class FileCsv < FileType
     def transform_es
         # Calling `super` here uses Datura's FileType.transform_es rather
         # than its FileCsv.transform_es, so copying latter's code for now
-        byebug
         puts "transforming #{self.filename}"
         es_doc = []
         @csv.each do |row|
-            if !row.header_row?
+            if !row.header_row? && row["Case ID"]
                 es_doc << row_to_es(@csv.headers, row)
-            end
             end
             
         if @options["output"]
@@ -38,7 +36,6 @@ class FileCsv < FileType
           headers: ["Case ID", "Case Name", "Case Citation Or Source", "Repository", "Earliest Date", "Latest Date", "Civil or Criminal", "Petition Type", "Bound Party Name", "Petitioner Name", "Relationship To Bound Party", "Petitioning Attorney Name", "Judge Name", "Court", "City", "County", "State", "Bound Party Sex", "Bound Party Minor", "Bound Party Age", "Age Category Indicated", "Race Indicated", "Race Determined", "Bound Party Immigrant", "Bound Party Nationality", "Relationship To Holding Party", "Holding Party Name", "Additional Parties", "Outcome", "Additional Related Action", "Notes"],
           return_headers: true
         })
-
-      end
+    end
 
 end
