@@ -7,7 +7,6 @@ class FileCsv < FileType
         #read the spreadsheet from external source
         spreadsheet = open('https://docs.google.com/spreadsheets/d/1sL3fKAt4mKcRnTtOpnFbOyD3Sbk-fAg6-iklfRP_qQY/export?format=csv&id=1sL3fKAt4mKcRnTtOpnFbOyD3Sbk-fAg6-iklfRP_qQY&gid=1728505676')
         IO.copy_stream(spreadsheet, file_location)
-        byebug
         #pick out the sheet I want
         #save it to source/csv as habeas.csv (or whatever, maybe we need multiple files)
         @csv = read_csv(file_location, options["csv_encoding"])
@@ -32,5 +31,14 @@ class FileCsv < FileType
         end
         es_doc
     end
+
+    def read_csv(file_location, encoding="utf-8")
+        CSV.read(file_location, {
+          encoding: encoding,
+          headers: ["Case ID", "Case Name", "Case Citation Or Source", "Repository", "Earliest Date", "Latest Date", "Civil or Criminal", "Petition Type", "Bound Party Name", "Petitioner Name", "Relationship To Bound Party", "Petitioning Attorney Name", "Judge Name", "Court", "City", "County", "State", "Bound Party Sex", "Bound Party Minor", "Bound Party Age", "Age Category Indicated", "Race Indicated", "Race Determined", "Bound Party Immigrant", "Bound Party Nationality", "Relationship To Holding Party", "Holding Party Name", "Additional Parties", "Outcome", "Additional Related Action", "Notes"],
+          return_headers: true
+        })
+
+      end
 
 end
