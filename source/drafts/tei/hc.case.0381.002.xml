@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0381.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Marion Fair v. Territory of Washington. Granting Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0381.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Marion Fair v. Territory of Washington. Granting Writ.</title>
+<date when="1862-08-13">August 13, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository></repository>
 <collection></collection>
-<idno></idno>
+<idno>WAL 580</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1862-08">August 1862</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Senton, B. N.</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Marshall, James B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Nez Perce County</term>
 </keywords>
 
 </textClass>
@@ -94,10 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Fair, Marion</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,21 +109,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Ethelbert, Oliphant P.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>First Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,36 +151,19 @@ Peace, in and for said county, and by him duly commanded.
 And now to wit Aug. 15 1862
 it is hereby ordered, that Subpoena issue for
 John Shighlong and Robert Coal, and such
-toehr witnesses as may be aquired by the presenting
+other witnesses as may be aquired by the presenting
 attorney, to defense before me at the Court
 room on Saturday Aug. 16 1862 at 1 o.c. P.M.
 of said day, to testify on behalf of the Territory,
-<unclear/> that the prisoners be returned to his custody
+and that the prisoners be returned to his custody
 of Sheriff until the time above last mentioned.</p>
 <ab>E.P. Oliphant
 Judge of C.</ab>
-<p>Aug. 16th 1862, Writ of Hab.Cor in case of Ter of Wn
-W.M. Kirby, Dept has before the Judge as the
-Sheriff returns, answered by leave,</p>
-<p>S. <unclear>Alepaceden</unclear> (sworn) I was elected Constable
-of Nez Perce County, Wash I am acting
-as Constable of Nez Perce for I know
-the Prisoner. He was examined before
-a justice and commanded to my custody
-on a charge of <unclear>harmful</unclear> murder. He is 
-cared for in my custody.</p>
-<p>X Have no properties in my possession.</p>
-<p>And now to wit Aug. 16 1862. The examing 
-Judge being duly satified tht the 
-defendant W. M. Knig, has been charged with
-the offense of Homecide committed in Nez
-Perce County, W.T.  and after examining had
-before a Justice of the Peace of said County has
-duly committed to S. Alexander Constable of 
-said County and that he <unclear></unclear> from the
-custody of said constable; it is hearby ordered
-that the Sheriffs of Walla Walla County in
-whose change and keeping the said </p>
+<gap reason="irrelevant"></gap>
+<pb/>
+<ab>Filed August 16th 1862
+B.N. Selton
+Clerk</ab>
 </div1>
     
 </body>
