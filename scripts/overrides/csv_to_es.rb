@@ -53,7 +53,7 @@ class CsvToEs
 		end
 		
 		def id
-      @row["Case ID"]
+      get_id
     end
   
     def category
@@ -101,7 +101,9 @@ class CsvToEs
     # end
   
     def get_id
-      @row["Case ID"] ? @row["Case ID"] : "blank"
+      id = @row["Case ID"] ? @row["Case ID"] : "blank"
+      id = id.split(" ")[0]
+      id
     end
   
     def language
