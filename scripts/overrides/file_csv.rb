@@ -5,8 +5,21 @@ class FileCsv < FileType
     def initialize(file_location, options)
         super(file_location, options)
         #read the spreadsheet from external source
-        spreadsheet = open('https://docs.google.com/spreadsheets/d/1sL3fKAt4mKcRnTtOpnFbOyD3Sbk-fAg6-iklfRP_qQY/export?format=csv&id=1sL3fKAt4mKcRnTtOpnFbOyD3Sbk-fAg6-iklfRP_qQY&gid=1728505676')
+        key = "1UjklbuQwN3uyEbi2wzoOJunC4a-h58RJ2hxa2whFxWI"
+        sheets = {
+            "iowa.csv" => "18278945",
+            "kansas.csv" => "1493529418",
+            "missouri.csv" => "161023288",
+            "nebraska.csv" => "0",
+            "us.csv" => "1342876964",
+            "washington.csv" => "1217279103"
+        }
+        name = file_location.split("/")[-1]
+        gid = sheets[name]
+        url = "https://docs.google.com/spreadsheets/d/#{key}/export?format=csv&id=#{key}&gid=#{gid}"
+        spreadsheet = open(url)
         IO.copy_stream(spreadsheet, file_location)
+        
         #pick out the sheet I want
         #save it to source/csv as habeas.csv (or whatever, maybe we need multiple files)
         @csv = read_csv(file_location, options["csv_encoding"])
