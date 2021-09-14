@@ -52,6 +52,7 @@ class CsvToEs
 			@json["notes_k"] = @row["Notes"]
       @json["civil_criminal_k"] = @row["Civil Or Criminal"]
       @json["repository_k"] = @row["Repository"]
+      @json["jurisdiction_k"] = @row["State"]
 		end
 		
 		def id
