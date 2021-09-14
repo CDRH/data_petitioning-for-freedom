@@ -50,6 +50,8 @@ class CsvToEs
 			@json["outcome_k"] = @row["Outcome"]
 			@json["additional_related_action_k"] = @row["Additional Related Action"]
 			@json["notes_k"] = @row["Notes"]
+      @json["civil_criminal_k"] = @row["Civil Or Criminal"]
+      @json["repository_k"] = @row["Repository"]
 		end
 		
 		def id
