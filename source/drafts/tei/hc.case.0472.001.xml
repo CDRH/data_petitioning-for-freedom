@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0472.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0472.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>13 May 1897</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Pierce, John A.
+Speck, Robert D.
+Baldwin, Harris 
+Hanford, C. H. 
+Aspland, Lise C.
+White, E. T.
+Pomeroy, Frances A. 
+Aspland, Andrew 
+Aspland, Ella May 
+Brown, Abel 
+Wilkinson, M. A.  
+Aspland, John H. 
+White, E. T. 
+Aspland, Jennie 
+Switzer, W. D. 
+Magnus, Franz
+Sempee,John M. 
+Sawyer, Mary
+Spence, William C. 
+Corbett, J. E. 
+Eldridge, John 
+Hair, N. C. 
+Valentine, John E. </term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Webster, George</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Webster, George</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName> Del Cary Smith</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Pierce, John A.
+Baldwin, Harris</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H. </persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, Ninth Judicial Circuit, District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0472.001"/> <!-- insert number from spreadhseet -->
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES/, NINTH JUDICIAL CIRCUIT.</p>
+<p>DISTRICT OF WASHINGTON. NORTHERN DIVISION.</p>
+<p>In the Matter of the application of
+George Webster,</p>
+<p>for</p>
+<p>A Writ of Habeas Corpus.</p>
+<p>To the Hon. C. H. Hanford, Judge of the Circuit Court of the
+United States, Ninth Judicial Circuit, District of Washington,
+Northern Division.</p>
+<p>The petition of George Webster respectfully shows to your
+Honor:</p>
+<p>First- That the said petitioner is now a prisoner imprisoned
+and confined in the County Jail at Spokane, Spokane County, State
+ of Washington, in the custody of Robert D. Speck, Sheriff of Spokane
+County, State of Washington.</p>
+<p>Second- That the cause or pretense of the restraint of the
+said petitioner according to the best of his knowledge and belief
+is, that on the 13th day of May, 1897, John A. Pierce as proecuting
+attorney in and for the County of Spokane, State of Washington,
+made and filed with the Clerk of the Superior Court of the State of
+Washington, in and for Spokane County, an information, charging the
+above named petitioner with the crime of murder in the first de-
+gree, which said information is in writing in words and figures as
+follows, to-wit:</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON</p>
+<p>IN AND FOR THE COUNTY OF SPOKANE.</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>v.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Information for Murder
+in the First Degree.</p>
+<p>Whereas the hereinafter specified public offense has been com-
+mitted by the said defendant George Webster, and whereas the said
+defendant George Webster is not under indictment therefor; and whereas
+the said defendant is in custody charged with having committed the
+said public offense; and whereas the said court is in session, and 
+no Grand Jury of, in or for said County is in session; now, there-
+fore, John A. Pierce, Prosecuting attorney in and for the County of
+Spokane, and State of Washington, and in the name and by the au-
+thority of the State of Washington, by this Information informs
+the said court and gives the said court to understand, know and
+be informed that the said defendant George Webster is hereby charg-
+ed with a public offense, to-wit; the crime of murder in the first
+degree, committed as follows, to-wit; that on the sixth day of May,
+A. D. 1897, and within three years before the filing of this In-
+formation, at the County of Spokane and State of Washington, the
+said defendant George Webster, then and there in the said County
+and State being, then and there unlawfully, felioniously and pur-
+posely, and of his deliberate and premeditated malice, killed Lise
+C. Aspland, by then and there purposely, and of his deliberate and
+premeditated malice, shooting and mortally wounding the said Lise C.
+Appland with a gun, commonly called a revolver, which he, the said
+George Webster, then and there held in his hand, contrary to the 
+Statutes- in such case made and provided and against the peace and
+dignity of the State of Washington.</p>
+<p>JOHN A. PIERCE.
+Prosecuting attorney and 
+Informant.</p>
+<p>By</p>
+<p>HARRIS BALDWIN
+Deputy Prosecuting Attorney</p>
+<p>State of Washington )
+) ss
+County of Spokane. )</p>
+<p>Harris Baldwin, being first duly sworn, upon his oath
+deposes and says; that he is the duly appointed, qualified and act-
+ting deputy prosecuting attorney in and for the County of Spo-
+kane, State of Washington, and that all and singluar the several
+statements, allegations, matters and things set out in the above
+and foregoing information are true.</p>
+<p> HARRIS BALDWIN</p>
+<p>Sworn to and subscribed before me this 13th day of May, A. D. 1897.
+E. T. WHITE</p>
+<p>Notary Public for the State of
+Washington, residing at Spokane
+Washington.</p>
+<p> (SEAL of Notary Public.)</p>
+<p>Names of Witnesses known to the prosecuting attorney at
+the time of filing this information:</p>
+<p>Frances A. Pomeroy
+Andrew Aspland
+Ella May Aspland
+Abel Brown
+M. A. Wilkinson</p>
+<p>John H. Aspland
+E. T. White
+Jennie Aspland
+W. D. Switzer
+Franz Magnus</p>
+<p>John M. Sempee
+Mary Sawyer
+Wm. C. Spence
+J. E. Corbett
+John Eldridge</p>
+<p>Second-a- That thereafter such proceedings were had and taken
+in said cause in said Superior Court that the said cause coming on
+regularly for trial, one N. C. Hair, was called as a juror in said
+cause upon being examined touching his qualifications to act
+ as a jurir in said cause, answered that he was at said time the
+client of John A. Pierce who was then the prosecuting attorney for 
+Spokane County, Washington, and who was then representing the 
+State of Washington in the said cause, and thereupon the said George
+Webster by his attorneys, challenged the said juror N. C. Hair, for
+implied bias on the ground that the relation of attorney and client
+at said time existed between the sad juror and the said prosecut-
+omg attorney/ and that the said juror N. C. Hair was, under the pro-
+visions of Sec. 345 of Vol. 2 of Hills Code of the State of Washing-
+ton, which is as follows; "Standing in the relation of guardi-
+an and ward, attorney and client, master and servant, or landlord
+and tenant, to the adverse party; or being a member of the family
+of, or a partner in business with, or in the employment for wages
+of the adverse party etc., "disqualified and incompetent to 
+ </p>
+<p>Second B- That thereafter such proceedings were had and taken
+in said cause in said Superior Court, that the said cause coming
+on regularly for rial one John E. Valentine was called as a juror
+to answer questions touching his qualifications to act as a juror
+in said cause, and upon examination of the said juror John E. Val-
+entine, touching his qualifications, he, the said huror testified
+as follows;
+</p>
+<p>Q From what you read did you form an opinion as to the guilt of 
+innocence of the defendant?
+A Well, as is natural when a person reads anything of that kind 
+he would have an opinion.
+Q Have you that opinion now?
+A Well, somewhat.
+Q Is that such an opinion as would require evidence to remove or
+change?
+A Some. Yes sir.
+Q Would it require strong evidence to change your opinion?
+A Fairly good.
+Q In that such an opinion as would require the evidence of at
+least one witness to change?
+A Yes sir.
+Q Is that opinion that you have now, a fixed and decided opinion
+from what you have reas?
+A no.
+Q Assuming what you have read to be true have you, then a fixed
+and decided opinion?
+A Yes sir. If it was true,
+Q Welll, at any rate you now entertain an opinion that would re-
+quire strong evidence to remove?
+A Well, it would require some evidence, yes sir. Not particularly
+strong evidence; it would require some evidence.
+Q It would require some evidence of at least one witness?
+A Yes sir.
+Q To change your present opinion?
+A Yes sir.
+</p>
+<p>(Statemet of Facts p. 195-196</p>
+<p>That thereupon the said petitioner by his said attorneys chal-
+lenged the said juror John E. Valentine, for cause on the ground
+of actual bias, which said challenge of the said petitioner wasthen
+and there denied by the said Superior Court, to which the said pe-
+titioner duly excepted and an exception was allowed. And petitioner
+alleged, that under the laws of the State of Washington in force
+at the time of the trial of this cause, the said petitioner was en-
+titled to exercise twelve peremptory challenges; and petitioner
+further alleges, that upon the trial of said cause upon the said in-
+foormation he, the said petitioner did exercse eleven peremptory
+challenges, and did excuse eleven jurors peremptorily.</p>
+<p>Third- That thereafter such proceedings were had and taken in 
+said cause in the said Superior Court, of the State of Washington, in
+and for the County of Spokane, that on the 14th day of May, A. D.
+1897, the attorneys for the said petitioner made and filed with the
+clerk of the said Superior Court a motion to quash and set aside
+the said information, which said motion is in writing in words
+and figures as follows, to-wit:</p>
+<p>IN THE SUPERIOR COURT OF THESTATE OF WASHINGTON FOR SPOKANE COUNTY
+</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>vs.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Comes now the above named defendant by his attorneys
+Del Cary Smith, and moves the court to quash and set aside the in-
+formation (page 7)</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
