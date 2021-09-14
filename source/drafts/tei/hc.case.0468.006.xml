@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0468.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>State of Washington v. Opinion. Opinion</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0468.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">State of Washington v. Opinion. Opinion</title>
+<date when="1897-10-20">October 20, 1897</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,11 +79,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1897-10">October 1897</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Moore, A. N.</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,33 +96,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Considine, John W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiley, John</persName>
+<persName>Bostwick, Harrison</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Feighan, J. W.</persName>
+<persName>Winston, Patrick Henry</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,59 +139,59 @@
 
 <pb/>
 
-IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,
-NORTHERN DIVISION.
+<ab>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,
+NORTHERN DIVISION.</ab>
 
-In the Matter of the Application
+<ab>In the Matter of the Application
 of John W. Considine, for a Writ 
-of Habeas Corpus.
+of Habeas Corpus.</ab>
 
-OPINION.
-Filed October 20, 1897.
+<ab>OPINION.
+Filed October 20, 1897.</ab>
 
-Harrison Bostwick, For Petitioner.
+<ab>Harrison Bostwick, For Petitioner.</ab>
 
-Patrick Henry Winston,
+<ab>Patrick Henry Winston,
 Attorney General,
-For Respondent.
+For Respondent.</ab>
 
-HANFORD, District Judge:-
+<ab>HANFORD, District Judge:-</ab>
 
-The application for a 
+<p>The application for a 
 writ of habeas corpus in this case presents for decision the question
 whether the following statute of the State of Washington is
-repugnant to the Constitution of the United States:
+repugnant to the Constitution of the United States:</p>
 
-"No female person shall be employed in any capacity in any
+<p>"No female person shall be employed in any capacity in any
 saloon, beer hall, bar room, theatre, or place of amusement, where
 intoxicating liquors are sold as a beverage, and any person or
 corporation convicted of so employing, or of participating in so
 employing, any such female person shall be fined not less than five
 hundred dollars; and any person so convicted may be imprisoned in
 the county jail for a period of not less than six months."
-(Laws Wash. 1895, p. 177.)
+(Laws Wash. 1895, p. 177.)</p>
 
-The petitioner was convicted in the Superior Court for Spokane
+<p>The petitioner was convicted in the Superior Court for Spokane
 County, of a violation of this statute, and the judgment against him
 has been affirmed by the Supreme Court of the State of Washington;
 State v. Considine, 16 Wash. 358-365; 47 Pac. Rep. 755. After the
 judgment of the Supreme Court had been rendered, and the petition
 for a rehearing denied, he filed his petition herein, for a writ of
 habeas corpus, alleging that he was unlawfully imprisoned under said
-judgment, for non-payment of the fine imposed.
+judgment, for non-payment of the fine imposed.</p>
 
-This court has no jurisdiction to review decisions of the
+<p>This court has no jurisdiction to review decisions of the
 Supreme Court of the State, upon questions of procedure in the
 State courts under State laws, or questions involving the interpretation
 or application of the provisions of the State Constitution,
-therefore, I will only say in answer to the argument of counsel for
+therefore, I will only say in answer to the argument of counsel for</p>
 
 <pb/>
 
-the petitioner, as to those questions, that the decision of the
-Supreme Court of the State is final and conclusive.
+<p>the petitioner, as to those questions, that the decision of the
+Supreme Court of the State is final and conclusive.</p>
 
-The contention of the petitioner is, that in contravention of
+<p>The contention of the petitioner is, that in contravention of
 the provisions of the 14th amendment to the Constitution of the
 United States, the statute under which he was convicted, does
 abridge the privileges and immunities of citizens of the United
@@ -197,13 +201,13 @@ persons lawfully engaged in the liquor business, of the privilege
 or right of employing women who are competent to contract with
 reference to their own services; and in this, that it deprives
 women of freedom in their choice of vocations, and makes it unlawful
-for them to engage in employment which is lawful for men.
+for them to engage in employment which is lawful for men.</p>
 
-In the opinion of the Supreme Court of the United States, by
+<p>In the opinion of the Supreme Court of the United States, by
 Chief Justice Fuller, in the case of Giozza v. Tiernan, 148 U.S.
-657-662, it is declared that:
+657-662, it is declared that:</p>
 
-"The amendment does not take from the States those powers of
+<p>"The amendment does not take from the States those powers of
 police that were reserved at the time the original Constitution was
 adopted. Undoubtedly it forbids any arbitrary deprivation of life,
 liberty or property, and secures equal protection to all under like
@@ -211,13 +215,13 @@ circumstances in the enjoyment of their rights; but it was not designed
 to interfere with the power of the State to protect the lives
 liberty and property of its citizens, and to promote their health,
 morals, education and good order. Barbier v. Connolly, 113 U. S. 
-27, 31; In re Kemmler, 136 U. S. 436."
+27, 31; In re Kemmler, 136 U. S. 436."</p>
 
-The following paragraph from the opinion of the Supreme Court
+<p>The following paragraph from the opinion of the Supreme Court
 by Mr. Justice Harlan, in the case of Plumley v. Massachusetts, 155
-U. S. 461-482, also bears directly upon the question in this case:
+U. S. 461-482, also bears directly upon the question in this case:</p>
 
-"We are not unmindful of the fact-- indeed, this court has
+<p>"We are not unmindful of the fact-- indeed, this court has
 often had occasion to observe-- that the acknowledged power of the
 States to protect the morals, the health, and safety of their people
 by appropriate legislation, sometimes touches, in its exercise, the
@@ -231,25 +235,25 @@ governments, which ratain and exercise all powers not delegated to
 the Union," the judiciary of the United States should not strike
 down a legislative enactment of a State-- especially if it has 
 direct connection with the social order, the health, and the morals
-of its people-- unless such legislation plainly and palpably 
+of its people-- unless such legislation plainly and palpably </p>
 
 <pb/>
 
-violates some right granted or secured by the national Constitution or
+<p>violates some right granted or secured by the national Constitution or
 encroaches upon the authority delegated to the United States for
-the attainment of objects of national concern."
+the attainment of objects of national concern."</p>
 
-This statute is general in its scope, and applies equally to 
+<p>This statute is general in its scope, and applies equally to 
 all persons similarly situated; it is not therefore, in any sense
 partial or arbitrary. It was not enacted to do injury or work
 injustice. On the contrary, the intent of the legislature is manifest
 to check the tendency towards immorality of the association
 of the sexes in places of resort, where intoxicating beverages are
-sold, and where the worst passions are aroused.
+sold, and where the worst passions are aroused.</p>
 
-It is true that the statute does not appear to be aimed in the
+<p>It is true that the statute does not appear to be aimed in the
 most direct manner at the evil tendencies of association of the 
-sexes in drinking places. Criminaity under the statute, consists
+sexes in drinking places. Criminality under the statute, consists
 in the employment of female persons in such places, and it forbids
 the employment of women for any service, going to the extent of
 forbidding the engagement of actresses in theatres wherein liquor
@@ -268,42 +272,42 @@ and box-ruslers find regular employment, and may be found in
 habitual attendance, have offended the moral sensabilities of the
 people. If, in its result, the statute does not effect the reformation
 intended, it is for the legislature to consider whether it
-will enact a more drastic law.
+will enact a more drastic law.</p>
 
-But the constitutionally of a law is not to be tested by
-questioning its efficacy. Whether well designed to accomplish the
-
-<pb/>
-
-purpose intended, or otherwise, the law is a police regulation, and
-clearly within the poice power of the State, which has not been
-taken away by the 14th amendment.
-
-Petition denied.
-
-C. H. Hanford
-
-Judge.
+<p>But the constitutionally of a law is not to be tested by
+questioning its efficacy. Whether well designed to accomplish the</p>
 
 <pb/>
 
-Tx
+<p>purpose intended, or otherwise, the law is a police regulation, and
+clearly within the police power of the State, which has not been
+taken away by the 14th amendment.</p>
 
-No. 626
+<ab>Petition denied.</ab>
 
-IN THE Circuit COURT
+<ab>C. H. Hanford</ab>
+
+<ab>Judge.</ab>
+
+<pb/>
+
+<ab>Tx</ab>
+
+<ab>No. 626</ab>
+
+<ab>IN THE Circuit COURT
 OF THE UNITED STATES
 FOR THE
-DISTRICT OF WASHINGTON
+DISTRICT OF WASHINGTON</ab>
 
-In re Application
-John W. Considine
+<ab>In re Application
+John W. Considine</ab>
 
-Opinion
+<ab>Opinion</ab>
 
-Filed Oct 20 1897
+<ab>Filed Oct 20 1897
 A. Reeves Ayres Clerk.
-By A. N. Moore Deputy.
+By A. N. Moore Deputy.</ab>
 
 </div1>
     
