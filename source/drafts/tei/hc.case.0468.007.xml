@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0468.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>State of Washington v. John W. Considine. Stipulation</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0468.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">State of Washington v. John W. Considine. Stipulation</title>
+<date when="1897-12-11">December 11, 1897</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,11 +79,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1897-12">December 1897</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Moore, A. N.</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,33 +96,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Considine, John W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiley, John</persName>
+<persName>Bostwick, Harrison</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Feighan, J. W.</persName>
+<persName>Winston, Patrick Henry</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,65 +140,65 @@
 <pb/>
 
 
-IN THE UNITED STATES CIRCUIT COURT FOR THE DISTRICT OF
-WASHINGTON, NORTHERN DIVISION.
+<ab>IN THE UNITED STATES CIRCUIT COURT FOR THE DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.</ab>
 
-IN THE MATTER OF THE APPLICATION
+<ab>IN THE MATTER OF THE APPLICATION
 OF 
 JOHN W. CONSIDINE, for writ of 
-habeas corpus.
+habeas corpus.</ab>
 
-No. 626
-STIPULATION.
+<ab>No. 626
+STIPULATION.</ab>
 
-It is hereby stipulated and agreed by and between the State
+<p>It is hereby stipulated and agreed by and between the State
 of Washington, acting by and through <del>the State of</del> Honorable
 Patrick Henry Winston, Attorney general of the State of Washington,
 and Harrison Bostwick, Attorney for petitioner, John W. Considine,
 that all procedings in the foregoing entitled cause be, and the
-same are hereby dismissed; and
+same are hereby dismissed; and</p>
 
-It is hereby further stipulated and agreed that the Court may
+<p>It is hereby further stipulated and agreed that the Court may
 make and enter an oder of dismissal herein, upon application of
 either party hereto, witout further notice, without costs to
-either party.
+either party.</p>
 
-Dated, Seattle, Washington, December 11th, 1897.
+<p>Dated, Seattle, Washington, December 11th, 1897.</p>
 
-Patrick H Winston
+<ab>Patrick H Winston
 Attorney general of the State of
-Washington.
+Washington.</ab>
 
-Harrison Bostwick
-Attorney for Petitioner.
+<ab>Harrison Bostwick
+Attorney for Petitioner.</ab>
 
 <pb/>
 
-Tx
+<ab>Tx</ab>
 
-626
+<ab>626</ab>
 
-IN THE UNITED STATES CIRCUIT 
+<ab>IN THE UNITED STATES CIRCUIT 
 COURT, FOR THE DISTRICT OF
-WASHINGTON, NORTHERN DIVISION.
+WASHINGTON, NORTHERN DIVISION.</ab>
 
-IN THE MATTER OF THE APPLICATION
+<ab>IN THE MATTER OF THE APPLICATION
 OF 
 JOHN W. CONSIDINE, for writ of 
-habeas coprus.
+habeas coprus.</ab>
 
-STIPULATION.
+<ab>STIPULATION.</ab>
 
-FILED Dec 21 1897
+<ab>FILED Dec 21 1897
 IN THE
 U. S. CIRCUIT COURT
 A. Reeves Ayres,
 CLERK
 By A. N. Moore.
-DEPUTY
+DEPUTY</ab>
 
-Harrison Bostwick,
-Attorney for Petitioner.
+<ab>Harrison Bostwick,
+Attorney for Petitioner.</ab>
 
 </div1>
     
