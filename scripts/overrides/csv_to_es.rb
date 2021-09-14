@@ -114,23 +114,45 @@ class CsvToEs
 
     def person
       list = []
-      bound_party = { "name" => @row["Bound Party Name"], "role" => "Bound party"}
-      list << bound_party
+      if @row["Bound Party Name"]
+        bound_parties = @row["Bound Party Name"].split("; ").map do |p|
+          { "name" => p, "role" => "Bound party" }
+        end
+        bound_parties.each do |p|
+          list << p
+        end
+      end
       if @row["Petitioner Name"]
-        petitioner = { "name" => @row["Petitioner Name"], "role" => "Petitioner"}
-        list << petitioner
+        petitioners = @row["Petitioner Name"].split("; ").map do |p|
+          { "name" => p, "role" => "Petitioners" }
+        end
+        petitioners.each do |p|
+          list << p
+        end
       end
       if @row["Petitioning Attorney Name"]
-        petitioning_attorney = { "name" => @row["Petitioning Attorney Name"], "role" => "Petitioning attorney"}
-        list << petitioning_attorney
+        petitioning_attorneys = @row["Petitioning Attorney Name"].split("; ").map do |p|
+          { "name" => p, "role" => "Petitioning attorney" }
+        end
+        petitioning_attorneys.each do |p|
+          list << p
+        end
       end
       if @row["Holding Party Name"]
-        holding_party = { "name" => @row["Holding Party Name"], "role" => "Holding party"}
-        list << holding_party
+        holding_parties = @row["Holding Party Name"].split("; ").map do |p|
+          { "name" => p, "role" => "Holding party" }
+        end
+        holding_parties.each do |p|
+          list << p
+        end
       end
       if @row["Judge Name"]
-        judge = { "name" => @row["Bound Party Name"], "role" => "Judge"}
-        list << judge
+        judge = @row["Judge Name"].split("; ").map do |p|
+          { "name" => p, "role" => "Judge" }
+        end
+        judge.each do |p|
+          list << p
+        end
       end
       if @row["Additional Parties"]
         additional_parties = @row["Additional Parties"].split("; ").map do |p|
