@@ -46,7 +46,7 @@ class FileCsv < FileType
     def read_csv(file_location, encoding="utf-8")
         CSV.read(file_location, {
           encoding: encoding,
-          headers: ["Case ID", "Case Name", "Case Citation Or Source", "Repository", "Earliest Date", "Latest Date", "Civil or Criminal", "Petition Type", "Bound Party Name", "Petitioner Name", "Relationship To Bound Party", "Petitioning Attorney Name", "Judge Name", "Court", "City", "County", "State", "Bound Party Sex", "Bound Party Minor", "Bound Party Age", "Age Category Indicated", "Race Indicated", "Race Determined", "Bound Party Immigrant", "Bound Party Nationality", "Relationship To Holding Party", "Holding Party Name", "Additional Parties", "Outcome", "Additional Related Action", "Notes"],
+          headers: ["Case ID", "Case Name", "Case Citation Or Source", "Repository", "Earliest Date", "Latest Date", "Civil Or Criminal", "Petition Type", "Bound Party Name", "Petitioner Name", "Relationship To Bound Party", "Petitioning Attorney Name", "Judge Name", "Court", "City", "County", "State", "Bound Party Sex", "Bound Party Minor", "Bound Party Age", "Age Category Indicated", "Race Indicated", "Race Determined", "Bound Party Immigrant", "Bound Party Nationality", "Relationship To Holding Party", "Holding Party Name", "Additional Parties", "Outcome", "Additional Related Action", "Notes"],
           return_headers: true
         })
     end
