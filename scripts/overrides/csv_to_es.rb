@@ -10,37 +10,17 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-      # commenting out nested fields and info that can be moved to generic person
-			# bound_party_k = {
-			# 	"name" => @row["Bound Party Name"],
-			# 	"age" => @row["Bound Party Age"],
-			# 	"sex" => @row["Bound Party Sex"],
-			# 	"minor" => @row["Bound Party Minor"],
-			# 	"age_category_indicated" => @row["Age Category Indicated"],
-			# 	"race_category_indicated" => @row["Race Indicated"],
-			# 	"race_category_determined" => @row["Race Determined"],
-			# 	"immigrant" => @row["Bound Party Immigrant"],
-			# 	"nationality" => @row["Bound Party Nationality"],
-			# 	"relationship_to_holding_party" => @row["Relationship To Holding Party"]
-			# }
-			# petitioner_k =  {
-			# 	"name" => @row["Petitioner Name"],
-			# 	"relationship" => @row["Relationship to Bound Party"]
-			# }
-			# petitioning_attorney_k = {
-			# 	"name" => @row["Petitioning Attorney Name"]
-			# }
-			# judge_k = { "name" => @row["Judge Name"] }
-			# holding_party_k = { "name" => @row["Holding Party Name"] }
-			# @json["bound_party_k"] = bound_party_k
-			# @json["petitioner_k"] = petitioner_k
-			# @json["petitioning_attorney_k"] = petitioning_attorney_k
-			# @json["judge_k"] = judge_k
-			# @json["holding_party_k"] = holding_party_k
+      
       @json["bound_party_age_k"] = @row["Bound Party Age"]
       @json["bound_party_sex_k"] = @row["Bound Party Sex"]
       @json["bound_party_minor_k"] = @row["Bound Party Minor"]
-      @json["bound_party_age_category_indicated_k"] = @row["Age Category Indicated"]
+      age_groups = []
+      if @row["Age Category Indicated"]
+        bound_parties = @row["Age Category Indicated"].split(/; */).each do |g|
+          age_groups << g
+        end
+      end
+      @json["bound_party_age_category_indicated_k"] = age_groups
       @json["bound_party_race_indicated_k"] = @row["Race Indicated"]
       @json["bound_party_race_determined_k"] = @row["Race Determined"]
       @json["bound_party_immigrant_k"] = @row["Bound Party Immigrant"]
@@ -119,7 +99,7 @@ class CsvToEs
     def person
       list = []
       if @row["Bound Party Name"]
-        bound_parties = @row["Bound Party Name"].split("; ").map do |p|
+        bound_parties = @row["Bound Party Name"].split(/; */).map do |p|
           { "name" => p, "role" => "Bound party" }
         end
         bound_parties.each do |p|
@@ -127,7 +107,7 @@ class CsvToEs
         end
       end
       if @row["Petitioner Name"]
-        petitioners = @row["Petitioner Name"].split("; ").map do |p|
+        petitioners = @row["Petitioner Name"].split(/; */).map do |p|
           { "name" => p, "role" => "Petitioners" }
         end
         petitioners.each do |p|
@@ -135,7 +115,7 @@ class CsvToEs
         end
       end
       if @row["Petitioning Attorney Name"]
-        petitioning_attorneys = @row["Petitioning Attorney Name"].split("; ").map do |p|
+        petitioning_attorneys = @row["Petitioning Attorney Name"].split(/; */).map do |p|
           { "name" => p, "role" => "Petitioning attorney" }
         end
         petitioning_attorneys.each do |p|
@@ -143,7 +123,7 @@ class CsvToEs
         end
       end
       if @row["Holding Party Name"]
-        holding_parties = @row["Holding Party Name"].split("; ").map do |p|
+        holding_parties = @row["Holding Party Name"].split(/; */).map do |p|
           { "name" => p, "role" => "Holding party" }
         end
         holding_parties.each do |p|
@@ -151,7 +131,7 @@ class CsvToEs
         end
       end
       if @row["Judge Name"]
-        judge = @row["Judge Name"].split("; ").map do |p|
+        judge = @row["Judge Name"].split(/; */).map do |p|
           { "name" => p, "role" => "Judge" }
         end
         judge.each do |p|
@@ -159,7 +139,7 @@ class CsvToEs
         end
       end
       if @row["Additional Parties"]
-        additional_parties = @row["Additional Parties"].split("; ").map do |p|
+        additional_parties = @row["Additional Parties"].split(/; */).map do |p|
           { "name" => p, "role" => "Additional party" }
         end
         additional_parties.each do |p|
