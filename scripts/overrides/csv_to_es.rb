@@ -1,7 +1,9 @@
 class CsvToEs
     # Note to add custom fields, use "assemble_collection_specific" from request.rb
     # and be sure to either use the _d, _i, _k, or _t to use the correct field type
-  
+    def array_to_string (array,sep)
+      return array.map { |i| i.to_s }.join(sep)
+    end
     ##########
     # FIELDS #
     ##########
@@ -206,6 +208,9 @@ class CsvToEs
     def subjects
       @row["Petition Type"]
     end
+
+    def text
+    end
   
     def title
       @row["Case Name"]
@@ -219,6 +224,15 @@ class CsvToEs
 			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State"], "place_name" => @row["Court"]}
 			place
 		end
+
+    def text
+      built_text = []
+      @row.each do |column_name, value|
+        built_text << column_name.to_s + ":"
+        built_text << value.to_s
+      end
+      return array_to_string(built_text, " ")
+    end
 
   end
   
