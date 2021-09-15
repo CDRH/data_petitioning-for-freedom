@@ -228,7 +228,6 @@ class CsvToEs
     def text
       built_text = []
       @row.each do |column_name, value|
-        built_text << column_name.to_s + ":"
         built_text << value.to_s
       end
       return array_to_string(built_text, " ")
