@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0378.002"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Fetter v. Crowne. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1869-05-31">May 31, 1869</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>Washington State Archives, Eastern Regional Branch</repository><!-- insert name of repository -->
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>May 1869</term><!-- insert date of court term -->
+<term><date when="1869-05-31"></date>31 May 1869</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>L.A. Mullen</term>
+<term>Susannah Fetter</term>
+<term>Lena Fetter</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Territory of Washington</term>
+<term>Walla Walla County</term>
+<term>State of Oregon</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,26 +98,26 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>F Fetter</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Eugene Crowne and Lena Fetter</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>Muellen Brothers</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Louis R Dugan</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>James E Wyche</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>1st District Court for the First Judical District for the Territory of Washington</orgName> <!-- insert court name -->
+<placeName>Walla Walla County, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
@@ -184,7 +189,7 @@ be awarded to her</p>
 <p><unclear>Louis R Dugan</unclear>
 atty for 
 Lena Fetter</p>
-<pb/> <!--Needs Looking Over--> 
+<pb/> 
 <p>In the matter of the application 
 of F Fetter for a writ of Habeas Corups</p>
 <p>Whereas it has been made 
@@ -218,7 +223,7 @@ of F Fetter for
 Writ of 
 Habeas Corpus</p>
 <p>Filed May 27th 1869 
-B.B. Wayeho 
+B.J. Wyche 
 Clerk</p>
 <p>Order of 
 Court</p> 
@@ -246,10 +251,10 @@ verily believes F. Fetter</p>
 <p>subscribed and sworn 
 to before me this 27th 
 May 1869</p>
-<p>L.A. Mueller<unclear></unclear>
+<p>L.A. Mullen<unclear></unclear>
 Notary Public</p>
 <p>Filed May 27th 1869</p>
-<p>B.B. Wayeho</p>
+<p>B.J. Wyche</p>
 <p>Clerk</p>
 <pb></pb>
 <p>Territory of Washington
