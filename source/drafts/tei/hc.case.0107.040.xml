@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0107.040">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Gus Bendjus et al. vs Territory of Washington. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0107.040</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Gus Bendjus et al. vs Territory of Washington. Petition</title>
+<date when="1887-10-06">October 6, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-10">October 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Billings, William</term>
+<term>Hynes, H Reeves</term>
+<term>Frederickson, Bill</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Thurston County</term>
+<term>Tacoma</term>
+<term>Olympia</term>
 </keywords>
 
 </textClass>
@@ -94,33 +99,60 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Moody, George L</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,9 +168,9 @@
 <pb/>
 <p>In the district court holding terms at Territory of Washington, v.s. Gus Bendjust, et al.</p>
 
-<p>Olympia, In the making of the application on Petition of <unclear>certain persons</unclear> for a writ of Habeas Corpus</p>
+<p>Olympia, In the making of the application on Petition of certain persons for a writ of Habeas Corpus</p>
 
-<p>Whereas it appears by the petition of Ben <unclear>Frederickson</unclear>
+<p>Whereas it appears by the petition of Bill Frederickson
 duly verified, that certain persons are ilegally imprisoned
 by William Billings, Sheriff of thurston County, Washington Territory, presented to me this day.</p>
 
@@ -147,16 +179,16 @@ William Billings, Sheriff of Thurston County, W.T., greeting:</p>
 
 <p>We command you to have the bodies of Gus Bendjus, Robert Stranghauet, Ben Fredrickson, Frank Nelson,
 Andrew Johnson, Leander Brown, John Thompson, Alex Green and Thomas Jacobs, by you detained and imprisoned, as in said petetion alleged,
-before the Judge of the second Judicial district at his chambers at the City of Tacomak at the Court house in said city, together with
+before the Judge of the second Judicial district at his chambers at the City of Tacoma at the Court house in said city, together with
 the cause or causes of their detention and imprisonment, to do a and receive what shall be ordered concerning them, and have you then and there
-this Writ, with your return attached there to, on the 13th day of October 1887, at the hour of ten o clock A.M. Witness the Honorable Frank Allyn, Judge of
+this Writ, with your return attached there to, on the 13" day of October 1887, at the hour of ten o clock A.M. Witness the Honorable Frank Allyn, Judge of
 the Second Judicial District of Washington Territory, this 6" day of October 1887. </p>
 
 <p>H Reeves Hynes, Clerk.</p>
 
-<p>The clerk is hereby directed to issue the foregoing Writ at once, and delivered to said Sheriff without delay. At Chamers Oct. 6" 1887.</p>
+<p>The clerk is hereby directed to issue the foregoing Writ at once, and delivered to said Sheriff without delay. At Chambers Oct. 6" 1887.</p>
 
-<p><unclear>remembered</unclear> at Tacoma, Thursday 13" Oct. 1887</p>
+<p><unclear>assemble</unclear> at Tacoma, Thursday 13" Oct. 1887</p>
 
 <p>Frank Allyn, Judge</p>
 
