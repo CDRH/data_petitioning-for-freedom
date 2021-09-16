@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington V. Sterling P. White</title><!-- replace with name of case; type of document -->
+<date when="1885-04-14">April 14, 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,11 +80,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1885-04">April 1885</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Feauerbach, Kate W.</term><!-- insert names of other people mentioned in document -->
+<term>Strobach, S.</term>
+<term>Beardon, J. L.</term>
+<term>Stromp, Daniel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -99,7 +102,7 @@
 <persName></persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>White, S. P.</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
@@ -122,7 +125,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021" who="lh">transcribed and encoded</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -133,10 +136,34 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.0130.011"/> <!-- insert number from spreadhseet -->
 
 
 <fw type="footer"> &amp;</fw>
+<p>Presented to the court by the
+foreman of the Grand Jury
+in their presence and filed 
+this 14th day of April A.D. 1885
+Kate W. Feauerbach
+Clerk
+By R Strobach
+Deputy</p>
+
+<p>No 1537
+2
+The Territory of Washington
+vs.
+S.P. White
+Indictment for murder
+in the second degree
+Found at the witness
+of J.L. Beardon
+A true file
+Daniel Stromp
+foreman of the
+Grand Jury
+Recorded pp 389440
+<unclear></unclear></p>
 
 </div1>
     
