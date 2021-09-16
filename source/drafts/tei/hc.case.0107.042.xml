@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Gus Bendjus et al. v. Territory of Washington. Bailiff.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0000.000</idno>
+<idno type="project">hc.case.0107.042</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Bailiff</title>
+<date when="1887-10-12">October 12, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-10">October 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Theasly, Charles</term>
+<term>Medcalf, John L</term>
+<term>Bynold, Lewis W</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>County of Chehalis</term>
 </keywords>
 
 </textClass>
@@ -94,33 +97,60 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Moody, George L</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,14 +169,17 @@
 
 <pb/>
 
-<p>In the District Court of the Second Judicial District, for Washington</p>
+<p>
+In the District Court of the Second Judicial District, for Washington</p>
 
-<p>Territory of Wasington
+<p>
+Territory of Wasington
 County of Chehalis}</p>
 
-<p>Charles Theasly, being first duly sworn 
+<p>
+Charles Theasly, being first duly sworn 
 on oath says that he was bailiff to the Grand Jury
-at the last September term of the district Court holding term at
+at the last September term of the district Court holding terms at
 Montesano, that as such bailiff he was instructed by the said
 Grand Jury to bring John I Medcalf before them for
 examination as a witness that he did to bring the said
@@ -155,12 +188,12 @@ that the day he was before said Grand Jury, was the day before said Grand Jury
 adgoverned and were discharged by the court.</p>
 
 <p>Charles Theasly</p>
-
-<p>Subpoened and sworn
+<p>
+Subscribed and sworn
 to before on the 12th day 
-of October 1887.
+of October AD 1887.
 
-Lewis W <unclear>Brynold</unclear>
+Lewis W Bynold
 Notary Public
 of Washington Territory</p>
 
