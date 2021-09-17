@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0472.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0472.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>13 May 1897</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Pierce, John A.
+Speck, Robert D.
+Baldwin, Harris 
+Hanford, C. H. 
+Aspland, Lise C.
+White, E. T.
+Pomeroy, Frances A. 
+Aspland, Andrew 
+Aspland, Ella May 
+Brown, Abel 
+Wilkinson, M. A.  
+Aspland, John H. 
+White, E. T. 
+Aspland, Jennie 
+Switzer, W. D. 
+Magnus, Franz
+Sempee,John M. 
+Sawyer, Mary
+Spence, William C. 
+Corbett, J. E. 
+Eldridge, John 
+Hair, N. C. 
+Valentine, John E. 
+Backus, C. F. 
+Donovan, G. J.
+Low, J. R. 
+Thomas, C.
+Monroe, W. A. 
+Fenton, James E. 
+Prather, Leander H.
+Cisna, M. A. 
+Dempsey, C. C.
+Willia, C. Thomas 
+Gould, P.
+James, Thomas
+Doane, H. W.
+Roadnight, J. F.
+Lipschuetz, I.
+Valentine, J. E. 
+Morgan, U. H.  
+Hair, N. C.
+Van Ness, John Q. 
+Gill, William 
+Frazier, R. J. 
+O'Brien, 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Webster, George</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Webster, George</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName> Del Cary Smith
+Fenton, James E. 
+O'Brien</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Pierce, John A.
+Baldwin, Harris</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H. </persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, Ninth Judicial Circuit, District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0472.001"/> <!-- insert number from spreadhseet -->
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES/, NINTH JUDICIAL CIRCUIT.</p>
+<p>DISTRICT OF WASHINGTON. NORTHERN DIVISION.</p>
+<p>In the Matter of the application of
+George Webster,</p>
+<p>for</p>
+<p>A Writ of Habeas Corpus.</p>
+<p>To the Hon. C. H. Hanford, Judge of the Circuit Court of the
+United States, Ninth Judicial Circuit, District of Washington,
+Northern Division.</p>
+<p>The petition of George Webster respectfully shows to your
+Honor:</p>
+<p>First- That the said petitioner is now a prisoner imprisoned
+and confined in the County Jail at Spokane, Spokane County, State
+ of Washington, in the custody of Robert D. Speck, Sheriff of Spokane
+County, State of Washington.</p>
+<p>Second- That the cause or pretense of the restraint of the
+said petitioner according to the best of his knowledge and belief
+is, that on the 13th day of May, 1897, John A. Pierce as proecuting
+attorney in and for the County of Spokane, State of Washington,
+made and filed with the Clerk of the Superior Court of the State of
+Washington, in and for Spokane County, an information, charging the
+above named petitioner with the crime of murder in the first de-
+gree, which said information is in writing in words and figures as
+follows, to-wit:</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON</p>
+<p>IN AND FOR THE COUNTY OF SPOKANE.</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>v.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Information for Murder
+in the First Degree.</p>
+<p>Whereas the hereinafter specified public offense has been com-
+mitted by the said defendant George Webster, and whereas the said
+defendant George Webster is not under indictment therefor; and whereas
+the said defendant is in custody charged with having committed the
+said public offense; and whereas the said court is in session, and 
+no Grand Jury of, in or for said County is in session; now, there-
+fore, John A. Pierce, Prosecuting attorney in and for the County of
+Spokane, and State of Washington, and in the name and by the au-
+thority of the State of Washington, by this Information informs
+the said court and gives the said court to understand, know and
+be informed that the said defendant George Webster is hereby charg-
+ed with a public offense, to-wit; the crime of murder in the first
+degree, committed as follows, to-wit; that on the sixth day of May,
+A. D. 1897, and within three years before the filing of this In-
+formation, at the County of Spokane and State of Washington, the
+said defendant George Webster, then and there in the said County
+and State being, then and there unlawfully, felioniously and pur-
+posely, and of his deliberate and premeditated malice, killed Lise
+C. Aspland, by then and there purposely, and of his deliberate and
+premeditated malice, shooting and mortally wounding the said Lise C.
+Appland with a gun, commonly called a revolver, which he, the said
+George Webster, then and there held in his hand, contrary to the 
+Statutes- in such case made and provided and against the peace and
+dignity of the State of Washington.</p>
+<p>JOHN A. PIERCE.
+Prosecuting attorney and 
+Informant.</p>
+<p>By</p>
+<p>HARRIS BALDWIN
+Deputy Prosecuting Attorney</p>
+<p>State of Washington )
+) ss
+County of Spokane. )</p>
+<p>Harris Baldwin, being first duly sworn, upon his oath
+deposes and says; that he is the duly appointed, qualified and act-
+ting deputy prosecuting attorney in and for the County of Spo-
+kane, State of Washington, and that all and singluar the several
+statements, allegations, matters and things set out in the above
+and foregoing information are true.</p>
+<p> HARRIS BALDWIN</p>
+<p>Sworn to and subscribed before me this 13th day of May, A. D. 1897.
+E. T. WHITE</p>
+<p>Notary Public for the State of
+Washington, residing at Spokane
+Washington.</p>
+<p> (SEAL of Notary Public.)</p>
+<p>Names of Witnesses known to the prosecuting attorney at
+the time of filing this information:</p>
+<p>Frances A. Pomeroy
+Andrew Aspland
+Ella May Aspland
+Abel Brown
+M. A. Wilkinson</p>
+<p>John H. Aspland
+E. T. White
+Jennie Aspland
+W. D. Switzer
+Franz Magnus</p>
+<p>John M. Sempee
+Mary Sawyer
+Wm. C. Spence
+J. E. Corbett
+John Eldridge</p>
+<p>Second-a- That thereafter such proceedings were had and taken
+in said cause in said Superior Court that the said cause coming on
+regularly for trial, one N. C. Hair, was called as a juror in said
+cause upon being examined touching his qualifications to act
+ as a jurir in said cause, answered that he was at said time the
+client of John A. Pierce who was then the prosecuting attorney for 
+Spokane County, Washington, and who was then representing the 
+State of Washington in the said cause, and thereupon the said George
+Webster by his attorneys, challenged the said juror N. C. Hair, for
+implied bias on the ground that the relation of attorney and client
+at said time existed between the sad juror and the said prosecut-
+omg attorney/ and that the said juror N. C. Hair was, under the pro-
+visions of Sec. 345 of Vol. 2 of Hills Code of the State of Washing-
+ton, which is as follows; "Standing in the relation of guardi-
+an and ward, attorney and client, master and servant, or landlord
+and tenant, to the adverse party; or being a member of the family
+of, or a partner in business with, or in the employment for wages
+of the adverse party etc., "disqualified and incompetent to 
+ </p>
+<p>Second B- That thereafter such proceedings were had and taken
+in said cause in said Superior Court, that the said cause coming
+on regularly for rial one John E. Valentine was called as a juror
+to answer questions touching his qualifications to act as a juror
+in said cause, and upon examination of the said juror John E. Val-
+entine, touching his qualifications, he, the said huror testified
+as follows;
+</p>
+<p>Q From what you read did you form an opinion as to the guilt of 
+innocence of the defendant?
+A Well, as is natural when a person reads anything of that kind 
+he would have an opinion.
+Q Have you that opinion now?
+A Well, somewhat.
+Q Is that such an opinion as would require evidence to remove or
+change?
+A Some. Yes sir.
+Q Would it require strong evidence to change your opinion?
+A Fairly good.
+Q In that such an opinion as would require the evidence of at
+least one witness to change?
+A Yes sir.
+Q Is that opinion that you have now, a fixed and decided opinion
+from what you have reas?
+A no.
+Q Assuming what you have read to be true have you, then a fixed
+and decided opinion?
+A Yes sir. If it was true,
+Q Welll, at any rate you now entertain an opinion that would re-
+quire strong evidence to remove?
+A Well, it would require some evidence, yes sir. Not particularly
+strong evidence; it would require some evidence.
+Q It would require some evidence of at least one witness?
+A Yes sir.
+Q To change your present opinion?
+A Yes sir.
+</p>
+<p>(Statemet of Facts p. 195-196</p>
+<p>That thereupon the said petitioner by his said attorneys chal-
+lenged the said juror John E. Valentine, for cause on the ground
+of actual bias, which said challenge of the said petitioner wasthen
+and there denied by the said Superior Court, to which the said pe-
+titioner duly excepted and an exception was allowed. And petitioner
+alleged, that under the laws of the State of Washington in force
+at the time of the trial of this cause, the said petitioner was en-
+titled to exercise twelve peremptory challenges; and petitioner
+further alleges, that upon the trial of said cause upon the said in-
+foormation he, the said petitioner did exercse eleven peremptory
+challenges, and did excuse eleven jurors peremptorily.</p>
+<p>Third- That thereafter such proceedings were had and taken in 
+said cause in the said Superior Court, of the State of Washington, in
+and for the County of Spokane, that on the 14th day of May, A. D.
+1897, the attorneys for the said petitioner made and filed with the
+clerk of the said Superior Court a motion to quash and set aside
+the said information, which said motion is in writing in words
+and figures as follows, to-wit:</p>
+<p>IN THE SUPERIOR COURT OF THESTATE OF WASHINGTON FOR SPOKANE COUNTY
+</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>vs.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Comes now the above named defendant by his attorneys
+Del Cary Smith, and moves the court to quash and set aside the in-
+formation 
+filed herein and for grounds of said motion alleges;
+</p>
+<p>1- That the information filed herein is not verified as re-
+quired by law.
+</p>
+<p>2- That it does not appear from said information or from any
+of the record or proceedings in this cause, that the State of Wash-
+ington is entitled to prosecute herein by information.</p>
+<p>3- That as appears from the information in this cause, this
+court has no jurisdiction of the person of the defendant, or of the
+subject matter of this action.</p>
+<p>4- That said information is not direct or certain as regards
+either the party charged, the crime charged, or the particular cir-
+cumstances of the crime charged.</p>
+<p>5- That said information charges more than one crime and in
+more than one form.</p>
+<p>6- That the said act or omission charged as the crime in said
+information is not clearly and distinctly setforth in ordinary and
+concise language as required by law.</p>
+<p>7- That the act or omission charged as the crime in said in-
+formation is not stated with such a degree of certainty as to en-
+able the court to pronounce judgment upon a conviction according to
+the rights of the case.</p>
+<p>8- That said information does not inform the said defendant of
+the nature and cause of the accusation against him.</p>
+<p>9- Tht it has never been judicially or otherwise established,
+that there was or is probable cause to believe that the said defend-
+ant ever committed the crime attempted to be alleged in the said
+information, and as appears from the records in this cause, on file
+with the clerk of this court, the said information was filed against
+the said defendant without any probable cause first having been
+established and shown.</p>
+<p>10 That at a pretended preliminary examination held in this
+cause, on the 12th day of May 1897, before Hon. C. F. Backus, a 
+Justice of the Peace, the said defendant over the objections of his
+counsel was denied the rights and protection guaranteed to him by
+the laws and Constitution of the State of Washington, and that said
+Justice, over the objections of defendant admitted all manner of
+sham, irrelevant, incompetent, immaterial and hearsay testimony
+against him.</p>
+<p>11- That said information does not substantially comply with
+the requirements of the criminal code of the State of Washington.</p>
+<p>This motion is based upon the files and records herein.</p>
+<p>Del Cary Smith,
+Attorney for defendant.</p>
+<p>No. 771
+Filed May 14th, 1897, at 9:15 o'clock, A. M.</p>
+<p>J. R. Low, Clerk</p>
+<p>G. J. Donovan, Deputy.</p>
+<p>Fourth- That thereafter such proceedings were had and taken
+in t he said Superior Court, that the said motion of the said peti-
+tioner to quash and set aside the said information came on regular-
+ly for hearing before the Judge of the said Superior Court
+and upon the argument thereof, the same was overruled, to which the
+said petitioner then and there duly excepted, and an exception was 
+allowed by the said Superior Court.</p>
+<p>Fifth- That thereafter such proceedings were had and taken in
+said cause in the said Superior Court, that the at-
+torneys for the said petitioner on the 25th day of May, A. D. 1897,
+made and filed with the Clerk of the said Superior Court a demurrer
+to the said information which said demurrer is in writing, in words
+and figures as follows, to-wit:</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON FOR SPOKANE COUNTY</p>
+<p>The State of Washington</p>
+<p>Plaintiff,</p>
+<p>DEMURRER</p>
+<p>v.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Comes now the above defendant by his attorney
+Del Cary Smith, and demurs to the information filed herein and for
+grounds of demurrer alleges; 
+</p>
+<p>That said information does not substantially conform to the
+requirements of the criminal code of the State of Washington.</p>
+<p>2- That the facts charged in said information do not consti-
+tute a crime or public offense.</p>
+<p>3- That as appears from the record in this court in this cause,
+this court has no jurisdiction of the person of the defendant or the 
+subject matter of the action.</p>
+<p>4- That said information does not inform the defendant of the
+nature and cause of the accusation against him.</p>
+<p>5- That it does not appear from said information or from any of
+the records or proceedings in this cause, that the State of Wash-
+ington is entitled to prosecure theis cause by information.</p>
+<p>6- that as appears from all the records in this cause the in-
+formation herein is void and the defendant is now deprived of his
+liberty without due process of law.</p>
+<p>7- That the said information is not direct and certain as re-
+gards either the party charged, the crime charged, or the particular
+circumstances of the crime charged.</p>
+<p>8- That the act or omission charged as the crime in said infor-
+mation is not clearly and distinctly setforth in ordinary and con-
+cise language as required by law.</p>
+<p>9- That the act or omission charged as the crime in said infor
+mation is not stated with such a degree of certainty as to enable
+the court to pronounce judgment upon a conviction according to the
+rights of the case.</p>
+<p>10- That said information charges more than one crime and in
+more than one form.</p>
+<p>11- That it has never been judicially or otherwise established
+that there was or is probable cause to believe that the said defend-
+ant ever committed the crime attempted to be alleged in the said
+information, and as appears from the records in this cause, on file
+with the clerk, the said information was filed against the said de-
+fendant without any probable cause first having been established
+and shown.</p>
+<p>Del Cary Smith
+Attorney for the defendant.</p>
+<p>No. 771
+Filed May 25th, 1897.</p>
+<p>J. R. Low, Clerk,</p>
+<p>By</p>
+<p>W. A. Monroe, Deputy.</p>
+<p>Sixth- That thereafter such proceedings were had and taken in 
+said cause in said Superior Court, that the said cause coming on
+regularly to be heard upon the said demurrer, and the said Superior
+Court having heard argument thereon, overruled the same to which
+order overmling the same the said petitioner then and there duly
+excepted, and the said exception was allowed by the said Superior
+Court.</p>
+<p>Seventh- That thereafter such proceedings were had and taken in
+said cause in the said Superior Court, the jury which was im anell-
+ed and sworn to try the said petitioner upon the said charge
+in the said information, did, on the 25th day of September, A. D. 
+1897, render and reutrn unto the said Superior Court their verdict
+in said cause, which is in writing, in words and figures asfollows
+to-wit;</p>
+<p>Case No. 771</p>
+<p>VERDICT OF THE GUILTY</p>
+<p>We, the jury of the case of the State of Washigton, Plaintiff</p>
+<p>vs.</p>
+<p>George Webster</p>
+<p>Defendant,</p>
+<p>find the defendent George Webster, GUILTY as charged in the infor-
+mation.</p>
+<p>Spokane, Washingotn, Sept 25th, 1897.</p>
+<p>C. Thomas,</p>
+<p>Foreman.</p>
+<p>No. 771
+Filed May 25th, 1897.</p>
+<p>J. R. Low, Clerk,</p>
+<p>By</p>
+<p>W. A. Monroe, Deputy.</p>
+<p>Recorded Journal 41, page 449</p>
+<p>Eighth- That thereafter such proceedings were had and taken
+in said cause in said Superior Court, that on the 15th day of Nov-
+ember, A. D. 1897, the attorneys for the said petitioner made and 
+filed with the Clerk of the said Superiorb Court, a moti on in ar-
+rest of judgement which said motion in arrest of judgment is in writ-
+ing, in words and figures as follows, to-wit;</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON, IN AND FOR THE 
+COUNTY OF SPOKANE.</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>vs.</p>
+<p>George Webster,</p>
+<p>Defendant.</p>
+<p>Comes now the above named defendant by his attorney's Del Cary
+Smith and James E. Fenton, and moves the court that judgment upon
+the verdict herein be arrested and stayed, and that the information 
+herein be dismissed, and that the defendant be dischaged from cus-
+today and for grounds of said motion the defendant alleges;</p>
+<p>1- That the facts as stated in the information herein does not 
+constitute a crime or misdemeanor.</p>
+<p>2- That the prosecuting attorney had no authority to file the 
+information in this cause.</p>
+<p>3- That the information herein is not verified as required by
+law.</p>
+<p>4- That the above entitled court had no jurisdiction of the said 
+defendant or of the charge in the information herein.</p>
+<p>5- That the verdict rendered herein does not conform to the
+information herein.</p>
+<p>6- That there is a variance between the evidence in this cause
+and the allegations in the information herein.</p>
+<p>7- That the statutes under which the information herein was
+filed, and under whichthe said defendant was tried and convicted,
+is unconstitutional and void, and in violation of the 5th and 14th
+Amendments to the Constitution of the United States.</p>
+<p>8-That the said information herein charges more than one
+crime and in more than one form.</p>
+<p>9- That the verdict rendered in said cause is indefinite and
+uncertain and wholly insufficient to support a judgment thereon.</p>
+<p>10- That the records and proceedings in this cause does not
+sufficiently show that the defendant entered any plea to the infor-
+mation filed herein.</p>
+<p>11- That the records and proceedings in this cause do not show
+that the said defendant was present in court, during the material
+steps taken in the trial of said cause.</p>
+<p>This motion is based upon all records, proceedings 
+and filed in the above entitled cause.</p>
+<p>Del Cary Smith
+and James E. Fenton,
+Attorneys for defendant.</p>
+<p>No. 771
+Filed Nov. 15th, 1897,</p>
+<p>J. R. Low, Clerk,</p>
+<p>By W. A. Monroe,</p>
+<p>Deputy.</p>
+<p>Ninth- That thereafter such proceedings were had and taken in
+said cause, that the said cause coming on regilarly to be heard upon
+the said motion in arrest of judgment, and the same being argued te
+the said Superior Courtoverruled the same, towhich ruling the said
+petitioner then and there excepted and an exception was then and
+there allowed by the said Superior Court.</p>
+<p>Tenth- That thereafter such proceedings were had an take n in
+said cause, in said Superi or Court, that on the 16th day of Novem-
+b er, A.D.1897, the Hon. Leander H. Prather as Judge of the said
+Superior Court rendered and made his judgement and sentence in said
+cause, which said judgment and sentence is i n writing in words and
+figures as follows, to-wit;</p>
+<p>In the Superior Court of the State of Washington</p>
+<p>in and for the County of Spokane.</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>v.</p>
+<p>George Webster,</p>
+<p>Defendant</p>
+<p>JUDGEMENT AND SENTENCE</p>
+<p>Whereas at a day of the said Superior Court, before the Hon.
+Leander H. Prather, Judge of said Court, on the 13th day of May, 1897
+in open Court, and in due form of law, John A. Pierce, Prosecuting
+attorney in and for said County, in said State, presented, preferr-
+ed and caused to be filed, and there was on the said 13th day of May
+1897, filed in the said Court, an information against t he said de-
+fendant, George Webster, charging him, the said defen dant, George
+Webster, with the crime of Muder in the first degree, in that he,
+the said defendant, George Webster, in said County and State, on, to-
+wit, the 6th day of May, 1897, then and there unlawfully, felonious-
+ly and purposely and of his deliberate and premeditated malice, did
+kill Lise C. Aspland, by then and there purposely, and of his de-
+liberare and premeditated malice, shooting and mortally wounding
+the said Lise C. Aspland, with a gun, commonly called a revolver,
+ehich he, the said defendant, George Webster, then and there held 
+in his hand; and,</p>
+<p>Whereas the said defendant George Webster, thereafter and on t
+the 13th day of May, 1897, being personally present in open court
+with his attorneys, James E Fenton and Del Cary Smith/ was duly
+and personally arraigned upon the said information in open court,
+and on the 14th day of May, 1897, this said defendant, George Webster
+bei ng present in person and by his attorneys in open Court, did
+plead not guilty to the said crime in the said information charged,
+and</p>
+<p>Whereas, thereafter and on to-wit, the 17th day of May, Septem-
+ber, 1897, in due course of law, a jury of twelve good and lawful
+men was duly selected, accepted, impanelled and sworn to well and
+truly try and true deliverance make between the said State of Wash-
+ington and the prisoner at the bar, to-wit, the said defendant
+George Webster, whom they, the said jury, then and there had in 
+chargem accordi ng to the evidence, and</p>
+<p>Whereas, after hearing the evidence in the said cause, and the
+arguments for the said State of Washington and the said defendant,
+George Webster, respectively, and after hearing and receiving the
+instructions of the said court, the said jury did retire in charge
+of sworn officers to deliberate on their verdict in said cause,
+and thereafter and on-to-wit; the 25th day of September, 1897, the
+said jury did return and render into open court, the said defendaant
+George Webster, being then and there personally present, in open
+court, with his said attorneys, the following verdict, to-wit;
+Case No. 771</p>
+<p> VECR D I C T O F G U I L T Y</p>
+<p>We, the jury in the case of the State of Washington, Plaintiff
+vs. George Webster, defendant, find the defendantGeorge webster
+GUILTY as charged in the information.</p>
+<p>Spokane, Washington. Sept. 25th, 1897.</p>
+<p>C. Thomas, Foreman.</p>
+<p>And whereas, thereafter and on to-wit; the 27th day of September,
+1897, the said defendant George Webster, by his said attorneys, gave
+a nd filed in said court notice of motion for a new trial and motion
+for a new trial herein, and on to-wi t, the 8th day of November,
+1897, did file in the said Court affidavits in support of said mo-
+tion for a new trial; and on the 15th day of November, 1897, the
+said defendant George Webster, being then and there personally pre
+ent with his said attorneys in open court; and thereafter, and on, 
+to-wit, the 15th day of November, 1897, the said defendant George
+Webster, with his said attorneys being personally present in open
+court, the said motion in arrest of judgment was overruled by the 
+said court.</p>
+<p>And the said court having on said 15th day of November, 1897,
+fixed the 16th day of November, 1897, as the day on which the said
+court would make, render and enter judgment and sentence upon said
+verdict,-</p>
+<p>NOW, on this, the 16th day of November, 1897, the said c
+court being in session, and the said defendant, George Webster being
+personally present with his said attorney, Del Cary Smith, in
+open court, the said court informed the said defendant George Web-
+ster of the said cerdict of the said jury, and then and there asked
+the said defendant, George Webster, if hem the said defendant George
+Webster had any cause to show wh y said court should not pro-
+nounce, an d make, render and enter judgment and sentence of said 
+court upon said verdict; and there, being no cause shown by or on
+behalf of the said defendant, George Webster, the court prnounced
+made, rendered and entered and does hereby make, render and enter,
+upon the said verduct the following sentence, to-wit;</p>
+<p>Upon the verdict of the jury in this cause, finding you, the
+said defendant, George Webster, guily of murder in the first degree
+for the killing of Lise C. Aspland, the judgment of this court
+is that you are guilty of the crime of murder in the first degree,
+therefore, the judgment and sentence of thi s court is that you, the
+said defendant George wWebster, be taken hence by the sheriff of 
+said county to the jail of said county, and there safely and secure-
+ly kept until a time and day certain, to be fixed in the warrant
+for your execution; and that upon said day, between the hours of
+six o'clock and ten o'clock  in the forenoon of saidm day, so to be
+so fixed, you be taken from t he saud jail by the said sheriff to a 
+place to be by him selected and provided, within the yard of the
+jail of said county, in the city of spokane, County of Spokane,
+State of Washington, and that you then and there by the sheriff be
+hanged by the neck until you are dead.</p>
+<p>Done in open court, this the 16th day of November, 1897.</p>
+<p>Leander H. Prather,</p>
+<p>JUDGE</p>
+<p>No. 771
+Filed Nov. 16th, 1897
+at 3 o'clock, P.M.
+J. R. Low, Clerk</p>
+<p>M. A. Cisna, Deputy.</p>
+<p>Recorded Journal 41, page 529</p>
+<p>Eleventh- That thereafter such proceedings were had and taken
+in said cause in said Superior Court, that on the 16th day of Nov-
+ember, A.D.1897, the Hon. Leander H. Prather as judge of the said
+Superior Court, issued a death warrant upon the said judgment and
+sentence which said death warrant is in writing in words and figures
+as follows, to-wit;</p>
+<p>In the Superior Court of the State of Washington</p>
+<p>in and for t h e County of Spokane.</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>v.</p>
+<p>George Webster,</p>
+<p>Defendant</p>
+<p>To C. C. Dempsey, Sheriff of Spokane County, State of Washing-
+ton, GREETING:</p>
+<p>Whereas at a lay of the Superior Court of Spokane
+County, before the Honorable Leander H. Prather, judge of said
+Court, begun and held at the City of Spokane, in the said county of 
+Spokane, on the 13th day of May, 1897, in open-court, and in due
+form of law, John A. Pierce, prosecuting attorney for Spokane
+County, State of Washington, presented an information against the
+said defendant George Webster, charging him with the crime of murde
+in the first degree, in that, he, the said defendant George Webster
+i n said county and State, onto-wit, the 6th day of May, 1897, then 
+and there unlawfully, feloniously and purposely, and of his deliber-
+ate and premeditated malice, did kill Lise C. Aspland, by then and
+there purposely and of his deliberate and pemeditated malice,
+shooting and mortally wounding the said Lise C. Aspland, with a gun
+commonly called a revolver, which he, the said George Webster, then 
+and there held in his hand; and,</p>
+<p>Whereas this case came on regularly for hearing in the Super-
+ior Court of the State of Washington in and for the County of 
+Spokane, on the 13th day of May, 1897, the said court beig in sess-
+ion, and the said defendant being present in person in open court
+and represented by his attorneys, Messrs James E. Fenton and
+Del Cary Smith, and the state of Washingto n being represented by
+John A. Pierce, prosecuting attorney for said Spokane County, and, it
+ap pearing to the court that said defendant had been duly and regu-
+larly examined and committed by a magistrate of said county and
+state, upon the charge of murder in t he first degree, and that an
+information had been duly presented and filed against him, the said
+defendant George Webster, in the said Superior Court by John A. 
+Pierce, prosecuti ng attorney as aforesaid, charging him the said
+defendant, George Webster, with the crime of murder inthe first de-
+gree, thereupon the said defendant George Webster, in open court
+was duly arraigned under said information and asked to plead thereto
+and thereupon the said defendant George Webster pleaded not guilty
+to the said crime in the said information charged, and</p>
+<p>Whereas, thereafter and on to-wit, the 17th day of September,
+1897, in due course of law, a jury of twelve good and lawful men,
+to-wit, C. Thomas Willia, P. Gould, Thomas James, H. W. Doane, J.
+F. Roadnight, I. Lipschuetz, J. E. Valentine, U. H. Morgan, N. C. 
+Hair, John Q. Van Ness, William Gill and R. J. Frazier, drawn from
+the body of said Spokane County, were duly selected, accepted, im-
+panelled and sworn to well and truly try and true deliverance make
+between the State of Washington and the prisoner at the bar, to-wit
+the said defendant George Webster, whom they the said jury, t hen
+and there hadin charge, according to the evidence; and</p>
+<p>Whereas, after hearing the evidence in the said cause and the
+arguments for the said State of Washington and the said defendant
+George Webster; respectively, and after hearing and receiving the
+instructions of the said Court, the said jury did retire in charge
+of sworn officers and to deliberate on their verdict in the said cause;
+and thereafter, and on, to-wit, the 25th day of September, 1897,
+the said jury did return and render into open court, the said de-
+fendant George Webster, being then and there personally present
+in open court with his s said attorneys, the following verdict, to-
+wit:</p>
+<p>Case No. 771</p>
+<p> VER D I C T O F G U I L T Y</p>
+<p>We, the jury in the case of the STATE OF WASHINGTON, Plaintiff
+vs. George Webster, Defendant, find the defendant George Webster
+GUILTY as charged in the Information.</p>
+<p>Spokane, Washington. Sept. 25th, 1897.</p>
+<p>C. Thomas, Foreman.</p>
+<p>And Whereas, thereafter and on to-wit, the 27th day of Septem-
+ber, 1897, the said defendant George Webster, by his attorneys,
+gave and filled in said court notice of motion for a new trial and 
+motion for a new trial herein, and on, to-wit, the 8th day of
+November, 1897, did file in the said court affidavits in support of
+sai d motion for a new trial; and on the 15th day of November, 1897
+the said defendant, George Webster, being then and there personally
+present, with his said attorneys in open court; and thereafter, and on,
+tow-ti the 15th day of November, 1897, the said defendant George
+Websterm by his said attorneys, filed a motion for arrest of judg-
+ment herein, and on the 15th day of November, 1897, the said de-
+fendant George Webster, with his sai d attorneys being personally
+p resent in open court, the said motion in arrest of judgment was
+overruled by the said court; and
+</p>
+<p>Whereas, the said court did on said 15th day of November, 1897,
+fix the 16th day of November, 1897, as the day on which the said
+court would make, render and enter judgment and sentence upon said
+verdict, and</p>
+<p>Whereas, on the 16th day of November, 1897, the said court be-
+ing in session, and the said defendant George Webster, being person-
+ally present with his said attorneys, Del Cary Smith, in open court
+, the said court informed the said defendant George Webster,
+had any cause to show why the said court should not prnounce, and
+make render and enter judgment and sentence of said court upon said
+verdict; and, there being no cause shown by or on behalf of the 
+said defendant, George Websterm the said court did then and there
+pronounce, make render and enter, upon the said verdict, the
+following sentence, to-wit; Upon the verdict of the jury in this
+cause, finding you, the said defendant George Webster, guilty of
+muder in the frst degree for the killing of Lise C. Aspland, the 
+judgmet of this court is that you are guilty/of the crime of mur-
+der in the first degree; therefore, the judgment and sentence of 
+this court is that you, the said defendant George Webster, be taken
+hence by the sheriff of said county to the jail of said county, and 
+there safely and securely kepy until a day and time certain, to be
+fixed in the warrant for your execuution; mand that upon said day,
+between the hours of six o'clocl and ten o'clock in the forenoon of 
+said day, so to be fixed, you be taken from the said jail by the
+said sheriff to a place to be by him selected and provided withi n
+the yard of the jail of said county in the city of Spokane, county
+of Spokane, State of Washington, and that you then and there by the 
+said sheriff be hanged by the neck until you are dead:-</p>
+<p>WHEREFORE, it is by the court ordered, and, in the name of the
+STATE OF WASHINGTON, you, C. C. Dempsey, Sheriff of Spokane County
+State of Washington, are hereby commanded to take the said defend-
+ant, George Webster, on the 14th day of February, A.D. 1989, between
+the hours of six o'clock and ten o'clock un the forenoon of said
+day, to the said place of execution, in the yard of the jail of said 
+Spokane County, and that you, the said C. C. Dempsey, Sheriff as
+aforesaid, then and there hang the said defendant, George Webster, by 
+the neck until he is dead; and that you, the said C. C. Dempsey, sher
+iff as aforesaidm make due execution and return of this warrant and
+your proceedings thereon as required by law.</p>
+<p>GIVEN under my hand and the seal of said court, this 16th day
+of November, . D. 1897
+(SEAL)</p>
+<p>Leander H. Prather.
+Judge of the Superi or Court of
+the State of Wash., in and for
+Spokane County.</p>
+<p>No. 771
+Filed Nov. 16th/1897 at 4:30
+o'clock P. M. J.R.Low, Clerk
+By G. J. Donovan, Deputy.
+Recorded Journal 41 page 532</p>
+<p>Eleven 1/2- That thereafter such proceedings were had in
+said cause, in the said Superior Court, that the said petitioner
+George Webster made and filed in the said Superior Court, his pe-
+tition for a writ of error Coram nobis, whiych said petition for a
+writ of error coram nobis, is in writing in words and figures as 
+follows, to-wit;</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON,
+IN AND FOR THE COUNTY OF SPOKANE.</p>
+<p>No. 771</p>
+<p>The State of Washington,)</p>
+<p>Plaintiff,)</p>
+<p>-vs-)</p>
+<p>George Webster,)</p>
+<p>Defendant )</p>
+<p>George Webster,
+Peitioner in error,
+-vs-
+The State of Washington,
+Defendant in error.</p>
+<p>In the Matter of the application of George Webster</p>
+<p>-for-</p>
+<p>A Writ of Error Corim Nobis</p>
+<p>To the above named plaintiff the State of Washington, defendant
+and respondant in error herein, and to John A. Pierce, Prosecuting
+Attorney in and for the County of Spokane, State of Washington.</p>
+<p>You, and each of you will take notice that the above named
+George Webster, petitioner, relator and defedant above named, will
+on Tuesday, the 4th of January, A. D. 1898, at the hour of nine A.
+M. of the said day, or as soon thereafter as he can be heard, apply
+to the Hon. L. H. Prather, on of the judges of the above entitled
+Court, and the Judge who tried the case No. 771, entitled the State
+of Washington, Plaintiff, vs. George Webster, defendant, for a Writ 
+of Error Corim Nobis, and upon the hearing of said Writ of Error, the
+said petitioner, relator and defendant above named, will ask to have
+the Errors of Facts assigned in his petition herein, and supported
+by the affidavits filed with his petition, tried and decided by a 
+Jury, to be impannelled by the said Superior Court, and if the Jury
+shall find in favor of said petitioner, relator and defendant, ask 
+for a judgment and decree of said Court, revoking and recalling the
+judgment and sentence heretofore made and rendered by said Court,
+and that upon said hearing the said petitioner will ask for an order
+of said Court that execution of said sentence be stayed and ar-
+reated pending the hearig and determination of this matter.</p>
+<p>Del Cary Smith
+Fenton and O'Brien,
+Attorneys for Petitioner,
+Relator and defendant above named</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON,
+IN AND FOR THE COUNTY OF SPOKANE.</p>
+<p>No. 771</p>
+<p>The State of Washington,)</p>
+<p>Plaintiff,)</p>
+<p>-vs-)</p>
+<p>George Webster,)</p>
+<p>Defendant )</p>
+<p>George Webster,
+Peitioner in error,
+-vs-
+The State of Washington,
+Defendant in error.</p>
+<p>In the Matter of the application of George Webster</p>
+<p>-for-</p>
+<p>A Writ of Error Corim Nobis</p>
+<p>The petitioner, relator and defendant above named comes now,
+and for this his petition for a Writ of Error Coram Nobis alleges:</p>
+<p>page 23</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
