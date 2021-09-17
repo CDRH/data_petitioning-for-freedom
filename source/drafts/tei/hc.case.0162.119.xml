@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0162.119">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0162.118">
     
 <teiHeader>
 <fileDesc>
@@ -22,6 +22,7 @@
 <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 <name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
 <name n="Ham, Bethany" xml:id="brh">Bethany Ham</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -45,7 +46,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.0162.119</idno>
+<idno type="project">hc.case.0162.118</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -94,6 +95,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Raymond, Ray</term>
 <term>Lininger, S.B.</term>
+<term>Peel, J.J.L.</term>
 <term>Jefferson, Thomas</term>
 </keywords>
 
@@ -121,7 +123,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Peel, J. J. L.</persName>
+<persName></persName>
 </person>
 </listPerson>
 
@@ -147,7 +149,7 @@
                
 <div1 type="case">
         
-<pb facs="hc.case.0162.119"/>
+<pb facs="hc.case.0162.118"/>
 
 <p>SUBPOENA</p>
 
@@ -170,6 +172,7 @@ and Ray Raymond Defendant</p>
 Justice of the Peace</p>
 
 <pb/>
+
 <p>Territory of Washington
 vs.
 Ray Raymond</p>
@@ -189,7 +192,7 @@ County of Spokane}ss</p>
 <p>I do hereby certify that 
 I served the within 
 subpoena on all of the 
-within named witness
+within named witnesses
 by reading the same 
 to them personally in
 Spokane County W.T.
@@ -199,10 +202,9 @@ on this 1st day of July 1886</p>
 Constable</p>
 
 <p>Fees
-Serving 1 name @ 40 .40
-mileage     .25 <unclear></unclear>
+Serving 2 names @ 26 .88
+mileage     .40 <unclear></unclear>
 1.20</p>
-
 </div1>
     
 </body>
