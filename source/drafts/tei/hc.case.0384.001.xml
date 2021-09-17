@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0384.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>George W. Lunkin v. Captain W.S. Matthews. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0384.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">George W. Lunkin v. Captain W.S. Matthews. Petition.</title>
+<date when="1862-07-29">July 29, 1862</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
+<idno>WAL 287</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1862-07">July 1862</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Secton, B. N.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Oakland, Oregon</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Douglas County, Oregon</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Lunkin, George W.</persName>
+</person>
+<person role="defendant">
+<persName>Matthews, W. S.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Oliphant, Ethelbert P.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>First Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>George W. Lunkin
+vs
+Capt W.T. Matthews } Application for writ 
+of Habeas Corpus</p>
+<p>To the Honorable E.P.
+Oliphant judge of the 1st judicial Dist
+W.T. Your petitoner George W
+Lunkin complains of the defendant
+Capt W.T. Matthews and 1st alleges that
+he is unlawfully restrained of his liberty 
+by the defendant at or near Lewiston <add>W.T.</add></p>
+<p>2nd The pretense of the restraint is an
+enlistment in the <unclear/> of the U.S.A
+1st Oregon behold your petitioner 
+was enlisted at Oakland Douglas County
+Oregon on the 23rd day of Feburary
+1862 and at that time your petitioner
+was but seventeen years and six
+months of age and said enlistment
+took place without the the consent
+of petitioners parents</p>
+<p>3rd Your petitioner alleges that when enlisted he had the promise of
+thirty one dollars per month
+no point of which has been paid</p>
+<p>Wherefore your petitioner prays a writ
+of Habeas corpus <del>an</del> may serve and
+that this honorable court may inquire
+into said complaint and may
+discharge petitioner from said
+<del>eff</del> illegal restraint</p>
+<ab>George W Lunkin</ab>
+<p>George W Lunkin first being duly sworn 
+says the matters and things stated in the
+foregoing complaint are true of his own
+knowledge</p>
+<ab>George W Lunking</ab>
+<ab>Over</ab>
+<pb/>
+<p>The foregoing subscribed and sworn
+to before me this 29th day of July -
+A.D. 1862</p>
+<ab>B.N. Secton
+Clerk &amp;c</ab>
+<p>Clerk fees for Aff 50c pd:</p>
+<pb/>
+<p>Geog W Lunkin
+vs
+Cap W. S. Matthews</p>
+<p>Aug. 14th 1862 Writ
+allowed by
+E.P. Oliphant
+<unclear></unclear>
+Filed August 14th 1862
+B.N. Secton
+Clerk</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
