@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington V. Sterling P. White</title><!-- replace with name of case; type of document -->
+<date when="1884-12-24">December 25, 1884</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,15 +80,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1884-12">December 1884</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Beardon, Frank</term><!-- insert names of other people mentioned in document -->
+<term>Beardon, Henry</term>
+<term>Rogers, O. J.</term>
+<term>Welch, R. C.</term>
+<term>Portch, H.</term>
+<term>Junck, John</term>
+<term>Portch, E. A.</term>
+<term>Beardon, A. L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>County of Lincoln</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -108,7 +115,7 @@
 <persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Carpenter, J. W.</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
@@ -122,7 +129,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021-03" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -133,11 +140,47 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.wa.0130.008"/> <!-- insert number from spreadhseet -->
 
 
 <fw type="footer"> &amp;</fw>
+<p>Territory of Washington
+County of Lincoln }ss
+To Frank Beardon, Henry Beardon,
+O.J. Rogers, R.C. Welch, H. Portch, 
+E. A. Portch. </p>
 
+<p>In the name of the United States
+you are hereby required to appear before 
+the undersigned one of the Justice of
+the Peace Acting Coroner in and 
+for the said county on the 25th day of
+December A.D. 1884 at 11 o'clock and
+at the house of A.L. Beardon to give 
+evidence in the cause of death
+of A.L. Beardon.
+I give under my hand and seal
+at this 24th day of December A.D. 1884
+J.W. Carpenter
+Justice of the Peace
+Acting Coroner
+</p>
+
+<pb/>
+
+<p> Subpoena for witness
+in Coroners inquest
+served the within John Januk
+could not be found served on 
+the rest. 
+J Friedlander
+Deputy Sheriff
+Lincoln Co W.T.
+Dec 24 84 </p>
+
+<p>Filed March 5th/85
+Kate W. Fauerbach
+Clerk</p>
 
 </div1>
     
