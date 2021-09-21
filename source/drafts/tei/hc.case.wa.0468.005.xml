@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0468.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>State of Washington v. John W. Considine. Substitution of Attorneys</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0468.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">State of Washington v. John W. Considine. Substitution of Attorneys</title>
+<date when="1897-08-16">August 16, 1897</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1897-08">August 1897</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Hopkins, R. M.</term>
+<term>Ayres, A. Reeves</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Considine, John W.</persName>
+</person>
+<person role="defendant">
+<persName>State of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wiley, John</persName>
+<persName>Bostwick, Harrison</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Feighan, J. W.</persName>
+<persName>Winston, Patrick Henry</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<ab>IN THE CIRCUIT COURT OFT THE UNITED STATES, FOR THE DISTRICT
+OF WASHINGTON, NORTHERN DIVISION.</ab>
+
+<ab>IN THE MATTER OF THE APPLICATION
+OF JOHN W. CONSIDINE
+FOR 
+WRIT OF HABEAS CORPUS.</ab>
+
+<ab>No. 626
+SUBSTITUTION OF ATTORNEYS.</ab>
+
+<p>I, JOHN W. CONSIDINE, do hereby employ, constitute and substitute
+HARRISON BOSTWICK as my Attorney in the foregoing entitled
+proceedings, in lieu and in stead of Messrs. Wiley and Bostwick,
+formerly my Attorneys and the Attorneys of record in said cause.</p>
+
+<p>And I do, hereby instruct and authorize my said Attorney,
+Harrison Bostwick, to take such proceedings and to do all and every
+act which he may deem proper and necessary to protect my interest
+in said proceedings.</p>
+
+<p>Dated, Spokane, Washington, August 16 1897.</p>
+
+<ab>John W. Considine</ab>
+
+<pb/>
+
+<ab>Tx.</ab>
+
+<ab>626.</ab>
+
+<ab>IN THE CIRCUIT COURT OF THE
+UNITED STATES, FOR THE DISTRICT
+OF WASHINGTON, NORTHERN
+DIVISION.</ab>
+
+<ab>IN THE MATTER OF THE APPLICATION
+OF JOHN W. CONSIDINE
+FOR 
+WRIT OF HABEAS CORPUS.</ab>
+
+<ab>SUBSTITUTION OF ATTORNEYS.</ab>
+
+<ab>Harrison Bostwick</ab>
+
+<ab>Attorney for John W. 
+Considine.</ab>
+
+<ab>FILED Aug 19 1897
+IN THE
+U.S. CIRCUIT COURT.
+A. Reeves Ayres,
+CLERK.</ab>
+
+<ab>By R M Hopkins
+DEPUTY</ab>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

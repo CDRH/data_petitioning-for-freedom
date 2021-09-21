@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0353.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lee Sing Wot v. Charles M. Bradshaw. Writ of Habeas Corpus</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0353.001</idno> 
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Charles M. Bradshaw. Writ of Habeas Corpus</title>
+<date when="1864-06-14">June 14, 1864</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1864-06">June 1864</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Adams, Nicholas</term>
+<term>Brownfield, D.F.</term>
+<term>Davis, Clark</term>
+<term>Dyer, E.S.</term>
+<term>Gould, Thomas</term>
+<term>Irwin, S.S.</term>
+<term>McAlmond, E.N.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Clallam County, Washington</term>
+<term>Jefferson County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Lee Sing Wot</persName>
+</person>
+<person role="defendant">
+<persName>Bradshaw, Charles M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Wyche, James E.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Jefferson County</orgName> 
+<placeName>Port Townsend, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#lkw"> reviewed</change>        
+<change when="2019" who="#cdw"> transcribed and encoded</change>
+<change when="2021" who="#jlf"> transcribed and encoded</change> 
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.wa.0353.001"/> 
+                    
+<p>Before the Hon James E. Wyche
+Judge of the Dist Court of the United States
+in and for the Territory of Washington at
+Chambers in Port Townsend W.T.</p>
+
+<p>Application for writ of Habeas Corpus by
+C.M. Bradshaw in behalf of Nicholas Adams
+and Thomas Gould of Clallam Co. W.T.</p>
+
+<p>C.M. Bradshaw being duly sworn makes
+oath and says that he is informed
+and believes that Nicholas Adams
+and Thomas Gould are now illegally
+restrained of their liberty in the county
+of Clallam by a body of men styling them-
+selves a "Vigilance Committee" of whom
+E.H. McAlmond is styled Captain and
+SS Irwin D.F. Brownfield Clark Davis
+and some thirty others whose names
+deponent can hereafter give are members
+and principle actors.</p>
+
+<p>That the cause or pretense of said <unclear></unclear>
+as deponent is informed and believes is a
+mere suspicion that said Adams and
+Gould are bad and dangerous men</p>
+
+<pb></pb>
+
+<p>That they are restrained of their
+liberty without process of law by armed
+force and without any authority of law
+or proclamation.</p>
+
+<p>Deponent is also informed and
+believes that said Vigilance Committee
+have threatened to expel by force said par-
+ties from the Territory and to execute
+them by mob law and that there is 
+to believe that such thereto will be carried
+into execution before compliance with
+the Writ herein applied for can
+be enforced.</p>
+
+<p>The herefore deponent prays that
+a writ of Habeas Corpus may issue on
+behalf of said Adams and Gould
+to the end that the cause of their res-
+traint may be inquired into and
+they delivered therefrom in case said
+restraint be illegal.</p>
+
+<p>And also that a warrant may
+issue to the proper office of the Court
+commanding him to take the persons
+thus held in custody and being themforth
+with before the court or Judge of the 3rd
+Judicial District W.T. holding terms at</p>
+
+<pb></pb>
+
+<p>Port Townsend and further that a com-
+mand be inserted in said warrant for
+the apprehension of the persons charged
+with causing and exercising said illegal
+restraint and that they be brought before
+said court or Judge to be dealt with
+according to law.</p>
+
+<p>C.M. Bradshaw</p>
+
+<p>Subscribed and sworn to before
+me this 14th day of Jun A.D. 1864
+E.S. Dyer
+Clerk</p>
+
+<p>Set the Writ issue as <unclear></unclear> in
+complaint and as <unclear></unclear> in the warrant
+an order for the arrest of E.N. McAlmond
+S.S. Irwin D.F. Brownfield and Clark Davis the
+parties charged with the illegal restraint of
+Nicholas Adams and Thomas Gould
+the writ returnable forthwith</p>
+
+<p>J. Wyche
+Judge</p>
+
+<p>June 14 1864</p>
+
+<pb></pb>
+
+<p>No. 400</p>
+
+<p>Pet. for Writ of
+Habeas Corpus</p>
+
+<p>E.N. McAlmond
+S.S. Irwin
+D.F. Brownfield
+and Clark Davis</p>
+
+<p>Territory
+v.
+Nicholas Adams
+Thomas Gould</p>
+
+<p>Filed June 14 1864
+E.S. Dyer
+Clerk</p>
+
+<pb></pb>
+
+</div1>
+            
+</body>
+</text>
+</TEI>
+

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0045.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>George Washington Kirk v. James A. Felps. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0045.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">George Washington Kirk v. James A. Felps. Petition</title>
+<date when="1856-08-11">August 11, 1856</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1856-08">August 1856</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Engert, J. S.</term>
+<term>Engert, R. F.</term>
+<term>Kirk, Casey</term>
+<term>Lewis, Exum</term>
+<term>Maddox, Thumer</term>
+<term>Richardson, James</term>
+<term>Teetor, Henry F.</term>
+<term>Williams, Matthew</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Mississippi</term>
+<term>Cincinnati, Ohio</term>
+<term>St. Louis, Missouri</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Kirk, George Washington</persName>
+</person>
+<person role="defendant">
+<persName>Felps, James A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Whittelsey, Charles C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Herkenrath, R. M.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Commissioners' Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0045.004"/>
+
+<p>State of Missouri</p>
+
+<p>To the Honorable the St Louis 
+Law Commissioners <del>Criminal</del> Court of St. Louis</p>
+
+<p>The petition of George Washington 
+Kirk respectfully represents</p>
+
+<p>That he is a free man of color, domiciled and 
+residing in the state of Ohio, and has been free 
+for the space of sixteen years, having with his father 
+and his family been manumitted in Hamilton 
+County State of Ohio on the 13th day of February AD 
+1840, by his owner Exum Louis of Hinds County 
+in the State of Mississippi, as will appear by a certified copy of the record of manumission from the 
+Superior Court of Cincinnati in the State of Ohio 
+which is filed herewith.</p>
+
+<p>He also filed herewith to prove his identity and 
+that is and has been free, the affidavits of Casey 
+Kirk, his father, of J.S. Engert, R.F. Engert, 
+Henry F. Teetor and James Richardson, good and 
+lawful men residing in said City of Cincinnati</p>
+
+<p>Your petitioner represents that he is confined 
+in the common jail of St Louis County by James 
+A Felps the keeper thereof, under authority 
+he is informed of Thumer Maddox former Sheriff of said County of St Louis who committed him 
+to said jail as a runaway slave and as your 
+petitioner is informed has advertised that he will sell 
+your petitioner as a runaway slave. He has asked and 
+been refused a copy of his commitment</p>
+
+<p>Your petitioner alleges that his imprisonment is 
+illegal in this that your petitioner is a free man and 
+not a slave, and that no person claims him as 
+owner by right or by law.</p>
+
+<p>The Judge of the Criminal Court is now absent 
+from this County as he is informed</p>
+
+<p>And your petitioners will ever pray &amp;c</p>
+
+<p>George Washington Kirk</p>
+<p>By Whittelsey Atty</p>
+
+<p>County of St Louis }</p>
+<p>George Washington Kirk being 
+sworn upon his oath says that the facts in the 
+above petition stated are true</p>
+<p>Geo  Washint Kirk</p>
+<p>his X mark</p>
+
+<p>Sworn to and subscribed 
+before me Aug. 11 1856</p>
+
+
+<p>Charles C Whittelsey attoney for petitioner &amp; also 
+in addition that no other application <del>has been</del> 
+for the relief sought has been made to and refused 
+by any other court or officer superior to this 
+court</p>
+
+<p>Chas C Whittelsey</p>
+
+<p>In re 
+Geo Washington Kirk</p>
+
+<p>Petition for Habeas 
+Corpus</p>
+
+<p>Filed Aug 11th 1856</p>
+<p>M <unclear></unclear> 
+<unclear></unclear></p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Marion Fair v. Territory of Washington. Petition.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0381.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Marion Fair v. Territory of Washington. Petition</title>
+<date when="1862-08-13">August 13, 1862</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archive</repository>
+<collection>Walla Walla Frontier Justice</collection>
+<idno>WAL 580</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1862-08">August 1862</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Buckley, Lambs</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Secton, B. N. </term></keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Fair, Marion</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Oliphant, Ethelbert P.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>First Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>M. Fair
+vs
+Territory of Washington | Territory of Washington
+County of Walla Walla 
+Petition for writ of Habeas Corpus</p>
+<p>To the Honorable E.P Oliphant Judge
+1st Judicial Dist W.T.</p>
+<p>Your petitioner M. Fair complains
+that he is illegally restrained of his liberty at the
+city Walla Walla y Lambs Buckley therewith of
+said county on a charge of Grand Larceny 
+The illegality of said restraint consists in <add>the</add> facts that
+there is no legal evidence of the crimes <add><unclear/> petition</add> and that
+it is <unclear>unheard</unclear> in fact, He <add><unclear/></add> prays that a writ of Habeas
+Corpus may be ganted &amp; that your Honor will
+inquire unto to the charge and that your petitioner
+may be discharged from said illegal restraint</p>
+<ab>Marion Fair</ab>
+<p>Subscribed and sworn to
+before me the 13th day of 
+August 1862</p>
+<ab>F.A. <unclear>Cherovelt</unclear>
+Notary Public</ab>
+<pb/>
+<p>M. Fair
+vs
+Territory of Washington</p>
+<p>Petition for Writ
+Habeas Corpus</p>
+<p>Aug. 14 1862 Filed
+allowed by
+E.P. Oliphant
+First Jud <unclear>NSNY</unclear></p>
+<p>Filed August 14th 1863
+B. N. Secton
+Clerk</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

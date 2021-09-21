@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0473.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla" xml:id="mg">Mikayla Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0473.002</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry
+Mason, William
+Miller, John F.
+Nordstrom, Charles W.
+Lewis, James Hamilton
+Jacobs, Orange
+Spencer, W. C.
+McBride, W. P.
+Ellanerth, P. C.
+Hart, John B.
+Calhoun, C. V.
+Willard, Rufus S.
+Marion, A. B.
+Bories, Emil
+McElroy, James F.
+Ayres, A. Reeves 
+Walthew, H. M.
+Hanford, C. H.
+Ashley, M
+Moors, A. N.
+Van de Vanter, A. T.
+Van de Vanter, A. D.
+McKenney, James H.
+Owrigher, B.
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington
+Washington D.C.
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Nordstrom, Charles W.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>State of Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>James Hamilton Lewis .</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John F. Miller</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jacobs, Orange</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court Northern Division</orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.473.002"/> <!-- insert number from spreadhseet -->
+<p> IN THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT </p>
+<p>OF WASHINGTON, Northern Division</p>
+
+<p>In the matter of the Application of
+Charles W. Nordstrom, for the Writ of
+Habeas Corpus, Appearing by his next
+friend, J. Henry Denning</p>
+
+<p>PETITION FOR WRIT OF HABEAS CORPUS</p>
+<p>To the Honorable Judge of the Circuit Court of the United States
+for the District of Washington, Northern Division:-</p>
+<p>Your petitioner for relief by habeas corpus and for writ
+therein most respectfully to the court, that,</p>
+<p>I</p>
+<p>Your petitioner J. Henry Denning avers that he is the friend of 
+the said Charles W Nordstrom in whose behafl he petitions for relief
+in habeas Corpus and for a writ of habeas corpus herein.</p>
+<p>II</p>
+<p>That the said Charles W. Nordstrom is a citizen of the United
+States and a resident of the State of Washington, and is at present
+confined in the county jail of King County, State of Washington, under
+an alleged conviction of muder had in the Superior Court of the
+State of Washington for King County, on April 2, 1892, and thereafter
+various proceedings were had and judgement and final sentence of
+death taken had against said Charles W. Nordstrom by the said 
+Superior Court of the State of Washington.</p>
+<p>III</p>
+<p>And that they said Nordstrom was sentenced to death and to be
+excecuted by the sheriff of said King County, and that subsequently
+to-wit, on the day of 189, the said Charles W.
+Nordstrom sued out a writ of habeas corpus before the Circuit Court
+of the United States for the District of Washington, Northern Division,
+claiming relief thereunder; saild reflief being denied by the said
+Circuit Court, whereupon and thereafter said petitioner appealed said
+Habeas Corpus proceeding to the Supreme Court of the United States;
+said Sureme Court of the United States did on the day of 
+189, dismiss the petition upon the ground that the matter was not
+complete enough in the details of the pleading, in failing to set out with
+proper certainty and preciseness the exact grounds upon which the
+petitioner rested his contentions embracing the attempt to deprive
+petitioner of his life without due process of law, particularly, in that
+he failed to annex a copy of the indictment or information and to set
+out the verdct in the case, both of which were subjects of complaint;
+that thereafter the said court duly dismissed said petition and con-
+firmed the order of the Circuit Court of the United States for the
+State of Washington, and sent down to said Circuit Court of the
+United States for the State of Washington its mandate on or about the 
+8th day of March, 1899.</p>
+<p>IV</p>
+<p> That said mandate of the Supreme Court of the United States
+specifically provided that the said cause of said petitioner was
+returned to the said Circuit Court of the United States for further
+proceedings therein to be had, to-wit, to be had in the Circuit Court
+of the United States for the State of Washington according to the 
+laws of the United States and according to justice on the permises. </p>
+<p>V</p>
+<p>That thereafter, to-wit, on the 15th day of May, 1899, the said
+Superior Court of the State of Washington for King County assumed to
+take jurisdiction of the petitioner befire any final judgment had been
+made by the said Circuit Court of the United States for the State of 
+Washington upon said petition and in accordance with the mandate of 
+the Supreme Court of the United States, and without any order having
+been made by said Circuit Court of the United States, or by any proper
+order whatsoever in the premises either transferrng the said cause to 
+the said Superior Court of the State of Washington, or releasing and
+relieving itself of jurisdiction of said peitioner Charles W. Nordstrom
+</p>
+<p>VI</p>
+<p>That the said petitioner Charles W. Nordstrom by his friend duly 
+made objection to the Superior Court of the State of Washington for
+King COunty, to-wit, the Hon. Orange Jacobs, Judge, taking jurisdic-
+tion therein in anywise whatsoever, for that, to-wit, the said petition-
+er had the right to proceed n the said United States Circuit by appro-
+priate amendment amendng his petition to conform to the opinion of the
+Supreme Court of the United States, in the cause given and rendered in 
+that certain case, entitled, Charles W. Nordstrom v. The State of
+Washington, based upon the opinion and reasons of that other certain
+case of Carner v. State of Washington, both petitions being similar
+in letter, words, paragraph and subject matter.</p>
+<p>VII</p>
+<p>That said Superior Court of the State of Washington for King County 
+assumed to take jurisdiction over the objections of said petitioner,
+and did proceed, notwithstanding, to exercise said jurisdiction to the 
+exlusion of the said Circuit Court of the United States against the
+objection and protest of said petitioner and his friend, to which due
+exception was taken, which exception was allowed and preserved in the
+record of said cause.</p>
+<p>VIII</p>
+<p>The petitioner informed the court by affidavit and by due presen-
+tation of the record that sad question of said petitioner's federal
+rights in the Federal Court was still undisposed of, which said 
+affidavit was duly filed and duly presented before the said Hon. Orange
+Jacobs, Judge of the said Superior Court of the State of Washington for
+King County, and the said federal question was therein fully stated,
+wholly and completely, as more fully appears by reference to the
+record on file in the Superior Court of the State of Washington for 
+King County, which said objection to the said jurisdiction to said
+jurisdiction were in the words as appears in exhibit "a" to this 
+peition, which exhibit is made a part of this petition for reference.</p>
+<p>IX</p>
+<p>Your petitioner further alleges that notwithstanding said objec-
+tion and said question being raised, that said Superior Court of the 
+State of Washington for King County proceeded to take jurisdiction of
+the person of petutuiner and sentence him to death, to-wit, to die on
+the 11th day of August 1899, to be hanged by the sheriff of said King
+County; that from said conduct and action of said Judge of the 
+Superior Court of the State of Washington for King County said
+petitioner did duly appeal to the Supreme Court of the State of Washing-
+ton claiming relief and exemption upon his said ground of his federal
+rights and previleges as therein set fort; that the Supreme Court of 
+the State of Washington did on the 24th day of July, 1899, deny to the
+said petitioner relief, and did decide the said federal question and
+conention against the interests of said pettioner and adverse to his 
+contention, and did refuse the relief prayed for, and did affirm the
+condcut and action of the said Superior Court, to-wit, the judgement of
+the said Hon. Orange Jacobs in overrulung the obections of said
+petitioner to the jurisdiction of his court, and did overrule and deny
+petitioner's petition for relief upon the ground that under the 
+federak kaw and the Consitution of the united States that said Auperior
+Court had no jurisdiction of the cause and of the petitioner, for that, 
+to-wit, the said Circuit Court of the United States for the State of
+Washington alone and only held and had jurisdiction of the Retitioner
+in anywise whatsoever any proceeding whatsoever authoriaing the 
+State court to take jurisdiction of the person of the said Charles W.
+Nordstrom in anywise whatsoever.</p>
+<p>X</p>
+<p>The the said Supreme Court of the State of Washington in so de-
+ciding against the contention and claim of right of said petitioner
+denied him his rights under the Constituion and laws of the United 
+States, and decided contrary to petitioner's rights under the con-
+stitution of the United States, and against the laws of the United
+States, and in violation of the laws of the United States and to the
+detriment of petitioner's interests and against the life of petitioner
+and contrary to the Constitution of the United Stat es and the laws thereunder.</p>
+<p>XI</p>
+<p>Your petitioner further showeth that previous to the 15th day of
+May, 1899, to-wit, on March the 18th, 1899, prior to and previous to 
+the Superior Court taking jurisdiction of said Charles W. Nordstrom,
+Your petitioner J. Henry Denning as the friend of the said Charles W.
+Nordstrom did duly by affidavit make known to the court a fact which 
+has ever since remained, and is now a factm that the said Charles W.
+Nordstrom gas subce tge verdict and judgmebt against him, become insane,
+that he was of unsound mind, that he was demented and crazy, that he
+was unable to present to the court in his own behalf any fact or factsw
+which might go to the amelioration of his sentence or the avoidance
+of the execution thereupon. That he was in such condiction of mind as
+to be unable to prepare himself for the event of death, and was in
+such a state of mind as to make the act inhuman that would take his 
+life by process of law or otherwise, that the said Chares W. Nordstro m
+was wholly irrespnsible in mind, and for a long time prior thereto
+has been and was then a subject for the insane asylum, being crazy
+and insane.</p>
+<p>XII</p>
+<p>That the petitioner did ask that a hearig be had for the said
+Charles W. Nordstrom, that said hearing be judicial, that said hearing
+be legal, that petitioner did pettion that all proceedings against the
+said Charles W. Nordstrom be stayed until such legal hearing could be
+had, that said Charles W. Nordstrom be permitted such a hearing, and 
+particularly, for such a hearing as would enable him to produce witness-
+es and those acquainted with his condition by whom it could be demon-
+strated annd established that he was of such unsound mind as to exempt 
+him from furtherprocess of the law, and to exept him from any other or
+further process of the courts looking to his inoaroeration as criminal and of taking his life as such.</p>
+<p>XIII</p>
+<p>That said court delined and refused to grant to the said Nordstrom
+a legal hearing either by jury or by legal comission in open court
+whereat and at which time the said Nordstrom would have the opportunity 
+through his friend to establish his mental condition. That said peti-
+tion was sustained by affidavit and by evidence tendered to the court
+from impartial, reliable, trustworthy, and wholly creditable sources
+who has knowledge and information absolute as to the condition of the
+mind of the said Nordstrom, yet, nevertheless and notwithstanding,
+the said court refused to grant the said Nordstrom an opportunity of
+presenting witnesses in his behafl through his friend or in anywise
+in order to establish at a legal hearing in open court or to a jury
+or before the court upon a trial his real mental condition or to
+establish his said insanity. </p>
+<p>XIV</p>
+<p>That subsequently the said court nevertheless proceeded upon the 
+statement that the said court was satisfied and did proceed notwith-
+standing theinformation of the affidavid informing the said courtof
+the insanity of the said Nordstrom; and your petitioner durther showeth 
+that said affidavid was in nowise denied denied by the said court or
+the Prosecuting Attorney of King County or by any person whomsoever by
+any written form of denial from any sourse whatsoever that the said
+Nordstrom was insane as claimed by yoru petitioner in behalf of the 
+said Nordstrom.</p>
+<p>XV</p>
+<p>The the said Hon. Orange, Jacobs, Judge of the Superior Court of
+the State of Washington for King County did insist upon naming a day 
+for the execution of the said Nordstrom, and did, notwithstanding the h 
+showing and representations, name the 11th day of August, 1899, as 
+the time for taking the life of the said Nordstrom by the 
+sheriff of King County, Washington.</p>
+<p>XVI</p>
+<p>There is no statute in the State of Washington prescribing
+offence of murder in the first degree and murder in the second degree.
+That the verdict returned against your petitioner is in words follow-
+ing, to-wit:
+</p>
+<p>State of Washington,</p>
+<p>Plaintiff,</p>
+<p> -vs-</p>
+<p>Charles W. Nordstrom,</p>
+<p>Defendant.</p>
+<p> "We, the jury in the above entitled cause wherein the State
+of Washington is plaintiff and Charles W. Nordstrom is defendant, do 
+find the defendant guilty as charged."</p>
+<p>That the said verdict in nowise adjudges your petitioner guilty
+of murder in the first degree. That said information charged your
+petitioner with the crime of murder in the second degree two offences;
+first, with the crime of murder in the first degree; second, with the
+crime of murder in the second degree. That the said verdict herein
+finds your petitioner guilty as charged, and but and only charges him
+with the crime of muder and in nowsie specifiying that they find him
+guilty of murder in the degree known as first. That under
+the law no presumption can prevail, save and except a presumption most
+favoring the petitioner. That the Supreme Court of the State of 
+Washington construed the statute under which your petitioner was tried
+and declared the law of the State of Washington tobe that a killing
+proved created the presumption of murder in the second degree. That
+there must be an especial finding of murder in the first degree to 
+justify the presumption of the existence of such. That the absence of
+ any statement or finding of any jury against your petitioner other
+then as herein stated no other nor futher nor greater offence has
+been adjudged against him than that of murder in the second degree.
+That the punishment for murder in the second degree is imprisionment in
+the penitenitary of the State of Washington exceeding twenty years,
+and in nowise is there law or authority for the taking of the life of
+your petitoner, or any other person upon such verdict as herein
+reported and returned upon such information as herein stated and
+filed against your petitioner.
+</p>
+<p>XIX</p>
+<p>That any attempt to take the life of your petitioner at this 
+time is in violation,</p>
+<p>First, of the Constitution of the United States providing and pre-
+scribing and granting due process of law, to-wit, a full and complete
+hearing upon all the issues raised by the petitioner, among which,
+your petitioner's condition of mind, that is, to-wit, his insanity,
+and his right to be exempt from execution while in such condition.</p>
+<p>Second, Is in direct violation of the statutes of the United
+States and the law of the United States prescribing that all process
+of any State or any State Court shall be null and void while any pro-
+ceeding is pending either upon appeal or on Habeas Corpus before a
+Federal Court of the United States.</p>
+<p>Third, Because the same is contrary to the Constitution of the 
+United States, is contrary to the laws of the United States, and is
+without any jurisdiction in the State Court of this or any other State,
+and in violation of the rights of your petitioner as a citizen of the
+United States and entitled to the protection oof the laws of the 
+United States and Constitution of the same.</p>
+<p>W H E R E F O R E, Petitioner prays that Your Honor will grant
+unto your petitioner a Writ of Habeas Corpus commanding your petitioner
+to be brought before this court at such time and place as the court
+shall deem convenient, whereat the court could inquire of the matters
+and things alleged by your petitioner, and that Your Honor would
+issue a Writ of Certiorari to the Superior Court of the State 
+of Washington for King County ordering to be duly certified to the
+court the records of this said cuase for information, that Your Honor
+may beinformed of the premises, and that upon such record and upon
+such hearing of the cause such further and other order may be made
+as in the premises will be right and proper.</p>
+<p>And your petitioner will ever pray.</p>
+<p>Charles W. Nordstrom</p>
+<p>Petitioner</p>
+<p>By J Henry Dunning</p>
+<p>His Friend.</p>
+<p>James Hamilton Lewis</p>
+<p>Attorney for Petitioner</p>
+<p>State of Washington, )</p>
+<p>:ss.</p>
+<p>County of K i n g )</p>
+<p>J. HENRY DENNIN, being first duly sworn, on oath d eposes
+and says: That he is the friend of the petitioner named herein,
+Charles W. Nordstrom, that he knows the matters and things set forth
+in the petition, and of the matters of his own knowledge says they
+are true, and the other mattres of law he is advised thatthey are 
+true and therefore believes the wole of said petition to be true.</p>
+<p>J. Henry Denning</p>
+<p>Subscribed and swron to before me this 29 day of July, A.D. 1899.</p>
+<p>P.C. Ellanerth</p>
+<p>Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+<p>INFORMATION.</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON, </p>
+<p>FOR KING COUNTY</p>
+<p>The State of Washington,</p>
+<p>Plaintiff,</p>
+<p>No. 472</p>
+<p>Charles W. Nordstrom,</p>
+<p>Defendant.</p>
+<p>I, John F. Miller, prosecuting attorney for King County, State of
+Washington, come now here and give the xourt to understand and be in-
+formed and on oath de accuse Charles W. Nordstrom by this information
+of the crime of murder in the first degree, as follows:</p>
+<p>He, the said Charles W. Nordstrom, in said King County, State of
+Washington, on the 27th day of November 1891, purposely, and of his
+deliberate and premediatated malice, killed Wiliam Mason, by then
+and there purposely, and of his deliberate and premediated malice,
+shooting and mortally wounding the said William Mason, with a gun which
+he, the said Charles W. Nordstrom, then and there held in his hands.
+</p>
+<p>Dated at Seattle, in said County of King aforesaid, the 8th day of December 1891.</p>
+<p>John F. Miller,</p>
+<p>Prosecuting Attorney.</p>
+<p>State of Washington, )</p>
+<p>: ss.</p>
+<p>County of K i n g )</p>
+<p>John F. Miller, being first duly sworn, deposes and states 
+that he is the prosecuting attorney of King County, State of Washing-
+ton, that he has read the foregoing information, and that the allega-
+tions and statements made therein are true as alleged.</p>
+<p>John F. Miller.</p>
+<p>Subscribed and sworn to before me this 8th day of December 1891.</p>
+<p>W.b. Spencer,</p>
+<p>Clerk of the Superior Court, King
+County, Washington,</p>
+<p>By W.P. McBride, Deputy Clerk.</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON FOR KING COUNTY.</p>
+<p>IN THE MATTER OF THE APPLICATION OF
+CHARLES W. NORDSTROM FOR RELIEF FROM
+CONDITION OF INSANITY</p>
+<p> State of Washington,</p>
+<p>Plaintiff, No.</p>
+<p>-vs- A F F I D A V I T.</p>
+<p>Charles W. Nordstrom</p>
+<p>Defendant.</p>
+<p>State of Washington, )</p>
+<p>: ss.</p>
+<p>County of King. )</p>
+<p> James Hamilton Lewis, being first duly sworn, on
+oath deposes and says: That for record of the preceeding in the said
+matter above named and for a record of the recitals of all the facts 
+connected therewith, the following is a true and absolute statement
+is a complete, full and true exemplification, exhibition, and
+statement of the whole record of transaction in connection with the
+proceeding. That all matter of every nature whatsoever that is now
+or has been a part of any record or of any proceeding in so far as 
+the same has been made known in anywise whatsoever is 
+herin stated, provided, except only such record as the trnacript of 
+the Clerk of the Superior Court of this County has disclosed anterior 
+to the datte of this affidavit. That on the day of A.D. 1899,
+at the City of Seattle, King County, Washington, Charles W. Nordstro,
+was duly charged upon affidavit by J. Henry Denning, a legally
+qualified dependent, and due suggestion and statement by motion based
+upon said affidavit was also propertly made and duly filed, duly
+reciting and regularly stated charged the said Nordstrom of being
+non compos mentis ; that said Nordstrom was of insane mind and un-
+able to appreciate his surroundings, had no knowledge sufficient to
+conduct his affairs, or understand or appreciate the extent or
+nature or consequence of any proceeding being had or taken against
+or for him or in which he was interested. That this deponent, as 
+counsel for the said Nordstrom, duly moved the Court for such proper
+proceeding looking to the ascertainment of the mental state of the
+said Nordstrom, based upon and supported by the said affidavit and
+charge of insanity, also that such other course be had and taken by
+which judgment appropriate to the proceeding and further proceedings
+consistent with the facts elicited to be had. That thereupon the Court,
+in the presece of the Counsel for the State, representing the County
+of King, and appearing as opposing the motion for inquiry into the
+lunacy of the said Nordstrom; and said Court stated that he would
+name a Commission to examine into the subject at a future day named,
+to-wit: the day of 18999; that thereupon this affiiant 
+as counsel for defendant arose and stated to the Court that, in so
+far as the selection of a Commission for a preliminary inquiry, the
+commissioners being scinentific men, was concerned, affiant favoured 
+proceedings to that extent, but must not be understood as consenting 
+to the intimation given out that said Commission could take upon
+themselves the right to pass upon the question, or to proceed for or 
+against the defendant of their own volition as a court or trial
+body That affiant felt it his duty to inform the Court then and
+there that nothing could be done carrying with it the idea that 
+affiant was waiving such rights as defedant would have, or was 
+sitting in acquiescence to the course of proceeding without taking
+the due course of informing the Court as to what he thought, as
+counsel for the defendant and an advuser of the Court, was proper and
+just in the premises, either as to the course of proceeding or the 
+course of procedure.
+</p>
+<p>That on the day of , 1899, affiant being present 
+as a friend of the defendant, Assistant Prosecuting Attorney, John B. 
+Hart, being present representing the State, Hon. Orange Jacobs, the
+presiding Judge in the presence of affiant and said Assistant
+</p>
+<p>Prosecuting Attorney, John B. Hart, stated that he had agreed
+upon a Commission of physicians consisting of five gentlemen, being
+medical men, to-wit: Drs. C.V. Calhoun, Rufus S. Willard, A.B. 
+Marion, Emil Bories, and the phsician attendin in the Insane
+Asylum at Steilacom; that he had concluded upon the commission 
+without taking the suggestions of either the said Nordstrom or his
+friend or any one in his behalf, or of the state or any one in its
+behalf. Affiant then publicly state that he presumed that he would be given 
+notice when the said commission would be returnable whereupon and at 
+which time he assured he would be given opportunity to present what
+ he thought and understood under the law were the rights of the
+said Nordstrom; That affiant then and there understoof the court
+specifically to say to the said Assistant Prosecuting Attorney that he 
+should prepare such proper order naming the day of the citation and
+serve the same upon affiant, and understood the said Assistant Pros-
+ecuting Attorney to assert that he would do such; and this affiant 
+then and there relying upon service of notice upon him of some kind
+or in some form of the meeting of said commission by which he
+would be given due opportunity of presenting the rights of the said
+Nordstrom, and such other motion or suggestions as to affiant would 
+appear right, just as proper in the premises. That subsequently,
+to-wit, on the day of 1899, the said Hon. John B. Hart, 
+Assistant Prosecuting Attorney in open court upon this affiant making public statement to the Court that
+upon that statement of the Court, he had been led to believe that he 
+was to have notice, by reason of said statements of the Court to the
+said Assistant Prosecuting Attorney, she said Hon. John B. Hart stated
+that he did not so understand the Court or that he did not hear the
+Court make such statement, and affiant states that in this opinion of
+the said Hon. John B. Hart, and the said Prosecuting Attorney's office
+representing the state in opposing the proceeding, were sincere in
+their statemet thaht they did not hear the court and did not so under-
+stand the court, and affiant begs to state that he under no consider-
+ation either directly or indirectly asserts that the said Assistant 
+Prosecuting Attorney, Hon? John B. Hart, the Prosecuting Attorney or
+any of his assistants or deputies, purpsely violated the order of the 
+Court or attempted to evade any duty to the Court that was incum-
+bent upon them. That from said date up to and including Saturday
+morning 10 o'clock of the 6th day of May, 1899, when this affiant
+made his oral protest against the proceedng which he had understoof
+had transpired there had been in nowise whatsoever, directly or indi-
+rectly, served upon the said Nordstrom, upon this said affiant, or
+J. Henry Denning, or any other person whomsoever, any notice of any
+proceeding, or the time fo any proceeding, or the occasion of any
+action, or the presence, or the citing of any commission, or of any
+proceeding whatsoever in anywise whatsoever connected with or con-
+cerning or relating to, the commission or alleged inquiry into the
+ condition of the said Nordstrom, or as to the proceedings or course of
+any alleged commission or body of persons, or of any proceeding of
+any nature whatsoever in anywise whatsoever. That affiant as a friend 
+of the said Nordstro observed from the public press, the only form
+of notice or information of any whatsoever; first appearing in 
+the Seattle Daily Times the following article:</p>
+<p>THE DOCTOR NAMED.</p>
+<p>Judge Jacobs Appoints the Commission to</p>
+<p>Examine into the Sanity of Nordstrom.</p>
+<p>udge Jacobs to day announced the names of the members of the
+medical commission appointed for the purpose of examining into the 
+sanity of Charles W. Nordstrom, the condemned murderer of Willie Mason
+The commission is composed of Dr. F. L. Godard, Superintendent of the
+Western Washington Insane Hospital for the Insane; Dr. C.V. Calhoun,
+Dr. A.N. Marion, Dr. Emil Bories and Dr. Rufus Willard.
+Court were instructed to resent in </p>
+<p> "We have made a very careful examination of the prisoner  and
+taken the testimony of the sheriffs and other officers in whose
+custody and under whose observation the said Charles W. Nordstrom 
+has been since his incarceration, and we are of the unanimous 
+opinion that he is now in such a condition of mind as to be able to
+distinguish between right and wrong. And as far as we have been 
+able to ascertain there has been no material change in his mental
+condition since his conviction."</p>
+<p>"G.V. Calhoun, Foreman,</p>
+<p>F.L. Goddard,</p>
+<p>Emil Bories</p>
+<p>A.N. Marion</p>
+<p>Rufus Willard"</p>
+<p>Nordstrom, in charge of a deputy sheriff, sat inside the rail
+when the fice commissioners, through their foreman, presented their
+report. Through the reading he listened with attention and appeared 
+to smile sardonically. Possibly it was only a nevous twitching of
+the muscels of his face. He refused to talk to any one in the court
+room or later in his cell down in the jail.
+</p>
+<p> the verdict of the commission was a suprise to many persons,
+even those familiar with Nordstrom's case. While most of the latter
+were not inclined to believe Nordstrom insane, they were equally
+unprepared to announce him thoroughly sane, and it was the general
+opinion among them that the commissioners would disagree or report
+Nordstrom mentally unballaced. </p>
+<p>The commissioner's verdict will be final with Judge Jacobs. as he
+publicly stated that he would abide by the result of the examination
+and sentence or not sentence the prisoner to death, according to
+whether the commission reported him sane or insane.</p>
+<p>That intermediate form the publication of one article to the 
+other affiant nor the said Nordstrom or this affiant, or any person or
+persons whomsoever acting in behalf of the said Nordstrom in any
+capacity whatsoever, received any notice whatsoever of any proceeding,
+or opportunity given in anywise whatsoever for the protection of the
+rights, interest, or cause of the said Nordstrom, or to bebeheard by
+witnesses or by counsel or by friend, or to be present to cross-examine
+or opporunity to protext the rights of the said Nordstrom against
+others whose interests are adverse to the claims of the said
+Nordstrom or the clients of his friends. And the said Hon. Orange 
+Jacobs, before whom this affiant made oral protest against the 
+proceedings and the treatment of the said Nordstrom in the premises,
+stated that he had chosen said commission and instructed them ti
+investigate the question of the sanity of the said Nordstrom, by look-
+ing exclusively and solely to the single standard of whether the 
+said Nordstrom was able to distinguish right from wrong, and if so,
+to report such fact to him. That he the said Judge prohibited the
+commission from being visited or attended by any one representing
+said Nordstrom either as counsel or friend, likewise prohibiting the 
+attendance on said commission by any one representing the state in 
+anywise whatsoever; affiant says that the said commission was authorized to take
+such procedure as they thought proper and in such maner as they
+chose, no person being allowed to suggest testmony in behalf of the 
+said Nordstrom, nor to aypear and cross-examine, or to elicit before
+the said commission either the prejudice, bias, competency, incom-
+petency, qualification or disqualificatio of any witess or their 
+interests who did so testify against the said Nordstrom and his 
+claims. Affiant states that it was his opinion and understanding
+gathered from the law and the doctrines therein announced that the
+office of the commission was to inquire and possess themselves of cert-
+tain facts and to qualify themselves as experts and that thereafter
+they were to appeard at such proper time and under such proper circum-
+stances to give their testimony either before the court in a judicial
+inquiry or a jury in a hearing or trial and their opinion, which
+opinio together with the testimony upon which it was based being 
+also before the court or a jury, and there submitted to the ordinary
+test permitted by the law, and ordinary cross-examination and inveti-
+gation under the rules and standards justified by the law, and said
+court or jury would have seached their conclusions under the ordin-
+ary procedure upon an ordinary tried or ordinary hearing in which the
+life or interests of a person were involved would have been conducted.
+That whatever testimony was had by the commission and the nature of it
+or the facts elicited, or the course of their procedure, or the con-
+uct of their inquiry being in nowise reported or preserved or know,
+it is impossible that the same could be the subject of review, or re-
+vision, investgation, or correction by any Judge or of any appellate
+court or tribunal, which according to the rights or interests of any
+person interested or involved in said proceeding should have been
+accessuble and of existence, affiant therefore is unable to state more fully the facts of
+any inquiry whatsoever or any proceeding whatsoever conducted by
+said commission or any part of the same, of which affiant will only
+state his opinion that the said commission understood that their duty
+was that, however, insane defendant might have appeared, however unfit
+for the excecution or the due discharge of any obligation, however
+wanting in moral senses and blunted intellegence, it was enough if
+by the inquiry they could ascertain if he knew right from wrong on
+any subject, that then and there such ascertain,ent ended their duty,
+and that alone became the subject of their recommendation. That the
+tests or course which said commission took in discharging their
+instructions and duties in order to ascertain whether the defendant
+knew right from wron, or what basis they used as a base of right, or 
+what basis they used as a base of wrong, whether one recognized by the
+law, or any recogized by modern science and the law, or whether one which
+would have been permissible had it been submitted to a judicial tri-
+bunal, and affiant is unable to state and is unable to inform the 
+court because of the utter failture and complete abscence of all
+record of the proceedings, and becase of the utter refusal neglect
+of the said commission to make any any proceeding of record in anywise
+whatsoever accessible to the said Nrdstrom or his friends or coun-
+sel. That thereafter, to-wt, on the 5 day of May, 1899, the 
+said commission assuing to act as such, returned into court a 
+certain alleged finding, commonly called a verdict, of their judgment
+as to the said Nordstrom, which is in words and language as follows.
+to-wit:
+To the Hon. Orange Jacobs, Judge of the Superior Court:
+</p>
+<p>Your commission, appointed to examine Charles W. Nordstrom, a
+prisoner now confined in the county jail under sentence of death, and
+report his mental condition to this honorable court, has performed
+that duty and beg to report as follows:</p>
+<p>We have made a very careful examination of the prisoner and
+taken the testimony of the sherrifs and other officers in whose
+custody and under whose observation the said Charles W. Nordstrom
+has been since his incarceration, and we are of the unanimous
+opinion that he is now is such a condition of mind as to be able to
+distinhuish between right and wrong. And as far as we have been
+able to ascertain there has been no material change in his mental
+condition since his conviction.</p>
+<p>G.V. Calhoun, Foreman,</p>
+<p>F.L. Goddard,</p>
+<p>Emil Bories,</p>
+<p>A.N. Marion,</p>
+<p>Rufus Willard.</p>
+<p>That the said alleged verdict and judgment in nowise finds any
+fact either of the sanity of insanity of the said Nordstrom, or any
+other fact whatsoeverwhich can be recognized or is in conformity to the
+law as a legal finding upon any issue which in law could be legally
+recognized by any tribunal recognized by the law. That there has never
+been at any time any hearing or inquiry upon the charge on non campos
+mentis or insanity only made against or in behalf of the said 
+Nordstrom in anywise whatsoever, and at this hour and at this time
+said charge so duly made remains undisposed of without investigation
+conclusion or judgment in anywise whatsoever.</p>
+<p>That this affidavit is made in order that some record of the
+proceeding while now on the memory of persons interested may be
+preserved, to the end that the rights of the said Nordstrom may be 
+duly protected by such proper legal course and procedure as under the
+Constitution and laws of the United States and the State of Washing-
+ton would be just in the premises. That affidavit particularly wishes
+to impose upon the court, or any appellate court, that speaking as
+the friend of said Nordstrom, he desires to conve unequivocally
+the impression and information that the said Hon. Orange Jacobs in
+whatsoever course or action he took in the premises was animated and
+influenced by what he belives to be the highest sense of his duty and
+was a justifyable proceeding, and one which he believed shuld be duly guarded by
+the law and proper notice in the premiss as was incumbent upon
+The State</p>
+<p>That affiant states it to be his opinion and belief that the
+mistake and injustices which has arisen to the said Nordstrom and
+which has grown out of this proceeding as theu now exist have
+been brought about by an unfortunate misunderstanding, in that the 
+court presumed that the Prosecuting Attorney would give due notice
+to the said Nordstrom and his friend and counsel in order that his
+right as understood by him, would be duly urged at the proper time,
+and that the said Prosecuting Attorney misunderstood, or not com-
+prehending the court in that direction, failed to understand that
+such was the desire of the court or that such was the duty of the
+Prosecuting Attorney, and no notice whatsoever of any proceeding, what-
+soever was given, and no notice of any proceeding whatsoever was
+permitted or allowed or in anywise transpitred by which the said 
+Nordstrom's interests could have been presented, guarded or protected.
+That affiant would have ventured ti appear before the court had he
+known at what time the commission itended to sit or have a hearing.
+That affiant had lately returned from the East and had great press of 
+business affairs upon him and did not have opportunity
+or occassion to go at all hours to the cour house and ascertain by
+investigation whether any proceedings have been taken or not, particu-
+larly, is this true in view of affiant's natural expectation that
+due and proper notice would be given the said Nordstrom or his friend
+and counsel.</p>
+<p>James Hamilton Lewis</p>
+<p>Subscribed and sworn to before me this 10th day of May, A.D. 1899.</p>
+<p>Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+<p>Exhibit "A"</p>
+<p>IN THE BALANCE.</p>
+<p>Murderer Nordstrom Before an Insanity
+Commission</p>
+<p>"Their Finding will Determine whether he shall Die
+or go to the Asylum.</p>
+<p>The commission appointed by Judge Jacobs for the purpose of 
+determining whether or not Murderer Charles W. Nordstrom is insane
+began its itttings this afternoon. The commission is composed of
+Dr. F.L. Goddard, superintendent of that Western Washington Hospital
+for the insane: Dr. A.N. Marion, Dr. G.V. Calhoun, Dr. Emil
+Bories, Dr. Rufus Willard. Dr. Calhoun was appointed Foreman of the
+commission.</p>
+<p>Before the commission began its session Judge Jacobs delivered an
+impressive charge to its members. He recited the authority under
+the law by virtue of which the commission was appointed; defined
+insanity as contemplated by the law as being a condition of mind un-
+able to distinguish between right and wring, and charged the members
+of the commission to investigate ever particle obtainable
+evidence which would throw light on the question oe whether or not
+Nordstrom has become insane since his confinement in the County Jail.</p>
+<p>Judge Jacobs laid particular stress upon the responsibility
+ that devolved upon the members of the commission, stating that the
+destiny of the condemned man rested upon their finding in his case
+The law, he saidm did not contemplate the excecution of an idiot or
+maniac, but it was the duty of the commission to determine by every
+scientific test known to the medical profession whether or not the
+prisoner is in a state of mind to recognize his condition and his 
+impending doom.</p>
+<p>At a late hour this afternoon the commission had not yet bagan
+to examine witnesses, the time being occupied in discussing a mode
+of procedure. It is likely that one of the first witnesses will be
+Ex-county Jailer Munroe, who was in charge of the County Jail at the 
+time Nordstrom was first confined. He will testify to Nordstrom's
+consition at that time.</p>
+<p>The sessions of the commission will be held in Judge Jacobs'
+private office in his chambers, and every one is denied admittance to
+the room except the members of the commission and the prisoner.
+Even the deputy sheriff must remain in the ante-room within call."</p>
+<p>United States Circuit Court for the District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus by</p>
+<p>vs.</p>
+<p>his next friend
+J. Henry Denning.</p>
+<p>No. 784</p>
+<p>Appearance.</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please enter my appearance as attorney
+for pettioned
+in the above entitled cause</p>
+<p>James Hamilton Lewis</p>
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+<p>10.00 paid</p>
+<p>GoB 6-163</p>
+<p>no. 784</p>
+<p>United States Circuit Court</p>
+<p>District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom</p>
+<p>vs.</p>
+<p>for Habeas Corpus
+etc.,</p>
+<p>Appearance.</p>
+<p>Filed JUL 20 1899 189
+A. Reeves Ayres </p>
+<p>Clerk.</p>
+<p>HM Walthew</p>
+<p>Deputy Clerk.</p>
+<p>James Hamtilton Lewis</p>
+<p>For Petitioner</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+<p>Northern Division.</p>
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+<p>No. 784</p>
+<p>O R D E R.</p>
+<p>This cause coming on for hearing upon the petition of petitioners
+for a Writ of Habeas Corpus, the court, being advised upon the petition
+and upon hearing counsel for the peitioner, denies and refuses to grant
+the said Writ; to which ruling of the court petitioner excepts.
+Exeption allowed.</p>
+<p>Petitioner thereupon gives notice that he appeals from the said
+ruling of the court and from the whole and every part thereof and
+appeals his said petition and his said cause and the whole and each
+and every part thereof to the Supreme Court of the United States,
+holding terms at the City of Washington, District of Columbia, and to
+the next regulat term thereof, and particularly appeals from the said
+ruling of the said court denying and refusing to grant the said Writ of 
+Habeas Courpus.</p>
+<p>Which said appeal is here and now allowed.
+Done in open court this 29th of July, 1899.</p>
+<p>C.H. Hanford
+District Judge</p>
+<p>GoB 6-162</p>
+<p>(ORIGINAL)</p>
+<p>No. 784</p>
+<p>In the Circuit Court
+of the 
+UNITED STATES</p>
+<p>District of Washington, Northern Division</p>
+<p>In the application of 
+Charles W. Nordstrom
+for a Writ of 
+Habeas Corpus by
+his next friend,
+J. Henry Denning,</p>
+<p>Order</p>
+<p>Filed this 29th day
+of July 1899
+A Reeves Ayres Clerk.
+By HM Walthew Deputy</p>
+<p>JAS. HAMILTON LEWIS</p>
+<p>Attorney for Petitioner</p>
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+<p>Northern Division.</p>
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+<p>No. 784</p>
+<p>NOTICE OF APPEAL.</p>
+<p>To the State of Washington, and to A.T. Van de Vanter, Sheriff
+of King County, State of Washington, and to Hon James F. McElroy,</p>
+<p>Comes, now the petitioner, Charles W. Nordstrom, by his next
+friend, J. Henry Denning, and appeals the above entitled cause and the
+whole thereof to the Supreme Court of the United States, holding terms
+at the City of Washington, District of Columbio, and to the next
+regular term thereof, and more especially appeals from that certain
+order made and entered in the above entitled cause on the 29 day of
+July, 1899, by the Honorable C. H. Hanford, Judge, sitting 
+as the Circuit Court, denying the petition of petitioner for a Writ 
+of Habeas Corpus and refusing to grant the said Writ of Habeas Corpus
+as in his said petition prayed.</p>
+<p>And you will take notice that the record and proceedings upon
+the said petition will be duly certified through the said above
+entitled court to the said Supreme Court of the United States at the
+next regular term thereof upon said named appeal.</p>
+<p>James Hamilton Lewis</p>
+<p>Attorney for Petitioner.</p>
+<p>United States of America, )
+District of Washington, :ss
+C o u n t y of K i n g. )</p>
+<p>M. ASHLEY, being first duly sworn, on oath deposes and
+says: That at all the times herein and hereafter mentioned, I was,
+and am now, a citizen of the United States of America, and of the
+District of Washington, and a resident of King County, in said District
+of Washington, above the age of twenty-one (21) years.</p>
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A.D. 1899, I duly served the within Notice of Appeal together with
+a duly certified copy f the order allowing the affiant foreing
+M.A. J.H.D. upon A. T. Van de Vanter, sheriff of King County, State of Washington,
+he being the respondent and appellee in said within Notice of Appeal
+named, by delivering to and leaving with the said A.T. Van de Vanter,
+sheriff of King County, State if Washington, a true copy of said
+within Notice of Appeal and a duly certified copy of said order allowing
+M.A. J.H.D. said appeal.</p>
+<p>That at Seattle, King County, State of Washington, on the 31stt
+day of July, A.D. 1899, I duly served the within Notice of Appeal, together with 
+a duly certfied copy of the order allowing the appeal herein,
+M.A.J.H.D upon James F. McElroy, Prosecuting Attorney for King County, State of
+Washington, on behafl of the said State of Washington, the State of 
+Washington beng the respondent and appellee insaid within Notice of
+Appeal named, by delivering to and leaving with said James F. McElroy,
+Esq., Prosecuting Attorney for King County, State of Washington, a true
+copy of said within Notice of Appeal and a duly certified copy of said order
+M.A.J.H.D allowing said appeal.</p>
+<p>M Ashley</p>
+<p>Subscribed and sworn to before me this 31st day of July, A.D. 1899.</p>
+<p>J Henry Dening
+Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+<p>(ORIGINAL)</p>
+<p>No. 784</p>
+<p>In the Circuit Court
+of the 
+UNITED STATES</p>
+<p>District of Washington, Northern Division</p>
+<p>In the application of 
+Charles W. Nordstrom
+for a Writ of 
+Habeas Corpus by
+his next friend,
+J. Henry Denning,</p>
+<p>Notice of Appeal</p>
+<p>Filed this 31st day
+of July 1899
+A Reeves Ayeres Clerk.
+By A.N. Moors Deputy.</p>
+<p>JAS. HAMILTON LEWIS</p>
+<p>Attorney for Petitioner</p>
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+<p>United States Circuit Court for the District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus etc.,</p>
+<p>No. 784</p>
+<p>Praecipe</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please issue citation, returnable pursuant
+to the rules in such cases; also prepare appeal and make
+transcript on appeal to the Supreme Court of the United States,
+to include petition for Habeas Corpus writ, order denying the
+issuance of writ and allowing the appeal; opinion filed in the
+cause, notice of appeal to the Supreme Court and notice to sherrif and assignment
+of errors and duly certify the same within the time and in the manner
+prescribed by law
+Jas. Hamilton Lewis
+Atty for Petitioner</p>
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+<p>no. 784</p>
+<p>United States Circuit Court
+District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom
+for Habeas Corpus 
+etc.,</p>
+<p>Prcaecipe</p>
+<p>Filed July 29 1899
+A. Reeves Ayeres Clerk
+A. N. Moors Deputy Clerk
+Jas. Hamilton Lewis
+For Petitioner.</p>
+<p>United States Circuit Court for the District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus etc.,</p>
+<p>vs.</p>
+<p>No. 784</p>
+<p>Praecipe</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please issue Four certified copies of the 
+order refusing to grant the writ herein and
+allowing an appeal; and, also, Four certified
+copies of the citation issued herein</p>
+<p>James Hamilton Lewis</p>
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+<p>no. 784</p>
+<p>United States Circuit Court
+District of Washington.</p>
+<p>In the application of
+Charles W. Nordstrom
+for Habeas Corpus 
+etc.,</p>
+<p>Prcaecipe</p>
+<p>Filed July 29 1899 189 </p>
+<p>A. Reeves Ayres </p>
+<p>Clerk</p>
+<p>H.M. Walthew</p>
+<p>Deputy Clerk</p>
+<p>Jas. Hamilton Lewis,
+For Petitioner.</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+<p>Northern Division.</p>
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+<p>No. 784</p>
+<p>N O T I C E.</p>
+<p>To the Hon. A. T. Van de Vanter, sherif of King County, State of 
+Washington:</p>
+<p>You will please take notice hereby that Charles W. Nordstrom,
+now in your custody, duly petitioned the Circuit Court of the United
+States for a Writ of Habeas Corpus seeking relief thereunder, and,</p>
+<p>Whereas, the said writ and relief was denied, and</p>
+<p>Whereas, said petitioner duly moved for the right of appeal and
+for the transfer of his whole cause to the Supreme Court of the United
+States, and</p>
+<p>Whereas, the said cause came on for argument as to the granting
+of the said appeal and the transfer of the whole cause to the appellate
+Court, and was heard upon the 29th day of Juy 1899, by the Hon.
+C. H. Hanford, Circuit Judge, and,</p>
+<p>Whereas, after hearing said application, an order of appeal was 
+duly granted, and the said cause was so ordered transferred to the
+Supreme Court of the United States, a full copy of said proceedings
+ad the order allowing said appeal, being duly certified, is hereunto
+annexed for your information and advice.</p>
+<p>And, whereas, under the Revised Statutes of the United States,
+being the law of the United States, particularly, Section 766 of the 
+said Revised Statutes of the United States, reads as follows, to-wit:</p>
+<p>Sec. 766 "Pending the proceedings on appeal in the 
+cases mentioned in the three preceding section, and until final judg-
+ment therein, and after final judgment of discharge, any proceedings
+against the person so imprisioned or confined or restrained of his 
+liberty, in any State Court, or by or under the authority of any
+State, for any matter so heard and determined, under such writ of
+Habeas Corpus, shall be deemed null and void."</p>
+<p>And whereas, the Supreme Court of the United States In Re Jugiro
+140 U. S. 295, construing the said section, defined the same to mean
+"in cases where the applicant was held in custody under the authority
+of a state court or by the authority of a State to stay the hands of 
+such court or State while the question as to whether his detention was
+in violation of the Constitution, laws or treaties of the United 
+States was being examined by the courts of the United States having
+jurisdiction in the premises;" which sad decision is more fully
+referred to in the case on In Re M'Kane, 61 Fed. 205, where it was
+held to mean that until final decision in the Supreme Court f the 
+United States no disturbance of the condition of the prisoner as he
+was at the time of the denying of the writ can be in anywise had: </p>
+<p>Therefore youa re hereby notified that you are to hold posession
+or custody of the said petitioner, Charles W. Nordstrom, now in your 
+keeping at the City of Seattle, County of King, State of Washington,
+in such manner as to your discretion shall seem meet and proper, in
+nowise assuming for any cause to execute any sentence of death
+whatsoever upon the said petitioner, Charles W. Nordstrom, and you
+will be duly notified of any other proceedings in the premises.</p>
+<p>You will please govern yourself accordingly.</p>
+<p>Respectfully,</p>
+<p>Jas. Hamilton Lewis
+Attorney for Petitioner.</p>
+<p>United States of America, )
+District of Washington, :ss
+C o u n t y of K i n g. )</p>
+<p>M. ASHLEY, being first duly sworn, on oath deposes and
+says: That at all the times herein and hereafter mentioned, I was,
+and am now, a citizen of the United States of America, and of the
+District of Washington, and a resident of King County, in said District
+of Washington, above the age of twenty-one (21) years.</p>
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A.D. 1899, I duly served the within Notice upon A. T.
+Van de Vater, Sheriff of King County, State of Washington, he being
+the respondent and appellee in said within Notice named, by delivering
+to and leaving with said A. D. Van de Vater, Sheriff of King County,
+State of Washington, a true copy of said within Notice.</p>
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A. D. 1899, I duly served the within Notice upon James F.
+McElroy, Es., Prosecuting Attorney for King County, State of Washing-
+ton, on behalf of the State of Washington, said State of Washington
+being the respondent and appellee in said within Notice named, by
+Prosecuting Attorney for King County, State of Washington, a true copy
+of said within notice. </p>
+<p>M Ashley</p>
+<p>Subscried and sworn to before me this 32st dau of July, A.D. 1899.</p>
+<p>J Henry Denning
+Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF </p>
+<p>WASHINGTON,Northern Division.</p>
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+<p>No. 784</p>
+<p>ASSIGNMENT OF ERRORS</p>
+<p>Comes now the petitioner and assigns as error committed by
+the Court in the above entitled cause at the time of the hearing of
+the same, as follows:</p>
+<p>I</p>
+<p>That the Court erred in declining and refusing to issue the
+Writ of Habeas Corpus upon the record of the above named cause.</p>
+<p>II</p>
+<p>That the Court erred in refusing to issue an order to show
+cause why the Writ should not issue in the above named cause.</p>
+<p>III</p>
+<p>That the Court erred ub refusing to make an order restraining
+proceedings pending the hearing of the Petition for the Writ of Habeas
+Corpus in the above named cause.</p>
+<p>James Hamilton Lewis
+Attorney for the Petitioner.</p>
+<p>No. 784</p>
+<p>In the Circuit Court</p>
+<p>OF THE</p>
+<p>UNITED STATES</p>
+<p>District of Washington, Northern Division</p>
+<p>In The matter of the application
+of Charles W. Nordstrom for a 
+Writ of Habeas Corpus,
+appearing by his next
+friend J Henry Denning</p>
+<p>Assignment of Errors</p>
+<p>Filed this 31st day
+of July 1899
+A Reeves Ayers Clerk.
+By A.N. Moors Deputy.</p>
+<p>JAS. HAMILTON LEWIS</p>
+<p>Attorney for Petitioner</p>
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+<p>Received copy of the within
+and service of the same admitted this
+day of 189
+Attorney for</p>
+<p>UNITED STATES OF AMERICA, ss:</p>
+<p>The President of the United States of America,</p>
+<p>To the Honorable the Judges of the Circuit
+Court of the United States for the
+District of Washington</p>
+<p>GREETING:</p>
+<p>Whereas, lately in the Circuit Court of the United States
+for the District of Washington, before you
+or some of you, in a cause entitled In the matter 
+of the application of Charles W. Nordstrom
+for a writ of habeas corpus, appearing
+by his next friend, J Henry Denning, No.
+784, wherein the order of the said Circuit 
+Court, entered in said cause on the 29th
+day of July, A.D. 1899, is in the following
+words, viz;</p>
+<p>"In the Circuit Court of the United States, District of Wash-
+ington, Northern Division.</p>
+<p>In the Matter of the Application of CHARLES W. NORDSTROM for a
+Writ of Habeas Corpus, Appearing by His Next Friend, J. Henry 
+Denning. No. 784. Order.</p>
+<p>This cause coming on for hearing upon the petition of petitioner
+for a writ of habeas corpus, the court, being advised upon the peti-
+tion and upon hearing counsel for petitioner, deies and refuses to
+grant the said writ; to which ruling of the court petitioner excepts.
+Exception allowed.</p>
+<p>Petitioner thereupon gives notice that he appeals from the said
+ruling of the court and from the whole and every part thereof and
+appeals his said petition and his said cause and the whole and each
+and every part thereof to the Supreme Court of the United States,
+holding terms at the city of Washington, District of Columbia, and
+to the next regular term thereof, and particularly appeals from the
+said ruling of the said court denying and refusing to grant the said
+writ of habeas corpus.</p>
+<p>Which said appeal is here and now allowed.
+Done in open court this 29th day of July, 1899.</p>
+<p>C. H. HANFORD.</p>
+<p>District Judge.</p>
+<p>as by the inspection of the trancript of the record
+of the said Circuit
+Court, which was brought into the SUPREME COURT OF THE UNITED STATES
+by the virtue of an appeal taken by Charles W. Nordstrom (by his next
+friend J. Henry Denning), whereon A. T. Van de Vanter, Sheriff
+of King County, Washington, and the State of Washington
+were made the parties appellees
+agreeably to the act of Congress,
+in such case made and provided, fully and at large appears.</p>
+<p>And whereas, in the present term of October, in the year of our Lord
+one thousand nine hundred the said cause came on to be heard
+before the said SUPREME COURT, on the said transcript of record, and
+o motions to dismiss or affirm which were argued bu counsel;
+</p>
+<p>On consideration whereof, It is now here ordered, adjudged,
+and decreed by this Court that the order, of the 
+said Circuit Court in this cause be, and the same is hereby, affirmed,
+with costs; And that the said A. T. Van de Vanter,
+Sheriff, and The State of Washington recover
+against the said Charles W. Nordstrom,
+(by his next friend J. Henry Denning), Eighty
+four dollars and fifty cents for their
+costs herein expended and have exceution
+therefor. May 13, 1901.</p>
+<p>You, therefore, are hereby commanded that such execution and
+proceedings be had in said cause,
+as according to right and justice, and the laws
+of the United States, ought to be had, the said appeal
+notwithstanding.</p>
+<p>Witness the Honorable Melville W. Fuller, Chief of Justice of the
+United States, the 31st day of May, in the year
+of our Lord one thousand nine hundred and one
+COSTS of Van de Vanter, Sheriff, et al.</p>
+<p>Clerkj $35.00
+Printing Record $29.50
+Attorney $20.00
+$84.50</p>
+<p>James H. Mckenny</p>
+<p>Clerk of the Supreme Court of the United States.</p>
+<p>#784</p>
+<p>GoB 7-3</p>
+<p>SUPREME COURT OF THE UNITED STATES</p>
+<p>No. 388, October Term, 1900</p>
+<p>Charles W. Nordstrom (by
+his next friend J. Henry Denning),</p>
+<p>vs.</p>
+<p>A. T. Van de Vanter,
+Sheriff re., et al.</p>
+<p>MANDATE</p>
+<p>FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON</p>
+<p>JUN 10 1901</p>
+<p>A. REEVES AYRES, Clerk</p>
+<p>HM Matthew Dep.</p>
+<p>SUPREME COURT OF THE UNITED STATES OCTOBER TERM 1900</p>
+<p>Costs of A.T. Van de Vanter, Sheriff re., et al.,</p>
+<p>in No. 388,</p>
+<p>1900 October Form appearance, .25,
+filing precipie and receipt, .50; filing papers, $2.25; filing motion,
+.25; filing briefs, $5.00; submission, .20;
+judgment, $1.00; filing
+same, .25; recording, .40; mandate, $5.00; preparing record for printer, etc.,
+$19.50; cost of printing record, $29.50; attorney's docket fee,
+$20.00; costs and copy, .40 
+</p>
+<p>$84.50</p>
+<p>$84.50</p>
+<p>Fee Book , paage 17.873</p>
+<p>Fees: James H. McKenney</p>
+<p>Clerk Supreme Court U. S. </p>
+<p> CERTIFICATE</p>
+<p>United States of America }</p>
+<p>ss.</p>
+<p>Western District of Washington }</p>
+<p>I, JAMES C. DRAKE, Clerk of the Circuit Court of the United States, for the Western
+District of Washington, do hereby certify that the foregoing attached papers constitute the
+JUDGMENT ROLL in the foregoing entitled cause, No. 784
+wherein In re: Application of
+Charles W. Nordstrom for
+Writ of Habeas Corpus Plaintiff
+and 
+Defendant</p>
+<p> In Testimony Whereof, I have hereunto set my hand and
+offixed the Seal of said Circuit Court, this the 
+30 day of DEC A. D. 1911</p>
+<p>JAMES C. DRAKE</p>
+<p>Clerk.</p>
+<p>By B Owigher</p>
+<p>Deputy Clerk.</p>
+<fw type="footer"> &amp;</fw>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

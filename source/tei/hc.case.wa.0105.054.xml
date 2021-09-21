@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0105.53"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>James Riley v. Egbert H. Tucker. Indictment</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0105.053</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Indictment</title>
+<date when="1861-09-11">September 11, 1861</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1861-09">September 1861</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bradley, Esther</term>
+<term>Bradley, Henry E.</term>
+<term>Carroll, Thomas</term>
+<term>Corcoran, Thomas</term>
+<term>Gorich, Carl L.</term>
+<term>Horn, Thomas</term>
+<term>McCloud, John</term>
+<term>Scameoch</term>
+<term>Tallentine, Thomas</term>
+<term>Ward, R. A.</term>
+<term>Wamsly, John</term>
+<term>White, Robert</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Olympia, Washington</term>
+<term>Thurston County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Riley, James</persName>
+</person>
+<person role="defendant">
+<persName>Tucker, Egbert H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName>McGilvra, John J.</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Second Judicial District</orgName> 
+<placeName>Pierce County, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change>   
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0105.054"/>
+<note>906</note>
+
+<p>United States of America}</p>
+<p>Territory of Washington} SS</p>
+
+<p>District Court of the 
+United States of America for the Second 
+District of Washington Territory.</p>
+
+<p>At the Regular Term of the District 
+Court of the United States, begun and 
+held at Olympia in and for the second 
+Judicial District aforesaid, on the 
+second day of September AD 1861 it being 
+the first Monday of said month the Grand 
+Jurors, good and lawful men, duly elected 
+empanneled, sworn and charged to inquire 
+within and for the body of said District, on their 
+oaths present That James Riley and 
+Thomas Horn late of the District aforesaid, 
+on the eighteenth day of August 
+AD 1861 at the District aforesaid, in and 
+upon one Scomiac alias Scomeuw alias 
+Sternback alias John (an Indian) in 
+the peace of the Territory then and there being 
+feloniously wilfully and malice 
+aforethought did make an assault 
+and that they the said James Riley and 
+Thomas Horn with a certain knife 
+which the said James Riley then and 
+there had and held in and upon the 
+beast of him the said Scamiac alias 
+Seomeuw, Alias Sternback alias John
+
+<pb/>
+
+(an Indian) then and there feloniously 
+willfully and of their malice of aforethought did 
+stab cut and mortally wound him the 
+said Scomeac alias Scomeuw alias 
+alias John (an Indian) of which 
+mortal wound he the said Scomiac 
+alias Scomeaw alias Stemback alias 
+John (an Indian) did linger and lingering 
+then and there did die and so the 
+Jurors aforesaid upon their oaths aforesaid 
+do say that the said James Riley and 
+Thomas Horn him the said Scomeac alias 
+Someuw alias Sternback alias John (an 
+Indian) in the manner and by the means 
+aforesaid purposely deliberately and with 
+malice aforethought did kill and murder 
+contrary to the form of the statute 
+in such case made and provided 
+and against the <unclear/> and dignity of 
+the Territory of Washington.</p>
+
+<p>And the Jurors aforesaid upon their 
+oaths aforesaid do further present that 
+said James Riley and Thomas Horn at the 
+District aforesaid and on the day and 
+your aforesaid in and upon an Scomeac 
+alias Scomeuw alias Sternback 
+alias John (an Indian) in the <unclear/> of the 
+Territory then and there being, feloniously, 
+wilfully and of their malice aforethought
+
+<pb/>
+
+at the District aforesaid and on the day 
+and year aforesaid in and upon one Scomeuc 
+alias Scomeuw alias Steinback alias 
+John (an Indian) in the peace of the Territory 
+then and there being, feloniously willfully and 
+of their malice aforethought, and that they 
+the said James Riley and Thomas Horn 
+with a certain knife which the said James 
+Riley then and there had and held in and 
+upon the belly of him the said Scomeas 
+alias Scomeaw, alias Steinback alias 
+John (an Indian) then and there feloniously 
+willfully and of their malice aforethought 
+did stab cut and mortally wound 
+him the said Snomeuc alias Scomeaw 
+alias Sternback alias John (an Indian) of 
+which mortal wound be the said Scomeac 
+alias Scomeaw alias Steinback alias 
+John (an Indian) did linger and lingering 
+then died there did die. And so the Jurors 
+aforesaid upon their oaths aforesaid do say 
+that the said James Riley and Thomas Horn 
+him the said Scomeuc alias Scomeuw 
+alias Steinback alias John (an Indian) 
+in the manner and by the means aforesaid
+purposely, deliberately and with 
+malice aforethought did kill and murder 
+contrary to the form of the statute in such
+
+<pb/>
+
+<note>906</note>
+
+did make an assault, and that they the 
+said James Riley and Thomas Horn with 
+a certain knife which be the said James 
+Riley then and there had and held in and 
+upon the side of him the said Scumeac 
+alias Scomeaw alias Steinback alias 
+John (an Indian) then and there feloniously 
+willfully and of their malice aforethought did 
+stab cut and mortally wound him the 
+said Scomeac alias Scomeuw alias Steinback 
+alias John (an Indian) of which mortal 
+wound he the said Scomeac alias Scomeuw 
+alias Steinback alias John (an Indian) 
+did linger and lingering then and 
+there did die, and so the Jurors aforesaid 
+upon their oaths aforesaid do say 
+that the said James Riley and Thomas 
+Horn him the said Scomeac alias Scomeaw, 
+alias Steinback alias John (an Indian) 
+in the manner and by the means aforesaid, 
+purposely, deliberately and with 
+malice aforethought did kill and 
+murder contrary to the form of the statute 
+in such case made and provided 
+and against the peace and dignity of 
+the Territory of Washington.</p>
+
+<p>And the Jurors aforesaid upon their 
+oaths aforesaid do further present 
+that said James Riley and Thomas Horn
+
+<pb/>
+
+<note>906</note>
+
+
+case made and provided aganst the
+peace and dignity of the Territory of Washington</p>
+
+<p>And the Jurors aforesaid upon their oaths 
+aforesaid do further present that said James Riley 
+and Thomas Horn at the district aforesaid 
+and the day and year aforesaid in and 
+upon one Scomeac alias Scomeuw alias 
+Steinback alias John (an Indian) in the 
+peace of the Territory then and there being 
+feloniously willfully and of their malice 
+aforethought did make an assault, and 
+that they the said James Riley and Thomas 
+Horn with a certain knife which he 
+the said James Riley then and there had 
+and held in and upon the breast sides 
+belly and back of him the said Scomeac 
+alias Scomeuw alias Steinback alias John 
+(an Indian) then and there feloniously 
+willfully and of their malice aforethought 
+did cut stab and mortally wound 
+him the said Scomeuc alias Scomeuw 
+alias Steinback alias John (an Indian) 
+of which mortal wound he the said 
+Scomeuc alias Scomeuw alias Steinback 
+alias John (an Indian) did linger, and 
+lingering <del>then did</del> there did die and 
+so the Jurors aforesaid upon their 
+oaths aforesaid do say that the said
+
+<pb/>
+
+James Riley and Thomas Horn him the 
+said Scomeuc alias Scomeuw alias 
+Steinback alias John (an Indian) then and 
+there feloniously willfully and of their malice 
+aforethought in the manner and by the 
+means aforesaid did kill and murder 
+contrary to the form of the statute in such 
+case made and provided and aganist the 
+personal dignity of the Territory of Washington</p>
+
+<p>John J McGilvra</p>
+<p>Prs Attty for W.T.</p>
+
+
+<p>Witnesses one McLeod <gap></gap>
+Gangier <gap></gap> 
+Corcoroan <gap></gap>
+White <gap></gap> 
+Wamsley <gap></gap> 
+Bradly <gap></gap> 
+Tallenton <gap></gap> 
+Collineial <gap></gap> 
+E. Bradley</p>
+
+<p>Ra Ward J</p>
+<p>Foreman</p>
+<p>Grand Jury</p>
+
+
+<p>Murder</p>
+
+<p>Territory of Washington vs James Riley and Thomas Horn</p>
+
+<p>A true Bill</p>
+<p>Ra Ward<lb/>
+Foreman</p>
+
+<p>Deft Plead Not-Guilty</p>
+
+<p>Witnesses</p>
+
+<p>John McLeod</p>
+<p>Carl Gorich</p>
+<p>Thos Corcoran</p>
+<p>Robert White</p>
+<p>John Walmsley</p>
+<p>Esther Bradly</p>
+<p>Thos Tallenton</p>
+<p>Thos Carroll</p>
+<p>HE Bradley</p>
+
+<p>Filed Sept 11, 1861</p>
+<p>A.J. Moses Clerk</p>
+
+
+<p>Witnesses endorsed at a number to 12 Sept 11th 1861.</p>
+<p>Pros Attorney A.J. Moses Clerk</p>
+
+<p>case made and provided, and against the peace and dignity of the Territory of Washington.</p>
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

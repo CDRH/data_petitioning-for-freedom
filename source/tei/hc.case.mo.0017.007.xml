@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0017.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dolly vs John Young. Civil</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0017.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Dolly vs John Young. Civil</title>
+    <date when="1828-04-01">April 1, 1828</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1828-04"> April 1828</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gamble, Archibald</term>
+<term>Simpson, R.</term>
+<term>Simonds, L. P.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>St. Louis (Mo.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Dolly</persName>
+</person>
+<person role="defendant">
+<persName>Young, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
+</person>
+<person role="attorney_defendant">
+<persName>McGirk, Isaac</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0017.007.001"/>
+
+<p></p>
+
+
+<p><gap></gap></p>
+
+<p>The State of Missouri</p>
+
+<p>To the Sheriff of St. Louis County Greeting</p>
+
+<p>We command you to summon John Young that he be and appear before the Judge of our Circuit Court at the next term thereof to be held at the city of St Louis within and for the County of St Louis on the fourth Monday of July next then and there to answer unto Dolly a woman of color of a plea of tresspass, assault &amp; battery &amp; false imprisonment to the damages of said plaintiff of five hundred dollars. And hand you then there this writ</p>
+
+<p>Witness Archibald Gamble Clerk of our said Court at Offices this first day of April 1828</p>
+
+<p>Archibald Gamble Clerk</p>
+
+
+<p><unclear>She sues &amp;c</unclear></p>
+
+<p>Strother &amp; Evans for plff</p>
+
+
+<p>Executed this writ on John Young April 12th 1828 in the City of St. Louis by reading the same to him</p>
+
+<p>R. Simpson Sheriff<lb/>
+By L. P. Simonds Dpy Sheriff</p>
+
+<p>Service $1.00</p>
+
+<p>No 7 July Term 1828<lb/>
+St Louis Circuit Court</p>
+
+<p>Dolly<lb/>
+vs<lb/>
+John Young</p>
+
+<p>This is an action of tresspass assault &amp; Battery &amp; Flase Imprisionment</p>
+<p>Strother &amp; Evans <unclear/></p>
+
+<p>filed April 1st 1828<lb/>
+A Gamble Clerk</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

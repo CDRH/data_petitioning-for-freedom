@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0400.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Antony Hain v. King County. Complaint</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0400.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Antony Hain v. King County. Complaint</title>
+<date when="1878-10-04">October 4, 1878</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 2116</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1878-10">October 1878</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Andreas, James H.</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Jenny, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hain, Antony</persName>
+</person>
+<person role="defendant">
+<persName>King County</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Hall, J. M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third District Judicial Court</orgName>
+<placeName>Washington County</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-06" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+<ab>Terrority of Washington
+3rd Judicial District
+S.S.</ab>
+<p>In the District Court holding terms at
+Seattle in King County.
+In the Matter of the Application of
+Antony Hain for a Writ of 
+Habeas Corpus</p>
+<p>To the Hon. J.R. Lewis, Chief Justice of
+Washington Terrority and Judge of the 3rd 
+Judicial District therein: </p>
+<ab>The petition and complaint of Anthony Han
+respectfully shows:</ab>
+<p>That the said Antony Hain, is unlawfully
+imprisoned, detained, confined and re-
+strained of his liberty by L.V. Wyckoff, the 
+Sheriff of King County, at the county jail,
+in county of King in the Territory of
+Washington.</p>
+<p>That the said imprisonment, detention,
+confinement and restraint is illegal;
+and that the illegality thereof consists in
+this, to wit:</p>
+<p>The cause or pretense of the said
+imprisonment, detention, confinement
+and restraint is a certain commitment
+issued by me, Samuel Greene, who is or
+pretends to be a Justice of the Peace in
+and for said county, which commitment
+commits said Antony Hain to the <add>said</add> county
+jail for six months upon the sentence
+of said Justice upon a trial before said
+Justice of said Antony Hain upon a 
+<pb></pb>
+charge of petit lancery, the said Justice
+having sentenced said Antony Hain to
+six months imprisonment <del>of</del> as a
+punishment for said allegded petit
+lancery, which sentence, commitment, 
+and all the proceedings thereunder are 
+illegal and void because the said
+Justice had no jurisdiction to pronounce
+such sentence and <add>no</add> authority
+or jurisdiction to enforce the same. </p>
+<p>Wherefore your petitioner and complainant
+prays that a Writ of Habeas 
+Corpus may be granted directed
+to the said L.V. Wyckoff, sheriff
+as aforsaid, commanding him to 
+have the body of said Anthony Hain 
+before your honor at a time and place
+therein to be specified to do and recieve
+what shall then and there be considered
+by your Honor concerning said Antony
+Hain together with the time and
+cause of His detention and said Writ
+and that he the said Han may be restored 
+to his liberty. </p>
+<ab>Dated October 4th, 1878
+Patrick Hain
+On behalf of said Antony Hain</ab>
+<ab>Territory of Washington
+County of King
+S.S.</ab>
+<p>Patrick Hain on oath says that
+he is <add>over 21 years of age and is</add> a brother of said Antony Hain
+<pb></pb>
+the complainiant named in the foregoing
+complaint; that affiant has signed 
+said foregoing complaint on behalf 
+of said Antony Hain and now 
+makes this affidavit on behalf
+of him said Antony Hain, that 
+affiant has heard said forgoing 
+complaint read, knows the contents 
+thereof and believes the cause to be 
+true.</p>
+<ab>Subscribed and sworn to Patrick Han
+before me this 4th day of
+October AD 1878
+J.M. Hall
+Notary Public </ab>
+<pb></pb>
+<ab>In Re
+Antony Hain</ab>
+<ab>On Habeas Corpus</ab>
+<ab>Petition for Writ</ab>
+<ab>Filed Oct 4th 1878
+James Jerry
+Clerk
+By James H. Andreas
+Deputy</ab>
+<ab>J.M. Hall
+Atty for Pett</ab>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

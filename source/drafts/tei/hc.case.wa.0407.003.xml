@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0407.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Spears and James McGough v. King County. Application for Writ.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0407.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Spears and James McGough v. King Count. Applicant of Writ.</title>
+<date when="1883-11-09">November 9, 1883</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3536</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1883-11">November 1883</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>William Spears</persName>
+</person>
+<person role="petitoner">
+<persName>James McGough</persName>
+</person>
+<person role="defendant">
+<persName>King County</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<ab>In the District Court holding terms at Seattle</ab>
+<ab>In the matter of the
+application of William 
+Spears and James M.
+McGough for a writ
+of Habeas Corpus |ss.</ab>
+<p>This
+<unclear>same</unclear> evening in for hearing
+on the ninth day of November
+1883. upon the <unclear></unclear> of the 
+petitioners for their discharge
+The Court being duly advised in the premises, court rules
+said matter, and it is future 
+ordered by this Court that the 
+prosecuting <unclear></unclear> be surrundered
+to allow before this Judge
+of said Court at Seattle on the 
+seventeenth day of November
+1883, at the time of the half past
+time of eleven in the afternoon. <add> or an <unclear>agreement mutually as from beforehand </unclear></add> and that the eventual
+charge refueted to in the complaint 
+is the procedural in
+issue <add>the</add> committment issued, under
+<unclear></unclear> the respondent. A.
+G. Thomton claims to had said
+<pb></pb>
+petitons be them and there
+investigated.</p>
+<pb></pb>
+<ab>No. 3536</ab>
+<ab>June
+Application of Spears and Mc
+Gough for habeas
+corpus
+Filed Nov 9th 1883
+James Seavey, Clerk.
+By James F. Ceass
+Deputy Clerk.</ab>
+</div1>
+    
+</body>
+</text>
+</TEI>

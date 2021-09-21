@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0107.040">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gus Bendjus et al. vs Territory of Washington. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0107.040</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gus Bendjus et al. vs Territory of Washington. Petition</title>
+<date when="1887-10-06">October 6, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-10">October 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Billings, William</term>
+<term>Hynes, H Reeves</term>
+<term>Frederickson, Bill</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County</term>
+<term>Tacoma</term>
+<term>Olympia</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
+</person>
+<person role="defendant">
+<persName>Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moody, George L</persName>
+</person>
+<person role="judge">
+<persName>Allyn, Frank</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>In the district court holding terms at Territory of Washington, v.s. Gus Bendjust, et al.</p>
+
+<p>Olympia, In the making of the application on Petition of certain persons for a writ of Habeas Corpus</p>
+
+<p>Whereas it appears by the petition of Bill Frederickson
+duly verified, that certain persons are ilegally imprisoned
+by William Billings, Sheriff of thurston County, Washington Territory, presented to me this day.</p>
+
+<p>Now, in the Name of the United States of America: to
+William Billings, Sheriff of Thurston County, W.T., greeting:</p>
+
+<p>We command you to have the bodies of Gus Bendjus, Robert Stranghauet, Ben Fredrickson, Frank Nelson,
+Andrew Johnson, Leander Brown, John Thompson, Alex Green and Thomas Jacobs, by you detained and imprisoned, as in said petetion alleged,
+before the Judge of the second Judicial district at his chambers at the City of Tacoma at the Court house in said city, together with
+the cause or causes of their detention and imprisonment, to do a and receive what shall be ordered concerning them, and have you then and there
+this Writ, with your return attached there to, on the 13" day of October 1887, at the hour of ten o clock A.M. Witness the Honorable Frank Allyn, Judge of
+the Second Judicial District of Washington Territory, this 6" day of October 1887. </p>
+
+<p>H Reeves Hynes, Clerk.</p>
+
+<p>The clerk is hereby directed to issue the foregoing Writ at once, and delivered to said Sheriff without delay. At Chambers Oct. 6" 1887.</p>
+
+<p><unclear>assemble</unclear> at Tacoma, Thursday 13" Oct. 1887</p>
+
+<p>Frank Allyn, Judge</p>
+
+<pb/>
+
+<p>Territory of Washington versus Gus Bendjust et al.</p>
+
+<p>Writ of Habeas Corpus. Received at this office and filled on the 21st day of October 1887. HW Sutton, Clerk</p>
+
+<p>Fees of the Sheriff of Chehalis County in return of defendants Gus Bendjus et al from Tacoma and Olympia.</p>
+
+<p>Mileage of 9 prisoners 40 miles each, 1 guard 36.00</p>
+
+<p>Per Driver, 2 days at 2.00 per day. 4.00. 4.00
+Serving order for return of prisoners to Olympia. 6.00. 9.00. 59.00.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0467.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Leonard v. State of Washington</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Ibrahim, Meyri" xml:id="mi">Meyri Ibrahim</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0467.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">John Leonard v. State of Washington. Writ of Habeus Corpus. </title>
+<date when="1896-07-29">July 29, 1896</date>
+<note type="project">Our transcription is based on a digital image.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>Western District of Washington, Seattle</collection>
+<idno>Case 625</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1896-07">July 1896</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Whitman County, Washington</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>State of Washington</persName>
+</person>
+<person role="defendant">
+<persName>Leonard, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Canfield, H. W.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Handford, Cornelius H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Ninth Judicial Circuit Court</orgName>
+<placeName>Whitman, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2021-09" who="mi">transcribed.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0467.001"/>
+
+<p>In the Circuit Court of the United States. 
+Ninth Judicial Circuit, District of Washington, <del> Eastern </del> <add> Northern </add> Division. </p>
+<p>In the Matter of the Application of
+John Leonard, for A Writ of Habeus Corpus. </p>
+<p>To the Hon. C.H. Handford, Judge of the Circuit Court of the 
+United States, Ninth judicial circuit, District of Washington <del> Eastern </del> <add> Northern </add> Division</p>
+<p>The petition of John Leonard respectfully shows to your Honor;
+First-That the said petitioner is now a prisoner imprisoned and 
+confined in the County Jail at Colfax, Whitman County, State of Washington, in the custody of the Sheriff of Whitman County, State of 
+Washington. </p>
+<p>Sedond- That the cause or pretense of the restraint of the said
+petitioner according to the best of his knowledge and belief is, that
+on the 29th day of July, 1896, H.W Canfield as Prosecuting Attorney
+in and for the County of Whitman, State of Washington, made and filed
+with the Clerk of the Superior Court in and for Whitman County, an
+information charging the above named petitioner with the crime of
+Murder in the first degree, which said information is in writing in
+words and figures as follows, to-wit;
+State of Washington
+County of Whitman. </p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+FOR THE COUNTY OF WHITMAN. 
+The State of Washington, Plaintiff, INFORMATION.
+vs
+John Leonard, Defendant.
+Comes now H.W. Canfield, prosecuting and County Attorney, for 
+the County of Whitman, State of Washington, and by this information
+accuses John Leonard, of the crime of murder in the first degree, committed 
+as follows, to-wit:
+That the said John Leonard, in the County of Whitman, in the
+State of Washington, on the 18th day of July, eighteen hundred and 
+
+<pb/>
+
+ninety -six, purposefully, and of his deliberate and premeditated malice
+killed Jacob Malquist by then and there purposelyand of his deliberate 
+and premediated malice, striking, beating and mortally wounding
+the said Jacob Malquist upon the head of him the said Jacob Malquist,
+with a piece of wood of the length of thirty inches, and of the width 
+of three inches, and of the thickness of three inches, which said
+piece of wood he the said John Leanord, in his hands then and there 
+had and held, contrary to the form of the statute in such cases made
+and provided, and against the peace and dignity of the state of Washington. 
+Dated at Colfax this 29th day of July, A.D. 1896.
+H.W. Canfield, Prosecuting and 
+County Attorney, in and for said 
+County and State </p>
+<p>State of Washington,
+County of Whitman,
+H.W. Canfield, being first duly sworn on oath says, he is the 
+duly elected, acting and qualified Prosecuting and County Attorney,
+in and for said County and State, that he has read the foregoing information, 
+knows the contents thereof and believes the same to be 
+true.
+H.W. Canfield
+SUBSCRIBED AND SWORN TO BEFORE ME THIS "29TH DAY OF JULY, 1896.
+C. A. R O S S
+Clerk of said Whitman County, Washington. </p>
+<p>WITNESSES: 
+Ed Lewis, W.H. Steuart, C.O. Anderyson, Mrs. P. M. Silcott, Mrs. W.H. Steuart, Thos. Boling, Frank Perry, A.P. Brown, 
+Roger Morrisy, James Barry, W.S. Elliott, Fred Bonney, Thos. Mosgrove
+J.D. Whiteis, C.M. Boswell, R.J. Skaife, John K. Eacho, T.W.Osborne, D.H. Shaw, O Hansen. </p>
+<p> Third- That thereafter such proceedings were had and taken in 
+said cause in the Superior Court of Whitman County, State of Washington, 
+that the jury which was impanelled and sworn to try the said petitioner upon the said charge in the said information, did on the
+21st day of Aug. 1896, render and return into the said Superior Court 
+their verdict in said cause, which is in writing in words and figures
+as follows, to-wit;</p>
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN AND FOR THE COUNTY OFWHITMAN.
+The State of Washington, Plaintiff,
+vs.
+John Leonard, Defendant.
+We the jury in the case of the State of Washington, plaintiff, against John Leonard, defendant, find the defendant guilty of the crime
+of murder in the First Degree as charged in the information.
+Paul Bockmier, Foreman. </p>
+
+<pb/>
+
+<p> Fourth- That thereafter such proceedings were had and taken in 
+said cause, in the said Superior Court of Whitman County, that on 
+the 24th day of Aug. 1896, the Hon. E.H. Sullivan as Judge of the
+Superior Court in and for Whitman County, Washington, rendered and
+made his judgment and sentence in said cause, which is in writing in
+words and figures as follows, to-wit;
+IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN AND FOR WHITMAN COUNTY. AUGUST 24TH, 1896.
+The State of Washington, Plaintiff,
+vs. 
+John Leonard, Defendant. </p>
+<p> Now on this day comes the plaintiff by H.W. Canfield Prosecuting
+Attorney and comes also the defendant into <del/> open Court in his
+own proper person as well as by his attorneys John Pattison Esq., and
+U.L. Ettinger, Esq., when this cause came on duly and regularly for
+hearing upon defendants motion to set aside the verdict of the jury
+heretofore rendered in this cause, and duly filed herein, and to grant
+defendant a new trial herein said motion being duly argues to the 
+Court by the said attorney's of the said parties respectively, and the
+Court having heard all the argument s of the respective counsel there
+on, and the Court being fully advised in the premises, overrules said
+notion, to all of which the defendant excepts, and exceptions allowed. </p>
+<p> And now on this day comes the defendant in his own proper person,
+to receive the judgment and sentence of the Court, upon the verdict
+of the jury heretofore entered and filed herein. And appeared
+also his Counsel John Pattinson and U.L. Ettinger, Esq's. Comes also
+H.W. Canfiled Prosecuting Attorney and attorney for the plaintiff
+herein, and thereupon the said defendant was duly informed by the
+said Court of the said verdict of the jury, heretofore rendered and
+filed herein, and the defendant was thereupon asked by the Court if
+he had anything to say or any legal cause to show why judgment and
+sentence of the Court should not now be pronounced against him, and
+he answered that he had not, excepting as he had heretofore said.
+Whereupon all and singular the premises, being by the Court fully
+understood, it is here now considered and adjudged by the Court, that
+you the said defendant John Leonard, are guilty of the crime of 
+Murder in the First degree as charged in the information herein against
+you and as by said verdict found. </p>
+<p> And it is further considered and adjudged by the Court, that you 
+the said defendant John Leonard, be taken hence to the County Jail of
+Whitman County, Washington, from whence you came and that you be
+there by the Sheriff of Whitman County, Washington, safely kept and 
+confined, and that on the day hereafter to be appointed, set and determined
+you be by the sheriff of the said Whitman County, Washington 
+taken from thence to the place of execution, and that you the said defendant
+John Leonard be there hanged by the neck until you be dead.
+E.H. Sullivan
+Superior Judge. </p>
+<p> Fifth- That thereafter such proceedings were had and taken in
+said cause, that the Supreme Court of the State of Washington, on the
+
+<pb/>
+
+18th day of May, 1897, made and rendered its decision in the said
+cause, which decision is in writing in words and figures as follows
+to-wit,
+IN THE SUPREME COURT OF THE STATE OF WASHINGTON
+May session A.D. 1897.
+BE IT REMEMBERED, That at a regular sessin of the Supreme Court of
+the State of Washington, begun and holden at Olympia, on the 2nd Monday
+in May A.D. 1897, it being the tenth day of said Month, among
+other the following was had and done, to -wit;
+Tuesday May 18th, 1897
+State of Washington, Respondent
+vs.
+John Leonard, Appellant. NO. 2491 J U D G E M E N T. </p>
+<p>This cause having been heretofore submitted to the Court on the
+Motin of the Respondant to dismiss the appeal from the judgment of
+the Superior Court of Whitman County, and the Court having fully considered
+the same and fully advised in the premises and having
+filed its opinion in writing, it is now on the 18th day of May, A.D.
+1897, on Motion of Thomas M. Vance Esquire, of Counsel for respondent
+considered, adjudged and decreed that the appeal herein be, and the
+same is hereby dismissed with costs, and the cause remained to the 
+said Superior Court with directions to carry its judgment into effect, 
+and that the said State of Washington have and recover of and from the
+said John Leonard the costs of this action taxed and allowed at Nineteen
+and 60/100 dollars, and that execution issue therefor. And it
+ is further ordered that this cause be remitted to the said Superior
+Court for further proceedigns according with the opinion herein filled. </p>
+<p>I. C. S. Reinhart, Clerk of the Supreme Court of the State of 
+Washington, do hereby certify that the foregoing is a true copy of 
+the judgment and Decree in said cause, as the same now remains of 
+record in my office. In testimony whereof, I have hereunto set my 
+hand and affixed the seal of said Court at Olympia this 16th day of May, A.D. 1897.
+C.S. Reinhart, Clerk of the Supreme 
+Court, State of Washington</p>
+<p> Sixth- That thereafter such proceedings were had and taken in 
+the said cause, that on the 24th day of May, 1897, William McDonald 
+as Judge of the Superior Court of Whitman County, Washington, made an 
+order fixing a day when the judgment and sentence of death rendered 
+and entered into said cause, should be carried into execution, which
+said order is in writing in words and figures as follows, to-wit;
+IN THE SUPERIOR COURT IN THE STATE OF WASHINGTON
+IN AND FOR WHITMAN COUNTY,
+The State of Washington, Plaintiff, 
+vs. ORDER
+John Leonard, Defendant. </p>
+<p> Now on this day the above entitled matter coming on to be heard 
+
+<pb/>
+
+in open Court, for the fixing of a day when the judgment and sentence
+of Death heretoforerendered and entered herein, shall be carried
+into execution, the said defendant appearing in his own proper person
+and by John Pattidon and U. L. Ettinger his Attorneys, the plaintiff
+appearing by John W. Mathews Prosecuting Attorney and County Attorney
+for Whitman County, Washington, and H. W. Canfield of Counsel. </p>
+
+<p> And the Court being fully advised in the premises, Friday, the
+2nd day of July, A.D. 1897, is hereby set and appointed by the Court
+as the day in which the judgment herein shall be executed.
+Done in open Court this 24th day of May, 1897.
+W I L L I A M MC DONALD.
+Superior Judge. </p>
+
+<p> Seven- That thereafter such proceedings were had and taken in
+said cause in said Superior Court <del> , </del> that on the 24th day of May, 1897,
+a Death Warrant was issued under the hand and seal of the said Judge
+of the said Superior Court, which said Death Warrant is in writing in
+words and figures as follows, to-wit, </p>
+<p> IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN AND FOR WHITMAN COUNTY.
+The State of Washington, Plaintiff,
+vs. DEATH WARRANT
+John Leonard, Defendant.
+THE STATE OF WASHINGTON.
+To the Sheriff of Whitman Countt, Washington. </p>
+<p> GREETING:
+WHEREAS THE ABOVE NAMED DEFENDANT, JOHN LEONARD,
+was by information of the prosecuting and County Attorney of Whitman
+County, Washington, filled in <del/> this Court on this 29th day of July, A.D. 
+1896, charged with the crime of murder in the first degree.</p>
+<p> The above entitled cause came on regularly for trial in the above
+entitled Court on the 17th day of August, A.D., 1896, and a jury
+in said Court was duly and regularly empanneled and sworn to try the
+issues of said cause; and said cause then proceeded to the taking of
+testimony on behalf of the plaintiff and of the defendant and the
+argument of Counsel to said jury and said jury was instructed by the
+Court and retired to consider of their verdict in said cause; </p>
+<p> And afterwards, and on, to-wit, the 21st day of August, 1896, 
+the said defendant was convicted of the crime of murder in the first 
+degree by the verdict of said jury, which said verdict was in the <unclear/>
+<unclear/> of the said defendant and his Counsel returned into Court, and 
+which said verdict was and is as follows, to-wit;
+IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN AND FOR THE COUNTY OF WHITMAN.
+The State of Washington, Plaintiff
+vs. V E R D I C T
+John Leonard, Defendant. </p>
+<p> We, the jury in the case of the State of Washington, plaintiff,
+against John Leonard, defendant, find thedefendant guilty of the
+crime of Murder in the First Degree as charged in the information.
+Paul Bockmier, Foreman. </p>
+
+<p> And afterwards, on said verdict, the said defendant, John Leonard, 
+was convicted of the crime of murder in the First Degree, and sentenced 
+to suffer DEATH by the judgment and Sentence of the above entitled
+
+<pb/>
+
+Court, duly made and entered in this section on the 24th day 
+of August, A.D. 1896, which said judgment and sentence is in words and 
+figures as follows, to-wit;
+IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN AND FOR WHITMAN COUNTY.
+The State of Washington, Plaintiff
+vs. JUDGMENT AND SENTENCE>
+John Leonard, Defendant. </p>
+<p> And now on this day domes the above named defendant John Leonard,
+in his own proper person, to recieve the judgment and sentence of the
+Court, upon the verdict of the jury heretofore rendered, entered and
+filed herein and appears also his Counsel, John Pattinson and U.L.
+Ettinger, and comes also H. W. Canfield Prosecuting Attorney and Attorney
+for the plaintiff herein, and thereupon the said defendant was
+rendered, entered and filed herein, and the defendant was thereupon
+asked by the Court if he had anything to say or legal cause to show
+why judgment an sentence of the Court should not now be pronounced
+against him, and he answered that he had not expecting as he had heretofore 
+said. </p>
+<p>WHEREUPON <del/>, all and singular the premises being by the Court
+fully understood, it is here now considered and adjudged by the Court
+that you, the said defendant John Leonard, are guilty of the crime of
+Murder in the First Degree as charged in the Information herein against
+you, and as by said verdict found. </p>
+<p> And it is further considered and adjudged by the Court, that you
+th e said defendant John Leonard, be taken from hence to the County
+Jail of Whitman County, Washington, from whence you came, and that you
+be there by the Sheriff of Whitman County, Washington, safely kept
+and confined, and that on the day hereafter to be appointed, set and
+determined, you be, by the said Sheriff of Whitman County, Wash ingotn,
+taken from thence to the place of execution, and that you the
+said defendant John Leonard, be there hanged by the neck until you
+be dead."</p>
+<p> And, afterwards, on the 25th day of September, 1896, she said
+defendant John Leonard, filed in the above entitled Court and served
+upon the Prosecuting Attorney for Whitman County, Washington, his notice
+of appeal to the Supreme Court of the State of Washington, from
+the judgment and sentence herein before mentioned. </p>
+<p>And, afterwards, and on, to-wit, the 18th day of May A.D. 1897,
+by the said judgment of the Supreme Court of the State of Washington
+judgment and sentence heretofore entered herein, was at said time by said
+Supreme Court <del/> dismissed and the above entitled
+cause was reminded to the said Superior Court with directions
+to carry its judgment heretofore recited into effect, and the remitti-
+and executed under the seal of said Court, attached by the Clerk of
+said Courts and filed in the office of the Clerk of the Superior
+Court, of the State of Washington, in and for Whitman County.</p>
+<p> NOW THEREFORE, Friday the 2nd day of July, A.D. 1897, is hereby
+fixed set and appointed as the day in which the aforesaid Judgment an
+sentence shall be carried into execution. </p>
+<p> IN THE NAME OF THE STATE OF WASHINGTON, YOU, the said Sheriff
+of Whitman County, Washington, are hereby commanded to take the said
+defendant John Leonard, to the County Jail of Whitman County, State
+of Washington, and him there safely keep and confine him from now until
+Friday, the 2nd day of July, A.D. 1897, and that on said Friday the
+second day of July, A.D. 1897, that you take the said defendant John
+Leonard, from the said County Jail of Whitman County, Washington, to
+
+<pb/> 
+
+the place of execution and there hang him the said defendant, John
+Leonard, by the neck until he be dead and due return of your doings
+and proceedings hereon tomake, according to law; and herein fail not
+at your peril.
+Done in open Court this 24th day of May, A.D. 1897.
+WILLIAM MCDONALD
+Superior Judge. </p> 
+<p> In Attestation and Testimony whereof
+witness my hand and the seal of the
+said Superior Court of the State of SEAL.
+EWashington, in and for Whitman County
+this 24th day of May, 1897.
+C.A. Ross,
+County Clerk and ex-officic Clerk
+of the Superior Court of the State
+of Washington, in and for Whitman
+County. </p>
+<p>Eight <del/> - That on account of the poverty of the said petitioner,
+the attorneys for the said petitioner who depenfed him upon the said
+charge contained in the said information in the Superior Court of
+Whitman County, Washington, did not perfect an appeal from the said
+Judgment and Sentence to the Supreme Court of the State of Washington
+and on account of the failure to perfect said appeal, the <del/> said
+Supreme Court of the State of Washington rendered the judgment of dismissal
+aforesaid, and the said petitioner alleges, that the time for
+taking said appeal has now wholly expired and the said petitioner has
+no other remedy herein. </p>
+<p> Ninth - That the said John Leonard is now restrained of his libert
+by the Sheriff of Whitman County, State of Washington, at Colfax in
+said Whitman County, and his said imprisonment and restraint is illegal
+in this;
+(a) That the said information upon which the said petitioner was
+tried and convicted does not state facts constituting a crime or an
+offense against the laws of the State of Washington or of the United 
+States.
+(b) That the said petitioner is imprisoned and held to answer for
+a capital and infamous crime, without <add> having been </add> first indicted or presented
+by a grand Jury as provided by Art. 5 of the Amendments to the Constitution
+of the United States.
+<del/> 
+ 
+<pb/>
+ 
+(c) That the said petitioner John Leonard is deprived of his liberty
+and is about to be deprived of his life without hue process of
+law and in violation of Art. 5 of the Amendments to the Constitution
+of the United States, and in violation of Sec. 3 of Art. 1 of the
+Constitution of the State of Washington.
+(d) That the information upon which the said petitioner was trie
+and convicted, did not inform the said petitioner of the
+Amendments to the Constitution of the United States.
+(e) That Sec. 21 of Art. 1 of the Constitution of the State of
+Washington provides, that "Offenses heretofore required to be prosecuted
+by information or by indictment, as shall be prescribed by law" 
+is contrary to and in violation of Art. 5 and 14 of the Amendments
+to the C onstitution of the United States, in that the said section
+does not provide for a preliminary examination of the accused and does
+not provide that prabable cause shell first be established before the
+filing of an information against the accused, and in that it deprives
+the accused of the right of a preliminary examination and of having 
+probable cause of guilt first established before the filing of an
+information.
+(f) That the said petitioner is illegally restrained of his liberty
+in that, the said Sec. 25 of Art. 1. of the Constitution of the
+State of Washington and laws of the State of Washington, permitting
+and allowing persons accused of crime to be prosecuted by information
+are void and in conflict with Art's 5 and 14 of the Amendments
+to the Constitution of the United States.
+(g) That the said Superior Court of Whitman County, Washington,
+who tried the said petitioner and rendered the said judgment and sentence
+herein, had no jurisdiction to try the said petitioner or render
+the said judgment and sentence upon the said information.
+(h) That the said information and all of the proceedings had and
+taken thereunder and thereon, were and are absolutely void and in
+<del/> <add> violation of Art. <unclear/> of Art. 1 of the </add> Constitution of the State of
+ 
+<pb/> 
+ 
+Washington and in violation of Art.'s 5-6 and 14 of the Amendments
+to the Constitution of the United States. </p>
+<p> (1) That the said petiti oner is not held i custody under and by 
+virtue of any process issu ed on any final judgement of a Court of competent
+jurisdiction, or for any contempt of any Court, officer or
+body having the authority in the premises to commit, or upon a warrant
+issued, or upon warrant issued from any Superior Court upon any
+indictment, or upon any valid or legal warrant issued from any Superior
+Court upon any valid information, but the said petitioner alleges;
+that the warrant or pretended warrant under which he is imprisoned
+and detained is ilegal and void in that, the judgment and sentence
+upon which the said warrant or pretended warrant was issued is
+void. <del/> </p>
+<p>WHEREFORE your said petitioner prays that a Writ of Habeus Corpus
+may be granted to him, directed to the Sheriff of Whitman County, 
+State of Washington,  commanding him to the said Sheriff to have and
+produce the body of the said petitioner before this Honorable Court,
+at a time and place in said Writ to be specified, to then and there
+do and recieve what shall then and there be considered by your Honor
+concerning the said petitioner, together with the time and cause of
+the detention of the said petitioner, and that the said Sheriff have
+then and there the said writ and his return thereto and thatyour
+said petitioner may be restored to his liberty and discharged from
+custody.
+James E. Fenton
+Del Leary Smith
+Attorneys for petitioner. </p>
+<p>  State of Washington
+County of Spokane.
+I, James E. Fenton, being duly sworn say, that I am one of the
+attorney's for the above named petitioner, that I have read the foregoing  
+petition, know the contents thereof and the same is true as I
+verily believe; that I verify this petition for the reason that the
+said petitioner is now confined in the County Jail at Colfax in Whitman
+County, Washinton, and cannot be had to verify the same, and for
+the addititional reason that all of the material facts alleged in the
+above petititon are within my personal knowledge.
+James E. Fenton
+Subscribed and sworn to before me this ---- day of June, 1897.
+<unclear/>
+N O T A R Y   P U B L I C.
+For Washington, residing at Spokane, Wash</p>
+
+<fw type="footer"> &amp;</fw>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

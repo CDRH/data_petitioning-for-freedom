@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0409.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>H.W. Hull v. Washington Territory. Record of Recongizance.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0409.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">H.W. Hull v. Washington Territory. Record of Recognizance.</title>
+<date when="1884-04-25">April 25, 1884</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 3844</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1884-04">April 1884</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>J.C. Nixon
+W.J. Blackwell
+James Seavey
+James Ludlow</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle
+Olympia</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>H.W. Hull</persName>
+</person>
+<person role="defendant">
+<persName>Washington Territory</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<ab>In the District Court of the Third Judicial District of Washington Territory,
+holding terms at Seattle, at King County, for the counties of King and Kitsap;
+Territory of Washington
+-vs-
+H.W. Hull</ab>
+<p>Comes now this 14th
+day of November 1883 H.W. Hull 
+and J.C. Nixon and W.J. Blackwell
+sureties herein and acknowledge
+and recongize themselves 
+their heirs executors and administrators 
+bound unto the Territory 
+of Washington in the full sum of 
+$500.-</p>
+<p>And the condition of this recongizance
+is such that is hereas the said 
+<add>defendant</add> H.W. Hull have been tried and 
+convicted by the Jury at the October
+term 1883 of this Court of the crime
+of Keeping a home of ill fame.</p>
+<p>And thereupon it was considered
+by the Court that the said defendant
+was guilty as charged in the Indictment,
+and the judgment of the Court
+was that said defendant
+pay a fine of $300, and costs and
+that he be imprisioned in the 
+County Jail of King County
+<pb></pb>
+until such fine and costs are 
+paid or until discharged by law.</p>
+<p>And whereas the said defendant ha
+taken an appeal from said
+Judgement and fine by the Supreme
+Court of this Territory.</p>
+<p>Now therefore if the said H.W. Hull
+shall appear and attend at
+said Supreme Court at the next 
+regular session in July A.D. 
+1884 to be held at Olympia W.T. 
+from day to day and term to 
+term thereafter and abide by and 
+perform all orders and Judgements
+of the said Court or until discharged
+according to law then this recongizance
+shall be void otherwise of
+full force and effect.</p>
+<ab>Territory of Washington.
+County of King.| ss.</ab>
+<p>I, James Seavey Clerk of the District Court of the Third
+Judicial District, Washington Territory, holding terms at Seattle in King County
+for the counties of King and Kitsa do hereby certify the foregoing to be a true,
+full and correct transcript of the Recognizance taken
+in the foregoing entitled cause now of
+Record
+in my office.</p>
+<ab>Witness my hand and the Seal of the said Court of Seattle
+this the 21 day of April 1884
+James Seavey
+By James P Ludlow
+Deputy.</ab>
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0213.016">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Taichi Hiura v. Henry M. White. Inspection</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0213.016</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Taichi Hiura v. Henry M. White. Inspection</title>
+<date when="1920-07-06">July 6, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1920-07">July 1920</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>McCullough, F.S.</term>
+<term>Mullen, Anna</term>
+<term>Kumai, Takanosuke</term>
+<term>Hiura, Y.</term>
+<term>Ajisaka, Aisuka</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Japan</term>
+<term>Tacoma, Washington</term>
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hiura, Taichi</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kiefer, James</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+<persName>Capers, R.E</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-02" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>U.S. Department of Labor</p>
+<p>Immigration Service</p>
+
+<p>No. 37801/3-1</p>
+
+<p>In re case of HIURA, Teiichi, 28m</p>
+<p>Arrived July 1, 1920.</p>
+<p>ex SS. Africa Maru</p>
+
+<p>Seattle, Washington, July 6, 1920.</p>
+
+<p>At a meeting of the Board of Special Inquiry, convened pursuant to the instructions of the Commissioner, composed of</p>
+
+<p>Inspectors F.S. McCullough, Chairman, Benjamin A. Hunter, and</p>
+<p>Stenographer Anna Mullen.</p>
+<p>Interpreter Takanosuke Kumai,</p>
+
+<p>Held for Special Inquiry by Inspector McCullough &amp; as LPC and Alien without proper passport.</p>
+
+<p>Medical Certificate:</p>
+
+<p>SWORN:</p>
+<p>Manifest Data:</p>
+
+<p>Hiura, Teiichi, 28, male, laborer, reads and writes, Japan, Japanese, last residence, Tacoma, Washington; nearest relative, father, Y. Hiura, No. 336 Kamakarishima, Hirishima ken; destination, Seattle, Washington, to brother, Mr. T. Hiura, 4732 Union St., Tacoma; paid own passage; ticket to Seattle; in the United States from 1914 to November 1919.</p>
+
+<p>(presents passport 170081, dated June 15, 1920, reading to the United States, returning immigrant, vised American Consulate General, Yokohama, Japan, seen No. 5346, signed E.R. Kellogg, Vice Consul U. S. A. June 15, 1920.)</p>
+
+<p>CHAIRMAN TO ALIEN:Why did you go back to Japan last November?</p>
+
+<p>A Because I got word my father was sick; I went back to see him.</p>
+
+<p>Q What is your occupation?</p>
+
+<p>A I was working as a laborer for the Griffin Wheel Company.</p>
+
+<p>Q How long have you lived in the United States?</p>
+
+<p>A I came first to this country in 1914.</p>
+
+<p>Q What month?</p>
+
+<p>A April first, 1914.</p>
+
+<p>Q What was the name of the steamer.</p>
+
+<p>A The Tacoma Maru.</p>
+
+<p>Q Did you come as a passenger?</p>
+
+<p>A No sir.</p>
+
+<p>Q Tell us how you came?</p>
+
+<p>A As a stowaway.</p>
+
+<p>Q How many stowaways came with you at this time?</p>
+
+<p>A I dont know of any besides myself.</p>
+
+<p>Q Did you receive any aid in getting aboard the steamer in Japan?</p>
+
+<pb/>
+
+<p>A No body gave me any assistance or aid.</p>
+
+<p>Q Did you pay anyone to assist you in getting ashore.</p>
+
+<p>A I never did.</p>
+
+<p>Q Tell us just how you managed to leave the ship?</p>
+
+<p>A When I left the boat it was raining hard, and there was nobody watching on the dock or wharf, so I left the steamer on the plank to the warf.</p>
+
+<p>Q Somebody assisted you on the way over in the way of food and drink, did they not?</p>
+
+<p>A I brought on food when I got on the steamer, so I didn't need any. When I left the steamer I was nearly starved.</p>
+
+<p>Q We know that it would be impossible for anyone to stowaway on the ship with enough food and drink to run himself across the ocean, without someone on the ship knowing he was there. Now isn't it a fact that someone knew you were on the ship?</p>
+
+<p>A Nobody knew I was on that steamer, I got the water out of the tool box in the machine shop.</p>
+
+<p>Q You might as well tell the truth because we know someone gave you food and drink.</p>
+
+<p>A It is an honest confession, I brought dried fish and never got food or drink from anyone.</p>
+
+<p>Q Where did you hide on the ship without someone of the crew finding it out?</p>
+
+<p>A There was a carpenter on the steamer whose name I dont remember. He gave some assistance once in a while; he gave some food and drink.</p>
+
+<p>Q Did he tell you when there was an opportunity for you to leave the ship?</p>
+
+<p>A I was found by the carpenter after the steamer left.</p>
+
+<p>Q At the time you left the ship at Tacoma, did the carpenter help you to get ashore?</p>
+
+<p>A I asked the carpenter not to throw me overboard, but I never asked any assistance. Just asked him to keep it secret.</p>
+
+<p>Q At the time you got your return certificate for a passport, did you inform the Japanese Consul that you had entered the United States surreptitiously in the first place?</p>
+
+<p>A I went back to Japan with a tourist party, and I told the head of the tourist party the situtation. I dont know whether the head of the tourist party made a true statement or not, but I made a true statement through the tourist party.</p>
+
+<p>Q What was the name of the head of the tourist party?</p>
+
+<p>A Ajisaka.</p>
+
+<p>Q Did he attend to all the arrangements for you in securing a certificate?</p>
+
+<p>A Yes, he attended to the whole business.</p>
+
+<p>Examination of AISUKA AJISAKA, witness.</p>
+
+<p>After being sworn he testified as follows:</p>
+<p>CHAIRMAN: WHere do you live Mr. Ajisaka?</p>
+
+<p>A Seattle, Washington.</p>
+
+<p>Q What is your occupation?</p>
+
+<p>A Managing tourists parties.</p>
+
+<p>Q Do you know the applicant for admission, Mr. Hiura?</p>
+
+<p>A Yes sir, I know him.</p>
+
+<p>Q Do you wish to make any statement in regard to his admission?</p>
+
+<p>A I do not know why this applicant is held here.</p>
+
+<p>Q Are you acquainted with the applicant?</p>
+
+<p>A He was one of the members of my tourist party and since then I know him, but not before that.</p>
+
+<p>Q Did you assist him in securing a return certificate for a passport?</p>
+
+<p>A Yes, I did.</p>
+
+<p>Q Did he submit any evidence to you in regard to his length of residence in the United States?</p>
+
+<p>A Yes sir, he told me how he got into this country.</p>
+
+<p>Q Were you aware that he had come into this country as a stowaway in the first place?</p>
+
+<p>A No, I did not know anything about that.</p>
+
+<p>Q Did you ask him anything about his previous admission?</p>
+
+<p>A I never inquired about that.</p>
+
+<p>Q Well there was no information given to the Japanese Consul that this man was in the States unlawfully?</p>
+
+<p>A So far as I know he never got that information. If the Japanese Consul knew he had been a stowaway he wouldn't have given a return certificate.</p>
+
+<p>Q Have you any other information to give in this case, or any other statements to make.</p>
+
+<p>A I did not know him previous to his becoming a member of my tourist party but since that time I know him to be an honest reliable man. I know a firend of his who knows he has been a resident in this country for a number of years. If you want him as a witness he will come.</p>
+
+<p>Findings.</p>
+
+<p>By Chairman</p>
+
+<p>The applicant is a subject of Japan, of the Japanese race. He presents a passport issued by the Japanese Government reading to the United States which bears the vise of the American Consul in Japan. It appears that this applicant first arrived in the United States as a stowaway on board the Steamship Tacoma Maru, that he stowed away on this steamer in Japan for the purpose of gaining surreptitious entry. He was given some assistance on the ship by the ship's carpenter. According to his own statement he arrived in 1914. He has been engaging as a laborer in a wheel factory in Tacoma. He returned to Japan October 16, 1919, going as a member of the tourist party conducted by one Ajisaka. The applicants states that he informed Ajisaka as to the circumstances of his arrival, and that he</p>
+
+<pb/>
+
+<p>attended to the matter of obtaining a return certificate for him. The applicant states he doesn't know whether Ajisaka informed the Japanese Consul or not. However, Ajisaka appeared as a witness and stated that the applicant did not inform him that he had come as a stowaway on his arrival.</p>
+
+<p>In my opinion the agreement with Japan in regard to the issuance of return certificates only applies to legal residents, and that the passport issued to this applicant was issued to him through a misunderstanding of the facts in connection with his surreptitious entry; that the passport should not have been issued and the applicant is without a proper passport entitling him to come to the United States. I move to reject for that reason, and also for the further reason that he is a person likely to become a public charge.</p>
+
+<p>Mr? Hunter: I second the motion.</p>
+
+<p>Miss Mullen: I make it unanimous.</p>
+
+<p>Chairman to Alien: You have been denied admission by this Board of Special Inquiry on the ground that in the opinion of the Board you are not entitled to the passport which you present as you have never had a lawful admission to the United States, also on the ground that you are a person likely to become a public charge. You may appeal from this decision to the honorable Secretary of Labor. Q Do you wish to appeal?</p>
+
+<p>A yes.</p>
+
+<p>Q You may communicate with your friends, your relatives, your consul, and employ an attorney if you wish to do so.</p>
+
+<p>A I understand.</p>
+
+<p>Attest: Anna Mullen.</p>
+
+<p>Notes transcribed July 14, 1920.</p>
+
+<p>NOTE</p>
+
+<p>It is noted that the given name of this applicant <add>on the passport</add> is spelled differently from the way it is given in the record. The interpreter states they are the same name.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

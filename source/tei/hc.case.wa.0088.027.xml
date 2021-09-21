@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0088.027">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alice McKay v. John Kevan and Della Kevan. Testimony</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0088.027</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Testimony</title>
+<date when="1887">1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<idno>Case No 5662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887">1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Budenich, Katie McKay</term>
+<term>Patros, Antone</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Tacoma, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>McKay, Alice</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, John</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, Della</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ronald, J. P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Gilman, L. C.</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020-05" who="#lkw">encoded</change>
+<change when="2018" who="#nl">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>KATIE McKAY, a witness called on behalf of the Petitioner, after being duly sworn, testified as follows:</p>
+
+<p>Q. [Ronald] Where do you live? A. Tacoma.</p>
+
+<p>Q. You are the daughter of Mrs. McKay A. Yes sir.</p>
+
+<p>Q. Do you know this little child here? A. Yes sir</p>
+
+<p>Q. How long have you lived <sic>t</sic> at Tacoma? A. About eighteen years</p>
+
+<p>Q. Living with your mother there? A. Yes sir.</p>
+
+<p>Q. How long <sic>sinci</sic> your father and mother have been living together? A. I guess about four years.</p>
+
+<p>Q. Has <sic>yur</sic> mother been keeping saloon since your father went away? A. No sir.</p>
+
+<p>Q. What has your mother been doing for a livelihood since your father went away?</p>
+
+<p>A. Washing and ironing, sewing <sic>andworking</sic>.</p>
+
+<p>Q. Does she work all the time? A. Yes sir.</p>
+
+<p>Q. You have been helping her any? A. Yes sir.</p>
+
+<p>Q. How does your mother treat you and your little sister? A. Kindly.</p>
+
+<p>Q. Do you get plenty to eat? A. Yes sir.</p>
+
+<p>Q. Who buys your clothing? A. Mama.</p>
+
+<p>Q. Do you go to school? A. Yes sir.</p>
+
+<p>GILMAN: I dont know how that cuts any figure here?</p>
+
+<p>The COURT: I will hear all sides of the case.</p>
+
+<p>Q. How does she treat you and your sister? A. Kindly.</p>
+
+<p>Q. Does your mother get drunk? A. No sir.</p>
+
+<p>Q. Have you ever seen her drunk? A. No sir I never saw her drunk.</p>
+
+<p>Q. Does your mother have any man sleeping in the house at all? A. No sir.</p>
+
+<p>Q. Who sleeps with your mother every night? A. Me and my sister.</p>
+
+<p>Q. Every <sic>yight</sic>? A. Yes sir.</p>
+
+<p>Q. Does your mother ever work out any? A. Yes sir.</p>
+
+<p>Q. She comes home night dont she? A. About five o'clock in the evening.</p>
+
+<p>Q. Who stays in the meantime in the house with your sister? A. Me.</p>
+
+<p>CROSS-EXAMINATION:</p>
+
+<p>Q. [Gilman] Have you ever seen your mother drink any? A. I seen her take a glass of beer once when she was hard at work</p>
+
+<fw>[Katie McKay, D-EX.<gap/> 76--188.</fw>
+
+<fw>12</fw>
+
+<pb/>
+
+<p>Q. Have you not seen her do that more than once? A. No.</p>
+
+<p>Q. You have talked considerable with your mother about this case? A. No sir.</p>
+
+<p>Q. She has never said a word to you about it? A. No sir.</p>
+
+<p>Q. You came up here without knowing why you came? A. Oh, yes I know why I was coming.</p>
+
+<p>Q. You knew what would be expected,--that you would be expected to give evidence here? A. No sir.</p>
+
+<p>Q. Did not know anything about that? A. No sir.</p>
+
+<p>Q. Did not know that you would be called on the stand? A. Not until today.</p>
+
+<p>Q. Did not your mother tell you what you were expected to testify to? A. No sir.</p>
+
+<p>Q. You are anxious to defend your mother <sic>heee</sic> are not you? A. Yes sir.</p>
+
+<p>Q. You say there is no man living in the house there? A. No sir.</p>
+
+<p>Q. Do you know Antoine? A. Yes, I know him.</p>
+
+<p>Q. Where does he live? A. In tacoma.</p>
+
+<p>Q. He is a friend of your family? A. We know him quite well.</p>
+
+<p>Q. Is he not at your house quite frequently? A. No sir.</p>
+
+<p>Q. Has he ever been <sic>theee</sic> A. He was there once or twice.</p>
+
+<p>Q. You have seen him only once or twice there? A. Yes sir.</p>
+
+<p>Q. Dont he and your mother go about considerably together? A. No sir.</p>
+
+<p>Q. Did he not come up here today with your mother? A. He did not come with my mother, he came on that steamer.</p>
+
+<p>Q. You dont know <sic>wty</sic> he came? A. No sir.</p>
+
+<p>Q.</p>
+
+<p>-------0-------</p>
+
+<fw>[Katie McKay, C-EX.<gap/> 76--193.</fw>
+
+<fw>13</fw>
+
+</div1>
+</body>
+</text>
+</TEI>

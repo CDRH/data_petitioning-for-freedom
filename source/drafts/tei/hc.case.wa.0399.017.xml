@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> John W. Harding Plantiff vs.G. W. L. Allion Sheriff Defendant</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+                    <name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+                    <name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+                    <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+                    <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+                    <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+                    <name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+                    <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+                    <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+                    <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2020</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0000.000</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">John W. Harding Plantiff vs.G. W. L. Allion Sheriff Defendant</title>
+                    <date when="1891">1891</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <collection></collection>
+                        <idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1000-01">1875</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>King County, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>William Fox</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName></persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName></persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName></persName>
+                    </person>
+                    <person role="judge">
+                        <persName>J. R. Lewis</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName></orgName>
+                        <placeName></placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2018-01" who="#ini">reviewed; edited</change>
+            <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        
+        <body>  
+            
+            <div1 type="case">
+<p>This summons came into my hands
+on the 4yh day of Jan 1879
+Deserved the same on David E. Follelet and Alas
+M. C. Clerk in Ferndale
+reciever with the 6th of
+Jan 1879 alas on George States is said
+recieved on the 7th of
+Jan 1879 all of Whatern
+County W. J 
+G. W. L. Allen
+Sheriff Whatern County
+W J. 
+Fees
+Serving term 3.00
+Subpeonas at 40s cents each $1.20
+$4.20
+Bringingin prisoner on writ $1.00
+Milege Whatern to Seattle 115 miles and <unclear></unclear>
+Sleambrat fare for have part 
+in prisioner from whaterun Co. Seattle 
+Board and custody fprsioner for days. 20.00</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

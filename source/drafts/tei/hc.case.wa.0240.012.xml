@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0240.012"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dougherty v. Banta. Memo from Justice of the Peace</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0240.012</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Dougherty v. Banta. Memo from Justice of the Peace</title>
+<date when="1874-08-01">March 10, 1874</date>
+<note type="project">Our transcription is based on a digital image.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1874-06"></date>1874</term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Dougherty, John</term>
+<term>Banta, Isaac</term>
+<term>Potter, F.A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Pierce County</term>
+<term>Washington Territory</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Dougherty, John</persName>
+</person>
+<person role="defendant">
+<persName>Banta, Isaac</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ballard</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Jacobs, Orange</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName> 
+<placeName>Western District of Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#sab">transcribed, encoded.</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0240.012"/>
+
+<p>Territory of Washington 35
+County of Pierce}  ss</p>
+<p>To the Sheriff of any constable of said county</p>
+<p>Whereas Judgment against John Dougherty for the sum of Eighty six Dollars and <del>forty</del> cents coin and for five dollars and sixty cents costs of said was recovered on the 17th day of February 1874 before the undersigned on of the Justices of the peace in and for said county at the suit of Isaac Banta and an execution against this Jeroperty returned unsatisfied these are therefore in the name of the United States to command you to take the body of the said John Dougherty, and him convey and deliver to the keeper of the jail of said county, who is hereby commanded to receive and key--the said John Dougherty in safe custody in prison, until the aforesaid sum and all legal expenses be pencil and satisfied or until he be discharged therefrom by due crown of Law and of this writ make due <del></del>and return within thirty Days.</p>
+
+<p>Given under my hand this 23d day of February A.D. 1814</p>
+<p>F.A. Potter Justice of 
+The Peace</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

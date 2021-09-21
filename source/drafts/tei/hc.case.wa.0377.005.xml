@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0377.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v James Sheridan. Affadavit</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0377.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1863-05-06">May 6th, 1863</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
+<idno>WAL 96</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1863-05">May 1863</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bridges, E. L.</term>
+<term>Sexton, Bennett N.</term>
+<term>Rector, L. E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Walla Walla County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Sheridan, James</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Shermon</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Walla Walla County</orgName>
+<placeName>Walla Walla, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<p>
+E. L. Bridges a/p
+and affadavit
+</p>
+
+<p>Filed May 6th 1863
+B. N. Sexton Clerk
+by L. E. Rector Deputy Clerk</p>
+
+<p>certified</p>
+
+<pb></pb>
+
+<p>
+County of Walla Walla
+Co E L Bridges      D. V.
+</p>
+
+<p>To attendance upon the District
+Court as a witness in this case
+of the Territory vs. J Sheridan
+from the first day of the trial
+of said Court - to wit - April 11th
+until the 6th day of May AD 186<unclear>3</unclear>
+9 days at 2.00 per day</p>
+<p>$18.00</p>
+
+<p>Territory of Washington
+County of Walla Walla  ss</p>
+
+<p>Personally appeared
+before the undersigned Clerk of this Dist
+Court 1st Judicial District E L Bridges
+and being duly sworn to me says the above
+account is correct and that he attended
+as a witness as stated</p>
+<p>Subscribed and sworn
+to before me this 6th day
+of May A. D. 1863</p>
+
+<p>E. L. Bridges</p>
+
+<p>B. N. Sexton Clerk
+by L. E. Rector Deputy Clerk</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

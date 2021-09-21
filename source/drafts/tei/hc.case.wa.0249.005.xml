@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0249.005"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Hazzard v. Aguirre and Price. Assignment of Errors.</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0249.005</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Hazzard v. Aguirre and Price. Assignment of Errors.</title>
+<date when="1889-12-13">December 13, 1889</date>
+<note type="project">Our transcription is based on a digital image.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1889-12">December 1889</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Aguirre, M.J.</term>
+<term>Hazzard, George</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Los Angeles, California</term>
+<term>Tacoma, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Hazzard, George</persName>
+</person>
+<person role="defendant">
+<persName>Price, James H.</persName>
+<persName>Aguirre, M.J.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Palmer, John</persName>
+<persName>Griggs, Herbert S.</persName>
+<persName>Sullivan, P.C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Campbell, Fremont</persName>
+</person>
+<person role="judge">
+<persName>Allyn, Frank</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court of Washington Territory, Second Judicial District</orgName>
+<placeName>Pierce County, Tacoma, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#sab">transcribed, encoded</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0249.005"/>
+
+<p>3063</p>
+
+<p>to answer the following question propounded by defendants' attorney:</p>
+<p>"Mr. Aguirre before leaving Los Angeles with the requisition from the Governor of the State of California did you have any conversation with relation to the identification of the particular George Hazzard referred to in the indictment with the foreman of the Grand Jury that found the indictment or with the prosecuting witness?"</p>
+<p>Also error of the Court in permitting the same witness to answer the following question propounded by attorney for defendants:</p>
+<p>"Go on and state what that was."</p>
+<p>Also error of the Court in permitting the same witness to answer the following question propounded by attorney for defendants:</p>
+<p>"Is that the business that Steven told you Hazzard was engaged in at that time?"</p>
+<p>Also error of the Court in permitting the same witness to answer the following question propounded by defendants' attorney:</p>
+<p>"Is this the George Hazzard;this man ehre, the plaintiff in this Habeas Corpus, the George Hazzard who is wanted in this requisition?"</p>
+
+<p>Fourth.</p>
+<p>Error of the Court in rendering final judgment in said cause against plaintiff and in favor of the defendants.</p>
+<p>And error of the Court in refusing to grant the petition of plaintiff for discharge.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

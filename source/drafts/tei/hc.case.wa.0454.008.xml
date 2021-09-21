@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0454.008">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>George W. Anderson vs. J. C. Mitchell. Subpoena.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0454.008</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">George W. Anderson vs. J. C. Mitchell. Subpoena.</title>
+<date when="1889-10-03">October 3rd, 1889</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 7264</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1889-10">October 1889</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Brockevery, B</term>
+<term>Harmon, H. T.</term>
+<term>Hopkins, R. M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Anderson, George W.</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName>J. C. Mitchell</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Hanford, Cornelius H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2021-06" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0454.008"/>
+
+<p>Territory of Washington, Third Judicial District. ss.
+To J. C. Mitchell</p>
+
+<p>In the name of the United States of America, You are herby commanded to be and appear at the District Court for the Third Judicial District of Washington Territory, at Seattle, for the District aforesaid, at 1 o'clock in the after noon of the 3rd day of October A. D. 1889 then and there to give everidence <del>in a certain cause thering pending, wherein</del></p>
+
+<p>In the matter of the application <del>Plaintiff</del> and of Geo W Anderson for writ of Habeas Corpus <del>Defendant</del> and to remain in attendance on said Court from day to day therafter until discharged, and herin fail not at your peril.
+Witness on behalf</p>
+
+<p>Witness, the HON <add>C H Hanford</add> <del>Richard A. Jones,</del> Chief Justice of the Supreme Court of Washington Territory, and Judge of said District Court, this 3rd day of October 1889
+ R M Hopkins Clerk.
+By H T Harmon Deputy.</p>
+<pb></pb>
+
+<p> No. 7264 
+In the District Court, holding terms at Seattle, Washington Terr.
+SUBPOENA.</p>
+
+<p>Territory of Washington, Counrt of King ss.
+I herreby certify that I recieved the within Subpoena on the 3 day of October A. D. 1889 and personally served the same on the within named by the reading the same to each of them, in King County, Washintgon Territory, on the 3 day of October A. D. 1889
+Dated King County, W. T., 3 day of October A. D. 1889
+<unclear>B Brockevery</unclear>
+Bailiff</p>
+
+<p>FEES.
+Serving Subpoena, - - $1.10
+Mileage, 2 miles, $.20
+cer             6.0
+        $ 1.10</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

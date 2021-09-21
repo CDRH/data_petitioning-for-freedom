@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0040.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Edwards v. Charles Roderman. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0040.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">William Edwards v. Charles Roderman. Petition</title>
+<date when="1858-08-14">August 14, 1858</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1858-08">August 1858</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Cloves, Henry A.</term>
+<term>Johnson, Peter W.</term>
+<term>Lackland</term>
+<term>Montford, Warren</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Iowa</term> 
+<term>St. Louis, Missouri</term>
+<term>Tampico, Mexico</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Edwards, William</persName>
+</person>
+<person role="defendant">
+<persName>Roderman, Charles</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Sharp, John W.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Dusenbury, Henry</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Law Commissioners' Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="djr">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription</change>
+<change when="2019" who="lkw"> Review</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0040.002"/>
+
+<p>To the Honrable Henry Dusenbury</p>
+<p>Judge of the St Louis Law Com 
+Court</p>
+
+<p>Your petitioner William Edwards Free man of 
+Colour respectfully states and represents to 
+your honor that he was arrested in the state 
+of Iowa on board the Steamboat Sarasen 
+by the Captain of said boat and brought to 
+the City of St. Louis on said boat and put into the jail 
+of St Louis County on June 2d 1857 by a commitment 
+<del/> of Peter W Johnson on the oath of the matter of Sd Boat and he is a free man <del/> and was born in 
+Tampico Mexico where slavery is not tolerated 
+by said government that since the time of 
+this arrest and imprisonment he has been 
+confined restrained and deprived of his 
+liberty by the Jailor of St Louis County 
+and that he is now illegally confined 
+and restrained of his liberty by Charles 
+Rodeman the Jailor of St Louis County 
+that he has demanded a copy of the
+warrant commitment or cause of his 
+confinement of said Jailor Rodeman 
+which has been refused him that he 
+has been informed and believes that 
+Henry A Cloves Judge Rebu and Judge 
+Lackland are absent from the City 
+and County of St Louis at this time and 
+your petitioner therefore asks that 
+your honor will grant a writ of Habeas Corpus 
+directed to <del>the jailor</del> Charles Rodeman Jailor 
+of St Louis County commanding him to 
+have before your honor the body of your 
+petitioner that upon a hearing <del/> he may
+
+be discharged and that he has applied to no other 
+Judge for the writ sought for in 
+this petition</p>
+
+<p>JW Sharp attorney 
+for petitioner</p>
+
+
+
+<p>John W Sharp states that he is attorney for William 
+Edwards the petitioner and he believes the facts set forth 
+in the foregoing petition are true</p>
+
+<p>John W Sharp</p>
+
+
+<p>Subscribed &amp; sworn to before 
+me Augt 14th 1858</p>
+
+<p>W Montford Clk</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

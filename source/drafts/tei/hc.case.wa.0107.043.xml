@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0107.043">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gus Bendjus et al. v. Territory of Washington. Attendant</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0107.043</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Attendant.</title>
+<date when="1887-10-10">October 10, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-10">October 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Holberg, C</term>
+<term>Anudon, WH</term>
+<term>Roderich, GL</term>
+<term>Medcalf, John</term>
+<term>Irwin, Mason</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>County of Chehalis</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
+</person>
+<person role="defendant">
+<persName>Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bynold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moody, George L</persName>
+</person>
+<person role="judge">
+<persName>Allyn, Frank</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<head>Territory Wash vs. G Bendjus et al, Attendant</head>
+
+<p>Bynold and Robinson, Attys for Defendant</p>
+
+<pb/>
+
+<p>
+In the district court of the Second Judicial District fo Washington Territory
+
+Territory of Washington
+vs
+G. Bendjus et al
+
+Territory of Washington
+County of Chehalis}
+Attendant</p>
+
+<p>
+Lewis B Bynold being first duly sworn on Oath says that, C Holberg, W H Amedon, and G I Roderich
+were Grand Jurors at the last September term of the District Court for Chehalis County, that they each of them told this 
+affiant during the week last past that one John I Medcalf was remanded as a Witness before said Grand Jury when the 
+three cases wherein the Territory of Washington plaintiff and G Bendjus et al are defendants was being investigated by them
+that his testimony was given before them previous to the indictment being filed in open court that he, the said Medcalf 
+was subpoenaed on behalf of the Territory of Washington and gave evidence relating to the cases aforesaid, that
+said John Medcalf name no where appears on any of the three said indictments, now on file in the aforesaid court.</p>
+
+<p>Lewis B Bynold</p>
+
+<p>Subscribed and sworn to before the 10 day of Oct 1887</p>
+<p>Mason Irwin, Notary Public, Wash. Ter.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0122.005"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>S. M. McFarland v. Territory of Washingon. Writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0122.005</idno> <!-- replace with number from spreadsheet -->
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">S. M. McFarland v. Territory of Washingon. Writ</title>
+<date when="1888-05-12">May 12, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1888-05">May 1888</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Marquiss, N. R.</term>
+<term>Ellis, U. Z.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Columbia County, Washington</term>
+<term>Walla Walla County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>McFarland, S. M.</persName>
+</person>
+<person role="defendant">
+<persName>Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Langford, William G.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="#lkw">Review</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.wa.0122.005"/> <!-- insert number from spreadhseet -->
+                
+                
+<p>#1570</p>
+
+<p>In the District Court of Columbia County
+Washington Territory holding terms at Dayton.</p>
+
+<p>Before Hon. William G. Langford
+Judge of the above named Court and Associate
+ Justice of the Subpoena Court of Washington
+ Territory</p>
+
+<p>Territory of Washington
+County of Columbia } SS</p>
+
+<p>The United States of America
+to N.R. Marquiss</p>
+
+<p>Greeting:
+We command you that you have the body of
+S.M. McFarland by you imprisoned and
+detained as it is said, together with the
+time and cause of such imprisonment
+and detention by whatever name said S.
+M. McFarland shall be called or charged before
+ William G. Langford Judge of the
+District Court of Columbia County,
+Washington Territory holding terms at Dayton,
+ as the court rooms
+in Walla Walla, Walla Walla County, Washington
+ Territory, <add>forthwith</add> <del/>
+said day to do and receive which shall there
+and then be considered, concerning the
+said S.M. McFarland and have you then
+
+<pb/>
+
+and true this writ.</p>
+
+<p>Witness the Hon. William G. Langford
+Judge of the District Court of Columbia
+County, Washington Territory, holding terms
+at Dayton, and Associate Justice of
+the Supreme Court of Washington
+Territory, this 9th day of May 1888
+Attest my hand and the seal of the said District
+ Court affixed this the day and
+year above written</p>
+
+<p>J.W. Jessel Clerk<lb/>
+By U.Z. Ellis Deputy</p>
+
+<p>In the matter of<lb/>
+the application for<lb/>
+Writ of Habeas Corpus</p>
+
+<p>Writ<lb/>
+No 1570</p>
+
+<p>Filed<lb/>
+May 9 1888<lb/>
+JW Jessel Clerk.<lb/>
+By U Z Ellis Deputy.</p>
+
+<p>Returned and<lb/>
+filed May 12th<lb/>
+1888</p>
+
+<p>JW Jessel Clerk<lb/>
+By U Z Ellis Deputy</p>
+
+<p>Territory of Washington<lb/>
+County of Walla Walla } SS</p>
+
+<p>I NR Marquiss Sheriff of Columbia County Washington Territory
+do hereby certify that in obedience to the within Writ and have
+this 10th day of May 1888 served the same on the within named S.
+M. McFarland in Columbia County Washington Territory
+and now have him before the court together with Statement and by
+<gap/> I hold the said SM McFarland</p>
+
+<p>N R Marquiss<lb/>
+<del></del>County Wash Terr</p>
+                
+</div1>
+            
+</body>
+</text>
+</TEI>
+
+

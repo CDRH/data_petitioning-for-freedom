@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0191.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Edwin Ekstrom v. Henry M. White. Court Order</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0191.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Edwin Ekstrom v. Henry M. White. Court Order</title>
+<date when="1918-11-19">November 19, 1918</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1918-11">November 1918</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Washington, D.C.</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Ekstrom, Edwin</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Pierce, Ralph S.</persName>
+<persName>Vanderveer, George F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moore, Ben L.</persName>
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jermiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2019-10" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="#hc.case.wa.0191.003"/>
+
+<p>In the Matter of the Application of EDWARD EKSTROM for a writ of Habeas Corpus.</p>
+<p>No. 4358.</p>
+<p> This matter coming on regularly to be heard upon the petition of Edwin Ekstrom, praying for an order directed to Henry M.White, Commissioner of Labor of the United States, stationed at Seattle, Washington, requiring him to show cause why he, the said Henry M. White, <del>c</del><add>sh</add>ould further restrain the petitioner of his liberty, and the petitioner being represented by George F.Vanderveer and Ralph S. Pierce, his attorneys, and the said Henry M.White being represented by Ben L.Moore, Assistant United States Attorney, and it appearing to the court that the record and testimony in such case was transmitted to the Secretary of Labor at Washington, D.C. <del>more than 40 days ago</del>, and that no final order has as yet been made upon such record and testimony, and the court being fully advised in the premises,</p>
+<p> IT IS HEREBY ORDERED that the prayer of the petitioner at this time be denied, with the permission to the petitioner to renew his application on December 3, 1918, or to renew his application at any time prior to said date in the event the Secretary of Labor issues a warrant for the deportation of the petitioner.</p>
+<p> AND IT IS FURTHER ORDERED that the clerk be, and he is hereby directed to send to the said Henry M. White, Commissioner of Labor at Seattle, Washington, a copy of this <add>order</add> forthwith</p>
+<p> Done in open court this 19th day of November, 1918.</p>
+<p>Jeremiah Neterer</p>
+<p>JUDGE.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
