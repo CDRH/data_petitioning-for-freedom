@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington V. Sterling P. White</title><!-- replace with name of case; type of document -->
+<date when="1885-01-05">January 5, 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,11 +80,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1885-01">January 1885</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Friedlander, J. H.</term><!-- insert names of other people mentioned in document -->
+<term>Feauerbach, Kate W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -122,7 +123,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#ini">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -133,11 +134,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.wa.0130.007"/> <!-- insert number from spreadhseet -->
 
 
 <fw type="footer"> &amp;</fw>
+<p>Subpoena 
+Seved on the within
+named witness and
+transportation furthering
+then in leiu of mileage
+J. H. Friedlander,
+Jan 5th 1885 </p>
 
+<p>Filed March 5th 1885
+Kate W. Feauerbach
+Clerk</p>
 
 </div1>
     
