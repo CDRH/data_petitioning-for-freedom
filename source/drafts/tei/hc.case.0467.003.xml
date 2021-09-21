@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0253.004"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0467.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Davis v. Davis. Memo from Petitioner Attorneys</title> 
+<title>John Leonard v. State of Washington. Notice.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Ibrahim, Meyri" xml:id="mi">Meyri Ibrahim</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2021</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0253.004</idno> 
+<idno type="project">hc.case.wa.0467.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Davis v. Davis. Memo from Petitioner Attorneys</title>
-<date when="1888-12-05">December 5, 1888</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">John Leonard v. State of Washington. Writ of Habeus Corpus.</title>
+<date when="1897-06-22"> June 22nd, 1897</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
+<idno>Case 625</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,55 +78,49 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-11"></date>November 1888</term>
+<term><date when="1897-06"> June 1897 </date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brown</term>
-<term>Chadwick, S.J.</term>
-<term>Davis, Nelson</term>
-<term>Sullivan</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Colfax, Washington Territory</term> 
-<term>Whitman County</term>
+<term> Whitman County, Washington </term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Davis, Nelson</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Davis, Sarah M.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Brown</persName>
-<persName>Chadwick</persName>
-<persName>Sullivan</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Langford, William G.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court For The First Judicial District Court</orgName> 
-<placeName>Colfax, Whitman County, Washington Territory</placeName> 
+<orgName>Ninth Judicial Circuit Court</orgName>
+<placeName>County of Whitman, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020" who="#sab">encoded, transcribed, edited.</change>
+<change when="2021-09" who="#mi">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,22 +128,58 @@
 <text>
 
 <body>  
-               
+
 <div1 type="case">
 
-<pb facs="hc.case.wa.0253.004"/>
+<pb facs="hc.case.wa.0467.003"/>
 
-<p>Case No. 2223.</p>
+<p> In re. Application of John Leonard for Writ of Habeas Corpus. </p>
+<p> United States Circuit Court for the District of Washington. 
+In the matter of 
+the application
+of John Leonard
+for Writ of Habeus
+Corpus vs.
+R.A. Simms
+Sheriff of Whitman
+County, Washington </p>
+<p> To the Clerk of the above entitled Court:
+You will please issue citation ?
+persuant to the rules in
+such cases, also ?
+appeal and ? transcript ?
+appeal to the Supreme Court
+of the United States to include
+Petition for Habeas Corpus ?
+? ? the issuance
+of ? and allowing ?
+appeal, notice of appeal to
+the Supreme Court and
+motion to the Sheriff and
+duly certify the same ?
+the ? and the ?
+? by law
+John F. ?
+? ? ? </p>
 
-<p>In the District Court of the Territory of Washington, and for the First Judicial District thereof, holding terms at Colfax, in the County of Whitman, in said Territory.</p>
+<pb/>
 
-<p>In the Matter of Nelson Davis for Writ of <del>Plaintiff,</del> 
-Habeas Corpus 
-<del>Defendant.</del></p>
+<p> United States Circuit Court for the District of Washington </p>
+<p> In the matter of
+the application
+of John Leonard
+for Writ of Habeas
+<del/> 
+? and ? ? </p>
+<p> To the Clerk of the above entitled Court:
+You will please ? ? ?
+of order ? and refusing
+to ? writ and allowing
+the appeal herein. </p>
+<p> ? three (3) ? of the 
+? citation in the ?
+? ? </p>
 
-<p>Filed in the office of the Clerk of the District Court, this, the 5" day of Dec 1888 Alfred H Marion, Clerk. By HJ Marion Deputy.</p>
-<p>Sullivan Chadwick Brown
-Attorny S for Petitioner</p>
 
 </div1>
     
