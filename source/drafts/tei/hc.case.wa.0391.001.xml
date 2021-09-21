@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0358.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Abner S. Nancy v. Capt. Wm McMatthews</title> <!-- replace with name of case; type of document -->
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0358.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Abner S. Nancy v. Capt. WM Matthews. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="2021-11-16">September 16 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository><!-- insert name of repository -->
-<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection><!-- insert name of collection -->
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term><!-- Civil or Criminal -->
+<term>Criminal</term><!-- Civil or Criminal -->
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1869-07"></date>29 July 1869</term><!-- insert date of court term -->
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -93,10 +93,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Abner S. Nancy</persName><!-- insert name of petitioner, if a person -->
+<persName></persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName>Captain William McMatthews</persName><!-- insert name of defendant, if a person -->
+<persName></persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
@@ -105,7 +105,7 @@
 <persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName>E.P. Oliphant</persName><!-- insert name of judge, if known -->
+<persName></persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
@@ -119,7 +119,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">AS</change> <!-- change description, initials, and date -->
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -130,56 +130,46 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0358.001"/> <!-- insert number from spreadhseet -->
-<p>Abner S Nancy 
-vs 
-Capt Wm Matthews}SS</p>
-<p>Aplication for Writ 
-of Habeas Corpus</p>
-<p>To the honorable E.P.
-Oliphant judge of the 1st judicial district 
-of W T. your petitioner Abner S
-Nancy complains of the defendent Capt Wm 
-Matthews and alleges he is unlawfully
-restrianed of <del>this</del> his liberty the
-defendant at or near Lewiston WT
-the pretense of the restraint is an enlistment
-in the service of the USA 1st Oregon
-Cavarly and your petitioner further avers
-that he was enlisted at Oakland <del>oregon</del>
-Daylop County Oregon on the 23rd day 
-of February 1869 and your petitioner at that 
-time was but seventeen years old and was
-enlisted without the consent of his parents 
-your petitioner further says that when he 
-enlisted he had the posession of the thrity one 
-dollars per month no portion of which 
-had been paid which leaves your petitioner 
-extremely destitute your petitioner avers that
-when he enlisted the the service he had a horse and
-yet has him which he pray he may have liberty with being when <unclear></unclear>
-Wherefore your petitioner prays a writ of Habeas 
-Corpus may issue and that your petitioner 
-may be discharged of the illegal restraint</p>
-<p>Abner S Nancy</p>
-<p>Abner S Nancy first being duly sworn says
-the matters and things stated in the foregoing
-complaint are true of his own knowledge
-Subscribed and sworn to this 29th 
-day of July A.D.,1862</p>
-<p>Abner S. Nancy</p>
-<p>B.N. Sexton, Clerk</p>
+<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<p>Territory 
+vs. 
+Wm Adams</p>
+<p>Bond</p>
+<p>Filed May 5, 1863</p>
+<p>B.B Sexton</p>
+<p>Clerk</p> 
+
+<!-- Not the first page of doc, but the back of the first one -->
 <pb></pb>
-<p>Abner S. Nancy</p>
-<p>Capt. WM Matthews</p>
-<p>Aug. 14th 1859. <unclear></unclear>
-allowed by.</p>
-<p>E.P.Oliphant</p>
-<p>1st judicial district 
-of W T.</p>
-<p>Filed August 14th 1869 
-B.N.Sexton</p>
-<p>Clerk</p>
+<p>Know all men by <unclear>that </unclear> 
+the Wm Adams <unclear></unclear>and 
+John A. <unclear></unclear> as held 
+finaly with the Territory of Washington,
+in the <unclear></unclear> three hundred 
+dollars lawful money of the the United States 
+the payment of which well and truly to be 
+made the kind <del>and his</del> <unclear></unclear> 
+heirs, exectutives and administration, finally 
+by <unclear></unclear> signed with our seals 
+and dated this 5th day of May A.D. 1863</p>
+<p>The Conditions of the <unclear></unclear> obligation is 
+such that whereas,the said William Adams 
+has been indicted for the crimes of <unclear>agr ? for aggrevated</unclear> assault 
+and Battery. <unclear></unclear> is the said William Adams
+shall adhere and abide the order of the Court 
+and not depart the court the <unclear></unclear> that 
+from, then this obligation shall be void, <unclear></unclear> overview
+ to remain in the full <unclear></unclear>
+our hands may seek this 
+5th day of May, A.D. 1863</p>
+<p>William Adams</p> <figure><p>seal</p></figure>
+<p><unclear>John A. Marro</unclear></p> <figure><p>seal</p></figure>
+<figure><p>seal</p></figure>
+<p>Smetly justified 
+and Board approved
+this 5th day of May 1863 
+B.S. Sexton Clerk</p>
+
 </div1>
     
 </body>
