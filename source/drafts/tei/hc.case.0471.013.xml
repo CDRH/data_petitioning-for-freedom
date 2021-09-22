@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0471.013">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Salfest S. Sylvester v. Stener A. Wenaas. Affidavit</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0471.013</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Salfest S. Sylvester v. Stener A. Wenaas. Affidavit</title>
+<date when="1899-05-07">July 5, 1899</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1899-07">July 1899</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hart, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Traill County, North Dakota</term>
 </keywords>
 
 </textClass>
@@ -103,7 +104,8 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>James F. McElroy</persName>
+<persName>Selby, J. F.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -120,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,20 +136,20 @@
 <div1 type="case">
 
 <pb/>
-IN THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF WASHINGTON
-NORTHERN DIVISION.
+<ab>IN THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</ab>
 
-In re SALFEST S. SYLVESTER for a 
-Writ of Habeas Corpus.
+<ab>In re SALFEST S. SYLVESTER for a 
+Writ of Habeas Corpus.</ab>
 
-Affidavit.
+<ab>Affidavit.</ab>
 
-STATE OF WASHINGTON
-County of King.
+<ab>STATE OF WASHINGTON
+County of King.</ab>
 
-ss
+<ab>ss</ab>
 
-JOHN B. HART being first duly sworn, upon oath
+<p>JOHN B. HART being first duly sworn, upon oath
 deposes and says: I am one of the deputy prosecuting attorneys in and for
 King County, Washington; that the respondent herein and the State of
 Washington make this application for the reason that it is the intent,
@@ -166,62 +168,62 @@ Mr. James F. McElroy, prosecuting Attorney of King County, one being
 from the Governor of the State of North Dakota, which is hereto attached
 and made a part hereof, the other being from one J. F. Selby who is
 the Prosecuting Attorney of Traill County, North Dakota, which is hereto
-attached and made a part hereof. 
+attached and made a part hereof. </p>
 
-Affiant further states that it is alleged in various papers hereunto
+<p>Affiant further states that it is alleged in various papers hereunto
 exhibited in court that the crime with which said petitioner is
 charged in North Dakota is alleged to have been committed in said Traill
-County, North Dakota.
+County, North Dakota.</p>
 
 <pb/>
 
-Affiant further believes that the period of ten days from the 
+<p>Affiant further believes that the period of ten days from the 
 date hereof will be sufficient time within which to allow the authorities
 of North Dakota to prepare new requisition papers and procure the warrant
 from the Governor of this state for the extradition of the
-petitioner to the state of North Dakota. 
+petitioner to the state of North Dakota. </p>
 
-Further affiant sayeth not. 
+<p>Further affiant sayeth not. </p>
 
-John B Hoat
+<ab>John B Hoat</ab>
 
-Subscribed and sworn to before me this 5thday of July, A. D. 1899.
+<p>Subscribed and sworn to before me this 5thday of July, A. D. 1899.</p>
 
-<unclear>Dale </unclear> <unclear>Kellener</unclear>
+<ab><unclear>Dale </unclear> <unclear>Kellener</unclear></ab>
 
-Notary Public in and for the State
-of Washington, residing at Seattle. 
+<ab>Notary Public in and for the State
+of Washington, residing at Seattle. </ab>
 
 <pb/>
 
-Tx
+<ab>Tx</ab>
 
-10 t 
-pd
+<ab>10 t 
+pd</ab>
 
-776.
+<ab>776.</ab>
 
-In the Circuit Court of the United 
+<ab>In the Circuit Court of the United 
 States for the District of Washington.
-Northern Division. 
+Northern Division. </ab>
 
-In re Salfest S. Sylvester
-for a Writ of Habeas Corpus.
+<ab>In re Salfest S. Sylvester
+for a Writ of Habeas Corpus.</ab>
 
-Motion
+<ab>Motion</ab>
 
-FILED IN THE
+<ab>FILED IN THE
 U. S. CIRCUIT COURT,
-DIST. OF WASHINGTON.
+DIST. OF WASHINGTON.</ab>
 
-JUL 7 1899
+<ab>JUL 7 1899</ab>
 
-A. REEVES AYRES, CLERK
+<ab>A. REEVES AYRES, CLERK</ab>
 
-R M Hopkins Dep.
+<ab>R M Hopkins Dep.</ab>
 
-James F. McElroy.
-Attorney for Respondent.
+<ab>James F. McElroy.
+Attorney for Respondent.</ab>
 
 </div1>
     
