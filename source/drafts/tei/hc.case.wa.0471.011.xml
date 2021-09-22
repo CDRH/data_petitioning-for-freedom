@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0471.011">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Salfest A. Sylvester v. Stener A. Wenaas. Order Discharging Prisoner Under Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0471.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Salfest A. Sylvester v. Stener A. Wenaas. Order Discharging Prisoner Under Writ of Habeas Corpus</title>
+<date when="1899-07-03">July 3, 1899</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1899-07">July 1899</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hart, John B. </term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>North Dakota</term>
 </keywords>
 
 </textClass>
@@ -120,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,18 +134,19 @@
 <div1 type="case">
 
 <pb/>
-In the Circuit Court of the United States for the District of
-Washington. Northern Division.
 
-No. 776
+<ab>In the Circuit Court of the United States for the District of
+Washington. Northern Division.</ab>
 
-In the Matter of the application
+<ab>No. 776</ab>
+
+<ab>In the Matter of the application
 of Salfest A. Sylvester for a 
-writ of habeas corpus.
+writ of habeas corpus.</ab>
 
-ORDER DISCHARGING PRISONER under writ of habeas corpus.
+<ab>ORDER DISCHARGING PRISONER under writ of habeas corpus.</ab>
 
-This matter coming on regularly to be heard this 3rd day of
+<p>This matter coming on regularly to be heard this 3rd day of
 July, 1899, upon the writ of habeas corpus issued herein, the
 petitioner appearing by his counsel R.B. Albertson, Esq., and the
 respondents by their counsel John B. Hart, Esq., and a return to
@@ -163,18 +164,18 @@ that the petitioner be released from the custody under said warrant
 and that the respondents and all other persons be and they are hereby
 restrained from holding the petitioner further under said warrant;
 and that the petitioner recover of and from the respondents
-his costs and disbursements herein.
+his costs and disbursements herein.</p>
 
-And now at this time counsel for respondents states in open
+<p>And now at this time counsel for respondents states in open
 court that he does not desire to appeal from the foregoing order,
 and further states that he is satisfied that the Governor of North
-Dakota and the authorities of that States intend to prosecute
+Dakota and the authorities of that States intend to prosecute</p>
 
--1-
+<ab>-1-</ab>
 
 <pb/>
 
-petitioner under the same charge referred to in said warrant and
+<p>petitioner under the same charge referred to in said warrant and
 to make a new demand upon the Governor of the State of Washington
 for a writ of extradition under which the petitioner shall be returned 
 to North Dakota for trial; and said counsel further moves
@@ -192,49 +193,49 @@ be remanded to the custody of the Sheriff of King County, until
 Wednesday, the 5th day of July, 1899, at 3 o'clock p.m., when he 
 shall again be brought before the court to obey such order as the
 court may then make herein. To this order of the court the
-petitioner through his counsel excepts, and said exception is allowed.
+petitioner through his counsel excepts, and said exception is allowed.</p>
 
-done in open court this 3rd day of July, 1899.
+<p>done in open court this 3rd day of July, 1899.</p>
 
-C. H. Hanford
-Judge
+<ab>C. H. Hanford
+Judge</ab>
 
 <pb/>
 
-Tx.
+<ab>Tx</ab>.
 
-(ORIGINAL)
+<ab>(ORIGINAL)</ab>
 
-No. 776.
+<ab>No. 776.</ab>
 
-GOB 6-145
+<ab>GOB 6-145</ab>
 
-In the Circuit Court
+<ab>In the Circuit Court
 OF THE
 UNITED STATES
-District of Washington Northern Division
+District of Washington Northern Division</ab>
 
-In the Matter of the
+<ab>In the Matter of the
 Application of Salfest
 A. Sylvester for writ of
-Habeas Corpus
+Habeas Corpus</ab>
 
-Order discharging 
-Prisoner
+<ab>Order discharging 
+Prisoner</ab>
 
-FILED IN THE
+<ab>FILED IN THE
 U.S. Circuit Court, 
-DIST OF WASHINGTON
+DIST OF WASHINGTON</ab>
 
-JUL 3 1899
+<ab>JUL 3 1899</ab>
 
-A. REEVES AYRES, CLERK
+<ab>A. REEVES AYRES, CLERK</ab>
 
-<del>JAS. HAMILTON LEWIS,</del>
+<ab><del>JAS. HAMILTON LEWIS,</del></ab>
 
-H M Matthew
+<ab>H M Matthew
 R. B. Albertson
-Attorney for petitioner
+Attorney for petitioner</ab>
 
 
 
