@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0107.057">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Gus Bendjus et al. v. Territory of Washignton. Judge's Refusal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0107.057</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Judge's Refusal</title>
+<date when="1887-10-15">October 15, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-10">October 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Agnew, Alex</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>County of Chehalis</term>
 </keywords>
 
 </textClass>
@@ -94,33 +95,60 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Moody, George L</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,42 +163,22 @@
 
 <pb/>
 
-<p>137. Filed on the 11 day of October 1887.</p>
+<p>Territory of Washington vs. Gus Bendjus et al.</p>
 
-<ab>HM Sutton
-         Clerk</ab>
+<p>This cause coming on to be heard on this 15 day of October, before Hon. Frank Allyn,
+Judge of the Second Judicial District of Washington Territory for the application of
+defendants for release from confinement in the county jail in Thurston county , Washington
+Territory, and the court having heard the arguments of counsel for both partities here to, and
+being fully adjourned in the presmises , it is hereby</p>
 
-<pb/>
+<p>Ordered that said application fo said defendants to be released is hereby refused and said defendants
+Gus Bendjus, Robert Strauglaud, Alex Agnew, and Thomas Jacobs are hereby now <unclear>awarded</unclear>
+to the custody of the Sheriff of Chehalis conty to be confined at Olympia, Thurston county, Washington Territory, 
+for safe-keeping until they can be tried at Montesano, Chehalis County, unless before that time released by bond or 
+due process of law. All of which defts by their attor. demands exception of which exception to attend.</p>
 
-<p>In the District Court holding terms at Olympia
-
-       Petetion of Gus Bendjus Et al.
-       for writ of Habeas Corpus</p>
-
-<p>To George L Moody Prosecuting Attorney</p>
-
-<p>Please take notice that a writ of Habeas Corpus has been issued to the
-       Sheriff of Thurston County, commanding said Seriff to bring us the the 
-       bodies of the Bendjus et al before the Hon. Frank Allyn, judge of the Second
-       Judicial District of Washington Territory that they may be discarged.</p>
-
-<p>You will please appear &amp; show cause to the contrary.</p>
-
-<p>The writ is made returnable at Tacoma Court House at 10 o clock am Oct 13. 1887.</p>
-
-<p>Dated, Olympia Oct 8. 1887</p>
-
-<ab>Reginold and Robinson
-         Attorneys for Petetioners</ab>
-
-<p>Service by copy accepted this 10 day of Oct at 8 o clock pm 1887</p>
-
-<ab>George L. Moody
-         Pros. Atty.</ab>
-
-
-
-
+<ab>Frank Allyn
+Judge of said District</ab>
 
 </div1>
     
