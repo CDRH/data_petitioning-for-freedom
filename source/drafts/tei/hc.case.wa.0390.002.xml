@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.002.xml">
     
 <teiHeader>
 <fileDesc>
@@ -94,7 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>John Suelling</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -134,43 +134,23 @@
 <div1 type="case">
 
 <pb/>
-<p>Territory of Washington
-County Walla Walla } SS</p>
+<p>In the District Court of the
+First Judicial District W. T.
+on and for Walla Walla County</p>
+<p>In the <unclear/> of application of 
+John Doe
+for a writ of Habeas Corpus/</p>
+<p>To the Hon. James K. Kennedy Judge
+of said court</p>
+<p>The petition of John Doe, an Indian,
+</p>
 
-<p>Before me, James K. Kennedy, Judge 
-of the 1st judicial district of Washington
-Territory, personally appeared
-this 13th day of October, 1869, James McAuliff, 
-Sheriff of Walla Walla County, who 
-makes oath and says that he has reason
-to believe, and verily does believe
-that one John Suelling committed the crime 
-of Grand Larceny in the County of Umatilla,
-State fo Oregon, in the latter part of the 
-year 1868; that he was committed to the 
-County jail of said county on said charge,
-that he sawed his way out of said jail,
-and made his escape therefrom, and
-is now a fugitive from justice; that the 
-Sheriff of Umalilla County has made 
-an application to the Governor of the 
-State of Oregon for a requisition on the 
-Governor of Washington Territory for the
-body of the said John Suelling to answer
-said charge.</p>
-<ab>James McAuliff</ab>
-<p>Subscribed and sworn
-before me this 13th day of
-October, A. D. 1869</p>
-<ab>James K. Kennedy
-Judge &amp;c.</ab>
 
-<p>Aff of 
-James McAullif</p>
 
-<p>Filed Oct. 13th 69</p>
-<ab>R P Reynold
-Cleck</ab>
+
+
+
+
 
 </div1>
     
