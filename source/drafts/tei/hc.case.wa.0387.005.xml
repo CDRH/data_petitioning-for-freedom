@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0387.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0387.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James Robinson v. Territory of Washington. Forefit of Judge's Dockett.</title>
+<title>James Robinson v. Territory of Washington. Affidavit.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0387.003</idno>
+<idno type="project">hc.case.wa.0387.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Robinson v. Territory of Washington. Forefit of Judge's Dockett.</title>
+<title level="m" type="main">James Robinson v. Territory of Washington. Affidavit</title>
 <date when="1862-11-08">November 8, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1890</collection>
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
 <idno>WAL 189</idno>
 </msIdentifier>
 </msDesc>
@@ -86,11 +86,15 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Porter, G. N.</term>
+<term>Porter, George H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Horton, W. P.</term>
+<term>Riffs, Peter</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Horton, W. T.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -142,45 +146,40 @@
 <div1 type="case">
 
 <pb/>
-<p>Territory of Washington 
-County of Walla Walla } ss</p>
-<p>Territory Pff
-vs
-James Robinson deft</p>
-<p>Now on this 19th
-day of June 1862 comes G.H. Porter
-and makes complaint against said
-Deft. charging him of having on or
-about the 12th day of June 1862 at
-said County committed the crime of
-Grand Larceny. Trial set for June
-the 20th 1862 2.0.C A.M. _ Parties application
-court when the cause was adjourned 
-for two days. Before the expiration of
-said time, the deft escaped.</p>
-<p>Justice fees $2.50
-Sheriffs " } W.P. Horton 
-Justice of the Peace</p>
 <p>Territory of Washington
-County of Walla Walla } ss.</p>
-<p>I do hereby certify
-that the foregoing is a true and correct
-copy of said cause as it appears
-upon my Dockett, as witness my
-hand this 17th day of Oct AD 1862</p>
+County of Walla Walla }s.s.</p>
+<p>George H. Porter, Being duly 
+sworn upon his oath says that <add>affiant verily believes</add> the
+crime of Grand Larceny has been committed
+at said County on or about the
+12th day of June 1862. That some 
+Person or persons did felouiouslu
+steal, take, drive, and carry away
+out of the possion of one Peter
+Riffs four horses &amp; one mule of the
+value of $450.00/100. The property of the
+said Riffs, and convert the saves
+to <del>their</del> <add>his</add> own use. Contrary to the 
+statute in such cases made and
+provided and affiant charges one
+James Robinson of having committed
+said crime</p>
+<p>Wherefore affiant <del>charges</del>
+prays that the said James Robinson
+Be arrested and dealt 
+with according to law.</p>
+<ab>Geo H. Porter</ab>
+<p>Subscribed and sworn to before me
+June the 18th 1862</p>
 <ab>W.P. Horton
-Justice of the Peace</ab>
-<pb/>
+Justice of the Peace.</ab>
 <p>Territory
 v.s.
-J Robinson</p>
-<p>Forefit 
-of 
-Justice's Dockett</p>
-<p>Filed Nov. 8 1862
+James Robionson</p>
+<p>Affidavit</p>
+<p>Filed Nov. 8, 1862
 B.N. Secton
 Clerk</p>
-
 
 </div1>
     

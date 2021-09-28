@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0387.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0387.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James Robinson v. Territory of Washington. Forefit of Judge's Dockett.</title>
+<title>James Robinson v. Territory of Washington. Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0387.003</idno>
+<idno type="project">hc.case.wa.0387.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Robinson v. Territory of Washington. Forefit of Judge's Dockett.</title>
-<date when="1862-11-08">November 8, 1862</date>
+<title level="m" type="main">James Robinson v. Territory of Washington. Writ.</title>
+<date when="1862-06-20">June 20, 1862</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1890</collection>
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
 <idno>WAL 189</idno>
 </msIdentifier>
 </msDesc>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1862-11">November 1862</date></term>
+<term><date when="1862-06">June 1862</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -87,10 +87,6 @@
 
 <keywords scheme="lcsh" n="people">
 <term>Porter, G. N.</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
-<term>Horton, W. P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -143,45 +139,59 @@
 
 <pb/>
 <p>Territory of Washington 
-County of Walla Walla } ss</p>
-<p>Territory Pff
-vs
-James Robinson deft</p>
-<p>Now on this 19th
-day of June 1862 comes G.H. Porter
-and makes complaint against said
-Deft. charging him of having on or
-about the 12th day of June 1862 at
-said County committed the crime of
-Grand Larceny. Trial set for June
-the 20th 1862 2.0.C A.M. _ Parties application
-court when the cause was adjourned 
-for two days. Before the expiration of
-said time, the deft escaped.</p>
-<p>Justice fees $2.50
-Sheriffs " } W.P. Horton 
-Justice of the Peace</p>
-<p>Territory of Washington
-County of Walla Walla } ss.</p>
-<p>I do hereby certify
-that the foregoing is a true and correct
-copy of said cause as it appears
-upon my Dockett, as witness my
-hand this 17th day of Oct AD 1862</p>
-<ab>W.P. Horton
-Justice of the Peace</ab>
+County of Walla Walla } s.s.</p>
+<p>To the Sheriff of the County of Walla
+Walla, Greeting: -</p>
+<p>Whereas an application has been
+made, pursuent to law, to the Hon. E. P.
+Oliphant Judge of the District Court, First
+Judicial Districrt <add>of said Terrritory,</add> by James Robinson, in your
+custody, for a writ of Habeas Corpus, and
+alleging in said application or complaint
+that the said James Robinson is wrongfully
+and unlawfully restrained of
+his liberty and the order for the issuing 
+of the writ of Habeas Corpus aforesaid
+having been granted and allowed
+this day by the said E.P. Oliphant,
+Judge as aforesaid as appears 
+<del><unclear/></del> by complaint and order on file
+in my office, sow, therefore, in the
+name of the United States, and by
+the authority aforesaid, you are hereby
+commanded to have the body of
+the said James Robinson before the
+said <add>Hon.</add> E.P. Oliphant, Judge, as aforesaid
+at the Clerks Office, in the city of
+Walla Walla, County and Territory
 <pb/>
-<p>Territory
-v.s.
-J Robinson</p>
-<p>Forefit 
-of 
-Justice's Dockett</p>
-<p>Filed Nov. 8 1862
-B.N. Secton
-Clerk</p>
-
-
+aforesaid on Friday the 20th day
+of June A.D. 1862, at ten o'clock,
+A.M. of said say, togetheer with
+the causes and reasons whereof the
+said James Robinson is restrained of
+his liberty, and have then <add>and</add> there also
+this writ.</p>
+<p>In witness whereof I have 
+hereinto set my hand and
+affixed the seal of said Court,
+this 19th day of June, A.D. 1862.</p>
+<ab>B.N. Secton
+Clerk of said Court</ab>
+<p>Territory of Washington
+vs
+James Robinson</p>
+<p>Writ of Habeas Corpus</p>
+<p>June 20, 1862 <unclear/>
+that the defendant 
+is to have a hearing before
+Justice Horton this
+day ato 2 O.C. P.M. time
+appointed, before this is
+<unclear/> of this writ, the
+hearing thereof is suspended.</p>
+<ab>E.P. Oliphant
+Also Just. at Court W.T.</ab>
 </div1>
     
 </body>
