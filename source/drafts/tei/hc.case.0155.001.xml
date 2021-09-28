@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0471.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Salfest A. Sylvester v. Stener S. Wenaas. Appearance</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0471.002</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Salfest A. Sylvester v. Stener S. Wenaas. Appearance</title>
-<date when="1899-06-26">June 26, 1899</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,12 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1899-06">June 1899</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Matthew, H. M.</term>
-<term>Ayres, A. Reeves</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,33 +94,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Sylvester, Salfest A.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Wenaas, Stener S.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Albertson, R. B.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>McElroy, James F.</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Hanford, C. H.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Circuit Court of the United States for the District of Washington, Northern Division</orgName>
-<placeName>District of Washington, Northern Division</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#sjs">transcribed and encoded</change>
+<change when="2021-09" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,47 +135,44 @@
 
 <pb/>
 
-<ab>United States Circuit Court for the District of Washington.</ab>
+<p>Seattle, Washington, July 26, 1901</p>
 
-<ab>In re application of
-Salfest A. Sylvester
-for Writ of Habeas
-Corpus</ab>
+<p>In re Charles W. Nordstrom</p>
+<p>Mr. James Hamilton Lewis</p>
+<p>Attorney for Petitioner</p>
 
-<ab>No. 
-Appearance.</ab>
+<p>Sir:-
+       
+       I return to you, enclosed herewith, the papers in the above entitled matter,
+       which you placed in my hands this day, and I must decline to sign the order
+       which you have requested.</p>
 
-<p>To the Clerk of the above Entitled Court:</p>
+<p>
+       This case having become notorious by the frequency of its appearance before
+       the courts, I am justified in saying that the present application is without merit,
+       and I consider that your contemplated proceeding has but one tendency, and
+       that is, subversive of the laws of the country. I have heretofore twice refused to
+       grant a writ of habeas corpus in behalf of Nordstrom, and the Supreme Court
+       of the United States has in both instances sustained my rulings.</p>
 
-<p>You will please enter my appearance as attorney 
-for petitioner
-in the above entitled cause</p>
+<p>
+       I will not sign another order, either granting or refusing to grant another petition,
+       nor listen to any argument you may wish to present in behalf of this petitioner, 
+       nor will I alow another appeal, which may be made a pretext for further delay in 
+       executing the sentence of the law in his case. My purpose is to break the endless
+       chain of repeated applications and appeals which makes the administration of
+       the criminal laws a judicial force.</p>
 
-<ab>R. B. Albertson</ab>
+<p>You have my consent to use this letter in any way.</p>
 
-<pb/>
+<p>Respectfully,
 
-<ab>Tx</ab>
+       C.H. Hanford,
+       U.S. District Judge</p>
 
-<ab>G O B 6-134.</ab>
-
-<ab>No. 776</ab>
-
-<ab>United States Circuit Court
-District of Washington.</ab>
-
-<ab>In re:
-Salfest W Sylvester
-Petitioner</ab>
-
-<ab>Appearance.</ab>
-
-<ab>Filed June 26 1899
-A Reeves Ayres Clerk.</ab>
-
-<ab>H M Matthew
-Deputy Clerk.</ab>
-
+<p>Filled in the U.S. Circuit court
+       Dist. of Washington Aug 8 1901
+       A. Reeves Ayres, Clerk, H.M. Walthew, Dep.</p>
 
 </div1>
     
