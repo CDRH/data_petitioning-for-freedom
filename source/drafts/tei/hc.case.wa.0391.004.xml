@@ -77,15 +77,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1863-05"></date>18 May 1863</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>H. Stone</term>
+<term>L. Moullan</term>
+<term>William Adams</term>
+<term>B.N. Sexton</term>
+<term>Frank Stone</term>
+<term>E.B. Whitman</term>
+<term>H.B. Lane</term>
+<term>L. Rector</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Walla Walla County, Washington Territory</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Washington Territory</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>William Adams</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
@@ -119,7 +126,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -151,10 +158,10 @@ tho within subpeona by reading
 <unclear></unclear> on this 4th day of May 1863 A.D. in Walla 
 Walla CO. WT.
 E.B. Whitman, Sheriff
-By H.B. Lane <unclear></unclear></p>
+By H.B. Lane under Sheriff</p>
 <p>Filed May 8th 1863 
 B.N. Sexton Clerk 
-by <unclear></unclear> Deputy Clerk</p>
+by L. Rector Deputy Clerk</p>
 
 </div1>
     
