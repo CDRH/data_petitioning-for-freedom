@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.003">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Paredes, Rosalia." xml:id="rp">Rosalia Paredes</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -78,18 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">October 1869</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Kennedy, James K.</term>
-<term>McAuliff, James</term>
-<term>Reynolds, R. P.</term>
-<term>Suelling, John</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla County</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -97,10 +94,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>John Suelling</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -109,14 +106,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>James K. Kennedy</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
 <orgName></orgName>
-<placeName>Walla Walla County, Territory of Washington</placeName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -137,43 +134,7 @@
 <div1 type="case">
 
 <pb/>
-<p>Territory of Washington
-County Walla Walla } SS</p>
 
-<p>Before me, James K. Kennedy, Judge 
-of the 1st judicial district of Washington
-Territory, personally appeared
-this 13th day of October, 1869, James McAuliff, 
-Sheriff of Walla Walla County, who 
-makes oath and says that he has reason
-to believe, and verily does believe
-that one John Suelling committed the crime 
-of Grand Larceny in the County of Umatilla,
-State of Oregon, in the latter part of the 
-year 1868; that he was committed to the 
-County jail of said county on said charge,
-that he sawed his way out of said jail,
-and made his escape therefrom, and
-is now a fugitive from justice; that the 
-Sheriff of Umalilla County has made 
-an application to the Governor of the 
-State of Oregon for a requisition on the 
-Governor of Washington Territory for the
-body of the said John Suelling to answer
-said charge.</p>
-<ab>James McAuliff</ab>
-<p>Subscribed and sworn
-before me this 13th day of
-October, A. D. 1869</p>
-<ab>James K. Kennedy
-Judge &amp;c.</ab>
-
-<p>Aff of 
-James McAullif</p>
-
-<p>Filed Oct. 13th 69</p>
-<ab>R P Reynold
-Clerk</ab>
 
 </div1>
     

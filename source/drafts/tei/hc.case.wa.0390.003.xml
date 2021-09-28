@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.002.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.003">
     
 <teiHeader>
 <fileDesc>
@@ -78,20 +78,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">October 1869</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Doe, John</term>
-<term>Frush, Charles W.</term>
-<term>Kennedy, James K.</term>
-<term>Mullen, L. A.</term>
-<term>Ross, E. C.</term>
+<term></term>
+<term></term>
+<term></term>
+<term>Reynolds, R. P.</term>
 <term>Suelling, John</term>
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla County</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -99,21 +99,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>John Doe</persName>
 <persName>John Suelling</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Mullan, L. A.</persName>
-<persName>Ross, E. C.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>James K. Kennedy</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -141,106 +139,87 @@
 <div1 type="case">
 
 <pb/>
-<p>In the District Court of the
-First Judicial District W. T.
-on and for Walla Walla County</p>
-<p>In the matter of application of 
-John Doe
-for a writ of Habeas Corpus/</p>
-<p>To the Hon. James K. Kennedy Judge
-of said court</p>
-<p>The petition of John Doe, an Indian,
-respectfully shows:</p>
-<p>1st. That he The <del>the</del> said John Doe
-is unlawfully restrained of his
-liberty - is unlawfully confined
-imprisoned and detained by one
-James McAuliff sheriff of 
-Walla Walla County, W. T., and 
-is now imprisoned and held
-by said McAuliff in the 
-County jail of Walla Walla 
-County, W. T.</p>
-<p>2nd. That the said imprisonment, 
-detainment, confinement adn 
-restraint is illegal.</p>
-<p>3rd. That this affiant does not 
-know of the cause of said
-restraint or illegality or pre-
-tense for the same.</p>
-<p>4th. That this petitioner has not
-committed any crimes or
-violation of the statutes of 
-Wash. Territory, nor has 
-he been arrested or com-
-mitted by any committing 
-magistrate for the same
-nor is he now held by the order
-of any Court or committing 
-magistrate of Washington Territory,
-wherefore your petitioner prays
-that a writ of Habeas Corpus 
-may be granted, directed to
-said James McAuliff, sheriff
-of aforesaid commanding him 
-to have the body of your petitioner
-before your honor at a time
-and place therein to be specified
-<pb/>
-to do and receive what 
-shall then and there be
-considered by Your honor 
-concerning your petitioner 
-together with the time and 
-cause of his detention
-and said with; and 
-that your petitioner may
-be returned his liberty.</p>
-<p>Dated
-Oct. 13/69</p>
-<ab>L. A. Mullen &amp;
-E. C. Ross attys
-for Petitioner</ab>
-<p>Territory of Washington
-County of Walla Walla } SS</p>
-<p>L. A. Mullan
-being first duly sworn says 
-that he is the <add>atty of the</add> petitioner named
-in the foregoing petition, and that 
-he knows the content of the 
-foregoing petitionand that teh 
-same is true and verily believes</p>
-<ab>L. A Mullan</ab>
-<pb/>
-<p>Subscribed and sworn to before 
-me this 13th day of Oct. 1869</p>
-<ab>Chals W Frush
-Justice of Peace</ab>
+<p>Examination</p>
 
+<p>Filed Oct. 13th, 69 </p>
+<ab>R. P. Reynolds
+Clerk</ab>
+<pb/>
 <p>Territory of Washington
 County of Walla Walla } SS</p>
-<p>To James McAuliff, Sheriff of Walla 
-Walla County, you are hereby commanded 
-to have the body of the within 
-named, John Doe, before me at 
-the Court house in Walla Walla, at
-3 o clock of the afternoon of this, the
-13th day of October, 1869, together with
-the cause of his detention. if any you have.</p>
-<p>Witness my hand, the day and 
-year above written.</p>
-<ab>James K. Kennedy
-Judge SS.</ab>
+<p>At Chambers, October 13th, 1869,
+before James K. Kennedy, Judge 1st
+judicial district.</p>
+<p>James McAuliff, Sheriff of Walla 
+Walla County makes affidavit 
+filed therein charging John Suelling
+with committing the crime of
+Grand Larceny in Umatilla County,
+State of Oregon, in the latter part
+of the year 1868, and escaping
+from the County Jail, to which he
+had been committed, and that 
+he <del>was</del> is a fugitive from justice,
+liable to be demanded by the Governor
+of Oregron, from the Governor 
+of Washington Territory.</p>
+<p>The defendand <add>John Suelling</add> was brought before
+me, and cautioned to say nothing
+to incriminate himself; his position
+was fully explained to him.</p>
+<p>He then voluntarily stated that 
+he had been committed to the jail
+of Umatilla County to answer the
+offense of larceny.</p>
+<p>James McAuliff was then sworn,
+and testified as follows.</p>
+<p>The prisoner, John Suelling,
 <pb/>
-<p>In the matter of 
-application of 
-for a writ of
-Habeas Corpus
-In Dis. Court
-1 st Jud. Dist. W. T.</p>
-<p>Filed Oct. 13th, 69</p>
-<ab>R. P. Reynolds
-Petitioner attys.</ab>
+voluntarily stated to me tha he 
+broke out of the jail of Umatilla
+County, Oregon, by sawing his way
+out with a saw which some person
+from the outside had given 
+him. The Sheriff of Umatilla County is now
+<add> <del>about to</del> gone to get a requisition for hiim</add></p>
+<p>Subscribed and sworn 
+before me this 13th day 
+of October 1869</p>
+<ab>James McAuliff</ab>
+
+<p>Whereupon the prisoner was ordered 
+to enter into recognizance, conditioned
+for his appearandce on or before the 
+31st day October 1869, to answer any
+demand that might be made for his
+body on a requisition, in the sum
+of five hundred dollars, or be 
+committed in default, to the County
+Jail of Walla Walla County till
+said day.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div1>
     
 </body>
