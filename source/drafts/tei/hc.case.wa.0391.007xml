@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0391.007"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0391.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0391.007</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. William Adams. Bond.</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Territory of Washington v. William Adams.Indictment.</title><!-- replace with name of case; type of document -->
 <date when="2021-09-28">September 28, 2021</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Washington State Archives, Eastern Regional Branch</repository><!-- insert name of repository -->
-<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection><!-- insert name of collection -->
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -82,12 +82,16 @@
     
 <keywords scheme="lcsh" n="people">
 <term>William Adams</term>
-<term>Bennett N. Sexton</term>
-<term>John A. Monroe</term><!-- insert names of other people mentioned in document -->
+<term>Frank Stone</term>
+<term>L. Moullan</term> 
+<term>W. G. Langford</term>
+<term>C.H. Armstrong</term>
+<!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Walla Walla, Washington</term> <!-- insert places mentioned -->
+<term>Territory of Washington</term>
+<term>First District Court of Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -101,7 +105,7 @@
 <persName>William Adams</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>W.G. Langford</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName><!-- insert name of attorney, if known -->
@@ -132,48 +136,47 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0391.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.wa.0391.007"/> <!-- insert number from spreadhseet -->
+<p>Territory of Washington  District Court
+Walla Walla County }    First Judcial District</p>
+<p>Territory of Washington pet.
+v. 
+William Adams   def. }</p>
+<p>At a <unclear>regular term</unclear>
+of the District Court <add>first judicial district</add> begun and held at 
+Walla Walla County territory of Washington on 
+the 24th day of April A.D. 1863 . 
+The grand jurors good and lawful 
+men duly elected impaneled sworn
+and charged to inquire in and 
+for the body the district aforesaid an
+their<unclear></unclear> that Willam 
+Addams laboror of Walla Walla 
+county district of Washington at said <gap></gap></p>
+<pb/>
+<p>W.G. Langford
+prosecuting Atty </p>
+
+<p>Indictment
+<del></del>
+<del></del></p>
 <p>Territory 
 vs. 
-Wm Adams</p>
-<p>Bond</p>
-<p>Filed May 5, 1863</p>
-<p>B.N. Sexton</p>
-<p>Clerk</p> 
-
-<!-- Not the first page of doc, but the back of the first one -->
-<pb></pb>
-<p>Know all men by there present that 
-we Wm Adams as principal and 
-John A. Monroe as surety are held 
-and firmly bound with the Territory of Washington,
-in the final sum of three hundred 
-dollars lawful money of the the United States, 
-the payment of which well and truly to be 
-made we bind <del></del> ourselves our
-heirs, executors and administrators, firmly 
-by there present signed with our seals 
-and dated this 5th day of May A.D. 1863</p>
-<p>The Conditions of the above obligation is 
-such that whereas,the said William Adams 
-has been indicted for the crimes of an assault 
-and Battery. Now, if the said William Adams
-shall adhere and abide the order of the Court 
-and not depart the court without leave then
-from, then this obligation shall be void, 
-otherwise to remain in full force and effect 
-Witness our hands and seals this 
-5th day of May, A.D. 1863</p>
-<p>William Adams</p> <figure><p>seal</p></figure>
-<p><unclear>John A. Monroe</unclear></p> <figure><p>seal</p></figure>
-<figure><p>seal</p></figure>
-<p>Surety justified 
-and Bond approved
-this 5th day of May 1863 
-B.N. Sexton Clerk</p>
-<pb/>
-
-
+Addams 
+</p>
+<p>Assault and Battery</p>
+<p> a true Bill
+C. H. Armstrong
+foreman</p>
+<p>Witnesses
+F. Stone 
+L. Mullen</p>
+<p>Filed this 5th day of 
+May 1863
+B.N. Sexton 
+Clerk</p>
+<p>W.G. Langford
+Pors. Atty</p>
 </div1>
     
 </body>

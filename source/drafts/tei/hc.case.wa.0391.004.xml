@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>Territory of Washington v. William Adams</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0391.004</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Territory of Washington v. William Adams. Subpoena.</title><!-- replace with name of case; type of document -->
+<date when="2021-09-28">September 28, 2021</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>Washington State Archives, Eastern Regional Branch</repository><!-- insert name of repository -->
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1863-05"></date>18 May 1863</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>H. Stone</term>
+<term>L. Moullan</term>
+<term>William Adams</term>
+<term>B.N. Sexton</term>
+<term>Frank Stone</term>
+<term>E.B. Whitman</term>
+<term>H.B. Lane</term>
+<term>L. Rector</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Walla Walla County, Washington Territory</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Washington Territory</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>William Adams</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
@@ -111,15 +118,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>U.S. District Court First Judicial District Washington Territory</orgName> <!-- insert court name -->
+<placeName>Walla Walla County, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2021" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -151,10 +158,10 @@ tho within subpeona by reading
 <unclear></unclear> on this 4th day of May 1863 A.D. in Walla 
 Walla CO. WT.
 E.B. Whitman, Sheriff
-By H.B. Lane <unclear></unclear></p>
+By H.B. Lane under Sheriff</p>
 <p>Filed May 8th 1863 
 B.N. Sexton Clerk 
-by <unclear></unclear> Deputy Clerk</p>
+by L. Rector Deputy Clerk</p>
 
 </div1>
     
