@@ -45,13 +45,13 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Nick Mordevich v. Joseph Jacoby of the US Marshall.Appearance.</title><!-- replace with name of case; type of document -->
-<date when="2021-09-30">September 30, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<date when="2021-10-05">October 05, 2021</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection><!-- insert name of collection -->
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,24 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1912-04"></date>29 April 1912</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>Nick Mordevich</term>
+<term>Joseph Jacoby</term>
+<term>David Bellingham</term>
+<term>S.M. Bruce</term>
+<term>Mitchells</term>
+<term>A.N. Engle</term>
+<term>D. Deputy</term>
+<term>Daniel L. Westcatt</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Western District of Washington</term>
+<term>First National Bank</term>
+<term>Washington</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,13 +102,14 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>Nick Mordevich</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Joseph Jacoby</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>Daniel Westcatt</persName>
+<persName>S.M. Bruce</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName><!-- insert name of attorney, if known -->
@@ -111,8 +121,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court for the Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Western District of Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
@@ -141,7 +151,7 @@ entitled cause, and service of all subsequent papers, except writs and process, 
 petition, by leaving the same with 
 S.M Bruce</p>
 <p>Office Address First Nat. Bank
-David <add>Bellingham</add> &amp; <unclear>Mustcalls</unclear> attys
+David <add>Bellingham</add> &amp; Mitchells attys
 at Tacoma</p>
 <p>NOTICE:-ATTORNEYS WILL PLEASE ENDORSE THEIR OWN FILINGS. RULE 11.</p>
 <pb></pb> 
