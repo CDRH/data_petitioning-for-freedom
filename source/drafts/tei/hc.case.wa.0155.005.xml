@@ -51,9 +51,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division 1899-1906, vol 2</collection>
+<idno>951CharlesNordstrom</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -94,33 +94,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Nordstrom, Charles W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cudihee, Edward</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis, James Hamilton</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Soderberg, Nils</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Palmer, Edward</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States Circuit Court For Ninth Judicial Circuit</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
