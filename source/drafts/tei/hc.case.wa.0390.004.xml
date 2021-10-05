@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.004.xml">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -78,15 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1000-01">October 1869</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Doe, John</term>
+<term>Frush, Charles W.</term>
+<term>Kennedy, James K</term>
+<term>McAuliff, James</term>
+<term>Reynolds. R. P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Walla Walla County, Washington Territory</term>
 </keywords>
 
 </textClass>
@@ -94,19 +98,20 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Suelling, John</persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>L. A. Mullan</persName>
+<persName>E. C. Ross</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>James K. Kennedy</persName>
 </person>
 </listPerson>
             
@@ -134,34 +139,78 @@
 <div1 type="case">
 
 <pb/>
-
-<p>In the Circuit Court of the United States
-       District of Washington Northern Division</p>
-
-<p>In the matter of the petition of Charles W. Nordstrom for writ of Habeas Corpus and writ thereon</p>
-
-<p>Filed in the U.S. Circuit Court Aug 8 1901</p>
-<p>A. Reeves Ayres, Clerk</p>
-
-<p>James Hamilton Lewis, Attorney for Petitioner</p>
-
-<p>Offices: Fourth Floor Pioneer Block. Corner First Ave. and James St. Seattle, Wash.</p>
-
+<p>Territory of Washington
+County of Walla Walla } SS</p>
+<p>To the Hon Jas K Kennedy
+Judge of the District Court of teh 1st 
+judicial District W. T.
+as per writ of Habeas Corpus served
+on me as Sheriff of Walla Walla County
+W. T. by R. P. Reynolds Clerk of teh 
+District Court of the 1st Judicial
+District W. T. to show cause why
+one John Doe was restrained in 
+the jail of Walla Walla County W. T.</p>
+<p>1st That the said John Doe is a fugitive
+from justice from Umatilla County 
+Oregon</p>
+<p>2nd That the said John Doe broke jail
+from Umatilla County Oregon some
+time in the winter of 1868 or 1869</p>
+<p>3rd That in or about the 5th or 6th day of
+September 1869 I filed an affidavit
+with Charles W. Frush, Justice of the
+Peace in and for Walla Walla County 
+that the said John Doe was a fugitive 
+from justice from said Umatilla
+County Oregon on which the
+said justice issued a warrant
+for teh arrest of the said John Doe
 <pb/>
-
-<p>United States of America
-       District of Washington</p>
-
-<p>James Hamilton Lewis being duly sworn, deposes and says that he is Attorney in the foregoing Petitions; that he has read the same,
-       and knows the contents theoreof, and that the same is true to his belief that he makes this verification because the sections in <unclear></unclear>
-       
-       James Hamilton Lewis
-       Subscribed and sworn to before me this 25 day of July 1901,</p>
-
-<p>A.J. McBride
-       Notary Public in and for the State of Washington, Residence at Seattle</p>
-
-
+and in persuance of said warrant
+the said John Doe was arrested
+by me as Sheriff of Walla Walla 
+County in or about the 5th or 6th day
+of September 1869</p>
+<p>4th And in the arrest being made
+of his own free will acknowledged
+that he did broke jail from
+Umatilla County in the winter
+of 1868 &amp; 1869</p>
+<p>5th That the said John Doe was committed 
+to the County jail of Walla 
+Walla County W. T. to await a 
+Requisition from the Governor of 
+Washington Territory. Said commitment
+was until the 12th day of 
+October 1869</p>
+<p>6th that as there was no Requisition
+arrived by request of Thompsom
+Sheriff of Umatilla County Oregon
+on the 13th day of October 1869 I made
+a further affidavit for the said 
+John Doe commitment until
+the 31st day of October 1869 which
+was granted by the above named
+Chal W. Frush Justice of the 
+Peace</p>
+<p>7th That the said John Doe was 
+confined in the County jail
+<pb/>
+of Umatilla County Oregon
+on the charge of Grand Larceny 
+to await the acton of the
+Grand Jury of said County</p>
+<p>8th Deference is made to the papers
+in the care which is now
+on file in the office of C. W.
+Frush Justice of the Peace</p>
+<ab>James McAuliff</ab>
+<p>Subscribed and sworn to before
+me this 13th day of Oct. 1869</p>
+<ab>R P Reynolds
+Clerk</ab>
+    
 </div1>
     
 </body>

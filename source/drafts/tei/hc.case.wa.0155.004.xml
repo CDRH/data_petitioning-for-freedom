@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Type of document</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0131.006</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White. Type of document</title>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
 <date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1537-06</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -95,7 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>White, Sterling P.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -113,15 +112,15 @@
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#brh">transcribed and encoded</change>
+<change when="2021-09" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,39 +133,44 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0131.006"/>
-<p>Territory of Washington
-County of Lincoln}ss
-To any constable, and the keeper of the Jail of said co.
-Whereas S. White of Sherman has been brought 
-this day before the undersigned one of the Justice
-of the Peace in and for said county, charged 
-by the Coroners Jury with having on the 25th
-day of December 1884, in said county
-committed the offence of causing the death
-of A.L. Beardon by a pistol shot, and in
-progress of the trial of said charge, it appear-
-ing to the said Justice that the said S. White
-has been guilty of the offense of shooting the
-aforesaid A.L. Beardon committed at the 
-time and place aforesaid, therefore in
-the name of the United States you are
-hereby commanded to receive the said
-S. White into your custody in the said
-jail, and him there safely keep until he
-be discharged due course of law.
-Given under my hand this 5th day
-of January A.D. 1885
-J.W. Carpenter
-Justice of the Peace.</p>
+<pb/>
+
+<p>No. 951</p>
+
+<p>United States Circuit Court</p>
+<p>District of Washington</p>
+
+<p>Char. W. Norstrom Peition for Habeas Corpus</p>
+<p>v.</p>
+<p>Edw. Cudahee Sheriff King County</p>
+
+<p>Appearance</p>
+
+<p>Filed In The U.S. Circuit Court of Washington</p>
+<p>AUG 8 1901, A. Reeves Ayres, Clerk</p>
+<p>HM Matthew, Deputy Clerk</p>
+
+<p>James Hamilton Lewis For Petitioner</p>
 
 <pb/>
 
-<p>Filed Fed. 17th 1885
-Kate W. Feauerbach
-Clerk</p>
+<p>United States Circuit Court For the District of Washington</p>
 
+<p>In the matter of the Petition of Char. W. Nordstrom for petition w Habeas Corpus and relief thereon</p>
 
+<p>v.</p>
+
+<p>against Ed. W. Cudahee Sheriff of King County Wash</p>
+
+<p>To the Clerk of the above entitled court:</p>
+
+<p>You will please enter my appearance as Counsel for Petitioner Char. W. Nordstrom
+       in above entitled cause wherein the petitioner seeks writ of Habeas Corpus and relief
+       thereon imprisonment as prayed thereon</p>
+
+<p>James Hamilton Lewis</p>
+
+<p>Notice-Attorneys will please endorese their own Filings. Rule 47.</p>
 
 </div1>
     

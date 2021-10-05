@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Type of document</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0131.006</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White. Type of document</title>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
 <date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1537-06</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -95,7 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>White, Sterling P.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -113,15 +112,15 @@
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#brh">transcribed and encoded</change>
+<change when="2021-09" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,37 +133,46 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0131.006"/>
-<p>Territory of Washington
-County of Lincoln}ss
-To any constable, and the keeper of the Jail of said co.
-Whereas S. White of Sherman has been brought 
-this day before the undersigned one of the Justice
-of the Peace in and for said county, charged 
-by the Coroners Jury with having on the 25th
-day of December 1884, in said county
-committed the offence of causing the death
-of A.L. Beardon by a pistol shot, and in
-progress of the trial of said charge, it appear-
-ing to the said Justice that the said S. White
-has been guilty of the offense of shooting the
-aforesaid A.L. Beardon committed at the 
-time and place aforesaid, therefore in
-the name of the United States you are
-hereby commanded to receive the said
-S. White into your custody in the said
-jail, and him there safely keep until he
-be discharged due course of law.
-Given under my hand this 5th day
-of January A.D. 1885
-J.W. Carpenter
-Justice of the Peace.</p>
+<pb/>
+
+<p>No. 951</p>
+
+<p>In The Circuit Court of the United States</p>
+
+<p>In re Char W Nordstrom for Habeas Corpus v. Ed W. Cudahee</p>
+<p>Letter of Hon. C.H. Hanford declining to issue writ</p>
+
+<p>Filed in the U.S. CIrcuit Court, Dist. of Washington AUG 8 1901. A Reeves Ayres, Clerk</p>
+<p>By HM Matthew. Deputy</p>
 
 <pb/>
 
-<p>Filed Fed. 17th 1885
-Kate W. Feauerbach
-Clerk</p>
+<p>Seattle, Washington, July 26, 1901</p>
+
+<p>In re Charles W. Nordstrom</p>
+<p>Mr. James Hamilton Lewis, Attorney for Petitioner</p>
+
+<p>Sir:-</p>
+
+<p>I return to you, enclosed herewith, the papers in the above entitled matter, which you place in my hands this day, 
+       and I must decline to sign the order which you have requested.</p>
+
+<p>This case having become nororious by the frequency of its appearance before the courts, I am justifited in saying
+       that, the present application is without merit, and I consider that your comtemplated proceeding has but one tendency,
+       and that is, subversive of the laws of the country. I have heretofore twice refused to grant a writ of habeas corpus in
+       behalf of Nordstrom, and the Supreme Court of the United States has in both instances sustained my rulings.</p>
+
+<p>I will not sign another order, either granting or refusing to grant another petition, nor listen to any argument you may wish
+       to present in behalf of thi petitioner, nor will I allow another appeal, which may be made a pretext for further delay in 
+       executing the sentence of the law in his case. My purpose is to break the endless chain of repeated applications and
+       appeals which makes the administration of the criminal laws a judicial force.</p>
+
+<p>You have my consent to use this letter in any way.</p>
+
+<p>Respectfully, 
+       C.H. Hanford
+       U.S. District Judge</p>
+
 
 
 
