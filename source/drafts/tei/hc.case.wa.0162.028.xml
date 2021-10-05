@@ -6,7 +6,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ray Raymond v. Territory of Washington. Subpoena</title><principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<title>Ray Raymond v. Territory of Washington. Subpoena</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
@@ -54,7 +55,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Ray Raymond v. Territory of Washington. Subpoena</title>
-<date when="1887"> May 26, 1887</date>
+<date when="1887-05-26">May 26, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -90,15 +91,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Raymond, Ray</term>
-<term>Duncan, A.J.</term>
-<term>Clement, D.A</term>
+<term>Duncan, A. J.</term>
+<term>Clement, D. A.</term>
 <term>Allison</term>
-<term>E.F. Whittier</term>
+<term>Whittier, E. F.</term>
 <term>Shea, J.</term>
 <term>Gillespie, James</term>
-<term>Paul, J.J.L.</term>
-<term>Ready, M.</term>
+<term>Peel, J. J. L.</term>
+<term>McReady, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -131,8 +131,8 @@
 
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -154,10 +154,10 @@
 <pb facs="hc.case.wa.0162.028"/>
 
 <p>Territory of Washington
-County of Spokane}ss</p>
+County of Spokane} ss</p>
 
-<p>Territory, Plaintiff
-vs.
+<p>Territory, Plaintiff<lb/>
+vs.<lb/>
 Ray Raymond, Defendant}
 In the District Court of the Territory of Washington in and for the Fourth
 Judicial District thereof, holding terms at Spokane Falls, Spokane
@@ -166,12 +166,10 @@ County, in said Territory.</p>
 <p>To the Sheriff of Spokane County, Greeting:</p>
 
 <p>In the name of the United States, you are hereby commanded to summon
-J.J.L. Paul. Dr. Allison
-E.F. Whittier Wm. M. Ready,
-J. Shea</p>
-
-<p>to be and appear before the District Court, at the Court House in Spokane Falls, in said County, on the forthwith
-day of May A.D. 1887, at o'clock M. to here give evidence in the above entitled
+J.J.L. Peel. Dr. Allison
+E.F. Whittier Wm. McReady, <add>Richland</add>
+J. Shea to be and appear before the District Court, at the Court House in Spokane Falls, in said County, on the forthwith
+day of May A.D. 1887, at <gap/> o'clock <gap/> M. to here give evidence in the above entitled
 cause on part of said Territory there to remain until discharged.</p>
 
 <p>WITNESS the Hon. George Turner, Associate Justice of the Supreme Court of
@@ -180,14 +178,14 @@ this 26th day of May A.D. 1887</p>
 
 <p>D.A. Clement Clerk</p>
 
-<p>By Deputy.</p>
+<p>By <gap/> Deputy.</p>
 
-<figure></figure>
+<figure><p>District Court Washington Territory Spokane County Fourth Jud District</p></figure>
 
 <pb/>
 
 <p>Territory of Washington,
-County of Spokane}ss </p>
+County of Spokane} ss</p>
 
 <p>I hereby certify that I served the within Subpoena on the within named witness by reading the same to him 
 in said County, on this 30 day of May A.D. 1887.</p>
@@ -206,11 +204,9 @@ holding terms at Spokane Falls, Spokane County,
 in said Territory.</p>
 
 <p>Territory
-Plaintiff</p>
-
-<p>vs.</p>
-
-<p>Ray Raymond
+Plaintiff<lb/>
+vs.<lb/>
+Ray Raymond
 Defendant</p>
 
 <p>Returned and filed this 26th day of 
