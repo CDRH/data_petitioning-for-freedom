@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -96,33 +97,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Sylvester, Salfest A.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Wenaas, Stener S.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Albertson, R. B.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>McElroy, James F.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States for the District of Washington, Northern Division</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#sjs">transcribed and encoded</change>
+<change when="2021-10" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
