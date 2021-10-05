@@ -1,1 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Sterling P. White. Petition for Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0131.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. Sterling P. White. Petition for Habeas Corpus</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-06</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Carpenter, J. W.</term>
+<term>Friedlander, J. H.</term>
+
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Lincoln County, Washington</term>
+<term>Yakima, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName>Cody, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0131.007"/>
+<p>Territory of Washington
+County of Lincoln}ss.
+</p>
+<p>
+In the district court 
+of the 4th judicial district of
+Washington Territory holding terms
+at Yakima City.
+</p>
+
+<p>
+S.P. White
+Plaintiff}  Application
+vs.}           for writ of 
+John Cody Sheriff} Habeas Corpus
+of Lincoln County, W.T.}
+Defendant}
+</p>
+
+<p>
+To Hon. George Turner
+Judge of the above entitled court.
+The undersigned your
+petitioner would respectfully
+represent and show your Honor</p>
+
+<p>1st That he is a citizen of Lincoln County
+Washington Territory.</p>
+<p>2nd That your petitioner the above named
+plaintiff is restrained of his liberty
+under the name of S. White by
+John Cody, Sheriff of Lincoln County
+Wash. Ter. at this City of Spokane
+in said county and territory.</p>
+<p>3rd That the cause of such restraint is
+a pretended charge of murder in the
+first degree.</p>
+
+<pb/>
+
+<p>4th That said restraint is illegal in 
+this 1st That the pretended
+preliminary examination of your 
+petitioner before J.W. Carpenter
+a Justice of the Peace in Lincoln County
+Wash. Ter. was this letter than a
+farce being conducted and controlled
+by one J. H. Friedlander a Deputy 
+Sheriff who to all intents and
+purposes performed the duties of
+Justice of the Peace, Prosecuting Attorney
+and Deputy Sheriff.
+2nd That no charge of murder was
+never made against your petitioner.
+3rd That said Justice neglected to
+fix any bail for your petitioner or to 
+make any order affirmation or negotiate 
+in reflection thereto.
+4th That your petitioner has not been
+committed for any alleged crime
+and is now held unlawfully by 
+the said John Cody Sheriff upon 
+a pretended committment from
+said Carpenter which was not
+any where state ot allege for what 
+crime your petitioner is held.</p>
+
+<p>5th That your petitioner is wounded
+and in such physical condition</p>
+
+<pb/>
+
+<p>
+that close confinement in jail
+would be inhumane and dangerous
+to his health.</p>
+<p>
+6th That your petitioner is ready and 
+willing to give any reasonable bail
+for his appearance at such
+time and place and before 
+such tribunal as your Honor
+shall decide as soon as he shall 
+be informed of the crime with
+which he is charged.
+</p>
+<p>
+Respectfully submitted
+S.P. White</p>
+
+<p>W.H. Smallwood
+E.F. Benson} Attys. for petitioner.</p>
+
+<p>Territory of Washington
+County of Lincoln
+S.P. White</p>
+<p>being duly sworn says I am the
+identified S.P. White who made
+and subscribed the above and fore-
+going petition which I have read 
+and all the matters and things therein
+S.P. White
+Sworn to and subscribed before me
+this 2d day of February A.D.
+1885
+W.H. Smallwood
+H. Flay Rubbe
+<seal></seal>
+To the clerk of the District Court for the fourth
+judicial district, holding terms at Yakima City.
+See the writ issue as managed for in
+the petition, refusable before we
+at Spokane W.T. on Tuesday February
+10th 1885.
+George Turner
+Judge
+
+Spokane W.T. Feb. 13 1885
+After hearing evidence for this territory
+and the defendant as follows guilt or
+innocence at the prison. I am of
+opinion that there is probable cause
+to believe he is guilty. The said
+S.P. White is therefore recommitted to
+the nearest court sheriff without 
+privilege of bail.
+George Turner
+Judge</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
