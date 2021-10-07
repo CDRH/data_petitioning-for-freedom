@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Mary Miler v. United States of America. Decision.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0176.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,16 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Mary Miler v. United States of America. Decision.</title>
+<date when="1913-03-07">March 7, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration,
+Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection>
+<idno>2457MarieMiler</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,35 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-03">March 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Marchetti, Roger</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Fisher, Thomas M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>White, A. T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>DeBruler, Ellis</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Wilson, W. B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Washington D.C.</term>
 </keywords>
 
 </textClass>
@@ -94,16 +115,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Miler, Marie</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wright, Elias A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Brockway, E. B.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -112,15 +136,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>State of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -155,7 +179,7 @@ That the affidavit against her was made by a former partner to
 get rid of her to acquire her property. That she is about to
 be deported without due process of law and without an apportunity
 to be heard.</p>
-<p>The answe of the Commissioner of Immigration shows
+<p>The answer of the Commissioner of Immigration shows
 that the petitioner was arrested, charged with being an alien
 found in the United States in violation of the Act of Congress
 approved Feburary 20, 1907, as amended int eh Act approved 
@@ -165,7 +189,153 @@ derived benefits therefrom after she entered the United States";
 <pb/>
 that she ws thereafter examined on January 13, 1913, by an
 Inspector, under oath, as to her right to remain in the United States; that she was informed of her right to employ an attorney:</p>
-
+<p>"that she then stated that she would have a friend of hers
+get an attorney, and that she afterwards did employ an attorney,
+to-wit: One Roger Marchetti, to represent her, and that thereafter
+on numerous and aundry occasions said Inspector,
+Thos M. Fisher, and other members of the Department of Commerce
+and Labor, stationed at Seattle, Washington, endeavored
+to induce the said Roger Marchetti to present any other or
+further evidence which he might have touching the matter of
+said deportation, and finally, on March 5, 1913, A.T. White,
+Inspector of said Bureau, personally delievered to said Roger
+Marchetti a letter notifying him, the said Roger Marchetti,
+that further proceedings would be had in said matter on March 
+7, 1913, at the Detention House in Seattle, Washington, a failure
+on his part to appear would be considered as notice that
+he had no further evidence to produce, and that the record
+would then be submitted to the Secretary of Commerce and Labor
+for his decision, a copy of which letter is hereto attached
+and made a part hereof.</p>
+<p>"That on March 7, 1913, the said Roger Marchetti, informed
+the Inspector that he could not take the matter up that day,
+but would take it up the next morning without fail, and neither 
+the next morning, nor at any other time, did the said Roger
+Marchetti appear in said proceeding, or produce or offer to
+produce any other or further evidence, nor did the said Marie,
+or Mary, Miler, at any time offer to produce or procure any
+other or further evidence, and that thereupon the record of
+said proceeding, together with the report of the examining
+Inspector, and with the report of Commissioner Ellis DeBruler,
+was forwarded to the Department of lLabor at Washington, D.C.,
+and recieved by it, and said Department did then and there 
+carefully consider said matters, and on the 18th day of March,
+1913, said Department, and also W.B. Wilson, Secretary of
+Labor, became and were satisifed that said alien was one who
+had been found practicing prostitution and was a prostitute
+after her entry to the United States, and decided adversely
+to said alien, and order her deported to the country from
+whence she came."</p>
+<p>The answer and return further denies the jurisdiction of the
+court to review the acts of the Secretary of Commerce and
+Labor.</p>
+<p>Petitioner replying admits the arrest, but denies
+that she practiced prostitution. She alleges that it was not
+until after her examination that she was informed of her right 
+to be represented by an attorney. Denies that the Immigration
+officer gave notice of the proceedings to her attorney. Admits
+that her attorney did not produce any evidence to controvert
+the evidence produced against her. Alleges that she
+has been ready and willing at all times to produce further
+<fw>2</fw>
+<pb/>
+evidence to controvert the evidence produced against her, but
+has been prevented from so doing.</p>
+<p>The cause is now submitted upon the pleadings.</p>
+<p>C.F. Riddell, United States
+Attorney, and E.B. Brockway,
+Assistant United States Attorney.</p>
+<p>For Immigration Commissioner,
+Respondent.</p>
+<p>Elias A. Wright,
+for Petitioner.</p>
+<p>The petitioner relies upon the following authorities:-
+In re Morrow, 86 Fed., 117;
+Lavin vs. LePevre, 125 Fed., 693;
+Zakonaito vs. Wolf, 33 U.S. Sup.
+Ct. R., 311;
+DeBruler vs. Gallo, 184 Fed., 566;
+Chin Yow vs. U.S., 208 U.S., B;</p>
+<p>Respondent relies upon the following authorities;
+in addition to certain authorities cited by petitioner:-
+U.S. vs. Ju Toy, 198 U.S., 253;
+49 Law Ed., 1040;
+Bottlier v. Doneuguey, 130 U.S. 238;
+CYC. vol. 23, pp. 939, et. seq.</p>
+<p>Under Section 22 of the Act of Feburary 20, 1907,
+as amended March 26, 1910, the Commissioner-General of Immigration
+is required to make rules and regulations carrying out
+the provisions of the Act. Paragraph B. Subdivision 4 of Rule 22,
+so promulgated September 15, 1911, provides:-</p>
+<p>"During the course of the nearing the alien shall be allowed
+to inspect the warrant of arrest and all the evidence
+on which it was issued; and at such state thereof as the officer
+before whom the hearing is held shall deem proper, he
+shall be aprised that he may thereafter be represented by
+counsel and shall be required then and there to state whether
+he desires counsel or waives the same and his reply shall be
+entered on the record. If counsel be selected, he shall be
+permitted to be present during the further conduct of the hearing,
+to inspect and make a copy of the minutes of the hearing,
+so far as it has proceeded, and to offer evidence to meet any
+evidence theretofore or thereafter presented by the Government.
+Objections and exceptions of counsel shall not be entered on
+the record, but may be dealt with in an accompanying brief."</p>
+<fw>3</fw>
+<pb/>
+<p>It is not contended but that the evidence upon the hearing
+was sufficient to justify the warrant of deportation; but it
+is argued that, by being deprived of the benefit of counsel,
+petitioner, in effect, had no hearing.</p>
+<p>It is apparent from the petition, the return of
+the Commissioner and reply that petitioner was informed of
+her right to have counsel before the conclusion of her hearing:
+i.e., at the conclusion of the officer's examination,
+he informed her of her right to have an attorney, and held
+the hearing open for the purpose of receiving such testimony
+as she might offer. It may be that nothing further was actually
+heard, but the opportunity was afforded, and that is 
+all the law requires. It is alleged in her petition that
+she "had retained counsel before hearing". Therefore,
+she could not have been prejudiced by any delay in the notice.</p>
+<p>Enough is disclosed to show that petitioner has a 
+fair, if summary, hearing. If petitioner's attorney failed
+to be present at any of her hearings, it is nothing that
+respondent is charged, or shown to have been responsible for,
+nor any one concerned in the proceedings for deportation. 
+She has not been deprived of any right of appeal by the remissness 
+of her attorney, as has been argued, for there is
+no appeal. The order of deportation was issued by the Secretary
+of Commerce and Labor.</p>
+<p>The mere allegation in the reply that petitioner
+has been "prevented from producidng her evidence", is it means
+anything more than the failure of her attorney to serve her,
+is to meagre an allegation upon which to base a right, or
+excuse a default. It is a mere conclusion. Of the parties
+to the proceedings, petitioner, alone, is responsible for the
+neglect of her attorney. In any event, the action of the
+Secretary of Commerce and Labor in refusing to reopen the
+case on that account rests in his discretion and no such abuse
+of that discretion is shown as can be said to the oppressive 
+or arcitrary.</p>
+<p>The rule to show cause is discharged.</p>
+<fw>4</fw>
+<pb/>
+<p>2x No. 2457.</p>
+<p>In the District Court
+of the United States 
+for the
+Western District of Washington
+<add>Northern</add> <del>Southern</del> Division</p>
+<p>In the Matter of the Application
+of Marie Miler for a Writ of
+Habeas Corpus.</p>
+<p>Decision</p>
+<p>Filed in the U.S. District Court,
+Western Dist. of Washington.
+May 14, 1913
+Freank L. Crosby, Clerk,
+by Emrs Deputy</p>
 
 </div1>
     
