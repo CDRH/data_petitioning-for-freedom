@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0174.002.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0000.000</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">June 1912</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Baker, Rose</term>
+<term>Snook, Herbert E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court, Washington Northern Division</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Rose Baker</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert E. Snook</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>C. H. Hanford</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
+OF WASHINGTON NORTHERN DIVISION.</p>
+<p>In re Petition of Rose Baker 
+for a Writ of Habeas Corpus.</p>
+<p>No. 2185
+Affidavit in Forma Pauperis.</p>
+
+<p>State of Washington.
+SS.
+County of King.</p>
+<p>Rose Baker being first duly sworn on 
+oath says: That she is the petitioner above named; that she
+has no money nor property of any kind and cannot furnish the
+fees for filing her petition in said cause nor pay for the service
+of process. That she is a citizen of the United States and of 
+the state of Washington.</p>
+<p>WHEREFORE your petitioner respectfully prays that an order
+be made directing the clerk to file said petition, and directing
+the United States Marshal to serve the Writ of Habeas Corpus
+without fees being first paid.</p>
+<ab>Rose Baker.</ab>
+<p>Subscribed and sworn to before me this 6th day of June, A.D.1912.</p>
+<ab>Herbert E. Snook
+Notary Public in and for the State of 
+Washington residing at Seattle.</ab>
+<p>Let the petition befiled and the Writ be served without fee as 
+above prayed for, returnable before me June <gap/> at <gap/>
+o'clock in the <gap/> noon.
+Here this 6th day of June, A.D.1912.</p>
+<ab>United States District Judge.</ab>
+<pb/>
+<p>No 2185</p>
+<p>IN THE DISTRICT COURT 
+OF THE UNITED STATES 
+FOR THE 
+Western District of Washington
+NOWTHERN DIVISION</p>
+<p>In re Petition of Rose Baker 
+for a Writ of Habeas Corpus.</p>
+
+<p>Affidavit in Forma Pauperis.</p>
+
+<p>FILED IN THE 
+U. S.  District Court,
+Western Dist. of Washington.
+JUN 6f 1912</p>
+<ab>A W Engle Clerk
+By <unclear/> Deputy.</ab>
+<p>HERBERT E. SNOOK
+Attorney for Petitioner.
+537-539 Burke Bldg.
+Seattle, King County, Washington</p>
+<p>Menning Publishing and Label Co. </p>
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0155.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Charles W. Nordstrom v. Edward Cudihee. Notice of Appeal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0155.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Charles W. Nordstrom v. Edward Cudihee. Notice of Appeal</title>
+<date when="1901-08-08">August 8,1901</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division 1899-1906, vol 2</collection>
+<idno>951CharlesNordstrom</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1901-08">August 1901</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Fulton, Walter S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -94,33 +96,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Nordstrom, Charles W.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Cudihee, Edward</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis, James Hamilton</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Soderberg, Nils</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Palmer, Edward</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States Circuit Court For Ninth Judicial Circuit</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,45 +142,77 @@
 
 <p>No. 951</p>
 
-<p>In The Circuit Court of the United States</p>
+<p>In the Circuit Court of the United States</p>
+<p>District of Washington Northern Division</p>
 
-<p>In re Char W Nordstrom for Habeas Corpus v. Ed W. Cudahee</p>
-<p>Letter of Hon. C.H. Hanford declining to issue writ</p>
+<p>In the Matter of the Petition of Char. W Nordstrom for writ of Habeas Corpus
+       vs.
+       Ed. W Cudahee, Sheriff and Respondent</p>
 
-<p>Filed in the U.S. CIrcuit Court, Dist. of Washington AUG 8 1901. A Reeves Ayres, Clerk</p>
-<p>By HM Matthew. Deputy</p>
+<p>Notice of Appeal</p>
+<p>Filed in the U.S. Circuit Court, Dist. of Washington. AUG 8 1901. A Reeves Ayres, Clerk.</p>
+<p>HM Matthew Deputy</p>
+<p>James Hamilton Lewis, Hardin, and Albertson</p>
 
 <pb/>
 
-<p>Seattle, Washington, July 26, 1901</p>
+<p>In the United States Circuit Court For The State of Washington In the Ninth Judicial Cicuit Holding Terms at Seattle</p>
 
-<p>In re Charles W. Nordstrom</p>
-<p>Mr. James Hamilton Lewis, Attorney for Petitioner</p>
+<p>In the Matter of the Petition of Charles W. Nordstrom for Writ of Habeas Corpus and relief thereon. Notice of Appeal</p>
 
-<p>Sir:-</p>
+<p>To the Honorable C.H. Hanford, Judge of the above named Court, to the State of Washington, Honorable Eward Cudahee, Sheriff
+       of the County of King, State of Washington, and Honorable Walter S. Fulton, Prosecuting Attorney for the County of King:</p>
 
-<p>I return to you, enclosed herewith, the papers in the above entitled matter, which you place in my hands this day, 
-       and I must decline to sign the order which you have requested.</p>
+<p>You and each of you will please take notice that the Petitioner Charles W. Nordstrom, here and now appeals this cause in this petition
+       for Habeas Corpus and relief thereon, to the Supreme Court of the United States at the next term thereof holding terms at the City of Washington,
+       and particularly from that announcement at the City of Washington, and particularly from that announcement and judgment of the Honorable Court
+       of the 26 day of July 1901, refusing and denying relief to Petitioner as prayed for. All of which more particulary appears by that memrander of reasons
+       and the written statement of views of the Honorable Court addressed to the Petitioner through his Counsel and filed with the Petition herein as the 
+       decision of the Judge upon the same, being of the date of 26 July 1901 and specified the following grounds for said appeal herein, to wit: </p>
 
-<p>This case having become nororious by the frequency of its appearance before the courts, I am justifited in saying
-       that, the present application is without merit, and I consider that your comtemplated proceeding has but one tendency,
-       and that is, subversive of the laws of the country. I have heretofore twice refused to grant a writ of habeas corpus in
-       behalf of Nordstrom, and the Supreme Court of the United States has in both instances sustained my rulings.</p>
+<pb/>
 
-<p>I will not sign another order, either granting or refusing to grant another petition, nor listen to any argument you may wish
-       to present in behalf of thi petitioner, nor will I allow another appeal, which may be made a pretext for further delay in 
-       executing the sentence of the law in his case. My purpose is to break the endless chain of repeated applications and
-       appeals which makes the administration of the criminal laws a judicial force.</p>
+<p>I.</p>
 
-<p>You have my consent to use this letter in any way.</p>
+<p>That the Court declined to grant relief upon the said petition in any form whatsover, holding that the matters in said Petition was without merit.</p>
 
-<p>Respectfully, 
-       C.H. Hanford
-       U.S. District Judge</p>
+<p>II.</p>
+
+<p>That the said Court held that the matters stated in the said petition were wanting in merit, and this without giving to petitioner an opportunity of being
+       heard upon the same or having any day in Court upon the same.</p>
+
+<p>III.</p>
+
+<p>That the Court denied and refused to give petioner a hearing upon application for Habeas Corpus, and that the said Honorable Court such refusal
+       suspend the operation of a Writ of Habeas Corpus when the country is not at war or in state of insurrection.</p>
+
+<p>IV.</p>
+
+<p>Because the Honrable Court declined to make any order allowing the petitioner to verify with facts and sustain with law the matters and things named
+       in the same petition.</p>
+
+<p>V.</p>
+
+<p>For that the Honorable Court refused the petitioner a hearing, declined to hear any form of argument by the petitioner or his Counsel, either of fact
+       or law in the petitioners behalf.</p>
+
+<p>VI.</p>
+
+<p>Because the Honorable Court declined in any wise whatsoever to grant any relief upon the said petition, or to name a time when the said petitioner might
+       be heard in open court and declined to hear the peititoner in any wise whatsoever.</p>
+
+<pb/>
+
+<p>VII.</p>
+
+<p>Because the Honorable Court declined to grant petitioner the Writ of Habeas Corpus, or declined to grant the petitioner an order upon the respondent to show
+       cause why the said writ should not issue, and declined and refused to grant the petitioner any hearing and denied the petitioner any relief under the said petition
+       declining to hear argument by the petitioner or his Counsel as to whether merit in law or in fact was contained in said petition and the facts conseded thereon.</p>
+
+<p>James Hamilton Lewis, Attorney For Petitioner</p>
 
 
-
-
+<p></p>
 </div1>
     
 </body>

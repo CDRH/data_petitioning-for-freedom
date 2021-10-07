@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0172.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>D.A. Hatfield v. Robert T. Hodge. Petition.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0172.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">D.A. Hatfield v. Robert T. Hodge. Petition.</title>
+<date when="1912-02-06">Feburary 2, 1912</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection>
+<idno>2082DAHatfield</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,11 +78,35 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1912-02">Feburary 1912</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Sickles, D. K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Sickles, W. K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Stark, Allen</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>VanBlaricon, L. P.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>McGraw, James E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Workman, George W.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Murphy, John E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,33 +118,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Hatfield, D. A.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Hodge, Robert T.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>McBride, A. J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Murphy, John F.</persName>
+</person>
+<person role="attorney-defendant">
+<persName>Caldwell, Hugh W.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -195,6 +222,83 @@ against the peace and dignity of the state of Washington.</p>
 <ab>John F. Murphy,
 Prosecuting Attorney</ab>
 <fw>2</fw>
+<pb/>
+<p>State of Washington,
+County of King, }ss</p>
+<p>Hugh M. Caldwell, being first duly sworn, on oath says
+that he is deputy prosecuting attorney in and for the county of
+King, state of Washington; that he has read the foregoing information, 
+knows the contents thereof, and believes the same to be true.</p>
+<ab>Hugh M. Caldwell.</ab>
+<p>Subscribed and sworn to before me
+this 16th day of June, 1911.</p>
+<ab>D.K. Sickles,
+Clerk Superior Court of King county,
+State of Washington, by W.K. Sickles,
+Deputy.</ab>
+<p>Witnesses for the state:
+Robert T. Hodge
+Allen Stark.
+L.P. VanBlaricon.</p>
+<p>Filed June 16th, 1911,</p>
+<ab>D.K. Sickles, Clerk.</ab>
+<p>That thereafter, your petitioner was duly tried on said charge
+attempted to be set forth in said information and was found guilty
+by a jury and thereafter was sentenced by said superior court
+to be confined in the pententiary of the state of Washington, for
+a period of not less than two years, which said judgment and sentence
+was sustained and affirmed by the Supreme Court of the state
+of Washington, and the said Robert T. Hodge, Sheriff and jailer as
+aforesaid threatens to deliever your petitioner to the agents of
+the state of Washington, for the purpose of convaying him to the
+pententiary at Walla Walla. That if there is any other <add>legal</add> cause of
+the dentention and imprisonment of your petitioner than that set
+<fw>3</fw>
+<pb/>
+forth, your Petitioner is not informed thereof, but if there is any other casue of detention, the same is unjust and unlawful.</p>
+<p>That the illegality of said unlawful imprisonment and detention
+as claimed by your petitioner mherein may be more particularly
+state and described, as follows:</p>
+<p>That siad infromation attempting to charge your petitioner 
+with the offense of attempted escape from prison does not state
+or charge a crime against the laws of the state of Washington,
+and is null and void and cannot become the basis of a valid
+judgment for the reason that that the said information fails to 
+show that that at the time of the commission of the alleged pretended
+offense, your petitioner was in lawful custody, and fails to
+show that your petitioner was imprisoned by virtue of a written
+committment. That under our system of criminal jurisprudence
+"no person can be deprived o his liberty on accounty of some"
+"criminal charge against him except by virtue of some <del>written</del>"
+"Written authority therefor, except in causes where the accused may"
+"be arrested before any warrant has been issued. But even in cases"
+"where the accused may be arrested withour warrant, he must be immediately"
+"taken before a maristrate, and a complaint filed against"
+"him, and a warrant issued wherewith to hold him, or the custody"
+"of him would become unlawful."</p>
+<p>Wherefore, your Petitioner prays that a Writ of Habeas Corpus
+be issued herein and that upon a hearing thereon, your Petitioner
+be discharged.</p>
+<ab>D.A. Hatfield
+Petitioner.</ab>
+<ab>AJ McBride
+Atty for Petitioner
+406 Eplor Block
+Tel. Francis 2114.</ab>
+<fw>4</fw>
+<p>State of Washington,
+County of King, SS.</p>
+<p>D.A. Hatfield, who being duly sworn on his oath says he
+is the Petitioner named in the within and foregoing petition for
+a writ of Habeas Corpus; That he has read the same and knows the
+contencts thereof, and that the allegations and statements therein
+contained are true in substance and in fact.</p>
+<ab>DA Hatfield</ab>
+<p>Subscribed and sworn to before me
+this Fifth dat of Feburary, 1912.</p>
+<ab>James E. McGraw
+Notary Public for the state of
+Washington, residing at Seattle.</ab>
 
 </div1>
     
