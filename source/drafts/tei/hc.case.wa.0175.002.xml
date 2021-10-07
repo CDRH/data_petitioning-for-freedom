@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0175.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Ben Wa v. State of Washington. Application</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0175.002</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Ben Wa v. State of Washington. Application</title>
+<date when="1912">1912</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -78,15 +78,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1912-08">August 1912</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ben Wa</term>
+<term>Tung Kee</term>
+<term>Edward Elsher</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>District Court of the United States for the Western District of Washington, Northern Division</term>
+<term>Washington</term>
 </keywords>
 
 </textClass>
@@ -94,10 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Ben Wa</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -106,21 +109,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Edward Elusher</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the United States for the District of Washington Northern Division</orgName>
+<placeName>District of Washington Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
