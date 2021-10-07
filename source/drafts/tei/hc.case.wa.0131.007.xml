@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington V. Sterling P. White. Petition for Habeas Corpus</title>
-<date when="1000">1000</date>
+<date when="1885-02-02">February 2nd, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,18 +79,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1885-02">February 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Carpenter, J. W.</term>
 <term>Friedlander, J. H.</term>
 
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Lincoln County, Washington</term>
 <term>Yakima, Washington</term>
+<term>Spokane, Washington</term>
 </keywords>
 
 </textClass>
@@ -104,7 +106,8 @@
 <persName>Cody, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Smallwood, W. H.</persName>
+<persName>Benson, E. F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -124,7 +127,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#brh">transcribed and encoded</change>
+<change when="2021-10" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -222,40 +225,46 @@ time and place and before
 such tribunal as your Honor
 shall decide as soon as he shall 
 be informed of the crime with
-which he is charged.
-</p>
-<p>
-Respectfully submitted
+which he is charged.</p>
+
+<p>Respectfully submitted
 S.P. White</p>
 
 <p>W.H. Smallwood
 E.F. Benson} Attys. for petitioner.</p>
 
 <p>Territory of Washington
-County of Lincoln
-S.P. White</p>
-<p>being duly sworn says I am the
+County of Lincoln</p>
+<p>S.P. White
+being duly sworn says I am the
 identified S.P. White who made
 and subscribed the above and fore-
 going petition which I have read 
 and all the matters and things therein
 S.P. White
-Sworn to and subscribed before me
+Sworn to and subscribed before me</p>
+
+<pb/>
+
+<p>
 this 2d day of February A.D.
 1885
 W.H. Smallwood
-H. Flay Rubbe
+Notary Public</p>
 <seal></seal>
-To the clerk of the District Court for the fourth
-judicial district, holding terms at Yakima City.
-See the writ issue as managed for in
-the petition, refusable before we
+
+<p>To the clerk of the District Court for the fourth
+judicial district, holding terms at Yakima City.</p>
+
+<p>See the writ issue as prayed for in
+the petition, returnable before we
 at Spokane W.T. on Tuesday February
 10th 1885.
 George Turner
 Judge
+</p>
 
-Spokane W.T. Feb. 13 1885
+<p>Spokane W.T. Feb. 13 1885
 After hearing evidence for this territory
 and the defendant as follows guilt or
 innocence at the prison. I am of
@@ -265,8 +274,8 @@ S.P. White is therefore recommitted to
 the nearest court sheriff without 
 privilege of bail.
 George Turner
-Judge</p>
-
+Judge
+</p>
 
 </div1>
     
