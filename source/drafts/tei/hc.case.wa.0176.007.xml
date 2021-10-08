@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.007.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Marie Miler v. United States of America.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0176.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Marie Miler v. United States of Americas. Return Brief.</title>
+<date when="1913-05-08">May 8, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2457MarieMiler</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,11 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-05">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,33 +94,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Miler, Mary</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Breakway, E. B.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -172,9 +175,245 @@ theretofore or thereafter presented by the Government.
 Objections and expceptions of counsel shall
 not be entered on the record, but mauy be dealt with
 in an accompanying brief."</p>
-
-
-
+<p>It is well settled that a summary hearing, instituted under
+this law, constitutes as to the alien, due process of
+law guaranteed by the Court.</p>
+<p>DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
+United States v. Ju Toy, 198 U.S. 253, 49 L. Ed. 1040;
+Chin You v. United States, 208 U.S. 8, 52 L. Ed. 369;
+Bottlier v. Donseuguey, 130 U.S. 238, and
+numerous subsequent decisions.</p>
+<p>We do not understand petitioner to very seriously
+question these doctrines, though on page 6 of its brief
+an attempt is made to draw an impossible distinction between
+the determination on the evidence as to whether the
+petitioner did belong to the deportable class of aliens
+(a determination which it is admitted this court cannot
+review on habeas corpus), and the regularity of the subsequent
+deportation based on such evidence. The remarks
+of the court in Zaonaito v. Wolf, 226 U.S. Sup. Ct. Rep.,
+272, of course had reference to a case where if all the
+evidence were true it would not be "adequate and sufficient"
+to warrant deportation; in other words, where a demurrer
+to evidence would have been sustained in a civil action,
+and where to "satisfaction" of the Secretary was not a
+true exercise of discretion at all, but entirely unwarranted
+by any evidence before him. Where there is any
+evidence whatever of the liability to deportation the action
+of the Department is not reviewable by the court by habeas
+corpus or in any other manner.</p>
+<p>DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
+United States v. Ju Toy, 198 U.S. 253, 49 L. Ed. 1040;
+Chin You v. United States, 208 U.S. 8, 52 L. Ed. 369;
+Bottlier v. Donseuguey, 130 U.S. 238, and
+numerous subsequent decisions.</p>
+<fw>2</fw>
+<pb/>
+<p>That this is a case where there is evidence, which if
+true, justifies the action of the Department, cannot be
+denied. The returns on file show this unqualifiedly, and
+defendants do not deny it, but only say that such evidencee
+is false. Under the authorities cited this matter of the
+truth or falsity of the evidence is not a matter for the
+determination of this court.</p>
+<p>As to the statements in petitioner's brief touching
+the right of appeal, it is enough to say that the cases
+relied on were decided under statutes where the decision
+in the first instance was made by an examining officer,
+and then, if asked, an appeal was granted to a superior officer.
+The statute under which this alien is being deported
+provides for deportation only on the order of the Secretary
+in the first instance, and hence no appeal is required or
+mentioned. The Commissioner here merely recommends, as
+was done in this case. The Secretary of Labor is the one
+who must be "satisfied", and has been so "satisfied" as
+shown by the return in this case. Hence there is no further appel,
+for the highest officer has already decided
+the matter.</p>
+<p>Petitioner's main plea however is that she was not
+granted a fair trial by the Department and this involves a
+close examination of the petition, return and reply. Disregarding
+the conclusions of law in the pleadings and confining
+attention, as we must to the specific allegations
+of the pettioner's return and rely so to just exactly
+what did occur at the trial, we find that the only real
+complaint is this, to-wit: that after petitioner had
+selected and employed an attorney he entirely failed to
+<fw>3</fw>
+<pb/>
+to produce evidence in her behalf, which she now says she
+has. We have already noted the requirements of the rules
+of the Department in regard to attorneys. The return shows
+that this rule was acrupulously followed. Before final 
+hearing and long before the sending in of the report to the
+Secretary of Labor, the petitioner was notified as to her
+rights, she acted on them, and thereafter every opportunity
+was given the petitioner's attorney to put in any evidence
+which he might wish and to examine the prior proceedings.</p>
+<p>Taking all the allegations of the petition and reply
+to be true in so far as they differ in material respect
+from the showing made by the return, we would find the 
+following to be the facts: that prior to the hearing
+petitioner has retained counsel (Pet. Par. 4) though she
+was not informed of her right thereto until after the 
+hearing (Reply Par. 2). We think that this allegation as
+to the time of her being advised as to her right to counsel,
+is explained by the fact appearing by the return (Report
+page 26) that this notification, was given at the close
+of the first hearing, but long before the final close of
+the matter and in ample time to enable the petitioner or
+her attorney to introduce any evidence they might have.
+And in this connection it should be noted that the rules
+are satisfied if at some stage of the proceedings, the
+alien is informed of this right, the exact time being left
+to the officer before whom the hearing is held, and if 
+thereafter opportunity is given such attorney to be present
+and introduce his evidence on behalf of the alien. Obviously
+neither the rule nor the procedure in this case was in any
+manner unfair, or in any such sense as to prevent the 
+<fw>4</fw>
+<pb/>
+proceeding from constituting fair play or a fair proceeding.</p>
+<p>Petitioner furhter denies that the immigration officers
+made the specific efforts set forth in the return to get said
+petitioner's attorney to be present and protect her interest.
+But they no where allege that the officers of the Government
+in any manner either by action or omission to act,
+prevented her attorney from presenting her evidence, or took
+any unfair advantage to prevent said attorney from so
+representing her. Even if such allegation of the return
+were true, and the officers did not make the active efforts
+they allege to get Marchetti to not, no blame can be
+attached to them. If, in truth they did take the steps
+they allege they went far beyond any duty they owed to the 
+alien, and teated her with marked generosity. But nowhere
+is there any allegation that they acted in any unfair 
+manner in going ahead and sending in their report many days
+after his appointment. Especially would this be true where,
+as petitoner herself admits he did not appear or make any
+effort to produce any other or futher evidence. The very
+general allegation that petitioner was ready and willing
+to procure futher evidence but was "prevented" from so
+doing, without showing how or by whom or when or in what
+manner she was so prevented, or when or in what manner
+or to whom she made any offer to produce any such evidence,
+does not even raise a question of fact as opposed to the
+clear and specifics showing of the return with its detailed
+report of just exactly what did occur.</p>
+<p>The gist of the proceeding as shown by the petition,
+the return, the reply and petitioner's brief, all taken
+together is simply this - Marie Miler being a prostitute
+<fw>5</fw>
+<pb/>
+and an alien and hence subject to deportation by her own
+admission (see Report attached to return <add>Page 40</add>, claims that her
+husband and certain others are worse than she is, that
+they are seeking to deprive her of her property, and that
+her attorney failed to properly present to the Deparment
+her side of the case. There is nothing in all of this
+to show any unfair or arbitrary or despotic procedure or
+departure from due process of law by the department. It
+is the old bitter ory of the defeated litigant, "The court
+was unfair and my attorney sold me out". But if there
+is anything settled in the law, it is that the litigant
+even in a court bound by the strictest rules of law, cannot
+allege any error on account of his attorney's neglect of
+duty. Having selected this attorney he must stand or fall
+by his conduct. had this neglect of her attorney, which
+she seeks to make the basis of a charge against the fairness
+of the Department, occured even in the strictest court of
+law, default would have followed and no error could have
+been predicted on such ruling.</p>
+<p>Cyc Volume 23 - Judgements - page 939 et seq.
+and cloud of cases there cited.</p>
+<p>How much less will such circumstances fail of showing
+an unfair, arbitrary or despotic procedure by the Department
+which will prevent its ruling on the case from constituting
+the "due process of law" on which the alien must
+rely.</p>
+<p>There therefore conclude:</p>
+<p>I.
+A deportation under order of the Secretary of Labor,
+<fw>6</fw>
+<pb/>
+after he has become "satisfied" as to the facts, by a
+summary hearing held under the rules established by the
+Commissioner-General of Immigration, and shown in the
+amended return, constitutes "due process of law", and does
+not justify the interference of a court by habeas corpus."</p>
+<p>DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
+United States v. Ju Toy, 198 U.S. 253, 49 L. Ed. 1040;
+Chin You v. United States, 208 U.S. 8, 52 L. Ed. 369;
+Bottlier v. Donseuguey, 130 U.S. 238, and
+numerous subsequent decisions.</p>
+<p>II.
+Where, as in this case, there is evidence which if
+true, justified a finding of facts authorizing deportation,
+the court does not have authority to in any manner review
+such evidence. The evidence on which the order of deportation
+is based, could only be reexamined by this court
+(and then the authority of the court would be doubtful),
+where the facts which it tends to establish would not
+justify deportation. It is not even claimed that this 
+is such a case.</p>
+<p>DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
+United States v. Ju Toy, 198 U.S. 253, 49 L. Ed. 1040;
+Chin You v. United States, 208 U.S. 8, 52 L. Ed. 369;
+Bottlier v. Donseuguey, 130 U.S. 238, and
+numerous subsequent decisions.</p>
+<p>III.
+The report of the proceedings shown in the return shows
+on its face an absolutely fair hearing, in accordance with
+the law and the rules of the Department.</p>
+<p>Disregarding, as must be done, conclusions of law as
+to the regularity and fairness of the proceedins, and
+considering only the specific allegations of the petition
+and reply, such return and report are uncontradicted, except
+in the one particular; as to the specific steps
+<fw>7</fw>
+taken by the Department to induce petitioners attorney
+to introduce any evidence he might have, and as to this
+matter, there is nowhere any allegation of any unfair
+practice by the Department or its officers, against either
+the petitioner or her attorney, but only that the attorney
+failed in his duty. This, even if true, does not constitute 
+the unfair arbitrary or despotic conduct of the
+summary investigation, which will justify the review of
+the Secreatry's descretion by the courts.</p>
+<p>DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
+United States v. Ju Toy, 198 U.S. 253, 49 L. Ed. 1040;
+Chin You v. United States, 208 U.S. 8, 52 L. Ed. 369;
+Bottlier v. Donseuguey, 130 U.S. 238, and
+numerous subsequent decisions.</p>
+<p>We therefore respectfully contend that the writ 
+should not issue</p>
+<p>Respectufully submitted</p>
+<ab>C. F. Riddell
+United States Attorney. </ab>
+<ab>E.B. Breakway
+Assistant United States Attorney.</ab>
+<p>In connection with the ases above cited in this bried
+we would call His Honor's attention to Zakonaite v. Wolf,
+U.S. Sup. Ct. Reports, 226, page 272, a case decided under
+this same statute and reaffirming the doctrine announced in
+the earlier cases.</p>
+<pb/>
+<p>2x No. 2457</p>
+<p>In the District Court
+of the United States
+for the
+Western District of Washington</p>
+<p>In the Matter of The 
+Application of
+Marie Miler
+For a Writ of Habeas Corpus</p>
+<p>Reply Brief</p>
+<p>filed in the 
+U.S. District Court,
+Western Dist. of Washington
+May 8 1913
+Frank L. Crosby, Clerk.
+By EML Deputy</p>
 
 </div1>
     
