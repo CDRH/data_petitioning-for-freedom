@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.008.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Marie Miler v. United States of America. Brief.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0176.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,16 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Mary Miler v. United States of America. Brief.</title>
+<date when="1913-05-03">May 3, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Adminstration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of
+Washington, Seattle</collection>
+<idno>2457MarieMiler</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,55 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-05">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Miller</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Bassani, Angelo</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Marchetti, Roger</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Polet, I. G.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Patrosini, Vincent</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>DeBruler, Ellis</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Chadney, William H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Jackson, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Butte, Montana</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Ellis Island, New York</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>San Fransico, California</term>
 </keywords>
 
 </textClass>
@@ -94,16 +135,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Miler, Mary</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wright, Elias A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wright, Sam A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Brockway, E. B.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -112,15 +156,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington Judicial Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -208,7 +252,7 @@ directions to the respondent in this case to send her to Ellis
 Island, New York, tehre to await her deportation to Austria.</p>
 <p>The Court can readily see that owing to this fact it 
 was impossible for the petitioner, Marie Miler, to make application
-to teh Secretary of Commerce and Labor to permit her to
+to the Secretary of Commerce and Labor to permit her to
 submit additional evidence or permit her to appeal from the decision
 of the respondent in this case to his superior, as, in
 the meantime, she would have already been sent on her way to
@@ -243,8 +287,208 @@ page 32. It appears from the testimony of Marie Miler herself
 that affiant had met the said Marie Miler and her husband in Butte
 Montana, serval month previous and had advised them at that 
 time to come to Seattle, but that they had disregarded his advice and had gone to the State of California instead.</p>
-
-
+<p>Strenous effort was made on the part of the Inspector
+of Immigration at the hearing to establish the fact that Marie
+Miler had conducted herslef in an imporper manner in the State
+of California and also in Butte, Montana, prior to her arrival
+in the State of Washington, but upon the testimony of the alien
+herself it appears that she was wholly unable so to do. In
+fact, from communications which the Department received from California,
+as appears on pages 17-18 of respondent's return to
+this writ, that both Mr. Miler and this petitioner were conducting
+themselves in a very orderly manner, Mr. Miler being emplouyed
+in a mine at Jackson, California, while this petitioner was
+engaged in washing for the men employed in the mine. Mr.
+William H. Chadney, Immigration Inspector at San Francisco,
+Californiam as appears from his letter, pages 17-18 Respondent's
+return, made very caregul inquiry in regard to Marie Miler's
+conduct while in that State and informed the officers in charge here
+that after careful inquiry he was assured that this alien had
+conducted herself in a proper and orderly manner while within
+that State.</p>
+<p>The court will observe throughout all of the
+testimony introduced by the Government to establish a case
+against Marie Miler, that not one of the witnesses identified
+the Petitioner only by the means of a photograph. This is just
+for the purpose of calling the Courts attention to the question
+of the suffaciency of the identity of the Petitioner in this case.</p>
+<fw>No. 4</fw>
+<pb/>
+<p>One of the Italians, I.G. Polet, who made an
+affidavit against the Petitioner, stated that he had onlymet
+Marie Miler once, and from his affidavit, (page 33, rec.)
+the Court can readily see the circumstances under which that
+meeting took place, and can, for itself judge as to whether
+it would be possible for anyone under similar circumstances
+to identify a person soley from a photograph picture shown
+to them some three months later. The same question may be
+raised in regard to each and every one of the affidavits 
+introduced against the Petitioner. The foregoing, we think,
+contains a fair statement of the facts of this case.</p>
+<p>To anticipate the chief question which will be
+raised by the Hon. Ellis DeBruler in this case will be that
+this Court has no jurisdiction to question the findings of
+the Secretary of Commerce and Labor entered herein, and that
+the findings of such Secretary is conclusive upon this
+hornorable Court, <add>but</add> so far as we have been able to determine, a
+writ of habeas corpus has never been refused to a petitioner
+when it appeared that the Secretary's of Commerce and Labor
+findings and order abased thereon were made upon evidence
+which was not aqudate to support the Secretary's conclusion,
+and that the alien, woing to that fact, was not given a fair
+hearing. In the late case of
+Zakonaito Vs. Wolf, 33, U.S. Supreme
+Court Reporter, 311
+the last decision of the U.S. Supreme Court in reference to
+the deportation of aliens for the same reason that the
+Petitioner in this case has been ordered deported, we find
+the following statement: "The findings of the Secretaries
+of Commerce and Labor for the deportation of an alien are
+not subject to review by the Court, if thee evidence was
+aquedate abnd sufficent to support the Secretary's conclusion,
+and that alien was given a fair hearing."
+<pb/>
+from the foregoing statement, it would seem that the
+aquedacy and sufficency of the evidence to support the
+Secretary's conclusion as to whether the alien was given a 
+fair hearing, was considered a judicial question, and would
+be inquired into by writ of habeas corpus, as was done in 
+the above cited case.</p>
+<p>It was announced in the case of
+Lavin Vs. Le Fevre, 125 Federal, -693
+that the question as to whether the executive officers of the
+Government in deporting an alien immigrant are proceeding
+according to law, is a judicial question which might be inquired
+into under habeas corpus proceedings. We fully realize
+that the sufficency and aquedacy of the evidence in this
+case might be well considered to be one of fact, but the
+regularity of the Secretary's of Commerece and Labor action in
+ordering Petitioner deported upon this evidence is one of
+law, and can be inquired into by this Court under habeas
+corpus.</p>
+<p>The question as to whether the alien has been given
+a fair hearing is reviewable by the courts as announced in
+the case from this judisdiction
+DeBruler Vs Gallo, 184 Federal, 566.
+With all due respect to the Inspectors of Immigration who
+conducted the hearing of the Petitioner in this case, we think
+it is not more than fair to staqte that from the record as
+produced herein, that this Petitioner has not been given a
+fair hearing, is that she has not, at any time, been able to 
+introduce any evidence to contradict the perjured affidavits
+of the four Italians herein on file, and so, as she alleged
+in her petition, <del>and</del> <add>for the</add> writ of habeas corpus that a conspiracy
+to get rid of her and acquire her property existed on the
+part of her own countrymen who made the affidavits against her.</p>
+<fw>No. 6</fw>
+<pb/>
+<p>To think that if this honorable Court assumes jurisaduction
+in this matter, and permits the Petioner to establish the
+real facts in regard to the matter, that it will noe be the
+Petitioner whom the Immigration Officers would be asking to
+deport, but that they will order a wholesale deportation
+of the real parties who are actually engaged in the business
+which the Petitioner is charge to be engaged in. The
+Petitioner desires to call the Courts attention to the case of
+Chin Lou Vs. <add>SOC</add> U.S. Page 8
+on the question of when a court will assume jurisdiction in
+habeas corpus proceedings. We fully realize that this is a 
+case which, of course, involves the Chinese Exclusion Act,
+but yet, what was said by the Supreme Court of the U.S. in
+that case is strictly applicable to this case on the question
+as to when a court would, and should assume jurisdiction,
+and determine as to whether or not petitioners had had a fair 
+opportunity to produce the evidence they desired. We find
+this suggestion made by the Court in this case, "if the
+Petitioner was not granted a fair opportunity to produce their
+evidence, or a fair though summary hearing, the case can 
+proceed no futher." Those facts were the foundation of the
+jurisdiction of the District Court, and we will admite, for
+the sake of argument, that so far as we have been able to 
+determine, such seems to be the law in deportation cases,
+but we respectfully submit thaqt this court will be justified
+in finding that this Petitioner has not had a fair opportunity
+to produce the evidence that she desired, not wholly,
+perhaps, due to any fault of the Commissioner of Immigration
+Inspector until after the order of deportation has issued
+from the Secretary of Commerce and Labor. That her attorney,
+Roger Marchetti, has failed to produce the evidence which
+Petitioner has been ready and willing to produce at all times.</p>
+<fw>No. 7</fw>
+<p>In the Chin Lou case above, we also find the following 
+statement I. "the decision of the department is final",
+but that is based wholly on the pre-supposition that the
+decision was after a hearing in good faith, although summarily
+informed." The Court recognises throughout the entire decision 
+that in order to preserve the rights of a citizen, or one who 
+is a bona fide resident of this country, although an alien,
+that something must be done, and that, in such a case, this
+something must be done by the courts, and it naturally
+devolves upon them to intervene, as they did in that case.</p>
+<p>If, on the hearing for the application for the writ
+Marie Miler is unable to satisfy this court that she is not
+entitled to reamin in this country, and that the evidence which
+she alleges to be false, and in aid of the conspiracy to get
+rid of her to acquire her propety, the of course we would
+have no reasonable ground for complaint. But, under the
+present status of the case, it would seem that she has been 
+denied the right and opportunity of protecting her property
+and personal rights in this proceeding, and we respectfully
+submit that after this court has carefully considered the
+Petitioner's application herein, and considered the suffecincy
+of evidence and the surrounding circumstances, then in all
+fairness to the Petitioner herein, although an alien, that
+this honorable court will be justified in finding that she is
+entitled to be released, on her application herein.</p>
+<ab>Respectfully submitted
+Elias A. Wright
+Sam A. Wright
+atty for petitioner</ab>
+<fw>No. 8.</fw>
+<pb/>
+<p>2x No. 2457</p>
+<p>In the
+District Court
+of the United States
+For the Western District
+of Washington
+Northern Division</p>
+<p>In Re Marie Miler
+Habeas Corpus</p>
+<p>Brief</p>
+<p>Filed in the 
+U.S. District Court
+Western Dist. of Washington
+May 3 1913
+Frank L. Crosby. Clerk.
+By EML Deputy.</p>
+<p>Elias A. Wright
+Sam A. Wright
+Attorney for Marie Miler</p>
+<p>629-31 Burke Building
+Seattle</p>
+<pb/>
+<p>Service of within Brief
+and receipt of copy admitted this 
+3rd Day of 
+May 1913</p>
+<ab>EB Brockway
+Attorney for <gap reason="blank"></gap></ab>
+<p> We hereby designate Room No. <gap reason="blank"/>
+Building
+<gap reason="blank"/>
+Street
+<gap reason="blank"/>, Washington
+as the place where all subsequent papers
+herein, expect writs and process
+may be made upon the <gap reason="blank"/>
+herein, and consent that service of all
+subsequent papers herein, expect writs 
+and process, may be made as the place
+hereinabove, designated upon the said
+<gap reason="blank"/>
+Dated <gap reason="blank"/> 191<gap reason="blank"/>
+attorney </p>
 </div1>
     
 </body>
