@@ -6,16 +6,16 @@ class FileCsv < FileType
         super(file_location, options)
         #read the spreadsheet from external source
         key = "1UjklbuQwN3uyEbi2wzoOJunC4a-h58RJ2hxa2whFxWI"
-        sheets = {
-            "iowa.csv" => "18278945",
-            "kansas.csv" => "1493529418",
-            "missouri.csv" => "161023288",
-            "nebraska.csv" => "0",
-            "us.csv" => "1342876964",
-            "washington.csv" => "1217279103"
-        }
+        # sheets = {
+        #     "iowa.csv" => "18278945",
+        #     "kansas.csv" => "1493529418",
+        #     "missouri.csv" => "161023288",
+        #     "nebraska.csv" => "0",
+        #     "us.csv" => "1342876964",
+        #     "washington.csv" => "1217279103"
+        # }
         name = file_location.split("/")[-1]
-        gid = sheets[name]
+        gid = "161023288"
         url = "https://docs.google.com/spreadsheets/d/#{key}/export?format=csv&id=#{key}&gid=#{gid}"
         spreadsheet = open(url)
         IO.copy_stream(spreadsheet, file_location)
@@ -46,8 +46,7 @@ class FileCsv < FileType
     def read_csv(file_location, encoding="utf-8")
         CSV.read(file_location, {
           encoding: encoding,
-          headers: ["Case ID", "Case Name", "Case Citation Or Source", "Repository", "Earliest Date", "Latest Date", "Civil Or Criminal", "Petition Type", "Bound Party Name", "Petitioner Name", "Relationship To Bound Party", "Petitioning Attorney Name", "Judge Name", "Court", "City", "County", "State", "Bound Party Sex", "Bound Party Minor", "Bound Party Age", "Age Category Indicated", "Race Indicated", "Race Determined", "Bound Party Immigrant", "Bound Party Nationality", "Relationship To Holding Party", "Holding Party Name", "Additional Parties", "Outcome", "Additional Related Action", "Notes"],
-          return_headers: true
+          headers: true
         })
     end
 
