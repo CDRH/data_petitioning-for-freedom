@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0153.013.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.015.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Earnest Hutchinson v. State of Washington. Certificate</title>
+<title>Marie Miller v. United States of America. Service of Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0153.013</idno>
+<idno type="project">hc.case.wa.0176.015</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Earnest Hutchinson v. State of Washington. Certificate</title>
-<date when="1911-12-22">December 22, 1911</date>
+<title level="m" type="main">Marie Miler v. United States of America. Writ. </title>
+<date when="1913-04-15">April 15, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration</repository>
-<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
-<idno>1183ErnestHutchinson</idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2457MarieMiler</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -78,12 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1911-12">December 1911</date></term>
+<term><date when="1913-04">April 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Drake, James C.</term>
-<term>Wright, B.O.</term>
+<term>Crosby, Frank L.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Larken, Eden</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>DeBruller, Ellis</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,33 +102,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Hutchinson, Earnest</persName>
+<persName>Miler, Marie</persName>
 </person>
 <person role="defendant">
-<persName>State of Washington</persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Carroll and Carroll</persName>
+<persName>Wright, Elias A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Mackintosh, Kenneth</persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Brockway, E. B.</persName>
 </person>
 <person role="judge">
-<persName>Hanford, C.H.</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States Circuit Court</orgName>
-<placeName>Western District of Washington Northern Division</placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#epc">transcribed and encoded</change>
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,25 +145,45 @@
 <div1 type="case">
 
 <pb/>
-
-<p>Certificate</p>
-
-<p>United States of America, Western District of Washington} ss.</p>
-
-<p>I, James C. Drake, Clerk of the Circuit Court of the United States, for the Western
-       District of Washington, do hereby certify that the foregoing attached papers constitute
-       the Judgement Roll in the foregoing entitled cause, No. 1317. wherein in re Petition of
-       Earnest Hutchinson for writ of Habeas Corpus.</p>
-
-<p>In testimony whereof, I have hereunto set my hand and affixed the Seal of said Circuit Court,
-       this the 22 day of DEC. A. D. 1911.</p>
-
-<p>James C. Drake, Clerk</p>
-
-<p>By B.O. Wright, Deputy Clerk.</p>
-
-
-
+<p>Form No. 282.</p>
+<p>Return on Service of Writ.</p>
+<p>United States of America,
+Western District of Washington } ss:</p>
+<p>I hereby certify that I served the annexed Writ of Habeas Corpus
+on the therein-named Ellis DeBruler
+by handing to and leaving a true and correct copy thereof with Ellis DeBruler
+personally
+at Seattle in said District on the 16th day of
+April, A.D. 1913</p>
+<ab>Josephy R. M. Jacoby,
+U.S. Marshal</ab>
+<p>Marshal's fees $2.20
+W-12
+T-279</p>
+<ab>By Geo B. Derenpeck
+Deputy.</ab>
+<pb/>
+<p>2x No. 2457</p>
+<p>In the
+District Court
+of the United States 
+for the Western District
+of Washington
+Northern Divsion</p>
+<p>In the Matter of the
+Application for
+Marie Miler for
+Writ of Habeas
+Corpus</p>
+<p>Writ of Habeas Corpus.</p>
+<p>Filed in the U.S. District Court,
+Western Dist. of Washington
+Apr 17 1913
+Frank L. Crosby, Clerk.</p>
+<p>Elias A. Wright
+Attorney for Petitioner
+629 Burke Building
+Seattle Branch</p>
 </div1>
     
 </body>
