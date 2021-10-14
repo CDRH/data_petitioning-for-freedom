@@ -13,7 +13,7 @@ class CsvToEs
       
       @json["age_of_bound_party_k"] = @row["Age of Bound Party, If Stated"]
       @json["sex_of_bound_party_k"] = @row["Sex of Bound Party"]
-      @json["minor_of_bound_party_k"] = @row["Bound Party a Minor?"]
+      @json["bound_party_minor_k"] = @row["Bound Party a Minor?"]
       age_groups = []
       if @row["Age Category Indicated in Record"]
         bound_parties = @row["Age Category Indicated in Record"].split(/; */).each do |g|
@@ -22,11 +22,11 @@ class CsvToEs
       end
       @json["age_category_of_bound_party_indicated_k"] = age_groups
       @json["race_of_bound_party_indicated_k"] = @row["Race or Ethnicity of Bound Party Indicated in Record"]
-      @json["race_of_bound_party_determined_k"] = @row["Race of Bound Party as Determined by Team"]
+      @json["race_of_bound_party_determined_k"] = @row["Race of Bound Party Determined by Team"]
       @json["bound_party_immigrant_k"] = @row["Immigrant Status Relevant to Petition?"]
       @json["nationality_of_bound_party_k"] = @row["If Immigrant Status Relevant, Country of Origin of Bound Party Listed or Implied in Record"]
       @json["fate_of_bound_party_k"] = @row["Fate of Bound Party"]
-      @json["holding_party_relationship_to_bound_party_k"] = @row["Relationship of Bound Party to Holding Party"]
+      @json["bound_party_relationship_to_holding_party_k"] = @row["Relationship of Bound Party to Holding Party"]
       @json["sex_of_holding_party_k"] = @row["Sex of Holding Party"]
       @json["race_of_holding_party_indicated_k"] = @row["Race or Ethnicity of Holding Party Indicated in Record"]
       @json["race_of_holding_party_determined_k"] = @row["Race of Holding Party as Determined by Team"]
@@ -121,7 +121,7 @@ class CsvToEs
       end
       if @row["Petitioner Name (if Not the Bound Party): Last, First"]
         petitioners = @row["Petitioner Name (if Not the Bound Party): Last, First"].split(/; */).map do |p|
-          { "name" => p, "role" => "Petitioners" }
+          { "name" => p, "role" => "Petitioner" }
         end
         petitioners.each do |p|
           list << p
@@ -219,7 +219,7 @@ class CsvToEs
     end
 
 		def spatial
-			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State"], "place_name" => @row["Court"]}
+			place = { "city" => @row["City"], "county" => @row["County"], "state" => @row["State/Territory"], "place_name" => @row["Court"]}
 			place
 		end
 
