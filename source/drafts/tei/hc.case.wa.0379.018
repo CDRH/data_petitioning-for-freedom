@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -120,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -129,22 +129,41 @@
 
 <body>  
 
-<p>Presented by the foreman of the grand jury to the court in the () of the grand jury and filed May
-12th 1874</p>
-<p>W.H. Andrews
-Commissoner</p>
+<p>In the District Court of the First Judicial District of Washington Territory holding terms at
+Walla Walla City for the Counties of Walla Walla and Whitman
+Fourth Judicial Day May 14th 1874</p>
 <p>United States
-vs
-Franscois Lafontaisis</p>
-<p>Indictment - Selling of liquor to Indians</p>
-<p>() Bell
-N.W. ()
-Foreman Grand Jury</p>
-<p></p>
+Vs
+Francois Lafontaisis
+Judgement</p>
+<p>Now on this day comes the said Defendant Franscois Lafontaisis into open Court in his own proper
+person and by his said Attorney L.B. Nash Esq. for sentence</p>
+<p>Whereapon the Court ordered the said Defendant to stand up and being asked by the Court if he had
+and legal cause to show why judgement should not be pronounced against him replied nothing material.</p>
+<p>Now, all the premises being seen and due consideration had.</p>
+<p>It is ordered and adjudged by the Court that the Defendant Francois Lafontaisis be imprisoned in
+the County jail of Walla Walla County Washington Territory for a period of eighteen months from this
+date at the
+<pb/>
+expense of the United States</p>
+<p>JR Lewis
+Judge</p>
+<p>Territory of Washington
+County of Walla Walla
+SS</p>
+<p>I William H Andrews, Clerk of the US District Court of the First Judicial District of Washington
+Territy hereby certify that the above is a true and correct transcript of the Judgement in the above
+entitled cause as now appears of Record in Book "E" of Record page "93" now in my office as of
+Record</p>
+<p>In witness whereof I have hereinto set my hand and affixed the seal of said Court this 14th Day
+of May A.D. 1874</p>
+<p>William H. Andrews
+Clerk</p>
                
 <div1 type="case">
 
 <pb/>
+
 
 
 </div1>
