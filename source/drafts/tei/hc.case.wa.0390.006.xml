@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0390.006.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Suelling v. Territory of Washingon. Examination</title>
+<title>John Suelling v. Territory of Washingon. James McAuliff Answer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0390.003</idno>
+<idno type="project">hc.case.wa.0390.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Suelling v. Territory of Washingon. Examination</title>
+<title level="m" type="main">John Suelling v. Territory of Washingon. James McAuliff Answer</title>
 <date when="1869-10-13">October 13, 1869</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,8 +83,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Frush, Charles W.</term>
+<term>McAuliff, James</term>
 <term>Reynolds, R. P.</term>
-
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -134,82 +134,99 @@
 <text>
 
 <body>  
-      
+          
 <div1 type="case">
 
 <pb/>
-<p>Examination</p>
-
-<p>Filed Oct. 13th, 69</p>
-
-<ab>R. P. Reynolds<lb/>
-Clerk</ab>
-
-<pb/>
-<p>Territory of Washington<lb/>
+<p>Territory of Washington
 County of Walla Walla } SS</p>
 
-<p>At Chambers, October 13th, 1869,
-before James K. Kennedy, Judge 1st
-judicial district.</p>
+<p>To the Hon Jas K Kennedy
+Judge of the District Court of the 1st 
+judicial District W. T.</p>
 
-<p>James McAuliff, Sheriff of Walla 
-Walla County makes affidavit 
-filed therein charging John Suelling
-with committing the crime of
-Grand Larceny in Umatilla County,
-State of Oregon, in the latter part
-of the year 1868, and escaping
-from the County Jail, to which he
-had been committed, and that 
-he <del>was</del> is a fugitive from justice,
-liable to be demanded by the Governor
-of Oregon, from the Governor 
-of Washington Territory.</p>
+<p>As per writ of Habeas Corpus served
+on me as Sheriff of Walla Walla County
+W. T. by R. P. Reynolds Clerk of the 
+District Court of the 1st Judicial
+District W. T. to show cause why
+one John Doe was restrained in 
+the jail of Walla Walla County W. T.</p>
 
-<p>The defendant <add>John Suelling</add> was brought before
-me, and cautioned to say nothing
-to incriminate himself; his position
-was fully explained to him.</p>
+<p>1st That the said John Doe is a fugitive
+from justice from Umatilla County 
+Oregon</p>
 
-<p>He then voluntarily stated that 
-he had been committed to the jail
-of Umatilla County to answer the
-offense of larceny.</p>
+<p>2nd That the said John Doe broke jail
+from Umatilla County Oregon some
+time in the winter of 1868 or 1869</p>
 
-<p>James McAuliff was then sworn,
-and testified as follows.</p>
-
-<p>The prisoner, John Suelling,
+<p>3rd That in or about the 5th or 6th day of
+September 1869 I filed an affidavit
+with Charles W. Frush, Justice of the
+Peace in and for Walla Walla County 
+that the said John Doe was a fugitive 
+from justice from said Umatilla
+County Oregon on which the
+said justice issued a warrant
+for the arrest of the said John Doe
 
 <pb/>
 
-voluntarily stated to me that he 
-broke out of the jail of Umatilla
-County, Oregon, by sawing his way
-out with a saw which some person
-from the outside had given 
-him. The Sheriff of Umatilla County is now
-<add> <del>about to</del> gone to get a requisition for him</add></p>
+and in persuance of said warrant
+the said John Doe was arrested
+by me as Sheriff of Walla Walla 
+County in or about the 5th or 6th day
+of September 1869</p>
 
-<p>Subscribed and sworn 
-before me this 13th day 
-of October 1869</p>
+<p>4th And in the arrest being made
+of his own free will acknowledged
+that he did broke jail from
+Umatilla County in the winter
+of 1868 &amp; 1869</p>
+
+<p>5th That the said John Doe was committed 
+to the County jail of Walla 
+Walla County W. T. to await a 
+Requisition from the Governor of 
+Washington Territory. Said commitment
+was until the 12th day of 
+October 1869</p>
+
+<p>6th that as there was no Requisition
+arrived by request of <gap/> Thompson
+Sheriff of Umatilla County Oregon
+on the 13th day of October 1869 I made
+a further affidavit for the said 
+John Doe commitment until
+the 31st day of October 1869 which
+was granted by the above named
+Chas W. Frush Justice of the 
+Peace</p>
+
+<p>7th That the said John Doe was 
+confined in the County jail
+
+<pb/>
+
+of Umatilla County Oregon
+on the charge of Grand Larceny 
+to await the acton of the
+Grand Jury of said County</p>
+
+<p>8th Reference is made to the papers
+in the case which is now
+on file in the office of C. W.
+Frush Justice of the Peace</p>
 
 <ab>James McAuliff</ab>
 
-<p>Whereupon the prisoner was ordered 
-to enter into recognizance, conditioned
-for his appearance on or before the 
-31st day October 1869, to answer any
-demand that might be made for his
-body on a requisition, in the sum
-of five hundred dollars, or be 
-committed in default, to the County
-Jail of Walla Walla County till
-said day.</p>
+<p>Subscribed and sworn to before
+me this 13th day of Oct. 1869</p>
 
-
+<ab>R P Reynolds<lb/>
+Clerk</ab>
+    
 </div1>
     
 </body>
