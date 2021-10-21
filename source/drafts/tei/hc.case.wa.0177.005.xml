@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0177.001.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
     
 <teiHeader>
 <fileDesc>
@@ -78,15 +78,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">February 1914</date></term>
+<term><date when="1000-01">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bajlo, Tonka</term>
-<term>Crossy, Frank L.</term>
-<term>L., E. M.</term>
-<term>Neterer, Jeremiah</term>
-<term>Thiel, C. M.</term>
+<term>Bajlo, Jack</term>
+<term>Bajlo, Tonka</term>    
+<term>Ennis, Charles H.</term>    
+<term>Radovich, Nick</term>    
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -98,28 +97,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Tonka Baljo</persName>
+<persName>Tonka Bajlo</persName>
 </person>
 <person role="defendant">
 <persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Chas. H. Ennis</persName>
-<persName>Fenley Bryan</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>C. F. Riddell</persName>
-<persName>E. B. Brockway</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, Western District of Washington, Northern Division</orgName>
+<placeName>King County, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,51 +137,60 @@
 <div1 type="case">
 
 <pb/>
+
+<p>EXHIBIT B</p>
 <p>UNITED STATES DISTRICT COURT
 WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION.</p>
-
-<p>In the Matter of the Application
-of TONKA BAJLO 
-for a Writ of Habeas Corpus. ) No. 2459</p>
-
-<p>ORDER FOR WITHDRAWAL OF THE TRANSCRIPT
-OF THE BUREAU OF IMMIGRATION.</p>
-
-<p>Upon the oral motion of the United States Attorney;
-IT IS HEREBY ORDERED, That the government may permanently
-withdraw the Bureau of Immigration Transcript, filed 
-by the government as a part of the government's return to
-the Order to Show Cause in the above entitled matter.</p>
-<p>Dated this 4 day of February, 1914.</p>
-<ab>Jeremiah Neterer
-Judge.</ab>
-<p>Received the above named Bureau of Immigration Transript
-this 4th day of February, 1914.</p>
-<ab>C. M. Thiel</ab>
-<pb/>
-<p>No. 2459</p>
-
-<p>IN THE DISTRICT COURT
-OF THE UNITED STATES 
-FOR THE 
-WESTERN DISTRICT OF WASHINGTON</p>
+NORTHERN DIVISION</p>
 
 <p>In the Matter of the Application 
-of TONKA BAJLO 
-For a Writ of Habeas Corpus.</p>
+of Tonka Bajlo for the Writ of
+Habeas Corpus )</p>
 
-<p>ORDER FOR WITHDRAWAL OF THE 
-TRANSCRIPT OF THE BUREAU OF 
-IMMIGRATION.</p>
+<p>2459
+No. 1328</p>
 
-<p>FILED IN THE 
-U. S. District Court,
-Western Dist. of Washington,
-NORTHERN DIVISION
-FEB 4 - 1914
-FRANK L CROSBY, Clerk,</p>
-<ab>By E M L Deputy</ab>
+<p>AFFIDAVIT OF NICK RADOVICH</p>
+<p>STATE OF WASHINGTON 
+COUNTY OF KING ) ss. </p>
+
+<p>Nick Radovich being first duly swon on oath deposes and
+says: That I am a citizen of the United States and a resident
+of Seattle, <add>an Austrian by birth</add> and have resided here about 28 years; that I raised
+my family here and am a married man; that I am at present conducting
+a lunch counter in the Frog Solo Bar, corner of 3rd and Pike
+Streets; that on monday, April 28th, 1913, Chas. H. Ennis, in
+company with Jack Bajlo, called upon me at my place of business
+and requested me to act as interpreter at an interview, and in
+reply to my questions he <add>Jack Bajlo</add> gave me the following answers:</p>
+<p>Q. Why do you say your wife is a dirty old whore? A. Because
+she will not live with me.</p>
+<p>Q. Is that the only reason why <add>you say</add> she is a dirty whore? A. Yes.</p>
+<p>Q. Would you call her a dirty, old whore if she would live
+with you? A. No.</p>
+<p>Q. Why did you have her arrested? A. I had her arrested
+and sent back home because she would not live with me. </p>
+<p>Then if she was willing to live you you would not 
+send her back home? A. No. I do same all old country
+style. Maker her fear me. She know I boss.</p>
+<p>I asked him who told him that his wife was sleeping
+with the men where she worked and he said another Austrian, and 
+then I asked him who he was and he said that he did not know his
+name, and then I asked him where said Austrian could be found and
+he said that he did not know. When questioned about the men, who
+they were, and where they could be found he did not seem to have
+<pb/>
+anyone in mind at all; that he seemed to be lying and not at
+all sincere about his statements that his wife was a prostitue,
+or that she had been living with these men, and he said that previous 
+to their marriage he knew her to be a virtuous girl.</p>
+<ab>N Radovich</ab>
+<p>Subscribed and sworn to before me this 2nd day fo May, 1913.</p>
+<ab>Chas H Ennis
+Notary Public in and for the State
+of Washington, residing at Seattle.</ab>
+<figure></figure>
+
 </div1>
     
 </body>
