@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ray Raymond v. Territory of Washington. Supoena</title>
+<title>Ray Raymond v. Territory of Washington. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -54,15 +54,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ray Raymond v. Territory of Washington. Supoena</title>
-<date when="1886"> June 29, 1886</date>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. Subpoena</title>
+<date when="1886-06-29">June 29, 1886</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-13; SPO-1886-14</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -91,13 +91,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Raymond, Ray</term>
-<term>Morgan, J.M.</term>
-<term>Huscka, J.N.</term>
+<term>Morgan, J. M.</term>
+<term>Huschka, Joseph</term>
 <term>Bradshaw, Joseph</term>
-<term>Gillepsie, W.D.</term>
-<term>Mabue, Jos</term>
-<term>Sheninger, S.B.</term>
+<term>Gillepsie, W. D.</term>
+<term>Mabius, John W.</term>
+<term>Leininger, S. B.</term>
+<term>Bonner, W.</term>
+<term>Worthington, Pearl</term>
+<term>Stanley, Ruby</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -124,22 +126,22 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Peel, JJL</persName>
+<persName>Peel, J. J. L.</persName>
 </person>
 </listPerson>
 
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
-<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2021-10" who="#lkw">reviewed; edited</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,10 +156,11 @@
 
 <p>SUBPOENA</p>
 
-<p>Territory of Washington
-County of Spokane}ss </p>
-<p>Dr. Morgan, J.N. Huscka
-TO Joseph Bradshaw, W.D. Gillespie, Jus Mabue
+<p>Territory of Washington<lb/>
+County of Spokane} ss </p>
+<p><add>Dr. Morgan, J.N. Huscka</add>
+<add>Pearl Worthingtom Ruby Stanly W Bonner</add>
+TO Joseph Bradshaw, W.D. Gillespie, Jos Mabius
 In the name of the United States you are hereby required to appear before
 the undersigned, one of the Justices of the Peace in and for the said County, on
 the forthwith day of 188, at o'clock M. at his office in
@@ -169,14 +172,14 @@ and Ray Raymond Defendant</p>
 
 <p>Given under my hand this 29 day of June 1886</p>
 
-<p>J.J.L. Peel
+<p>J.J.L. Peel<lb/>
 Justice of the Peace</p>
 
 <pb/>
 <!-- Switch over to SPO-1886-14 -->
 
-<p>Territory of Washington
-County of Spokane}ss</p>
+<p>Territory of Washington<lb/>
+County of Spokane} ss</p>
 
 <p>I do hereby certify that I
 served the within subpoena
@@ -187,15 +190,15 @@ in Spokane County W.T.
 on this 27th day of 
 June 1886</p>
 
-<p>S.B. Lininger
+<p>S.B. Leininger<lb/>
 Constable</p>
 
-<p>Fees
-Serving 8 names at .40 3.20
-mileage 1.60
+<p>Fees<lb/>
+Serving 8 names at .40 3.20<lb/>
+mileage 1.60<lb/>
 $4.80</p>
 
-<p>Territory of Washington
+<p>Territory of Washington<lb/>
 vs.
 Ray Raymond</p>
 
@@ -203,7 +206,7 @@ Ray Raymond</p>
 
 <p>Filed June 29 1886</p>
 
-<p>J.J.L. Peel
+<p>J.J.L. Peel<lb/>
 Justice of the Peace</p>
 </div1>
     
