@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Response to Petition for Habeas Corpus</title>
+<title>Territory of Washington V. Sterling P. White. Order declining Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White. Response to Petition for Habeas Corpus</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Territory of Washington V. Sterling P. White. Order declining Petition</title>
+<date when="1885-02-13">February 13th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,15 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1885-02">February 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Feuerbach, Kate W.</term>
+<term>Strobach, R.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Lincoln County, Washington</term>
+<term>Yakima, Washington</term>
+<term>Cheney, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,13 +104,14 @@
 <persName>Cody, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Smallwood, W. A.</persName>
+<persName>Benson, E.F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Hyde, S. C.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Turner, George</persName>
 </person>
 </listPerson>
             
