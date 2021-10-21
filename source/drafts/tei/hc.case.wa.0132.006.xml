@@ -1,174 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>Clerks Fees~ R. Strobach, Deputy
-To Docket .25
-appearance .50
-Ent. &amp; file J.P. Transcript .35
-" " Indictment .60
-Certified Copy Indictment 2.00
-Arraignment - plea tomorrow .50
-Taking plea "not guilty" .50
-To two subpoeanas 1.00
-one subpoena .50
-three subpoenas 1.50
-file six subpoenas .60
-issue joined .50
-Calling jury-swear answer questions .75
-Swear 17 jurors &amp; talesman separately 2.55
-Swear jury by case .25
-Swear 22 witnesses 3.30
-Swear Bailiff .15
-Calling jury &amp; file verdict .35
-Get claim 30 witnesses 4.50
-Sentence .50
-Certified Copy of Sentence 1.40
-Final Record 3.40
-Taxing Cost .50
-Tree Transcripts 6.00
-Three certificates 3.00 34.95
-Amount carried forward $34.95
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Amount Brought Forward 34.95
-Sheriffs Fees~ John Cody
-To serving one subpoena 1 name 2 miles .60
-" " " 2 " 4 " 1.20
-" " " 2 " 150 " 15.80
-" " " 3 " 100 " 11.20
-" " " 3 "  1.20
-" " " 2 " 176 18.40
-" " "  30 " 3.00
-" " " 1 " 48 " 5.20
-" " " 1 " 2 " .60
-" " " 1 " 4 " .80
-" " " 1 " 14 " 1.80
-" " " 1 " 2 " .60
-" " " 1 " 2 " .60
-" " " 1 " 164 " 16.80
-" " " 1 " 2 " .60
-" " " 1 " 146 " 15.00
-" " " 1 " 162 " 16.20
-" " " 2 " 4 " 1.20
-" " " 1 " 12 " 1.60
-" " " 1 " 2 " .60
-" " " 1 " 2 " .60  113.60
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0132.006">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Sterling P. White. Bill of Costs</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
-Sheriffs Fees~ E.F. Whittier
-To Serving 1 subpoena 1 name 1 mile .60
-calling jury 8 times 2.00
-Calling 4 witnesses 2.10  4.70
- 
-Sheriffs Bill J.J. Tyler, Yakima
-County for keeping prisoner while
-committed to jail there by order of
-the court from Feb. 17th 1885 to 
-April 13th 1885, 55 days 55.00
-To medicine furnished 3.00  58.00
-Amount carried forward $211.25
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0132.006</idno>
 
-Amount brought forward $211.25
-Witnesses in District Court on Behalf of the
-Territory
-S. W. Condin 8 days 150 miles 31.00
-Josiah Cole 14 " 28.00
-Allen Emerson 5 " 140 24.00
-W.W. Rhodes 7 " 150 29.00
-O.J. Rodgers 4 " 50 13.00
-J.H. Portch 14 " 28.00
-Frank Beardon 14 " 28.00
-Henry Beardon 14 " 28.00
-J.T. Beardon 14 " 28.00
-C.T. Brindle 14 " 28.00
-Mrs. M.A. Lyle 7 " 14.00
-S.L. Short 9 " 150 miles 33.00
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. Sterling P. White. Bill of Costs</title>
+<date when="1885">1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-06</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-02">February 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0132.006"/>
+<p>In the District Court of Washington
+Territory, Fourth Judicial District.
+April Term at Cheney
+The Territory of Washington
+vs. 
+Sterling P. White
+
+Bill of Costs 
+Filed 188
+Auditor</p>
+
+<pb/>
+<p>Sheriffs Fees John Cody</p>
+
+<p>To serving 1 subpoena 1 name 2 miles .60
+" " 1 " 2 " 4 " 1.20
+" " 1 " 2 " 144 " 15.20
+" " 1 " 3 " 174 " 18.60
+" " 1 " 3 " 164 " 17.20
+" " 1 " 2 " 176 18.40
+" " 1 " - " 30 3.00
+" " 1 " 1 " 48 5.20
+" " 1 " 1 " 2 .60
+" " 1 " 1 " 4 .80
+" " 1 " 1 " 14 1.80
+" " 1 " 1 " 2 .60
+" " 1 " 1 " 2 .60
+" " 1 " 1 " 164 16.80
+" " 1 " 1 " 2 .60
+" " 1 " 1 " 2 .60
+" " 1 " 1 " 146 15.00
+" " 1 " 1 - 162 16.20
+" " 1 " 2 - 4 1.20
+" " 1 " 1 " 12 1.60
+" " 1 " 1 " 2 .60 136.40
+Witnesses in Dist. Court
+S.W. Condin 8 days 150 miles 31.00
+Josiah Cole 14 " - " 28.00
+Allan Emerson 5 " 140 " 22.00
+W.W. Rhodes 7 " 150 " 29.00
+O.J. Rogers 4 " 50 " 13.00
+J. H. Portch 14 " - " 28.00
+Frank Beardon 14 " - " 28.00
+Henry Beardon 14 " - " 28.00
+C.T. Brindle 14 " - " 28.00
+J.T. Beardon 14 " - " 28.00
+Mrs. M.A. Lyle 7 " " " 14.00
+J.T. Harte 1 " 146 16.60
+293.60 136.40</p>
+<pb/>
+
+<p>
+Amt. Brght. Ford. 293.60 136.40
+S.L. Short 9 days 150 miles 33.00
 E.A. Portch 14 " 28.00
-W.W. Williams 10 " 160 36.00 376.00
+D.E. Stephey 9 " 150 " 33.00
+Eva L. Stephey 9 " 150 " 33.00
+C. B. White 11 " 150 " 37.00
+J.D. Moyer 9 " 150 " 33.00
+F.M. Tuftle 9 " 150 " 33.00
+John H. Januk 9 " 150 " 33.00
+E. H. Warren 9 " 150 " 33.00
+J. P. Short 9 " 150 " 33.00
+G.W. Sherman 9 " 150 " 33.00
+R.C. Welch 10 " " 20.00
+D T. Russell 9 " 150 " 33.00
+C. Harold 6 " 180 " 30.00
+H. Wynhoff 7 " 150 " 29.00
+W. Williams 10 " 160 " 36.00
+F. M. Spencer 10 " 160 " 36.00
+Allan Stoakey 6 " 140 " 26.00
+A. Stoakey 6 " 140 " 26.00
+J.C. Williams 9 " 150 " 33.00  924.60</p>
 
-Amount Brought Forward 1170.05
-Costs in hearing writ of Habeas Corpus
-before Judge Turner at Chambers at Spokane
-Sheriffs Fees~John Cody Sheriff
-To guarding prisoner 45 days @ $2.00
-THere being no jail in Loncoln County,
-and as order having been made
-by the court where to confine prisoners
-from said county 90.00
-To boarding prisoner 45 days while in custody 45.00
-Serving writ Habeas Corpus &amp; mileage 1.20
-Attendance on hearing writ with prisoner 3.00
-Committing prisoner to jail at Yakima
-450 @ .10 per mile 45.00
-Mileage on prisoner 225 miles 22.50
-Board for prisoner 3 days 3.00
-Serving order to convey prisoner from
-Yakima to Cheney for trial 1.00
-Mileage form Sprague to Yakima 
-and return to Cheney 475 miles 47.50
-Mileage on prisoner form Yakima
-to Cheney 250 miles 25.00
-Board three days 3.00
-Serving one subpoena 8 names 750 miles 28.20
-Serving one subpoena 5 names 2.00
-Guarding Prisoner 5 days while on
-route from Yakima to Cheney $3.00 per day 9.00  326.40
-
-Witnesses in attendance on behalf 
-of Territory on hearing of habeas corpus
-O.J. Rogers 4 days 140 miles 22.00
-Josiah Cole 4 " 140 " 22.00
-E.A. Portch 4 " 140 " 22.00
-J.H. Portch 4 " 140 " 22.00
-C.T. Brindle 4 " 140 " 22.00
-Frank Beardon 4 " 140 " 22.00  132.00
-Amount carried forward  1629.25
-
-Amount brought forward
-H. Beardon 4 days 140 miles 22.00
-J.L. Beardon 4 " 140 " 22.00  44.00
-<del>Witnesses who testified on behalf of
-defendant in above hearing
-R.C. Welch 4 days 140 miles 22.00
-John Januk 4 " 140 " 22.00
-C.B. White 4 " 140 " 22.00
-G.W. Sherman 4 " 140 " 22.00 88.00 </del>
-Costs in Justice Court-J.W. Carpenter J.P.
+<p>
+Cost in Justice Court
+Justice Fees J.W. Carpenter
 To issuing warrant 1.00
-Committing to Jail .50
-Issuing subpoenas 6 names after 1.22 .85
-Swearing 9 witnesses 1.35
-Taking affidavit .25  3.95
-Sheriffs Fees in Justice Court
-John Cody Sheriff by J.H. Friedlander Dep.
-To attendance 1 day with prisoner 3.00
-Servinf 1 subpoena 9 names 38 miles 7.40
-Calling 9 witnesses .90
-Serving warrant &amp; 18 miles 2.80
-Committing to jail 1.00
-Mileage 150 miles 15.00
-Guarding prisoner 13 days at Sherman
-W.T. he being unable to undergo Trans-
-portation owing to wounds received,
-13 days at $2.00 per day 26.00  56.10
-Witnesses in Justice Court for territory 
-O.J. Rogers 1 day 20 miles 4.00
-J.H. Portch 1 " 2 " 2.20
-H. Beardon 1 " 10 " 3.00
-F. Beardon 1 " 10 " 3.00
-E.A. Portch 1 " 2 " 2.20  14.40
-Amount carried forward $1747.70
+" committing to jail .50
+" issuing subpoena .25
+" 6 names after 1.50 .60
+" swearing 9 witness 1.35
+" taking affidavit .25  3.95</p>
 
-Amount brought forward 1747.70
-<del>Witnesses in Justice Court on behalf 
-of Defendant
-R.C. Welch 1 day 25 miles 4.50
-John Januk 1 " 20 " 4.00
-G.W. Sherman 1 " 2 " 2.20
-W. Williams 1 " 10 " 3.00  15.70</del>
-To William Rhodes for guarding
-prisoner 13 nights at Sherman W.T. 
-at $2.00 per night 26.00  26.00
-To H.T. Warren for conveying
-prisoner to Sprague from Brent W.T. 25.00  25.00
-TO J.H. Friedlander for guarding
-prisoner in conveying him to
-Sprague W.T. 6 days @ $2.00 per
-day &amp; 140 miles 26.00  26.00
-Total amount $1824.70</p>
+<p>
+Sheriffs Fees J Friedlander Depty.
+To one day attendance 3.00
+" serving i subpoena 9 names 38 miles 7.40
+" calling 9 witnesses .90
+" mileage to and from Justice Court 28 mi. 2.80
+amt. fowd. 14.10  1079.05</p>
+
+<pb/>
+
+<p>Amt. Brght. Ford. 14.10  1079.05</p>
+<p>committing to jail 1.00
+Converying to and return 6 days 18.00
+mileage " " " ' 140 miles 14.00
+guarding prisoner at Sherman 13 days 26.00  73.10</p>
+
+<p>Witness in Justice Court</p>
+<p>O.J. Rogers 1 day 2.00
+H Portch 1 " 2.00
+R.C. Welch 1 " 2.00
+H. Beardon 1 " 2.00
+F. Beardon 1 " 2.00
+John Januk 1 " 2.00
+G.W. Sherman 1 " 2.00
+W. Williams 1 " 2.00
+E.A. Portch 1 " 2.00  18.00</p>
+
+<p>A.J. Steigenwait transporting
+witness who receive no mileage 8.00  8.00</p>
+
+<p>William Rohdes guard 13 days 2.00  26.00</p>
+
+<p>H.F. Warren conveying prisoner to 
+Jail at Spokane 25.00</p>
+
+<p>C.T. Blacktan guard conveying
+prisoner to Sprague 6 days 140 miles 26.00</p>
+
+<p>1255.15</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
