@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.004.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Order for Withdrawl of Exhibit.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0180.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Order for Withdrawl of Exhibit.</title>
+<date when="1914-05-28">May 28, 1914</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1914-05">May 1914</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Thiel, C. N.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Sugiura, B. K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Crosby, Frank L.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
+</person>
+<person role="defendant">
+<persName>United States of America</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Mayers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClelland, R. N.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
+</person>
+<person role="judge">
+<persName>Netterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>United States District Court
+Western District of Washington
+Northern Division.</p>
+<p>In the Matter of the Petition
+of Albert H. Young and Kamasaburo
+Sugiura, alias B.D. 
+Sugiura, aliens, for Writ Of
+Habeas Corpus } No. 2628
+Order For Withdrawl Of
+Exhibit</p>
+<p>Upon the oral motion of the United States Attorney;
+It Is Hereby Ordered, That the government may permanently 
+withdraw the Bureau of Immigration Transcripts
+filed by the government on January 19, 1914 as a part of
+the government's return to the writ of habeas corpus in the
+above entitled matter.</p>
+<p>Dated this 28 day of May, 1914.</p>
+<ab>Jeremiah Netterer
+Judge.</ab>
+<p>Received the above exhibit this 28 day of May, 1914.</p>
+<p>C.N. Thiel</p>
+<pb/>
+<p>2x No. 2628</p>
+<p>In the District Court
+of the United States
+for the 
+Western District of Washington
+50B-4-499</p>
+<p>In the Matter of the Petition
+of Albert H. Young and 
+Kamasaburo Sugiura, alias B
+K. Sugiura, aliens, for Writ
+of Habeas Corpus.</p>
+<p>Order for Withdrawal of
+Exhibit.</p>
+<p>Filed in the
+U.S. District Court,
+Western Dist. of Washington.
+May 28 1914
+Frank L. Crosby, Clerk
+By EML Deputy</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
