@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0469.001"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>In the Matter of The Application of Antwine Michel for a Writ of Habeas Corpus. Petition</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0469.001</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">In the Matter of The Application of Antwine Michel for a Writ of Habeas Corpus. Petition</title>
+<date when="1898-01-29">January 29, 1898</date>
+<note type="project">Our transcription is based on a digital image.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
+<idno>655AntwineMichel</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1898-01">January 1898</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Marshal, J. W.</term>
+<term>Whil-Ochen, John</term>
+<term>Pugh, Felix</term>
+<term>Robertson, F. C.</term>
+<term>Ayres, A. Reeves</term>
+<term>Matthew, H. M. </term>
+<term>Anderson</term>
+<term>Hopkins, Robert M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+<term>Colville Indian Reservation, Washington</term>
+<term>Stevens County, Washington</term>
+<term>Kettle River, Washington</term>
+<term>Marcus, Stevens County, Washington</term>
+<term>Grand Forks, British Columbia, Canada</term>
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Michel, Antwine</persName>
+</person>
+<person role="defendant">
+<persName>Ide, Clarence W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robertson, F. C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Gay, Wilson R.</persName>
+</person>
+<person role="judge">
+<persName>Hanford, Cornelius H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, District of Washington, Northern Division</orgName> 
+<placeName>Seattle, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="lkw">review</change> 
+<change when="2021" who="mg">transcribed</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0469.001"/>
+
+
+
+<!-- start .004 here Order -->
+
+<pb/>
+
+<p>In the Circuit Court of the United States for the District of
+Washington, Northern Division.</p>
+
+<p>In re- Antwine Michel,<lb/>
+Petitioners Ex parte,</p>
+
+<p>The court having ordered a writ of Habeas Corpus to issue
+herein, to the Marshal of the United States for the District of 
+Washington,</p>
+
+<p>Now comes the Attorney of the United States for the District
+of Washington and states to the court that the offense with which
+petitioner is charged was not committed at any place within the 
+jurisdiction of the United States Courts, but was committed
+in the County of Stevens in the State of Washington, in that 
+certain territory formerly embraced in the North half of the
+Colville Indian Reservation in said county, which was relinquished
+from said reservation and restored to the public domain by the
+act of Congress of July 1, 1892.</p>
+
+<p>And moves the court to order the said Marshal to deliver
+the body of said petitioner to the sheriff of said Stevens County
+to be dealt with according to the laws of the state of Washington,</p>
+
+<p>And the court having heard said motion and carefully considered the same, the court finds the facts stated to be true, and 
+sustains said motion. It is therefore ordered and adjudged that
+the said Marshal notify the said Sheriff of Stevens County, Washington, of this order, and upon demand of said Sheriff, said Marshal
+shall deliver to said Sheriff the body of said petitioner, but
+if no such demand be made within five day then aid Marshal release said petitioner from custody.</p>
+
+<p>C. H. Hanford<lb/>
+Judge.</p>
+
+<pb/>
+
+<p><unclear>Tx</unclear></p>
+<p>GoB. 5-2224</p>
+
+<p>No. 655</p>
+
+<p>IN THE Cir COURT <lb/>
+OF THE UNITED STATES<lb/>
+FOR THE<lb/>
+DISTRICT OF WASHINGTON</p>
+
+<p>In re–<lb/>
+Antwine Michel</p>
+
+<p> vs.</p>
+
+<p>Order.</p>
+
+<p>Filed January 31 1898<lb/>
+A Reeves Ayres Clerk<lb/>
+By HM Matthew Deputy</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
