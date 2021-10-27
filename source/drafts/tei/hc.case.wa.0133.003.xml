@@ -1,37 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>Sheriffs Fees John Cody Sheriff
-To Board holding of prisoner at Spraguw 4 days 8.00
-" Fare from Sprague to Yakima 13.00
-" guarding prisoner 4 days 12.00
-" mileage from Sprague to Yakima return 440 miles 44.00  77.00
-Sheriffs Fees J.J. Tyler Yakima County-
-To board of prisoner 45 days @ 1.00 25.00  25.00
- Cost in justice Court
-Justice Fees ). Hall
-To issuing warrant 1.00
-" " 1 subpoena .25
-" admministering to rates 15 each .90
-" filing <unclear>speakers</unclear> 15 " .45
-" taxing cost .50
-" commitment .50
-" approving bond of witness .50
-" 8/2 folios certified copy preceedings 1.80  5.90
-Constable Fees J.S. Howard
-To serving warrant &amp; mileage 6.60
-" mileage commitment mileage 4.00
-" guard 3 days @ 2.00 6.00
-" commitment 1.00
-" Boarding prisoners 2 days 1.00 2.00
-" team conveying prisoners property to justice 8.00
-" " " " " to jail 4.00  31.60
-To amt brought fowd.
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Amt. brght. fowd. 
-C. R. Peters acting constable 4.00
-TO boarding prisoner one day @ 1.00 1.00
-" witness fees one day 2.00  $7.00
-Henry Chilton scting constable four days 4.00
-Witness fees one day 2.00
-mileage 2 miles .20  6.20
-Frank Wynfeld Witness 1 day 2 miles 2.20 2.20
-Frank Taylor " " 10 " 3.00 3.00</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0133.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Sterling P. White. Sheriff Fees</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0133.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. Sterling P. White. Sheriff Fees</title>
+<date when="1885-04">April, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-08</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-04">April 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0133.003"/>
+<p>The Territory 
+vs. 
+S.P White } Charge = murder in second degree
+The prisoner is charged in the 
+indictment with the offence 
+of murder in the seond degree,
+committed by killing one <del>light</del>
+alias Light Beardon in Lincoln
+County in this territory.
+That the deceased person named 
+in the indictment was <del>killed 
+shot by</del> murdered by a bullet 
+fired from a pistol in the hands
+of the defendant and that he died
+from said wound a couple of days
+thereafter, is not disputed by the
+defense.
+The defense maintains the position
+that the fatal shot was fired by 
+the prisoner in the necessary 
+defense of his person. The law
+decrees to all the right to use
+deadly weapons to protect this person
+from death or great bodily harm.
+It is not every apprehended dan-
+ger however that will justify a
+killing in selfdefense. He must
+be a serial danger <del>to the life</del> 
+and one liekly in the apprehension
+of a reasonable man, to 
+result in loss of life or great bodily
+injury. The danger must appear to be
+imminent and innundated,
+lest a contingent danger.
+That he is owed not be real.
+If the facts and <unclear></unclear>
+were such as to indulge a reason-
+able man to believe that is
+actually existed.
+A person, in no way in the wrong,
+need not go out of his way to 
+avoid danger, and being in a 
+position adhere he has the right
+to be, may stead on his rights
+and rebel unlawful as soon
+with such force as may be necessary.
+even to the taking of human life,
+if it be excused, to use so much
+force to save his own life or to
+save his person form great bodily 
+harm.
+A person, who by his own aggres-
+sion, brings on a diffienly
+does not plead in the acue
+position. If he came he cannot
+avoid a conflict, and if he
+finds himself in danger and can
+avoid it either by retreating or 
+by calling for assistance, or by
+yielding to a just demand upon
+the part of the person or persons
+attacking hum, and instead of
+avoiding the danger acts is by
+taking life, he is not justifies in the grounds of self defense.
+But if a person in the wrong as I 
+have stated, has avoided a 
+conflict by using means in his 
+power and still he finds him-
+self in danger, of life or great bodily harm, 
+and he can do nothing other
+or further to save himself, then
+he may use to his rights of
+self defense, but with this 
+indictment that he must 
+not have put himself in da</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
