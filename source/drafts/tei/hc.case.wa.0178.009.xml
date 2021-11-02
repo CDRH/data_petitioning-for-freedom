@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mac Fock v. State of Washington. Type of document</title>
+<title>Mac Fock v. State of Washington. Petition of Mac Fock</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mac Fock v. State of Washington. Type of document</title>
+<title level="m" type="main">Mac Fock v. State of Washington. Petition of Mac Fock</title>
 <date>when="1913">1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -78,15 +78,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-06">June 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Mac Fock</term>
+<term>Ellis De Bruler</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle</term>
+<term>King County, Washington</term>
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Port of Seattle</term>
+<term>China</term>
+<term>City of Albans, Vermont</term>
 </keywords>
 
 </textClass>
@@ -121,7 +127,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,7 +148,7 @@ OF WASHINGTON, NORTHERN DIVISION.</p>
 of MAC FOCK for a Writ of Habeas 
 Corpus.</p>
 <p>PETITION OF MAC FOCK.</p> 
-<p>COMES now Mac Fock, of Seattle, King Count, Washington, 
+<p>COMES now Mac Fock, of Seattle, King County, Washington, 
 and respectfully makes this application for a writ of 
 habeas corpus, alleges as follows:</p>
 <p>I.</p>
@@ -191,7 +197,7 @@ seventeen (17) years in the United States of America, the sai d
 order of discharge being in his possession , that is, the possession 
 of said Mac Fock, on the ground that he is a native born Chinese, 
 which said discharge was granted by the United States Commissioner, 
-Filed w. <unclear></unclear>, in the City of St. Albans 
+Filed w. Felix W. McGettrick, in the City of St. Albans 
 State of Vermont, on the 12th day of June, A.D. 1896
 being, as your petitioner is informed and believes and so states 
 the fact to be, a court of competent jurisdiction both of the 
@@ -230,9 +236,21 @@ together with the time and cause of his detention, and said writ,
 and that he may be restored to liberty according to the habeas 
 corpus act of the United States of America.
 Dated this 9th day of June, A.D. 1913</p>
-<p><unclear></unclear>
+<p>L. Frank Brown
 Attorney for Petitioner.</p>
-
+<pb></pb>
+<p>STATE OF WASHINGTON
+COUNTY OF KING } ss.</p>
+<p>MAC FOCK, the petitioner, named in the foregoing petition, 
+being first duly sworn, on oath deposes and says: that he has 
+heard read the said petition, knows the contents therof, and 
+that the same is true of his own knowledge, except the matters 
+therein stated upon his information and belief, and as to these 
+matters, he believes them to be true.</p>
+<p>Witness Henry A. Mourer, <unclear reason="chinese"></unclear> (Mac Fock)</p>
+<p>Subscribed and sworn to before me this 9th day of June, 1913.</p>
+<p>Benjamin M. Leowiz
+Notary Public in and for the State of Washington, residing at Seattle.</p>
 </div1>
     
 </body>
