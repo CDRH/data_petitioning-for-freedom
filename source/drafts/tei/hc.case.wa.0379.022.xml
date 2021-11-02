@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0379.022.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Francois Lafontaisis vs United States</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0379.022</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">Franscois Lafontaisis v. United States Writ of Habeas Corpus</title>
 <date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -94,19 +95,20 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Francois Lafontaisis</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>LB Nash</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Samuel Wingard</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>JR Lewis</persName>
+    <persName>SC Wingard</persName>
 </person>
 </listPerson>
             
@@ -131,7 +133,7 @@
 
 <p>March 5th 1874</p>
 <p>A. Seitel - Sworn - I know the Defendant saw him on the fourth of March - saw him opposite
-Bentleys Saloon - followed him - saw him give bottle to the Indian - it was () the back, back of Cal
+Bentleys Saloon - followed him - saw him give bottle to the Indian - it was around the back, back of Cal
 beverage house - saw the Indian with two bottles of whiskey - took them from him - same as now in
 court - examined the contents - found it to be whiskey - the Indian in court is the same - I
 arrested the Deft.</p>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0149.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Lee Fong v. John Sullivan. Answer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0149.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Lee Fong v. John Sullivan. Answer</title>
+<date when="1902-09-04">September 4, 1902</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +79,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1902-09">September 1902</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bryant, F. E.</term>
+<term>Yesler, H. L.</term>
+<term>Forrest, W. R.</term>
+<term>Melor, E. W.</term>
+<term>Riplinger, James</term>
+<term>Hopkins, R.M.</term>
+<term>Walthew, H. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, King County, Washinton</term>
 </keywords>
 
 </textClass>
@@ -94,33 +101,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Fong, Lee</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Sullivan, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiestling, J. M.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>DeBruler, Ellis</persName>
+<persName>Gillian, Mitchell</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
+<persName>George, R. R.</persName>
+<persName>Gilber, William B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court for the District of Washington</orgName>
+<placeName>Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,17 +144,17 @@
 <div1 type="case">
 
 <pb/>
-IN THE DISTRICT COURT OF THE UNITED STATES, 
+<ab>IN THE DISTRICT COURT OF THE UNITED STATES, 
 IN AND FOR THE DISTRICT OF WASHINGTON,
-NORTHERN DIVISION.
+NORTHERN DIVISION.</ab>
 
-In the Matter of the Application 
+<ab>In the Matter of the Application 
 of Lee Fong for a 
-Writ of Habeas Corpus.
+Writ of Habeas Corpus.</ab>
 
-ANSWER.
+<ab>ANSWER.</ab>
 
-Comes now John Sullivan, as Chief of Police of the
+<p>Comes now John Sullivan, as Chief of Police of the
 City of Seattle, King County, Washington, and in compliance
 with the order from this Honorable Court, and in answer to 
 petition herein, says: That he is the Chief of Police of 
@@ -155,23 +165,23 @@ this much of the allegations of the petition is admitted,
 but as to each and every other allegation contained in said
 petition, he has not sufficient knowledge or informtion upon
 which to form a belief, and therefore denies each and every
-other allegation contained in said petition.
+other allegation contained in said petition.</p>
 
-John Sullivan, as Chief of Police of the City of 
+<p>John Sullivan, as Chief of Police of the City of 
 Seattle, King County, Washington, further answering said petition,
 and for cause why he had said petitioner in his custody
-and why a writ of habeas corpus should not issue, says:
+and why a writ of habeas corpus should not issue, says:</p>
 
-That on the 29th day of August, 1902, a complaint
+<p>That on the 29th day of August, 1902, a complaint
 was filed before Hon. R. R. George, one of the Justices of
 the Peace and Police Judge in and for the City of Seattle,
-charging the defendant, Lee Fong, with the violation of Sections
+charging the defendant, Lee Fong, with the violation of Sections</p>
 
-I
+<ab>1</ab>
 
 <pb/>
 
-6 and 7 of Ordinance No. 710 of the City of Seattle, 
+<p>6 and 7 of Ordinance No. 710 of the City of Seattle, 
 and upon said complaint being filed, a warrant was issued 
 from said Court directing the said Sullivan to make the arrest
 of said Lee Fong, and by reason of the authority of said
@@ -179,56 +189,57 @@ complaint and warrant, the said Lee Fong was in the custody
 of said Sullivan as Chief of Police. A certified copy of said
 warrant and complaint, as well as a certified copy of said ordinance,
 are hereby attached, referred to and made a part of 
-this answer. 
+this answer. </p>
 
-John Sullivan
-Chief of Police of the City of Seattle.
+<ab>John Sullivan</ab>
+<ab>Chief of Police of the City of Seattle.</ab>
 
-State of Washington,
-County of King.
+<ab>State of Washington,
+County of King.</ab>
 
-ss.
+<ab>ss.</ab>
 
-JOHN SULLIVAN, being first duly sworn, says: That 
+<p>JOHN SULLIVAN, being first duly sworn, says: That 
 he is the Chief of Police of the City of Seattle, King County,
 Washington, and the one upon whom was served an order from 
 this Honorable Court to show cause why a writ of habeas corpus
 should not issue for Lee Fong, and the one having in
 charge the said Lee Fong at the time of the service of said
 order, and that he has read the answer herein, knows fully
-the contents thereof, and believes the same to be true.
+the contents thereof, and believes the same to be true.</p>
 
-John Sullivan
+<ab>John Sullivan</ab>
 
-Subscribed and sworn to before me this
-4th day of September, 1902.
+<ab>Subscribed and sworn to before me this
+4th day of September, 1902.</ab>
 
-Ellis <unclear>D</unclear> Butler
-Notary Public in and for the State
-of Washington, residing at Seattle. 
+<ab>Ellis <unclear>E</unclear> Butler</ab>
 
-2
+<ab>Notary Public in and for the State
+of Washington, residing at Seattle. </ab>
+
+<ab>2</ab>
 
 <pb/>
 
-THE CITY OF SEATTLE 
+<ab>THE CITY OF SEATTLE 
 IN THE JUSITCE COURT IN AND FOR SEATTLE PRECINCT
-King County, Washington.
-Before R. R. George,
-Police Judge.
+King County, Washington.</ab>
+<ab>Before R. R. George,
+Police Judge.</ab>
 
-THE CITY OF SEATTLE
-vs. Lee Fong.
+<ab>THE CITY OF SEATTLE
+vs. Lee Fong.</ab>
 
-Criminal Complaint.
+<ab>Criminal Complaint.</ab>
 
-STATE OF WASHINGTON,
+<ab>STATE OF WASHINGTON,
 County of King,
-The City of Seattle..
+The City of Seattle..</ab>
 
-ss.
+<ab>ss.</ab>
 
-F. E. BRYANT, being first duly sworn, says: 
+<p>F. E. BRYANT, being first duly sworn, says: 
 That on the 29th day of August 1902, at the City of Seattle, in
 said King County, Washington, the said Lee Fong did commit
 a misdemeanor as follows, <del>to-wit</del> by carrying on a public 
@@ -243,87 +254,87 @@ in a building constructed either of brick, stone, nor
 covered with a metal roof, all of which is contrary to Ordinance
 No. 710, Sections 6 and 7, of the City of Seattle,
 entitled "An Ordinance regulating the establishment and maint
-enance of public laundries and public wash-houses within
+enance of public laundries and public wash-houses within</p>
 
 <pb/>
 
-the limits of the City of Seattle, approved February 6,
+<p>the limits of the City of Seattle, approved February 6,
 1886, and against the public morals, peace and good order
-of the City of Seattle.
+of the City of Seattle.</p>
 
-F. E. Bryant
+<ab>F. E. Bryant</ab>
 
-Subscribed and sworn to before me, this 30th day of 
-August, 1902.
+<ab>Subscribed and sworn to before me, this 30th day of 
+August, 1902.</ab>
 
-R. R. George
-Police Judge.
+<ab>R. R. George
+Police Judge.</ab>
 
 <pb/>
 
-WARRANT OF ARREST.
+<ab>WARRANT OF ARREST.</ab>
 
-THE CITY OF SEATTLE,
+<ab>THE CITY OF SEATTLE,
 Plaintiff,
 vs.
 Lee Fong,
-Defendant.
+Defendant.</ab>
 
-WARRANT
+<ab>WARRANT</ab>
 
-State of Washington, 
+<ab>State of Washington, 
 County of King,
-The City of Seattle.
+The City of Seattle.</ab>
 
-ss. 
+<ab>ss. </ab>
 
-In Justice Court, Seattle
-Precinct, R.R. George, Police Judge.
+<ab>In Justice Court, Seattle
+Precinct, R.R. George, Police Judge.</ab>
 
-THE STATE OF WASHINGTON to the CHIEF OF POLICE OF SAID CITY,
-OR SHERIFF OR CONSTABLE OF SAID COUNTY, GREETING:
+<p>THE STATE OF WASHINGTON to the CHIEF OF POLICE OF SAID CITY,
+OR SHERIFF OR CONSTABLE OF SAID COUNTY, GREETING:</p>
 
-WHEREAS, F. E. Bryant has this day complained in
+<p>WHEREAS, F. E. Bryant has this day complained in
 writing, under oath, to the undersigned, one of the Justices
 of the Peace and Police Judge in and for said Seattle Precinct,
 King County, that on the 29th day of August, 1902,
 Lee Fong, in said City, County and State, did commit the offense
 of unlawfully establishing, maintaining and carrying
 on a laundry in said city without a permit from the City
-Council of said City.
+Council of said City.</p>
 
-WHEREFORE, In the name of the State of Washington,
+<p>WHEREFORE, In the name of the State of Washington,
 you are commanded forthwith to apprehend the said Defendant
-and bring him before me to be dealt with according to Law.
+and bring him before me to be dealt with according to Law.</p>
 
-Given under my hand this <del>3rd</del> 30th day of August, 1902.
+<p>Given under my hand this <del>3rd</del> 30th day of August, 1902.</p>
 
-R.R. GEORGE
-Police Judge.
+<ab>R.R. GEORGE
+Police Judge.</ab>
 
-STATE OF WASHINGTON,
+<ab>STATE OF WASHINGTON,
 County of King,
-The City of Seattle.
+The City of Seattle.</ab>
 
-ss.
+<ab>ss.</ab>
 
-I Hereby Certify, That I have arrested the within
+<p>I Hereby Certify, That I have arrested the within
 named Lee Fong and have him now in court.
 John Sullivan
-Chief of Police.
+Chief of Police.</p>
 
-By F. E. Bryant,
-Police Officer.
+<ab>By F. E. Bryant,
+Police Officer.</ab>
 
 <pb/>
 
-STATE OF WASHINGTON,
+<ab>STATE OF WASHINGTON,
 County of King,
-City of Seattle.
+City of Seattle.</ab>
 
-ss.
+<ab>ss.</ab>
 
-I, R. R. George, a Justice of the Peace and Police
+<p>I, R. R. George, a Justice of the Peace and Police
 Judge of the City of Seattle, King County, Washington, do
 hereby certify that the foregoing and annexed complaint and 
 warrant is a true and correct copy of the original complaint
@@ -337,41 +348,41 @@ Defendant,
 
 and that the annexed and attached papers are all the process 
 and other papers relating to the action and filed with me,
-and all of which is correct.
+and all of which is correct.</p>
 
-Dated at Seattle, Washington, -by- day of September,
-1902.
+<ab>Dated at Seattle, Washington, -by- day of September,
+1902.</ab>
 
-R. R. George
+<ab>R. R. George
 Police Judge of the 
-City of Seattle. 
+City of Seattle. </ab>
 <pb/>
 
-ORDINANCE NO. 710.
+<ab>ORDINANCE NO. 710.</ab>
 
-AN ORDINANCE regulating the establishment and maintenance of 
+<p>AN ORDINANCE regulating the establishment and maintenance of 
 public laundries and public wash-houses within the limits
-of the City of Seattle.
+of the City of Seattle.</p>
 
-WHEREAS, The indiscriminate establishment of public 
+<p>WHEREAS, The indiscriminate establishment of public 
 laundries and public wash-houses, where clothes and other
 articles are cleaned for hire, is injurious and dangerous
 to public health and public safety, and prejudicial to the
 well-being and comfort of the community and depreciates the
 value of the property in those neighborhoods where such public
-laundries and such public wash-houses are situte:
+laundries and such public wash-houses are situate:</p>
 
-The City of Seattle does ordain as follows:
+<p>The City of Seattle does ordain as follows:</p>
 
-Section 1. On and after the passage of this ordinance 
+<p>Section 1. On and after the passage of this ordinance 
 it shall be unlawful for any person or persons to establish, 
 maintain or carry on the business of a public laundry
 or a public wash-house, where clothes or other articles are
 cleansed for hire, wtihin the corporate limits of the City 
 of Seattle, without having first complied with the conditions
-hereinafter specified.
+hereinafter specified.</p>
 
-Sec. 2. It shall be unlawful for any person or
+<p>Sec. 2. It shall be unlawful for any person or
 persons to conduct or maintain a public laundry or wash-house
 within the city of Seattle without having first obtained 
 a certificate signed by the health officer of the
@@ -380,21 +391,21 @@ drained and that all proper arrangements for carrying on
 the business without injury to the sanitary conditions of the 
 neighborhood have been complied with, also a certificate
 signed by the chief of the fire department of the City of
-Seattle that the stoves, washing and drying apparatus and 
+Seattle that the stoves, washing and drying apparatus and </p>
 
-1 
+<ab>1</ab>
 
 <pb/>
 
-the appliances for heating smoothing irons are in good condition,
+<p>the appliances for heating smoothing irons are in good condition,
 and that their use is not dangerous to the surrounding 
 property from fire, and that all proper precautions have 
 been taken to comply with the provisions of the ordinances
 of the city then in force making regulations concerning the 
 erection and use of buildings and for the protection of property
-from injury or destruction by fire. 
+from injury or destruction by fire. </p>
 
-Sec. 3. It shall be the duty of the health officer,
+<p>Sec. 3. It shall be the duty of the health officer,
 also of the chief of the fire department, respectabively, 
 upon application from any person or persons proposing to 
 open or conduct the business of a public laundry within the
@@ -413,34 +424,34 @@ whatever shall be made or compensation or fee collected or
 received for the performance of any of the services required 
 by the provisions of this ordinance in the inspection of 
 premises or the issuance of a certificate, but all such services
-shall be performed free of charge.
+shall be performed free of charge.</p>
 
-Sec. 4. No person or persons owning or employed 
+<p>Sec. 4. No person or persons owning or employed 
 in the public laundries or public wash-houses provided for
 in section 1 of this ordinance shall wash or iron clothes 
-between the hours of 10 o'clock p.m. and 6 a.m., nor upon
+between the hours of 10 o'clock p.m. and 6 a.m., nor upon</p>
 
-2
+<ab>2</ab>
 
 <pb/>
 
-any portion of that day known as Sunday.
+<p>any portion of that day known as Sunday.</p>
 
-Sec. 5. No person or persons engaged in the laundry
+<p>Sec. 5. No person or persons engaged in the laundry
 business within the City of Seattle shall permit any
 person suffering from any infectious or contagious disease
 to lodge, sleep or remain within or upon the premises used 
-by him, her or them for the purpose of a public laundry.
+by him, her or them for the purpose of a public laundry.</p>
 
-Sec. 6. It shall be unlawful, from and after the 
+<p>Sec. 6. It shall be unlawful, from and after the 
 passage of this ordinance, for any person or persons to establish,
 maintain or carry on a laundry within the corporate
 limits of the City of Seattle, without having first obtained
 the consent of the common council, except the same be located 
 in a building constructed either of brick or stone and 
-covered with a metal roof. 
+covered with a metal roof. </p>
 
-Sec. 7. Any person or persons establising, maintaining
+<p>Sec. 7. Any person or persons establising, maintaining
 or carrying on the business of a public laundry or
 a public wash-house where clothes or other articles are
 cleansed for hire, within the limits or the City of Seattle,
@@ -455,20 +466,20 @@ shall be guilty of a misdemenor, and, upon conviction
 thereof, shall be punished by a fine of not less than five
 dollars nor more than one hundred dollars, or by imprisonment
 for not more than thirty days, or by both such fine and 
-imprisonment. 
+imprisonment. </p>
 
 <pb/>
 
-Sec. 8. The certificates from the health officer
+<p>Sec. 8. The certificates from the health officer
 and the chief of the fire department, as required by section
 2 of this ordinance, shall be exhibited in some conspicuous
 place on the premises, and the same shall be produced on the 
-demand of any officer of the City of Seattle. 
+demand of any officer of the City of Seattle. </p>
 
-Sec. 9. The police authorities are hereby directed 
-to have the provisions of this ordinance strictly enforced.
+<p>Sec. 9. The police authorities are hereby directed 
+to have the provisions of this ordinance strictly enforced.</p>
 
-Sec. 10. Ordinance No. 263, entitled "An ordinance
+<p>Sec. 10. Ordinance No. 263, entitled "An ordinance
 to restrain and regulate laundries and wash-houses within the
 fire limits of the City of Seattle for the purpose of the
 prevention of fires," approved April 10, 1882, and all other
@@ -479,91 +490,93 @@ this ordinance takes effect or that may be hereafter commenced
 and prosecuted for violations of said ordinance No.
 263 committed prior to the time of the passage of this ordinance;
 but, as to all such past violations, said ordinance
-No. 263 shall be and remain in full force. 
+No. 263 shall be and remain in full force. </p>
 
-<del>Approved February 6, 1886</del>
+<p><del>Approved February 6, 1886</del></p>
 
-Sec. 11. This ordinance shall take effect and be
-in force from and after its passage and approval by the Mayor.
+<p>Sec. 11. This ordinance shall take effect and be
+in force from and after its passage and approval by the Mayor.</p>
 
-Passed the Common Council of the City of Seattle
+<p>Passed the Common Council of the City of Seattle
 the 5th day of February, 1886, and approved by me the 6th 
-day of February, 1886.
+day of February, 1886.</p>
 
-H. L. Yesler,
-Mayor. 
+<ab>H. L. Yesler,
+Mayor. </ab>
+
+<p>Filed February 6th, 1886.</p>
+
+<ab>W. R. Forrest, Clerk</ab>
+
+<p>Published February 8th, 1886.</p>
 
 <pb/>
 
-STATE OF WASHINGTON,
+<ab>STATE OF WASHINGTON,
 County of King,
-City of Seattle,
+City of Seattle,</ab>
 
-ss.
+<ab>ss.</ab>
 
-I, <unclear>Jas</unclear> Riplinger, City Comptroller and ex-officio
+<p>I, <unclear>Jas</unclear> Riplinger, City Comptroller and ex-officio
 City Clerk of the City of Seattle do hereby certify that the within
 and foregoing is a true and correct copy of Ordinance No. 
-710 as the same appears on file in my office.
+710 as the same appears on file in my office.</p>
 
-IN WITNESS WHEREOF I have set my hand and affixed the seal
+<p>IN WITNESS WHEREOF I have set my hand and affixed the seal
 of the City of Seattle this 4th day of September,
-A. D. 1902.
+A. D. 1902.</p>
 
-<unclear>Jas</unclear> Riplinger
+<ab><unclear>Jas</unclear> Riplinger
 City Comptroller and ex-officio
-City Clerk of the City of Seattle.
+City Clerk of the City of Seattle.</ab>
 
-By E.W. Melor
-Dep. 
+<ab>By E.W. Melor
+Dep. </ab>
 
 <pb/>
 
-Orginal
+<ab>Orginal</ab>
 
-Tx
+<ab>Tx</ab>
 
-<unclear></unclear> of the Nothern
+<ab><unclear></unclear> of the Nothern
 <unclear></unclear> this 4th
 <unclear></unclear> ofSeptember, 1902.
-<unclear>Wiestling</unclear>
+<unclear>Wiestling</unclear></ab>
 
-Attorney for 
-Petitioner
+<ab>Attorney for 
+Petitioner</ab>
 
-No. 2333
+<ab>No. 2333</ab>
 
-In the United States
+<ab>In the United States
 District Court
 FOR THE DISTRICT of Washington
-Northern Division
+Northern Division</ab>
 
-In the matter of the 
+<ab>In the matter of the 
 application of Lee
 Fong for a writ of 
-Habeas Corpus
+Habeas Corpus</ab>
 
-Answer to Petition
-for Writ of Habeas Corpus.
+<ab>Answer to Petition
+for Writ of Habeas Corpus.</ab>
 
-FILED IN THE 
+<ab>FILED IN THE 
 U.S. DISTRICT COURT,
 DIST OF WASHINGTON.
 SEP 4 1902
-R.M. HOPKINS, CLERK
+R.M. HOPKINS, CLERK</ab>
 
-HM Matthew
-Deputy
+<ab>HM Matthew
+Deputy</ab>
 
-Mitchell Gillian
-Ellis D E <unclear>Bruler</unclear>
+<ab>Mitchell Gillian
+Ellis D E <unclear>Bruler</unclear></ab>
 
-Attorney for John Sullivan
-Chief of Police.
-
-
-
-
+<ab>Attorney for John Sullivan
+Chief of Police.</ab>
 
 </div1>
     

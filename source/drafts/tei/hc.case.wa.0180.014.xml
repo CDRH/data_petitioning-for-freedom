@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.014.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0180.014</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
+<date when="1913-06-03">June 3, 1913</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-06">June 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Ito, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Fisher, Thomas M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Tsumori</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Saito, Hana</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Umeda, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Washio, Shotaro</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Kodama, S.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Nakada</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Gardner</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>San Francisco, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sacramento, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Fresno, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Tacoma, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
+</person>
+<person role="defendant">
+<persName>United States of America</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Myers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClellan, R. W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnstone, Walter L.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, G. P.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>Exhibit "B"
+Statement of K. Ito, Made at San Francisco Cal.,
+June 3, 1913
+K. Ito sworn by Immigrant Inspector, Thom, M. Fisher.</p>
+<p>Q What is your name? A K. Ito</p>
+<p>Q When did you first become connected with that house at 1020 Stockton
+St? A About June last year.</p>
+<p>Q How much of that house did you control? A The part known as
+1020B</p>
+<p>Who did you buy from A Tsumori</p>
+<p>In buying did you buy in your own name or the name of your wife?
+A My wife's name</p>
+<p>Q When you bought that house was this girl, Hana, an inmate of it?
+A She had been there but had ran away before that time.</p>
+<p>Q That house was a house of prostitution was it not? A Yes.</p>
+<p>You had known Hana and <del>Saito</del> Washio before that had you not?
+A Yes</p>
+<p>Q How long before that? A About 3 years but not together, they had
+been together about four months.</p>
+<p>Q Were you living in that house when Hana went away with Saito?
+A No I was living at 528 Pine St.</p>
+<p>Q You knew about them going away together? A Yes</p>
+<p>Q You were called into a consulation in regard to a settlement? 
+A Yes.</p>
+<p>Q Who else was called in? A Umeda, Hana, Saito, Washio and myself</p>
+<p>Q What was the agreement reached? A It was agreed that Saito was
+to pay either $1300.00 or $1500., I forget which, to Washio, Saito
+owed some money at some stores also and it was agreed that he was to
+take Hana to Sacramento or Frseno for two weeks and make that money.
+Umeda adn I guaranteed the payment of that money.</p>
+<p>Q They didn't return in two weeks did they? A No.</p>
+<p>Q You found they had gove north did you not? A Yes</p>
+<p>Q Did you get together then and take steps to try to locate Hana and
+Saito?</p>
+<p>Q Washio came to us and said we had guaranteed for them and it was
+up to us to produce the woman or pay so we did all we could to locate
+them.</p>
+<p>Q Then you went to the Burne Agency and paid them for two days work
+in Seattle locating Hana did you not? A A man named S. Kodama and
+Washio went there and paid them $40. I didn';t go with them at that
+time.</p>
+<p>Q Then Umeda went to Seattle, didn't he, to look for Hana? A Yes.</p>
+<p>Q He didn't locate her? A No.</p>
+<p>Q After he came back Washio went up there? A Yes.</p>
+<p>Q Washio sent you a wire that he had then located in Tacoma didn't he?
+A Yes.</p>
+<p>Q Sent you this wire? (Showing wire) A Yes.</p>
+<p>Q When you got that what did you do? A Umeda and I employed Nakada
+to go with us to Burne people. I had received a latter from Washio
+asking me to get a warrant for Hana in Umeda's name. we asked the
+Burns people about it and they told us we couldn't get the kind of a
+warrant we wanted, we could get one for larceny, we weanted a warrant
+just to get them back here.</p>
+<p>Q Did you wire or write Washio that you couldn't get the warrant?
+A We told him by wire the same day we went to the Burns people.</p>
+<fw>12</fw>
+<pb/>
+<p>Q What did you say in that wire? A That we couldn't lend our name
+to a warrant of that kind.</p>
+<p>Q How did you send that wire? A Western Union Addressed to Washio
+in care of the Great Northern Hotel.</p>
+<p>Q Did you get a letter from Washio after that? A No.</p>
+<p>You got a wire from him? A Yes.</p>
+<p>Q This one? (Showing telegram dated August 9, 1912) A Yes</p>
+<p>Q What did you understand by "please have all arrangements made"
+A I understood that to mean to arrange so there would be no trouble
+at this end between Saito and Washio and people interested.</p>
+<p>Q It was already understood beforehand that if Washio got the girl
+she was to be brought back to that house was it not? A Yes</p>
+<p>Q Then you got this wire also from Washio? (Showing wire dated
+Aug. 13, 1913) A Yes after I got that wire my wife and I went to the
+boat and met them.</p>
+<p>Q Did you at the time know that Young and Sugiura were coming?
+A No I didn't, I met them for the first time at the dock.</p>
+<p>Q . There was a little trouble at the dock between Saito and some one
+else was there not? A Yes, Saito and I had some trouble.</p>
+<p>Q Then the party went right to your house at 1020 Stockton St?
+A Yes</p>
+<p>Q How long did Young and Sugiura stay there? A About half an hour.</p>
+<p>Q What did they have to say? A they told me that Washio had agreed
+with them thay they should be paid for bringing the girl down and
+thay they had found Washio hadno money and they wanted mr to
+raise the money and give it to them.</p>
+<p>Q Did they say how much money they were to get? A They said
+Washio had agreed to give them $800., I told them I didn't agree to
+give them the money and it was up to them to get it from Washio.</p>
+<p>Q What wlse did Young, Sugiura or Washio say at that time? A Young
+and Sugiura said the agreement with Washio was to pay them $800. for
+bringing the girl down here but that things didn't go just right so
+they were willing to settle and take $400. and wanted me to pay them that. Sugiura said he had posed as an interpreter and that
+Young has possed as an Immigration officer and the woman believeing
+them $800. to take the chances of bringing this woman here to a house
+of prostitution and that they wanted their money. They told me later
+that they had been to see Mr. Gardner of the Immigration offices and
+had fixed things with him so there would be no trouble but that we
+must come through with the money to them. Young and Sugiura went to
+the Imperial hotel, Washio and Hana stayed in my house. The next day
+I think it was, Umeda and I were sent for by Young and Sugiura and
+went to the Imperial Hotel to see them, Young and Sugiura and
+their agreement with Washio and said they couldn't wait for their
+money and must get back to Seattle and that Umeda and I must raise the
+money for them. Later in the day Young and Sugiura came to my house 
+Umeda was present also, and there I paid them $200. and later I paid
+them $50. more.</p>
+<p>Who did you pay this money to? A I handed it to Umeda who passed
+it over on the table, Sugiura picked it up and handed it to Young.</p>
+<p>Q Did you see Young and Sugiura after that? A They came the next
+day and said it was alright for Hana to practice prostitution as they
+had fixed it with the immigration officers, they had told us at first
+not to let her do business for a while as they were afraid if we did
+there would be trouble for all of us, that was the last I saw of them.</p>
+<fw>13</fw>
+<pb/>
+<p>Q After that Hana practiced prostitution in that house didn't she?
+A Yes</p>
+<p>Q You after wrote a letter to Sugiura didn't you? A yes</p>
+<p>Q Is this the letter? (showing letter) A Yes</p>
+<p>Q What do you mean when you say in that letter "what did you tell the
+Immigration officers about Hana"? A They had told me that they had
+fixed things in regard to Hana doing business and the Japanese News
+Paper had printed an article and I wanted to know how he had fixed
+things and what he has told them when he fixed it, after the News
+Paper article Nakada phoned me to come to his office, I went there
+and he told me that the Immigration officers would be after Hana that
+night or the next morning and told me to get her out of the house,
+Umeda was there with me, and we got the woman out of the house,
+took her to a lodging-house on Keaney St., near the City Hall, the
+house from which she was arrested. The next day Nakada came and told
+me that the United States Marshal was after myself and Umeda and that
+we had better hide out, he said "I can fix it if you will come through"
+I asked him to fix it and he told me to give him $50. and he would
+fix it <del><unclear/></del> so I would be out of California as far as the
+officers knew. I paid him two $20. and one $10. in gold, then he
+told me, this $50. you give me is not all for me, I have to buy
+cigars for the Marshals and give them a piece of it beside.</p>
+<p>Q Was there anyone present when you gave him that money? A No, I 
+showed the money to Umeda and told him what I was going to do with
+it, I forgot to tell you that when we were at the Burns Agency Nakada
+told us he could get a United States warrant for Hana for $250. The
+next day after I gave Namasa the $50. Nakada and a Marshal came to
+my house after Hana, Nakada said the Marshal wants Hana and if you
+don't produce her he will hold you until she is produced. I told him
+I couldn't stand for that and Nakada asked me where she was, I told
+him "I hid her on your instructions, you told me to hide her", finally
+Umeda took the Marshal to the room and showd him Hana. After my
+wife was taken to Seattle Nakada told me he would find out about the
+Seattle case and wanted me to pay him $25. I paid him $15.</p>
+<p>I certify the foregoing is a true and full transcript of the
+atenographic notes made by me at the time statement was ade.</p>
+<ab>Thos. M. Fisher
+Immigrant Inspector</ab>
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
