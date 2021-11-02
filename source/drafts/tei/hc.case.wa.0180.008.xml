@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.008.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Decision.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0180.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Decision.</title>
+<date when="1914-02-18">Feburary 18, 1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,35 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-02">Feburary 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hunter, B. A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Denamore, J. B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Saito, Hana</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Washio</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Tacoma, Washington</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>San Francisco, California</term>
 </keywords>
 
 </textClass>
@@ -94,33 +114,45 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Myers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClellan, R. W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnstone, Walter L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, G. P.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -180,7 +212,191 @@ deemed to be unlawfully within the United States and shall be
 deported in the manner provided by sections twenty and twenty-one
 of this Act." Sec. 3 of the Immigration Act of 1907, as
 Amended March 26, 1910, 36 Stat. st L., p. 264.</p>
-
+<p>Petitioners rely upon the following authorities: -
+United States v. Sibray
+178 Fed., 148, 149;
+36 CYC., p.1118;
+People vs. Chicago, 152 Ill. App.,
+546-552; 38 N.E. 746;
+U.S. v. Williams, 200 Fed., 541-2;
+(same) 189 Fed., 917;
+Frick vs. Lewis, 195 Fed., 696;
+U.S. vs. Martin, 193 Fed., 797-8;
+Ex parte Saraceno, 182 Fed., 957;
+Ex parte Patterson, 166 Fed., 539;
+Chin Yow v. U.S., 208 U.S., 11;
+Ex parte Long Lock, 173 Fed., 208;
+Yamataya v. Fisher, 189 U.S., 86;
+47 Law Ed., 721</p>
+<p>Respondent relies upon the following authorities:-
+In re Unlawful Detention of Nullas
+Singh and Seventy-two other Hindu Aliens,
+Case No. 2532
+Ekiu v. United States, 142 U.S., 651;
+35 Law Ed., 1146;
+United States v. Ju Toy, 198 U.S., 253;
+Lee Moon Sing v. United States, 158 U.S.538;
+Du Bruler v. Gallo, 184 Fed., 566, at 569
+Williams v. U.S., 186 Fed., 479;
+Sinis Calchi v. Thomas, 195 Fed., 701;
+United States v. Williams, 175 Fed., 274.</p>
+<p>The grounds urged for discharge are that petitioners
+have not had a fair hearing and that there was no evidence
+<fw>2</fw>
+<pb/>
+whatever to support the charge in the warrant of arrest, or
+the finding in the warrant of deportation.</p>
+<p>"That the said aliens (petitioners) are unlawfully within 
+the United States, in that they have been found assisting,
+protecting, or promising to protect from arrest a prostitute
+or prostitutes."</p>
+<p>It is not necessary to determine --- concerning the
+warrant of arrest, whether the charge, as set forth therein,
+would be sufficient to apprise petitioners with that of which
+they were accused --- it not alleging the time, place or naming
+the prostitute or prostitutes alleged to have been assisted,
+protected or promised protection from arrest, as proceedings
+of this character are summary in their nature and, if
+it appears from the return that petitioners were actually
+apprised of the nature of the accusation against them and
+had a fair hearing thereon, it is sufficient.</p>
+<p>Petitioners were represented at the deportation
+hearing by one of their present counsel. They were tried
+and heard together. Petitioner Young, being first sworn and
+examined was asked at the commencement of the examination
+and proceeding:-
+"Q. I believe that you have been tried in the United 
+States Court for a certain offences?
+A. Yes, I have been tried twice on the same offence.
+Q. What offense>?
+A. Aiding and abetting in the transporting a Japanese girl,
+Hana Saito, in the inter-state commerce from Seattle to
+San Francisco and I was tried in Feburary, 1913, and acquitted
+and I was reindicted by a grand jury, last grand jury, and
+tried for conspiring to violate the same Mann Act and again
+by the jury on a second trial and re-arrested by Departmental
+warrant for practically the same thing."
+The foregoing plainly shows that petitioners knew with what 
+they were being charged upon the deportation hearing.</p>
+<p>The evidence shows that the woman, Hana Saito, had,
+prior to coming to Seattle, lived in a house of prostitution;
+<fw>3</fw>
+<pb/>
+That, after coming to Seattle, she was followed from San
+Francisco by a Japanese named Washio and that the petitioners,
+at his solicitation, secured transportation for him and the
+woman to San Francisco and accompanied them by steamer to
+that city. When they arrived in San Francisco, the four
+went direct to the house of prostitution where Hana Saito
+had formerly been. There is some testimony that, before 
+securing tickets to San Francisco, the petitioners were informed
+that this woman had, before coming to Seattle, been
+a prostitute living in this house.</p>
+<p>There was no evidence that any warrant for the arrest
+of Hana Saito had ever been issued; but, on account of
+the conclusion reached, it is not necessary to determine
+whether the language of the statute "promises to protect from
+arrest any prostitute" contemplates the actual existence of
+a warrant or proceeding for the arrest of a prostitute, from
+which she is promised protection, or whether it may not contemplate 
+a promise of protection generally --- either from the
+arrest to which those practicing prostitution are generally
+subject in municipalities, or the arrest to which alien
+prostitutes are subject under the laws of the United States.</p>
+<p>It is earnestly insisted by counsel for petitioners
+that the words "in any way assists, protects or promises to
+protect from arrest" mean in any way assist from arrest, as
+by furnishing money to escape to one who is threatened with
+arrest. The argument is more ingenious than convincing.
+If such were the meaning, there are so many more apt words
+in which to express it, that it seems unlikely that such could
+have been the intention.</p>
+<p>On the other hand, if the words "any alien who in
+any ways assists *** a prostitute" are given their widest
+meaning, so as to include an alien who gives food, shelter or
+medicine to a prostitue, which, it is contended is the only
+<fw>4</fw>
+<pb/>
+other meaning of which they are capable -- a conclusion is
+reached which is still more abborrent to reason. A more
+satisfactory conclusion is that the intention was to declare
+unlawful the presence in the country of any alien who in any
+way assists a prostitute to practice prostitution, or towards
+its practice.</p>
+<p>Holy Trinity vs. U.S.,
+143 United States, 457.</p>
+<p>Even a prostitute may be something more than a 
+prostitute. For example, she may be a milliner as well.
+The one who assisted her in the latter business would be
+assisting a milliner and could not be fairly condemned as assisting
+a prostitute, and one who assisted her in the practice
+of prostitution, could not be excused on the plea of 
+assisting a milliner.</p>
+<p>Under the act so constued, it cannot be said but
+that there was some evidence to support the finding of the
+Inspector and Acting Secretary.</p>
+<p>The fact that both of the petitioners had been acquitted
+in this court by juries on charges involving the same
+transaction, in no way defeats the action taken, or the determination
+reached by the Immigration authorities, for to justify
+a verdict of guilty by a jury, it was necessary that the 
+jury be convinced of petitioners' guilt beyond a reasonable
+doubt, while no such rule is imposed upon the Immigration
+authorities.</p>
+<p>William Williams vs. United States, ex rel
+Antonics Bougaris. 186 Fed., 479.</p>
+<p>The letter of the Commisioner of Immigration to
+the Commissioner General of Immigration, recommending the
+deportation of petitioners and made a part of the return herein
+states:-</p>
+<p>"They (that is the petitioners) admit that they 
+<fw>5</fw>
+<pb/>
+committed an act which was neither more nor less than the kidnapping
+of a prostitute, in the conveyance of whom from Tacoma, 
+Washington, to San Francisco, California, they assisted. They
+deny that they knew that the woman was a prostitute. It may
+be that when they were first approached that they did not know
+the woman's character but they were certainly given due notice
+before the high-handed proceedings had gone very far."</p>
+<p>The same contention was made by the Government ibn both the
+criminal trials mentioned. Petitioners at all times have insisted
+that the woman went to San Francisco willingly.</p>
+<p>While respondent's position upon the warrant --- that
+petitioners assisted a prostitute, which necessarily implies
+willingness and consent upon her part --- is not strengthed by
+the Commissioner's conclusion that they were kidnapping her,
+which would, as necessarily, be an involantary proceeding upon
+her part, yet, as the Commissioner's report is only a part of
+the record upon which the warrant issued and, as pointed out,
+there is some evidence to support the finding and warrant,
+this inconsistency will not defect the ultimate conclusion
+reached and the warrant of deportation based thereon, providing
+petitioners were accorded a fair hearing on the charge upon
+which they were ordered deported.</p>
+<p>Sinis Calchi v. Thomas, 195 Fed., 701;
+United States vs. Williams, 175 Fed., 274.
+Petition denied and rule discharged.</p>
+<fw>6</fw>
+<pb/>
+<p>No. 2628</p>
+<p>In the District Court 
+of the United States
+for the
+Western District of Washington
+Northern <del>Southern</del> Division</p>
+<p>In the Matter of the Petition
+of Albert H. Young and Kamasaburo
+Sugiura, alias B. K. Sugiura,
+for a Write of Habeas Corpus</p>
+<p>Decision</p>
+<p>Filed in the
+U.S. District Court,
+Western Dist. of Washington
+Nothern Division
+Feb 18 1914
+Frank L. Crosby, Clerk,
+By EML Deputy.</p>
 
 </div1>
     
