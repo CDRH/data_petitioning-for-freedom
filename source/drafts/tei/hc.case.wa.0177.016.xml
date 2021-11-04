@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0177.016.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0000.000</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">May 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bajlo, Tonka</term>
+<term>Bryan, Fenley</term>
+<term>Cushman, Edward E.</term>
+<term>Ennis, Charles H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Tonka Bajlo</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Charles H. Ennis</persName>
+<persName>Fenley Bryan</persName>    
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Edward E. Cushman</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+    <orgName>United States District Court, Western District of Washington, Northern Division</orgName>
+    <placeName>King County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+    <p>UNITED STATES DISTRICT COURT
+        WESTERN DISTRICT OF WASINGTON
+        NORTHERN DIVISION.</p>
+    
+    <p>In the Matter of the Application
+        of Tonka Bajlo for a Writ of 
+        Habeas Corpus.</p>
+    <p>No. 2459</p>
+    
+    <p>ORDER DISCHARGING ORDER TO SHOW CAUSE.</p>
+    <p>The above entitled matter having come regularly on for 
+        hearing this 15th day of May, 1913, on the petition for
+        writ of habeas corpus, order to show cause, respondent's 
+        return thereto, briefs of respective counsel submitted in
+        lieu of oral argument, together with affidavits attached 
+        to petitioner's brief and reply to the return, and the
+        court having heretofore filed a written opinion herein and
+        being fully advised in the premises,</p>
+    
+    <p>IT IS HEREBY ORDERED that said order to show cause
+        be and the same is hereby discharged and the case dismissed.</p>
+    
+    <ab>Edward E Cushman</ab>
+    
+    <p>O. K. as to form.</p>
+    
+    <ab>Chas H Ennis &amp; Fenley Bryan
+        Attorneys for Petitioner.</ab>
+<pb/>
+    
+<p>No. 2459</p>    
+
+<p>IN THE DISTRICT COURT 
+OF THE UNITED STATES
+FOR THE 
+WESTERN DISTRICT OF WASHINGTON</p>    
+    
+<p>In the matter of 
+the Application of 
+Tonka Bajlo
+for a Writ of 
+Habeas Corpus.</p>    
+    
+<p>ORDER DISCHARGING ORDER 
+TO SHOW CAUSE.</p>    
+    
+<p>FILED IN THE 
+U. S. District Court,
+Western Dist. of Washington.
+MAY 15, 1913</p>    
+<ab>FRANK L. CROSBY, Clerk,
+By EML Deputy</ab>    
+</div1>
+    
+</body>
+</text>
+</TEI>
