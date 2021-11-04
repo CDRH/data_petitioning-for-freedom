@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.015.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0180.015</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
+<date when="1913-06-02">June 2, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,51 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-06">June 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Umeda, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Fisher, Thomas M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Ito, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Saito, Hana</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Washio, Shotaro</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Nakada</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Oakland, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Fresno, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sacremento, California</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Tacoma, Washington</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>San Francisco, California</term>
 </keywords>
 
 </textClass>
@@ -94,33 +130,45 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Myers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClellan, R. W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnstone, Walter L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, G. P.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -179,7 +227,64 @@ Ito telling Ito to have me swear out a warrant for Hana, when we asked
 the Burns people about that they said it couldn't be done. Ito got
 some other wires from Washio later and told me the party was coming. 
 I didn('t go to the boat to meet them but I believe Ito did, also his
-wife.
+wife. The next night after they arrived I had a fight with Saito and
+I hit him with a baibard cue, right after the fight I went up to Ito's
+house of prostitution at 1020 Stockton St., Young and Sugiura were
+present when Saito and I had the fight and they went up to Ito's
+with me, after we got up in Ito's place Young and Siguria said that
+Washio had agreed to pay them $800. for bringing Hana back and that
+they wanted their money. I turned to Washio and asked him how he 
+could make that kind of an agreement when he didn(t have any money.
+<fw>15</fw>
+<pb/>
+Young and Sugiura told Ito and I that as Washio didn't have any money
+we would have to pay them. We told them that as Washio had made the
+agreement with them they must look to him for theirmoney, the next
+day we went to the Imperial hotel on Ene St,m where Young and Sugiura 
+were staying, to see them, Washio and I went there together and we met
+Saito near there and went in the hotel all together, Young and 
+Sugiura were both there, they said they had made an agreement with
+Washio to bring the girl back to San Francisco and that he was to pay
+them as soon as they arrived but he had gone gone back on his agreement,
+we didn't arrve at any settlement that day but that evening
+Young and Sugiura came to Ito's house and they called for me to come
+theretoo, we talked about a settlement. Ito finally agreed to pay
+part of the money and they he asked me to loan him some as he didn't 
+have enough, I didn't have any ready money but I let Ito have my
+watch which he took out and pawned it, he camed back and handed me
+$200. in gold which I threw on the table Sugiura picked it up and
+counted it and handed it to Young who put it in his pocket, Ito told
+me he paid them $50. more later.</p>
+<p>Young and Sugiura told us they had a lot of trouble getting the
+woman and that they had to make her believe they were Immigration
+officers, they said they were not taking chances on bringing her
+down there to a house of prostitution for nothing and that it was
+worth $800. to take the chances they had taken. They said that they
+knew she was comming here to go into a house of prostitution and that
+she was to do business here as a prostitute.</p>
+<p>When we first got a tip that there was trouble started over this
+woman haveing been brought down here Nakada phoned to Ito and I to
+come to his office and when we went there he told us to get Hana out
+of that house and hide her away he said the officers would be around
+after that night or the next day. The next day Nakada came to Ito's 
+house with an officer looking for her. I asked Nakada what they
+wanted and he said we want the woman and that we must give her up. I
+then went with Nakada and the officer to the room where Hana was I
+asked Nakada what it ment and he said it was Seattle case and that if
+I would give $40. he would fix things with the United States
+Marshal so I wouldn't get into any trouble. Ito came to me the next
+day and showed me $20. and two $10. in gold and said he was taking it
+to Nakada for fixing things for him and wanted me to go with him and 
+the money he came with an officer and arrested Ito's wife, I went to
+Nakada then and asked him if they wanted me too he said he had fixed
+things all right, he had told me before that to hide out as I was 
+wanted.</p>
+<p>It was the understanding of all of us that if found Hana was to 
+be brought back to Ito's house of prostitution.</p>
+<p>I certify the foregoing is a true and full transcript of the
+stenographic notes made by me at the time of statement.</p>
+<ab>Thos. M. Fisher
+Immigrant Inspector</ab>
 
 
 </div1>
