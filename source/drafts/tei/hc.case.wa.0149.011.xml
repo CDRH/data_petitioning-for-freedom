@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0149.011">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Lee Fong v. John Sullivan. Petitioner's Brief</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0149.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">Lee Fong v. John Sullivan. Petitioner's Brief</title>
 <date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -82,11 +83,23 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Lee, Wo</term>
+<term>Yick, Wo</term>
+<term>Loy, Tie</term>
+<term>Hanford</term>
+<term>Matthews</term>
+<term>Kee, Sam</term>
+<term>Sawyer</term>
+<term>McGilloway</term>
+<term>Grice</term>
+<term>Fundling, Harry</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>San Francisco, California</term>
+<term>Minneapolis</term>
+<term>Chicago, Illinoise</term>
 </keywords>
 
 </textClass>
@@ -94,33 +107,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Fong, Lee</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Sullivan, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiestling, J. M.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Buller, Ellis E.</persName>
+<persName>Sillian, Micheal</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanfod, C. H.</persName>
+<persName>George, R. R.</persName>
+<persName>Gilber, William B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court for the District of Washington</orgName>
+<placeName>Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,25 +151,25 @@
 
 <pb/>
 
-IN THE UNITED STATES CIRCUIT COURT, FOR THE NINTH CIRCUIT.
+<ab>IN THE UNITED STATES CIRCUIT COURT, FOR THE NINTH CIRCUIT.</ab>
 
-IN THE MATTER OF THE APPLICATION
+<ab>IN THE MATTER OF THE APPLICATION
 OF LEE FONG FOR A WRIT OF HABEAS
-CORPUS. 
+CORPUS. </ab>
 
-PETITIONER'S BRIEF.
+<ab>PETITIONER'S BRIEF.</ab>
 
 
-The Petitioner Lee Fong was arrested and detained in the
+<p>The Petitioner Lee Fong was arrested and detained in the
 custody of the Chief of Police of the city of Seattle, upon a
 charge made against him of having violated the provisions of 
 Sections 6 and 7 of Ordinance 710 of the City of Seattle, approved
 by the Mayor on the 6th day of February, 1886; and which is
 entitled, "An Ordinance regulating the establishment and maintenance 
 of Public Laundries and Public Washhouses within the 
-limits of the City of Seattle". 
+limits of the City of Seattle". </p>
 
-Said Section 6 referred to in in language as follows, towit:
+<p>Said Section 6 referred to in in language as follows, towit:
 "Section 6. It shall be unlawful, from and after the passage 
 of this ordinance for any person or persons to establish, maintain,
 or carry on a laundry within the corporate limits of the
@@ -167,13 +183,13 @@ provisions of Section 6 of this ordinance shall be guilty of a
 misdemanor, and upon conviction thereof shall be punished bya
 fine or not less than Five Dollars nor more than One Hundred
 Dollars; or by <del>punis</del> imprisonment for not more than thirty days;
-or by both said fine and imprisonment."
+or by both said fine and imprisonment."</p>
 
--1-
+<ab>-1-</ab>
 
 <pb/>
 
-The complaint upon which the petitioner herein was arrested
+<p>The complaint upon which the petitioner herein was arrested
 and detained, charges the ofense alleged to have been 
 committed in the language of said Section 6 of said Ordinance;
 and that said alleged offense of the petitioner is contrary to
@@ -193,9 +209,9 @@ upon any reference to the fitness of the building in which a proposed
 laundry is to be established, for such purpose, nor upon
 its protection against the dangers of fire or its satisfactory
 sanatary conditions; but that such consent is dependent entirely
-on the arbitrary will of council.
+on the arbitrary will of council.</p>
 
-So that it follows, that if the person applying for such
+<p>So that it follows, that if the person applying for such
 consent is in all respects entirely worthy and deserving, and
 that his building, intended for his laundry business, is possessd
 of every possible sanatary provision; that all precautions 
@@ -204,26 +220,26 @@ in every other respect fitted for the purpose of his business
 and entirely free from objectionable features of whatever kind,
 yet not withstanding all this, the Section puts it in the power
 of council arbitrarily, without any reason and for prejudicial
-or whimsocal causes, entirely, to withold the required. consent.
+or whimsocal causes, entirely, to withold the required. consent.</p>
 
--2-
+<ab>-2-</ab>
 
 <pb/>
 
-This, we contend, is in direct conflict with the provisions
+<p>This, we contend, is in direct conflict with the provisions
 of the Constitution of the United States, and especially of the
-Fifth and Fourteenth Amendments thereto.
+Fifth and Fourteenth Amendments thereto.</p>
 
-Fortunately for the petitioner herein, who has expnded
+<p>Fortunately for the petitioner herein, who has expnded
 practically his entire means on the preperation of the building
 for his proposed laundry, and that too upon an expressed permit
 to do so from the Building Inspector of the City of Seattle, 
 the constitutional question involved in this contention has been 
 decided in his favor by the Supreme Court of the United States,
 as will be shown by a citation of authorities contained in this 
-brief.
+brief.</p>
 
-The Honorable Court is first referred to the case reported
+<p>The Honorable Court is first referred to the case reported
 in 13th Federal Reporter, pages 229 and 233; being the case of "In
 Re Quong," decided by Circuit Court of the District of California
 in August 1882. In that case Justice Field, who delivered
@@ -234,24 +250,24 @@ the consent of the Board of Supervisors, which shall
 only be granted upon the recommendation of not less than twelve
 citizens and tax payers in the block in which the laundry is
 proposed to be established, and which punishes by fine or imprisonment
-for a violation of its provisions, is invalid.
+for a violation of its provisions, is invalid.</p>
 
-In Re Wo Lee 26 Federal Reporter 471,
+<ab>In Re Wo Lee 26 Federal Reporter 471,
 
-The Circuit Court of the District of California.
+The Circuit Court of the District of California.</ab>
 
-On January 26 1886, Justice Sawyer in delivering the opinion,
+<p>On January 26 1886, Justice Sawyer in delivering the opinion,
 refers to the Laundry Ordinance cases in 13 Federal Reporter
 229, the first case herein cited, and says: "That after that
 decision, the Ordinance passed upon therein was amended by omitting
 the requirement of the assent of twelve citizens and tax
 payers in the block, but it still prohibited carrying on a
 laundry business, after complying with numerous <del>monerous</del> conditions,
-without in addition having first obtained a license,
+without in addition having first obtained a license,</p>
 
--3-
+<ab>-3-</ab>
 
-or permit therefor, duly granted by resolution of Board of 
+<p>or permit therefor, duly granted by resolution of Board of 
 Supervisors, and it prescribed no specific conditions, the performance
 of which should entitle the party to a license or permit,
 but the license or permit, after performance of all the 
@@ -267,37 +283,37 @@ is from Judge Sawyer's opinion found on pade 427 of 26 Federal
 Reporter. After citing a number of cases therein upon the
 question involved, Judge Sawyer says on page 473 of said case:
 "If the court was right in those cases, then it seems to us that
-the ordinance now in question must be void upon similar grounds."
+the ordinance now in question must be void upon similar grounds."</p>
 
-"Section 1 provides that "It shall be unlawful, from and
+<p>"Section 1 provides that "It shall be unlawful, from and
 after the passage of this order, for any person, or persons,
 to establish, maintain or carry on a laundry within the corporate
 limits of the city and county of San Francisco without having
 first obtained the consent of the Board of Supervisors, except
 the same be located in a building constructed of either brick
-or stone".
+or stone".</p>
 
-In quite a lengthy opinion by Justice Sawyer in the case
+<p>In quite a lengthy opinion by Justice Sawyer in the case
 just mentioned, he argues and holds on pages 474 and 475, "That
 the ordinance passed upon by him in said case, (and of which the
 Seattle Ordinance, alleged to have been violated in this case,
 is a literal transcript, except as to the City and the body
 whose consent is required,) is unconstitutional and in conflict
 with the 14th Amendment of the United States Constiution. 
-The Supreme Court of the State of California having, however,
+The Supreme Court of the State of California having, however,</p>
 
--4-
+<ab>-4-</ab>
 
-previous to Judge Sawyer's opinion in the case just cited, held
+<p>previous to Judge Sawyer's opinion in the case just cited, held
 in the case of Yick Wo, that the ordinance passed upon by Judge
 Sawyer was not in conflict with <del>the</del> constitutional provisions;
 he, Judge Sawyer, in deference to the previous adjudication of
 the question involved by the Supreme Court of the State, discharged
 the Writ of Habeas Corpus in the case before him and 
 remanded the petitioner to the custody of the officer having him
-in charge.
+in charge.</p>
 
-On appeal of the case just cited of Wo Lee from the decision
+<p>On appeal of the case just cited of Wo Lee from the decision
 of Judge Sawyer, and also from the judgment of the Supreme
 Court of the State of California, in the case of Yick Wo, the
 Supreme Court of the United States, in an opinion delivered by 
@@ -319,29 +335,29 @@ and qualified person, and having complied with every reasonable
 condition demanded by any public interest, should, failing to
 obtain the requisite consent of the Supervisors to the prosecution
 of his business, apply for a redress by the judicial process 
-of Mandamus to require the Supervisors to consider and act upon
+of Mandamus to require the Supervisors to consider and act upon</p>
 
--5-
+<ab>-5-</ab>
 
 <pb/>
 
-his case, it would be a sufficient answer for them to say that
+<p>his case, it would be a sufficient answer for them to say that
 the law had conferred upon them authority to withold their assent,
 without reason and without responsibility. The power given them
 is not confided to their discretion in the legal sense of that
 term, but is granted to their mere will. It is purely arbitrarily
-and acknowledges neither guidance or restraint."
+and acknowledges neither guidance or restraint."</p>
 
-In quite a lengthy opinion on this subject, Justice Matthews
+<p>In quite a lengthy opinion on this subject, Justice Matthews
 in the recited case, held the ordinance, (which as stated, is in language
 similar to the Seattle ordinance on the subject), to be in
 violation of the 14th Amendment of the United States constitution,
 and reversed the decision both of the Supreme Court of the State
 of Washington, and that of Judge Sawyer of the Circuit Court of
 California, and directed the discharge of the petitioners from
-custody and imprisonment.
+custody and imprisonment.</p>
 
-It is unneccessary for petitioner's council to quote at
+<p>It is unneccessary for petitioner's council to quote at
 leangth from the opinion of Justice Matthews in the case just cited,
 but the full text thereof is respectfully referred to the Honorable
 Judge passing upon the petition herein; and especiallly to the
@@ -355,11 +371,11 @@ Justice Matthews sets forth that such discrimination in the cases
 before him was actually shown and exercised on the laundrymen,
 of chinense birth, yet the broad ground upon which he passes
 his adjudication, is the fact that the ordinance referred to,
-puts it in the power of a board, to grant or refuse consent arbitrarily.
+puts it in the power of a board, to grant or refuse consent arbitrarily.</p>
 
 <pb/>
 
-By a comparison of dates it will be found, that his Honor
+<p>By a comparison of dates it will be found, that his Honor
 Judge Hanford, who whilst City Attorney of te City of Seattle,
 framed Ordinance 710 of that City, which is being passed in review
 in this case, wrote said ordinance, admittedly copying it
@@ -369,9 +385,9 @@ the adjudication upon appeal, of its unconstitutionality by the
 Supreme Court of the United States, in the opinion by Mr. Justice
 Matthews herein last <del>case</del> cited, the Seattle ordinance having
 been approved February 6, 1886, and the opinion rendered by Justice 
-Matthews on April 14 of the same year. 
+Matthews on April 14 of the same year. </p>
 
-In the Stockton Laundry case-in re Tie Loy- reported
+<p>In the Stockton Laundry case-in re Tie Loy- reported
 in 26 Federal Reporter 611 to 616 (in which Justice Sawyer delivered 
 the opinion) the syllabus is "A City ordinance that makes 
 it an offense for any person to carry on a laundry where clothes
@@ -385,21 +401,21 @@ within the meaning of Section 733 of the revised statute which
 provides that the discharge of a person by habeas corpus, who
 is illedgally held in custody or imprisonment, Said statute
 giving jurisdiction to the United States District and Circuit
-Courts to grant such relief. in
+Courts to grant such relief. in</p>
 
-In re Sam Kee reported in 31st Federal Reporter 680 to 681, 
+<p>In re Sam Kee reported in 31st Federal Reporter 680 to 681, 
 Justice Sawyer held that a city ordinance which makes it an
 offense to keep a laundry wherein clothes are clensed for hire,
 within the limits of the larger part of a city, without regard
 to the character of the structure, or the appliances used for
 the purpose, or the manner in which occupation is carried
-on, is unconstitutional on various grounds, and void, and that
+on, is unconstitutional on various grounds, and void, and that</p>
 
--7-
+<ab>-7-</ab>
 
 <pb/>
 
-"to make an occupation, indispensable to the health and comfort
+<p>"to make an occupation, indispensable to the health and comfort
 of civilized man, and the use of the property necessary to carry
 it on a nuisance, by a mere arbitrary declaration in a city
 ordinance, and suppress it as such, is simply to confiscate
@@ -413,9 +429,9 @@ United," citing the case of In Re Tie Loy 26 Federal Reporter
 page 611, and Yick Wo vs Hopkins 118 United States Reporter 356, 
 in support of his position upon the reasons therein given, and
 Justice Sawyer ordered the discharge of habeas corpus of San Kee,
-the petitioner therein.
+the petitioner therein.</p>
 
-Reference is made in the foot note to the last entitled 
+<p>Reference is made in the foot note to the last entitled 
 cases, to the various adjudicated cases on the point ruled on
 the subject, In Re Hong Wah reported in 82 Federal Reporter
 623, the District Court of the Northern District of California
@@ -431,13 +447,13 @@ by fine or imprisonment, was in contravention of the 14th Amendment
 of the Constitution of the United States; and that the
 ownership of property, no matter where located, carries with it
 the right to use, and to permit the use of ushc property in the
-prosecution of any legitimate business which is not a nuisance
+prosecution of any legitimate business which is not a nuisance</p>
 
--8-
+<ab>-8-</ab>
 
 <pb/>
 
-in itself, and the exclusion of any such lawful business from
+<p>in itself, and the exclusion of any such lawful business from
 a particular locality can only be justified upon the ground that
 the health, safety or comfort of the surrounding community
 requires such exclusion, and that a public laundry is not a 
@@ -446,9 +462,9 @@ of a city council; nor can the right of any person to
 engage in any such useful occupation, not a nuisance per se at
 such place as he may choose for that purpose, be denied by any 
 law or ordinance, and the court in that case, it being a habeas
-corpus hearing, discharged the petitioner from his imprisonment. 
+corpus hearing, discharged the petitioner from his imprisonment. </p>
 
-In re Grice 79 Federal Reporter 627, 633, the Circuit 
+<p>In re Grice 79 Federal Reporter 627, 633, the Circuit 
 Court Northern District of Texas in a Habeas Corpus hearing, 
 held that even if the writ is not autorized in behalf of a 
 person at large on bail, yet if he surrenders himself, or is
@@ -462,27 +478,27 @@ by the counsel for the petitioner and the city attorney in this
 case, that no advantage shall be taken <del>or question shall be taken</del>
 or question raised from the fact that after Judge Hanford had
 granted the rule to show cause in this case, the petitioner
-Lee Fong was released from custody on bail.
+Lee Fong was released from custody on bail.</p>
 
-The Court's attention is also respectfully called to the
+<p>The Court's attention is also respectfully called to the
 case of Mineapolis Brewing Company vs McGilloway, reported in
 104 Feferal Reporter 258, where it was ruled that the constitutionality
 of a statute is not determined by what has actually
 been done thereunder, but by what may be done thereunder, but
-by what may be done by virtue of its provisions.
+by what may be done by virtue of its provisions.</p>
 
-Applying that doctrine to the case in hand, and it follows
+<p>Applying that doctrine to the case in hand, and it follows</p>
 
-9. 
+<ab>9. </ab>
 
 <pb/>
-that the fact that under the ordinance for the alleged violation
+<p>that the fact that under the ordinance for the alleged violation
 of which the petitioner herein was arrested and imprisoned, a
 discrimination may be arbitrarily made by the city council of
 Seattle, of itself, establishes and unconstitutionality of the
-ordinance.
+ordinance.</p>
 
-The case of Harry Fundling vs the City of Chicago reported
+<p>The case of Harry Fundling vs the City of Chicago reported
 in Vol. 177 of the United States Supreme Court Reporter, bottom
 page, 725, relied upon by the City Attorney in this case,
 as an autority in support of the constitutionality of the ordinance
@@ -496,9 +512,9 @@ person fulfilling these conditions, does not vest in him any
 arbitrary power to grant or refuse a license, in violation of
 the provisions of the United States constitution, 14th Amendment,
 either in regard to the clause requiring due process of law,
-or in that requiring equal protection of the law. 
+or in that requiring equal protection of the law. </p>
 
-It will readily be observed that the case referred to is
+<p>It will readily be observed that the case referred to is
 no authority in the case under consideration; the Court itself
 therein points out the clear distinction between it and that of
 Yick Wo vs Hopkins 118 United States Reporter 356, cited in behalf
@@ -510,20 +526,20 @@ arbitrary power, at their will, and without regard to discretion
 in the legal sense of the term, to give or withold consent as
 to persons or place for carrying on a laundry with<unclear>out</unclear>, reference
 to the compentency of the person applying or of the propriety
-of the place selected." And the court <add>in this <unclear></unclear> case referring to the Yick Wo <unclear>case</unclear></add> say, "The ordinance in 
+of the place selected." And the court <add>in this <unclear></unclear> case referring to the Yick Wo <unclear>case</unclear></add> say, "The ordinance in </p>
 
-10
+<ab>10</ab>
 
 <pb/>
-question here does not grant to the mayor arbitrary power such
+<p>question here does not grant to the mayor arbitrary power such
 as mentioned in the above mentioned laundry case. In the case
 at bar the license is to be issued if the mayor is satisified
 that the person applying is of good character and reputation
 and a suitable person to be entrusted with the sale of cigarettes,
 and that the mayor is bound to grant the license to
-every person fulfilling these conditions." 
+every person fulfilling these conditions." </p>
 
-A careful examination of the authorities herein cited,
+<p>A careful examination of the authorities herein cited,
 it is confidentially contended, will establish clearly the claim
 made in behalf of the petitioner herein, that the 6th Section of
 Ordinance No. 710 of the city of Seattle under <del>a writ</del> which he was
@@ -533,9 +549,9 @@ Yick Wo vs Hopkins 118 United States has of itself expressly
 determined and fixed the unconstitutionality of Sections 6 and 7
 of Ordinance 710 of the <del>Act</del> City of Seattle, the ordinance adjudicated
 in said case being as already shown in language identical with
-the Seattle ordinance, the one being a copy of the other.
+the Seattle ordinance, the one being a copy of the other.</p>
 
-As indicated by Justice Matthews in the case of Yick Wo in
+<p>As indicated by Justice Matthews in the case of Yick Wo in
 118 United States Supreme Court Reporter herein cited, the section
 held in said case to be unconstitutional and of which the one herein
 under consideration is a copy, is unconstitutional, in that
@@ -547,9 +563,9 @@ by the <del>arbitrary will</del> arbitrary will of the Board to obtain such
 consent; and the objection theretio was founded upon the fact that
 said ordinance makes it possible for the body whose consent was
 necessary to withold such consent without reason and without
-conditiion, and that under its provisions one class of persons could
+conditiion, and that under its provisions one class of persons could</p>
 
--11-
+<ab>-11-</ab>
 
 <pb/>
 arbritarily be given such consent, and another class be refused 

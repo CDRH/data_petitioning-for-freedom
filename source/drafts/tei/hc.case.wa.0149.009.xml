@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0149.009">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Lee Fong v. John Sullivan. Clerk's Certificate</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0149.009</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Lee Fong v. John Sullivan. Clerk's Certificate</title>
+<date when="1902-09-06">September 6, 1902</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1902-09">September 1902</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Walther, H. M.</term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,33 +96,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Fong, Lee</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Sullivan, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiestling, J. M.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Buller, Ellis E.</persName>
+<persName>Sillian, Micheal</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanfod, C. H.</persName>
+<persName>George, R. R.</persName>
+<persName>Gilber, William B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court for the District of Washington</orgName>
+<placeName>Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,72 +139,72 @@
 <div1 type="case">
 
 <pb/>
-In the District Court of the United States for the District of Washington
-Northern Division.
+<p>In the District Court of the United States for the District of Washington
+Northern Division.</p>
 
-In the Matter of the application of 
-Lee Fong for a writ of habeas corpus.
+<ab>In the Matter of the application of 
+Lee Fong for a writ of habeas corpus.</ab>
 
-No. 2333.
+<ab>No. 2333.</ab>
 
-Clerk's Certificate.
+<ab>Clerk's Certificate.</ab>
 
-United States of America,
-District of Washington,
+<ab>United States of America,
+District of Washington,</ab>
 
-ss.
+<ab>ss.</ab>
 
-I, R. M. HOPKINS, Clerk of the District Court of the United States for 
+<p>I, R. M. HOPKINS, Clerk of the District Court of the United States for 
 the District of Washington, do hereby certify the attached and foregoing
 papers to be the original, and all of the original, papers on file and of 
 record in my office at Seattle, Washington, in the above entitled court and
-cause, to-wit:
+cause, to-wit:</p>
 
-Petition;
+<ab>Petition;
 Appearance of counsel for petitioner;
 Order ot show cause;
 Marshal's return on order to show cause. 
 Praecipe;
 Appearance of Counsel for Respondent;
 Answer;
-Certified copy of order remitting cause to Circuit Court.
+Certified copy of order remitting cause to Circuit Court.</ab>
 
-In witness whereof I have hereunto set my hand and official seal,
-at Seattle, Washington, this 6th day of September, 1902.
+<p>In witness whereof I have hereunto set my hand and official seal,
+at Seattle, Washington, this 6th day of September, 1902.</p>
 
-R.M. HOPKINS, Clerk,
+<ab>R.M. HOPKINS, Clerk,</ab>
 
-By H. M. Walthew
-Deputy Clerk. 
+<ab>By H. M. Walthew
+Deputy Clerk. </ab>
 
 <pb/>
 
-Tx
+<ab>Tx</ab>
 
-Form No. 599.
+<ab>Form No. 599.</ab>
 
-No.1036
+<ab>No.1036</ab>
 
-IN THE Circuit Court
+<ab>IN THE Circuit Court
 OF THE UNITED STATES
-FOR THE DISTRICT OF WASHINGTON.
+FOR THE DISTRICT OF WASHINGTON.</ab>
 
-In the matter of the
+<ab>In the matter of the
 application of
 Lee Fong for a 
-Writ of Habeas Corpus
+Writ of Habeas Corpus</ab>
 
-Transcript form
-Dist Court
+<ab>Transcript form
+Dist Court</ab>
 
-FILED IN THE 
+<ab>FILED IN THE 
 U.S. CIRCUIT COURT,
 DIST. OF WASHINGTON.
 SEP 6 1902
-A. REEVES AYRES, CLERK
+A. REEVES AYRES, CLERK</ab>
 
-H.M.Walthew
-Dep. 
+<ab>H.M.Walthew
+Dep. </ab>
 
 
 

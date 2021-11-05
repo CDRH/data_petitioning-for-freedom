@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0149.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Lee Fong v. John Sullivan. Opinion of William B. Gilbert</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0149.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<date when="1902-09-25">September 25, 1902</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1902-09">September 1902</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Wo, Yick</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>China</term>
 </keywords>
 
 </textClass>
@@ -94,33 +97,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Fong, Lee</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Sullivan, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wiestling, J. M.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Buller, Ellis E.</persName>
+<persName>Sillian, Micheal</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanfod, C. H.</persName>
+<persName>George, R. R.</persName>
+<persName>Gilber, William B.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court for the District of Washington</orgName>
+<placeName>Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,20 +140,20 @@
 <div1 type="case">
 
 <pb/>
-IN THE CIRCUIT COURT OF THE UNITED STATES FOR
+<ab>IN THE CIRCUIT COURT OF THE UNITED STATES FOR
 THE DISTRICT OF WASHINGTON,
-Northern Division.
+Northern Division.</ab>
 
-IN THE MATTER OF THE APPLICATION
+<ab>IN THE MATTER OF THE APPLICATION
 OF LEE FONG FOR A WRIT OF 
-HABEAS CORPUS.
+HABEAS CORPUS.</ab>
 
-J. M. Wiestling, for the Petitioner.
-Ellis D. Buller, for the Respondent.
+<ab>J. M. Wiestling, for the Petitioner.
+Ellis D. Buller, for the Respondent.</ab>
 
-Gilber, Circuit Judge. 
+<ab>Gilbert, Circuit Judge. </ab>
 
-The petitioner, Lee Fong, was arrested and detained in the 
+<p>The petitioner, Lee Fong, was arrested and detained in the 
 custody of the Chief of Police of the City of Seattle, upon the
 charge that he had violated the provisions of Section 6 of Ordinance
 710 of the City of Seattle, approved Feb. 6, 1886, entitled: An ordinance
@@ -161,21 +167,21 @@ certificate signed by the health officer of the city of Seattle that
 the premises are properly and sufficiently drained and that all proper
 arrangements for carrying on the business without injury to the sanitary 
 condition of the neighborhood have been complied with, also a
-certificate signed by the chief of the fire department of the City
+certificate signed by the chief of the fire department of the City</p>
 
-(1)
+<ab>(1)</ab>
 
 <pb/>
 
-of Seattle that the stoves, washing and drying apparatus and the
+<p>of Seattle that the stoves, washing and drying apparatus and the
 appliances for heating smoothing irons are in good condition, and
 that their use is not dangerous to the surrounding property, from
 fire, and that all proper precautions have been taken to comply
 with the provisions of the ordinances of the city then in force making
 regulations concerning the erection and use of buildings and for
-the protection of property from injury or destruction by fire".
+the protection of property from injury or destruction by fire".</p>
 
-"Sec. 3. It shall be the duty of the health officer, also
+<p>"Sec. 3. It shall be the duty of the health officer, also
 of the chief of the fire department, respectively, upon application
 from any person or persons proposing to open or conduct the business
 of a public laundry within the City of Seattle to inspect the premises
@@ -191,19 +197,19 @@ provided for in section 2 of this ordinance. No charge whatever
 shall be made or compensation or fee collected or received for the
 performance of any of the services required by the provisions of this
 ordinance in the inspection of premises or the issuance of a certificate,
-but all such services shall be performed free of charge".
+but all such services shall be performed free of charge".</p>
 
-"Sec. 6. It shall be unlawful, from and after the passage
+<p>"Sec. 6. It shall be unlawful, from and after the passage
 of this ordinance, for any person or persons to establish, maintain
 or carry on a laundry within the corporate limits of the City of Seattle
 without having first obtained the consent of the common council,
-except the same be located in a building constructed either of brick
+except the same be located in a building constructed either of brick</p>
 
-(2)
+<ab>(2)</ab>
 
 <pb/>
 
-or stone, and covered with a metal roof". The petitioner alleges in
+<p>or stone, and covered with a metal roof". The petitioner alleges in
 substance that an application was made by John Miller, the petitioner's 
 lessor, to the City of Seattle for a permit to change premises No.
 1410 East First Street into a laundry; that there were submitted therewith
@@ -232,13 +238,13 @@ place a "Chinese laundry", and requested the council to withold their
 consent for the same; that the petitione was indorsed: "A remonstrance
 against erecting a Chinese laundry at No. 1410 East First Street",
 and was referred to a committee of the council who, without giving the
-petitioner a hearing, reported a recommendation that the council
+petitioner a hearing, reported a recommendation that the council</p>
 
-(3).
+<ab>(3).</ab>
 
 <pb/>
 
-refuse to grant its consent to said laundry, which report was adopted
+<p>refuse to grant its consent to said laundry, which report was adopted
 by the council. It appears from these allegations that the reason
 why the council withheld its consent to the maintainance of the
 petitioner's laundry was that it was to be a Chinese laundry. The 
@@ -266,13 +272,13 @@ the owners or occupiers into two classes, not having respect to their
 personal character and qualifications for the business, nor the
 situation and nature and adaptation of the buildings themselves, but
 merely by an arbitrary line, on one side of which are those who are 
-permitted to pursue their industry by the mere will and consent of the
+permitted to pursue their industry by the mere will and consent of the</p>
 
-(4)
+<ab>(4)</ab>
 
 <pb/>
 
-supervisors, and on the other those from whom that consent is withheld 
+<p>supervisors, and on the other those from whom that consent is withheld 
 at their mere will and pleasure..... The ordinance, therefore, also
 differs from the not unusual case, where discretion is lodged by law
 in public officers or bodies to grant or withhold licenses to keep
@@ -280,9 +286,9 @@ taverns, or places for the sale of spirituous liquors, and the like,
 when one of the conditions is that the applicant shall be a fit
 person for the exercise of the privilege, because in such cases the
 fact of fitness is submitted to the judgment of the officer, and 
-calls for the exercise of a discretion of a judicial nature."
+calls for the exercise of a discretion of a judicial nature."</p>
 
-But it is contended that the doctrine of the Yick Wo case
+<p>But it is contended that the doctrine of the Yick Wo case
 is modified by the more recent decision of the Supreme Court in
 Gundling v. Chicago, 177 U.S.,  183. In that case it was held that
 an ordinance authorizing the issuance of licenses to persons to sell
@@ -303,21 +309,21 @@ Yick Wo case and alluded to the fact that the ordinance in the Yick
 Wo case was held to be illegal and violative of the 14th amendment,
 because with reference to the subject upon which it touched, "it
 conferred upon the municipal authorities arbitrary power at their
-will and without regard to discretion in the legal sense of the term,
+will and without regard to discretion in the legal sense of the term,</p>
 
-(5)
+<ab>(5)</ab>
 
 <pb/>
 
-to give or withhold consent as to persons or places for carrying
+<p>to give or withhold consent as to persons or places for carrying
 on a laundry with reference to the competency of the persons applying
 or the propriety of the place selected. It was also held
 that there was a clear and intentional discrimination made against
 the Chinese in the operation of the ordinance, which discrimination
 was founded upon the difference of race and was wholly arbitrary and
-unjust". 
+unjust". </p>
 
-It is contended also that the present case may be 
+<p>It is contended also that the present case may be 
 differentiated from the Yick Wo case by reading into the terms of 
 Sec. 6 of the ordinance the provisions of Sections 2 and 3, but that
 contention cannot be sustained. Sections 2 and 3 make general proovisions
@@ -339,36 +345,37 @@ prosecution of a legitimate business, not dangerous or injurious to
 oters, he can only be so deprived by a judgment of competent authority,
 pronounced in the exercise of a judicial discretion so vested
 as to observe due process of law and afford him the equal protection
-of the laws.
+of the laws.</p>
 
-Upon the allegations of the petition, th <add>writ</add> must issue as 
-prayed for.
+<p>Upon the allegations of the petition, th <add>writ</add> must issue as 
+prayed for.</p>
 
-<unclear>Wm B. Gilbert</unclear>
+<ab>Wm B. Gilbert</ab>
 
 <pb/>
 
-1036 Tx
+<ab>1036 Tx</ab>
 
-US Circuit Court
-Dist of Washington.
+<ab>US Circuit Court
+Dist of Washington.</ab>
 
-In re
+<ab>In re
 Lee Fong.
-Habeas Corpus.
+Habeas Corpus.</ab>
 
-Opinion of
+<ab>Opinion of
 Wm B Gilbert.
-Judge.
+Judge.</ab>
 
-FILED IN THE
+<ab>FILED IN THE
 U. S. CIRCUIT COURT,
-DIST OF WASHINGTON.
+DIST OF WASHINGTON.</ab>
 
-SEP 25 1902
-A. REEVES AYRES, CLERK
+<ab>SEP 25 1902</ab>
 
-HM Walthew Dep. 
+<ab>A. REEVES AYRES, CLERK
+
+HM Walthew Dep. </ab>
 
 
 </div1>
