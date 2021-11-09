@@ -10,6 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
 
 </respStmt>
@@ -51,9 +52,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
+<idno>wal 889</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -86,7 +87,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Walla Walla County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,16 +95,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Francois Lafontaisis</persName>
+<persName>Lafontaisis, Franscois</persName>
 </person>
 <person role="defendant">
-<persName>United States</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName>LB Nash</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Samuel Wingard</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>JR Lewis</persName>
@@ -113,15 +114,15 @@
             
 <listOrg>
 <org>
-<orgName>Washington Territory First District Court</orgName>
-<placeName>Washington Territory</placeName>
+<orgName>Walla Walla County</orgName>
+<placeName>Walla Walla, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-10" who="#asb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
