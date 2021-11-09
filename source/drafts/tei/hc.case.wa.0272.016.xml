@@ -83,11 +83,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>McElroy, B. F.</term>
+<term>Craig, Joseph</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Umatilla Indian Reservation, Oregon</term>
 </keywords>
 
 </textClass>
@@ -95,33 +96,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>George, Columbia</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Hopkins, Charles B.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Slater, R. J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States Circuit Court</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
