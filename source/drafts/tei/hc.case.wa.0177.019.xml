@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0466.002.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
     
 <teiHeader>
 <fileDesc>
@@ -78,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">June 1897</date></term>
+<term><date when="1000-01">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bajlo, Tonka</term>
+<term>Crosby, Frank L.</term>
+<term>Laden, E. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +96,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Craemer</persName>
+<persName>Tonka Bajlo</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Pratt &amp; Riddle</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -112,7 +114,7 @@
             
 <listOrg>
 <org>
-    <orgName>The United States Circuit Court, For the District of Washington, Northern Division</orgName>
+    <orgName>United States District Court, Western District of Washington, Northern Division</orgName>
     <placeName>King County, Washington</placeName>
 </org>
 </listOrg>   
@@ -120,7 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,42 +137,31 @@
 
 <pb/>
 
-<p>United States Circuit Court for the District of Washington.</p>
+<p>In the District Court of the United States
+for the District of Washington
+Northern Division</p>
 
-<p>In re Application of 
-Henry Craemer for 
-Writ of Habeas 
-Corpus. and relief thereon</p>
+<p>FINAL RECORD</p>
 
-<p>To the Clerk of the above entitled Court:</p>
-<p>You will please enter our appearance as attorneys
-for Petitioner Henry Craemer,
-in the above entitled cause.</p>
+<p>In Re: TONKA BAJLO,
+Habeas Corpus.</p>
 
-<ab>Pratt &amp; Riddle</ab>
+<p>No. 2459</p>
 
-<pb/>
+<p>Filed May 15th, 1913</p>
 
-<p>No. 624</p>
+<p>Frank L. Crosby
+Clerk</p>
 
-<p>United States Circuit Court
-DISTRICT OF WASHINGTON</p>
+<p>WITNESS my hand and official 
+seal this 20 day of May 1913</p>
 
-<p>In re Application of 
-Henry Craemer for Writ 
-of Habeas Corpus.</p>
+<ab>Frank L. Crosby. Clerk
+By EM Laden
+Deputy.</ab>
 
-<p>Præcipe for Appearance.</p>
+<figure></figure>
     
-<p>Filed June 14 1897</p>    
-
-<ab>A. Reeves Ayres Clerk
-P M Hopkinds Deputy Clerk.</ab>
-
-<ab>Pratt &amp; Riddle
-Attorneys 
-For Petitioner</ab>
-
 </div1>
     
 </body>
