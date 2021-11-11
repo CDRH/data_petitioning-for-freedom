@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.009.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.009">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary Miler v. United States of America. Further Answer and Return.</title>
+<title>Mary Miler v. United States of America. Further Answer and Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -82,14 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>DeBruller, Ellis</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
+<term>DeBruler, Ellis</term>
 <term>Wright, B. D.</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
 <term>Crosby, Frank L.</term>
 </keywords>
 
@@ -117,7 +111,7 @@
 <persName>Riddell, C. F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Brockway, E. B.</persName>
+<persName>Brockway, Earle B.</persName>
 </person>
 <person role="judge">
 <persName>Cushman, Edward E.</persName>
@@ -127,7 +121,7 @@
 <listOrg>
 <org>
 <orgName>Western Washington District Court</orgName>
-<placeName>Washington State</placeName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -152,9 +146,9 @@
 <p>United States District Court
 Western District of Washington
 Northern Division.</p>
-<p>In the Mtteer of The Application
+<p>In the Matter of The Application
 of Marie Miler for a Writ of 
-Habeas Corpus. | No. 2457</p>
+Habeas Corpus. : No. 2457</p>
 <p>Further Answer and Return
 to Writ and Petition Therefor.</p>
 <p>To the Honorable Edward E. Cushman, Judge of the above
@@ -164,8 +158,8 @@ at Seattle, Washington, an oral agreement with counsel for
 petitioner first obtained, and for further answer to the
 Writ of Habeas Corpus issued herein, and for answer to the
 petition filed herein, states as follows:</p>
-<p>I.
-That under the authority of Section 22 of the Act of
+<p>I.</p>
+<p>That under the authority of Section 22 of the Act of
 Feburary 20, 1907, as amended by the Act of March 26, 1910,
 the Commissioner General of Immigration if required to
 "establish such rules and regulation ***
@@ -173,14 +167,16 @@ not inconsistent with law as he shall deem
 best calculated for carrying out the provisions
 of this Act and for protecting the United States
 and aliens migrating thereto from fraud and loss."</p>
+
 <pb/>
-<p>II.
-That in accordance with such provision of the statute
+
+<p>II.</p>
+<p>That in accordance with such provision of the statute
 the Commissioner-General of Immigration issued and promulgated
 the following rule, being paragraph B of Subdivision
 4 of Rule 22 of Immigration Rules of November 15,
-1911, such paragraph reading as follows:
-"During the course of the hearing the alien shall be
+1911, such paragraph reading as follows:</p>
+<p>"During the course of the hearing the alien shall be
 allowed to inspect the warrant of arrest and all the
 evidence on which it was issued; and at such stage
 thereof as the officer before whom the hearing is
@@ -194,29 +190,35 @@ the hearing, to inspect and make a copy of the minutes
 of the hearing, so far as it had proceeded, and to offer
 evidence to meet any evidence theretofore or thereafter
 presented by the Government. Objections and exceptions
-of counsel shall bnot be entered on the record,
+of counsel shall not be entered on the record,
 but may be dealt with in an accompanying brief.</p>
 <p>Wherefore, having further answered said writ and
 petition, said Ellis DeBruller prays the above entitled
 Court that the said writ be dismissed an the application
 and petition denied.</p>
-<ab>C.F. Riddell
+<ab>C.F. Riddell<lb/>
 United States Attorney</ab>
-<ab>EB Brockway
+<ab>EB Brockway<lb/>
 Assitant United States Attorney.</ab>
+
+<pb/>
+
 <p>The United States of America
 Western District of Washington } SS</p>
-<p>I, ellis DeBruller, being first duly sworn, on oath
+<p>I, Ellis DeBruller, being first duly sworn, on oath
 depose and say: That I am the Commissioner of Immigration
-named in the foregoing Answer: that I ahve read the same,
+named in the foregoing Answer: that I have read the same,
 know the contents thereof and believe the same to be true.</p>
 <ab>Ellis DeBruller</ab>
 <ab>Subscribed and sworn to before
-me this 7th day of May, 1913.
-BD Wright
+me this 7th day of May, 1913.</ab>
+<ab>BD Wright<lb/>
 Deputy Clerk, U.S. Dist. Court, Western Dist. of Washington</ab>
+
 <pb/>
-<p>2x No. 2457</p>
+
+<p>2x</p>
+<p>No. 2457</p>
 <p>In the District Court
 of the United States
 for the
@@ -228,9 +230,9 @@ Habeas Corpus.</p>
 <p>Further Answer and Return
 to Writ and Petition Therefor.</p>
 <p>Filed in the U.S. District Court,
-Western Dist. of Washington.
-May 7 1913
-Frank L Crosby, Clerk,
+Western Dist. of Washington.<lb/>
+May 7 1913<lb/>
+Frank L Crosby, Clerk,<lb/>
 By EML Deputy</p>
 
 </div1>

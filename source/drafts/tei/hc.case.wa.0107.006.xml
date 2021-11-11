@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> 
+<title>Gus Bendjus et al. v. Territory of Washington. Judgement of Dismissal</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,15 +50,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Judgement of Dismissal</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1880-05">May 1880</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -97,21 +97,48 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Last, First</persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Moody, George L.</persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
@@ -138,7 +165,37 @@
 <div1 type="case">
 
 <pb facs="hc.case.wa.0107.006"/> 
-<note>Entered</note>
+<p>IN THE DISTRICT COURT of the Second Judicial District of Washington Territory, 
+holding terms at Montesano, for the County of Chehalis.</p>
+
+<p>Territory of Washington Plaintiff. Gus Bedjus &amp;aS Defendants} No. 135 JUDGMENT OF DISMISSAL.</p>
+
+<p>And now, on this 29th day of May, A.D., 1888 
+comes the plaintiff, by his attorney George J. Moody and moves the 
+Court that this cause be dismissed at his costs, and the Court being fully advised 
+in the premises, grants said motion : whereupon it is considered by the Court that 
+this cause be, and the same is hereby, dismissed, and that the defendant 
+have and recover of and from the plaintiff, the costs of this action to be taxed, 
+and that execution issue therefor. 
+and that defendant <unclear>bonds</unclear> and each of them be and they are hereby 
+exhonorated</p>
+
+<p>Frank Allyn</p>
+<p>J</p>
+
+<pb/>
+
+<p>No 135</p>
+
+<p>Territory of Wash vs. Gus Beudjus Etal</p>
+
+<p>JUDGMENT OF DISMISSAL,</p>
+
+<p>Filed May 29th 1888</p>
+
+<p>HM Sutton CLERK.</p>
+
+<p>Entered on page 499</p>
 
 </div1>
     

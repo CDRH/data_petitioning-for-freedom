@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.012.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.012">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary Miler v. United States of America. Receival Notice</title>
+<title>Mary Miler v. United States of America. Notice of Receipt</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mary Miler v. United States of America. Receival Notice.</title>
+<title level="m" type="main">Mary Miler v. United States of America. Notice of Receipt</title>
 <date when="1913-04-21">April 21, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,17 +83,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Hanford, C. F.</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
 <term>Engle, A. W.</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
-<term>DeBruller, Ellis</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
+<term>DeBruler, Ellis</term>
 <term>Crosby, Frank L.</term>
 </keywords>
 
@@ -131,13 +122,14 @@
 <listOrg>
 <org>
 <orgName>Western Washington District Court</orgName>
-<placeName>Washington State</placeName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
+<change when="2021-11" who="#lkw">review</change>    
 <change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
@@ -156,7 +148,7 @@
 United States District Court
 Western District of Washington
 Seattle</p>
-<p>I am directed by Judge Handord to inform you that by 
+<p>I am directed by Judge Hanford to inform you that by 
 reason of the merger of the United States Circuit Court into the
 United States District Court, the late Clerk of the Circuit Court
 is required to promptly make an adjustment of fees earned during
@@ -165,28 +157,30 @@ whatever rebates may be due to them on account of advance fees
 paid into the Clerk's office in cases which have been finished,
 and to insist upon the payment to this office of balances of fees
 earned by the late Clerk in excess of the amounts advanced. By this
-order you, as sttorney.., are required to pay into the office
+order you, as attorney.., are required to pay into the office
 balances in cases as shown below.</p>
-<ab>Respectfully,
-A.W. Engle
-Cler Unitd States District Court.</ab>
+<ab>Respectfully,<lb/>
+A.W. Engle<lb/>
+Clerk United States District Court.</ab>
 <p>In Case No <gap reason="blank"/> $<gap reason="blank"/></p>
+
 <pb/>
+
 <p>April 21, 1913</p>
 <p>Recieved answer and return of
-Ellis DeBruller om case No.2457
+Ellis DeBruller in case No. 2457
 of W.S. District Court, Western
 District of Wash, Northern Division,
-bein in the Matter of Marie
+being in the Matter of Marie
 Miler for Habeas Corpus.</p>
-<ab>Elias A. Wright
+<ab>Elias A. Wright<lb/>
 Atty for Petitioner</ab>
-<p>#2457
-Filed in the U.S. 
+<p>#2457</p>
+<p>Filed in the U.S. 
 District Court
-Western Dist of Washington.
-Apr 21 1913
-Frank L. Crosby, Clerk.
+Western Dist of Washington.<lb/>
+Apr 21 1913<lb/>
+Frank L. Crosby, Clerk.<lb/>
 By <gap reason="blank"/> Deputy</p>
 
 
