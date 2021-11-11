@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.013.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.013">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Miler v. United States of America. Order for Writ.</title>
+<title>Marie Miler v. United States of America. Order for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Miler v. United States of America. Order for Writ.</title>
+<title level="m" type="main">Marie Miler v. United States of America. Order for Writ</title>
 <date when="1913-04-15">April 15, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,9 +83,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>DeBruller, Ellis</term>
-</keywords>
-
-<keywords scheme="lcsh" n="people">
 <term>Crosby, Frank L.</term>
 </keywords>
 
@@ -110,7 +107,7 @@
 <persName>Riddell, C. F.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Brockway, E. B.</persName>
+<persName>Brockway, Earle B.</persName>
 </person>
 <person role="judge">
 <persName>Cushman, Edward E.</persName>
@@ -120,13 +117,14 @@
 <listOrg>
 <org>
 <orgName>Western Washington District Court</orgName>
-<placeName>Washington State</placeName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
+<change when="2021-11" who="#lkw">review</change>    
 <change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
@@ -148,7 +146,7 @@ Marie Miler for Writ of Habeas Corpus.} No. <del>5</del>2457</p>
 <p>Order Granting Writ of Habeas Corpus</p>
 <p>Upon reading the petition of Marie Miler, duly signed
 and verified by her and filed in this Court, whereby it appears
-that she is allegally imprisioned and restrained of her liberty
+that she is ellegally imprisioned and restrained of her liberty
 by the Hon. Ellis DeBruller, United States Commissioner of Immigration,
 at the Detention Station at Seattle, Washington, and
 stating wherein the alleged illegality consists and wherein she
@@ -160,7 +158,7 @@ rights and property, from which it appears to me that a writ of
 Habeas Corpus ought to issue, now therefore, it is</p>
 <p>Ordered that a writ of habeas corpus issue out of and
 under the seal of the District Court of the United States for
-the Western District of Washington, Norther Division, directed
+the Western District of Washington, Northern Division, directed
 to Ellis DeBruller, Commissioner as aforesaid, commanding him
 to have the body of the said Marie Miler before me in the Court
 room of the above entitled Court at Seattle, Washington, at the
@@ -169,20 +167,23 @@ Seattle, County of King, State of Washington, on the 21st day
 of April 1913, at 1 o'clock, PM of that day,
 to do and recieve what shall then and there be considered concerning
 the said petitioner, Marie Miler, together with the
-time and cause of her detention, and that you hve then and
+time and cause of her detention, and that you have then and
 there the said writ.</p>
 <p>Done in open Court this 15th day of April, A.D. 1913.</p>
-<ab>Edward E. Cushman
+<ab>Edward E. Cushman<lb/>
 District Judge.</ab>
+
 <pb/>
-<p>2x No. <del>5</del> 2457</p>
+
+<p>2x</p>
+<p>No. <del>5</del> 2457</p>
 <p>In the 
 District Court
 of the United States
 for the Western District
 of Washington
 Northern Division.
-E8-20B-1-12</p>
+E8-GOB-1-12</p>
 <p>In the Matter of the
 Application of Marie
 Miler for Writ of
@@ -191,15 +192,15 @@ Habeas Corpus</p>
 Writ</p>
 <p>Filed in the District Court,
 Western Dist of Washington
-Apr 15 1913
-Frank L. Crosby, clerk.
+Apr 15 1913<lb/>
+Frank L. Crosby, clerk.<lb/>
 By EML Deputy.</p>
-<p>Elias A. Wright
-Attorney for Petitioner
-629 Burke Building
-Seattle Wash
-J.I. Macdonald Co. Seattle
-Form No.183</p>
+<p>Elias A. Wright<lb/>
+Attorney for Petitioner<lb/>
+629 Burke Building<lb/>
+Seattle Wash</p>
+<fw>J.L. Macdonald Co. Seattle
+Form No.183</fw>
 
 
 </div1>
