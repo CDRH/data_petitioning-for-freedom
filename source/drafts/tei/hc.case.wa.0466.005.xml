@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0466.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0466.005.xml">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosali Paredes</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -78,15 +78,23 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1000-01">June 1897</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ayres, A. Reeves</term>
+<term>Craemer, Henry</term>
+<term>Hanford, C. H.</term>    
+<term>McElroy, James H.</term>
+<term>Moore, A. N.</term>    
+<term>Moyer, William H.</term>
+<term>Pratt</term>
+<term>Riddle</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+    <term>King County, Washington</term>
+    <term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,26 +102,26 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Henry Craemer</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>The State of Washington et al.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Pratt &amp; Riddle</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>James H. McElroy</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>C. H. Hanford</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+    <orgName>United States Circuit Court for the District of Washington.</orgName>
+    <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -174,11 +182,34 @@ a duly certified copy of the order allowing the appeal in said
 cause, and service fo the same is hereby acknowledged this <del>8th</del> 21st day
 of <del>April</del> June, A.D., 1897.</p>
 
-<ab>W. H. Moyer Sheriff of King County, State of 
-Washington.
-James F McElroy Prosecuting Attorney for King
-County, State of Washington</ab>
+<ab>W. H. Moyer 
+    Sheriff of King County, State of 
+    Washington.</ab>
+<ab>James F McElroy 
+    Prosecuting Attorney for King
+    County, State of Washington</ab>
 
+<pb/>
+    
+
+    <p>In The U.S. Circuit Court, 
+        District of Wash. Northern
+        Division.</p>
+    
+    <p>In Re Application of Henry 
+        Craemer for Habeas Corpus.</p>
+    
+    <p>Notice of Appeal.</p>
+    
+    <p>FILED June 21 1897
+        IN THE 
+        U.S. Circuit Court.</p>
+    <ab>A. Reeves Ayres CLERK
+        By A. N. Moore DEPUTY</ab>
+    
+    <p>Pratt &amp; Riddle,
+        Attys for Petitioner.
+        309-310-311 Bailey Bldg.</p>
 </div1>
     
 </body>
