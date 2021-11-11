@@ -56,9 +56,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-09">October 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -112,21 +112,48 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Last, First</persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Moody, George L.</persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
