@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0466.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0466.001.xml">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -78,15 +78,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1000-01">June 1897</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Ayres, Reeves</term>
+<term>Craemer, Henry</term>
+<term>Hopkins, P. M.</term>
+<term>Humes, Thomas J.</term>
+<term>Jacobs, Orange</term>
+<term>Moyer, William H.</term>
+<term>Rogers, John R.</term>
+<term>Sangford, S. S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +101,14 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Henry Craemer</persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Pratt</persName>
+<persName>Riddle</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -112,8 +120,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court, For the District of Washington, Northern Division</orgName>
+<placeName>King County, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -301,7 +309,8 @@ jurisdiction.</p>
 state of Washington, granted a respite to your petitioner, this
 prolonging your petitioner's life and staying the execution of the
 death sentence for the period fo ninety (90) days, or until, to-wit
-<fw>(5)</fw> <pb></pb>
+<fw>(5)</fw>
+ <pb/>
 the 23rd day of July, 1897.</p>
 
 <p>That the next term of the Supreme Court of the State of
@@ -336,7 +345,8 @@ in the second degree, and under the reasonable construction granted
 by the law possibly only the offense of manslaughter, and under no
 circumstances by any construction of the law in anywise applicable
 of the crime of murder in the first degree, your petitioner seeks
-<fw>(6)</fw> <pb></pb>
+<fw>(6)</fw> 
+ <pb/>
 at the hands of the court the relief under such conditions are 
 allowable; that is, that your petitioner either be permitted the 
 election of accepting his sentence upon a verdict of murder in the 
@@ -358,7 +368,7 @@ your petitioner could be sentenced upon.</p>
 
 <p>13. That for due information of the court, your petitioner
 respectfully announces to the court that the Journal entries and 
-the records in the Superior Court of the State fo Washington in 
+the records in the Superior Court of the State of Washington in 
 this cause known as number 1054 <add>be</add> by Writ of Certiorari duly certi-
 fied before your Honor for spection and investigation, that the
 court may be duly advised in the premises, and that your Honor
@@ -367,7 +377,8 @@ your petitioner to be brought before the Court at such time and
 place as to the Court shall be convenient, whereat the Court could
 inquire of the matters and things alleged by your petitioner, and
 that your Honor would issue a Writ of Certiorari to the Superior
-<fw>(7)</fw> <pb></pb>
+<fw>(7)</fw> 
+<pb/>
 court of the county of King ordering to be duly certified to the
 court the records of this said cause for information, particularly
 the alleged information, the verdict, the judgement and the death-
