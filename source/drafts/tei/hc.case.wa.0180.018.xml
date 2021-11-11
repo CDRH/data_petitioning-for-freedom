@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.018.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Response.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0180.018</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Response.</title>
+<date when="1913-07-19">July 19, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,30 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1913-07">July 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Holmes</term>
+<term>Washio, Shotaro</term>
+<term>Saito, Hana</term>
+<term>Ito, K.</term>
+<term>Umeda, K.</term>
+<term>Gardner</term>
+<term>Gassounis, Lewis</term>
+<term>Johnson, Maida</term>
+<term>Ellsworth</term>
+<term>Donahue</term>
+<term>Dupont</term>
+<term>Baker, Julia</term>
+<term>Denamore, J. B.</term>
+<term>Larned, F. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>San Francisco, California</term>
+<term>Seattle, Washington</term>
+<term>Oakland, California</term>
 </keywords>
 
 </textClass>
@@ -94,33 +109,45 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Myers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClellan, R. W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnstone, Walter L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, G. P.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -261,9 +288,357 @@ the close of the hearing a full record shall be forwarded
 to the bureau, together with any written arguments submitted
 by counsel and recommendations of the examining officer
 as to whether a warrant for deportation shall issue.</p>
- 
-
-
+<p>The Proceeding And Evidence in this Case.</p>
+<p>In acoordance with these instructions a warrant 
+was issued which was marked Exhibit "A" and will be found
+in the record after the testimony of Shotaro Washio.</p>
+<p>On this warrant, in the manner provided by the 
+rules, a hearing was had on November 3, 1913, and the two
+aliens, Young and Sugiura, were presented by counsel;
+after the testimony, including the brief of the attorney
+R.W. McClelland, was sent back to the Secretary of Labor.
+The statement of Shotaro Washio shows that Young and 
+Sugiura knowingly assisted a prostitute (see page 1 of
+testimony of Shotaro Washio which is in the following 
+language:</p>
+<p>Q. Are you the same Shotaro Washio that testified in the
+<fw>4</fw>
+<pb/>
+trial of Albert H. Young and B.K. Sugiura for
+transporting a girl named Hana Saito from Seattle
+to San Francisco? A. Yes.</p>
+<p>Q. Did they assist you in taking her to San Francisco? 
+A. Yes.</p>
+<p>Q. What was that woman's occupation? A. That that time
+or after she got there.</p>
+<p>Q. Before she left San Francisco to come here and after
+she returned to San Francisco? A. Prior to her
+departure from San Francisco  she was sick and didn't 
+do anything and after her return to Frisco she was
+a prostitute.</p>
+<p>Q. Did Mr. Young and Sugiura know what her character
+was then they helped you to take her to San Francisco?
+A. Yes.</p>
+<p>Q. How did they know it? A. I told them.</p>
+<p>Q. Did you tell both of them or only one? a. I told
+Sugiura and whether he told Young or not I don't know.).</p>
+<p>Also the testimony of Hana Saito (page 2 of her
+testimony) is to the same effect. Thus note the following
+language thereof:</p>
+<p>Q. Did you at any time prior to your departure from Seattle
+for San Francisco tell Young and Sugiura or either of 
+them that you had formerly practiced prostitution at
+the house at 1020 Stockton St.?</p>
+<p>A. No, but Sugiura said while we were on board the ship
+that they would take me back to the house where I 
+had been practicing prostitution before. They knew
+I had been a prostitute because Washio told them.</p>
+<p>Q. Do you know who purchased your transportation to San 
+Francisco?</p>
+<p>A. Young and Sugiura did. They bought tickets on a boat
+sailing earlier and took me to the ticket office to
+get the tickets cancelled.</p>
+<p>Q. Do you know if they recieved any money for taking you to
+San Francisco?</p>
+<p>A. I heard later that they got $250.00 from Ito and Umeda.</p>
+<p>The testimony further shows that Young and Sugiura
+promised to protect a prostitute from arrest (See the
+<fw>5</fw>
+<pb/>
+testimony of Hana Saito on page 1 thereof which is as
+follows:</p>
+<p>"Young said they were going to put me into
+jail and I thought I was arrested because Saito
+and I ran away from San Francisco. I asked if
+they were from the Immigration office at San Francisco
+or from the police and Young said they were from
+the police; I asked him if he had anything to do
+with the Immigration Office and he said 'If you don't 
+come with us you will be turned over to the Immigration
+officers.'")</p>
+<p>Again see the testimony of K. Ito on page 2 and 3
+thereof which is as follows:</p>
+<p>Q. What else did Young, Sugiura or Washio say at that 
+time? A. Young and Sugiura said the agreement with
+Washio was to pay them $800 for bringing the girl
+down here but that things didn't go just right so
+they were willing to settle and take $400 and wanted
+me to pay them that. Sugiura said he had passed
+as an interpreter and that Young had passed as an
+Immigration officer and the woman believed them
+came without much trouble. Young and Sugiura told
+me it was worth $800 to take the chances of bringing
+this woman here to a house of prostitution and that
+they wanted their mnoney. They told me later that
+they had been to see Mr. Gardner of the Immigration
+office and had fixed things with him so there would
+be no trouble but that we must come through with the
+money to them. Young and Sugiura and went to the
+Imperial hotel, Washio and Hana stayed in my house. 
+The next day, I think it was, Umeda and I were sent
+for by Young and Sugiura went over their agreement
+with Washio and said they couldn't wait for their
+money and must getback to Seattle and that Umeda
+and I must raise the money for them. Later in the 
+day Young and Sugiura came to my house Umeda was
+present also and there I paid them $200 and later
+I paid them $50 more.</p>
+<p>Application of Test to this Case.</p>
+<p>This is sufficient to show that there was a
+sointilla of evidence for the immigration authorities
+and this under the law if sufficient. But there seems
+to be more than that. The stories of Young and Sugiura
+are not as probable as those of the government witnesses.
+<fw>6</fw>
+<pb/>
+We do not, however, enter into this case under the rules
+as laid down by our Supreme Court and Judge Neterer
+in this district. The only question for consideration
+is whether a hearing was denied. There can be no pretense
+that this was done because Attorney McClelland represented
+the aliens before the immigration officer and sent a 
+brief back to Washington (see his brief and also notice
+on page 6 of his brief at the point beginning at line 9
+and ending at line 16 where he takes up the testimony and
+argues on it). Now he says that the testimony was not
+comptenet. Before the immigration authorities he did
+not object to the admission of any of these affidavits
+(see page 5 of the testimony of Sugiura wehre the
+testimony was offered without objection and see the
+examination of McClelland wehre he examines as to these
+various statements). Again it will be observed that
+McClelland, on behalf of the aliens, put in a lot of 
+exparty affidavits which would be no more admissible
+than those of the government; but if the court was
+reviewing a lower court, he could not reverse it if the
+court let in testimony when there was no objection made
+to it, and if a court lets in such testimony, it is acting
+within its jurisdiction to consider the testimony after
+admitted. So this is bound to be considered as fair
+testimony and Mr. McClelland, the attorney for the aliens,
+reviews poritons of it in his brief. The inspection
+officers were fair. They allowed Mr. McClelland to have
+as much latitude as themseleves in putting in testimony
+and there is no showing in the record that the officers
+refused to allow him to put in any testimony on behalf of
+<fw>7</fw>
+<pb/>
+his clients.</p>
+<p>Meaning of the Word "Assists".</p>
+<p>The word "assists" as used in this statute applies
+to cases where the prostitutes are assisted in the promotion
+of the practice or business of prostitution, but not cases
+where prostitutes may be given assistance which is in no
+way connected with the promotion or forwarding of said
+unlawful business (See the opinion of the solicitor of
+the Department of Labor which is attached to the <del>next</del> <add>last</add> page
+and made a part of this brief). But suppose the attorney
+will say that the consturction of the statute is for <add>the Court</add>
+<del>Congress</del> and not for the Immigration officers. Under the
+rule stated above and the reasons given therefor we can not
+agree with counsel because language in the Lem Moon Sing
+case seems to seetle this question. There the court says
+(39 L. Ed. 1085) that <add>"</add> it is contended that if an alien
+is entitled by law or treaty to enter this country and is
+nevertheless excluded by immigration officers, the latter
+exceed their jurisdiction and their action should be
+reviewed by the courts<add>"</add>, but that such a contention cannot
+be sustained and that if it were, it would bring into the
+courts every case of an alien claiming the right to come
+into the United States under some law or treaty who was
+prevented from doing so by the executive branch of the
+government.</p>
+<p>It is clear that the construction of the law 
+given by the immigration authorities should control the
+court because if they have jurisdiction to enforce the
+law and to pass rules and regulations for the enforcement
+<fw>8</fw>
+<pb/>
+thereof, they certainly have jurisdiction to interpret
+the law and Congress certainly intended this to be the
+case because otherwise the immigration laws would not
+be uniform through the United States. The Secretary of
+Labor enforces these laws and the meaning that he places
+on them is to be followed by the immigration officers 
+all over the United States. If the courts could
+interpret the law, the District Courts and Circuit Courts
+of Appeal of the various districts would have different
+rules for admission and a man that would be excluded by 
+the law as interpreted in New York City would probably
+be admitted in Seattle, Washington, so there would be no
+uniformity of the law over the United States. Suppose
+a lower court says a statute means one thing and an upper 
+couert says it means another, would the lower court be
+without jurisdiction in interpreting the meaning of the
+statute? If it interpreted the statute wrong, would it
+be lacking in jurisdiction?</p>
+<p>Here the immigration authorities have a hearing
+and from the evidence introduced at this hearing the
+immigrants should be deported according to their construction
+of the law. Does any one maintain that in doing this they
+act outside of their jurisdiction? If so, there are
+many points in the immigration laws where the courts would
+doubtless differ form the immigration authorities as to the
+construction of the law.</p>
+<p>The only matter for this court to consider is
+whther these aliens who are being deported have been
+denied a hearing, and it seems to us that it is clear that
+<fw>9</fw>
+<pb/>
+they have not.</p>
+<ab>Respectfully submitted,
+Clay Allen
+United States Attorney.
+G.P. Fishburne
+Assistant United States Attorney.</ab>
+<p>See also Frick v. Seemis 195  Fed 693
+&amp; Williams v. U.S. 186 Fed 479
+cases cited at argument.</p>
+<pb/>
+<p>Department of Labor
+Office of the Solicitor</p>
+<p>Jule 9, 1913</p>
+<p>In RE the meaning and effect of the word "assist" as used in
+section 3 of the Immigration Act of 1907, as amended March 26, 1910.</p>
+<p>I am requested to express an opinion as to the meaning of that
+portion of section 3 of the Immigration Act of March 26, 1910,
+(36 Stat. 264) which reads as follows:</p>
+<p>"that any alien who in any way assists, protects, or promises to
+protect from arrest any prostitute, shall be deemed to be unlawfully
+within the United States ans shall be deported in the manner provided
+by sections twenty and twenty-one of this Act".</p>
+<p>The question is raised in connection with the case of Louis
+Gassounis, alias Leoieli Kassumis. It appears from the papers submitted
+that Gassounis, an alien and a Greek by birth, lived for over
+six years in Oakland, California, where he owned half interest in
+two barber shops, yielding him an icome of about $125 per month.
+He bore a good reputation for honesty, morality, and integrity until
+he met a young woman named Maida Johnson. He made a date with her,
+and the result was one or more acts of sexual intercourse between them.
+Thereafter he rented a room and lived with the woman as his wife. Then
+she insisted on becoming an inmate of a house of prostitution. He
+tried to persuade her not to take up such a life, but she insisted,
+and told him she would not speak to him unless he did what he could
+to secure her a place in a house of prostitution. Then, uoting
+form a statment signed by Judge Ellsworth and District Attorney
+Donahue, "He thereupon went to the house of a woman named Dupont and
+secured a place for the girl there. She was there for some days and
+then left and again asked the defendant to secure a place for her.
+He went out the second time and secured another place for her in the
+house of Julia Baker, where she stayed for some ten or twelve days,
+and where he came to visit her, remaining, according to his own admission,
+all night on five or six occasions."</p>
+<p>He was arrested charged with the violation of a state statute
+known as the "Pandering Law", convicted and sentenced to two years
+in the State Penitentiary.</p>
+<p>In November last, shortly after he had begun to serve his term
+in the State prison, the Acting Secretary of Commerce and Labor issued
+a warrant for his arrest on the ground that he was unlawfully in the
+United States, being an alien found receiving, sharing in or deriving
+benefit from the earnings of a prostitute. The record contained no
+evidence to support such a charge and the Acting Secretary of Labor,
+under date of June 12, 1913, cancelled the warrant.</p>
+<p>In reference to this action the Commissioner of Immigration at
+San Francisco wrote the Commissioner-General of Immigration under
+date of June 20, as follows:</p>
+<p>"When this case was presented to the Bureau in my letter of
+November 5th, 1912, the offense with which the man was charged was
+indicated, and was that he had been convicted for a violation of the
+State Law of Pandering. It was not contended that he received,
+shared in, or derived any benefit form this woman's earnings, but it
+would seem that he assisted and protected her, which is a part of the
+same section. In other words assisting and protecting a prositute
+is a violation of the Immigration Act, and there is evidence that this
+alien assisted a prostitute and protected her to the extent of placing
+her in an immoral house, and was convicted under the State Law of
+Pandering. Therefore it would seem that assisting and protecting a 
+prositute under the Immigration Law has as its equivalent the Pandering
+Act of the State of California."</p>
+<p>The law which is to be contrued in connection with this particular
+case is very awkwardly worded. It says "that any alien who
+in anuyway assists, protects, or promises to protect from arrest any
+prostitute, shall be deemed to be unlawfully within the United States."
+Was it the intention of Congress that the word "assists" should be
+given effect only in connection with the word "arrest"? If so, the
+statute would have to be construed as though it read "any alien who in
+any way assists from arrest any prostitute". Besided being poor 
+English, such a construction would practically eliminate the word
+"assists" from the statute for the expression "protects from arrest"
+is just as broad as the expression "assists from arrest".</p>
+<p>Such a construction would not, I am sure, give effect to the
+plain intention of Congress. It would permit prostitutes to receive
+and profit by the assistance of aliens and to carry on and extend the
+immoral practices against which the section in question is aimed.
+The immigration authorities could exercise no restraining or preventive
+power over aliens rendering such assistance. There is no
+other provision of law that would apply to all such cases. I cannot
+think that Congress used the word "assists" merely as a qualification
+of the words "from arrest".</p>
+<p>The only other view which occurs to me is that the word "assists"
+is to be given effect in connection with the words "any prostitute".
+According to this view, the statute would have to be <del><unclear/></del> constured
+as though it read "any alien who in any ways assists any prostitute".
+This view is open to the objection that, literally, it would subject
+to deportation any alien who might try to save a fallen woman by
+taking care of her and assisting her to obtain honorable employment,
+and would apply to aliens connected with Christian Missions, the
+Salvation Army, and other like organizations whose activities in
+assiting prostitutes are most praiseworthy.</p>
+<p>But I do not think it necessary to give the statute such a literal
+construction.</p>
+<p>It is fundamental law that the intent of the legislature must be
+gathered from the language used, but that, in case of ambiguity, particular
+words must be so construed as to give a reasonable and sensible
+effect to the statute as a whole.</p>
+<pb/>
+<p>Sutherland on Statutory Consturction (Vol.2, p. 913) quotes
+from the case of People vs. Chicago, 1`52 Ill. 546-552 as follows:</p>
+<p>"When the literal enforcement of a statute would
+result in great inconvenience and cause great injustice,
+and lead to consequences which are absurd and which the
+legislature could not have contemplated, the courts are
+bound to presume that such consequences were not intended,
+and adopt a construction which will promote the ends of
+justice and avoid the absurdity."</p>
+<p>X See also the case of Holy Trinity vs. U.S., 143 U.S. 457.</p>
+<p>In the chapter on statutory construction in volume 1 of the
+Federal Statutes Annotated at page LXXVLLL, it is stated, "It has
+been laid down again and again that "a thing which is within the
+intention of a statute is as much within the statute as if it were
+within the letter; and a thing whihc is within the letter of the
+statute is not within the statute unless it is within the intention
+of the makers!"</p>
+<p>A careful reading of the entire Immigration Law and a consideration
+of its general purpose and the mischief to be supressed,
+lead to the conclusion that Congress intended that the word "assists"
+should be given a broader application that a mere qualification of
+the words "from arrest"; that it should apply to cases where prostitutes
+are assisted in the promotion of the practice or business
+of prostitution, but not to cases where prostitutes may be given
+assistance which is in no way connected with the practice or
+business of prostitution or assistance which, on the other hand,
+may be calculated to suppress or discourage such practice or business.</p>
+<p>If the Secretary finds the record in the case of Mr.
+Gassounis that the alien assisted a prostitute in the sense indicated
+in this opinion, I have to advise that the law justified the
+deportation of such alien.</p>
+<ab>Respectfully,
+(signed) J.B. Denamore,
+Solicitor.</ab>
+<p>The Honorable,
+The Secretary of Labor.
+M-k
+No. 53,510/337</p>
+<p>July 19th, 1913.</p>
+<p>Respectfully furnished to all Commissioners of Immigration and
+Inspectors in Charge of Districrts, for their information and guidance
+in handling cases of this class.</p>
+<ab>(signed) F. H. Larned,
+Acting Commissioner-General.</ab>
+<p>Mc
+Copy
+D</p>
+<figure/>
 
 </div1>
     
