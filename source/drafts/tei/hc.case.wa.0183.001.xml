@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Gwoo Shee Ah Look v. United States. Final Judgement.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Gwoo Shee Ah Look vs. United States. Final Judgement.</title>
+<date when="1914-01-17">January 17, 1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2647GwooSheeAhLook</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,13 +78,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">May 1914</date></term>
+<term><date when="1914-01">January 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
-<term></term>
-<term></term>
+<term>Crosby, Frank L.</term>
+<term>Larken, Edward M.</term>
+<term>Clark, A. L.</term>
+<term>Barbour, J. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,16 +97,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gwoo Shoo Ah Look</persName>
+<persName>Look, Gwoo Shee Ah</persName>
 </person>
 <person role="defendant">
-<persName>United States</persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Frye, Jesse A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wilbur</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Spencer</persName>
 </person>
 <person role="attorney_defendant">
-<persName>George P. Fishburn</persName>
+<persName>Fishburne, George P.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -114,15 +121,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,8 +143,48 @@
 <div1 type="case">
 
 <pb/>
-
-
+<p>In the District COurt of the United States
+for the <add>Western</add> District of Washington
+Northern Division</p>
+<p>Final Record</p>
+<p>In re Gwoo Shoo Ah Look, Habeas Corpus.
+No. 2647</p>
+<p>Filed <gap reason="blank"/> 190<gap reason="blank"/></p>
+<p>Witness my habnd and official seal this 2d day of May, 1914.</p>
+<ab>Frnak L. Crosby,
+Clerk</ab>
+<ab>By Ed M Larken
+Deputy Clerk</ab>
+<pb/>
+<p>May 2 - 1914</p>
+<p>In re application of Gwoo
+Shoo Ah Look for a Writ of 
+Habeas Corpus.</p>
+<p>January 17, 1914.
+No. 2647</p>
+<p>Continued</p>
+<p>Now on this day this this cause comes on for hearing, the United States represented by George P. 
+Fishburn, <add>and</add> attorney for petitioner no appearing, the hearing is continued on motion of the Assistant United
+States Attorney and upon his statement that counsel for petitioner desires a continuance to Monday, Feburary 2, 
+1914 at 10.00 A.M.</p>
+<pb/>
+<p>In the matter of the application 
+for a Writ of Habeas
+Corpus for Gwoo Shoo Ah Look.</p>
+<p>January 27, 1914.
+No. 2647</p>
+<p>Now on this day this cause comes on for hearing, the Petitioner represented by Jesse A. Frye and the
+Government by G.P. Fishburn, whereupon the application of Petitioner to be admitted bail bond and amount thereof
+fixed is denied by the Court.</p>
+<pb/>
+<p>In re application of Gwoo Shoo
+Ah Look for Writ of Habeas Corpus.</p>
+<p>April 29, 1914.
+No. 2647.</p>
+<p>Now on this day this cause comes on for hearing, The Petitioner being in Court and represented by his counsel
+Messrs. Wilbur &amp; Spencer, and Jesse A. Frye, Esq., and the Respondent represented by Geo. F. Fishburne,
+whereupon Petitioner's witness A.L. Clark and Respondent's witness J.H. Barbour and duly examined, and the
+Court is argued by respective counsel and taked under advisement by the Court.</p>
 
 </div1>
     
