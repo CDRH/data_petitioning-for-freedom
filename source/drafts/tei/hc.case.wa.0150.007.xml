@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0000.000</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+IN THE UNITED STATES CIRCUIT COURT, IN AND FOR THE DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.
+
+In the Matter of the Application of
+George Hawkins, for a Writ of Habeas Corpus.
+
+UNITED STATES OF AMERICA,
+STATE OF WASHINGTON, COUNTY OF KING.
+
+SS:
+
+I, James E. Fenton, being duly sworn say; - That I am the
+Attorney of record for the above named George Hawkins, and make this
+affidavit for and in behalf of the said George Hawkins; that the said
+George Hawkins is a citizen of the United States and is now confined and 
+imprisoned in the United States Penitentiary at McNeil's Island, in the
+District of Washington; that the said George Hawkins is the petitioner
+named in the petition for a writ of habeas corpus in the above entitled
+proceeding, filed with the Clerk of the above entitled court this 5th
+day of November, A.D., 1902; that the said George Hawkins seeks and 
+prays for an order of this court that a writ of habeas corpus may be
+granted, directed to the Warden of the United States Penitentiary at
+McNeil's Island, in the State of Washington, commanding him to have the 
+body of the said George Hawkins before this Honorable Court at the time
+and place therein to be specified, to do and receive what shall then
+and there be considered by this Honorable Court concerning him, together
+with the time and cause of his detention and the said writ, and that the
+said George Hawkins may be restored to his liberty and discharged from 
+custody; that affiant is the attorney of record for the said George
+Hawkins, and the said petitioner prepared the said petition for a writ
+of habeas corpus and has full knowledge of all the matter therein
+stated, and believes that the said George Hawkins is entitled to the
+redress sought to be obtained by the said petition, and has good cause
+of action thereunder; that by reason of the poverty of the said George
+Hawkins, he the said George Hawkins is unalbe to pay the costs of prosecuting
+said proceedings for a writ of habeas corpus which he is about to
+commence, or to give security for the same, and there is no person
+interested in the said proceeding who is able to pay the security and
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
