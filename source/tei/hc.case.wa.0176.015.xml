@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.013">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.015">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mari Miler v. United States of America. Order for Writ</title>
+<title>Mari Miller v. United States of America. Service of Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0176.013</idno>
+<idno type="project">hc.case.wa.0176.015</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Mari Miler v. United States of America. Order for Writ</title>
+<title level="m" type="main">Mari Miller v. United States of America. Service of Writ</title>
 <date when="1913-04-15">April 15, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -82,9 +82,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>DeBruller, Ellis</term>
 <term>Crosby, Frank L.</term>
-<term>Larken, Edward M.</term>
+<term>Lakin, Edward M.</term>
+<term>DeBruler, Ellis</term>
+<term>Jacoby, Joseph R. H.</term>
+<term>Derenpeck, George B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,7 +98,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Miler, Mari</persName>
+<persName>Miller, Mari</persName>
 </person>
 <person role="defendant">
 <persName>United States of America</persName>
@@ -140,70 +142,48 @@
 <div1 type="case">
 
 <pb/>
-<p>In the District Court of the United States, in and for the
-Western District of Washington, Northern Division.</p>
-<p>In the Matter of the Application of
-Marie Miler for Writ of Habeas Corpus.} No. <del>5</del>2457</p>
-<p>Order Granting Writ of Habeas Corpus</p>
-<p>Upon reading the petition of Marie Miler, duly signed
-and verified by her and filed in this Court, whereby it appears
-that she is ellegally imprisioned and restrained of her liberty
-by the Hon. Ellis DeBruller, United States Commissioner of Immigration,
-at the Detention Station at Seattle, Washington, and
-stating wherein the alleged illegality consists and wherein she
-has not had an opportunity to be heard, and wherein the same is
-in disregard of her rights as a citizen of the Empire of Austria,
-and in furtherance of a conspiracy to deport her, brought about
-by her enemies in an effort to deprive her of her financial
-rights and property, from which it appears to me that a writ of
-Habeas Corpus ought to issue, now therefore, it is</p>
-<p>Ordered that a writ of habeas corpus issue out of and
-under the seal of the District Court of the United States for
-the Western District of Washington, Northern Division, directed
-to Ellis DeBruller, Commissioner as aforesaid, commanding him
-to have the body of the said Marie Miler before me in the Court
-room of the above entitled Court at Seattle, Washington, at the
-Federal Court room in the Postoffice Building in the City of
-Seattle, County of King, State of Washington, on the 21st day
-of April 1913, at 1 o'clock, PM of that day,
-to do and recieve what shall then and there be considered concerning
-the said petitioner, Marie Miler, together with the
-time and cause of her detention, and that you have then and
-there the said writ.</p>
-<p>Done in open Court this 15th day of April, A.D. 1913.</p>
-<ab>Edward E. Cushman<lb/>
-District Judge.</ab>
+<p>Form No. 282.</p>
+<p>Return on Service of Writ.</p>
+<p>United States of America,
+Western District of Washington } ss:</p>
+<p>I hereby certify that I served the annexed Writ of Habeas Corpus
+on the therein-named Ellis DeBruler
+by handing to and leaving a true and correct copy thereof with Ellis DeBruler
+personally
+at Seattle in said District on the 16th day of
+April, A.D. 1913</p>
+<ab>Joseph R. H. Jacoby,<lb/>
+U.S. Marshal</ab>
+<p>Marshal's fees $2.30
+W-12
+7-279</p>
+<ab>By Geo B. Derenpeck<lb/>
+Deputy.</ab>
 
 <pb/>
 
 <p>2x</p>
-<p>No. <del>5</del> 2457</p>
-<p>In the 
+<p>No. 2457</p>
+<p>In the
 District Court
-of the United States
+of the United States 
 for the Western District
 of Washington
-Northern Division.
-E8-GOB-1-12</p>
+Northern Divsion</p>
 <p>In the Matter of the
-Application of Marie
-Miler for Writ of
-Habeas Corpus</p>
-<p>Order for
-Writ</p>
-<p>Filed in the District Court,
-Western Dist of Washington
-Apr 15 1913<lb/>
-Frank L. Crosby, clerk.<lb/>
-By EML Deputy.</p>
+Application for
+Marie Miler for
+Writ of Habeas
+Corpus</p>
+<p>Writ of Habeas Corpus.</p>
+<p>Filed in the U.S. District Court,
+Western Dist. of Washington<lb/>
+Apr 17 1913<lb/>
+Frank L. Crosby, Clerk.</p>
 <p>Elias A. Wright<lb/>
 Attorney for Petitioner<lb/>
 629 Burke Building<lb/>
-Seattle Wash</p>
-<fw>J.L. Macdonald Co. Seattle
-Form No.183</fw>
-
-
+Seattle Branch</p>
 </div1>
     
 </body>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0183.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0176.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gwoo Shee Ah Look v. United States. Stipulation.</title>
+<title>Mari Miller v. United States of America. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0183.004</idno>
+<idno type="project">hc.case.wa.0176.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,20 +45,20 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gwoo Shee Ah Look v. United States. Stipulation.</title>
-<date when="1914-04-29">April 29, 1914</date>
+<title level="m" type="main">Mari Miller v. United States of America. Order</title>
+<date when="1913-03-07">March 7, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
-<idno>2647GwooSheeAhLook</idno>
+<collection>RG 21: US District Court,
+Western Division of Washington, Seattle</collection>
+<idno>2457MarieMiler</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
 </fileDesc>
-        
         
 <profileDesc>
 <textClass>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,12 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1914-04">April 1914</date></term>
+<term><date when="1913-03">March 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward M.</term>
+<term>DeBruler, Ellis</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,39 +95,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Look, Gwoo Shee Ah</persName>
+<persName>Miller, Mari</persName>
 </person>
 <person role="defendant">
 <persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Frye, Jesse A.</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Wilbur</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Spencer</persName>
+<persName>Wright, Elias A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Fishburne, George P.</persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Brockway, Earle B.</persName>
 </person>
 <person role="judge">
-<persName>Neterer, Jeremiah</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
 <orgName>Western Washington District Court</orgName>
-<placeName>Washington State</placeName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#GET">transcribed and encoded</change>
+<change when="2021-11" who="#lkw">review</change>    
+<change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,43 +142,31 @@
 <p>United States District Court
 Western District of Washington
 Northern Division.</p>
-<p>In the Matter of the
-Application of Gwoo
-Shee Ah Look for a
-Writ of Habeas Corpus. | NO. 2647
-Stipulation.</p>
-<p>It is hereby stipulated by and between the attorneys
-for the Petitioner and Respondent in the above entitled
-cause, that the respondent may serve and file a return to
-the amended petition, at any time before the Court has 
-finally decided the case, and that the respondent may put
-in counter affidavits as soon as he is able to secure the
-same, and that the return shall be considered as having
-been served and filed on time.</p>
-<p>Dated this 28th day of April, 1914.</p>
-<ab>Jesse Frye &amp; Wilbur &amp; Spencer
-Attorney for Petitioner</ab>
-<ab>Clay Allen G.P. Fishburne
-Attorney for Respondent.</ab>
+<p>In the Matter of the Application
+of Marie Miler for a Writ of
+Habeas Corpus } No. 245<del>9</del><add>7</add>
+Order.</p>
+<p>On the application of Ellis De Buler, respondent in
+the above entitled cause;</p>
+<p>It Is Hereby Ordered, That the original warrant of
+deportation of the alien Marie Miler, being sheet No. 1 of
+the documents attached to Return of said Ellis DeBruler,
+may be withdrawn from the files of this case, and a copy
+thereof substituted in place of said sheet No. 1.</p>
+<p>Dated this 27th day of May, 1913.</p>
+<ab>Edward E. Cushman<lb/>
+Judge.</ab>
+
 <pb/>
-<p>No. 2627</p>
-<p>In the District Court
-of the United States
-for the
-Western District of Washington</p>
-<p>In the Matter of the
-Application of Gwoo Shee
-Ah Look for a Writ of 
-Habeas Corpus.</p>
-<p>Stipulation</p>
-<p>United States Attorney</p>
+
 <p>2x
-Filed in the
-U.S. District Court
-Western Dist. of Washington
-APR 29 1914
+GOB-4-165</p>
+<p>Filed in the
+U.S. District Court,
+Western Dist. of Washington.
+May 27 1913
 Frank L. Crosby, Clerk,
-By EML Deputy</p>
+by EML Deputy</p>
 
 </div1>
     
