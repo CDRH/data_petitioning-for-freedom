@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0184.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0184.004">
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0184.001</idno>
+<idno type="project">hc.case.wa.0184.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -78,17 +78,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">February 1914</date></term>
+<term><date when="1000-01">January 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward M.</term>
+<term>Bean, R. S.</term>
+<term>Bonham, R. P.</term>
+<term>Neterer, Jeremiah</term>
+<term>Sargeant, John H.</term>
 <term>Yow, Yut</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>Portland, Oregon</term>
+<term>Seattle, Washington</term>    
 </keywords>
 
 </textClass>
@@ -108,13 +111,13 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+    <orgName>United States District Court, Western District of Washington, Northern Division</orgName>
 <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
@@ -136,26 +139,46 @@
 <div1 type="case">
 
 <pb/>
-<p>In the District Court of the United States
-for the Western District of Washington
-Northern Division.</p>
+<p>(Copy)</p>
 
-<p>FINAL RECORD</p>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR 
+THE DISTRICT OF <del>OREGON</del> <add>Washington
+Northern Division</add></p>
 
-<p>In re Yut Yow, Habeas Corpus</p>
+<p>In the Matter of the Application of
+<del>YUT YOW</del> <add>Harry Gong</add>
+for a Writ of Habeas Corpus <add>for Yut Yow</add></p>
 
-<p>No. 2648</p>
+<p>ORDER
+2648</p>
 
-<p>Filed 190 </p>
 
-
-<p>Witness my hand and official seal this 4th day of Feb., 1914.</p>
-<ab>Frank L. Crosby.
-Clerk</ab>
-<ab>By Ed. M Lakin
-Deputy Clerk</ab>
-
-<figure></figure>
+<p>Upon reading and filing the petition of Yut Yow, duly signed
+and verified by the said Yut Yow, whereby it appears that the said
+Yut Yow is illegally imprisoned and restrained by R. P. Bonham,
+Acting United States Chinese Inspector in Charge, at the City of
+Portland, County of Multnomah, State and District of Oregon, which 
+petition sets forth wherein the alleged illegality consists, from 
+which it appears to me that a Writ of Habeas Corpus should issue
+therein.</p>
+<p>It is ORDERED that <add><del>def R P Bonham</del></add> Writ of Habeas Corpus <add><del>show cause why &amp; should not</del></add> issue out of and
+under the seal of the District Court of the United States of the 
+District of <del>Oregon</del> <add>Washington, Northern Division</add>, directed to the said <del>R. P. Bonham, Acting United 
+States Chinese Inspector</del> <add>John H. Sargeant, Asst Commissioner</add> in Charge at <del>Portland, Oregon</del> <add>Seattle, Wash</add>, commanding
+him, the said <del>R. P. Bonham</del> <add>John H. Sargeant</add>, to produce the body of the said Yut Yow
+before me in the court room of the above entitled court on the 17th
+day of January, 1914, at 10 o'clock A. M. of said date, to do and
+receive what shall then and there be considered concerning the said
+Yut Yow, and to certify and return therewith the time and cause of 
+said imprisonment or restraint, and that he have then and there the
+said Writ, and <add>by motion of District Attorney</add></p>
+<p><del>It is further ordered that said Yut Yow be and she is hereby 
+admitted to bail in the sum of $5000.00 until further order of 
+this court.</del></p>
+<ab>J. N.</ab>    
+<p>Dated at <del>Portland, Oregon</del> <add>Seattle, Wash</add>, this 13th day of January, 1914.</p>
+<ab><del>(SS) R S Bean</del> <add>Jeremiah Neterer</add>
+Judge.</ab>
 
 </div1>
     
