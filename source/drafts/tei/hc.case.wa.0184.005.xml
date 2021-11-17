@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0184.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0184.005">
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0184.001</idno>
+<idno type="project">hc.case.wa.0184.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Harry Gong vs. United States. Criminal.</title>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
 <date when="1000">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -78,17 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">February 1914</date></term>
+<term><date when="1000-01">January 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward M.</term>
-<term>Yow, Yut</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>San Francisco, California</term>
+<term></term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -114,7 +114,7 @@
             
 <listOrg>
 <org>
-<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+    <orgName>United States District Court, Western District of Washington, Northern Division</orgName>
 <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
@@ -136,26 +136,64 @@
 <div1 type="case">
 
 <pb/>
-<p>In the District Court of the United States
-for the Western District of Washington
-Northern Division.</p>
+<p>(Copy)</p>
 
-<p>FINAL RECORD</p>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR 
+THE DISTRICT OF <del>OREGON</del> <add>Washington
+Northern Division</add></p>
+<p>2648</p>
 
-<p>In re Yut Yow, Habeas Corpus</p>
+<p>In the Matter of the Application of 
+<del>YUT YOW</del> <add>Harry Gong</add>
+for a Writ of Habeas Corpus <add>for Yut Yow</add> )
+Petition for a Writ of 
+Habeas Corpus.</p>
 
-<p>No. 2648</p>
+<p>To the Hon. R. S. Bean, Judge of the Above entitled court.</p>
+<p>The petition of <del>Yut Yow</del> <add>Harry Gong</add> respectfully represents and shows
+unto your Honor as follows:</p>
+    <p>I.</p>
+<p>That the petitioner is <add>next friend of Yut Yow</add> a native born citizen of the United 
+States of Chinese parentage and was born in the city and County of 
+San Francisco, in the State of California in the year 1869, and is 
+now of the age of 45 years and ever since said time has been and is 
+now a citizen, resident and inhabitant of the United States and that 
+the parents of  petitioner were at the time petitioner was born as 
+aforesaid domociled residents of said City of San Francisco, State
+of California.</p>
+<p>II.</p>
+<p>That <del>petitioner</del> <add>said</add> Yut Yow is imprisoned, detained, confined 
+and restrained of her liberty by <del>R. P. Bonham, Acting Chinese Inspector </del> <add>John H. Sargeant, Assistant Commissioner</add>
+in Charge of the Department of Commerce and Labor of the United States
+at the city of <del>Portland, in the county of Multnomah, State of Oregon</del> <add>Seattle, Washington</add>
+and within the jurisdiction of the above entitled court. That said
+imprisonment and restraint is not by virtue of any process issued by 
+a court of the United States or by a judge or commissioner thereof, in
+a case where such court, judge, or commissioner have acquired exclusive 
+jurisdiction under the laws of the United States, and that such imprisonment
+and restraint is not by virtue of any judgement or decree of conpetent
+tribunal of civil or criminal jurisdiction, nor by virtue of any 
+execution issued under such judgement or decree. That the cause or
+<fw>1.</fw>    
+<pb/>
+or pretense of such imprisonment and restraint according to the best 
+knowledge and belief of your petitioner is as follows:</p>
+<p>III.
+</p>
 
-<p>Filed 190 </p>
 
 
-<p>Witness my hand and official seal this 4th day of Feb., 1914.</p>
-<ab>Frank L. Crosby.
-Clerk</ab>
-<ab>By Ed. M Lakin
-Deputy Clerk</ab>
 
-<figure></figure>
+
+
+
+
+
+
+
+
+
+
 
 </div1>
     
