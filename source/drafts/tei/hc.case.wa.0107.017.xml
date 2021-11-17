@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of Document</title> 
+<title>Gus Bendjus et al. v. Territory of Washington. Bail Reduction</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -50,15 +50,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1887-10-20">October 20, 1887</date>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Bail Reduction</title>
+<date when="1887-10-01">October 1, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archive</repository>
+<collection>Grays Harbor Frontier Justice</collection>
+<idno>GRH137</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,7 +83,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1887-10">October 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -99,21 +99,48 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Last, First</persName>
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Stranglaud, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederickson, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>       
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Green, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
 </person>
 <person role="defendant">
-<persName>Last, First</persName>
+<persName>Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Last, First</persName>
+<persName>Bignold</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Last, First</persName>
+<persName>Moody, George L.</persName>
 </person>
 <person role="judge">
-<persName>Last, First</persName>
+<persName>Allyn, Frank</persName>
 </person>
 </listPerson>
             
@@ -140,36 +167,34 @@
 <div1 type="case">
 
 <pb facs="hc.case.wa.0107.017"/> 
-<p>Filed on the 21st day of Oct 1887</p>
-
-<p>H M Sutton Clerk</p>
-
-<p>Entered on page 414</p>
-
-<p>Territory of Washington}</p>
-<p>County of Chehalis} ss</p>
-
-<p>I hereby certify that the within recognizance was 
-entered into and acknowledged before me, and the 
-same is herto certified to the Clerk of the District
-Court for record in accordance with the provisions 
-of Section 1035 of the Code of Washington Territry</p>
-
-<p>Witness my hand this 20th day of october A.D. 1887</p>
-
-<p>W H Bush Sheriff of Chehalis county Wash Tery</p>
-
-<p>Fees</p>
-
-<p>Taking Bond 1.00</p>
-
-<p>Making " .60</p>
-
-<p>Approving " .50</p>
-
-<p>Certifying " to Clerk .50</p>
-
-<p>$2.60</p>
+<p>No 135</p>
+    
+<p>Territory of Washington Plaintiff
+        Vs
+        Gus Bendjus Etal Defendants }</p>
+    
+<p>It is ordered that bail be fixed at $300.00, for each of said Defendants in above cause</p>
+    
+<p>Frank Allyn
+        Judge.</p>
+    
+<pb></pb>
+    
+<p>No 135</p>
+    
+<p>In the District Court at Montesano</p>
+    
+<p>Territory of Washington}
+        vs.}
+        Gus Bendjus Et. al.}</p>
+    
+<p>This application coming on for a reduction of Bail and it being apparant that Defts. can not give the argument heretofore required and considering the great expense thereby about to be inposed in the County. The Court having become satisfied a lesser amount of bail will be as effectual &amp; be to better effect as above.</p>
+    
+<p>Therefore it is ordered that the bail heretofore fixed be reduced to $400 for each of the accused now under arrest this to cover the three charges in each ones case. and upon good security being given by each of said parties in the sum of $400 said parties to be released till next term of Court.</p>
+    
+<p>At Chambers Oct. 1st 1887</p>
+    
+<p>Frank Allyn Judge</p>
 
 </div1>
     
