@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>George Hawkins v. The United States of America. Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Silva, Salma J" xml:id="sjs">Salma Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">George Hawkins v. The United States of America. Commitment</title>
+<date when="1901-03-22">March 22, 1901</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,28 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1901-03">March 1901</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Allen, George</term>
+<term>Dolan, Thomas</term>
+<term>Embleton, R. J.</term>
+<term>Cherry, L. C.</term>
+<term>Cody, A. J.</term>
+<term>Hobbs, W. F.</term>
+<term>Farnsworth, J.</term>
+<term>Dittmer, B. H.</term>
+<term>Lieve, Fred</term>
+<term>Harrison, E. S.</term>
+<term>Borchsenius, George V.</term>
+<term>Gordon, H. C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Dominion of Canada</term>
+<term>District of Alaska</term>
+<term>McNeil's Island, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,34 +108,41 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Hawkins, George</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>The United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Fenton, James E.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Wood, Joseph K.</persName>
+<persName>Grigsby, Melvin</persName>
+<persName>McGinn, John L.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
+<persName>Moyes, Arthur H.</persName>
+<persName>Morro, William W.</persName>
+<persName>Fuller, Melville W.</persName>
+<persName>Moore, Alfred S.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court for the Districk of Alaska, Division 2</orgName>
+<placeName>District of Alaska</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
+
 
 </teiHeader>
     

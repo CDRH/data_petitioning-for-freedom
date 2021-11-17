@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>George Hawkins v. The United States of America. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Silva, Salma J" xml:id="sjs">Salma Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<title level="m" type="main">George Hawkins v. The United States of America. Petition</title>
 <date when="1902-11-05">November 5, 1902</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -99,32 +100,36 @@
 <persName>Hawkins, George</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>The United States of America</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Fenton, James E.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Wood, Joseph K.</persName>
+<persName>Grigsby, Melvin</persName>
+<persName>McGinn, John L.</persName>
 </person>
 <person role="judge">
 <persName>Hanford, C. H.</persName>
 <persName>Moyes, Arthur H.</persName>
 <persName>Morro, William W.</persName>
+<persName>Fuller, Melville W.</persName>
+<persName>Moore, Alfred S.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
