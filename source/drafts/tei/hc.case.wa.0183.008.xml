@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0183.008.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Gwoo Shee Ah Look v. United States. Amended Petition.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0180.008</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Gwoo Shee Ah Look v. United States. Amended Petition.</title>
+<date when="1914-01-14">January 14, 1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2647GwooSheeAhLook</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,36 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-01">January 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bonham, R. P.</term>
+<term>Lung, Wong Sing</term>
+<term>Barbour, J. H.</term>
+<term>Harms, L. A.</term>
+<term>Wise, J. M.</term>
+<term>Clark, A. L.</term>
+<term>Chew, Lau Wing</term>
+<term>Line, Sue Key</term>
+<term>Shee, Wong</term>
+<term>Ark, Wong</term>
+<term>Huston, D. L.</term>
+<term>Sargent, John H.</term>
+<term>Bartholemew, Walter</term>
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
+<term>White, H.M.</term>
+<term>Boyle, J.M.</term>
+<term>Van Name, Ruth</term>
+<term>Downey, John D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Portland, Oregon</term>
+<term>Seattle, Washington</term>
+<term>Multnomah County, Oregon</term>
+<term>San Francisco, California</term>
 </keywords>
 
 </textClass>
@@ -94,36 +115,46 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Look, Gwoo Shee Ah</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Frye, Jesse A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wilbur</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Spencer</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Clark, A. L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Fishburne, George P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay K.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#GET">transcribed and encoded</change>
 </revisionDesc>
-
-</teiHeader>
     
 <text>
 
@@ -431,6 +462,123 @@ Portland Oregon</ab></figure>
 <fw>-8-</fw>
 <pb/>
 identity.</p>
+<p>Wherefore, your petitioner prays that a writ of habeas corpus
+may be granted, directed to the person who unlawfully restrains
+the liberty of the said Gwoo Shee Ah Look, the name of whom is 
+unknown to your petitioner, commanding him to have the body of said
+Gwoo Shee Ah Look before your Honor at the time and place hereafter
+to be specified, to do and recieve what shall then and there be 
+considered by your Honor concerning her, together with the time
+and cause of her detention and said writ and that she may be restored
+to her liberty.</p>
+<ab>Wilbur &amp; Spencer &amp;
+AL Clark &amp; Jesse A Frye
+Attorneys for Petitioner.</ab>
+<p>Dated: April <gap reason="blank"/>, 1914.</p>
+<figure><ab>Wilbur &amp; Spencer
+Attotneys-At-Law
+Portland Oregon</ab></figure>
+<fw>-9-</fw>
+<pb/>
+<p>United States of America,
+State of Oregon,
+County of Multnomah. } ss.</p>
+<p>I, Wong Sing Lung, being first duly sworn according to law,
+depose and say that I am the husband of Gwoo Shee Ah Look, the
+person who is unlawfully restrained of her liberty; that the said
+Gwoo Shee Ah Look is detained and restrained by the Immigration
+authorities at the Dentention House of the Immigration authorities
+at Seattle, Washington, and that the said Gwoo Shee Ah Look is
+being there detained upon said warrant for her deportation to China
+together with the order of this Court directed to said Immigration
+authorities to show cause why she should not be released on writ
+of habeas corpus, and that because of her detention at said place
+it is impossible for the said Gwoo Shee Ah Look to verify this
+petition and for this reason I am verifying the same. I have had
+the same read to me and know the contents thereof and that they 
+are true.</p>
+<ab>Wong Sing Lung</ab>
+<p>Subscribed and sworn to before me this 24th day of April, 1914.</p>
+<ab>Ruth Van Name
+Nortary Public State of Oregon.</ab>
+<figure><ab>Ruth Va Name
+Nortary Public
+State of Oregon</ab></figure>
+<figure><ab>Wilbur &amp; Spencer
+Attorneys-At-Law
+Portland Oregon</ab></figure>
+<pb/>
+<p>United States of America,
+State of Washington,
+County of King. } ss.</p>
+<p>I, Gwoo Shee Ah Look, being first duly sworn according to
+law, say that I am the identical person named in the warrant of the
+Secretary of Commerce and Labor for deportation from the United
+States to China; that I am unlawfully restrained of my liberty
+by <gap reason="blank"/>, Immigration authortities at
+Seattle, Washington in the Immigration House of Detention; that I 
+have had the foregoing petition read and interpreted to me and
+know the contents of the same to be true.</p>
+<ab><gap reason="blank"/>.</ab>
+<p>Subscribed and sworn to before me this <gap reason="blank"/> day of April, 1914.</p>
+<ab><gap reason="blank"/> 
+Notary Public, State of Washington.</ab>
+<figure><ab>Wilbur &amp; Spencer
+Attorneys-At-Law
+Portland Oregon</ab></figure>
+<pb/>
+<p>United States of America,
+District of Oregon } ss.</p>
+<p>Due and timely service of the within Amended Petition and the
+receipt of a duly certified copy thereof, all at the City of Seattle in the Northern District
+of Washington is hereby admitted.</p>
+<ab>G.P. Fishburne
+Attorney for Respondent</ab>
+<pb/>
+<p>No. 2647</p>
+<p>In the District Court of the
+United States for the
+District of <del>Oregon</del> <add>Wash.</add></p>
+<p>In the matter
+of the Amended
+Application for
+a Writ of Habeas
+Corpus for Gwoo
+Shee Ah Look</p>
+<p>2x
+Filed in the 
+U.S. District Court
+Western Dist. of Washington,
+APR 27 1914
+Frank L. Crosby, Clerk
+by EML Deputy.</p>
+<p>Wilbur &amp; Spencer
+A.L. Clark
+Attorneys for Petitioner</p>
+<pb/>
+<p>✓ 2x Filed in the
+U.S. District Court
+Western Dist. of Washington,
+Northern Division
+JAN 13 1914
+Frank L. Crosby, Clerk.
+By EML Deputy.</p>
+<p>Return on Service of Writ.</p>
+<p>Form No. 282</p>
+<p>United States of America,
+Western District of Washington } ss:</p>
+<p>I hereby certify and return that I served the annexed Order to Show Cause, together with
+Copy of Petition on the therein-named H.M. White
+by handing to and leaving a true and correct copy thereof with John H. Sargent, Acting Assistant
+Commissioner of Immigration personally
+at Seattle in said District on the 13th day of 
+January, A.D. 19<del>0</del>14</p>
+<p>John M. Boyle
+U.S. Marshal.</p>
+<p>Marshal's fees $2.18
+T-279</p>
+<ab>By John D Downey
+Deputy.</ab>
 
 </div1>
     
