@@ -10,7 +10,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -122,7 +122,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#lkw">review</change>       
+<change when="2021-10" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>

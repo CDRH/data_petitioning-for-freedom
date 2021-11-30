@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tonka Bajlo vs. United States. Criminal</title>
+<title>Tonka Bajlo vs. United States. Order for Withdrawal of Transcript</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-    <idno type="project">hc.case.wa.0177.001</idno>
+<idno type="project">hc.case.wa.0177.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Tonka Bajlo vs. United States. Criminal</title>
-<date when="1000">1914</date>
+<title level="m" type="main">Tonka Bajlo vs. United States. Order for Withdrawal of Transcript</title>
+<date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,14 +78,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">February 1914</date></term>
+<term><date when="1914-02">February 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bajlo, Tonka</term>
 <term>Crossy, Frank L.</term>
-<term>L., E. M.</term>
-<term>Neterer, Jeremiah</term>
+<term>Larkin, Ed M.</term>
 <term>Thiel, C. M.</term>
 </keywords>
 
@@ -98,21 +96,25 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Tonka Baljo</persName>
+<persName>Bajlo, Tonka</persName>
 </person>
 <person role="defendant">
 <persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Chas. H. Ennis</persName>
-<persName>Fenley Bryan</persName>
+<persName>Ennis, Charles H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bryan, Fenley</persName>
 </person>
 <person role="attorney_defendant">
-<persName>C. F. Riddell</persName>
-<persName>E. B. Brockway</persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Brockway, E. B.</persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
@@ -125,8 +127,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2021-10" who="#xxx">transcribed and encoded</change>
+<revisionDesc>  
+<change when="2021-11" who="#lkw">review</change>       
+<change when="2021-10" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -157,12 +160,14 @@ withdraw the Bureau of Immigration Transcript, filed
 by the government as a part of the government's return to
 the Order to Show Cause in the above entitled matter.</p>
 <p>Dated this 4 day of February, 1914.</p>
-<ab>Jeremiah Neterer
+<ab>Jeremiah Neterer<lb/>
 Judge.</ab>
 <p>Received the above named Bureau of Immigration Transript
 this 4th day of February, 1914.</p>
 <ab>C. M. Thiel</ab>
+
 <pb/>
+
 <p>No. 2459</p>
 
 <p>IN THE DISTRICT COURT
@@ -181,10 +186,10 @@ IMMIGRATION.</p>
 <p>FILED IN THE 
 U. S. District Court,
 Western Dist. of Washington,
-NORTHERN DIVISION
-FEB 4 - 1914
-FRANK L CROSBY, Clerk,</p>
-<ab>By E M L Deputy</ab>
+NORTHERN DIVISION<lb/>
+FEB 4 - 1914<lb/>
+FRANK L CROSBY, Clerk,<lb/>
+By E M L Deputy</p>
 </div1>
     
 </body>
