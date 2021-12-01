@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.005"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0472.005</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>13 May 1897</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Pierce, John A.
+Speck, Robert D.
+Baldwin, Harris 
+Hanford, C. H. 
+Aspland, Lise C.
+White, E. T.
+Pomeroy, Frances A. 
+Aspland, Andrew 
+Aspland, Ella May 
+Brown, Abel 
+Wilkinson, M. A.  
+Aspland, John H. 
+White, E. T. 
+Aspland, Jennie 
+Switzer, W. D. 
+Magnus, Franz
+Sempee,John M. 
+Sawyer, Mary
+Spence, William C. 
+Corbett, J. E. 
+Eldridge, John 
+Hair, N. C. 
+Valentine, John E. 
+Backus, C. F. 
+Donovan, G. J.
+Low, J. R. 
+Thomas, C.
+Monroe, W. A. 
+Fenton, James E. 
+Prather, Leander H.
+Cisna, M. A. 
+Dempsey, C. C.
+Willia, C. Thomas 
+Gould, P.
+James, Thomas
+Doane, H. W.
+Roadnight, J. F.
+Lipschuetz, I.
+Valentine, J. E. 
+Morgan, U. H.  
+Hair, N. C.
+Van Ness, John Q. 
+Gill, William 
+Frazier, R. J. 
+O'Brien, 
+Lipschuetz, Isador
+Boyd, L. F.
+Hillard, Barry N.
+McNulty, Philip
+Byers, William
+Traut, A.
+Bishop, B. H.
+Cannon, H. L.
+Crowley, J. A.
+Frazier, R. J. 
+Fenton, James, E. 
+Pierce, John A. 
+La Valley, William J.
+Semper, William
+Flynn, James
+Swift, Harry
+Drain, James A.
+Rogers, John R.
+Lewis, James Hamilton
+Hapkins, R. M.
+Moore, James Z.
+Winston, P. H. 
+Ide, Clarence W.
+Pugh, Felix M.
+Moore, A. N.
+Dore, John F.
+Walthew, H. M.
+Kimball, Horace
+Poindexter, Miles
+McKenney, James H.
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington
+Wallace, Idaho
+Cannon Precinct, IWashington
+Precinct No. 2, Washington
+Shoshone County, Idaho
+Olympia, Washington
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Webster, George</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Spokane County, Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName> Del Cary Smith
+Fenton, James E. 
+O'Brien
+James Hamilton Lewis
+John F. Dore</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Pierce, John A.
+Baldwin, Harris
+James Z. Moore</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H. </persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, Ninth Judicial Circuit, District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0472.001"/> <!-- insert number from spreadhseet -->
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+
+<p>In the Matter of the application of
+George Webster, NOTICE OF APPEAL
+for
+A writ of Habeas Corpus.</p>
+
+<p>To the State of Washington and to R. D. Speck, Esq., Sheriff of
+Spokane County, State of Washington and to Honorable James Z. Moore
+Prosecuting attorney for Spokane County, Washington, and to P. H.
+Winston, attorney general for the State of Washington.</p>
+
+<p>Now comes the petitioner, George Webster, and appeals
+the above entitled cause and the whole thereof to the Supreme
+Court of the United States, holding terms at the city of Washington
+District of Columbia, and to the next regular term thereof, and
+more especially appeals from that certain order made and entered in
+the above enttitled cause on the 25 day of July, 1899, by Hon-
+erable C. H. Hanford, sitting as Circuit Judge denying the petition
+of petitioner for a writ of Habeas Corpus and refusing to grant the
+said writ of Ha beas corpus, as in his said petition prayed.</p>
+
+<p>And you will please take notice that the record and pro-
+ceedings upon the said petition will be duly served through the
+said above en titled court to the said Supreme Court of the United
+States at the next regular term thereof upi said named appeal.</p>
+
+<p>Jas Hamilton Lewis
+James E. Fenton
+Del Cary Smith
+Attorneys for petitioner.</p>
+
+<p>Tx
+No. 781</p>
+
+<p>IN THE Circuit COURT 
+OF THE UNITED STATES
+FOR THE
+DISTRICT OF WASHINGTON</p>
+
+<p>In re application 
+of Geo Webster for
+vs.
+Writ of Habeas Corpus-
+Nature of Appeal</p>
+
+<p>Filed July 25 1899
+A. Reeves Ayres Clerk
+By RM Hapkins Deputy</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+
+<p>In the Matter of the Application of :
+George Webster for a Writ of Habeas :
+Corpus. :
+O R D E R.</p>
+
+<p>This cause coming on for the hearing upon petition of Petitioner
+for writ of Habeas Corpus; the Court being advised upon the peti-
+tion and upon hearing counsel for Petitioner, denies and refuses
+to grant said Writ. To which ruling of the court Petitoner excepts
+exceptions allowed.</p>
+
+<p>Petitioner thereupon, gives notice that he appeals from the
+said ruling of the court and from the whole and every part there-
+of, and appeals his said peitioner and his said cause and the whole
+of it and every part thereof to the Supreme Court of the United 
+States, holding terms at the City of Washigton, District of Col-
+umia, and to the next regular term thereof, and particularly
+appeals from the said ruling of the said court denying and refus-
+ing to grant the said Writ of Habeas Corpus.</p>
+
+<p>Which said appeal is here and now allowed.</p>
+
+<p>Done in open court this 25th day of July, A. D., 1899.</p>
+
+<p> C.H. Hanford
+Judge.</p>
+
+<p>Tx No. 781
+GoB 136-160</p>
+
+<p>IN THE Circuit COURT 
+OF THE UNITED STATES
+FOR THE
+DISTRICT OF WASHINGTON</p>
+
+<p>In re application 
+of Geo Webster for
+vs.
+Writ of Habeas Corpus
+Order denying Writ and
+allowing appeal</p>
+
+<p>Filed July 25 1899
+A. Reeves Ayres Clerk
+By RM Hapkins Deputy</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, NINTH JUDICIAL CIRCUIT
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>In the Matter of the application of
+George Webster,
+for
+A writ of Habeas Corpus.</p>
+
+<p>United States of America )
+State of Washington ) ss
+County of Spokane. )</p>
+
+<p>I, Clarence W. Ide, United States Marshal for the District
+of Washington, do hereby certify that I served the original notice 
+of appeal, the original order allowing an appeal, and the original
+citation on appeal, to the Supreme Court of the United States, and
+the original notice to the sheriff of Spokane County, Washington,
+and to the State of Washington, of the several proceedings had and
+taken in the above entitled cause, on R. D. Speck, Sheriff of Spo-
+kane County, Washington, in Spokane County, Washington, on the 27th
+day of July, A.D.1899, by then and there delivering to and leaving
+with the said R. D. Speck, as sheriffof Spokane County, Washington,
+personally, a true and correct copy of the said original notice of
+ap peal, and of the said original order allowing the same, original
+citation thereon, and of the said original notice of the several pro-
+ceedings had and taken in the above entitled cause. That I served
+the original notice of appeal, original order allowing the same and
+the original citation thereon t o the Supreme Court of the United 
+States, and the original notice of the several proceedings had and
+taken in the above entitled cause upon t h e State of Washigton on
+the 27th day of July, A. D.1899, in Spokane County, Washington, by
+then and there delivering to and leaving with James Z. Moore, prose-
+cuting attorney in and for Spokane County, Washington, personally,
+and by then and there delivering to and leaving with Patrick H. 
+Winston, attorney general for the State of Washington, personally,
+and to each of them personally, a true and correct copy of te origi-
+nal notice of appeal, original rder allowing the same and of the
+original citation thereon, and of the original notice of the several
+proceedings had and taken in the above entitled cause.
+</p>
+
+<p>C W Ide
+United States Marshal for
+the District of Washington.
+By Felix M Pugh Deputy.</p>
+
+<p>781 Tx.</p>
+
+<p>In the Circuit Court of the 
+United States, Ninth Judicial
+Circuit, District of Washington,
+Northern Division.</p>
+
+<p>In the matter of the application 
+of George Webster,
+for
+A Writ of Habeas Corpus.</p>
+
+<p>Proof of service of Notice of
+Appeal, and of order allowing
+appeal, and of Citation on ap-
+peal, and of Notice of proceed-
+ings in the above entitled cause.</p>
+
+<p>FILED IN THE
+U. S. Circuit Court
+DIST. OF WASHINGTON
+AUG231899
+A. Reeves Ayres, Clerk.
+A.N. Moore Dep.</p>
+
+<p>James Hamilton Lewis,
+James E. Fenton
+and 
+Del Cary Smith.
+Attorneys for Petitioner.</p>
+
+<p>United States Circuit Court for the District of Washington.</p>
+
+<p>In re appliation 
+of George Webster for Writ
+of Habeas Corpus
+No. 781
+Appearance</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+
+<p>You will please enter my appearance as one of the attorneys
+for George Webster
+in the above entitled cause
+John F. Dore</p>
+
+<p> No. 781
+Tx
+Gob 5-190.</p>
+
+<p>United States Circuit Court
+District of Washington.</p>
+
+<p>In re
+application of
+George Webster
+for Writ of Habeas
+Corpus
+Appearance.</p>
+
+<p>Filed Sep 12 1899 189
+A. Reeves Ayres Clerk.
+HM Walthew Deputy Clerk.
+John F. Dore
+Atty.
+For petitioner</p>
+
+<p>IN THE SUPREMECOURT OF THE UNITED STATES OF AMERICA.
+</p>
+
+<p>In re Application of George Webster
+for a Writ of Habeas Corpus.
+Assignement of Errors.</p>
+
+<p>Now comes the above named George Webster, by James Hamtilon 
+Lewis, James E. Fenton, John F. Dore and Del Cary Smith, his attorneys,
+and says that the record and proceedings in the above entitled cause in
+the Circuit Court of the United States for the District of Washington and
+in the Northern Division thereof, there was manifest error and he hereby
+assigns as error of the Court therein, the following, to wit:</p>
+
+<p>That the Court below erred in denying a writ of habeas corpus
+to thesaid George Webster and in rendering its order against the granting
+of said writ on the 25th day of July, 1899.</p>
+
+<p>James Hamilton Lewis
+James E. Fenton
+John F Dore
+Del Cary Smith
+Attorneys for George Webster.</p>
+
+<p>781 Tx
+In the Supreme
+Court of the United 
+States
+In re application 
+of George Webster for
+Writ of Habeas Corpus
+Assigments of Error 
+</p>
+
+<p>FILED IN THE
+U.S. Circuit Court
+DIST. OF WASHINGTON.
+Sep141899
+A. Reeves Ayres
+HM Walthew 
+Deputy</p>
+
+<p>James Hamilton Lewis
+James E. Fenton
+John F. Dore
+Del Cary Smith
+Atys for Webster</p>
+
+<p>HORACE KIMBALL,
+Deputy Prosecuting Attorney.
+MILES POINDEXTER,
+Deputy Prosecuting Attorney.</p>
+
+<p>OFFICE OF
+JAMES Z. MOORE,
+PROSECUTING ATTORNEY OF SPOKANE COUNTY,
+WASHINGTON.</p>
+
+<p>TELEPHONE MAIN 719.</p>
+
+<p>Spokane, Wash., March 21, 1900.</p>
+
+<p>Dict.M.P.
+Clerk of the U.S. Circuit Court,
+S e a t t l e, W a s h.
+Dear Sir:-
+</p>
+
+<p>Enclosed you will find the mandate of the United States
+Supreme Court dismissing the appeal of George Webster in the
+matter of his application for a writ of habeas corpus.</p>
+
+<p>Please acknoledge receipt of same, and oblige,</p>
+
+<p>Very truly yours,
+Miles Poindexter</p>
+
+<p>United States of America, ss: </p>
+
+<p>The President of the United States of America,</p>
+
+<p>To the Honorable the Judges of the Circuit
+Court of the United States for the
+District of Washington
+</p>
+<p>Greeting, </p>
+
+<p> Whereas, lately in the Circuit Court of the United States
+for the District of Washington before you,
+or some of you in a cause entitled In the matter of
+the application of George Webster for a writ 
+of habeas corpus, wherein the order of the said
+Circuit Court, entered in said cause on the 
+25th day of July, A.D. 1899, was against the 
+said George Webster.</p>
+
+<p> You, therefore, are hereby commanded that such execution and
+proceedings be had in said cause as according to right and justice, and the
+laws of the United States, ought to be had, the said appeal
+notwithstanding. </p>
+
+<p> Witness the Honorable MELVILLE W. FULLER, Chief Justice of the
+United States, the 10th day of February, in the year
+of our Lord one thousand nine hundred </p>
+
+<p>COSTS OF Speck, Sheriff rc. etal
+Clerk $ paid
+Attorney $ 20.00
+$20.00</p>
+
+<p>James H McKenney
+Clerk of the Supreme Court of the United States. </p>
+
+<p>781 94
+G. O. B. 6-298
+SUPREME COURT OF THE UNITED STATES.
+No. 443, October Term, 1899.
+George Webster
+vs.
+R. D. Speck, Sheriff re.
+etal. </p>
+
+<p>M A N D A T E. </p>
+
+<p>FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON.
+MAR231900
+A. REEVES AYRES, Clerk
+RM Hopkins Dep. </p>
+
+<p>Recorded Journal 61 page 192 </p>
+
+<p> CERTIFICATE </p>
+
+<p>United States of America )
+ss.
+Western District of Washington ) </p>
+
+<p>I, James C. Drake, Clerk of the Circuit Court of the United States for the Western
+District of Washington, do hereby certify that the foregoing attached papers constitute the
+JUDGMENT ROLL in the foregoing entitled cause, No. 781
+wherein Inre: Application of 
+George Webster for a Writ of 
+Habeas Corpus Plaintiff
+and 
+Defendant</p>
+
+<p>In Testimony Whereof, I have hereunto act my hand and
+offered the Seal of said Circuit Court, this the
+30 day of Dec A. D. 1911
+James C. Drake,
+Clerk. </p>
+
+<p> By
+BO Wright
+Deputy Clerk. </p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

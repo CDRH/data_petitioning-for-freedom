@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0473.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla" xml:id="mg">Mikayla Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0473.005</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry
+Mason, William
+Miller, John F.
+Nordstrom, Charles W.
+Lewis, James Hamilton
+Jacobs, Orange
+Spencer, W. C.
+McBride, W. P.
+Ellanerth, P. C.
+Hart, John B.
+Calhoun, C. V.
+Willard, Rufus S.
+Marion, A. B.
+Bories, Emil
+McElroy, James F.
+Ayres, A. Reeves 
+Walthew, H. M.
+Hanford, C. H.
+Ashley, M
+Moors, A. N.
+Van de Vanter, A. T.
+Van de Vanter, A. D.
+McKenney, James H.
+Owrigher, B.
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington
+Washington D.C.
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Nordstrom, Charles W.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>State of Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>James Hamilton Lewis .</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John F. Miller</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jacobs, Orange</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court Northern Division</orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.473.005"/> <!-- insert number from spreadhseet -->
+
+<p>United States Circuit Court for the District of Washington.</p>
+
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus etc.,</p>
+
+<p>vs.</p>
+
+<p>No. 784</p>
+
+<p>Praecipe</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+
+<p>You will please issue Four certified copies of the 
+order refusing to grant the writ herein and
+allowing an appeal; and, also, Four certified
+copies of the citation issued herein</p>
+
+<p>James Hamilton Lewis</p>
+
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+
+<p>no. 784</p>
+
+<p>United States Circuit Court
+District of Washington.</p>
+
+<p>In the application of
+Charles W. Nordstrom
+for Habeas Corpus 
+etc.,</p>
+
+<p>Prcaecipe</p>
+
+<p>Filed July 29 1899 189 </p>
+
+<p>A. Reeves Ayres </p>
+
+<p>Clerk</p>
+
+<p>H.M. Walthew</p>
+
+<p>Deputy Clerk</p>
+
+<p>Jas. Hamilton Lewis,
+For Petitioner.</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+
+<p>Northern Division.</p>
+
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+
+<p>No. 784</p>
+
+<p>N O T I C E.</p>
+
+<p>To the Hon. A. T. Van de Vanter, sherif of King County, State of 
+Washington:</p>
+
+<p>You will please take notice hereby that Charles W. Nordstrom,
+now in your custody, duly petitioned the Circuit Court of the United
+States for a Writ of Habeas Corpus seeking relief thereunder, and,</p>
+
+<p>Whereas, the said writ and relief was denied, and</p>
+
+<p>Whereas, said petitioner duly moved for the right of appeal and
+for the transfer of his whole cause to the Supreme Court of the United
+States, and</p>
+
+<p>Whereas, the said cause came on for argument as to the granting
+of the said appeal and the transfer of the whole cause to the appellate
+Court, and was heard upon the 29th day of Juy 1899, by the Hon.
+C. H. Hanford, Circuit Judge, and,</p>
+
+<p>Whereas, after hearing said application, an order of appeal was 
+duly granted, and the said cause was so ordered transferred to the
+Supreme Court of the United States, a full copy of said proceedings
+ad the order allowing said appeal, being duly certified, is hereunto
+annexed for your information and advice.</p>
+
+<p>And, whereas, under the Revised Statutes of the United States,
+being the law of the United States, particularly, Section 766 of the 
+said Revised Statutes of the United States, reads as follows, to-wit:</p>
+
+<p>Sec. 766 "Pending the proceedings on appeal in the 
+cases mentioned in the three preceding section, and until final judg-
+ment therein, and after final judgment of discharge, any proceedings
+against the person so imprisioned or confined or restrained of his 
+liberty, in any State Court, or by or under the authority of any
+State, for any matter so heard and determined, under such writ of
+Habeas Corpus, shall be deemed null and void."</p>
+
+<p>And whereas, the Supreme Court of the United States In Re Jugiro
+140 U. S. 295, construing the said section, defined the same to mean
+"in cases where the applicant was held in custody under the authority
+of a state court or by the authority of a State to stay the hands of 
+such court or State while the question as to whether his detention was
+in violation of the Constitution, laws or treaties of the United 
+States was being examined by the courts of the United States having
+jurisdiction in the premises;" which sad decision is more fully
+referred to in the case on In Re M'Kane, 61 Fed. 205, where it was
+held to mean that until final decision in the Supreme Court f the 
+United States no disturbance of the condition of the prisoner as he
+was at the time of the denying of the writ can be in anywise had: </p>
+
+<p>Therefore youa re hereby notified that you are to hold posession
+or custody of the said petitioner, Charles W. Nordstrom, now in your 
+keeping at the City of Seattle, County of King, State of Washington,
+in such manner as to your discretion shall seem meet and proper, in
+nowise assuming for any cause to execute any sentence of death
+whatsoever upon the said petitioner, Charles W. Nordstrom, and you
+will be duly notified of any other proceedings in the premises.</p>
+
+<p>You will please govern yourself accordingly.</p>
+
+<p>Respectfully,</p>
+
+<p>Jas. Hamilton Lewis
+Attorney for Petitioner.</p>
+
+<p>United States of America, )
+District of Washington, :ss
+C o u n t y of K i n g. )</p>
+
+<p>M. ASHLEY, being first duly sworn, on oath deposes and
+says: That at all the times herein and hereafter mentioned, I was,
+and am now, a citizen of the United States of America, and of the
+District of Washington, and a resident of King County, in said District
+of Washington, above the age of twenty-one (21) years.</p>
+
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A.D. 1899, I duly served the within Notice upon A. T.
+Van de Vater, Sheriff of King County, State of Washington, he being
+the respondent and appellee in said within Notice named, by delivering
+to and leaving with said A. D. Van de Vater, Sheriff of King County,
+State of Washington, a true copy of said within Notice.</p>
+
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A. D. 1899, I duly served the within Notice upon James F.
+McElroy, Es., Prosecuting Attorney for King County, State of Washing-
+ton, on behalf of the State of Washington, said State of Washington
+being the respondent and appellee in said within Notice named, by
+Prosecuting Attorney for King County, State of Washington, a true copy
+of said within notice. </p>
+
+<p>M Ashley</p>
+
+<p>Subscried and sworn to before me this 32st dau of July, A.D. 1899.</p>
+
+<p>J Henry Denning
+Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF </p>
+
+<p>WASHINGTON,Northern Division.</p>
+
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+
+<p>No. 784</p>
+
+<p>ASSIGNMENT OF ERRORS</p>
+
+<p>Comes now the petitioner and assigns as error committed by
+the Court in the above entitled cause at the time of the hearing of
+the same, as follows:</p>
+
+<p>I</p>
+
+<p>That the Court erred in declining and refusing to issue the
+Writ of Habeas Corpus upon the record of the above named cause.</p>
+
+<p>II</p>
+
+<p>That the Court erred in refusing to issue an order to show
+cause why the Writ should not issue in the above named cause.</p>
+
+<p>III</p>
+
+<p>That the Court erred ub refusing to make an order restraining
+proceedings pending the hearing of the Petition for the Writ of Habeas
+Corpus in the above named cause.</p>
+
+<p>James Hamilton Lewis
+Attorney for the Petitioner.</p>
+
+<p>No. 784</p>
+
+<p>In the Circuit Court</p>
+
+<p>OF THE</p>
+
+<p>UNITED STATES</p>
+
+<p>District of Washington, Northern Division</p>
+
+<p>In The matter of the application
+of Charles W. Nordstrom for a 
+Writ of Habeas Corpus,
+appearing by his next
+friend J Henry Denning</p>
+
+<p>Assignment of Errors</p>
+
+<p>Filed this 31st day
+of July 1899
+A Reeves Ayers Clerk.
+By A.N. Moors Deputy.</p>
+
+<p>JAS. HAMILTON LEWIS</p>
+
+<p>Attorney for Petitioner</p>
+
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+
+<p>Received copy of the within
+and service of the same admitted this
+day of 189
+Attorney for</p>
+
+<p>UNITED STATES OF AMERICA, ss:</p>
+
+<p>The President of the United States of America,</p>
+
+<p>To the Honorable the Judges of the Circuit
+Court of the United States for the
+District of Washington</p>
+
+<p>GREETING:</p>
+
+<p>Whereas, lately in the Circuit Court of the United States
+for the District of Washington, before you
+or some of you, in a cause entitled In the matter 
+of the application of Charles W. Nordstrom
+for a writ of habeas corpus, appearing
+by his next friend, J Henry Denning, No.
+784, wherein the order of the said Circuit 
+Court, entered in said cause on the 29th
+day of July, A.D. 1899, is in the following
+words, viz;</p>
+
+<p>"In the Circuit Court of the United States, District of Wash-
+ington, Northern Division.</p>
+
+<p>In the Matter of the Application of CHARLES W. NORDSTROM for a
+Writ of Habeas Corpus, Appearing by His Next Friend, J. Henry 
+Denning. No. 784. Order.</p>
+
+<p>This cause coming on for hearing upon the petition of petitioner
+for a writ of habeas corpus, the court, being advised upon the peti-
+tion and upon hearing counsel for petitioner, deies and refuses to
+grant the said writ; to which ruling of the court petitioner excepts.
+Exception allowed.</p>
+
+<p>Petitioner thereupon gives notice that he appeals from the said
+ruling of the court and from the whole and every part thereof and
+appeals his said petition and his said cause and the whole and each
+and every part thereof to the Supreme Court of the United States,
+holding terms at the city of Washington, District of Columbia, and
+to the next regular term thereof, and particularly appeals from the
+said ruling of the said court denying and refusing to grant the said
+writ of habeas corpus.</p>
+
+<p>Which said appeal is here and now allowed.
+Done in open court this 29th day of July, 1899.</p>
+
+<p>C. H. HANFORD.</p>
+
+<p>District Judge.</p>
+
+<p>as by the inspection of the trancript of the record
+of the said Circuit
+Court, which was brought into the SUPREME COURT OF THE UNITED STATES
+by the virtue of an appeal taken by Charles W. Nordstrom (by his next
+friend J. Henry Denning), whereon A. T. Van de Vanter, Sheriff
+of King County, Washington, and the State of Washington
+were made the parties appellees
+agreeably to the act of Congress,
+in such case made and provided, fully and at large appears.</p>
+
+<p>And whereas, in the present term of October, in the year of our Lord
+one thousand nine hundred the said cause came on to be heard
+before the said SUPREME COURT, on the said transcript of record, and
+o motions to dismiss or affirm which were argued bu counsel;
+</p>
+
+<p>On consideration whereof, It is now here ordered, adjudged,
+and decreed by this Court that the order, of the 
+said Circuit Court in this cause be, and the same is hereby, affirmed,
+with costs; And that the said A. T. Van de Vanter,
+Sheriff, and The State of Washington recover
+against the said Charles W. Nordstrom,
+(by his next friend J. Henry Denning), Eighty
+four dollars and fifty cents for their
+costs herein expended and have exceution
+therefor. May 13, 1901.</p>
+
+<p>You, therefore, are hereby commanded that such execution and
+proceedings be had in said cause,
+as according to right and justice, and the laws
+of the United States, ought to be had, the said appeal
+notwithstanding.</p>
+
+<p>Witness the Honorable Melville W. Fuller, Chief of Justice of the
+United States, the 31st day of May, in the year
+of our Lord one thousand nine hundred and one
+COSTS of Van de Vanter, Sheriff, et al.</p>
+
+<p>Clerkj $35.00
+Printing Record $29.50
+Attorney $20.00
+$84.50</p>
+
+<p>James H. Mckenny</p>
+
+<p>Clerk of the Supreme Court of the United States.</p>
+
+<p>#784</p>
+
+<p>GoB 7-3</p>
+
+<p>SUPREME COURT OF THE UNITED STATES</p>
+
+<p>No. 388, October Term, 1900</p>
+
+<p>Charles W. Nordstrom (by
+his next friend J. Henry Denning),</p>
+
+<p>vs.</p>
+
+<p>A. T. Van de Vanter,
+Sheriff re., et al.</p>
+
+<p>MANDATE</p>
+
+<p>FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON</p>
+
+<p>JUN 10 1901</p>
+
+<p>A. REEVES AYRES, Clerk</p>
+
+<p>HM Matthew Dep.</p>
+
+<p>SUPREME COURT OF THE UNITED STATES OCTOBER TERM 1900</p>
+
+<p>Costs of A.T. Van de Vanter, Sheriff re., et al.,</p>
+
+<p>in No. 388,</p>
+
+<p>1900 October Form appearance, .25,
+filing precipie and receipt, .50; filing papers, $2.25; filing motion,
+.25; filing briefs, $5.00; submission, .20;
+judgment, $1.00; filing
+same, .25; recording, .40; mandate, $5.00; preparing record for printer, etc.,
+$19.50; cost of printing record, $29.50; attorney's docket fee,
+$20.00; costs and copy, .40 
+</p>
+
+<p>$84.50</p>
+
+<p>$84.50</p>
+
+<p>Fee Book , paage 17.873</p>
+
+<p>Fees: James H. McKenney</p>
+
+<p>Clerk Supreme Court U. S. </p>
+
+<p> CERTIFICATE</p>
+
+<p>United States of America }</p>
+
+<p>ss.</p>
+
+<p>Western District of Washington }</p>
+
+<p>I, JAMES C. DRAKE, Clerk of the Circuit Court of the United States, for the Western
+District of Washington, do hereby certify that the foregoing attached papers constitute the
+JUDGMENT ROLL in the foregoing entitled cause, No. 784
+wherein In re: Application of
+Charles W. Nordstrom for
+Writ of Habeas Corpus Plaintiff
+and 
+Defendant</p>
+
+<p> In Testimony Whereof, I have hereunto set my hand and
+offixed the Seal of said Circuit Court, this the 
+30 day of DEC A. D. 1911</p>
+
+<p>JAMES C. DRAKE</p>
+
+<p>Clerk.</p>
+
+<p>By B Owigher</p>
+
+<p>Deputy Clerk.</p>
+
+<fw type="footer"> &amp;</fw>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

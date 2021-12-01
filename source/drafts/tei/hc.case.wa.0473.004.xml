@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0473.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla" xml:id="mg">Mikayla Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0473.004</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry
+Mason, William
+Miller, John F.
+Nordstrom, Charles W.
+Lewis, James Hamilton
+Jacobs, Orange
+Spencer, W. C.
+McBride, W. P.
+Ellanerth, P. C.
+Hart, John B.
+Calhoun, C. V.
+Willard, Rufus S.
+Marion, A. B.
+Bories, Emil
+McElroy, James F.
+Ayres, A. Reeves 
+Walthew, H. M.
+Hanford, C. H.
+Ashley, M
+Moors, A. N.
+Van de Vanter, A. T.
+Van de Vanter, A. D.
+McKenney, James H.
+Owrigher, B.
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington
+Washington D.C.
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Nordstrom, Charles W.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>State of Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>James Hamilton Lewis .</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John F. Miller</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jacobs, Orange</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court Northern Division</orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.473.004"/> <!-- insert number from spreadhseet -->
+
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus by</p>
+
+<p>vs.</p>
+
+<p>his next friend
+J. Henry Denning.</p>
+
+<p>No. 784</p>
+
+<p>Appearance.</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+
+<p>You will please enter my appearance as attorney
+for pettioned
+in the above entitled cause</p>
+
+<p>James Hamilton Lewis</p>
+
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+
+<p>10.00 paid</p>
+
+<p>GoB 6-163</p>
+
+<p>no. 784</p>
+
+<p>United States Circuit Court</p>
+
+<p>District of Washington.</p>
+
+<p>In the application of
+Charles W. Nordstrom</p>
+
+<p>vs.</p>
+
+<p>for Habeas Corpus
+etc.,</p>
+
+<p>Appearance.</p>
+
+<p>Filed JUL 20 1899 189
+A. Reeves Ayres </p>
+
+<p>Clerk.</p>
+
+<p>HM Walthew</p>
+
+<p>Deputy Clerk.</p>
+
+<p>James Hamtilton Lewis</p>
+
+<p>For Petitioner</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+
+<p>Northern Division.</p>
+
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+
+<p>No. 784</p>
+
+<p>O R D E R.</p>
+
+<p>This cause coming on for hearing upon the petition of petitioners
+for a Writ of Habeas Corpus, the court, being advised upon the petition
+and upon hearing counsel for the peitioner, denies and refuses to grant
+the said Writ; to which ruling of the court petitioner excepts.
+Exeption allowed.</p>
+<p>Petitioner thereupon gives notice that he appeals from the said
+ruling of the court and from the whole and every part thereof and
+appeals his said petition and his said cause and the whole and each
+and every part thereof to the Supreme Court of the United States,
+holding terms at the City of Washington, District of Columbia, and to
+the next regulat term thereof, and particularly appeals from the said
+ruling of the said court denying and refusing to grant the said Writ of 
+Habeas Courpus.</p>
+
+<p>Which said appeal is here and now allowed.
+Done in open court this 29th of July, 1899.</p>
+
+<p>C.H. Hanford
+District Judge</p>
+
+<p>GoB 6-162</p>
+
+<p>(ORIGINAL)</p>
+
+<p>No. 784</p>
+
+<p>In the Circuit Court
+of the 
+UNITED STATES</p>
+
+<p>District of Washington, Northern Division</p>
+
+<p>In the application of 
+Charles W. Nordstrom
+for a Writ of 
+Habeas Corpus by
+his next friend,
+J. Henry Denning,</p>
+
+<p>Order</p>
+
+<p>Filed this 29th day
+of July 1899
+A Reeves Ayres Clerk.
+By HM Walthew Deputy</p>
+
+<p>JAS. HAMILTON LEWIS</p>
+
+<p>Attorney for Petitioner</p>
+
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF WASHINGTON,</p>
+
+<p>Northern Division.</p>
+
+<p>In the Matter of the Application of
+Charles W. Nordstrom for a Writ of
+Habeas Corpus, Appearing by his next,
+Friend, J. Henry Denning.</p>
+
+<p>No. 784</p>
+
+<p>NOTICE OF APPEAL.</p>
+
+<p>To the State of Washington, and to A.T. Van de Vanter, Sheriff
+of King County, State of Washington, and to Hon James F. McElroy,</p>
+
+<p>Comes, now the petitioner, Charles W. Nordstrom, by his next
+friend, J. Henry Denning, and appeals the above entitled cause and the
+whole thereof to the Supreme Court of the United States, holding terms
+at the City of Washington, District of Columbio, and to the next
+regular term thereof, and more especially appeals from that certain
+order made and entered in the above entitled cause on the 29 day of
+July, 1899, by the Honorable C. H. Hanford, Judge, sitting 
+as the Circuit Court, denying the petition of petitioner for a Writ 
+of Habeas Corpus and refusing to grant the said Writ of Habeas Corpus
+as in his said petition prayed.</p>
+
+<p>And you will take notice that the record and proceedings upon
+the said petition will be duly certified through the said above
+entitled court to the said Supreme Court of the United States at the
+next regular term thereof upon said named appeal.</p>
+
+<p>James Hamilton Lewis</p>
+
+<p>Attorney for Petitioner.</p>
+
+<p>United States of America, )
+District of Washington, :ss
+C o u n t y of K i n g. )</p>
+
+<p>M. ASHLEY, being first duly sworn, on oath deposes and
+says: That at all the times herein and hereafter mentioned, I was,
+and am now, a citizen of the United States of America, and of the
+District of Washington, and a resident of King County, in said District
+of Washington, above the age of twenty-one (21) years.</p>
+
+<p>That at Seattle, King County, State of Washington, on the 31st
+day of July, A.D. 1899, I duly served the within Notice of Appeal together with
+a duly certified copy f the order allowing the affiant foreing
+M.A. J.H.D. upon A. T. Van de Vanter, sheriff of King County, State of Washington,
+he being the respondent and appellee in said within Notice of Appeal
+named, by delivering to and leaving with the said A.T. Van de Vanter,
+sheriff of King County, State if Washington, a true copy of said
+within Notice of Appeal and a duly certified copy of said order allowing
+M.A. J.H.D. said appeal.</p>
+
+<p>That at Seattle, King County, State of Washington, on the 31stt
+day of July, A.D. 1899, I duly served the within Notice of Appeal, together with 
+a duly certfied copy of the order allowing the appeal herein,
+M.A.J.H.D upon James F. McElroy, Prosecuting Attorney for King County, State of
+Washington, on behafl of the said State of Washington, the State of 
+Washington beng the respondent and appellee insaid within Notice of
+Appeal named, by delivering to and leaving with said James F. McElroy,
+Esq., Prosecuting Attorney for King County, State of Washington, a true
+copy of said within Notice of Appeal and a duly certified copy of said order
+M.A.J.H.D allowing said appeal.</p>
+
+<p>M Ashley</p>
+
+<p>Subscribed and sworn to before me this 31st day of July, A.D. 1899.</p>
+
+<p>J Henry Dening
+Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+
+<p>(ORIGINAL)</p>
+
+<p>No. 784</p>
+
+<p>In the Circuit Court
+of the 
+UNITED STATES</p>
+
+<p>District of Washington, Northern Division</p>
+
+<p>In the application of 
+Charles W. Nordstrom
+for a Writ of 
+Habeas Corpus by
+his next friend,
+J. Henry Denning,</p>
+
+<p>Notice of Appeal</p>
+
+<p>Filed this 31st day
+of July 1899
+A Reeves Ayeres Clerk.
+By A.N. Moors Deputy.</p>
+
+<p>JAS. HAMILTON LEWIS</p>
+
+<p>Attorney for Petitioner</p>
+
+<p>Office--FIFTH FLOOR, PIONEER BLOCK</p>
+
+<p>Corner First Ave. and James St. SEATTLE, WASH.</p>
+
+<p>United States Circuit Court for the District of Washington.</p>
+
+<p>In the application of
+Charles W. Nordstrom for a
+Writ of Habeas Corpus etc.,</p>
+
+<p>No. 784</p>
+
+<p>Praecipe</p>
+
+<p>To the Clerk of the above Entitled Court:</p>
+
+<p>You will please issue citation, returnable pursuant
+to the rules in such cases; also prepare appeal and make
+transcript on appeal to the Supreme Court of the United States,
+to include petition for Habeas Corpus writ, order denying the
+issuance of writ and allowing the appeal; opinion filed in the
+cause, notice of appeal to the Supreme Court and notice to sherrif and assignment
+of errors and duly certify the same within the time and in the manner
+prescribed by law
+Jas. Hamilton Lewis
+Atty for Petitioner</p>
+
+<p>Notice--Attorneys will please endorse their own Filings. Rule 47.</p>
+
+<p>no. 784</p>
+
+<p>United States Circuit Court
+District of Washington.</p>
+
+<p>In the application of
+Charles W. Nordstrom
+for Habeas Corpus 
+etc.,</p>
+
+<p>Prcaecipe</p>
+
+<p>Filed July 29 1899
+A. Reeves Ayeres Clerk
+A. N. Moors Deputy Clerk
+Jas. Hamilton Lewis
+For Petitioner.</p>
+
+<fw type="footer"> &amp;</fw>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
