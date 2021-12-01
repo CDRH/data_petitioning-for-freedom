@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0154.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0154.002</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">October 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clifford, Peter A.
+Long (Clifford, Williams), Grace E.
+Clifford, Alice B.
+Burt. J.  J.
+White, W. H. 
+DeLang, James
+Hanford, C. H.
+Ayres, A. Reeves
+Matthew, H. M.
+Herice, Deevnay 
+Fuller, Melville W.  
+Hopkins, C. B.
+Stringer, John
+Heade, Matthew H.
+Tallman, Boyd J.
+Humphreys, William P.
+Allison, William B.
+Norris, George E.
+Huxston, R. I.
+Koepfli, C. A.
+Brewster, J. M.
+Moor, A. N. 
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Georgetown, King County, Washington
+San Francisco, San Francisco County, California
+Seattle, King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Clifford, Peter A.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Long (Williams, Clifford), Grace E.
+Williams, Herbert O.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>White, W. H.
+Burt, J. J. 
+Steiner, G. E.
+Sweeney
+French
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Humphreys, William P.</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H.
+Tallman, Boyd J.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0154.001"/> <!-- insert number from spreadhseet -->
+
+<p>No. 1204 Tx
+IN THE CIRCUIT COURT OF THE UNITED
+STATES, FOR THE DISTRICT OF WASH-
+INGTON, NORTHERN DIVISION.</p>
+
+<p>PETER A. CLIFFORD,
+Petitioner,</p>
+
+<p>vs.
+HERBERT O. WILLIAMS and
+GRACE E. WILLIAMS,
+Respondents.</p>
+
+<p>PETITION FOR WRIT OF HABEAS
+CORPUS.
+Order</p>
+
+<p>FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON.
+JUN 7 1904
+A. REEVES AYRES, Clerk
+H. M. Matthew
+Deputy.</p>
+
+<p>W. H White
+ATTORNEY- AT- LAW
+SAVINGS UNION BUILDING
+530 California Street, SAN FRANSISCO, CAL.
+J. J. Burt;
+Co Counsil.</p>
+
+<p>United States Circuit Court for the District of Washington.
+</p>
+
+<p>Peter A. Clifford
+Petitioner
+vs.
+HO. Williams et al.
+No. 1204
+Appearance</p>
+
+<p>To the Clerk of the above Entitled Court:
+You will please enter our appearance as attorneys
+for Petitioner
+in the above entitled cause
+W. H. White
+J. J. Burt
+NOTICE.- Attorneys will please endorse their own Filings. Rule 47.</p>
+
+<p>GoB 8-103.
+No. 1204 Tx
+United States Circuit Court
+District of Washington.</p>
+
+<p>Peter A. Clifford
+Petitioner
+vs.
+HO. Williams et al.
+Appearance
+Filed FILED IN THE 
+U. S. Circuit Court, 190
+JUN 7 1904 Clerk
+A. Reeves Ayres, Clerk.
+HM Matthew
+Deputy Clerk</p>
+
+<p>W. H. White
+JJ Burt.
+Petitioner
+order on petitioner.</p>
+
+<p>United States Circuit Court for the District of Washington.
+Peter A. Clifford
+vs.
+Herbert O Williams 
+et. al</p>
+
+<p>No. 1204
+Appearance</p>
+
+<p>To the Clerk of the above Entitled Court:
+You will please enter Our appearance as attorneys
+for Referendants
+in the above entitled cause
+Sweeney <unclear></unclear>
+NOTICE.- Attorneys will please endorse their own Filings. Rule 47.</p>
+
+<p>GOB 8-108
+10 pd
+Tx
+no. 1204
+United States Circuit Court
+District of Washington.
+</p>
+
+<p>Peter A. Clifford
+Pet
+vs.
+Herert O. Williams
+Ref
+Appearance
+Filed FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON. 
+190
+JUN 9 1904 Clerk
+A. REEVES AYRES, Clerk
+HM Matthew
+Deputy Deputy Clerk
+Sweeney <unclear></unclear>
+Attys
+For Ref</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES , NINTH JUDICIAL 
+CIRCUIT, DISTRICT OF WASHINGTON, NORTHERN DIVISION.
+</p>
+
+<p>Peter A, Clifford,
+Petitioner
+vs.
+Herbert O. Williams and
+Grace E. Williams,
+Respondents.
+WRIT OF HABEAS CORPUS.</p>
+
+<p>The President of the United States of America to Herbet O.
+Williams and Grace E. Williams, G r e e t i n g :
+</p>
+
+<p>We command you that you have the body of Alice B. Clifford,
+now held by you in illegal custody and detention, as it is said,
+together with the time and cause of such detention, by whatso-
+ever name the said Alice B. Clifford shall be called before the
+above named Court, at the 
+court room of said court in the City of Seattle, County of King,
+State of Washington, on the 9th day of June 1904, at 10
+o'clock A. M. of said day, to do and receive what shall then
+and there be considered and determined concerning the said Alice
+B. Clifford, and that you have then and there this writ.</p>
+
+<p>WITNESS the HONORABLE Melville W. Fuller, Chief Justice of
+the United States, this 7th day of June, A. D. 1904.
+A. Revees Ayres
+Clerk.
+By HM Matthew
+Deputy Clerk.</p>
+
+<p>Form No. 282. RETURN ON SERVICE OF WRIT.
+United States of America, )
+DISTRICT OF WASH) ss.</p>
+
+<p>I hereby certify that I served the annexed Writ of Habeas
+Corpus on the therein-named Grace E. Williams
+by handing to and leaving a true and correct copy thereof with Grace E. Williams
+personally
+at Georgetown in said District on the 8 day of
+June , A. D. 190</p>
+
+<p>Marshals for
+service 6.00
+1.50
+7.50
+Service 
+Expenses</p>
+
+<p>C. B, HOPKINS,
+U. S. Marshal.</p>
+
+<p>By John Stringer 
+Deputy.</p>
+
+<p>DISTRICT OF Wash ) ss:</p>
+
+<p>I hereby certify that I served the annexed writ. of. Habeas
+Corpus on the therein-named Herbert O. Williams
+By delivering to and leaving with his
+wife Grace E. Williams at his usual place
+of abode She being a resident therein
+and a person of suitable age and decision
+at Georgetown in said District on the 8 day of
+June, A. D. 190X
+C. B, HOPKINS,
+U. S. Marshal.
+By John Stringer
+Deputy.</p>
+
+<p>No., 1204 Tx
+</p>
+
+<p>IN THE CIRCUIT COURT OF THE UNITED
+STATES, FOR THE DISTRICT OF WASH-
+INGTON, NORTHERN DIVISION.</p>
+
+<p>PETER A. CLIFFORD,
+Petitioner</p>
+
+<p>vs.</p>
+
+<p>HERBERT O. WILLIAMS,
+GRACE E. WILLIAMS
+Respondents.</p>
+
+<p>WRIT OF HABEAS CORPUS.</p>
+
+<p>FILED IN THE 
+U. S. Circuit Court
+DIST. OF WASHINGTON.
+JUN 9 1904
+A. REEVES AYRES, Clerk
+HM Matthew
+Deputy.</p>
+
+<p>W. H White
+ATTORNEY- AT- LAW
+SAVINGS UNION BUILDING
+530 California Street, SAN FRANSISCO, CAL.
+J. J. Burt;
+Co Counsil.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

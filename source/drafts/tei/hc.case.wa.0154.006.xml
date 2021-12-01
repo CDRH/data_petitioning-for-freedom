@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0154.006"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0154.006</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">October 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clifford, Peter A.
+Long (Clifford, Williams), Grace E.
+Clifford, Alice B.
+Burt. J.  J.
+White, W. H. 
+DeLang, James
+Hanford, C. H.
+Ayres, A. Reeves
+Matthew, H. M.
+Herice, Deevnay 
+Fuller, Melville W.  
+Hopkins, C. B.
+Stringer, John
+Heade, Matthew H.
+Tallman, Boyd J.
+Humphreys, William P.
+Allison, William B.
+Norris, George E.
+Huxston, R. I.
+Koepfli, C. A.
+Brewster, J. M.
+Moor, A. N. 
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Georgetown, King County, Washington
+San Francisco, San Francisco County, California
+Seattle, King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Clifford, Peter A.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Long (Williams, Clifford), Grace E.
+Williams, Herbert O.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>White, W. H.
+Burt, J. J. 
+Steiner, G. E.
+Sweeney
+French
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Humphreys, William P.</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H.
+Tallman, Boyd J.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0154.001"/> <!-- insert number from spreadhseet -->
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, NINTH JUDICIAL CIRCUIT,
+DISTRICT OF WASHINGTON, NORTHERN
+DIVISION.</p>
+
+<p>Peter A. Clifford,
+Petitioner,
+Vs
+Herbert O. Williams and 
+Grace E. Williams,
+Respondents.
+No.
+R e p l y . </p>
+
+<p>Comes now the Petitioner herein and replying to the answer
+of the respondents herein, replies as follows:</p>
+
+<p>Said Petitioner denies that by any reason of the writ of habeas
+corpus in Number 41787, or of any proceedings, or of any adjudica-
+tion of the Superior Court of the County of King, State of
+Washington, or of any Judges thereof, referred to in the answer of
+respondents, or by reason of any thingtherein, or any proceedings
+between the parties hereot, or any other persons or parties, he is 
+estopped from further questioning any right or rights claimed by 
+said respondents, or either of them, as to the custody of said
+child, Alice B. Clifford.</p>
+
+<p>And in further reply said Petitioner avers and alleges:</p>
+
+<p>That upon the hearing of said proceeding in said Superior
+Court and before the Honorable Boyd J. Tallman, the Judge before
+whom said hearing of said habeas corpus proceeding was had, said
+Petitioner presented and put in evidence a copy of the judicial
+records and proceedings of the Superior Court of the City
+and in the notion granting the divorce referred to in his petition herein
+County of San Francisco, State of California, 
+authentioated a provided i Section 905 of the Revised Statutes 
+of the United States, and claimed the right to the custody of
+said child upon the ground that is was being imprisoned and
+detained by respondents, and each of them, in violation of Article
+exemplified and
+IV, Section 1 of the United States and Section 905 of the Revised
+Statutes of the United States, and demanded that in pursuance of
+said provision of said Constitution and said provision of said
+Revised Statutes if the United States, full faith and credit to
+said records of said Superior Court of California should be given
+by said Court of Washington and the respondents herein, and that
+said child should be released from the imprisionment and detention
+by said respondents, and each of them, and delivered into the
+custody of your Petitioner, to be by him taken back to the juris-
+diction of said Court of California; but said Superior Court of
+ Washington refused, and it appears upon the face of the records and
+proceedings of said Superior Court of Washington, in said habeas
+corpus proceedings therein, that said Court refused, to give any
+faith or credit to the records or proceedings of the said Court of
+California; and your Petitioner sets up and claims under said
+Article IV, Section 1, of the Constitution of the United States,
+and said Section 905 of the Revised Statutes of the United States,
+that said record and proceedings of said Superior Court of Wash-
+ington in the application therein for a writ of habeas corpus should
+be disregarded by this Court and held to be of no force or effect
+whatever.
+ </p>
+
+<p>Further replying to the answer of the respondents herein, as
+to the adoption of said child by proceedings in Number 5262 of
+said Superior Court of the State of Washington, said Petitioner
+avers and alleges that by reason of the facts set out in his
+petition herein, said child at the time said adoption proceedings
+were commended and had, and ever since, has been, a resident of and
+at all of said time had and yet has her domicile in the State of
+California, and that the facts of such residence and domicile and
+her being a ward of said Superior Court of California and subject
+to the control and jurisdiction thereof, were made to appear before
+the said Superior Court of Washington when said proceedings for
+the adoption of said child were taken and had therein, and said
+domicile and said wardship of said child appear upon the face of
+the records and proceedings of said Superior Court of said State of
+Washington in the matter of the adoption of said child, which
+consist of a petition by the respondents herein to be allowed to
+adopt said child, a copy of which is hereto attached marked
+"Exhibit A" and made a part hereof, a written consent to the
+adoption of said child, a copt of which is hereto attached, marked
+"Exhibit B" and made a part hereof, and an order for the adoption
+of said child, a copy of which is attached to the answer of the
+respondents herein marked "Exhibit E", and which is hereby
+referred to and made a part hereof, and of them alone; but
+nevertheless the said Court of Washington refused to give any
+faith or credit to the said records or proceedings of said Court
+of California, and made and entered said order allowing said
+adoption of said child; and your Petitioner hereby sets up and
+claims that under said Article IV, Section 1 of the Constitution
+of the United States and Section 905 of the Revised Statutes
+thereof, said order allowing said adoption is void, and of no
+force or effect.</p>
+
+<p>And further replying as to the now pending in the
+Superior Court of the State of Washington in and for the County of
+King to set aside said order of adoption, said Petitioner alleges
+that said proceeding is nothing more than to have expunged from
+the records of that Court an order claimed by said Petitioner to 
+be void and of no affect, and presents to reason why this appli-
+cation should be denied, abated or continued</p>
+
+<p>And further replying to Exhibit C of respondents' answer,
+reffered to and adopted by them as a portion of their answer 
+herein, said petitioner denies, as alleged in Parahraph IX thereof,
+that no notice whatever was served upon them, or either of them, or
+that they, or either of them, received no information as to the
+change of the decree of the Court of California as to this custody
+of said child; and on the contrary alleges that eight days' notice of the 
+motion to modify the decree was given and served upon William P.
+Humphreys. Esq., who was and yet is the attorney of record for
+Grace E. Williams in the action wherein said decree was made and
+entered.</p>
+
+<p>Futher replying to Paragraoh I of the affirmative defense of respondents' Exhibit C
+adopted as a portion of their answer herein, said Petitioner
+alleges and avers that all of thematters and things therein set up
+and alleged were set upp ad alleged in the complaints in actions
+brought by Grace E. Williams, as Grace E. Clifford, against your
+Petitioner in the said Court of California, wherein your Petitioner
+was granted a divore from her, and all of such matters and things
+were adjudged and decreed by said Court against her and in favor
+of your Petitioner, and are barred by the judgments therein, one
+which is the judgment granting said divorce; and further
+replying as to the matters and things set out in said paragraph,
+said Petitioner avers and alleges that they are beyond the jurisdiction of
+this Court upon this application, and are solely and exclusively
+within the jurisdiction of said Superior Court of California.</p>
+
+<p>WHEREFORE, Petitioner objects to the consideration by this
+Court of any of the matters or things set out in this answer of
+the respondents herein, and respondents are notified hereby that
+upon the calling of this matter for hearing herein Petitioner will
+move the Court for judgment upon the pleadings herein, and for the
+granting of the prayer of his Petition herein; and in the case of the
+Court's refusal to grant said motion Petitioner will then offer
+evidence in support of his Petition herein, and of this Reply.
+W H White
+J. J. Burt
+Attorneys for Petitioner.</p>
+
+<p>State of Washington, )
+County of King. ) ss.</p>
+
+<p>J. J. Burt, being duly sworn, says; That he is one of the
+attorneys for the Petitioner in the above entitled matter or
+proceeding; that he has read the foregoing reply of the Petitioner
+therein and knows the contents thereof, and that he verily believes
+the same to be true. </p>
+
+<p>Deponent further says that the reason he makes this affidavit
+is that said Petitioner is absent from the State of Washington, and
+in the State of California, and also that deponent is better in-
+formed as to the facts stated in said reply than is the said
+Petitioner.</p>
+
+<p>J J Burt</p>
+
+<p>Subscribed and sworn to before me
+this 15th day of June, A. D. 1904.</p>
+
+<p>William B Allison
+Notary Public in and for the State of
+Washington, residing at Seattle.</p>
+
+<p>Exhibit A</p>
+
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON, FOR KING COUNTY.</p>
+
+<p>In the Matter of the Adoption of Alice B. Clifford, an infant, by
+Herbert O. Williams and
+Grace E. Williams, his wife,</p>
+
+<p>No.
+Petition.</p>
+
+<p>To the Hon. Boyd J. Tallman, one of the Judges of the above
+entitled court:</p>
+
+<p>The petition of Herbert O. Williams and Grace E. Williams,
+his wife, respectfully shows;</p>
+
+<p>1. That petitioners Herbert O. Williams and Grace E.
+Williams are and ever since the 15th day of August, 1903, have
+been husband and wife, and are residents of Seattle, King County,
+Washington.</p>
+
+<p>a. That your petitioners desire to adopt as their own an
+infant female child named Alice B. Clifford, and to change the
+name of said child to Alice B. Williams.</p>
+
+<p>3. That the parents of said child, Peter A. Clifford and
+his then wife, Grace E. Williams, were divorced by decree of the
+Superior Court of San Francisco County, California, on the 20th
+day of May, 1908, and that said decree by its terms awarded the
+carem custody and control of said infant to its mother Grace E.
+Clifford, now Grace E. Williams.</p>
+
+<p>4. That said Peter A. Clifford and his then wife, Grace E.
+Clifford, have ever since the issuanceof said decree, and for a
+long time prior thereto, lived separate and apart, during all
+of which time said infant, Alice B. Clifford, has been and now is
+in the care, custody and control of its said mother, Grace E.
+Williams.</p>
+
+<p>5. That said Grace E. Williams and said infant, Alice B.
+Clifford are residents of King County, Washington.</p>
+
+<p>6. That your petitioners are persons of good oral
+characterm industrious habits, and good prospects in life, of the
+ages of 31 years and 32 years respectively, are amply able to 
+provide a suitable home for said child, and are in every respect
+fit and proper persons to be entrusted with the moral ad other
+character of said child, and to make a reasonable provision for
+its future usefulness and happiness in life. </p>
+
+<p>WHEREFORE, your petitioners pray that by order of this court
+said infant, Alice B. Clifford, shall from and after the date of
+such order be deemed to all legal intent are purposes the child
+of your petitioners, Herbert O. Williams and Grace E. Williams,
+and that said child be rendered capable of inheriting the estate
+of your petitioners and each of them, and that the name of said
+child be changed to Alice B. Williams.</p>
+
+<p>Herbert O. Williams
+Grace E. Williams</p>
+
+<p>Sweeney and Steiner,
+Attorneys for petitioners.</p>
+
+<p>State of Washington
+County of King.</p>
+
+<p>Herbert O. Williams and Grace E. Williams being first duly
+sworn on oath say, each for himself, that they are the peti-
+tioners above named, and that they have read the foregoing
+petition, know the contents thereof, and that the same is true.</p>
+
+<p>Herbert O. Williams
+Grace E. Williams</p>
+
+<p>Subscribed and sworn to before me this 18th day of Nov. 1903.
+G. E. Steiner,
+Notary Public in and for the State of Washington,
+residing at Seattle.</p>
+
+<p>Exhibit B</p>
+
+<p>In the Matter of the Adoption of Alice B. Clifford, an infant, by
+Herbert O. Williams and
+Grace E. Williams, his wife,</p>
+
+<p>No.
+Consent to Adoption.</p>
+
+<p>State of Washington
+County of King.</p>
+
+<p>I, Grace E. Willia,s being first duly sworn say: That I am
+the mother of Alice B. Clifford, the infant child mentioned in
+foregoing petition of Herbert O. Williams and Grace E. Williams,
+his wife; that I was divorced from Peter A. Clifford, the father
+of said child, in San Francisco County, California, on or about
+the 20th day of May, 1902, and that the court in granting the
+divorce awarded the care, custody and control of said
+child; that I hereby consent to the adoption of said child, Alice
+B. Clifford, by Herbert O. Williams and Grace E. Williams, the
+foregoing petitioners, and that the name of said child be changed
+to Alice B. Williams.</p>
+
+<p>Grace E. Williams</p>
+
+<p>Subscribed and sworn to before me
+this 12th day of Nov. 1903.
+G. E. Steiner
+Notary Public in and for the State of Washington,
+residing at Seattle.</p>
+
+<p>ORIGINAL.
+No. 1204 Tx</p>
+
+<p>In the United States
+C I R C U I T Court
+FOR THE DISTRICT OF WASHINGTON
+NORTHERN Division</p>
+
+<p>Peter A. Clifford, 
+Petitioner,
+vs.
+Herbert O. Williams and 
+Grace E. Williams, 
+Respondents.</p>
+
+<p>R E P L Y . </p>
+
+<p>FILED IN THE
+U. S. Circuit Court,
+DIST. of WASHINGTON.
+JUN 15 1904
+A. REEVES AYRES Clerk
+HM Matthew
+Deputy
+W. H. White and
+J. J. Burt,
+Attorneys for Petitioner</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0154.007"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0154.007</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">October 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clifford, Peter A.
+Long (Clifford, Williams), Grace E.
+Clifford, Alice B.
+Burt. J.  J.
+White, W. H. 
+DeLang, James
+Hanford, C. H.
+Ayres, A. Reeves
+Matthew, H. M.
+Herice, Deevnay 
+Fuller, Melville W.  
+Hopkins, C. B.
+Stringer, John
+Heade, Matthew H.
+Tallman, Boyd J.
+Humphreys, William P.
+Allison, William B.
+Norris, George E.
+Huxston, R. I.
+Koepfli, C. A.
+Brewster, J. M.
+Moor, A. N. 
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Georgetown, King County, Washington
+San Francisco, San Francisco County, California
+Seattle, King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Clifford, Peter A.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Long (Williams, Clifford), Grace E.
+Williams, Herbert O.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>White, W. H.
+Burt, J. J. 
+Steiner, G. E.
+Sweeney
+French
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Humphreys, William P.</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H.
+Tallman, Boyd J.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0154.001"/> <!-- insert number from spreadhseet -->
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES NINTH JUDICIAL CIRCUIT,
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>Peter A. Clifford,
+Petitioner. 
+vs
+Herbert O. Williams and
+Grace E. Williams,
+Respondents.</p>
+
+<p>No.
+A N S W E R .</p>
+
+<p>Come now the respondents by their attorneys Sweeney and
+Steiner and answering petitioner's petition for habeas corpus allege:</p>
+
+<p>That on or about the 20th. day of January, 1904, petitioner,
+Peter A. Clifford filed in for the Superior Court of the State of Wash-
+ington, for King County in the cause numbered 41727, entitled
+"Peter A. Clifford, petitioner, vs Herbert O. Williams and Grace
+E. Williams, respondents", praying for a writ of habeas corpis
+to bring the body of Alice B. Clifford before said Superior Court
+to abide such order as said Court may direct, a copy of which said 
+petition is hereto attached marked "Exhibit A", and hereby reffered
+to and made a part hereof; that thereupon in response to said petition
+a writ of heabeas corpus was issued returnable before the Honorab;e
+George E. Norris, one of the judges in the above entitled court.
+which said writ is hereto attached and marked "Exhibit B" and is
+hereby referred to and made a part hereof; that respondents there-
+upon appeared in said action and filed their answer or return to
+said petition which said answer or return is hereto attached and
+marked "Exhibit C" and is hereby referred to and made a part hereof;
+that in obedience to said writ, the body of said Alice B. Clifford
+was produced on the 22nd day of Janurary, 1904, before the said Court, where upon the said cause was
+referred to by his Honor, George E. Norris to the Honorable Boyd J.
+Tallman, also one of the judges of the aforesaid Superior Court, and
+continued to January 25, 1904, at which time and place the body of
+said Alice B. Clifford was produced before his Honor, Boyd J. Tallan
+and a full and complete hearing had on said petition. That
+at said hearing, evidence was introduced by the petitioner and re-
+spondents and the cause argued at length by counsel for petitioner
+and respondents, and at the conclusion of said hearing, the Court,
+being fully advised in the premises, made an order sustaining the validity of the decree of adoption; dissolving said
+writ of habeas corpus and demanding said infant, Alice B. Clifford to the care,
+custody and control of respondents, which said order is hereto at-
+tached, marked "Exhibit D" and is hereby referred to and made a
+part hereof; that the parties in said cause number 41727 were
+identical with the parties in this cause; that the subject matter
+in controversy was identical; that the facts at issue in said cause
+number 41727 and in this case are identical and that no new facts
+have since arisen; that the petition in said cause umber 41727 and 
+in this cause are identical with the exception of slight and imma-
+terial variations; that the subject matter at issue in this cause
+has been and the facts involved were fully and finally adjudicated
+in said cause number 41727, by his Honor, Boyd J. Tallman, Judge of
+the Superior Court, State of Washington, for King County, and the
+status of said infant, Alice B. Clifford was thereby fixed and es
+tablished, and the custody of said infant awarded to respondents
+herein.</p>
+
+<p>That by reason of said writ of habeas corpus in number
+41727 and the proceedings had therein. and the full and final ad-
+judication thereof petitioner is estopped from further questioninh
+respondents rigt to the custody of said infant, Alice B. Clifford
+by reason of said former adjudication.</p>
+
+<p>That respondents claim the rightful custody of the said
+infant, Alice B. Clifford by reason of the aforesaid adjudication.</p>
+
+<p>WHEREFORE, respondents pray that the writ of habeas corpus
+issued herein may be dissolved and the said infant, Alice B. Clifford
+be remanded to the custody of respondents.</p>
+
+<p>Further answering the petitioner's petition herein re-
+spondents allege:</p>
+
+<p>That on or about the 12th, day of November, 1903, respondenta
+petitioned the Superior Court of the State of Washington, for King
+County, in cause number 5262, entitled "In the matter of the adoption
+of Alice B. Clifford, an infant, by Herbert O. Williams and Grace
+E. Williams, his wife, "for permission to adopt said child, Alice B.
+Clifford as their own. That thereafter, such proceedings were had
+that a decree of adoption was entered by said Supreme Court adjudging
+thatfrom and after said date, said infant, Alice B. Clifford should
+to all legal intents and purposes, be the child of petitioners
+respondents herein the same as if she had been born to them in
+lawful wedlock, and that the name of said child be changed to Alice
+B. Williams, a copy of which decree is hereto attached and marked
+"Exhibit E", which decree is hereby referred to and made a 
+part hereof, and by virtue of which respondents have the custody 
+of said infant now known as Alice B. Williams, and claim to be her
+rightful custodians.</p>
+
+<p>Respondents further allege that petitioner did on or about
+the 5th, day of June, 1904, file a petition in said cause number 5262,
+praying that the decree of adoption therein made and entered be
+set aside and held for naught, which said petition is now pending in 
+said Superior Court.</p>
+
+<p>Further answering the petitioner's petition herein re-
+spondents hereby refer to and make a part hereof their said answer
+in said cause number 41727, attached hereto and marked "Exhibit C",
+as fully and completely as if said answer was here repeated.</p>
+
+<p>Wherefore, having fully answered petitioner's petition,
+respondents pray that the writ of habeas corpus heretofore issued
+herein be dissolved and said infant, be remanded to the custody of
+respondents and that said respondents be awarded their coats here-
+in.</p>
+
+<p>Sweeney Steiner
+Attorneys for respondents</p>
+
+<p>United States of America, )
+District of Washington, ) SS.
+Northern Division. )</p>
+
+<p>Herbert O. Williams and Grace E. Williams being first duly
+sworn on oath, depose and say: that they are the respondents in the
+above entitled cause; that they have read the foregoing answer, know
+the contents thereof and the same is true. </p>
+
+<p>Herbert O. Williams
+Grace E. Williams
+Subscribed and sworn to before me this 10 day of June, 1904.
+G. E. Steiner
+Resides in Seattle, WA the Notary Public, residing Seattle Wash</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
