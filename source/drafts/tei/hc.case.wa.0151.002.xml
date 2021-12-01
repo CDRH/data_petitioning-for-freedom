@@ -96,33 +96,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Ferdinand Marino</persName>
+<persName>Marino, Carolina Beluscia</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McCalla, D. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Preston</persName>
+<persName>Carr</persName>
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName/>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The Circuit Court of the United States for the District of Washington, Northern Divison</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
