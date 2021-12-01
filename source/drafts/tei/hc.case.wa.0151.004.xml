@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Ferdinand Marino and Carolina B. Marino v. D. H. McCalla.Return of Respondent</title>
-<date when="1000">1000</date>
+<date when="1903-01-05">January 5, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,15 +79,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1903-01">January 1903</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Hopkns, R. M.</term>
+<term>Marino, Joseph</term>
+<term>Mayo, H. T.</term>
+<term>Bostwick, F. M.</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
+<term>Bremerton, Washington</term>
+<term>Puget Sound Navy Yard, Bremerton, Washington</term>
+<term>Washington, D. C.</term>
 </keywords>
 
 </textClass>
@@ -95,33 +102,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Ferdinand Marino</persName>
+<persName>Marino, Carolina Beluscia</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>McCalla, D. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Preston</persName>
+<persName>Carr</persName>
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName/>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The Circuit Court of the United States for the District of Washington, Northern Divison</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
