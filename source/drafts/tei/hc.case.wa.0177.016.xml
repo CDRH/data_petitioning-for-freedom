@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tonka Bajlo vs. United States. Criminal.</title>
+<title>Tonka Bajlo vs. United States. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Tonka Bajlo vs. United States. Criminal.</title>
-<date when="1000">1913</date>
+<title level="m" type="main">Tonka Bajlo vs. United States.  Order</title>
+<date when="1913">1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">May 1913</date></term>
+<term><date when="1913-05">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bajlo, Tonka</term>
-<term>Bryan, Fenley</term>
 <term>Crosby, Frank L.</term>    
-<term>Cushman, Edward E.</term>
-<term>Ennis, Charles H.</term>
 <term>Laden, E. M.</term>    
 </keywords>
 
@@ -99,27 +95,29 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Tonka Bajlo</persName>
+<persName>Bajlo, Tonka</persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Charles H. Ennis</persName>
-<persName>Fenley Bryan</persName>    
+<persName>Ennis, Charles H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bryan, Fenley</persName>    
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-    <orgName>United States District Court, Western District of Washington, Northern Division</orgName>
-    <placeName>King County, Washington</placeName>
+<orgName>United States District Court, Western District of Washington, Northern Division</orgName>
+<placeName>King County, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -170,8 +168,12 @@
     
     <ab>Chas H Ennis &amp; Fenley Bryan
         Attorneys for Petitioner.</ab>
+
 <pb/>
-    
+  
+<note>2x</note>
+<note>GOB-4-140</note>
+  
 <p>No. 2459</p>    
 
 <p>IN THE DISTRICT COURT 

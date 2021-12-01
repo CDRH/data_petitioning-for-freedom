@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0177.014.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0177.014">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Tonka Bajlo vs. United States. Criminal.</title>
+<title>Tonka Bajlo vs. United States. Brief of Government</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Tonka Bajlo vs. United States. Criminal.</title>
-<date when="1000">1913</date>
+<title level="m" type="main">Tonka Bajlo vs. United States.  Brief of Government</title>
+<date when="1913">1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,17 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">May 1913</date></term>
+<term><date when="1913-05">May 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bajlo, Tonka</term>
 <term>Bilin, Paska</term>
-<term>Brockway, E. B.</term>
 <term>Crosby, Frank L.</term>    
 <term>Miler, Joe</term>
-<term>Riddell, C. F.</term>
 <term>Skorich, Ivan</term>
+<term>Miler, Mari</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,7 +101,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Tonka Bajlo</persName>
+<persName>Bajlo, Tonka</persName>
 </person>
 <person role="defendant">
 <persName>United States</persName>
@@ -112,8 +110,10 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>C. F. Riddell</persName>
-<persName>E. B. Brockway</persName>
+<persName>Riddell, C. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Brockway, E. B.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -158,14 +158,14 @@ Habeas Corpus.</p>
 
 <p>If the Court has not already, either in connection 
 with this case, or the accompanying habeas corpus case of
-Marie Miller, examined the following statutes and cases, we
+Marie Miler, examined the following statutes and cases, we
 respectfully ask that he glance through them, where he will
 find the legal principles governing this case more clearly
 stated than I could hope to do.</p>
 
 <p>Act of February 20, 1907, as amended by Act of March 26,
 1910, Sections 20, 21 and 22;
-DeBruller v. Gallo, 184 Fed. 566, adn cases there cited;
+DeBruller v. Gallo, 184 Fed. 566, and cases there cited;
 United States v. Ju Toy, 198 U. S. 253, 49 L.Ed. 1040;
 Chin You v. United States, 208 U. S. 8, 52 L.Ed. 369;
 Bottlier v. Donseuguey, 130 U. S. 238;
@@ -175,13 +175,15 @@ Zakonaite v. Wolf, 226 U. S. Sup. Ct. Rep., 272.</p>
 down presents the following questions for determination by
 the court:</p>
 
-<p>I.
-Was there anything "unfair", arbitrary or despotic in
+<p>I.</p>
+<p>Was there anything "unfair", arbitrary or despotic in
 the executive proceedings under which the alien has been
 ordered deported? The only matters in which it is claimed
 that there was any unfairness are the following:</p>
 <p>(a) The warrant of arrest gave prostitution as the ground
+
 <pb/>
+
 for deportation, while the findings of the officer
 gave in addition the commission prior to immigration
 of an offense involving moral turpitude, and liability
@@ -198,14 +200,14 @@ his observation of the condition of her room.</p>
 <p>(c) Errors in translation of the evidence embodied in the 
 return on which the Commissioner of Labor acted.</p>
 
-<p>II.
-Was there any evidence on which the findings of the 
+<p>II.</p>
+<p>Was there any evidence on which the findings of the 
 Commissioner could be based, or were they clearly without 
 foundation, arbitrary and despotic?</p>
-<p>The vie of petitioner's whole brief is an assumption
+<p>The vice of petitioner's whole brief is an assumption
 that the proceedings are a trial on a criminal charge or
 analagous thereto, and that similar rules will prevail.
-The requirement of the law is merely this - that the
+The requirement of the law is merely this — that the
 Commissioner shall be "satisfied" that the alien is subject 
 to deportation. No manner in which he shall so satisfy 
 himself is laid down. If, as in this case, by his decision 
@@ -214,10 +216,11 @@ unless it clearly appears that his alleged "satisfaction"
 is an unfair, arbitrary and despotic thing, arrived at without
 giving the alien any fair opportunity to show the facts.</p>
 <p>See statutes and cases cited at beginning of brief.</p>
-<pb/>
 <fw>-2-</fw>
-<p>I. (a)
-Applying these principles to the alleged unfair procedure
+<pb/>
+
+<p>I. (a)</p>
+<p>Applying these principles to the alleged unfair procedure
 in failing to include in the warrant the commission of
 crime before entry and liability to become a public charge
 at that time, we see at once that unless it appears that the
@@ -244,13 +247,14 @@ sufficient in itself to justify deportation, and the very
 ground stated in the original warrant (page 5 of Record
 included in return). Therefore, even though the Secretary 
 had no authority to consider anything else, yet the fact
-that he did so, would be immaterial, since his actin
+that he did so, would be immaterial, since his action
 within the limits of his admitted authority justifies the
 holding of the alien and her deportation.</p>
-<pb/>
 <fw>-3-</fw>
-<p>I. (b)
-Was it proper for the inspector to include as a part
+<pb/>
+
+<p>I. (b)</p>
+<p>Was it proper for the inspector to include as a part
 of his return to the Secretary of Labor, his personal
 observation and conversation with the alien? Most certainly
 it was. He would have been derelict in his duty had he 
@@ -269,8 +273,8 @@ were not in a court of law, and where the alien has been
 given a change to show her version of the facts it is
 obviously not improper or unfair for the inspector to include
 his own personal observations in the report.</p>
-<p>I. (c).
-Is the report submitted to the Secretary unfair and
+<p>I. (c).</p>
+<p>Is the report submitted to the Secretary unfair and
 distorted in that a material part of the statements were
 omitted or distorted by the interpreter? It may be admitted
 that since the decision of the Secretary is the 
@@ -279,8 +283,9 @@ in the report, by which the Secretary is misled
 as to material matter, is a very serious charge, not only 
 as to the fairness of the hearing, but also against the
 local officers personally, and a charge not to be inferred
-<pb/>
 <fw>-4-</fw>
+<pb/>
+
 unless its truth is firmly established. These matters are:</p>
 <p>(1) That Tonka is reported as saying that she worked for
 $2.00 per month, while by her affidavit she says that
@@ -297,7 +302,7 @@ or $10.00 per month in addition to her board is entirely
 immaterial in determining whether she was a prostitute
 or liable at time of entry to become a public charge.
 It would not even be evidence on which to grant a new
-trial in criminal action - much less will its 
+trial in criminal action — much less will its 
 accidental misinterpretation (if indeed it was misinterpreted)
 justify habeas corpus in this proceeding.</p>
 <p>(2) The alien now says that she did not have an illegitimate
@@ -312,8 +317,9 @@ he says (p. 18) that Tonka's only illegitimate child
 the exact number of illegitimate children which 
 she has borne, and particularly whether she had one
 over twelve years ago is entirely immaterial, and could
-<pb/>
 <fw>-5-</fw>
+<pb/>
+
 not have influenced the Secretary in his decision.</p>
 <p>(3) That she did not state at the hearing that she wanted
 to go back to Austria to her children. This also is
@@ -343,8 +349,9 @@ where the witness when on the stand did not fully
 express himself and afterwards thinks that he said
 everything that he then had in his mind. At any rate
 the full interpretation of his testimony (p. 20 of the
-<pb/>
 <fw>-6-</fw>
+<pb/>
+
 (record) does not leave room for any misconception as
 to the meaning of the phrases objected to in the 
 affidavit. He now objects to being reported as saying
@@ -359,8 +366,8 @@ that the witness did not know of any improper relations
 between her and the borders. His testimony in the
 report, taken as a whole, is the same as his affidavit
 as to what he actually meant to testify.</p>
-<p>II.
-Was there any evidence to justify the finding on the
+<p>II.</p>
+<p>Was there any evidence to justify the finding on the
 Secretary that the alien was:</p>
 <p>A. One found practicing prostitution after entry:</p>
 <p>B. One likely to become a public charge at the time
@@ -368,16 +375,18 @@ of entry.</p>
 <p>On the first point is the evidence and record showed or
 tended to show that prior to her entry and after her
 marriage and while her husband was living in America she 
-had an illegitimate child; that after reaching America. she
+had an illegitimate child; that after reaching America, she
 went out with another man under such circumstances as to 
 provoke an assault from her husband; that within a year
 after landing she deserted her husband in Pittsburg to
 follow another "gentleman friend" to Seattle; that for the
 past year she has been living in Seattle in the same house
-<pb/>
 <fw>-7-</fw>
+<pb/>
+
+
 with him and other men under circumstances and with sleeping
-accomodations difficult to reconcile with any feelins of
+accomodations difficult to reconcile with any feelings of
 modesty; that she has received a love letter addressed to 
 her as "wife" from another one of the boarders; that she
 is now, and for years has been suffering from a disease,
@@ -388,7 +397,7 @@ wished to do so. In addition to this the report shows that
 she expressly stated to the inspector that she was living 
 with a certain man as his wife and that she had been
 intimate with numerous other men and that from all the
-surroundings in her room, etc.., he had no doubt but that
+surroundings in her room, etc., he had no doubt but that
 she was a prostitute. There was also a good deal of 
 hearsay evidence about several other men having told the
 husband that she was a prostitute. While this last would 
@@ -398,7 +407,7 @@ it we may credit the newspaper accounts of foreign trials
 it would have been entirely proper in a criminal trial under
 the Code Napoleon. It was not unfair or arbitrary to consider
 it and give it such weight as it may be entitled to.</p>
-<p>W do not care and do not need to argue that all these
+<p>We do not care and do not need to argue that all these
 matters tend strongly to show that the alien is a prostitute. 
 Their weight is in no manner for this court. There being
 evidence on which to base the finding it can not be considered
@@ -406,8 +415,9 @@ as purely arbitrary and must stand.</p>
 <p>On the second point as to the probability of the alien
 becoming a public charge at time of entry, we find the
 following additional facts. She had for years been suffering 
-<pb/>
 <fw>-8-</fw>
+<pb/>
+
 from a venereal disease; her husband and his relatives
 had abused and mistreated her and her minor children;
 nevertheless they left them in Europe, presumably because
@@ -438,8 +448,9 @@ entirely misread both history and law.</p>
 <p>Nor do we consider the affidavits submitted for the 
 first time with the brief tending to show the husband's 
 cruelty, or how promiscous living of men and women under the
-<pb/>
 <fw>-9-</fw>
+<pb/>
+
 same roof may be regarded by foreigners. These matters in
 no manner effect fairness of the hearing before the
 Department, or the fairness of the ruling of the Secretary, 
@@ -447,11 +458,15 @@ and therefore are not properly before this court for consideration.
 We will only say that if they are true we hope 
 that the husband also may be deported.</p>
 <p>Respectfully submitted,</p>
-<ab>C. F. Riddell
+<ab>C. F. Riddell<lb/>
 United States Attorney.</ab>
-<ab>E B Brockway
+<ab>E B Brockway<lb/>
 Assistant United States Attorney.</ab>
+
 <pb/>
+
+<note>2x</note>
+
 <p>No. 2459</p>
     
 <p>IN THE DISTRICT COURT
