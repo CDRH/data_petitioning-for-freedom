@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0150.012">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0183.009.xml">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Hawkins v. The United States of America. Certificate</title>
+<title>Gwoo Shee Ah Look v. United States. Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-<name n="Silva, Salma J" xml:id="sjs">Salma Silva</name>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0150.012</idno>
+<idno type="project">hc.case.wa.0180.009</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">George Hawkins v. The United States of America. Certificate</title>
-<date/>
+<title level="m" type="main">Gwoo Shee Ah Look v. United States. Writ.</title>
+<date when="1914-07-10">July 7, 1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2647GwooSheeAhLook</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date/></term>
+<term><date when="1914-07">July 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Drake, James C.</term>
+<term>White, H. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>Portland, Oregon</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -95,40 +95,45 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Hawkins, George</persName>
+<persName>Look, Gwoo Shee Ah</persName>
 </person>
 <person role="defendant">
-<persName>The United States of America</persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Fenton, James E.</persName>
-<persName>Grigsby, Melvin</persName>
-<persName>Allen, John B.</persName>
+<persName>Frye, Jesse A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wilbur</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Spencer</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Clark, A. L.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Wood, Joseph K.</persName>
-<persName>McGinn, John L.</persName>
+<persName>Fishburne, George P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay K.</persName>
 </person>
 <person role="judge">
-<persName>Hanford, C. H.</persName>
-<persName>Moyes, Arthur H.</persName>
-<persName>Morro, William W.</persName>
-<persName>Fuller, Melville W.</persName>
-<persName>Moore, Alfred S.</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>The United States Circuit Court for the District of Washington</orgName>
-<placeName>District of Washington, Northern Division</placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#sjs">transcribed and encoded</change>
+<change when="2021-11" who="#GET">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,28 +147,32 @@
 <div1 type="case">
 
 <pb/>
-<ab>CERTIFICATE</ab>
-
-<ab>United States of America
-Western District of Washington</ab>
-
-<ab>ss.</ab>
-
-<p>I, JAMES C. DRAKE, Clerk of the Circuit Court of the United States, for the Western
-District of Washington, do hereby certify that the foregoing attached papers constitute the
-JUDGMENT ROLL in the foregoing entitled cause, NO. 1047
-wherein In Re: Application George Hawkins
-Habeas Corpus</p>
-
-<p>In Testimony Whereof, I have hereunto set my hand and
-affixed the Seal of said Circuit Court, this the
-<gap></gap>day of <gap></gap>A. D. 191...</p>
-
-<ab>JAMES C. DRAKE, 
-Clerk.</ab>
-
-<ab>By 
-Deputy Clerk.</ab>
+<p>2647</p>
+<p>In the District Court of the United States
+for the Western District of Washington
+Northern Division.</p>
+<p>In the Matter of the Application for a Writ
+of Habeas Corpus for Gwoo Shee Ah Look.</p>
+<p>Order.</p>
+<p>Upon the filing and reading of the petiton in the
+above-entitled matter for a writ of habeas corpus for Gwoo Shee
+Ah Look,</p>
+<p>It is Hereby Ordered that H.M. White, or
+whomsoever may have or unlawfully restrain her of her liberty,
+appear before me, Jeremiah Neterer, Judge of the
+United States District Court for the Western District of Washington
+Northern Division, on the 17th day of January 1914, <add>at 1 ock am</add> and
+show cause why a writ of habeas corpus should not issue, and that
+pending said hearing that said person, whomsoever he may be,
+who unlawfully restrains the said Gwoo Shee Ah Look of her
+liberty retain and keep the said Gwoo Shee Ah Look in his 
+custody.</p>
+<ab>Jeremiah Neterer
+Judge.</ab>
+<p>Dated January 12 1914.</p>
+<figure><ab>Wilbur &amp; Spencer
+Attorneys-At-Law
+Portland Oregon</ab></figure>
 
 </div1>
     
