@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0183.012.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gwoo Shee Ah Look v. United States. Affidavit of J.H. Barbour.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0183.012</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gwoo Shee Ah Look vs. United States. Affidavit of J.H. Barbour.</title>
+<date when="1914-04-29">April 29, 1914</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2647GwooSheeAhLook</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1914-01">January 1914</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
+<term>Clark, A. L.</term>
+<term>Barbour, J. H.</term>
+<term>Leitch, A. E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Look, Gwoo Shee Ah</persName>
+</person>
+<person role="defendant">
+<persName>United States of America</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Frye, Jesse A.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wilbur</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Spencer</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Clark, A. L.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, George P.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>United States District Court
+Western District of Washington
+Northern Division.</p>
+<p>In the Matter of the
+Application for a Writ
+of Habeas Corpus for Gwoo
+Shee Ah Look. } No. 2647
+Affidavit of J. H. Barbour.</p>
+<p>The United States of America
+Western District of Washington } ss.</p>
+<p>J.H. Barbour being first duly sworn on oath, desposes
+and says: That in answer to the affidavit of A. L. Clark,
+he admits the first paragraph on page one thereof, and
+denied the second paragraph, commencing on page one.</p>
+<p>That he admits the second paragraph on page two, except
+that portion commencing with the words "and had requested
+the right, etc." at the bottom of page two; and
+states the facts to be that affiant never entered up the
+names of the attorneys as representing Gwoo Shee Ah Look,
+and stated to said attorneys that they could not be present
+until affiant had secured certain evidence in the case, and
+that the attorneys never requested of affiant that they
+might be present at the hearing and that according to the
+rules and regulations, affiant is not required to ahve attorneys
+present until such time as he may deem proper.</p>
+<ab>JH Barbour</ab>
+<p>Subscribed and sworn to before me
+this 29th day of April, 1914</p>
+<ab>Ed M Lakin
+Deputy Clerk, U.S. Dist. Court, Western Dist. of Washington</ab>
+<figure><ab>Seal of the United States District Court
+Western District of Washington</ab></figure>
+<pb/>
+<p>2 NO. 2647</p>
+<p>In the District Court
+of the United States
+for the
+Western District of Washington</p>
+<p>In the Matter of the Application 
+for a Writ of Habeas
+Corpus for Gwoo Shee Ah
+Look.</p>
+<p>Return to amended petition
+and 
+affidavit of J.H. Barbour.</p>
+<p>Filed in the
+U.S. District Court,
+Western Dist. of Washington.
+APR 29 1914
+Frank L. Crosby, Clerk.
+By A. E. Leitch, Deputy.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
