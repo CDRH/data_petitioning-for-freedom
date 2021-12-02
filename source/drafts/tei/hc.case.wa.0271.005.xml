@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Joseph Walton v. L. C. Smith. Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Czapla, Ethan P" xml:id="epc">Ethan Czapla</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0271.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Joseph Walton v. L. C. Smith. Writ of Habeas Corpus</title>
+<date when="1906-01-10">January 10, 1906</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuits Courts, Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
+<idno>1376JosephWalton</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1906-01">January 1906</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Fuller, Melville W.</term>
+<term>Moore, A. N</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,33 +97,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Walton, Joseph</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Smith, L. C.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Cutte and Dorety</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Mackintosh, Kenneth</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States Circuit Court</orgName>
+<placeName>Ninth Judicial Circuit. Western District of Washington, Northern Division.</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2021-12" who="#epc">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
