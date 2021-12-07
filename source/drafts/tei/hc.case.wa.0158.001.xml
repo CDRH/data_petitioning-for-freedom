@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0174.002.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0158.001">
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -78,16 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">June 1912</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Baker, Rose</term>
-<term>Snook, Herbert E.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>United States District Court, Washington Northern Division</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -95,19 +94,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Rose Baker</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Herbert E. Snook</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>C. H. Hanford</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -121,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-11" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,59 +134,67 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
-OF WASHINGTON NORTHERN DIVISION.</p>
-<p>In re Petition of Rose Baker 
-for a Writ of Habeas Corpus.</p>
-<p>No. 2185
-Affidavit in Forma Pauperis.</p>
 
-<p>State of Washington.
-SS.
-County of King.</p>
-<p>Rose Baker being first duly sworn on 
-oath says: That she is the petitioner above named; that she
-has no money nor property of any kind and cannot furnish the
-fees for filing her petition in said cause nor pay for the service
-of process. That she is a citizen of the United States and of 
-the state of Washington.</p>
-<p>WHEREFORE your petitioner respectfully prays that an order
-be made directing the clerk to file said petition, and directing
-the United States Marshal to serve the Writ of Habeas Corpus
-without fees being first paid.</p>
-<ab>Rose Baker.</ab>
-<p>Subscribed and sworn to before me this 6th day of June, A.D.1912.</p>
-<ab>Herbert E. Snook
-Notary Public in and for the State of 
-Washington residing at Seattle.</ab>
-<p>Let the petition befiled and the Writ be served without fee as 
-above prayed for, returnable before me June <gap/> at <gap/>
-o'clock in the <gap/> noon.
-Here this 6th day of June, A.D.1912.</p>
-<ab>United States District Judge.</ab>
+<p>Original</p>
+
+<p>No. 1227</p>
+
+<p>Circuit Court of the United States,
+       Ninth Judicial Circuit
+       District of Washington, Northern Division</p>
+
+<p>In the Matter of Ham Hung Wah on Habeas Corpus</p>
+
+<p>Writ of Habeas Corpus and Return Thereto</p>
+
+<p>Filed on Return, this 10th day of October 1904.
+       A. Reeves Ayres, Clerk.
+       By P. M. Hopkings, Deputy Clerk.</p>
+
 <pb/>
-<p>No 2185</p>
-<p>IN THE DISTRICT COURT 
-OF THE UNITED STATES 
-FOR THE 
-Western District of Washington
-NOWTHERN DIVISION</p>
-<p>In re Petition of Rose Baker 
-for a Writ of Habeas Corpus.</p>
 
-<p>Affidavit in Forma Pauperis.</p>
+<p>United States of America</p>
 
-<p>FILED IN THE 
-U. S.  District Court,
-Western Dist. of Washington.
-JUN 6f 1912</p>
-<ab>A W Engle Clerk
-By <unclear/> Deputy.</ab>
-<p>HERBERT E. SNOOK
-Attorney for Petitioner.
-537-539 Burke Bldg.
-Seattle, King County, Washington</p>
-<p>Menning Publishing and Label Co. </p>
+<p>In the Circuit Court of the United States</p>
+
+<p>Ninth Judicial Circuit -- District of Washington</p>
+
+<p>Northern Division</p>
+
+<p>In the Matter of Ham Hung Wah on Habeas Corpus</p>
+
+<p>The President of the United States of America</p>
+
+<p>To Thos. M. Fisher, Chinese Instructor in Charge, Port Townsend, Wash.</p>
+
+<p>Greeting:</p>
+
+<p>You are Hereby Commanded, That you have the body of Ham Hung Wah by you
+imprisoned and detained, as it is said, together with the time and cause of such imprisonment
+and detention, by whatsoever name he shall be called or charged, before the Honorable the
+Circuit Court of the United States, for the Ninth Judicial Circuit, District of Washington, at the
+Court-room of said Court, in the City of Seattle on the 25th day of Octboer 1904 at 9 o'clock
+P. M., to do and receive what shall then be considered in the premises. And have you then and
+there this Writ.</p>
+
+<p>Witness, the Honorable Melville W. Fuller, Cheif Justice of the Supreme Court of the United
+States, and the seal of said Circuit Court, this 8th day of October in the year of our Lord one thousand
+nine hundred and five, and of our Independence the 129th.</p>
+
+<p>A. Reeves Ayres, Clerk</p>
+
+<p>By P. M. Hopkins, Deputy Clerk.</p>
+
+<pb/>
+
+<p>In obedience to the within Writ, I hereby certify that I served this writ on Thos. M. Fisher at Seattle
+on Oct 11. 1904.</p>
+
+<p>Oct 11, 1904.
+       C. B. Hopkins, U.S. Marshal
+       By John Stringer, Deputy</p>
+
+<p>Marshall Fee. Service Mileage. 200.12. 212.</p>
 </div1>
     
 </body>
