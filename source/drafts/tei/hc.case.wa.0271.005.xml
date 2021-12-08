@@ -6,12 +6,20 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
+<<<<<<< Updated upstream
 <title>Joseph Walton v. L. C. Smith. Writ of Habeas Corpus.</title>
+=======
+<title>Joseph Walton v. L. C. Smith. Writ of Habeas Corpus</title>
+>>>>>>> Stashed changes
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<<<<<<< Updated upstream
 <name n="Czapla, Ethan P" xml:id="epc">Ethan Czapla</name>
+=======
+<name n="Czapla, Ethan P" xml:id="epc">ethan Czapla</name>
+>>>>>>> Stashed changes
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -47,7 +55,11 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Joseph Walton v. L. C. Smith. Writ of Habeas Corpus</title>
+<<<<<<< Updated upstream
 <date when="1906-01-10">January 10, 1906</date>
+=======
+<date when="1906-01-11">January 11, 1906</date>
+>>>>>>> Stashed changes
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,8 +95,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<<<<<<< Updated upstream
 <term>Fuller, Melville W.</term>
 <term>Moore, A. N</term>
+=======
+<term>Moore, A. N</term>
+<term>Fuller, Melville W.</term>
+>>>>>>> Stashed changes
 <term>Ayres, A. Reeves</term>
 </keywords>
 
@@ -112,6 +129,7 @@
 <persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
+        
             
 <listOrg>
 <org>
@@ -123,7 +141,11 @@
 </profileDesc>
         
 <revisionDesc>         
+<<<<<<< Updated upstream
 <change when="2021-12" who="#epc">transcribed and encoded</change>
+=======
+<change when="2021-11" who="#epc">transcribed and encoded</change>
+>>>>>>> Stashed changes
 </revisionDesc>
 
 </teiHeader>
