@@ -1,0 +1,18 @@
+airtable-export==0.7.1
+anyio==3.5.0
+certifi==2021.10.8
+charset-normalizer==2.0.10
+click==8.0.3
+click-default-group==1.2.2
+h11==0.12.0
+httpcore==0.14.4
+httpx==0.21.3
+idna==3.3
+python-dateutil==2.8.2
+PyYAML==6.0
+rfc3986==1.5.0
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
+sniffio==1.2.0
+sqlite-fts4==1.0.1
+sqlite-utils==3.22
+tabulate==0.8.9
