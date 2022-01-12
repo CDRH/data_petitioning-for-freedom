@@ -8,7 +8,10 @@ h11==0.12.0
 httpcore==0.14.4
 httpx==0.21.3
 idna==3.3
+numpy==1.22.0
+pandas==1.3.5
 python-dateutil==2.8.2
+pytz==2021.3
 PyYAML==6.0
 rfc3986==1.5.0
 six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
