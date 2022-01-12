@@ -1,0 +1,789 @@
+[
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:44.000Z",
+        "Name": "\"Mitchel, Henry G. (Martin Mitchell)\" is kidnapper of \", Matilda\"",
+        "airtable_createdTime": "2021-12-20T14:52:25.000Z",
+        "airtable_id": "rec09iQ1uUZUUsXFB",
+        "person 1": [
+            "recViyt9S561DIbDc"
+        ],
+        "person 2": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:47.000Z",
+        "Name": "\"Foreman, Stephen W.\" is attorney for \"Mitchel, Henry G. (Martin Mitchell)\"",
+        "airtable_createdTime": "2021-12-20T14:55:41.000Z",
+        "airtable_id": "rec3ZRmiUibpteNsE",
+        "person 1": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "person 2": [
+            "recViyt9S561DIbDc"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:17:33.000Z",
+        "Name": "\"Strother, George French\" is attorney against \"Russel, Henry C.\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "rec5pumBs8xDQeBZs",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "relationship type": "attorney against"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:46.000Z",
+        "Name": "\"Strother, George French\" is attorney against \"Russel, Henry C.\"",
+        "airtable_createdTime": "2021-12-20T14:55:09.000Z",
+        "airtable_id": "rec5tEbaLxtadjmxf",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "relationship type": "attorney against"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:18:15.000Z",
+        "Name": "\", Michael\" is jailed by \"Hammand, George\"",
+        "airtable_createdTime": "2021-12-20T16:16:41.000Z",
+        "airtable_id": "rec7RJ8l6QSvnM2LQ",
+        "person 1": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "person 2": [
+            "rech5xErWdU8q7IPN"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:18:18.000Z",
+        "Name": "\"Russel, Henry C.\" is kidnapper of \", Michael\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recAFyUnLTTVRv97o",
+        "person 1": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "person 2": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "recEXhewEp2ZW4aSR"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Lee, Lillian\" is bound to \"Fuller, Mary\"",
+        "airtable_createdTime": "2021-12-15T22:38:53.000Z",
+        "airtable_id": "recC3jearhKsdKZYk",
+        "person 1": [
+            "recjvODQ2tUDTY3i8"
+        ],
+        "person 2": [
+            "recLfZZ0gKz7EzA8s"
+        ],
+        "relationship type": "bound to"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:45.000Z",
+        "Name": "\"Strother, George French\" is opposing attorney to \"Foreman, Stephen W.\"",
+        "airtable_createdTime": "2021-12-20T14:53:42.000Z",
+        "airtable_id": "recEVPuXmPM3lKEuY",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "relationship type": "opposing attorney to"
+    },
+    {
+        "Cases": [
+            "reclmHlm6PdwRhxnM"
+        ],
+        "Last Modified": "2021-12-16T21:51:07.000Z",
+        "Name": "\", Julia (Mary Ann)\" is enslaved by \"Duncan, Robert\"",
+        "airtable_createdTime": "2021-12-16T21:50:55.000Z",
+        "airtable_id": "recFgjJuQchM0DrA6",
+        "person 1": [
+            "rec0WaPXZCmyksROD"
+        ],
+        "person 2": [
+            "reclHxpUOulH7n3CZ"
+        ],
+        "relationship type": "enslaved by"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:44.000Z",
+        "Name": "\"Russel, Henry C.\" is kidnapper of \", Matilda\"",
+        "airtable_createdTime": "2021-12-20T14:52:59.000Z",
+        "airtable_id": "recGNDtM8MOVv12At",
+        "person 1": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "person 2": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "reclmHlm6PdwRhxnM"
+        ],
+        "Encoding Notes": "This relationship presumes that Julia was born free.",
+        "Last Modified": "2021-12-16T22:00:08.000Z",
+        "Name": "\"Sutton, John L.\" is kidnapper of \", Julia (Mary Ann)\"",
+        "airtable_createdTime": "2021-12-16T21:59:11.000Z",
+        "airtable_id": "recNIjPM2rX6KISq9",
+        "person 1": [
+            "reciKWXl0fled1pt3"
+        ],
+        "person 2": [
+            "rec0WaPXZCmyksROD"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:45.000Z",
+        "Name": "\"Strother, George French\" is attorney for \", Matilda\"",
+        "airtable_createdTime": "2021-12-20T14:53:17.000Z",
+        "airtable_id": "recNkEzcYT7XFJ2KR",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "rec9h4BanfV3ZLlC3"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Sigman, William\" is biological parent of \"Sigman, Grace\"",
+        "airtable_createdTime": "2021-12-09T23:48:51.000Z",
+        "airtable_id": "recOtiDOQefbddjOd",
+        "person 1": [
+            "recSQGdiMKoPhsUKh"
+        ],
+        "person 2": [
+            "rec8wtgDIO8Jg7qdN"
+        ],
+        "relationship type": "biological parent of"
+    },
+    {
+        "Cases": [
+            "recF0yW0JFHH2u4Ki"
+        ],
+        "Last Modified": "2021-12-15T22:59:31.000Z",
+        "Name": "\"Coonley, John J.\" is attorney for \"Bird, Elizabeth (Lizzie Bird)\"",
+        "airtable_createdTime": "2021-12-15T22:59:11.000Z",
+        "airtable_id": "recP6X0XibVYvayGG",
+        "person 1": [
+            "recVL952oRAq4VFd0"
+        ],
+        "person 2": [
+            "recF1AvNjTgRu8uyN"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "reclmHlm6PdwRhxnM"
+        ],
+        "Last Modified": "2021-12-16T21:49:41.000Z",
+        "Name": "\"Duncan, Robert\" is cohabitating with \"Adams, Sally\"",
+        "airtable_createdTime": "2021-12-16T21:45:30.000Z",
+        "airtable_id": "recRoHnEaL7rSpXuu",
+        "person 1": [
+            "reclHxpUOulH7n3CZ"
+        ],
+        "person 2": [
+            "recjvXwuWGZclWzZ4"
+        ],
+        "relationship type": "cohabitating with"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:18:17.000Z",
+        "Name": "\"Mitchel, Henry G. (Martin Mitchell)\" is kidnapper of \", Michael\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recUdevhD8oftJ0Jx",
+        "person 1": [
+            "recViyt9S561DIbDc"
+        ],
+        "person 2": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "reck7O06W54XzfglB"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Mitchel, Henry G. (Martin Mitchell)\" is kidnapper of \", Anson\"",
+        "airtable_createdTime": "2021-12-02T21:47:08.000Z",
+        "airtable_id": "recWEE6hdcyGPgsKB",
+        "person 1": [
+            "recViyt9S561DIbDc"
+        ],
+        "person 2": [
+            "recgvLRxehdigTVE9"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "reclmHlm6PdwRhxnM"
+        ],
+        "Last Modified": "2021-12-16T21:51:50.000Z",
+        "Name": "\", Julia (Mary Ann)\" is enslaved by \"Adams, Sally\"",
+        "airtable_createdTime": "2021-12-16T21:51:44.000Z",
+        "airtable_id": "recWHIjRvs3BB8fk4",
+        "person 1": [
+            "rec0WaPXZCmyksROD"
+        ],
+        "person 2": [
+            "recjvXwuWGZclWzZ4"
+        ],
+        "relationship type": "enslaved by"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:47.000Z",
+        "Name": "\"Foreman, Stephen W.\" is attorney for \"Russel, Henry C.\"",
+        "airtable_createdTime": "2021-12-20T14:55:25.000Z",
+        "airtable_id": "recWjoLpDM6af1PUp",
+        "person 1": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "person 2": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "recEXhewEp2ZW4aSR"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Wilcox, Nellie F.\" is next friend of \"Lee, Lillian\"",
+        "airtable_createdTime": "2021-12-02T18:10:52.000Z",
+        "airtable_id": "recWmQMjM5D1LgkQC",
+        "person 1": [
+            "recutUDOAC5gFjsqi"
+        ],
+        "person 2": [
+            "recjvODQ2tUDTY3i8"
+        ],
+        "relationship type": "next friend of"
+    },
+    {
+        "Cases": [
+            "recF0yW0JFHH2u4Ki"
+        ],
+        "Last Modified": "2021-12-15T22:59:55.000Z",
+        "Name": "\"Enos, Clarke\" is attorney for \"Bird, Elizabeth (Lizzie Bird)\"",
+        "airtable_createdTime": "2021-12-15T22:59:37.000Z",
+        "airtable_id": "recXRjwyi1NQ7uhOR",
+        "person 1": [
+            "recQdzpXF0zhDRNWs"
+        ],
+        "person 2": [
+            "recF1AvNjTgRu8uyN"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:45.000Z",
+        "Name": "\"Strother, George French\" is attorney against \"Mitchel, Henry G. (Martin Mitchell)\"",
+        "airtable_createdTime": "2021-12-20T14:54:37.000Z",
+        "airtable_id": "recZW2a8U6GV17jSJ",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recViyt9S561DIbDc"
+        ],
+        "relationship type": "attorney against"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:17:33.000Z",
+        "Name": "\"Strother, George French\" is attorney against \"Mitchel, Henry G. (Martin Mitchell)\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recbE1zDIAnaImzIo",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recViyt9S561DIbDc"
+        ],
+        "relationship type": "attorney against"
+    },
+    {
+        "Cases": [
+            "rec76HLl0dKYH0Vnu"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Goshaun, Peter\" is jailed by \"Weymouth, H. E.\"",
+        "airtable_createdTime": "2021-12-08T23:37:08.000Z",
+        "airtable_id": "reccDsSBlw7QtG8pE",
+        "person 1": [
+            "recot76qRL3e74Dxg"
+        ],
+        "person 2": [
+            "reck8TG0BoYG5X9BR"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "rec9h4BanfV3ZLlC3"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Sigman, Elizabeth Herdman\" is biological parent of \"Sigman, Grace\"",
+        "airtable_createdTime": "2021-12-09T23:49:13.000Z",
+        "airtable_id": "reccerDcNnT9kBNtT",
+        "person 1": [
+            "recSwwG2QDVW7v7wm"
+        ],
+        "person 2": [
+            "rec8wtgDIO8Jg7qdN"
+        ],
+        "relationship type": "biological parent of"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:17:34.000Z",
+        "Name": "\"Foreman, Stephen W.\" is attorney for \"Mitchel, Henry G. (Martin Mitchell)\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "rechCngqdyJMV81HE",
+        "person 1": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "person 2": [
+            "recViyt9S561DIbDc"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:22:25.000Z",
+        "Name": "\", Matilda\" is biological parent of \", Anson\"",
+        "airtable_createdTime": "2021-12-20T16:22:09.000Z",
+        "airtable_id": "recigtbVIdEuaLD9n",
+        "person 1": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "person 2": [
+            "recgvLRxehdigTVE9"
+        ],
+        "relationship type": "biological parent of"
+    },
+    {
+        "Cases": [
+            "recbrvc4jFYF8D444"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Parker, Casper B.\" is jailed by \"Cooper, P. H.\"",
+        "airtable_createdTime": "2021-12-09T20:17:31.000Z",
+        "airtable_id": "recjPqMvOu7cy1DUv",
+        "person 1": [
+            "recoIQpsTimlvGoD7"
+        ],
+        "person 2": [
+            "recs3HqKDOaBQxQCs"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "recbYXDC8olRTxREo"
+        ],
+        "Last Modified": "2021-12-20T16:01:43.000Z",
+        "Name": "\", Matilda\" is jailed by \"Hammand, George\"",
+        "airtable_createdTime": "2021-12-20T14:52:00.000Z",
+        "airtable_id": "reckJL4hJ9TQWfRCn",
+        "person 1": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "person 2": [
+            "rech5xErWdU8q7IPN"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "recF0yW0JFHH2u4Ki"
+        ],
+        "Encoding Notes": "This relationship type seems insufficient for capturing Elizabeth Bird's charge that Pattmore was holding Missouri Bird in illegal bondage. Should we add another line stating that Missouri Bird was bound to Pattmore? ",
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Bird, Missouri\" is in the disputed interpersonal custody of \"Pattmore, Frances\"",
+        "airtable_createdTime": "2021-12-15T22:56:22.000Z",
+        "airtable_id": "reckz5vPZFjDHv189",
+        "person 1": [
+            "recE1A4sOjrC8KfiB"
+        ],
+        "person 2": [
+            "recOD6GeC8a2WG6HA"
+        ],
+        "relationship type": "in the disputed interpersonal custody of"
+    },
+    {
+        "Cases": [
+            "recjaTrLhlBfCsUbf"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\", Dolly\" is enslaved by \"Young, John\"",
+        "airtable_createdTime": "2021-12-08T19:58:55.000Z",
+        "airtable_id": "recl9im1aanNVN8CC",
+        "person 1": [
+            "rec7uTiC3OtmZZp8i"
+        ],
+        "person 2": [
+            "recxSR5jVvr1vlYrq"
+        ],
+        "relationship type": "enslaved by"
+    },
+    {
+        "Cases": [
+            "recxEqs6U2gXozZQY"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Marshall, Adam\" is jailed by \"Felps, James A.\"",
+        "airtable_createdTime": "2021-12-08T23:30:55.000Z",
+        "airtable_id": "recmT9kWEWtmJT8Am",
+        "person 1": [
+            "recX6YzefutSLXiTt"
+        ],
+        "person 2": [
+            "recvXvcugjQnafWjd"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "recxEqs6U2gXozZQY"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Marshall, Adam\" is enslaved by \"Smith, Mary Logan\"",
+        "airtable_createdTime": "2021-12-08T23:26:11.000Z",
+        "airtable_id": "recmTRFbTwiyrMebF",
+        "person 1": [
+            "recX6YzefutSLXiTt"
+        ],
+        "person 2": [
+            "recY6z4S1XCbInGce"
+        ],
+        "relationship type": "enslaved by"
+    },
+    {
+        "Cases": [
+            "recF0yW0JFHH2u4Ki"
+        ],
+        "Last Modified": "2021-12-15T22:58:57.000Z",
+        "Name": "\"Enos, Clarke\" is attorney with \"Coonley, John J.\"",
+        "airtable_createdTime": "2021-12-15T22:56:06.000Z",
+        "airtable_id": "recmhTPPOUnTHW18J",
+        "person 1": [
+            "recQdzpXF0zhDRNWs"
+        ],
+        "person 2": [
+            "recVL952oRAq4VFd0"
+        ],
+        "relationship type": "attorney with"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:19:13.000Z",
+        "Name": "\", Michael\" is sibling of \", Anson\"",
+        "airtable_createdTime": "2021-12-20T16:18:59.000Z",
+        "airtable_id": "recoWClSpwHSARHcv",
+        "person 1": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "person 2": [
+            "recgvLRxehdigTVE9"
+        ],
+        "relationship type": "sibling of"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:18:47.000Z",
+        "Name": "\"Clark, William \" is next friend of \", Michael\"",
+        "airtable_createdTime": "2021-12-20T16:18:30.000Z",
+        "airtable_id": "recpGDY3SMvPuasIo",
+        "person 1": [
+            "recy7DdGZPJurCt1h"
+        ],
+        "person 2": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "relationship type": "next friend of"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Encoding Notes": "So this relationship holds true for multiple cases. Should we retain our one-to-one system, or should we link the relationship to multiple cases? This is true for a number of relationships in hc.case.mo.0014, 0019, and 0020.",
+        "Last Modified": "2021-12-20T16:21:19.000Z",
+        "Name": "\"Strother, George French\" is opposing attorney to \"Foreman, Stephen W.\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recqxbGn35JkccGDX",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "relationship type": "opposing attorney to"
+    },
+    {
+        "Cases": [
+            "reclmHlm6PdwRhxnM"
+        ],
+        "Last Modified": "2021-12-16T21:31:54.000Z",
+        "Name": "\", Phillis\" is biological parent of \", Julia (Mary Ann)\"",
+        "airtable_createdTime": "2021-12-16T21:30:18.000Z",
+        "airtable_id": "recs2r5HxTBcydSaP",
+        "person 1": [
+            "recRUXhKAtCBWApbs"
+        ],
+        "person 2": [
+            "rec0WaPXZCmyksROD"
+        ],
+        "relationship type": "biological parent of"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:22:01.000Z",
+        "Name": "\", Matilda\" is biological parent of \", Michael\"",
+        "airtable_createdTime": "2021-12-20T16:21:28.000Z",
+        "airtable_id": "rectXmNbDHeWt9AOH",
+        "person 1": [
+            "recW9zOycDW2bcSi0"
+        ],
+        "person 2": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "relationship type": "biological parent of"
+    },
+    {
+        "Cases": [
+            "recEXhewEp2ZW4aSR"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Lee, Lillian\" is bound to \"Fuller, Francis E.\"",
+        "airtable_createdTime": "2021-11-30T21:28:11.000Z",
+        "airtable_id": "recuqTxS7FAhuwE0G",
+        "person 1": [
+            "recjvODQ2tUDTY3i8"
+        ],
+        "person 2": [
+            "recrgbtTA7i7KunBX"
+        ],
+        "relationship type": "bound to"
+    },
+    {
+        "Cases": [
+            "rec9h4BanfV3ZLlC3"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Sigman, William\" is married to \"Sigman, Elizabeth Herdman\"",
+        "airtable_createdTime": "2021-12-09T23:48:09.000Z",
+        "airtable_id": "recv1jjgjy1BMw1HX",
+        "person 1": [
+            "recSQGdiMKoPhsUKh"
+        ],
+        "person 2": [
+            "recSwwG2QDVW7v7wm"
+        ],
+        "relationship type": "married to"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:17:34.000Z",
+        "Name": "\"Foreman, Stephen W.\" is attorney for \"Russel, Henry C.\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recv2uxicrINbmwtL",
+        "person 1": [
+            "recgvPXE6WyFalutZ"
+        ],
+        "person 2": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "reck7O06W54XzfglB"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\", Anson\" is jailed by \"Hammand, George\"",
+        "airtable_createdTime": "2021-12-02T18:01:41.000Z",
+        "airtable_id": "recvLDfpryD9v60WH",
+        "person 1": [
+            "recgvLRxehdigTVE9"
+        ],
+        "person 2": [
+            "rech5xErWdU8q7IPN"
+        ],
+        "relationship type": "jailed by"
+    },
+    {
+        "Cases": [
+            "rec6B9ooJ3egt5m2G"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Bauer, Caroline\" is an institutional ward of  \", Mary Julia (Sister Mary Julia)\"",
+        "airtable_createdTime": "2021-12-08T15:10:59.000Z",
+        "airtable_id": "recwuipwTbeRmPsAm",
+        "person 1": [
+            "recIuu7xg7kU6tJh4"
+        ],
+        "person 2": [
+            "recbWF90XQBaFh6Yh"
+        ],
+        "relationship type": "an institutional ward of "
+    },
+    {
+        "Cases": [
+            "reck7O06W54XzfglB"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Clark, William \" is next friend of \", Anson\"",
+        "airtable_createdTime": "2021-12-02T18:12:47.000Z",
+        "airtable_id": "recx5Ni1OfYNS1lke",
+        "person 1": [
+            "recy7DdGZPJurCt1h"
+        ],
+        "person 2": [
+            "recgvLRxehdigTVE9"
+        ],
+        "relationship type": "next friend of"
+    },
+    {
+        "Cases": [
+            "recFSyuhJoIBjmwRJ"
+        ],
+        "Last Modified": "2021-12-20T16:18:19.000Z",
+        "Name": "\"Strother, George French\" is attorney for \", Michael\"",
+        "airtable_createdTime": "2021-12-20T16:16:48.000Z",
+        "airtable_id": "recxkPm5knaNnXC88",
+        "person 1": [
+            "recMKbRaRZts9TKJy"
+        ],
+        "person 2": [
+            "recomZiLaYPTUPJgD"
+        ],
+        "relationship type": "attorney for"
+    },
+    {
+        "Cases": [
+            "reck7O06W54XzfglB"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Russel, Henry C.\" is kidnapper of \", Anson\"",
+        "airtable_createdTime": "2021-12-02T21:52:33.000Z",
+        "airtable_id": "recxpJYCu7185ngRf",
+        "person 1": [
+            "recZelJkiJbeuqQBQ"
+        ],
+        "person 2": [
+            "recgvLRxehdigTVE9"
+        ],
+        "relationship type": "kidnapper of"
+    },
+    {
+        "Cases": [
+            "rec6B9ooJ3egt5m2G"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Bauer, Caroline\" is married to \"Bauer, John James (Jean Jacques Bauer)\"",
+        "airtable_createdTime": "2021-12-08T16:45:09.000Z",
+        "airtable_id": "reczUNBKlMYIHgynS",
+        "person 1": [
+            "recIuu7xg7kU6tJh4"
+        ],
+        "person 2": [
+            "recpRUTM8mJkXcpnW"
+        ],
+        "relationship type": "married to"
+    },
+    {
+        "Cases": [
+            "recF0yW0JFHH2u4Ki"
+        ],
+        "Last Modified": "2021-12-15T22:58:12.000Z",
+        "Name": "\"Bird, Elizabeth (Lizzie Bird)\" is biological parent-appointed guardian of \"Bird, Missouri\"",
+        "airtable_createdTime": "2021-12-15T22:49:13.000Z",
+        "airtable_id": "reczw7Kg94tQfMtJT",
+        "person 1": [
+            "recF1AvNjTgRu8uyN"
+        ],
+        "person 2": [
+            "recE1A4sOjrC8KfiB"
+        ],
+        "relationship type": "biological parent-appointed guardian of"
+    }
+]
