@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seventy-six Hindus v. Seattle Department of Immigration. Type of document</title>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Identification Card, Exhibit 8</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -19,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0181.032</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Identification Card, Exhibit 8</title>
+<date when="2022">2022</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1913-10">October 1913</date></term>
+<term><date when="1912-11">November 1912</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Bishen Singh</term>
+<term>Heera Singh</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Punjab, India</term>
+<term>Manila, Philippines</term>
 </keywords>
 
 </textClass>
@@ -199,7 +201,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
