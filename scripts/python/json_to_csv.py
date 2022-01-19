@@ -19,6 +19,7 @@ cases_frame = pd.read_json(cases_path, orient="records")
 locations_frame = pd.read_json(locations_path, orient="records")
 people_frame = pd.read_json(people_path, orient="records")
 case_role_frame = pd.read_json(case_role_path, orient="records")
+relationships_frame = pd.read_json(relationships_path, orient="records")
 # clean frames of blank entries
 blank_rows = cases_frame["Case ID"].isna()
 cases_frame = cases_frame[~blank_rows]
@@ -38,7 +39,7 @@ cases_frame = cases_frame.merge(locations_frame[["Location", "Location name", "L
 people_frame["Race or Ethnicity"] = people_frame["Race or Ethnicity"].astype(str)
 people_frame["Tags"] = people_frame["Tags"].astype(str)
 # columns to take from the people array
-desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Notes"]
+desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
 # finds the matching people, given a list of person ids.
 matching_people = lambda person_list: people_frame.loc[person_list]
 for field in desired_fields:
