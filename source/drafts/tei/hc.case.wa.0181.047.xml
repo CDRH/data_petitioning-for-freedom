@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Seventy-six Hindus v. Seattle Department of Immigration. Type of document</title>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Petition for Appeal to the Supreme Court</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -19,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0181.047</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Type of document</title>
-<date when="2021">2021</date>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Seventy-six Hindus v. Seattle Department of Immigration. Petition for Appeal to the Supreme Court</title>
+<date when="2022">2022</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -82,11 +82,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Seventy-Three Hindus</term>
+<term>Herbert W. Meyers</term>
+<term>Frank L. Crosby</term>
+<term>E.B. Brockway</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -200,7 +204,7 @@
 
         
 <revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
