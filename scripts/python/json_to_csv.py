@@ -1,5 +1,6 @@
 # get Pandas and filesystem related modules
 import pandas as pd
+import numpy
 from pathlib import Path
 cwd = Path.cwd()
 # TODO download the spreadsheets from command line using airtable_export
@@ -28,9 +29,15 @@ people_frame = people_frame.fillna("")
 cases_frame["Location"] = cases_frame["Location"].str[0]
 case_role_frame["Case"] = case_role_frame["Case"].str[0]
 case_role_frame["Person"] = case_role_frame["Person"].str[0]
-#set indices so values can be retrieved in the proper order
+relationships_frame["person 1"] = relationships_frame["person 1"].str[0]
+relationships_frame["Cases"] = relationships_frame["Cases"].str[0]
+# set indices so values can be retrieved in the proper order
+# group_by to combine persons with multiple roles and relationships (group_by also has the effect of setting the index)
+case_role_frame = case_role_frame.groupby(["Person", "Case"]).agg({"Case Role": pd.Series.to_list})
+case_role_frame["Case Role"] = case_role_frame["Case Role"].astype(str)
 people_frame = people_frame.set_index("airtable_id")
-case_role_frame = case_role_frame.set_index(["Person", "Case"])
+relationships_frame = relationships_frame.groupby(["person 1", "Cases"]).agg({"relationship type": pd.Series.to_list, "person 2": pd.Series.to_list})
+relationships_frame["relationship type"] = relationships_frame["relationship type"].astype(str)
 # change locations column names to desired values (especially important: make sure join column has the same name)
 locations_frame = locations_frame.rename(columns={"airtable_id": "Location", "Name": "Location name", "city": "Location city", "county": "Location county", "state/territory": "Location state"})
 # merge the frames, this is similar to a SQL join; specify the column names needed
@@ -48,9 +55,35 @@ for field in desired_fields:
 # finds the matching case roles, given a list of person ids AND the case (airtable) id.
 # Note I am NOT using the case_role column because it doesn't match up the data by people the way I want
 matching_case_roles = lambda person_list, case_airtable_id: case_role_frame.loc[[(person, case_airtable_id) for person in person_list]]
-# fills in case roles from sheets TODO: make sure case roles are grouped by people
-cases_frame["Person Case Role"] = ["; ".join(matching_case_roles(person_list, case_airtable_id)["Case Role"]) for person_list, case_airtable_id in zip(cases_frame["People"], cases_frame["airtable_id"])]
+people_cases = zip(cases_frame["People"], cases_frame["airtable_id"])
+# fills in case roles from sheets
+cases_frame["Person Case Role"] = ["; ".join(matching_case_roles(person_list, case_airtable_id)["Case Role"]) for person_list, case_airtable_id in people_cases]
+# go through all the cases and the corresponding people
+for person_list, case_airtable_id in zip(cases_frame["People"], cases_frame["airtable_id"]):
+    relationship_list = []
+    person_2_list = []
+    # go through all the individual people
+    for person in person_list:
+        # make sure there is a corresponding entry/entries
+        if (person, case_airtable_id) in relationships_frame.index:
+            # find relationships and corresponding people
+            relationship = relationships_frame.loc[(person, case_airtable_id)]["relationship type"]
+            person_2_ids = relationships_frame.loc[(person, case_airtable_id)]["person 2"]
+            # look up names in people table
+            person_2_names = str([people_frame.loc[id]["Participants"].values[0] for id in person_2_ids])
+            # fill in lists of relationships and relatees
+            relationship_list.append(relationship)
+            person_2_list.append(person_2_names)
+        # otherwise record relationships as blank
+        else:
+            relationship_list.append("")
+            person_2_list.append("")
+    # fill in the relationship and relatees fields in case frame
+    cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relationships"] = "; ".join(relationship_list)
+    cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
+
 # TODO: remove unwanted columns, join ids, airtable-specific metadata, etc.
 cases_frame = cases_frame.drop(columns=["Location", "People"])
 # write the cases frame to csv
 cases_frame.to_csv("source/csv/habeas_airtable.csv")
+
