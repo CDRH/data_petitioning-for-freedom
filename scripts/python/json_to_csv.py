@@ -1,15 +1,17 @@
 # get Pandas and filesystem related modules
 import pandas as pd
-import numpy
 from pathlib import Path
+import os
 cwd = Path.cwd()
 # TODO download the spreadsheets from command line using airtable_export
+command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Role [join]' 'Relationships [join]' Locations --key={API_KEY} --json"
+os.system(command)
 # Get all the spreadsheets' file paths
-cases_relative = "source/airtable/cases.json"
-case_role_relative = "source/airtable/case role [join].json"
-locations_relative = "source/airtable/locations.json"
-people_relative = "source/airtable/people.json"
-relationships_relative = "source/airtable/relationships [join].json"
+cases_relative = "source/json/cases.json"
+case_role_relative = "source/json/case role [join].json"
+locations_relative = "source/json/locations.json"
+people_relative = "source/json/people.json"
+relationships_relative = "source/json/relationships [join].json"
 cases_path = (cwd / cases_relative).resolve()
 case_role_path = (cwd / case_role_relative).resolve()
 locations_path = (cwd / locations_relative).resolve()
