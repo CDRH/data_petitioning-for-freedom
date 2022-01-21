@@ -44,15 +44,13 @@ relationships_frame["relationship type"] = relationships_frame["relationship typ
 locations_frame = locations_frame.rename(columns={"airtable_id": "Location", "Name": "Location name", "city": "Location city", "county": "Location county", "state/territory": "Location state"})
 # merge the frames, this is similar to a SQL join; specify the column names needed
 cases_frame = cases_frame.merge(locations_frame[["Location", "Location name", "Location city", "Location county", "Location state"]], how = "left", on = "Location")
-# convert array fields into strings
-people_frame["Race or Ethnicity"] = people_frame["Race or Ethnicity"].astype(str)
-people_frame["Tags"] = people_frame["Tags"].astype(str)
 # columns to take from the people array
 desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
 # finds the matching people, given a list of person ids.
 matching_people = lambda person_list: people_frame.loc[person_list]
 for field in desired_fields:
     # fills in the given fields, and makes sure the arrays are delimited by semicolons
+    people_frame[field] = people_frame[field].astype(str)
     cases_frame["Person " + field] = ["; ".join(matching_people(person_list)[field]) for person_list in cases_frame["People"]]
 # finds the matching case roles, given a list of person ids AND the case (airtable) id.
 # Note I am NOT using the case_role column because it doesn't match up the data by people the way I want
