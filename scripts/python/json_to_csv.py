@@ -82,8 +82,8 @@ for person_list, case_airtable_id in zip(cases_frame["People"], cases_frame["air
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relationships"] = "; ".join(relationship_list)
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
 
-# TODO: remove unwanted columns, join ids, airtable-specific metadata, etc.
-cases_frame = cases_frame.drop(columns=["Location", "People"])
+# remove unwanted columns, join ids, airtable-specific metadata, etc.
+cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location", "People", "Primary field", "airtable_createdTime", "airtable_id", "relationships"])
 # write the cases frame to csv
 cases_frame.to_csv("source/csv/habeas_airtable.csv")
 
