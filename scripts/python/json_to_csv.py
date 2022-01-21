@@ -52,19 +52,23 @@ for field in desired_fields:
     # fills in the given fields, and makes sure the arrays are delimited by semicolons
     people_frame[field] = people_frame[field].astype(str)
     cases_frame["Person " + field] = ["; ".join(matching_people(person_list)[field]) for person_list in cases_frame["People"]]
-# finds the matching case roles, given a list of person ids AND the case (airtable) id.
-# Note I am NOT using the case_role column because it doesn't match up the data by people the way I want
-matching_case_roles = lambda person_list, case_airtable_id: case_role_frame.loc[[(person, case_airtable_id) for person in person_list]]
+# make a list of all the people for each case, with corresponding case_id
 people_cases = zip(cases_frame["People"], cases_frame["airtable_id"])
 # fills in case roles from sheets
-cases_frame["Person Case Role"] = ["; ".join(matching_case_roles(person_list, case_airtable_id)["Case Role"]) for person_list, case_airtable_id in people_cases]
 # go through all the cases and the corresponding people
-for person_list, case_airtable_id in zip(cases_frame["People"], cases_frame["airtable_id"]):
+for person_list, case_airtable_id in people_cases:
+    case_roles_list = []
     relationship_list = []
     person_2_list = []
     # go through all the individual people
     for person in person_list:
-        # make sure there is a corresponding entry/entries
+        # make sure there is a corresponding entry/entries in case roles
+        if (person, case_airtable_id) in case_role_frame.index:
+            case_role = case_role_frame.loc[(person, case_airtable_id)]["Case Role"]
+            case_roles_list.append(case_role)
+        else:
+            case_roles_list.append("")
+        # same for relationships, either find the corresponding entry or insert a blank
         if (person, case_airtable_id) in relationships_frame.index:
             # find relationships and corresponding people
             relationship = relationships_frame.loc[(person, case_airtable_id)]["relationship type"]
