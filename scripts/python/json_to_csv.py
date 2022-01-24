@@ -87,7 +87,6 @@ for person_list, case_airtable_id in people_cases:
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
 
 # remove unwanted columns, join ids, airtable-specific metadata, etc.
-cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location", "People", "Primary field", "airtable_createdTime", "airtable_id", "relationships"])
+cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location", "People", "Primary field", "airtable_createdTime", "airtable_id", "relationships", "Created", "Encoding Incomplete?"])
 # write the cases frame to csv
 cases_frame.to_csv("source/csv/habeas_airtable.csv")
-
