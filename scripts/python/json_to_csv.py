@@ -2,6 +2,12 @@
 import pandas as pd
 from pathlib import Path
 import os
+from dotenv import load_dotenv, find_dotenv
+
+load_dotenv(find_dotenv())
+
+AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
+API_KEY = os.environ.get("API_KEY")
 cwd = Path.cwd()
 # TODO download the spreadsheets from command line using airtable_export
 command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Role [join]' 'Relationships [join]' Locations --key={API_KEY} --json"
