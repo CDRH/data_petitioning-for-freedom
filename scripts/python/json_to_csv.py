@@ -46,12 +46,12 @@ locations_frame = locations_frame.rename(columns={"airtable_id": "Location", "Na
 cases_frame = cases_frame.merge(locations_frame[["Location", "Location name", "Location city", "Location county", "Location state"]], how = "left", on = "Location")
 # columns to take from the people array
 desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
-# finds the matching people, given a list of person ids.
-matching_people = lambda person_list: people_frame.loc[person_list]
+# go through all these fields and fill them in
 for field in desired_fields:
-    # fills in the given fields, and makes sure the arrays are delimited by semicolons
+    # make sure the arrays are delimited by semicolons
     people_frame[field] = people_frame[field].astype(str)
-    cases_frame["Person " + field] = ["; ".join(matching_people(person_list)[field]) for person_list in cases_frame["People"]]
+    # find matching people, or leave blank if there are no associated people (person_list will be NaN in that case)
+    cases_frame["Person " + field] = ["; ".join(people_frame.loc[person_list][field]) if isinstance(person_list, list) else "" for person_list in cases_frame["People"]]
 # make a list of all the people for each case, with corresponding case_id
 people_cases = zip(cases_frame["People"], cases_frame["airtable_id"])
 # fills in case roles from sheets
@@ -60,28 +60,30 @@ for person_list, case_airtable_id in people_cases:
     case_roles_list = []
     relationship_list = []
     person_2_list = []
-    # go through all the individual people
-    for person in person_list:
-        # make sure there is a corresponding entry/entries in case roles
-        if (person, case_airtable_id) in case_role_frame.index:
-            case_role = case_role_frame.loc[(person, case_airtable_id)]["Case Role"]
-            case_roles_list.append(case_role)
-        else:
-            case_roles_list.append("")
-        # same for relationships, either find the corresponding entry or insert a blank
-        if (person, case_airtable_id) in relationships_frame.index:
-            # find relationships and corresponding people
-            relationship = relationships_frame.loc[(person, case_airtable_id)]["relationship type"]
-            person_2_ids = relationships_frame.loc[(person, case_airtable_id)]["person 2"]
-            # look up names in people table
-            person_2_names = str([people_frame.loc[id]["Participants"].values[0] for id in person_2_ids])
-            # fill in lists of relationships and relatees
-            relationship_list.append(relationship)
-            person_2_list.append(person_2_names)
-        # otherwise record relationships as blank
-        else:
-            relationship_list.append("")
-            person_2_list.append("")
+    # check if person_list exists (if not it will be NaN)
+    if isinstance(person_list, list):
+        # go through all the individual people
+        for person in person_list:
+            # make sure there is a corresponding entry/entries in case roles
+            if (person, case_airtable_id) in case_role_frame.index:
+                case_role = case_role_frame.loc[(person, case_airtable_id)]["Case Role"]
+                case_roles_list.append(case_role)
+            else:
+                case_roles_list.append("")
+            # same for relationships, either find the corresponding entry or insert a blank
+            if (person, case_airtable_id) in relationships_frame.index:
+                # find relationships and corresponding people
+                relationship = relationships_frame.loc[(person, case_airtable_id)]["relationship type"]
+                person_2_ids = relationships_frame.loc[(person, case_airtable_id)]["person 2"]
+                # look up names in people table
+                person_2_names = str([people_frame.loc[id]["Participants"].values[0] for id in person_2_ids])
+                # fill in lists of relationships and relatees
+                relationship_list.append(relationship)
+                person_2_list.append(person_2_names)
+            # otherwise record relationships as blank
+            else:
+                relationship_list.append("")
+                person_2_list.append("")
     # fill in the relationship and relatees fields in case frame
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relationships"] = "; ".join(relationship_list)
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
