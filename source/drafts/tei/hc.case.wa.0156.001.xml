@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Fred S. Walton v. John G. Boyle. Petion</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Fred S. Walton v. John G. Boyle. Petion</title>
+<date when="1901-09-07">September 7, 1901</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,12 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1901-09">September 1901</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Snyder, Vestal</term>
 <term>Lince, W.I.</term>
+<term>Coreett, J. W.</term>
+<term>Hopkins, R. M.</term>
+<term>Ayres, A. Reeves</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,12 +106,14 @@
 <persName>Boyle, John G.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>H. J.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
+<persName>Taggard, J. A.</persName>
+<persName>Hanford, C. H.</persName>
 <persName></persName>
 </person>
 </listPerson>
@@ -123,7 +128,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -238,7 +243,7 @@ be restored to his liberty.</p>
 
 <p>Dated on this 7th day of September, 1901.</p>
 
-<ab>H. G. <unclear></unclear></ab>
+<ab>H. J. <unclear>Junively</unclear></ab>
 <ab>Attorney for Petitioner</ab>
 
 <ab>Fred S Walton</ab>
@@ -258,7 +263,7 @@ me this 5th day of September, A. D., 1901</p>
 
 <ab>Fred S. Walton</ab>
 
-<ab>J. W. Conett</ab>
+<ab>J. W. Coreett</ab>
 <ab>Notary Public in and for the state
 of Washington, residing at North
 Yakima, Washington.</ab>
@@ -291,9 +296,6 @@ A. REEVES AYRES, Clerk
 
 RM Hopkins
 Dep.</ab>
-
-
-<ab>In the United </ab>
 
 </div1>
     
