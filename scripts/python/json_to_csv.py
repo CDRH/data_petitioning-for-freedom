@@ -90,7 +90,8 @@ for person_list, case_airtable_id in people_cases:
             else:
                 relationship_list.append("")
                 person_2_list.append("")
-    # fill in the relationship and relatees fields in case frame
+    # fill in the case roles, relationship and relatees fields in case frame
+    cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Case Roles"] = "; ".join(case_roles_list)
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relationships"] = "; ".join(relationship_list)
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
 
