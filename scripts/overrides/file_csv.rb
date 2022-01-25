@@ -14,7 +14,7 @@ class FileCsv < FileType
         puts "transforming #{self.filename}"
         es_doc = []
         @csv.each do |row|
-            if !row.header_row? && row["Case ID"] && row["Case ID"].start_with?("hc")
+            if !row.header_row? && row["Case ID"]
                 es_doc << row_to_es(@csv.headers, row)
             end
         end
