@@ -96,33 +96,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Walton, Fred S.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Boyle, John G.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>H. J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Whilson, Edward</persName>
+<persName>Snyder, Vestal</persName>
 </person>
 <person role="judge">
+<persName>Taggard, J. A.</persName>
+<persName>Hanford, C. H.</persName>
+<persName>Fuller, Melville W.</persName>
 <persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court, Northern Division, State of Washington</orgName>
+<placeName>Northern Division, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
