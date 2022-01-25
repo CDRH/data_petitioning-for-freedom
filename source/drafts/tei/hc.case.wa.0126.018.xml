@@ -119,14 +119,15 @@
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
 <change when="2021-02" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
