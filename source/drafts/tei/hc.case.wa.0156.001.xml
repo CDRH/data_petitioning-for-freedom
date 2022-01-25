@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Silva, Salma J" xml:id="sjs">Salma Silva</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0156.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -82,11 +83,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Snyder, Vestal</term>
+<term>Lince, W.I.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Yakima, State of Washington</term>
+<term>Portland, Oregon</term>
 </keywords>
 
 </textClass>
@@ -94,10 +97,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Walton, Fred S.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Boyle, John G.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -112,8 +115,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court, Northern Division, State of Washington</orgName>
+<placeName>Northern Division, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
