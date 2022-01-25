@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0127.021"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.032"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Criminal</title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington.  R. C. Welch Summons</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -21,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0127.021</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0126.032</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington.  R. C. Welch Summons</title><!-- replace with name of case; type of document -->
 <date when="1885-04-17">April 17, 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-02</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -84,15 +84,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Welch, R. C. </term><!-- insert names of other people mentioned in document -->
-<term>Feauerbach, Kate W.</term>
-<term>Dtrobach, R.</term>
+<term>Welch, R. C.</term><!-- insert names of other people mentioned in document -->
+<term>Feuerbach, Kate W.</term>
+<term>Strobach, R.</term>
 <term>Cody, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cheney, Spokane County</term> <!-- insert places mentioned -->
-<term>Lincoln County</term>
+<term>Cheney, Spokane County, Washington</term> <!-- insert places mentioned -->
+<term>Lincoln County, Washington</term>
 </keywords>
 
 </textClass>
@@ -100,32 +100,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>White, Sterling P.</persName>
 </person>
 <person role="defendant">
-<persName>White, S. P. </persName><!-- insert name of defendant, if a person -->
+<persName>Territory of Washington</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Turner, George</persName><!-- insert name of judge, if known -->
+<persName>Turner, George</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>      
 <change when="2021-02" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -139,59 +140,64 @@
 
 <pb facs="hc.case.wa.0127.021"/> <!-- insert number from spreadhseet -->
 
+<p>TERRITORY OF WASHINGTON,<lb/>
+County of Spokane } SS.</p>
 
-<fw type="footer"> &amp;</fw>
-
-<p>TERRITORY OF WASHINGTON,
-County of Spokane } SS.
-Territory of Washington, Plaintiff
+<p>Territory of Washington, Plaintiff
 vs.
-S.P. White, Defendant } In the District Court of the Territory of
+S.P. White, Defendant }</p>
+
+<p>In the District Court of the Territory of
 Washington and for the <del>First</del>Fourth Judicial 
 District thereof, holding terms at
 Cheney, Spokane County,
-in said Territory
-To the Sheriff of Lincoln County, Greeting:
-IN THE NAME OF THE UNITED STATES, You are hereby commanded to 
+in said Territory</p>
+
+<p>To the Sheriff of Lincoln County, Greeting:</p>
+<p>IN THE NAME OF THE UNITED STATES, You are hereby commanded to 
 summon R.C. Welch
 to be and appear before the District Court aforesaid
 at the Court House, in Cheney, in said County, on the forthwith day of
-April A.D. 1885, at o'clock, M. to there give evi-
-dence in the above entitiled cause on the part of said Defendant
-S.P. White
-Witness the Hon. George Turner
+April A.D. 1885, at o'clock, M. to there give evidence
+ in the above entitled cause on the part of said Defendant
+S.P. White</p>
+<p>Witness the Hon. George Turner
 Associate Judge of the Supreme Court of Washington
-Territory, and Judge of said Court, and the Seal there-
-of affixed, this 17 day of April A.D. 1885
-Kate W. Feauerbach Clerk.
+Territory, and Judge of said Court, and the Seal thereof
+ affixed, this 17 day of April A.D. 1885</p>
+<p>Kate W. Feuerbach Clerk.<lb/>
 By R. Dtrobach Deputy.</p>
 
 <p>TERRITORY OF WASHINGTON,
-County of <del>Spokane</del> Lincoln } SS.
-I hereby certify that I served the within Subpoena on the within named witness
+County of <del>Spokane</del> Lincoln } SS.</p>
+
+<p>I hereby certify that I served the within Subpoena on the within named witness
 by reading the same to him in said County, on this 17th
-day of April A.D. 1885
-John Cody Sheriff
+day of April A.D. 1885</p>
+
+<p>John Cody Sheriff<lb/>
 By Deputy.</p>
 
-<p>R.C. Welch
-Case No. 
-Subpoena
-In the District Court of the Territory of
+<pb/>
+
+<p>R.C. Welch</p>
+<p>Case No. </p>
+<p>Subpoena</p>
+<p>In the District Court of the Territory of
 Washington, and for the First Judicial 
 District thereof, holding Terms at
 Cheney, Spokane County,
-in said Territory
-Plaintiff
+in said Territory</p>
+<p>Plaintiff
 vs.
-Defendant
-Returned and Filed this 28
-day of, April A.D. 1885
-Kate W. Feuerbach Clerk.
-By. R. Dtrobach Deputy.
-Sheriff's Fees
-Serving 1 names at 40 .40
-Mileage 2 miles at 10 .20
+Defendant</p>
+<p>Returned and Filed this 28
+day of, April A.D. 1885</p>
+<p>Kate W. Feuerbach Clerk.
+By. R. Strobach Deputy.</p>
+<p>Sheriff's Fees<lb/>
+Serving 1 names at 40 .40<lb/>
+Mileage 2 miles at 10 .20<lb/>
 Total, ---$.60</p>
 
 </div1>
