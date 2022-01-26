@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White; </title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington.</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White; </title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington. </title><!-- replace with name of case; type of document -->
 <date when="1885-05-02">May 2, 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -90,8 +90,8 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>County of Spokane</term> <!-- insert places mentioned -->
-<term>Cheney</term>
+<term>Spokane County, Washington</term> <!-- insert places mentioned -->
+<term>Cheney, Washington</term>
 </keywords>
 
 </textClass>
@@ -99,32 +99,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>White, Sterling P.</persName>
 </person>
 <person role="defendant">
-<persName>White, Sterling P.</persName><!-- insert name of defendant, if a person -->
+<persName>Territory of Washington</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Carpenter, J. W.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>       
+<change when="2022-01" who="lkw"> review</change>           
 <change when="2021-03" who="#lh">transcribed encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -139,55 +140,61 @@
 <pb facs="hc.case.wa.0129.011"/> <!-- insert number from spreadhseet -->
 
 
-<fw type="footer"> &amp;</fw>
-
 <p>Territory of Washington
-County of Spokane }ss
-In the said court of the 4th Judicial District 
+County of Spokane } ss</p>
+
+<p>In the Dist court of the 4th Judicial District 
 of the territory of Washington holding
-Court at Cheney
-Territory of Washington 
-Plaintiff
-vs.
-Sterling P. White 
+Court at Cheney</p>
+
+<p>Territory of Washington <lb/>
+Plaintiff<lb/>
+vs.<lb/>
+Sterling P. White <lb/>
 Defendant</p>
 
 <p>Sterling P. White being duly
 sworn says I am the defendant 
-in the above entitled case, and
+in the above entitled action, and
 I am not the owner of any property
-whatever personal ordeal nor have I
+whatever personal or real nor have I
 any money credit or other means 
 of any kind whatever by which I 
-am able to pay or procure the pay 
-ment of any fees whatever necessary 
-in the service of process on in 
+am able to pay or procure the payment 
+ of any fees whatever necessary 
+in the service of process or in 
 procuring the attendance at court
-of the witnesses appeared for my
-defense.
-Sterling P. White
-Sworn to and subscribed before
-me this 2d day of May, A.D. 1885
-W.H. Smallwood
+of the witnesses subpoenaed for my
+defense.</p>
+
+<p>Sterling P. White</p>
+
+<p>Sworn to and subscribed before
+me this 2d day of May, A.D. 1885</p>
+
+<p>W.H. Smallwood
 Notary Public</p>
 
+<pb/>
 
 <p>In Dist. Court of 4th
 judicial dist of Wash.
 Ter. holding terms at
-Cheney W.T.
-Territory of Washington
-vs.
-Sterling P. White
-Paper affidavit </p>
+Cheney W.T.</p>
 
-<p>Filed May 2, 1885
-Kate W. Feauerbach
-Clerk
-By R. Strobuch 
-Deputy
-Served bb 37838
-<unclear></unclear></p>
+<p>Territory of Washington<lb/>
+vs.<lb/>
+Sterling P. White<lb/>
+Pauper affidavit</p>
+
+<p>Filed May 2, 1885<lb/>
+Kate W. Feuerbach<lb/>
+Clerk<lb/>
+By R. Strobuch <lb/>
+Deputy</p>
+
+<p>SRecorded pp 37&amp;38<lb/>
+<unclear>Book A General</unclear></p>
 
 </div1>
     

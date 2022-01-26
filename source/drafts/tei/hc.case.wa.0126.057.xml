@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White; </title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington. </title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington.</title><!-- replace with name of case; type of document -->
 <date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -126,32 +126,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>White, Sterling P.</persName>
 </person>
 <person role="defendant">
-<persName>White, S. P.</persName><!-- insert name of defendant, if a person -->
+<persName>Territory of Washington</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Carpenter, J. W.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>       
+<change when="2022-01" who="lkw"> review</change>      
 <change when="2021-03" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -165,46 +166,46 @@
 
 <pb facs="hc.case.wa.0129.008"/> <!-- insert number from spreadhseet -->
 
+<p>Ter.</p>
+<p>9. S. L. Short<lb/>
+8. Emerson Allan<lb/>
+S. W. Condin<lb/>
+<del></del><lb/>
+E. A. Portch<lb/>
+4. H. Portch<lb/>
+5 O Rogers<lb/>
+3 Frank Beardon<lb/>
+2 Henry "<lb/>
+1 C. T. Brindell<lb/>
+7 Josiah Cole<lb/>
+<del>Wm. Rohdes</del><lb/>
+6. Mrs. Dr. Lilse</p>
 
-<fw type="footer"> &amp;</fw>
-
-<p>Ter.
-9. S. L. Short
-8. Emerson Allan
-S. W. Condin
-<del></del>
-E. A. Portch
-4. H. Portch
-5 O Rogers
-3 Frank Beardon
-2 Henry "
-1 H. T. Brindell
-7 Josiah Cole
-<del>Wm. Rohdes</del>
-6. Mrs. 
-
-Defdt.
-J.E. Williams
-Frank Tufts
-S. L. Short
-F. M. Sherman
-H. Wynhoft
-H. L. Rin absent
-J. Shamlough
-A. Stookey
-S. Gentry
-Eva Slepth
-C. B. White
-Wells Williams
-<unclear></unclear> ShortE. Warren
-G. E. Sleth
-J. H. Harle absent
-Franklin Hire
-Perry Harrold
-1 <del>R.C. Welch</del>
-Jud Moyer
-Wm. Rhodes
-2 <del>Jud. Jank</del>
+<p>Defdt.</p>
+<p>J.E. Williams<lb/>
+Frank Tufts<lb/>
+S. L. Short<lb/>
+F. M. Sherman<lb/>
+H. Wynhoft<lb/>
+H. L. Rin absent<lb/>
+J. Shamlough<lb/>
+A. Stookey<lb/>
+S. Gentry<lb/>
+Eva Slepth<lb/>
+C. B. White<lb/>
+Wells Williams<lb/>
+<unclear>J. R.</unclear> Short<lb/>
+<del>D. Trussel</del><lb/>
+<del>C. W. Sherman</del><lb/>
+E. Warren<lb/>
+D. E. Stephy<lb/>
+J. H. Harle absent<lb/>
+Franklin Hire<lb/>
+Perry Harrold<lb/>
+1 <del>R.C. Welch</del><lb/>
+Jno Moyer<lb/>
+Wm. Rhodes<lb/>
+2 <del>Jno. Jump</del><lb/>
 3. <del>S.P. White</del>
 </p>
 
