@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.011">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.012">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+    <title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0187.011</idno>
+<idno type="project">hc.case.wa.0187.012</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -78,22 +78,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1914-08">August 1914</date></term>
+<term><date when="1914-06">June 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
-<term>Crosby, Frank L.</term>
-<term>Fishburn, George P.</term>
-<term>Lakin, Edward M.</term>
-<term>Merrick, Louis A.</term>
-<term>Shakespeare, Noah</term>
-<term>White, Henry M.</term>
+<term></term>
+
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Everett, Washington</term>
-
 </keywords>
 
 </textClass>
@@ -112,7 +108,6 @@
 </person>
 <person role="attorney_defendant">
 <persName></persName>
-<persName>George P. Fishburn</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -143,85 +138,47 @@
 <div1 type="case">
 
 <pb/>
-<p>UNITED STATES DISRICT COURT, WESTERN DISTRICT OF WASHINGTON, NORTHERN
-DIVISION.</p>
+<p>United States District Court for the Western District of Washington</p>
 
-<p>In the matter of the Application of 
-Marie Robina Grayson, alias Marie
-Robina, for a Writ of Habeas Corpus.</p>
-
-<p>No. 2780.
-REPLY.</p>
+<p>In re - 
+Marie Robina Grayson
+alias Marie Robina 
+vs. }
+No. 2780
+Appearance</p>
 <p><add>Front</add></p>
 
-<p>Now comes Marie Robina Grayson the petitioner above named, and
-for Reply to the Return of Henry M. White, to the Writ of Habeas 
-Corpus, hereinbefore issued doth</p>
-<p>I.
-Deny each and every word, paragragh, sentence, and allegation 
-in that portion of the Reurn of the said Henry M. White, denominated
-"Affirmative Defense".</p>
-<p>WHEREFORE having fully answered the petitioner prays that she 
-may be discharged as hereinbefore she has prayed.</p>
-<ab>Marie Robina Grayson <lb/>
-Petitioner</ab>
-<ab>By Noah Shakespeare <lb/>
-Louis A. Merrick <lb/>
-Her attorney.</ab>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please enter our appearnace as attorneys
+for Marie Robina Grayson in the above
+entitled cause, and servce of all subsequent papers, except writs and process, may be made upon
+said attorneys, by leaving the 
+same with</p> <ab>Noah Shakespeare 
+and Louis A. Merrick</ab>
+<p>Office Address 2911 Witmory Ave.
+Everett, Wash.</p>
 
-<p>IT IS STIPULATED by and between Noah Shakespeare, and Louis A. 
-Merrick, attorneys for the petitioner, and Clay Allen and G. P. 
-Fishburn, attorneys for Henry M. White, that the petitioner not being
-present in Court at the time of the making of this Reply, a verification
-thereof is hereby expressly and in terms waived, and it is 
-consented that said Reply may be filed as of the date of the hearing
-upon the Return to the Writ of Habeas Corpus, herein, to-wit, as of 
-July 3, 1914, with the same force and effect as if actually filed on 
-said day, and with the same force and effect as if verified by the 
-petitioner in person.</p>
-<p>IT IS FURTHER STIPULATED AND AGREED by said attorneys that any 
-additional exhibits that were used upon the hearing may be made a 
-<fw>-1-</fw>
+<p>NOTICE--Attorneys will please endorse their own Filings. Rule 11.</p>
 <pb/>
-part of the record at any time before the Transcript of Record is 
-sent by the Clerk to the Circuit Court of Appeals.</p>
-<ab>Noah Shakespeare Louis A. Merrick <lb/>
-Attorneys for petitioner.</ab>
-<ab>Clay Allen G. P. Fishburn <lb/>
-Attorneys for respondent.</ab>
+<p>No.</p>
+<p>GOB-5-19
+2x</p>
 
-<p>2780</p>
-<p>UNITED STATES OF 
-AMERICA 
-DISTRICT COURT
-FOR THE 
-WESTERN DISTRICT OF 
-WASHINGTON
-NORTHERN DIVISION</p>
+<p>United States District Court
+Western District of Washington</p>
 
-<p>In Re. 
-Application of Marie Robina 
-Grayson alias Marie Robina for 
-a Writ of Habeas Corpus
-<del>Bankrupt</del></p>
+<p>vs.</p>
 
-<p>NO. 2780.</p>
+<p>Appearance</p>
 
-<p>REPLY.</p>
-    
 <p>FILED IN THE 
-U. S. District Court,
-Western District of Washington, 
-NORTHERN DIVISION
-AUG 20 1914</p>    
-<ab>FRANK L. CROSBY, Clerk,
-By Ed M Lakin Deputy</ab>
-    
+U. S. District Court 
+Western Dist. of Washington
+JUN 27 1914</p>
+<ab>FRANK L. CROSBY, Clerk
+By EML Deputy</ab>
 
-<p>NOAH SHAKESPEARE
-LOUIS A. MERRICK
-Attorney for PETITIONER.
-Everett, Washington.</p>
+<p>For</p>
 
 </div1>
     
