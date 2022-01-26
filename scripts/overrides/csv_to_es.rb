@@ -68,7 +68,7 @@ class CsvToEs
 		end
   
     def description
-      @row["Case Summary"]
+      @row["Notes"]
     end
   
     def format
@@ -86,7 +86,7 @@ class CsvToEs
     end
     
     def keywords
-      @row["Keyword"]
+      @row["Tags"]
     end
 
     def person
@@ -98,8 +98,15 @@ class CsvToEs
           person = { "name" => name, "role" => @row["Person Case Roles"].split(/; */)[index] }
           list << person
         }
+        if @row["Additional Parties"]
+          @row["Additional Parties"].split(/; */).each { |name|
+            person = { "name" => name, "role" => "Additional Party" }
+            list << person
+          }
+        end
         list
       end
+
     end
   
   
@@ -119,17 +126,17 @@ class CsvToEs
       @row["Case Citation/Source"]
     end
   
-    def subjects
-      @row["Petition Type"]
-    end
+    # def subjects
+    #   @row["Petition Type"]
+    # end
   
     def title
       @row["Title"]
     end
   
-    def topics
-      @row["Petition Type"]
-    end
+    # def topics
+    #   @row["Petition Type"]
+    # end
 
 		def spatial
 			place = { "city" => @row["Location city"], "county" => @row["Location county"], "state" => @row["Location state"], "place_name" => @row["Location name"]}
