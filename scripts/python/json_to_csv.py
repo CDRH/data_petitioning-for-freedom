@@ -9,7 +9,7 @@ load_dotenv(find_dotenv())
 AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
 API_KEY = os.environ.get("API_KEY")
 cwd = Path.cwd()
-# TODO download the spreadsheets from command line using airtable_export
+# download the spreadsheets from command line using airtable_export
 command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Role [join]' 'Relationships [join]' Locations --key={API_KEY} --json"
 os.system(command)
 # Get all the spreadsheets' file paths
@@ -95,7 +95,8 @@ for person_list, case_airtable_id in people_cases:
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relationships"] = "; ".join(relationship_list)
     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
 
-# remove unwanted columns, join ids, airtable-specific metadata, etc.
+# remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
 cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location", "People", "Primary field", "airtable_createdTime", "airtable_id", "relationships", "Created", "Encoding Incomplete?"])
+cases_frame = cases_frame.rename(columns={"Additional Parties Named in Document: Last, First": "Additional Parties", "Record Type(s)": "Record Type"})
 # write the cases frame to csv
 cases_frame.to_csv("source/csv/habeas_airtable.csv")
