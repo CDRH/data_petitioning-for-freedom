@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White; </title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington. </title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White; </title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington. </title><!-- replace with name of case; type of document -->
 <date when="1885-05-01">April 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -88,12 +88,12 @@
 <term>Strobach, R. </term>
 <term>Tyler, Jef. </term>
 <term>Tyler, J. J.</term>
+<term>Arhan, Edwin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Lincoln County</term> <!-- insert places mentioned -->
-<term>Yakima County</term>
-<term>Arhan, Edwin</term>
+<term>Lincoln County, Washington</term> <!-- insert places mentioned -->
+<term>Yakima County, Washington</term>
 <term></term>
 </keywords>
 
@@ -102,32 +102,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>White, Sterling P.</persName>
 </person>
 <person role="defendant">
-<persName>White, S. P. </persName><!-- insert name of defendant, if a person -->
+<persName>Territory of Washington</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Carpenter, J. W.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>       
+<change when="2022-01" who="lkw"> review</change>          
 <change when="2021-02" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
@@ -141,34 +142,36 @@
 
 <pb facs="hc.case.wa.0129.001"/> <!-- insert number from spreadhseet -->
 
-
-<fw type="footer"> &amp;</fw>
-
-<p>Filed April 18-85
-Kate W. Feauerbach
-Clerk
-By R. Strobach
+<p>Filed April 18-85<lb/>
+Kate W. Feuerbach<lb/>
+Clerk<lb/>
+By R. Strobach<lb/>
 Deputy</p>
 
-<p>Lincoln County W.T. 
-to Jef. Tyler Sheriff of 
-Yakima County
-1885
-Feb. 17 to April 13 to Board and guard of S.P. White 
-held for under 55 days @ $1.00 $55.00
-Mar 6th 87 Edwin Arhan 25 days @ 1.00 25.00
-Total $80.00
-Medicine finished 3.00
+<p>Lincoln County W.T. Dr</p>
+
+<p>To Jef. Tyler Sheriff of 
+Yakima County</p>
+
+<p>1885</p>
+<p>Feb. 17 to April 13 to Board and guard of S.P. White 
+held for Murder 55 days @ $1.00 $55.00<lb/>
+Mar 6th 87 Edwin Arhan 25 days @ 1.00 25.00<lb/>
+Total $80.00<lb/>
+Medicine furnished 3.00<lb/>
 $83.00</p>
 
-<p>Territory of Washington 
-County of Yakima }ss
-I hereby certify that 
+<pb/>
+
+<p>Territory of Washington <lb/>
+County of Yakima } ss</p>
+<p>I hereby certify that 
 the within account is true and
 correct and the writ therein 
-specified were actually performed
-J.J. Tyler
-Sheriff of Yakima Co.
+specified were actually performed</p>
+
+<p>J.J. Tyler<lb/>
+Sheriff of Yakima Co.<lb/>
 W.T.</p>
 
 </div1>
