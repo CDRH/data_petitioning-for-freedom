@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0129.004"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.053"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sterling P. White v. Territory of Washington.</title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington. Fees</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -21,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0129.004</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0126.053</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Sterling P. White v. Territory of Washington.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington. Fees</title><!-- replace with name of case; type of document -->
+<date/><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -80,7 +80,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date/></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,10 +94,10 @@
 <term>Portch, E. A.</term>
 <term>Welch, R. C.</term>
 <term>Rogers, O. J.</term>
-<term>Beardon, Frank</term>
-<term>Beardon, H. S.</term>
-<term>Lyle, Mrs. M. A.</term>
-<term>Lyle, Dr. M. A.</term>
+<term>Beardon, Frank J.</term>
+<term>Beardon, Henry S.</term>
+<term>Lyle</term><!-- Mrs. -->
+<term>Lyle, M. A.</term>
 
 </keywords>
 
