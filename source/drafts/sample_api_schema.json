@@ -1,0 +1,158 @@
+{
+    "req": {
+      "query_string": "/item/hc.case.mo.0015"
+    },
+    "res": {
+      "code": 200,
+      "count": 1,
+      "facets": {
+        
+      }, //"Comments are not permitted in JSON" but I will make some anyway
+      "items": [
+        {
+          "identifier": "hc.case.mo.0015",
+          "category": "Cases",
+          "subcategory": "Institutional: insanity", //do we want to break this up?
+          "data_type": "csv",
+          "collection": "habeascorpus",
+          "collection_desc": "Habeas Corpus",
+          "uri": "http://localhost:3001/item/hc.case.mo.0015",
+          "uri_data": "http://localhost:9999/data/habeascorpus/source/csv/habeas_airtable.csv",
+          "uri_html": "http://localhost:9999/data/habeascorpus/output/development/html/hc.case.mo.0015.html",
+          "image_id": null,
+          "alternative": null,
+          "description": "Caroline Bauer was institutionalized by her husband, John James Bauer. She petitioned for a writ of habeas corpus, which was granted, and was ultimately released.",
+          "title": "In the Matter of Caroline Bauer By the Habeas Corpus Act",
+          "title_sort": "in the matter of caroline bauer by the habeas corpus act",
+          "format": "Case File",
+          "language": "en",
+          "languages": null,
+          "relation": null,
+          "type": null,
+          "extent": null,
+          "medium": null,
+          "date": "1868-01-02",
+          "date_not_after": "1868-01-04",
+          "date_not_before": "1868-01-02",
+          "date_display": "January 2, 1868",
+          "publisher": "Center for Research in the Digital Humanities, University of Nebraska-Lincoln",
+          "rights": null,
+          "rights_uri": null,
+          "rights_holder": null,
+          "source": "St. Louis Circuit Court, Civil Case Files, Box 282, Folder 6: February Term 1868, No. 8456",
+          "person": [
+            {
+              "name": "Bauer, Caroline",
+              "role": "bound party; petitioner", //do we want multiple rows/values to be semicolon-delimited or in an array?
+              "age_category": "adult",
+              "date_of_birth": "1888-01-01",
+              "immigrant_status": "Not Applicable",
+              "race_or_ethnicity": "Unstated; White",
+              "sex": "Female",
+              "relationships": [
+                {
+                  "relationship_type": "an institutional ward of",
+                  "related_to": "Sister Mary Julia"
+                },
+                {
+                  "relationship_type": "married to",
+                  "related_to": "Bauer, John"
+                }
+              ]
+            },
+            {
+              "name": "Bush, William",
+              "role": "[\"attorney\"]"
+            },
+            {
+              "name": "Gottschalk, Louis K.",
+              "role": "[\"attorney\"]"
+            },
+            {
+              "name": ", Mary Julia (Sister Mary Julia)",
+              "role": "[\"respondent\", \"holding party\"]"
+            },
+            {
+              "name": "Rombeauer, R. E.",
+              "role": "[\"judge hearing petition\"]"
+            },
+            {
+              "name": "Bauer, John James (Jean Jacques Bauer)",
+              "role": "[\"bound party\"s spouse\"]"
+            },
+            {
+              "name": "Lewis, John",
+              "role": "[\"clerk\"]"
+            },
+            {
+              "name": "Strewell, Phil",
+              "role": "[\"notary public\"]"
+            },
+            {
+              "name": "Baumgarten, Frederick",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Haumann, Christian N. H.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Danish, Mr.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Hack, Capt.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Kessler, Lieut.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Schneider, Frank A. H.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Hilgarten, Dr.",
+              "role": "Additional Party"
+            },
+            {
+              "name": "Stik, Peter",
+              "role": "Additional Party"
+            }
+          ],
+          "contributor": null,
+          "creator": null,
+          "recipient": null,
+          "spatial": {
+            "city": "St. Louis",
+            "county": "St. Louis County",
+            "state": "Missouri",
+            "place_name": "St. Louis, St. Louis County, Missouri"
+          },
+          "keywords": "['Institutionalization']",
+          "places": null,
+          "works": null,
+          "annotations_text": null,
+          "text": "0 Baumgarten, Frederick; Haumann, Christian N. H.; Danish, Mr.; Hack, Capt.; Kessler, Lieut.; Schneider, Frank A. H.; Hilgarten, Dr.; Stik, Peter St. Louis Circuit Court, Civil Case Files, Box 282, Folder 6: February Term 1868, No. 8456 hc.case.mo.0015 Circuit Court 1868-01-02 1868-01-04 Caroline Bauer was institutionalized by her husband, John James Bauer. She petitioned for a writ of habeas corpus, which was granted, and was ultimately released. 1868-01-02 Petition granted: bound party released ['Institutional: insanity '] ['Case File'] ['Missouri State Archives-St. Louis'] [\"Saint Vincent's Institution for the Insane (Normandy, MO)\"] ['Institutionalization'] In the Matter of Caroline Bauer By the Habeas Corpus Act  St. Louis, St. Louis County, Missouri St. Louis St. Louis County Missouri Adult; Adult; Adult; Adult; Adult; Adult; Adult; Adult ; ; ; ; ; ; ;  Bauer, Caroline; Bush, William; Gottschalk, Louis K.; , Mary Julia (Sister Mary Julia); Rombeauer, R. E.; Bauer, John James (Jean Jacques Bauer); Lewis, John; Strewell, Phil Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"]; [\"Unstated\", \"White\"] [\"Female\"]; [\"Male\"]; [\"Male\"]; [\"Female\"]; [\"Male\"]; [\"Male\"]; [\"Male\"]; [\"Male\"] ; ; ; ; ; ; ;  ; ; ; ; ; ; ;  [\"bound party\", \"petitioner\"]; [\"attorney\"]; [\"attorney\"]; [\"respondent\", \"holding party\"]; [\"judge hearing petition\"]; [\"bound party\"s spouse\"]; [\"clerk\"]; [\"notary public\"] [\"an institutional ward of \", \"married to\"]; [\"attorney against\", \"attorney for\", \"attorney with\"]; [\"attorney for\", \"attorney against\"]; ; ; ; ;  [\", Mary Julia (Sister Mary Julia)\", \"Bauer, John James (Jean Jacques Bauer)\"]; [\", Mary Julia (Sister Mary Julia)\", \"Bauer, Caroline\", \"Gottschalk, Louis K.\"]; [\"Bauer, Caroline\", \", Mary Julia (Sister Mary Julia)\"]; ; ; ; ; ",
+          "court_k": "Circuit Court",
+          "outcome_k": "Petition granted: bound party released",
+          "repository_k": "['Missouri State Archives-St. Louis']",
+          "sites_of_significance_k": "[\"Saint Vincent's Institution for the Insane (Normandy, MO)\"]",
+          "points_of_law_k": null,
+          "person_age_k": "Adult; Adult; Adult; Adult; Adult; Adult; Adult; Adult",
+          "person_date_k": null,
+          "person_immigrant_k": "Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable; Not Applicable",
+          "person_race_k": null,
+          "person_sex_k": "[\"Female\"]; [\"Male\"]; [\"Male\"]; [\"Female\"]; [\"Male\"]; [\"Male\"]; [\"Male\"]; [\"Male\"]",
+          "person_tags_k": "; ; ; ; ; ; ; ",
+          "person_notes_k": "; ; ; ; ; ; ; ",
+          "person_relationships_k": "[\"an institutional ward of \", \"married to\"]; [\"attorney against\", \"attorney for\", \"attorney with\"]; [\"attorney for\", \"attorney against\"]; ; ; ; ; ",
+          "person_related_to_k": "[\", Mary Julia (Sister Mary Julia)\", \"Bauer, John James (Jean Jacques Bauer)\"]; [\", Mary Julia (Sister Mary Julia)\", \"Bauer, Caroline\", \"Gottschalk, Louis K.\"]; [\"Bauer, Caroline\", \", Mary Julia (Sister Mary Julia)\"]; ; ; ; ; ",
+          "highlight": {
+            
+          }
+        }
+      ]
+    }
+  }
