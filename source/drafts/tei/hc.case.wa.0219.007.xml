@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0218.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gussie Goldman Woods v. Henry M. White, Return on Service of Writ</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0218.002</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gussie Goldman Woods v. Henry M. White, Commissioner of Immigration</title>
-<date when="1915-02-18">February 18, 1915</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<repository></repository>
+<collection></collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,18 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-02">18 February 1915</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Henry M. White</term>
-<term>John M. Boyle</term>
-<term>Morton. D. Wainwright</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>United States of America, Western District of Washington</term>
-<term>Seattle, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -97,34 +94,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Gussie Goldman Woods</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White, Commissioner of Immigration</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>George Vanderveer</persName>
-<persName>Cummings</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Edward H. Cushman</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington, Northern Division</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-01" who="#AS">transcribed and encoded</change>
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,20 +134,8 @@
 <div1 type="case">
 
 <pb/>
-<p>RETURN ON SERVICE OF WRIT.</p>
-<p>UNITED STATES OF AMERICA, 
-Western District of Washington } ss:</p>
-<p>I hereby certify and return that I served the annexed Writ of Habeas Corpus
-on the therein-named Henry M. White, Commissioner of 
-Immigration 
-by handing to and leaving a true and correct copy thereof with Henry M. White
-at Seattle, Wash in said District on the 18th day of
-February, A.D. 1915</p>
-<p>John M. Boyle</p>
-<p>U.S. Marshal.</p>
-<p>By Morton, D. Wainwright</p>
-<p>7-279</p>
-<p><unclear></unclear> 21/30</p>
+
+
 </div1>
     
 </body>
