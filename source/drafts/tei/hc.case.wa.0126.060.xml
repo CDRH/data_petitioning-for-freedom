@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0129.011"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.060"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sterling P. White v. Territory of Washington.</title> <!-- replace with name of case; type of document -->
+<title>Sterling P. White v. Territory of Washington. Sterling P. White Pauper Affidavit</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -21,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0129.011</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0126.060</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Sterling P. White v. Territory of Washington. </title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Sterling P. White v. Territory of Washington.  Sterling P. White Pauper Affidavit</title><!-- replace with name of case; type of document -->
 <date when="1885-05-02">May 2, 1885</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -85,8 +85,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Smallwood, W. H.</term><!-- insert names of other people mentioned in document -->
-<term>Feauerbach, Kate W.</term>
-<term>Strobuch R. </term>
+<term>Feuerbach, Kate W.</term>
+<term>Strobuch, R.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
