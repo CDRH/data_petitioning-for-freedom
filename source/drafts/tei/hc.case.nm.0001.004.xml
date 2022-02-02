@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0037.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William C. Logan v. R. F. Logan. Writ of Habeas Corpus</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -40,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.mo.0037.005</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William C. Logan v. R. F. Logan. Writ of Habeas Corpus</title>
-<date when="1856-08-21">August 21, 1856</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -75,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,53 +78,49 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1856-08">August 1856</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crawley, John</term>
-<term>Williams, Matthew</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis, Missouri</term> 
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Logan, William C.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Logan, R.F.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Decker</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName/>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Black, John</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>St. Louis Law Commissioners Court</orgName>
-<placeName>St. Louis, Missouri</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="djr">Transcribed.</change>
-<change when="2019" who="sab">Encoded, edited transcription.</change>
-<change when="2019" who="lkw"> Reviewed</change>
-<change when="2022" who="cjy">Edited encoding</change>
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,37 +128,26 @@
 <text>
 
 <body>  
-               
+
+
+
 <div1 type="case">
 
-<pb facs="hc.case.mo.0037.005"/>
+<pb/>
 
-<p>The State of Missouri</p>
+<p>No. 3384 Second Judicial District Court, Bernalilo County</p>
 
-<p>To R.F. Logan, Jailor of Saint Louis County, Greeting:</p>
+<p>Ex Parte</p>
 
-<p>You are commanded to have the body 
-of John Crawley before the Law 
-Commissioners Court of Saint Louis County 
-forthwith, together with the time and 
-cause of his detention by you to do 
-and receive what shall then and 
-there be adjuged concerning the said 
-John Crawley who as alleged in the 
-annexed petition is illegally restrained 
-of his liberty by you and have you 
-then and there this writ with you return 
-thereon</p>
+<p>Juan Rey Abeita</p>
 
-<p>Witness Matthew Williams 
-Clerk of the Law Commissioners 
-Court with the seal thereof 
-hereto affixed at office in 
-St Louis this 21st August 
-1856</p>
+<p>Action. Petition for Writ Habeas Corpus</p>
 
-<p>Matthew Williams Clk</p>
+<p>Plantiff's Attorney. Collin Matthew.</p>
 
+<p>July 18.</p>
+<p>July 5.</p>
+<p>Aug 15.</p>
 </div1>
     
 </body>

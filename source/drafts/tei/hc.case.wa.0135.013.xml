@@ -1,206 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0135.013">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. Wilson D. Coyle. Certificates of Bill of Costs</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0135.013</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Certificates of Bill of Costs</title>
+<date when="1885-11-23">November 23rd, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1538-02</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-11">November 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clement, D. A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Coyle, Wilson D.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hyde, S. C.</persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-02" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0135.013"/>
+
+<p>Certificate of Prosecuting Attorney</p>
+
+<p>I hereby certify that I have examined the foregoing bill of costs, and that the same
+amounting to the sum of $10.95 is just and correct.
+S.C. Hyde
+Prosecuting Attorney for Spokane County.</p>
+
+<p>Certificate of Presiding Judge</p>
+<p>I certify that I have examined the foregoing Bill of Costs, amounting to the sum
+of $10.95 and the same appearing to me to be just and correct, is hereby
+approved and allowed.
+George Turner
+Associate Justice Supreme Court Washington Territory 
+and Judge Fourth Judicial District</p>
+
+<p>Certificate of Clerk</p>
 <p>Territory of Washington
-County of Spokane}
-In the District Court of the
-Fourth Judicial District of Washington
-Territory holding terms at Cheney
-for the counties of Spokane Lincoln
-and Douglas-
-The Territory of Washington
-against
-Wilson D. Coyle
-Wilson D. Coyle being
-duly sworn says that he is the de-
-fendant in the above entitled invoice
-that he is accused in the indictment
-herein, with having committed the crime
-of an assault with intent to kill
-on the 14 day of April 1885. And
-that said indictment was oresented
-on the 16th day of April 1885-
-Defendant says that he is not guilty
-of the <del>offense</del> crime with which he
-stands charged in said indictment-
-And defendant says that he has duly 
-and fairly stated the facts in this 
-case to his counsel W.H. Smallwood
-Exp. an attorney of this court who
-resides at Sprague in the county of
-Lincoln- and that he is informed
-by his counsel after such statement
-made as aforesaid that he has
-a good valid and complete defense
-upon the merit to the above
-indictment and he hereby swears
-same to be true.
-That William Singleton
-George M Mailer James M B
-Edward Gilson William Kidd
-are each material witnesses for the
-defendant. Without the count og
-whom testimony he cannot safely
-proceed to the trial of this indictment.
-That he has fully and fairly stated
-to his counsel aforesaid the facts
-which he depicts to be after 5 prove
-by each of said persons named
-and that he is informed by his said
-counsel after such statement that 
-they are each necessary and material 
-witnesses and that he cannot safely
-proceed to the trial of this action with-
-out the testiony of each of said
-persons-
-That he expects to be able to prove
-and believe he will be after to prove
-by the testimony of William Singleton
-that some time in the latter part of March
-or first-part of April 1885. Charles Sea-
-man the person upon whom the crime
-affized in said indictment in therin asigned.
-have been committed. Thereabout to so
-great bodily harm to this defendant and
-that then and there stated to said William
-Singleton that he woulf "fix" this defense
-at the first chanve that offend and 
-that he had the tools to do it with
-and that he further prove by said
-William Singleton that information
-of said trials by said Seaman against
-this defendant was going to defraud
-by said Singleton about the Fifth of 
-April 1885, and that said Singleton
-then warned the defendant and warned
-him to be upon guard against attacks
-of personal violence from said Seaman.
-That he expects to be able to prove by and
-believe he will be to prove by-
-the said george McMailer that the 
-said Charles Seaman threatended in
-his presence and hearing that he
-would do great bodily injury ro the
-defendant when he should first op-
-portunity and that said George McMailer
-informed this defendant of said threat
-about the weeks since and named
-him be warned of said Seaman upon 
-account of said threats.
-That he expects to be able to prove
-by and believe he will be able to prove
-by the testimony of James U. M. Bea-
-That the said Charles Seaman in the
-presence and hearing of said James
-U.M. Bea threatened that he would
-shoot this defendant and that knowing
-os affect that said Seaman had made
-such threat was connected to upon
-defendant by said M. Bea on or about 
-this 6th day of April 1885.
-That he expects to be abe to prove 
-and believe he will prove by the testimony
-of Edward Gilson- that the said Charles 
-Seaman threatened that he would do
-great bodily harm to this defendant and
-that he stated to said Edward Gilson at the
-habit of making threats that he said Seaman
-was first to fo "it" and at the same time
-accompanied said statement with the exhibition
-of Iron knuckles and a revoler or pistol
-and that said Edward Gilson committed
-the facts of said trials and statements of
-said Charles Seaman to this defendant in this
-month of February 1885.
-That he expects to be able to prove by and 
-believe he will prove by the testimony 
-of William Kidd that the said Charles
-Seaman in the presence and hearing of
-said Kidd threatened to do great bodily
-harm to this defendant and said Will-
-iam Kidd committed the fact of such
-threats being made by said Seaman to this
-defendant in the month of March 1885
-and warned this defendant that he was
-in danger of his life ot great personal
-injury at the hands of said Seaman.
-And defendant further says that words
-of the persons above named and
-now within the jurisdiction of the
-court as defendant is informed and
-verily believes-
-That said William Singleton is a res-
-ident of Sprague in Lincoln County
-in the Territory and is not absent in
-the city of Chicago in the said of Illi-
-nois- where he went with person to the
-<unclear></unclear> in the market and defendant cannot 
-say when he will return- that he 
-left this Territory about two weeks since
-upon said indictment.
-That said George McMailer has resided
-for some months in Fairview in said
-county of Lincoln until about three
-weeks ago at which time he left said
-town and defendant has been unable
-to ascertain his present whereabouts
-although he has made dilligent attempts
-to ascertain the same.
-That the said James U.M. Bea was a
-resident of Sprague in said county
-and left said city on or about the
-6th day of April 1885, and at the time of
-his so leaving he informed this defendant
-that he was going Flat Head Lake
-in Montana Territory at which said
-defendant believes him now to be-
-That said Edward Gilson was and 
-defendant verily believes now is a resi-
-dent of Lebanon Linn County Oregon
-That he was at the residence of defendant
-in the month of February 1885, and defendant
-aforesaid saw him in Sprague in 
-Lincoln County, at which time
-was preparing to leave and he then 
-depoint that he was going to his home
-in said Lebanon.
-That said William Kidd was but a 
-casual acquaintance of defendant that
-said acquaintance was found at Sprague
-and said Kidd informed defendant that he 
-resided at Helena in Montana Territory
-and informed defendant at the time he
-left Sprague that he was going to head
-home. Said so defendant sayd upon
-such information &amp; verily believes that 
-said William Kidd is now at Helena
-Montana Territory and defendant further says
-that he is unable to prove the same facts which he
-upheld to prove by the said persons above named as herein
-<unclear></unclear>
-Said defendant further says that the acts octs
-consisting the alleged crime with which
-he stands charged having been accused 
-since the summoning og this court.
-at the present times sufficient time has
-not eloped an will not elope before
-the not of this time of said court.
-Within which it woulf be possible for this
-defendant to procure the attendance of test-
-imony of any of said persons to be
-said upon a trial of this action and 
-this term of this court.
-But defendant believes that if a con-
-tinuance of said action be granted
-he will be able to procure the persons
-ot testimony of each of said per-
-sons in time to be used upon the
-trial thereof at the next term of
-this court.
-Defendant further says that this affidavit
-and applicaton is made in good
-faith and not for the purpose
-o delay.
-Subscribed &amp; sworn to
-before me this 20th
-day of April 1885.} W.D. Coyle
-W.H. Smallwood
-Notary Public</p>
+County of Spokane}ss.</p>
+<p>I, D.A. Clement Clerk of the District Court of the Territory of Wash
+ington and for the Fourth Judicial District thereof, do hereby certify that the above and
+foregoing is a true and correct transcript of the costs in the above entitled cause, as the
+same now appears on record in my office.</p>
+<p>In testimony whereof I have hereunto set my hand and affixed the seal
+of said Court, this 23 day of Nov. A.D. 1885.
+D.A. Clement Clerk
+By Deputy</p>
+
+<pb/>
+
+<p>1538</p>
+
+<p>In the District Court of Washington
+Territory. Fourth Judicial Dis-
+trict.</p>
+
+<p>Oct Term at Cheney</p>
+
+<p>The Territory of Washington
+vs.
+Willis D. Coyle</p>
+
+<p>Bill of Costs.</p>
+
+<p>Filed <gap></gap> 188<gap></gap>
+<gap></gap>Auditor</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

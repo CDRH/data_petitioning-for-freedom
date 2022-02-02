@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Inquisition</title> 
+<title>Sterling P. White v. Territory of Washington.  Inquisition</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -107,10 +107,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>White, Sterling. P.</persName>
+<persName>White, Sterling P.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -119,20 +119,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Carpenter, J. W.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
+<orgName>Fourth District Court</orgName>
 <placeName>Spokane, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>       
+<change when="2022-01" who="lkw"> review</change>        
 <change when="2021-09" who="brh">transcribed and encoded.</change>
 </revisionDesc>
 

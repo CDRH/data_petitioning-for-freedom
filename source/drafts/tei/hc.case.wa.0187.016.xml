@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0037.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.016">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William C. Logan v. R. F. Logan. Writ of Habeas Corpus</title>
+    <title>Marie Robina Grayson vs. Henry M. White. Criminal</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -40,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.mo.0037.005</idno>
+<idno type="project">hc.case.wa.0187.016</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William C. Logan v. R. F. Logan. Writ of Habeas Corpus</title>
-<date when="1856-08-21">August 21, 1856</date>
+    <title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal</title>
+<date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -75,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,53 +78,53 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1856-08">August 1856</date></term>
+<term><date when="1914-08">August 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crawley, John</term>
-<term>Williams, Matthew</term>
+<term>Allen, Clay</term>
+<term>Crosby, Frank L. </term>    
+<term>Grayson, Marie Robina</term>
+<term>Lakin, Edward M.</term>    
+<term>Neterer, Jeremiah</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>St. Louis, Missouri</term> 
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Logan, William C.</persName>
+<persName>Marie Robina Grayson</persName>
 </person>
 <person role="defendant">
-<persName>Logan, R.F.</persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Decker</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName/>
+<persName>Clay Allen</persName>
 </person>
 <person role="judge">
-<persName>Black, John</persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>St. Louis Law Commissioners Court</orgName>
-<placeName>St. Louis, Missouri</placeName>
+    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018" who="djr">Transcribed.</change>
-<change when="2019" who="sab">Encoded, edited transcription.</change>
-<change when="2019" who="lkw"> Reviewed</change>
-<change when="2022" who="cjy">Edited encoding</change>
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,36 +132,61 @@
 <text>
 
 <body>  
-               
+
+
+
 <div1 type="case">
 
-<pb facs="hc.case.mo.0037.005"/>
+<pb/>
+<p>UNITED STATES DISTRICT COURT
+WESTERB DISTRICT OF WASHINGTON
+NORTHERN DIVISION</p>
 
-<p>The State of Missouri</p>
+<p>In Re Marie Robina Grayson, 
+alias Marie Robina, for 
+WRIT OF HABEAS CORPUS )
+No.2780
+ORDER.</p>
+<p>Front</p>
 
-<p>To R.F. Logan, Jailor of Saint Louis County, Greeting:</p>
+<p>Upon the oral mortion of Clay Allen, United States
+Attorney for the Western District of Washington, attorney 
+for the respondent in the above entitled cause;</p>
+<p>IT IS HEREBY ORDERED that the stay of twenty days
+granted and directed in an order entered in this cause on 
+the 20th day of July, 1914, be, and the same hereby is 
+extended for an additional period of fourteen days, or to and 
+inclusive of August 21, 1914, and the respondent herein is 
+given to the date last mentioned in which to enter an appeal
+<add>and the conditions of the petitioner to remain in 
+force until such time and if appeal is prosecuted bond to be 
+given as heretofore stated</add></p>
+<p>Dated this 5th day of August, 1914.</p>
+<ab>Jeremiah Neterer <lb/>
+Judge.</ab>
+<pb/>
+    <p>2X</p>
+<p>No. 2780</p>
+<p>IN THE DISTRICT COURT
+OF THE UNITED STATES 
+FOR THE 
+WESTERN DISTRICT OF WASHINGTON</p>
 
-<p>You are commanded to have the body 
-of John Crawley before the Law 
-Commissioners Court of Saint Louis County 
-forthwith, together with the time and 
-cause of his detention by you to do 
-and receive what shall then and 
-there be adjuged concerning the said 
-John Crawley who as alleged in the 
-annexed petition is illegally restrained 
-of his liberty by you and have you 
-then and there this writ with you return 
-thereon</p>
+<p>In Re Marie Robina Grayson,
+alias Marie Robina, for 
+WRIT OF HABEAS CORPUS.</p>
 
-<p>Witness Matthew Williams 
-Clerk of the Law Commissioners 
-Court with the seal thereof 
-hereto affixed at office in 
-St Louis this 21st August 
-1856</p>
+<p>GOB - H - 60</p>
 
-<p>Matthew Williams Clk</p>
+<p>ORDER.</p>
+
+<p>FILED IN THE 
+U. S. District Court, 
+Western Dist. of Washington,
+Northern Division
+AUG 7-1914</p>
+<ab>FRANK L. CROSBY, Clerk
+By EML Deputy</ab>
 
 </div1>
     
