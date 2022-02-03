@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas L. Thurston v. Defendant. Writ Denied.</title>
+<title>Thomas L. Thurston v. Defendant. Return to Petition for Writ.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas L. Thurston v. Defendant. Writ Denied.</title>
+<title level="m" type="main">Thomas L. Thurston v. Defendant. Return to Petition for Writ.</title>
 <date when="1916">1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -78,49 +78,51 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-04">April, 1918</date></term>
+<term><date when="1916-01">January, 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Thomas L. Thurston</term> 
+<term>Frank L. Crosby</term> 
+<term>E.Lakin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>District Court of the United States for the District of Northern Washington. Northern Division</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>Thomas L. Thurston</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName>
+<persName></persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner">
-<persName></persName>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>J. Henry Denning</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName><!-- insert court name -->
+<placeName>Western District of Washington, Northern Division</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,7 +136,23 @@
 <div1 type="case">
 
 <pb/>
-
+<p>No. 3128</p> 
+<p>IN THE DISTRICT COURT
+OF THE UNITED STATES
+FOR THE 
+WESTERN DISTRICT OF WASHINGTON.
+NORTHERN DIVISION.</p> 
+<p>In the Matter of the Petition
+of Thomas L. Thurston for a 
+Writ of Habeas Corpus.</p> 
+<p>RETURN TO PETITION FOR WRIT</p>
+<p>FILED IN THE
+U.S. District Court,
+Western Dist. of Washington,
+Northern Division
+Jan 3 - 1916
+Frank L. Crosby, Clerk
+By Eml Deputy 5x</p>
 
 </div1>
     
