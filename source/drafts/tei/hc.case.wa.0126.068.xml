@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0130.003"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.068"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sterling P. White v. Territory of Washington.  Indictment</title> 
+<title>Sterling P. White v. Territory of Washington. Indictment</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0130.003</idno>
+<idno type="project">hc.case.wa.0126.068</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White. Indictment</title>
+<title level="m" type="main">Territory of Washington v. Sterling P. White. Indictment</title>
 <date when="1885-04-17">April 17, 1885</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
@@ -86,25 +86,24 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Beardon, Ames Light</term><!-- insert names of other people mentioned in document -->
-<term>Hyde, S. C.</term>
-<term>Beardon, H. S.</term>
-<term>J. L. Beardon</term>
-<term>Prindle, Charles</term>
-<term>Portch, H.</term>
-<term>Rogers, A. J.</term>
-<term>Lisle, J.</term>
+<term>Beardon, Amos Light</term>
+<term>Beardon, Henry S.</term>
+<term>Brindell, Charles T.</term>
+<term>Portch, Howard</term>
+<term>Rogers, O. J.</term>
+<term>Lyle</term><!-- Mrs. -->
 <term>Portch, E. A.</term>
-<term>Lisle, M. A.</term>
-<term>Beardon, Frank</term>
+<term>Lyle, M. A.</term>
+<term>Beardon, Frank J.</term>
+<term>Beardon, J. L.</term>
 
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County</term>
-<term>Lincoln County</term>
-<term>Douglas County</term>
-<term>Cheney</term>
+<term>Spokane County, Washington</term>
+<term>Lincoln County, Washington</term>
+<term>Douglas County, Washington</term>
+<term>Cheney, Washington</term>
 </keywords>
 
 </textClass>
@@ -121,7 +120,7 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Hyde, S. C.</persName>
 </person>
 <person role="judge">
 <persName>Carpenter, J. W.</persName>
