@@ -1,17 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0225.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas L. Thurston v. O.P. Halligan. Motion for Writ.</title> <!-- replace with name of case; type of document -->
+<title>Thomas L. Thurston v. O.P. Halligan. Exhibit "A"</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -32,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0225.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0225.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -42,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas L. Thurston v. O.P. Halligan. Motion for Writ.</title><!-- replace with name of case; type of document -->
-<date when="1915-11-10">October 11, 1915</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">Thomas L. Thurston v. O.P. Halligan. Exhibit "A"</title>
+<date when="1915">1915</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
-<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -67,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -75,21 +78,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-10"></date>11 October 1915</term><!-- insert date of court term -->
+<term><date when="1915-07">July 15, 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Thomas L. Thurston</term>
-<term>J. Henry Denning</term><!-- insert names of other people mentioned in document -->
+<term>Thomas. L. Thurston</term>
+<term>Agnes V. Thurston</term> 
+<term>Henry Roden</term>
+<term>Charles E. Taylor</term>
+<term>R.F. Roth</term>
+<term>Charles E. Bunnel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>United States District Court Western District of Washington Northern Division</term><!-- insert places mentioned -->
+<term>District Court of the Territory of Alaska 
+Fourth Judicial Division.</term> 
+<term>McNeil's Island, State of Washington</term>
 </keywords>
 
 </textClass>
-            
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
@@ -119,7 +126,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022-02" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -127,33 +134,47 @@
 <text>
 
 <body>  
-               
+
+
+
 <div1 type="case">
 
-<pb facs="hc.case.wa.0225.001"/> <!-- insert number from spreadhseet -->
-<p>United States District Court for the Western District of Washington</p> 
-<p>IN THE MATTER OF THE PETITION OF
-THOMAS L THURSTON FOR A WRIT 
-OF habeas corpus</p> 
-<p>No. 3128 
-MOTION FOR WRIT</p> 
+<pb/>
+<p>IN THE DISTRICT COURT FOR THE TERRITORY OF ALASKA
+FOURTH JUDICIAL DIVISION.</p> 
+<p>United States of America, 
+Plaintiff.
+vs. 
+Thos. L. Thurston and
+Agnes V. Thurston, 
+Defendants. } No. 44 1. Cr. 
+J U D G M E N T.</p> 
+<p>This being the time set by the Court for the pronounc-
+ing of judgment against the above named defendants and the
+above named defendants and each of them being present in
+open Court with their attorneys Henry Roden and Chas.E.
+Taylor and R.F. Roth, District Attorney, being present,
+and the Court having asked the defendants and each of them
+if there was any reason or cause why judgment should not be
+pronounced, and it appearing to the Court that no reason or
+cause exists why judgment should not be pronounced,</p> 
+<p>NOW THEREFORE, it is the judgment of the law and the
+sentence of this Court that the defendant Thomas L. Thurs-
+ton be confined in the United States penitentiary at Mc-
+Neil's Island for a period of one year and three months
+and that he be committed to the United States Marshal for
+the Fourth Division, Territory of Alaska for the execution
+of this sentence, and said marshal is hereby ordered to
+take said defendant Thomas L. Thurston in custody and de-
+liver him to the United States penitentiary at McNeil's
+Island, State of Washington, as in this judgment provided</p>
+<p>Done in open Court at Iditarod this 15th day of July,
+1915.</p> 
+<p>Charles E. Bunnell
+District Judge</p>
 
-<p>How come the above named Petitioner, by his Counsel,
-J Henry Denning, and hereby moves the Court that a Writ of 
-habeas corpus issue herein as prayed for in his petition filed 
-herein on the 11th day of October 1915.</p>
-<p>Henry Denning 
-Attorney for Petitioner</p> 
-
-<p>To the Clerk of the above entitled Court: 
-You will please note the above motion on the 
-Motion Calender for Monday, December 27, 1915.</p> 
-<p>Henry Denning
-Attorney For Petitioner</p>
 </div1>
-
-   
-</body> 
-
+    
+</body>
 </text>
-</TEI> 
+</TEI>
