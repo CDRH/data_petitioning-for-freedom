@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0130.009"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.074"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sterling P. White v. Territory of Washington.  Copy of Docket</title> 
+<title>Sterling P. White v. Territory of Washington. Copy of Docket</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -39,7 +39,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0130.009</idno>
+<idno type="project">hc.case.wa.0126.074</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Sterling P. White. Copy of Docket</title>
-<date when="1884-12-25">December 25th, 1884</date>
+<title level="m" type="main">Territory of Washington v. Sterling P. White. Copy of Docket</title>
+<date when="1884-12-25">December 25, 1884</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
@@ -86,17 +86,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>White, C. B.</term>
-<term>Portch, H.</term>
+<term>Portch, Howard</term>
 <term>Portch, E. A.</term>
-<term>Beardon, H.</term>
-<term>Beardon, Frank</term>
-<term>Januk, John</term>
+<term>Beardon, Henry S.</term>
+<term>Beardon, Frank J.</term>
+<term>Jump, John</term>
 <term>Rodgers, O. J.</term>
 <term>Welch, R. C.</term>
-<term>Sherman, S. W.</term>
-<term>Williams, W. R.</term>
-<term>Rohdes, William</term>
+<term>Sherman, George W.</term>
+<term>Williams, Wells R.</term>
+<term>Rhodes, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -114,7 +113,7 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>White, C. B.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -150,37 +149,41 @@
 
 <fw type="footer"> &amp;</fw>
 
-<p>Copy of docket
-Ter of Wash
-vs.
-S.P White }
-Charge Murder
-In the matter of the Ter. verses S P White
+<p>Copy of docket</p>
+
+<p>Ter of Wash<lb/>
+vs.<lb/>
+S.P White }<lb/>
+Charge Murder</p>
+
+<p>In the matter of the Ter. verses S P White
 Said S P White was arrested on a warrant
-issued by the <del>under</del> active coroner upon a
-verdict of said Coroners Jury which con-
-veyed on the 25th day Dec A.D. 1884
+issued by the <del>under</del> acting coroner upon a
+verdict of said Coroners Jury which convened
+ on the 25th day Dec A.D. 1884
 C.B. White for defendant and at the inquest
 of the undersigned J.H. Friedlander assisted
 in trying said case for Prosecution
-compel for defense ask for a continuance
+counsel for defense ask for a continuance
 on the grounds that he was not a lawyer
 and had <unclear>within</unclear> get one. the Justice
 decided that it was not a sifficient
 excuse as then had elapsed 15 days
 and that it was time enough</p>
+
 <p>Defendant then waived an examination on 
-the same grounds not granted then asked 
-for a change of venue in cause being shown
+the same grounds, not granted then asked 
+for a change of venue no cause being shown
 the Trial proceeded and justice claimed 
-that he in jurisdiction in the case only 
-as committing magistate.
+that he no jurisdiction in the case only 
+as committing magistate.</p>
+<p>
 The following witness were duly sworn
 and examined viz. H. Portch E.A. Portch
-H. Beardon Frank Beardon John Januk
-O. J. Rodgers R. C. Welch S. W. Sherman
+H. Beardon Frank Beardon John Jump
+O. J. Rodgers R. C. Welch G. W. Sherman
 W. R. Williams and Wm. Rohdes
-the evidence being all in the sworn of the</p>
+the evidence being all in. the sworn of the</p>
 
 </div1>
     
