@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.022">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0187.022</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+<date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-09">September 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Allen, Clay</term>
+<term>Castner, B. P.</term>    
+<term>Crosby, Frank L.</term>
+<term>Grayson, Marie Robina</term>
+<term>Lakin, Edward M.</term>
+<term>Lyen, J. L.</term>
+<term>Merrick, Louis A.</term>
+<term>Shakespeare, Noah</term>
+<term>Stevenson, A. D.</term>
+<term>White, Henry M.</term>
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Everett, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,26 +104,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Marie Robina Grayson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Noah Shakespeare</persName>
+<persName>Louis A. Merrick</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Clay Allen</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,7 +145,132 @@
 <div1 type="case">
 
 <pb/>
+<p>UNITED STATES OF AMERICA. DISTRICT COURT FOR THE WESTERN DISTRICT OF 
+WASHINGTON. NORTHERN DIVISION.</p>
 
+<p>In the matter of the petition 
+of Marie Robina Grayson, for 
+a Writ of Habeas Corpus. 
+PETITIONERS BOND ON APPEAL BY 
+THE GOVERNMENT.
+2780</p>
+
+<p>KNOW ALL MEN BY THESE PRESENTS That  we Marie Robina Grayson, 
+as principal, and J. L. Lyen and B. P. Castner, as sureties are held 
+and firmly bound unto the United States of America, in the penal sum of 
+$1000.00,for the payment whereof well and truly to be made in good and 
+lawful money of the United States of America, we do bind ourselves,
+and each of our heirs, executors, administrators and assigns jointly 
+and severally firmly by these presents.</p>
+<p>Sealed with our seals and dated this 24th day of August, 1914.</p>
+<p>The condition of the above obligation is such that where heretofore
+the above named principal, Marie Robina Grayson, duly filed her 
+petition for the allowance of a Writ of Habeas Corpus, and thereupon
+such Writ issued to Henry M. White, Commissioner of Immigration directed
+and thereupon the said Henry M. White, made full return to said petition
+whereupon a hearing upon the petition, return of the respondent and 
+petitioners reply, to such return, was duly had in the above entitled
+Court, and thereafter and on the 20th day of July, 1914, the above
+entitled Court in the above cause did make and file its Order upon
+such Writ of Habeas Corpus, discharging the above named principal, Marie
+Robina Grayson and releasing her from the custody of the said Henry M. 
+White, by whom theretofore she had been held, and thereafter the United
+States did appeal from such Order and Judgment of this Court, in due 
+form of law, to the United States Circuit Court of Appeals, for the 
+Ninth Judicial Circuit, and this Court did make its order allowing 
+such appeal, and directing that pending the said appeal and hearing, 
+and determination thereof, the petitioner and principal Marie Robina 
+<fw>-1-</fw>
+<pb/>
+Grayson should be enlarged upon executing a recognizance to the 
+United States of America for her appearance to answer any Judgment in 
+said matter given by the United States Circuit Court of Appeals for 
+the Ninth Judicial Circuit.</p>
+<p>NOW THEREFORE if the said Marie Robina Grayson shall appear,
+answer to and abide and Judgment or Order made in said matter, by
+the United States Circuit Court of Appeals for the Ninth Judicial 
+Circuit, and shall render herself up in obedience to any Judgment or 
+Order in said Circuit Court of Appeals in said matter, then this 
+obligation to be null and void otherwise to be and remain of full force
+and virtue.</p>
+<p>IN WITNESS WHEREOF We have hereunto set our hands and seals the 
+day and year first above written.</p>
+
+<ab>Mary Robina Grayson <lb/> 
+J L Lyen <lb/>
+B P Castern</ab>
+
+<p>SIGNED SEALED AND DELIVERED 
+IN THE PRESENCE OF</p>
+<ab>A. D. Stevenson <lb/>
+<unclear/>
+WESTERN DISTRICT OF WASHINGTON.SS.</ab>
+
+<p>J.L. LYEN AND B. P. CASTNER first being duly 
+sworn on their oaths do severally say, each for himself, and not one 
+for the other, that they are the sureties named in and by whom the 
+foregoing instrument was executed, that they are residents of the 
+County of Snohomish, in the District aforesaid; that they are 
+severally worth the sum of $1000.00named in the within bond, above their
+just debts and liabilities, and exclusive of their property, exempt
+from execution, in separate property; that they are free holders of 
+and in District aforesaid, and citizens thereof; that they are 
+neither an attorney, sheriff, clerk of any court, or other officer of 
+any Court.</p>
+<fw>-2-</fw>
+<pb/>
+<ab>J L Lyen <lb/>
+A B Castner</ab>
+
+<p>Subscribed and sworn to before me
+this 24th day of August, 1914.</p>
+<ab>Noah Shakespeare <lb/>
+Notary Public, Washington, residing at 
+Everett.</ab>
+
+<p><del>Ok Allen
+US Atty</del></p>
+
+<p>O.K. 
+Allen
+US Atty.</p>
+
+<p>S &amp; Sworn Sept 2 1914</p>
+<ab>Jeremiah Neterer <lb/>
+Judge</ab>
+<pb/>
+<p>2780
+2x</p>
+<p>UNITED STATES OF 
+AMERICA
+DISTRICT COURT 
+FOR THE 
+WESTERN DISTRICT OF 
+WASHINGTON
+NORTHERN DIVISION</p>
+
+<p>In Re. PETITION OF MARIE 
+ROBINA GRAYSON FOR A WRIT OF 
+HABEAS CORPUS
+<del>Bankrupt</del></p>
+
+<p>B S I 9 - 4 - <del>286</del> <add>286</add></p>
+
+<p>PETITIONERS BOND ON APPEAL 
+BY THE GOVERNMENT.</p>
+
+<p>FILED IN THE 
+U. S. District Court, 
+Western Dist. of Washington, 
+NORTHERN DIVISION
+SEP 2 - 1914</p>
+<ab>FRANK L. CROSBY, Clerk, 
+By EML Deputy</ab>
+
+<p><add>NOAH SHAKESPEARE AND</add>
+LOUIS A. MERRICK
+Attorney for PETITIONER.
+Everett, Washington</p>
 
 </div1>
     
