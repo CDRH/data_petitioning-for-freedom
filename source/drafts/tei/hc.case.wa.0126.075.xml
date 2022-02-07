@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.075">
     
 <teiHeader>
 <fileDesc>
@@ -20,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0131.001</idno>
+<idno type="project">hc.case.wa.0126.075</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington V. Sterling P. White. Arrest Warrant</title>
-<date when="1884-12-25">December 25th, 1884</date>
+<date when="1884-12-25">December 25, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,8 +83,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Beardon, A. L.</term>
-<term>White, Bud</term>
+<term>Beardon, Amost Light</term>
 <term>Friedlander, J. H.</term>
 <term>Feuerbach, Kate W.</term>
 </keywords>
@@ -141,41 +140,51 @@
 <pb facs="hc.case.wa.0131.001"/>
 
 <p>United States of America
-Territory of Washington} 
-To any sheriff or constable of the county.
-An inquisition having then this day found
+Territory of Washington} ss</p>
+
+<p>To any sheriff or constable of the county</p>
+
+<p>An inquisition having then this day found
 by the coroner's jury now stating that 
 A.L. Beardon came to his death by the act
 of S. White alias Bud White by criminal
 means you are therefore commanded in the 
 name of the United States of America forthwith
-to arrest the above names S. White alias Bud White
-and take him before the nearest of most
-accessible magistrate in this county.
-Given under my hand this 25th day of
-December AD 1884
-J.W. Carpenter
-Justice of the Peace
+to arrest the above named S. White alias Bud White
+and take him before the nearest or most
+accessible magistrate in this county.</p>
+
+<p>Given under my hand this 25th day of
+December AD 1884</p>
+
+<p>J.W. Carpenter<lb/>
+Justice of the Peace<lb/>
 Acting Coroner of
 Lincoln County</p>
 
 <pb/>
 
-<p>Warrant
-Arrested the within named
+<p>Warrant</p>
+
+<p>Arrested the within named
 S. White and found that he
 was unable to be taken to
 a place of confinement from
 wound received place a 
 guard over him by the order 
-of JW Carpenter <unclear>JP</unclear>
-J. H. Friedlander 
-Deputy Sheriff
-Lincoln Co. W.T.
-Dec 25th 1884
-Filed March 5th 1885
-Kate W. Feuerbach
+of JW Carpenter JP</p>
+
+<p>J. H. Friedlander <lb/>
+Deputy Sheriff<lb/>
+Lincoln Co. W.T.<lb/>
+
+Dec 25th 1884</p>
+
+<p>Filed March 5th 1885<lb/>
+Kate W. Feuerbach<lb/>
 Clerk</p>
+
+
 
 </div1>
     

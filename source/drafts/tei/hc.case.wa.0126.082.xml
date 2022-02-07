@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.008">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.082">
     
 <teiHeader>
 <fileDesc>
@@ -20,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0131.008</idno>
+<idno type="project">hc.case.wa.0126.082</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington V. Sterling P. White. Writ of Habeas Corpus</title>
-<date when="1885-02-07">February 7th, 1885</date>
+<date when="1885-02-07">February 7, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -84,13 +84,13 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Feuerbach, Kate W.</term>
+<term>Mahoney</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Yakima City, Washington</term>
 <term>Lincoln County, Washington</term>
 <term>Spokane, Washington</term>
-<term>Mahoney, Washington</term>
 </keywords>
 
 </textClass>
@@ -105,6 +105,8 @@
 </person>
 <person role="attorney_petitioner">
 <persName>Smallwood, W. H.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Benson, E. F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -125,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
 <change when="2021-09" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
@@ -144,8 +147,8 @@ Fourth Judicial District of
 Washington Territory</p>
 
 <p>In the trial of the 
-petition of S.P. White
-vs.
+petition of S.P. White<lb/>
+vs.<lb/>
 John Cody Sheriff
 of Lincoln Co. W.T.}</p>
 
@@ -157,9 +160,9 @@ Greeting:</p>
 <p>We command you 
 that you have the body of S.P. 
 White by you imprisoned and
-detained a writ is said, together with
+detained as it is said, together with
 the time and cause of such imprisonment
-and detention by <unclear>what seen</unclear>above name
+and detention by whatsoever name
 the said White shall be called or
 charged before the judge of the 4th
 Judicial District of Washington Territory 
@@ -169,62 +172,67 @@ A.D. 1885, at the hour of 10
 o'clock a.m. or as soon after the
 issuance of the writ at the same
 can be reasonably returned and
-heard, to do and secure what</p>
+heard, to do and secure what
 
 <pb/>
 
-<p>shall then and there be considered 
+shall then and there be considered 
 and determined conerning
  the said S.P. White, and have 
-you then and there this writ.
-Witness the honorable George 
+you then and there this writ.</p>
+
+<p>Witness the honorable George 
 Turner Judge of the 4th Judicial 
 District of Washington
 Territory at Yakima City W.T.
-the 7th day of February A.D. 1885
-Kate W. Feuerbach
+the 7th day of February A.D. 1885</p>
+<p>Kate W. Feuerbach<lb/>
 Clerk
 </p>
 
-<p>W.H. Smallwood
+<p>W.H. Smallwood<lb/>
 E.F. Benson} Attorneys for petitioner}
 
 </p>
 
 
 <p>
-Territory of Washington
-County of Lincoln
-I John Cody sheriff of Lincoln 
+Territory of Washington<lb/>
+County of Lincoln</p>
+
+<p>I John Cody sheriff of Lincoln 
 Washington Territory do hereby
 certify that I received the within 
 writ on the 10th day of February
 A.D. 1885 and that I executed 
-the <unclear></unclear>as within commanded
+the  same as within commanded
 and now have the Defendant S.P.
-White in Court.
-Dated this 13th day of Feb. 1885
-John Cody
+White in Court.</p>
+
+<p>Dated this 13th day of Feb. 1885</p>
+
+<p>John Cody<lb/>
 Sheriff
 of said County
-of Lincoln
+<unclear>Per Mahoney Dp</unclear>
 </p>
 
 <pb/>
 
 <p>And I further certify the reason
-I held this said S.P. White was by
+I held the said S.P. White was by
 virtue of a committment which
-is here to annuled and in a due
-part of this return
-John Cody Sheriff
-Lincoln Co. W.T.
-Per Mahoney W.T.</p>
+is here to annexed and in made
+part of this return</p>
+
+<p>John Cody Sheriff<lb/>
+Lincoln Co. W.T.<lb/>
+Per Mahoney Dp</p>
 
 <pb/>
 
-<p>Filed Feb 17th 1885
-Kate W. Feuerbach
+<p>Filed Feb 17th 1885<lb/>
+Kate W. Feuerbach<lb/>
 Clerk</p>
 
 
