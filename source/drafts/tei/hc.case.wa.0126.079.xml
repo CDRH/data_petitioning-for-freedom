@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0131.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.079">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Sterling P. White. Record of Inquisition</title>
+<title>Sterling P. White v. Territory of Washington. Record of Inquisition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -20,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0131.005</idno>
+<idno type="project">hc.case.wa.0126.079</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington V. Sterling P. White. Record of Inquisition</title>
-<date when="1884-12-25">December 25th, 1884</date>
+<date when="1884-12-25">December 25, 1884</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,9 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Beardon, A. L.</term>
+<term>Beardon, Amos Light</term>
 <term>Lyle, M. A.</term>
-<term>White, Bud.</term>
 <term>Friedlander, J. H.</term>
 <term>Feuerbach, Kate W.</term>
 </keywords>
@@ -125,6 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
 <change when="2021-09" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,29 +141,32 @@
 <pb facs="hc.case.wa.0131.005"/>
 
 <p>Whereas I have been informed this 25th day of
-Dec. A.D. 1884 that A.L. Beardon death was caused
+Dec. A.D. 1884 that A.L. Beardons death was caused
 by unlawful means. I have summoned a 
 jury and proceeded to inquire the death
-of said A.L. Beardon.
-The Jury being duly sworn proceeded to 
+of said A.L. Beardon.</p>
+
+<p>The Jury being duly sworn proceeded to 
 view the remains and then examined
-the witnesses where statements are here-
-unto attached. After the examination 
-of the witnesses the jury retired for delib-
-eration and reviewed the verdict also
+the witnesses where statements are hereunto
+ attached. After the examination 
+of the witnesses the jury retired for deliberation
+ and reviewed the verdict also
 attached. Dr. M.A. Lyle sworn statement 
 is also attached. A warrant was issued by 
-me and given to Deputy Sheriff J. Friedlander
-to serve on S. White alias Bud White.
-I hereby certify that the above is a true
-record of the inquisition held by me.
-J.W. Carpenter
-Justice of the Peace
+me and given to Deputy Sheriff JH Friedlander
+to serve on S. White alias Bud White.</p>
+
+<p>I hereby certify that the above is a true
+record of the inquisition held by me.</p>
+
+<p>J.W. Carpenter<lb/>
+Justice of the Peace<lb/>
 Acting Coroner</p>
 
 <pb/>
-<p>Filed March 5th 1885
-Kate W. Feuerbach
+<p>Filed March 5th 1885<lb/>
+Kate W. Feuerbach<lb/>
 Clerk</p>
 
 
