@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0134.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.094">
     
 <teiHeader>
 <fileDesc>
@@ -20,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0134.001</idno>
+<idno type="project">hc.case.wa.0126.094</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Territory of Washington V. Sterling P. White. Bill of Costs</title>
-<date when="1885-05-09">May 9th, 1885</date>
+<date when="1885-05-09">May 9, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -93,20 +93,19 @@
 <term>Rogers, O. J.</term>
 <term>Portch, J. H.</term>
 <term>Beardon, Frank</term>
-<term>Portch, J. H.</term>
 <term>Beardon, Henry</term>
 <term>Beardon, J. T.</term>
-<term>Brindle, C. T.</term>
+<term>Brindle, Charles T.</term>
 <term>Lyle, M. A.</term>
 <term>Short, S. L.</term>
 <term>Portch, E. A.</term>
 <term>Williams, W. W.</term>
 <term>Harte, J. H.</term>
-<term>L., Eva</term>
+<term>L., Eva</term><!-- check -->
 <term>White, C. B.</term>
 <term>Mayer, J. D.</term>
 <term>Fuftts, F. M.</term>
-<term>Janepp, John H.</term>
+<term>Jump, John H.</term>
 <term>Warren, E. H.</term>
 <term>Short, J. P.</term>
 <term>Sherman, George W.</term>
@@ -162,6 +161,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
 <change when="2021-11" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
@@ -179,78 +179,81 @@
 <p>Trial in District Court
 Clerks Cost R. Strobach-Deputy</p>
 <p>
-To Docket .25
-Appearance .50
-Ent &amp; file J.P. Transcript .35
-" Indictment .60
-Certified copy of " 2.00
-Ent arraignment plea .50
-Taking plea "not guilty" .50
-Two subpoenas 1.00
-One " .50
-Three " 1.50
-File above six subpoenas .60
-Issue jailed .50
-Calling jury-swear and ques' .25
-Swear 17 jurors &amp; all men separately 2.55
-" jury to try case .25
-" 22 witnesses 3.30
-" Bailiff .15
-Calling jury &amp; file verict .35
-Ent. claimes of 20 witnesses 4.50
-Sentence .50
-Certified copy of sentenced 1.40
-Final Record 3.40
-Taxing cost .50
-Three transcripts 6.00
+To Docket .25<lb/>
+Appearance .50<lb/>
+Ent &amp; file J.P. Transcript .35<lb/>
+" Indictment .60<lb/>
+Certified copy of " 2.00<lb/>
+Ent arraignment plea .50<lb/>
+Taking plea "not guilty" .50<lb/>
+Two subpoenas 1.00<lb/>
+One " .50<lb/>
+Three " 1.50<lb/>
+File above six subpoenas .60<lb/>
+Issue jailed .50<lb/>
+Calling jury-swear and ques' .25<lb/>
+Swear 17 jurors &amp; all men separately 2.55<lb/>
+" jury to try case .25<lb/>
+" 22 witnesses 3.30<lb/>
+" Bailiff .15<lb/>
+Calling jury &amp; file verict .35<lb/>
+Ent. claimes of 20 witnesses 4.50<lb/>
+Sentence .50<lb/>
+Certified copy of sentenced 1.40<lb/>
+Final Record 3.40<lb/>
+Taxing cost .50<lb/>
+Three transcripts 6.00<lb/>
 3 Certificates 3.00 34.95
 </p>
 
 <p>Sheriffs Fees John Cody
-Trial in District Court
-To serving subpoenas as witnesses
-one subpoenas one name 2 miles .60
-" " 2 " 4 " 1.20
-" " 2 " 150 " 15.80
-" " 3 " 100 " 11.20
+Trial in District Court</p>
+
+<p>To serving subpoenas as witnesses
+one subpoenas one name 2 miles .60<lb/>
+" " 2 " 4 " 1.20<lb/>
+" " 2 " 150 " 15.80<lb/>
+" " 3 " 100 " 11.20<lb/>
 " " 3 " - - 1.20
 </p>
 
 <pb/>
 
 <p>
-Amount brougth forward 34
-To serving one subpoena 2 names 176 miles 18.40
-" 30 " 3.00
-" 1 " 1 48 5.20
-" 1 1 2 .60
-" 1 1 4 .80
-" 1 1 14 " 1.80
-" 1 1 2 " .60
-" " " 2 " .60
-" " " 164 " 16.80
-" " " 2 " .60
-" " " 146 " 15.00
-" " " 162 " 16.20
-" " 2 4 " 1.20
-" " 1 12 " 1.60
-" " " 2 " .60
+Amount brought forward 34<unclear/><lb/>
+To serving one subpoena 2 names 176 miles 18.40<lb/>
+" 30 " 3.00<lb/>
+" 1 " 1 48 5.20<lb/>
+" 1 1 2 .60<lb/>
+" 1 1 4 .80<lb/>
+" 1 1 14 " 1.80<lb/>
+" 1 1 2 " .60<lb/>
+" " " 2 " .60<lb/>
+" " " 164 " 16.80<lb/>
+" " " 2 " .60<lb/>
+" " " 146 " 15.00<lb/>
+" " " 162 " 16.20<lb/>
+" " 2 4 " 1.20<lb/>
+" " 1 12 " 1.60<lb/>
+" " " 2 " .60<lb/>
 " " " 2 " .60 113.60
 </p>
 <p>
-Sheriffs fees of E.F. Whittier in District Crt.
-To serving one subpoena 17 names 2 miles .60
-" calling jury 8 times 2.00
+Sheriffs fees of E.F. Whittier in District Crt.</p>
+
+<p>To serving one subpoena 17 names 2 miles .60<lb/>
+" calling jury 8 times 2.00<lb/>
 " " 21 witnesses 2.10 4.70
 </p>
 <p>
-Sheriff <add>J. J. Tyler</add>Bill of Yakima County
-for keeping prisoner while
+Sheriff <add>J. J. Tyler</add> Bill of Yakima County</p>
+
+<p>for keeping prisoner while
 committed to jail there by
 order of the court. From Febry
-17th 85 to April 13th 85- 55 days 55.00
-To medicine furnished 3.00 58.00
-To amt fowd 211.25
+17th 85 to April 13th 85- 55 days 55.00<lb/>
+To medicine furnished 3.00 58.00<lb/>
+To amt fowd 211.25<lb/>
 </p>
 
 <pb/>
@@ -259,42 +262,42 @@ To amt fowd 211.25
 Witnesses in the District Court on behalf
 of the Territory</p>
 <p>
-S.W. Caudin 8 days 150 miles 31.00 211.25
-Josiah Cole 14 " 28.00
-Allan Emerson 7 " 150 " 24.00
-W.W. Rhodes 7 " 150 " 29.00
-O.J. Rogers 4 " 50 " 13.00
-J.H. Portch 14 " 28.00
-Frank Beardon 14 " 28.00
-Henry " " 28.00
-J.T. " " 28.00
-C.T. Brindle " 28.00
-Mrs. M.A. Lyle 7 14.00
-S.L. Short 9 " 150 miles 33.00
-E.A. Portch 14 " 28.00
+S.W. Condin 8 days 150 miles 31.00 211.25<lb/>
+Josiah Cole 14 " 28.00<lb/>
+Allan Emerson 7 " 150 " 24.00<lb/>
+W.W. Rhodes 7 " 150 " 29.00<lb/>
+O.J. Rogers 4 " 50 " 13.00<lb/>
+J.H. Portch 14 " 28.00<lb/>
+Frank Beardon 14 " 28.00<lb/>
+Henry " " 28.00<lb/>
+J.T. " " 28.00<lb/>
+C.T. Brindle " 28.00<lb/>
+Mrs. M.A. Lyle 7 14.00<lb/>
+S.L. Short 9 " 150 miles 33.00<lb/>
+E.A. Portch 14 " 28.00<lb/>
 W.W. Williams 10 160 miles 36.00 376.00
 </p>
 <p>Witnesses on behalf of Defendant </p>
 <p>
-J.H. Harte one day &amp; 146 miles 16.60
-D.B. Steply 9 " " 150 " 33.00
-Eva L. 9 " " " " 33.00
-C.B. White 11 " " " " 37.00
-J.D. Mayer 9 " " " " 33.00
-F.M. Fuftts 9 " " " " 33.00
-John H. Janepp 9 " " " " 33.00
-E.H. Warren 9 " " " " 33.00
-J. P. Short 9 " " " " 33.00
-G.W. Sherman 9 " " " " 33.00
-R.C. Welch 10 " " " " 20.00
-D. Trundell 9 " " " " 33.00
-C.P. Harold 6 " " 180 " 30.00
-H. Wynhoff 7 " " 150 " 29.00
-F.M. Spance 10 " " 160 " 36.00
-Allan Stoakey 6 " " 140 " 26.00
-Albert Stoakey 6 " " 140 " 26.00
-J.E. Williams 9 " " 150 " 33.00
-<del>Wells Williams</del> 926.60
+J.H. Harte one day &amp; 146 miles 16.60<lb/>
+D.B. Steply 9 " " 150 " 33.00<lb/>
+Eva L. 9 " " " " 33.00<lb/>
+C.B. White 11 " " " " 37.00<lb/>
+J.D. Mayer 9 " " " " 33.00<lb/>
+F.M. Fuftts 9 " " " " 33.00<lb/>
+Jno H. Jump 9 " " " " 33.00<lb/>
+E.H. Warren 9 " " " " 33.00<lb/>
+J. P. Short 9 " " " " 33.00<lb/>
+G.W. Sherman 9 " " " " 33.00<lb/>
+R.C. Welch 10 " " " " 20.00<lb/>
+D. Trundell 9 " " " " 33.00<lb/>
+C.P. Harold 6 " " 180 " 30.00<lb/>
+H. Wynhoff 7 " " 150 " 29.00<lb/>
+F.M. Spance 10 " " 160 " 36.00<lb/>
+Allan Stoakey 6 " " 140 " 26.00<lb/>
+Albert Stoakey 6 " " 140 " 26.00<lb/>
+J.E. Williams 9 " " 150 " 33.00<lb/>
+<del>Wells Williams</del> 926.60<lb/>
 <del>9 days 150 miles 33.00</del> 1137.80</p>
 
 <pb/>
@@ -303,32 +306,32 @@ J.E. Williams 9 " " 150 " 33.00
 Costs on hearing an Writ of Habeas Corpus 
 Before Judge Turner at Chambers at Sprague W.T.</p>
 <p>1885
-Fely 13</p>
+Feby 13</p>
 <p>
-July 1885 13 Sheriffs Fees-John Cody Sheriff
-To guarding prisoner 45 days 587.25
+July 1885 13 Sheriffs Fees-John Cody Sheriff<lb/>
+To guarding prisoner 45 days 587.25<lb/>
 @ $2.00. There being no jail
 in Lincoln County and 
 order having been made by the
 court where to confine
 prisoner from said county- 90.00</p>
 <p>To boarding prison 45 days which<add><unclear></unclear></add>45.00
-serving writ of habeas corpus <unclear></unclear> 1.20
+serving writ of habeas corpus <unclear></unclear> 1.20<lb/>
 attendance on hearing habeas corpus
-with prisoner 3.00
-Committing prisoner to jail at Yakima 1.00
+with prisoner 3.00<lb/>
+Committing prisoner to jail at Yakima 1.00<lb/>
 Mileage from Sprague to Yakima
-450 miles @ 10 cents per mile 45.00
-Mileage on prisoner 225 miles 22.50
-Board for prisoner three days 3.00
+450 miles @ 10 cents per mile 45.00<lb/>
+Mileage on prisoner 225 miles 22.50<lb/>
+Board for prisoner three days 3.00<lb/>
 Serving a call to convey prisoner from 
-Yakima to Cheney for trial 1.00
+Yakima to Cheney for trial 1.00<lb/>
 Milage from Sprague to Yakima
-and return to Cheney 475 miles 47.50
+and return to Cheney 475 miles 47.50<lb/>
 Mileage on prisoner from Yakima
-to Cheney 250 miles 25.00
-" Board three days 3.00
-" serving one subpoena 8 names 250 miles 28.20
+to Cheney 250 miles 25.00<lb/>
+" Board three days 3.00<lb/>
+" serving one subpoena 8 names 250 miles 28.20<lb/>
 " " " 5 " 2.00</p>
 
 <p>To guarding prisoner three days while 
@@ -336,75 +339,81 @@ in route from Yakima to Cheney 23.00 per day  9.00  526.40</p>
 
 <p>Witness fees for attendance and 
 mileage on behalf of the Territory 
-on hearing of the Writ of Habeas Corpus
-O.J. Rogers 4 day &amp; 140 22.00 66.00
-Josiah Cole " " " " 22.00  919.65
-E.A. Portch " " " " 22.00
+on hearing of the Writ of Habeas Corpus</p>
+
+<p>O.J. Rogers 4 day &amp; 140 22.00 66.00<lb/>
+Josiah Cole " " " " 22.00  919.65<lb/>
+E.A. Portch " " " " 22.00<lb/>
 Amount carried fordward 979.65</p>
 
 <pb/>
 
-<p>Amount brght. ford. 979.65
-J.H. Portch 4 days attendance 140 miles 22.00
-C.T. Brindle " " " " " 22.00
-Frank Beardon 22.00
-H. Beardon 22.00
-J.T. Beardon 22.00
+<p>Amount brght. ford. 979.65</p>
+
+<p>J.H. Portch 4 days attendance 140 miles 22.00<lb/>
+C.T. Brindle " " " " " 22.00<lb/>
+Frank Beardon 22.00<lb/>
+H. Beardon 22.00<lb/>
+J.T. Beardon 22.00<lb/>
 Witnesses who testified on 
 behalf of the defendant in
 the above hearing</p>
 
 <p><add>The men to be arrested
-until the instruction
+until further instruction
 from S. C. Hyde Esq
 prosecuting atty</add></p>
 
-<p>R.C. Welch 4 days 140 miles 22.00
-John Janupp " " " " 22.00
-C.B. White " " " " 22.00
+<p>R.C. Welch 4 days 140 miles 22.00<lb/>
+John Janupp " " " " 22.00<lb/>
+C.B. White " " " " 22.00<lb/>
 G.W. Sherman " " " " 22.00M</p>
 
 <p>Cost in Justice Court
-J.W. Carpenter J.P.
-To serving warrant 1.00
-Committing to jail .50
-issuing subpoenas 6 names .15
-swearing 9 witnesses 1.35
+J.W. Carpenter J.P.</p>
+
+<p>To serving warrant 1.00<lb/>
+Committing to jail .50<lb/>
+issuing subpoenas 6 names .15<lb/>
+swearing 9 witnesses 1.35<lb/>
 Taking affidavit .25 3.95</p>
 
-<p>Sheriffs Fees in Justice COurt
-John Cody Sheriff J.H. Friedlander Depty.
-To attendance one day with prisoner 3.00
-serving one subpoenas 9 names 58 miles 7.40
-calling 9 witnesses .90
-serving warrant 18 miles mileage 2.80
-committing to jail 1.00
-Mileage 150 miles 15.00 40.10
+<p>Sheriffs Fees in Justice Court
+John Cody Sheriff J.H. Friedlander Depty.</p>
+
+<p>To attendance one day with prisoner 3.00<lb/>
+serving one subpoenas 9 names 58 miles 7.40<lb/>
+calling 9 witnesses .90<lb/>
+serving warrant 18 miles mileage 2.80<lb/>
+committing to jail 1.00<lb/>
+Mileage 150 miles 15.00 40.10<lb/>
 Guarding prisoner 13 days at Sherman
 W.T. he being unable to 
 to undergo transportation owing
-to wounds received 13 days @ 2.00 per day 26.00 
+to wounds received 13 days @ 2.00 per day 26.00 <lb/>
 Amount carried forward 1257.70</p>
 
 <pb/>
 
 <p>Witnesses in Justice Court for the Territory</p>
+
+
+<p>O.J. Rogers one day 20 miles 4.00 <lb/>
+J.H. Portch " " 2 " 2.20<lb/>
+H. Beardon " " 10 " 3.00<lb/>
+J. Beardon " " 10 " 3.00<lb/>
+E.A. Portch " " 2 " 2.20 14.40</p>
+
+<p>Witnesses in Justice Court on
+behalf of the defendant.</p>
+
 <p><add>The men to be comitted
 until further instruction
 from S. C. Hyde Esq Pros
 atty.</add></p>
-
-<p>O.J. Rogers one day 20 miles 4.00 
-J.H. Portch " " 2 " 2.20
-H. Beardon " " 10 " 3.00
-J. Beardon " " 10 " 3.00
-E.A. Portch " " 2 " 2.20 14.40</p>
-<p>Witnesses in Justice Court on
-behalf of the defendant.</p>
-<p><add></add></p>
-<p>R.C. Welch one day 25 miles 4.50
-John Januk " " 20 " 4.00
-Geo. W. Sherman " 2 " 2.20
+<p>R.C. Welch one day 25 miles 4.50<lb/>
+John Januk " " 20 " 4.00<lb/>
+Geo. W. Sherman " 2 " 2.20<lb/>
 W. Williams 10 3.00 13.70</p>
 
 <p>To William Rhodes for guarding
@@ -412,7 +421,7 @@ prisoner 13 nights at Sherman W.T.
 at $2.00 per night 26.00 26.00</p>
 
 <p>To H.F. Warren for conveying 
-prisoner ro Sprague- from 
+prisoner ro Sprague - from 
 Brent W.T. 25.00</p>
 
 <p>To J.H. Friendlander for guarding
