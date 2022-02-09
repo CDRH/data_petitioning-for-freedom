@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.024">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0187.024</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1914">1914</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,21 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1914-06">June 1914</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Grayson, Marie Robina</term>
-<term>Shakespeare, Noah</term>
-<term>Turner, Charles A.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington, D. C.</term>    
-<term>Salem, Oregon</term>
-<term>Portland, Oregon</term>
-<term>Everett, Washington</term>
-<term>Seattle, Washington</term>    
+<term></term>
 </keywords>
 
 </textClass>
@@ -100,13 +94,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -118,8 +112,8 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
-    <placeName>Seattle, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,36 +134,40 @@
 <div1 type="case">
 
 <pb/>
-<p>4250-94</p>
+<p>United States District Court
+Western District of Washington
+Northern Division</p>
+<p>In the Matter of the Application
+of Ching Hing for a 
+Writ of Habeas Corpus } No. <del>2875</del>2857
+Order.</p>
+<p>Upon the motion of Albert Moodie, Assistant United
+States Attorney, for the Western District of Washington,
+it appearing that there has been deposited in the Registry
+of this Court the sum of One Hundred Dollars, to cover
+expense of maintence of the petitioner in the above entitled
+cause, same having been deposited by John J. Sullivan,
+Esq., attorney for petitioner; and it further appearing
+from the affidavit of Henry M. White, Commissioner
+of Immigration, hereto attached, that the attached bill
+in favor of J. Richard Lane in the sumn of Ninety-three
+and 40/100 Dollars ($93.40) is a just bill, and the court
+being advised that J. Richard Lane mentioned in the affidavit
+is the same party who furnished meals to the petitioner
+in the above entitled cause, and being fully
+advised in the premises;</p>
+<p>It is Hereby Ordered that the Clerk of the Court pay
+to the said J. Richard Lane, the sum of Ninety-three and
+40/100 Dollars ($93.40), and deduct from the balance the
+sum of One Dollar as one per cent commission on the
+original deposit of One Hundred Dollars, and that the
+final balance of Five and 60/100 Dollars ($5.60) be <del>returned
+to</del> <add>transferred to Jees &amp; Costs a/c to the
+Credit of</add> John J. Sullivan, Attorney for Petitioner.</p>
+<p>Dated this 5 day of April, 1915.</p>
+<ab>Jeremiah Neterer
+United States District Judge</ab>
 
-<p>NOAH SHAKESPEARE
-ATTORNEY AND COUNSELLOR AT LAW</p>
-<p>Everett, Washington, June 1, 1914.</p>
-<p>n. g.</p>
-
-<p>Mr. C. A. Turner, 
-Immigrant Inspector, 
-Everett, Wash.</p>
-
-<p>Dear Sir:</p>
-<p>I have yours of the 29th May last advising that I might have the 
-privilege of cross examining the several officers who have submitted
-their statements and views making up the record in Marie Robina Deportation
-proceedings. Being mindful of the fact that this matter has been pending
-since the month of January last, and realizing the impracticability and 
-great inconvenience of getting the testimony of these officers located as 
-they are in Salem, Oregon, Portland, Oregon, and Seattle, Washington, I am 
-willing that the case be now submitted with a view to getting a decision 
-without other and further delays, From the record in this case I note that 
-my letter to you of date 21st May 1914 relative to this proceeding has been 
-detached. In order that the contents of said letter may come to the notice
-of the department at Washington, D.C., may I ask that the same be attached
-and made a part of this record for whatever consideration the latter tribunal 
-see fit to give it.</p>
-<p>Yours very truly,</p>
-<ab>(Signed) Noah Shakespeare, <lb/>
-Attorney for Marie Robina, respondent herein.</ab>
-<ab>Dict.</ab>
 
 </div1>
     

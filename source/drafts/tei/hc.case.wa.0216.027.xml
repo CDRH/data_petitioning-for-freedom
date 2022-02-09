@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.024">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0187.024</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1914">1914</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,21 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1914-06">June 1914</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Grayson, Marie Robina</term>
-<term>Shakespeare, Noah</term>
-<term>Turner, Charles A.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington, D. C.</term>    
-<term>Salem, Oregon</term>
-<term>Portland, Oregon</term>
-<term>Everett, Washington</term>
-<term>Seattle, Washington</term>    
+<term></term>
 </keywords>
 
 </textClass>
@@ -100,13 +94,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -118,8 +112,8 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
-    <placeName>Seattle, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,36 +134,29 @@
 <div1 type="case">
 
 <pb/>
-<p>4250-94</p>
-
-<p>NOAH SHAKESPEARE
-ATTORNEY AND COUNSELLOR AT LAW</p>
-<p>Everett, Washington, June 1, 1914.</p>
-<p>n. g.</p>
-
-<p>Mr. C. A. Turner, 
-Immigrant Inspector, 
-Everett, Wash.</p>
-
-<p>Dear Sir:</p>
-<p>I have yours of the 29th May last advising that I might have the 
-privilege of cross examining the several officers who have submitted
-their statements and views making up the record in Marie Robina Deportation
-proceedings. Being mindful of the fact that this matter has been pending
-since the month of January last, and realizing the impracticability and 
-great inconvenience of getting the testimony of these officers located as 
-they are in Salem, Oregon, Portland, Oregon, and Seattle, Washington, I am 
-willing that the case be now submitted with a view to getting a decision 
-without other and further delays, From the record in this case I note that 
-my letter to you of date 21st May 1914 relative to this proceeding has been 
-detached. In order that the contents of said letter may come to the notice
-of the department at Washington, D.C., may I ask that the same be attached
-and made a part of this record for whatever consideration the latter tribunal 
-see fit to give it.</p>
-<p>Yours very truly,</p>
-<ab>(Signed) Noah Shakespeare, <lb/>
-Attorney for Marie Robina, respondent herein.</ab>
-<ab>Dict.</ab>
+<p>In the United States District Court, In and For the Western
+District of Washington, Northern Division.</p>
+<p>In the Matter of the Application
+of Ching Hing, for a 
+Writ of Habeas Corpus. } No. 2857
+Order.</p>
+<p>This matter coming on regularly to be heard, and the
+Petitioner Ching Hing, appearing by and through his Attorney,
+John J. Sullivan, and the United States Government, appearing 
+by and through its attorney, Clay Allen, United States District
+Attorney, and George P. Fishburne, Assistant U.S. District 
+Attorney, and the Court being fully advised in the premises and
+it being deemed fit and proper, the Court does fix the bond
+in the sum of Fifteen Hundred (1500) Dollars, and upon the
+giving of same by said petitioner, and upon approval by the
+District Attorney, and by this Court, the Petitioner shall be
+released upon said bond to await the further Order or Judgment
+of this Court.</p>
+<p>Signed in open Court this 2nd day of March, 1915.</p>
+<ab>Edward E Cushman
+U.S. District Judge</ab>
+<ab>C.K. Allen
+US Atty</ab>
 
 </div1>
     
