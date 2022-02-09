@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0187.025">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Marie Robina Grayson vs. Henry M. White. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.187.025</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+<date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-05">May 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Buntline, Ned</term>
+<term>Gaboriau, Emile</term>
+<term>Grayson, Marie Robina</term>
+<term>Kock, Paul</term>
+<term>Turner, Charles A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Everett, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,13 +98,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Marie Robina Grayson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Noah Shakespeare</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -112,8 +116,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,7 +138,48 @@
 <div1 type="case">
 
 <pb/>
+<p>Attorney and Counsellor at Law</p>
+<p>Everett, Wash., May 21, 1914.</p>
+<p>n.g.</p>
+<p>Chas. A. Turner, Esq., 
+U. S. Immigration Inspector, 
+Everett, Washington.</p>
 
+<p>Dear Sir:</p>
+<p>I have to acknowledge receipt of record in re Marie Robina, 
+alian Lena Mitchell, deportation proceedings, which since I last saw 
+it has had attached certain communications from Immigrant Inspectors 
+Barbur, Barker, and Fisher which I have read. Such communications are 
+attached I presume for the purpose of giving information to the Department
+which will affect its action in the matter of its decision in this 
+deportation case.</p>
+<p>It is probably true that in matters of this kind the same rules 
+of evidence do not apply as in Common Law Courts, but as far as my 
+knowledge goes I have never known that all rules of evidence had been 
+abolished in proceedings of this kind, and that the impressions, surmises, 
+guesses and dreams of Inspectors at divers places would have conferred 
+upon them the dignity of evidence.</p>
+<p>The sole and only issue in this case is whether or not Marie 
+Robina was a citizen of the United States at the time of her arrest 
+January 24th, 1914.</p>
+<p>The communications from the different Immigration Inspectors 
+might make an interesting chapter in a work of the character of Gaboriau 
+of Paul Kock, or possibly the world renowned series of Ned Buntline's 
+Five Cent Detective series, but when any higher degree of literary merit 
+is claimed for them it undoubtedly appears that the party so claiming 
+is in gross error.</p>
+<p>The Department of course will bear in mind that these various 
+effusions result apparently of div rs brai n s torms in these officials
+while they assert no fact positively, do state a number of conjectures,
+surmises and guesses, and that the party most affected by these various 
+lucubrations has had no opportunity to meet them.</p>
+<p>It is supposed that the Department will brush aside as mere 
+teeming fancies the matters which are beside the real question, and will 
+not allow such things to affect its determination in any regard whatever, 
+where the civil rights of the party are determined under the Constitution 
+and the Laws enacted in pursuance thereof.</p>
+<p>Respectfully submitted,</p>
+<ab>(Signed) Noah Shakespeare, Attorney for Respondent, Marie Robina</ab>
 
 </div1>
     
