@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sterling P. White v. John Cody. J. R. Short Summons</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Battaglia, Zoe" xml:id="zb">Zoe Battaglia</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0126.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sterling P. White v. John Cody. J. R. Short Summons</title>
+<date when="1885-04-17">April 17, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-01</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Short, J. R.</term>
+<term>Cody, John</term>
+<term>Rhodes, William</term>
+<term>Feuerbach, Kate W.</term>
+<term>Strobach, R.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Lincoln County, Washington</term>
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName>Cody, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>   
+<change when="2022-01" who="lkw"> review</change>     
+<change when="2021-02" who="lh"> additional encoding</change>      
+<change when="2019-10" who="zcb"> reviewed; edited</change>
+<change when="2019-10" who="zcb"> transcribed and encoded</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0126.001"/>
+<p>Territory of Washington<lb/>
+County of Spokane} SS</p>
+
+<p>Territory of Washington, Plaintiff<lb/>
+vs.<lb/>
+S.P. White, Defendant}<lb/>
+In the district Court of the Territory of 
+Washington for the <del>First</del> Fourth Judicial 
+Disctrict thereof, holding terms at 
+Cheney, Spokane County,
+in said Territory:</p>
+
+<p>To the Sheriff of Lincoln County, Greeting:</p>
+
+<p>In the name of the United States, You are hereby commanded to
+summon J.R. Short
+to be and appear before the District Court aforesaid
+at the Court House, in Cheney, in said County, on the forthwith day of
+April A.D. 1885 at o'clock <gap/> M., to there give 
+evidence in the above entitled cause on the part of said Defendant
+S.P. White</p>
+
+<p>Witness Hon. George Turner
+Associate Justice of the Supreme Court of Washington
+Territory, and Judge of said Court, and the seal thereof
+affixed, this 17 day of April A.D. 1885</p>
+
+<p>Kate W. Feuerbach Clerk<lb/>
+By R. Strobach Deputy</p>
+
+<pb/>
+
+
+
+<p>Territory of Washington<lb/>
+County of <del>Spokane</del> Lincoln} SS</p>
+<p>I hereby certify that I served the within Subpoena on the within named witness
+by reading the same to him in said County, on this 23d day of April A.D. 1885</p>
+
+<p>Jno Cody Sheriff<lb/>
+By Wm. Rodes Deputy</p>
+
+<p>J.R. Short<lb/>
+Case No. 1537<lb/>
+Subpoena</p>
+
+<p>In the District Court of the Territory of
+Washington, and for the First Judicial 
+District thereof, holding terms at 
+Cheney, Spokane County
+in said Territory</p>
+
+<p>Territory of Wash.<lb/>
+vs.<lb/>
+Plaintiff<lb/>
+vs.<lb/>
+S.P. White<lb/>
+Deft.<lb/>
+Defendant</p>
+
+<p>Returned and Filed this 28 <lb/>
+day of April A.D. 1885<lb/>
+Kate Feuerbach, Clerk<lb/>
+By R. Strobach Deputy</p>
+
+<p>Sheriff's Fees<lb/>
+Serving 1 names at 40 40<lb/>
+Mileage 164 miles at 10 1640<lb/>
+Total, ---$1680</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

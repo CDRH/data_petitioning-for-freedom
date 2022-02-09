@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0135.016">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Wilson D. Coyle. Type of document</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0135.016</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Type of document</title>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
 <date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1538-02</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -95,7 +94,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Coyle, Wilson D.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -113,15 +112,15 @@
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#brh">transcribed and encoded</change>
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,67 +129,42 @@
 
 <body>  
 
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION</p>
+<p>No. 2646</p>
+<p>In the matter of the Application of K. Gregory at al., for a writ of Habeas Corpus.</p>
+<p>APPEAL BOND</p>
+<p>Know all men by these presents: That we Jakob Ephimoff, as principal and Samuel H. Weber , residing
+at 1509 E. Spruce Street, in the City of Seattle, Washington, and B. Helfand residing at 1112
+Broadway Court, Seattle, Washington, as sureties are held and firmly bound into the United States of
+America in the full sum of Two Hundred and ($250.00) Dollars to be paid to the United States, for
+which payment well and truly made, we, and each of us, do bind ourselves, our heirs executors, and
+anministrators, jointly and severally, frimly by these presents.</p>
+<p>Sealed with our seals this 24th day of February, 1914.</p>
+<p>WHEREAS: Jakob Ephimoff on alien, a native of Russia, who arrived at the Port of Seattle, on the day
+of Dec 1913 has been held by the Immigration Board for deportation and whereas, the Board ordered
+the said alien to be deported, and WHEREAS: the United States District Court for the Western
+District of Washington, Northern Division, discharegd the said alien on a WRIT OF HABEAS CORPUS and
+WHEREAS: THE Court ordered the said alien be enlarged upon recognizance with surety, for appearnce
+to answer judgment of the Appelate Court, Now, THEREFORE, the condition of  this obligation is such
+that if the above named principal J Ephimoff appears to answer and carry out the Judgment of the
+United States Circuit Court of Appeals for the Ninth Circuit of the Appellate COurt, then this
+obligation to be void, otherwise to remain in full force and effect</p>
+<p>Signed and sealed in the present of</p>
+<p><unclear>jarah</unclear>Kalina</p>
+<p>D <unclear>Buloahe</unclear></p>
+<p>Jakob Kalina</p>
+<p>D <unclear>Buloahe</unclear></p>
+<p><unclear></unclear></p>
+<p>Samuel H Weber</p>
+<p>B Helfand</p>
 
-               
 <div1 type="case">
 
-<pb facs="hc.case.wa.0135.016"/>
-<p>Territory of Washington
-County of Spokane}ss</p>
-<p>Territory of Washington
-vs.
-W.D. Coyle</p>
-<p>Assault ie -
-April 15th 1885
-Prisoner arrested and returned
-made by L. L. Lerger Deputy
-for E.F. Whittier sheriff, by
-bringing defendant into court
-case called. When M.H. Small-
-wood attorney for defense
-appeared on his behalf, and
-gained trial and <unclear>continuat-</unclear>
-tion, as the case was then under
-investigation before the grand jury
-then in session.
-Wherefore prisoner was summon-
-ed into the custody of the sheriff
-subject to order of Dist court now 
-in session in Cheney said county
-and territory.
+<pb/>
 
-The following fees were
-entered <unclear></unclear> for assault
-and action 1.00
-mileage .20
-1.20
-
-Justice's Fees
-Oath .25
-Aiding .15
-filing complaint .15
-warrant 1.00
-files .15
-complaint .50
-$2.20
-Folio .50
-$2.70
-Sherrif $1.20
-April 15th 1885
-I hereby certify 
-that the foregoing is a true 
-copy of all papers in the
-case of Territory vs. W.D. Coyle
-and a correct copy of all
-fees in this case
-M.F. Hooker
-J.P.</p>
 
 </div1>
-
+    
 </body>
 </text>
 </TEI>
-
-
-
