@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Genevive Wilds v. Territory of Washington. Writ</title>
+<title>Genevive Wilds v. Territory of Washington. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Genevive Wilds v. Territory of Washington. Writ</title>
+<title level="m" type="main">Genevive Wilds v. Territory of Washington. Order</title>
 <date when="1918">Febuary 26, 1918</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -84,8 +84,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Wilds, Genevive</term>
-<term>Childe, Eugene A.</term>
 <term>Crosby, Frank L.</term>
+<term>Edin, F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -97,13 +97,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wilds, Genevive</persName>
+<persName>Wilds, Genevieve</persName>
 </person>
 <person role="defendant">
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Childe, Eugene A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -115,15 +115,16 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States District Court for the Western District of Washington, Northern Division</orgName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,18 +139,20 @@
 
 <pb facs="hc.case.wa.0146.001"/>
 
-<p>Reproduced at the National Archives at Ceattle</p>
+<p>3895</p>
+
+<p>Reproduced at the National Archives at Seattle</p>
 
 <pb/>
 
 <p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN 
-DISTRICT OF WASHINGTON, NORTHERN DIVISION</p>
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
 <p>IN THE MATTER OF THE APPLICATION OF 
 GENEVIVE WILDS FOR A WRIT OF 
 HABEAS CORPUS} 
 No.39895
-ORDER</p>
+ORDER.</p>
 
 <p>This mattercoming on regularly for hearing and it 
 appearing to the court that proceedings have been commenced in the 
@@ -172,18 +175,18 @@ Judge.</p>
 COURT FOR THE WESTERN DISTRICT 
 OF WASHINGTON,NORTHERN DIV.</p>
 
-<p><add><unclear></unclear>-6-466</add></p>
+<p><add>GOB-6-466</add></p>
 
 <p>IN THE MATTER OF THE APPLICATION 
-OF GUNEVIVE WILDS FOR W WRIT OF HABEAS CORPUS.</p>
+OF GENEVIEVE WILDS FOR W WRIT OF HABEAS CORPUS.</p>
 
-<p>ORDER</p>
+<p>ORDER.</p>
 
 <p>Eugene A.Childe,
 908 White Bldg.,
 Seattle,</p>
 
-<p>attorney for Petitioner</p>
+<p>Attorney for Petitioner</p>
 
 <figure></figure>
 <p>FILED IN THE 
@@ -192,7 +195,7 @@ Western Dist. of Washington
 NORTHERN DIVISION
 FEB26 1918
 FRANK L.CROSBY CLERK
-EDIN FAXW</p>
+EDIN <unclear>FAXW</unclear></p>
 
 </div1>
     
