@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-01"></date>January 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -102,12 +102,14 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wilson, P.H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+ <persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
+<persName>Cushman, Joseph</persName>
 <persName>Dykeman, King</persName>
 </person>
 </listPerson>
@@ -115,7 +117,7 @@
 <listOrg>
 <org>
 <orgName>The District Court of the United States</orgName>
-<placeName>Western District of Washington, Northern Division</placeName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -123,6 +125,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
