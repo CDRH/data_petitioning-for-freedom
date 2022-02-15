@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0135.016">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Wilson D. Coyle. Summary of events</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0135.016</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Summary of events</title>
-<date when="1885-04-15">April 15th, 1885</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1538-03</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1885-04">April 1885</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Whittier, E. F.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cheney, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -95,33 +94,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Coyle, Wilson D.</persName>
+<persName></persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Smallwood, W. H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Hooker, W. F.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#brh">transcribed and encoded</change>
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,91 +129,44 @@
 
 <body>  
 
+<p>DEPARTMENT OF LABOR
+IMMIGRATION SERVICE</p>
+<p>OFFICE OF THE COMMISSIONER
+SEATTLE, WASH.</p>
+<p>February 3, 1914.</p>
+<p>No. 4223/22</p>
+<p>J. Richard Lane,
+644 Central Building,
+Seattle, Washington.</p>
+<p>Sir:</p>
+<p>Referring to the board account of the following-named nine Russians ex s.s. "Tamba Maru" December
+19, 1913:</p>
+<p>Gregori Krnilin
+Ivan Riaboff
+Peter Neonilin
+Jakob Orloff
+Moisei Alioshin
+Jakob Ephimoff
+Ivan Emelin
+Gregori Yakimoff
+Phillip Yakimoff</p>
+<p>The Nippon Yusen Kaisha should pay for board from the time these aliens arrived in the detention
+house up to and including supper January 12, 1914, and Frank L, Crosby, Clerk of the District Court,
+Seattle, Washington, should pay from breakfast January 13th to after supper January 26th. The matter
+of the responsibility for the maintenance of these aliens beginning with breakfast January 27th has
+been taken up with the Bureau at Washington.</p>
+<p>Respectfully,
+John H. Sargent
+Acting Commissioner.</p>
+<p>JAH</p>
 
-               
 <div1 type="case">
 
-<pb facs="hc.case.wa.0135.016"/>
-<p>Territory of Washington
-County of Spokane}ss</p>
-<p>Territory of Washington
-vs.
-W.D. Coyle</p>
-<p>Assault ie -
-April 15th 1885
-Prisoner arrested and returned
-made by L. L. Greger Deputy
-for E.F. Whittier sheriff, by
-bringing defendant into court
-case called. when W H Smallwood
- attorney for defense
-appeared on his behalf, and
-gained trial and <unclear>continuation</unclear>
-as the case was then under
-investigation before the grand jury
-then in session</p>
-
-<p>Wherefore prisoner was summoned
- into the custody of the sheriff
-subject to order of dist court now 
-in session in Cheney said county
-and Territory.</p>
-
-<p>The following fees were
-entered <unclear>Plaintiff</unclear> for arrest
-and returns 1.00
-mileage .20
-1.20</p>
-<p>new</p>
-
 <pb/>
 
-<p>Justice's Fees
-Oath .25
-filing .15
-filing complaint .15
-warrant 1.00
-filing .15
-commitment .50
-$2.20
-Folio .50
-$2.70
-
-Sherrif $1.20
-</p>
-
-<p>April 15th 1885
-I hereby certify 
-that the foregoing is a True 
-copy of all papers in the
-case of Territory vs. W D Coyle
-and a correct entry of all
-fees in this case
-W.F. Hooker
-J.P.</p>
-
-<pb/>
-
-<p>Territory
-vs.
-Willis D. Coyle</p>
-
-<p>Filed April 15-85
-Kate W. Feuerbach
-Clerk
-By R. Strobach
-Deputy</p>
-
-<p>Found True Bill for
-For assault with
-Deadly weapon with 
-Intent to kill</p>
 
 </div1>
-
+    
 </body>
 </text>
 </TEI>
-
-
-
