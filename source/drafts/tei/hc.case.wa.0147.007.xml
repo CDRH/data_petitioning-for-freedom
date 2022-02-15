@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.008">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.007">
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0147.008</idno>
+<idno type="project">hc.case.wa.0147.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Order</title>
-<date when="1916">Novembe 2, 1916</date>
+<date when="1916">November 2, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,13 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-11"></date>November 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fuson, Gladys Fredrika</term>
 <term>Crosby, Frank L.</term>
-<term>Wilson, P.H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,27 +101,31 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wilson, P.H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
-<persName>Cushman, E.E.</persName>
+<persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,17 +141,17 @@
 <pb facs="hc.case.wa.0147.008"/>
 
 <p>IN THE UNITED STATES DISTRICT COURT
-FOR THE WESTERN SISTRICT OF WASHINGTON, NOTHTERN DIVISION</p>
+FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
 <p>In the Matter of the Application 
-of MRS. GLADYS FREDRIKS FUSON, 
-for the Writ of Habeas Corpu}
+of MRS. GLADYS FREDRIKa FUSON, 
+for the Writ of Habeas Corpus.}
 No.3451
 ORDER</p>
 
 <p>Upon reading and filing the Affidavit and Petition of 
-GLadys Fredriks Fuson, the application for habeas corpus herein, 
-for permission to prosecute daid proceding in fprman pauperis, 
+Gladys Fredrika Fuson, the application for habeas corpus herein, 
+for permission to prosecute said proceding in forma pauperis, 
 and having been duly advised in the premises,</p>
 
 <p>ORDERED that the petition be granted, and that all of the
@@ -172,10 +174,12 @@ Washington
 Northern Division</p>
 
 <p>In Re Gladys Fuson's 
-Application for Wrif of 
+Application for Writ of 
 Habeas Corpus</p>
 
 <p>Order Forma Pauperis</p>
+
+<p>TX</p>
 
 <p>FILED IN THE 
 U.S District Court,
