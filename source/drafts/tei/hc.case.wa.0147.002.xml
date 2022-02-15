@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Writ Application</title>
+<title>Gladys Fredrika Fuson v. Territory of Washington. Memorandum Decision</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Writ Application</title>
+<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Memorandum Decision</title>
 <date when="1916">November 2, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-11"></date>November 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -105,9 +105,10 @@
 </person>
 <person role="attorney_defendant">
 <persName>Alfred H. Lundin,</persName>
- <persName>Frank P. Helsell</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
+<persName>Dykeman, King</persName>
 <persName>Cushman, Joseph</persName>
 </person>
 </listPerson>
@@ -123,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
