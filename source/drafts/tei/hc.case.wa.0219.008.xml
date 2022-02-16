@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0219.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0219.008">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Celia Berg O'Neill v. Henry M. White. Writ of Habeas Corpus.</title>
+<title>Celia Berg O'Neill v. Henry M. White. Order of Continuance.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0219.005</idno>
+<idno type="project">hc.case.wa.0219.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Celia Berg O'Neill v. Henry M. White. Writ of Habeas Corpus.</title>
+<title level="m" type="main">Celia Berg O'Neill v. Henry M. White. Order of Continuance.</title>
 <date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -78,20 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-02">February 1915</date></term>
+<term><date when="1915-02">February 24, 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Frank L. Crosby</term> 
-<term>E. Lakin</term> 
-<term>Edward E. Cushman</term> 
 <term>Celia Berg O'Neill</term> 
-<term>Henry M. White</term>
+<term>Edward H. Cushman</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>District Court of the United States for the Western District of Washington Northern Division</term> 
-<term>Seattle, Washington</term>
+<term>Western District of Washington, Northern Division</term>
 </keywords>
 
 </textClass>
@@ -113,7 +109,8 @@
 <persName>Clay Allen</persName>
 </person>
 <person role="judge">
-<persName>Edward Cushman</persName>
+<persName>Edward Cushman</persName> 
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
@@ -141,44 +138,28 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE DISTRICT COURT OF THE UNITED STATES
-FOR THE WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION.</p>
-<p>IN THE MATTER OF THE APPLICATION
-OF CELIA BERG O'NEILL, ALIAS CELIA
-BERG, for a writ of HABEAS CORPUS. ))</p> 
-<p>No. 2963 
-WRIT OF HABEAS CORPUS.</p> 
-<p>*******</p> 
-<p>UNITED STATES OF AMERICA, to Henry M. White,</p> 
-<p>Commissioner of Immigration.</p> 
-<p>WHEREAS, it has been made to appear to our District
-Court that you are unlawfully detaining and unlawfully depriv-
-ing of her liberty one Celia Berg O'Neill, alias Celia Berg
-and we being willing that the cause of her detention should be
-inquired into to the end that justice may be afforded her,--</p> 
-<p>NOW, THEREFORE, you are COMMANDED AND SOLEMNLY ENJOINED
-to produce before this Court at a regular session thereof,
-appointed to be holden at the Federal Building in the City of
-Seattle, in said district. on the 24th day of February,1915,
-the body of the said Celia Berg O'Neill, alias Celia Berg, to-
-gether with the cause of her detention fully and at large set
-forth, and that you then and there this Writ have.</p> 
-<p>You are further commanded that you do forthwith certify
-unto this court all of the records, documents and proceedings
-had before you, or before any officer, relating to the deportation
-of the said Celia Berg O'Neill, alias Celie Berg, to the end
-that such things having been examined such order may be made
-therein as of right and justice ought to be made.</p> 
-<pb></pb> 
-<p>WITNESS The Honorable Edward E. Cushman, Judge of
-said Court, and the seal thereof, at Seattle, in said
-district on the 17th day of February, 1915,</p> 
-<p>Frank L. Crosby 
-Clerk</p> 
-<p>By Eml Lakin
-Deputy.</p> 
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DIS-
+TRICT OF WASHINGTON, NORTHERN DIVISION</p>
+<p>******</p> 
+<p>IN THE MATTER OF 
+CELIA BERG O'NEILL
+On Habeas Corpus</p> 
+<p>No. 2963. 
+ORDER OF CONTINUANCE.</p> 
+<p>---------</p> 
+<p>It appearing to the Court that the return day on
+the Order to show cause in the above entitled matter comes
+on February 24th.1915, and that the Judges of this District
+will be otherwise engaged in the performance of their duties,</p> 
 
+<p>IT IS NOW THEREFORE ORDERED that the hearing on the
+return day in the above entitled matter be, and the same is
+hereby continued to and including March 2nd.1915, at 10 a.m.</p>
+
+<p>Dated this 23rd. day of February, A.D., 1915.</p>  
+
+<p>Edward H. Cushman
+District Judge.</p>
 </div1>
     
 </body>

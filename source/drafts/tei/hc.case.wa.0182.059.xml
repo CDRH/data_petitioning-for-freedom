@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>K. Gregory et al. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0182.059</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">K. Gregory et al. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Henry White</term>
+    <term>Frank Crosby</term>
+    <term>Clay Allen</term>
+    <term>G.F. Fishburne</term>
+    <term>Parker</term>
+    <term>Kalina</term>
+    <term>K. Gregory</term>
+    <term>M. Aloshin</term>
+    <term>I. Riaboff</term>
+    <term>P. Neanlin</term>
+    <term>I. Erelin</term>
+    <term>L. Orloff</term>
+    <term>G. Yakimoff</term>
+    <term>P. Yakimoff</term>
+    <term>Jeremiah Neterer</term>
+
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName>Henry White</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Parker</persName>
+    <persName>Kalina</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+<p>In the Matter of the Petition of
+K. GREGORY, et al.,
+For a Writ of Habeas Corpus.</p>
+<p>No. 2646.
+Filed Jan., 1914.</p>
+<p>ON MOTION FOR DISCHARGE. Motion Granted.</p>
+<p>Parker and Kalina        For Petitioners</p>
+<p>Clay Allen, U.S. Attorney,
+G.F. Fishburne, Assist. U.S. Atty. For Respondent.</p>
+<p>NETERER, District Judge.</p>
+<p>K. Gregory and seven others filed a petition praying a writ of habeas corpus alleging that they
+are in good faith seeking admission into the United States to make the United States their permanent
+home; that they do not come within any of the classes prohibitecd admission. A show cause order was
+issued and the Commissioner of immigration made return setting forth, in substance, that the
+petitioners sought admission and were held for special inquiry by the immigrant inspector and a
+board of special inquiry was organized as provided by law, and:</p>
+<p>"That on December 23, 1913, after a full hearing, (A duplicate report of which appears in the
+immigration files of this cause and is marked "Exhibit A" and made a part of  this Return they Board
+decided to reject the aliens on the ground that they were persons who were likely to become a public
+charge, for the following resons:</p>
+<p>first: Because they are common or farm laborers and there is no work for them in the United
+States.</p>
+<p>second; Because they have but a limited amount of money, insufficient to maintain them during the
+winter.</p>
+<p>third: Because there are 800 to 1000 Russians unemployed in Seattle, and thousands of other
+nationalities in the same condition, and reports from the Interior are to the effect that the supply
+of common labor is far in excess of demand.</p>
+<p>fourth: That any addition to the unemployed should be gaurded against, and alien laborers should
+not be permitted to enter the United States at this time." <add>That the petitioners appealed to the
+Secretary of Labor who affirmed the decision of the board of special inquiry</add>.</p>
+<p>The petitioners move that they be forthwith discharged for the reasons:</p>
+<p>"(1) That the return shows that they are detained and restrained of their liberty for unlawful
+reasons and contrary to the statutes in such chases made and provided; (2) that the Special
+examining board and the Secretary of Commerce and Labor and said Commissioner exceeded their
+authority and jurisdiction; (3) that the alleged reasons for detainging said petitioners are
+<pb></pb>
+irrelevant, immaterial and not sipported by evidence, and are frivolous and sham; (4) that said
+petitioners had all the personal qualificatiosn required of them by the statutes, and to entitle
+them to immediate and unconditional discharge."</p>
+<p>This court held in In re Moola Singh, 207 Fed. 780, that the jurisdiction of this court is
+limited to ascertaining whether the petitioners were denied a hearing, and if a hearing has been
+accorded, the court is precluded from a re-examination of the issue presented merely because it is
+contended that the conclusion of the immigration officers based upon the testimony was wrong. In the
+Moola Singh case a trial was had, and the conclusion of the examining board was that the aliens be
+excluded from admission under the laws of the United States. The conclusion of the board found
+delinquency in the personal qualifications of the applicants which brought them within the exclusion
+provisions of the act. This court cannot examine into the testimony produced upon the hearing in
+this case beofre the special examining board, nor enter upon a re-examination of the facts. This
+court is bound by the facts as found by the board of special inquiry. Do the facts as found bring
+the petitioners within the provisions of the exclusion provisions of the act? Are the petitioners
+qualified to enter under the findings of the baord, and is the act of the board beyond its
+jurisdiction, and does the personal candition of the applicants, as found, preclude their exclusion.</p>
+<p>Sec. 1 of the Immigration Act, of Febuary 20, 1907, reads:</p>
+<p>"That there shall be levied, collected and paid a tax of four dollars for every alien entering
+the United States."</p>
+<p>Sec. 2 of the Act provides who are to be excluded, amon whom are "persons likely to become a
+public charge." Sec. 10 of the Act provides:</p>
+<p>"That the decision of the baord of special inquiry, hereinafter provided for, based upon the
+certificate of the examining medical officer, shall be final as to the rejection of aliens affected
+with tuberculosis or with a loathsome or dangerous contagious disease, or iwth any mental or
+physical disability which would bring such aliens within any of the classes excluded from admission
+to the United States under section two of this Act."</p>
+<p>Sec. 24 fo the Act provides:</p>
+<p>"...Immigration officers shall have power to administer oaths, and to take and consider evidence
+touching the right of any alien to enter the United States, and where such action is nec-
+<pb></pb>
+essary to make a written record of such evidence.</p>
+<p>A provision for the punishment of any persons who shall knowingly or wilfully give false oaths or
+swear to any false statement is made, and it is also provided that the decision of such officer in
+admitting an alien shall be subject to challenge by any other officer, and such challenge shall
+operate to take the alien whose right to land is challengedd before a baord of special inquiry for
+its investigation. It is further provided:</p>
+<p>"Every alien who may not appear to the examining immigrant inspector at the part of arrival to be
+clearly and beyond doubt entitled to land shall be detained for exaamination in relation thereto by
+a board of special inquiry."</p>
+<p>"Sec. 25...All hearings before bards shall be separate and apart from the public...and the
+decision of any two of the baord shall prevail; but either the alien or any dissenting member of
+said baord may appeal...to the secretary of labor...that in every case where an alien is excluded
+from admission into the United States under any law or treaty now existing or hereaftr made, the
+decision of the appropriate immigration officers, if adverse to the admission of such alien shall be
+final, unless reversed in appeal to the secretary of labor."</p>
+<p>Under Sec. 2, an alien "likely to become a public charge" is excluded; and under Sec. 25, the
+decision of the board of special inquiry is final where the alien is by law excluded. The findings
+and conclusions of the board with relation to the petitioners, however, eliminate all physical and
+mental deficiencies as legislated against. Shall it be said, under such a record, that the examining
+baord can exclude an alien upon the conclusion that he is "likely to become a public charge," when,
+upon the facts found and reasons given, the applicant is not brought within the provisions fo the
+act excluding him from admission?</p>
+<p>In the findings made there is no disqualification personal to the applicants, nor any objection
+made because of inability to conform to new conditions and relations. They are not excluded by the
+provisions of the act. The reasons govien do not exclude them under the act. These reasons are
+proper subjects for the consideration of Congress, but they do not authorize the temporary
+supsension of the Immigration Act, which the adoption of these findings will do. The laws and
+principles upon which our government rests forbid the exercise of arbitrary power. Immigration
+officers must act within the powers give. Courts have power to
+<pb></pb>
+intervene where they exceed their authority.</p>
+<p>Ex parte Saraceno, 182 Fed. 955;
+Lewis v. Frick, 189 Fed. 146;
+In re Feinkoff, 47 Fed. 447;
+Ex parte Hoerna, 176 Fed. 479;
+In re O'Sullivan, 31 Fed. 447;
+Inited States v. Martin, 192 U.S. 1,</p>
+<p>The petitioners are discharged; bu, if within then days after the filing of this decision, the
+respondent appeals, the petitioners must give recognizance with sufficient surety in like sum of
+$250 each, conditioned to appear and answer the judgment of the appellate court in accordance with
+Supreme Court Rule 34.</p>
+<p>Jeremiah Neterer</p>
+
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

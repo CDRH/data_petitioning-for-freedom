@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Deputies</title>
+<title>Gladys Fredrika Fuson v. Territory of Washington. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Deputies</title>
-<date when="1916">October 27, 1916</date>
+<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Order</title>
+<date when="1916">November 2, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,21 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-11"></date>November 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lundin, H. Alfred</term>
-<term>Helsell, Frank P.</term>
-<term>Brackett, S.M.</term>
-<term>Carmody, John D.</term>
-<term>Ewing, Edwin C.</term>
-<term>Barto, Joseph A.</term>
-<term>Ellis, Everett C.</term>
-<term>Summers, Lane</term>
-<term>Palmer. Erven H.</term>
-<term>Patterson, T.H.</term>
-<term>Fuson, Gladys Fredrika</term>
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -111,27 +101,31 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wilson, P.H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
-<persName>Cushman, E.E.</persName>
+<persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,44 +138,59 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0147.007"/>
+<pb facs="hc.case.wa.0147.008"/>
 
-<p>Prosecuting Attorney King County Washington</p>
+<p>IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>ALFRED H. LUNDIN
-DEPUTIES
-FRANK P. HELSELL
-S.M. BRACKETT
-JOHN D. CARMODY
-EDWIN C. EWING
-JOSEPH A. BARTO 
-EVERETT C. ELLIS
-LANE SUMMERS
-ERVEN H. PALMER
-T.H. PATTERSON</p>
+<p>In the Matter of the Application 
+of MRS. GLADYS FREDRIKa FUSON, 
+for the Writ of Habeas Corpus.}
+No.3451
+ORDER</p>
 
-<p>SEATTLE October 27, 1916.</p>
+<p>Upon reading and filing the Affidavit and Petition of 
+Gladys Fredrika Fuson, the application for habeas corpus herein, 
+for permission to prosecute said proceding in forma pauperis, 
+and having been duly advised in the premises,</p>
 
-<p>Hon. E.E. Cushman. 
-Judge U.S. Dist. Court,
-Tacoms, Washington.</p>
+<p>ORDERED that the petition be granted, and that all of the
+procedings hertofore had may be entered by the Clerk if this
+Court as in forma pauperis, and that any deposits made by 
+the petitioner in this action be return to her by the CLerk</p>
 
-<p>Dear Sir:
-In the matter of the application of Gladys Fuson 
-for writ of habeas corpus, we beg leave to submit to you
-list of authortues cited in Section 22 and 23 of Bailey
-on Habeas Corpus, as follows:</p>
+<p>DONE IN OPEN COURT this 2nd day of November AD 1916</p>
 
-<p>Carfer vs. Caldwell. 200 U.S.,293; 30 Law ed.488
-Ex party Royal, 117 U.S., 178; 50 law Ed. 984;
-New York vs. Eno, 155 Wash., 89; 39 Law ed. 80.</p>
+<p>Edward E Cushman
+Judge</p>
 
-<p>Respectfully,
-Frank P Helsell
-Chief Deputy Prosecuting Attorney</p>
+<pb/>
 
-<p>FPH-EF</p>
+<p><add>GOB-6-213</add></p>
 
+<p>U.S. District Court 
+Western District of 
+Washington
+Northern Division</p>
+
+<p>In Re Gladys Fuson's 
+Application for Writ of 
+Habeas Corpus</p>
+
+<p>Order Forma Pauperis</p>
+
+<p>TX</p>
+
+<p>FILED IN THE 
+U.S District Court,
+Western Dist. of Wshington,
+NORTHERN DIVISION
+Nov 2-1916
+FRANK L. CROSBY, Clerk
+By HC Deputy</p>
+
+<p>P.H. Wilson
+atty for petitioner</p>
 </div1>
     
 </body>
