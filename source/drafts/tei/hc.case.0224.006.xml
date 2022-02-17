@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0224.006">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lewis Johnson v. Defendant. Witness Testimony, Robert Tate.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0224.006</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Lewis Johnson v. Defendant. Witness Testimony, Robert Tate.</title>
+<date when="1915">1915</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1915-06">June 1915</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Robert Tate</term> 
+<term>J.K. Kennedy</term> 
+<term>Lewis Johnston</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States of America</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Lewis Johnson</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-02" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>ROBERT TATE
+821 Campbell Ave. 
+called as a witness, being first
+sworn, testified as follows:</p> 
+<p>QUESTIONS by MR KENNEDY:</p> 
+<p>50 Q. What is your occupation? A Porter and waiter.</p> 
+<p>51 Q. Do you know Lewis Johnston? A Yes sir</p> 
+<p>52 Q. How long have you known him? A. A little over a year</p> 
+<p>53 Q. Do you remember the 4th of June? A. I really don't know
+the date, but I remember Friday, Saturday morning. I paid no
+attention to the date.</p> 
+<p>54 Q. How many Saturdays ago? A. Pardon me, just a minute. I
+paid no attention to the date.</p>
+<p>55 Q. But how many weeks ago? Would you know how many Saturdays
+have intervened since then? A. The Saturday before last.</p> 
+<p>56 Q. That would be the 5th. Did you see Johnston on that date
+A. He came to the house where I live between four and five in
+the morning</p> 
+<p>57 Q. Where do you live? A. 821 Campbell Avenue</p> 
+<p>58 Q. And alone? A. Yes sir I room a lone but there are other
+people in the house.</p> 
+<p>59 Q. Now I want you to tell us in your own words, please, with
+out any prompting what conversation you had with Johnston
+in connection with this charge? A. He came to the house 
+between 4 and 5 in the morning - I didn't notice the time 
+so much either - but he came there really early in the morning
+and knocked at the back door, and the lady of the house opened
+the door and he asked her for "Bob"</p> 
+<p>60 Q. You are "Bob", eh? A. Yes. He said "I want to see him on 
+some very important business" So she opened the door and he came
+in, and he was in the kitchen when I came down, and she called
+to me that Mr Johnston wanted to see me on some very important
+business; and I went out there and he had a bottle of Gin and
+several packages of cigarettes; and he said he came to give
+me the time of my life, that he was going to the States; and
+I sat down and had a drink; and he said he had come into some
+money</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
