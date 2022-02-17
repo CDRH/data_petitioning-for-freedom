@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.014">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.013">
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0147.014</idno>
+<idno type="project">hc.case.wa.0147.013</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -79,13 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-10"></date>October 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fuson, Gladys Fredrika</term>
 <term>Fuson, Harold W.</term>
-<term>Wilson, P.H.</term>
 <term>Horner, T.R.</term>
 <term>Sickels, W.K.</term>
 <term>Bruces, O.S.</term>
@@ -107,27 +105,31 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wilson, P.H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
-<persName>Tallemer, Boyd J.</persName>
+<persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,16 +142,19 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0147.014"/>
+<pb facs="hc.case.wa.0147.013"/>
 
-<p>IIN THE SUPERIOR COURT OF THE UNITED STATE OF WASHINGTON KING COUNTY</p>
+<p>Pet Exhibit 2</p>
+
+<p>IN THE SUPERIOR COURT OF THE UNITED STATE OF WASHINGTON KING COUNTY</p>
 
 <p>H.W.Fuson 
-Plaitiff,
+Plaintiff,
 vs.
 Gladys Fuson 
-Defendant,} 
-No.118393
+Defendant,}</p>
+
+<p>No.118393
 ORDER</p>
 
 <p>In open Court this 20th day of October 1916 the above entitled 
@@ -162,13 +167,13 @@ also by his attorney T.R.Horner, the Court having considered the matter and bein
 and the statement of the Paintiff,</p>
 
 <p>IT IS THERFORE ORDERED BY THE COURT, that the Plaintiff H.W.Fuson 
-immediatly pay into Court or the registy thereof the sum of Four 
-Dollars as suit money for expendses alreadt incurred and also the
+immediatley pay into Court or the registry thereof the sum of Four 
+Dollars as suit money for expenses already incurred and also the
 further sum of Twelve &amp; 50/100 Dollars as alimony pendent lite,
-and also the sum of Twelve &amp; 50/100  Dollars upon his nect payday<add>touit Oct 25" 1916</add>
+and also the sum of Twelve &amp; 50/100  Dollars upon his next payday<add>to wit Oct 25" 1916</add>
 and the further sum of Twelve Dollars &amp; 50/100 semi montly thereafter,
 during the pendendency of this action as and for the support
-of the Defendant during the pendedcy of said action.</p>
+of the Defendant during the pendency of said action.</p>
 
 <p>By The Court,</p>
 
@@ -178,7 +183,7 @@ Judge</p>
 <pb/>
 
 <p>In the Superior Court of the State of Washington 
-for the Couty of KIng</p>
+for the Couty of King</p>
 
 <p>State of Washington
 County of King}ss</p>
@@ -187,24 +192,25 @@ County of King}ss</p>
 Plaintiff 
 vs. 
 Gladys Fuson
-Defendant}
-No.118393</p>
+Defendant}</p>
+
+<p>No.118393</p>
 
 <p>I, W. K. SICKELS, County Clerk of King County, and ex-officio clerk of the 
 Superior Court of the State of Washington for the County of King do hereby certify 
 that I have compared the foregoing copy with the original Order
-in the above entitled cause as the sae appears on file
-in my office and the same is true and perfect trascript of said original and of the 
+in the above entitled cause as the same appears on file
+in my office and the same is true and perfect transcript of said original and of the 
 whole therof.</p>
 
-<p>Witness my hand and the seal of the said Superior COurt, at my office in 
+<p>Witness my hand and the seal of the said Superior Court, at my office in 
 Seattle,this 24 day of Oct 1916</p>
 
 <figure></figure>
 
-<p>WK Sicak Clerk</p>
+<p>WK Sickels Clerk</p>
 
-<p>By O.S. Bruces Deputy</p>
+<p>By O.S. <unclear>Bruces</unclear> Deputy</p>
 
 <pb/>
 
@@ -224,7 +230,7 @@ Defendant</p>
 <p>Certified Copy of 
 Order</p>
 
-<p>PHWilson
+<p>PH Wilson
 Attorney for Deft
 Seattle, Washington</p>
 </div1>
