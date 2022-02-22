@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.016">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.015">
     
 <teiHeader>
 <fileDesc>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0147.016</idno>
+<idno type="project">hc.case.wa.0147.015</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -111,6 +111,8 @@
 </person>
 <person role="judge">
 <persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -138,7 +140,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0147.017"/>
+<pb facs="hc.case.wa.0147.015"/>
 
 <p>United States District court for the Western District of Washington</p>
 
