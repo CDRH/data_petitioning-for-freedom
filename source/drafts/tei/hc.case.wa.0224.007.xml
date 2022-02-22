@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0224.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lewis Johnson v. Defendant. Witness Testimony, Frankie Russell.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0224.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Lewis Johnson v. Defendant. Witness Testimony, Frankie Russell.</title>
+<date when="1915">1915</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1915-06">June 1915</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Frankie Russell</term> 
+<term>Lewis Johnston</term> 
+<term>Lewis Johnson</term> 
+<term>Robert Tate</term>
+<term>Garnett</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Lewis Johnson</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-02" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>MISS FRANKIE RUSSELL,
+821 Campbell Ave.</p>
+<p>called as a witness, being first
+sworn, testified as follows:</p> 
+<p>96 Q. You live in the same house, or rather the last witness
+lives in the same house you do? A. Yes </p> 
+<p>97 Q. Do you know Lewis Johnston? A. Yes</p> 
+<p>98 Q. How long have you known him? A. I have known him about six 
+months.</p> 
+<p>99 Q. Will you tell us shortly what happened on Saturday, that
+would be the 4th of June and from then on as far as
+you personally know about it? A. Johnston came to our house 
+between 4 and 5 in the morning and knocked on the door. I
+told him first we were in bed; he said it was important, that
+he wanted to see Mr. Tate. I opened the door and let him in
+and called Mr. Tate; and him and Mr Tate were talking and my-
+self. He had a bottle of gin with him and some fancy
+cigarettes and a bottle of cream, and he said that the reason he
+said it was important he thought we would not let him in.
+We drank there for awhile, and he asked Mr. Tate if he would
+go up-town to get him some underwear and shoes. Mr Tate 
+said he would. He wanted Mr. Tate to go up-town with him. 
+He said "what is the object of going up-town so early in
+the morning?" and he said "I have to see Garnett before
+Garnett goes to bed." The rest he knows. He came back 
+to the house and he <unclear>crank</unclear> a considerable bit, and when I 
+</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
