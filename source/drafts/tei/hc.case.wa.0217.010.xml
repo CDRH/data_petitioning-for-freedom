@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0135.027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0217.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Wilson D. Coyle. Subpoena</title>
+<title>Ng Key Tung vs. Henry M. White. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
-
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>    
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0135.027</idno>
+<idno type="project">hc.case.wa.0217.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Subpoena</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Ng Key Tung vs. Henry M. White. Criminal.</title>
+<date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1538-03</idno>
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,12 +78,14 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-11">November 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Boggs, T. D.</term>
-
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
+<term>Landon, Daniel</term>
+<term>Laube, William T.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,13 +97,14 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Coyle, Wilson D.</persName>
+<persName>Ng Key Tung</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Daniel Landon</persName>
+<persName>William T. Laube</persName>    
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -114,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District</orgName>
-<placeName>Spokane, Washington</placeName>
+<orgName>Western District Court of Washington, Northern Division.</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#brh">transcribed and encoded</change>
+<change when="2022-02" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,64 +134,51 @@
 <body>  
 
 
-               
+
 <div1 type="case">
 
-<pb facs="hc.case.wa.0135.027"/>
-<p>Territory of Washington
-County of Spokane}ss
-Territory of Washington Plaintiff
-vs.
-Wilson D. Coyle Defendant} 
-In the District Court of the Territory 
-of Washington and for the Fourth 
-Judicial District thereof, hold-
-ing terms at Cheney, Spo-
-kane County, in said
-Territory
-
-To the Sheriff of <unclear>Spokane</unclear> County, Greeting:
-In the name of the United States, You are hereby commanded to summon
-<unclear>T.D. Boggs John
-E. GilsonJohn Croft Mile Halton</unclear>
-to be and appear before the District Court
-at the Court House, in Cheney, in said County, on the forthwith day of
-April A.D. 1885, at o'clock M. to there give evi-
-dence in the above entitled cause on the part of said <unclear>plaintiff</unclear>.
-
-Witness the Hon. George Turner, Associate Justice of
-the Supreme Court of Washington Territory, and 
-Judge of said Court, and the seal thereof affixed,
-this 26th day of April A.D. 1885.
-Kate W. Feauerbach Clerk
-By R. Strobach Deputy.</p>
-
 <pb/>
-
-<p>
-Subpoena
-In the District Court of the Territory
-of Washington and for the Fourth
-Judicial District thereof, hold-
-ing terms at Cheney, in said 
-Territory.
-Territory  Plaintiff
+<p>United States District Court for the Western District of Washington</p>
+<p>In the matter of the 
+application of Ng Key 
+Tung application
 vs.
-Coyle Defendant
-Returned and filed this 20
-day of April A.D. 1885
-Clerk
-By Deputy
-Sheriff's Fees
-Serving 6 names at .40 2.40
-Mileage 30 miles at .10 3.00
-Total, ----$5.40
+for Habeas Corpus. }
+No. 2897 
+Appearance</p>
 
-<unclear>Territory of Washington
-Copy of Docket
-E.F. Whittier
-Sheriff</unclear>
-</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please enter our appearance as attorneys 
+for applicant in the above 
+entitled cause, and service of all subsequent papers, except writs and process, may be made upon 
+said attys, by leaving teh 
+same with</p>
+<ab>W. T. Laube,
+Dan Landon 
+W. J. Laube</ab>
+<p>Office Address</p>
+<p>Or SC 1.50</p>
+
+<p>NOTICE-Attorneys will please endorse their own Filings. Rule 11.</p>
+<pb/>
+<p>2x</p>
+<p>GOB-5-145</p>
+<p>No. <gap/></p>
+<p>United States District Court 
+Western District of Washington</p>
+<p><gap/>
+vs.
+<gap/></p>
+<p>Appearance</p>
+<p>FILED IN THE 
+U. S. District Court, 
+Western Dist. of Washington, 
+NORTHERN DIVISION
+NOV171914</p>
+<ab>FRANK L. CROSBY, Clerk, 
+By EML Deputy</ab>
+
+<p>For <gap/></p>
 
 </div1>
     
