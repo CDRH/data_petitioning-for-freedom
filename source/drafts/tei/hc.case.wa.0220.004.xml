@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0147.013">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0220.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Motion to Quash</title>
+<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
-
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -20,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0147.014</idno>
+<idno type="project">hc.case.wa.0220.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Motion to Quash</title>
-<date when="1916-10-27">October 27, 1916</date>
+<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,16 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-10"></date>October 1916</term>
+<term><date when="1915-02">February 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward</term>
+<term>Cushman, Edward E.</term>
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -96,37 +95,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Fuson, Gladys Fredrika</persName>
+<persName>Elsie Miller Dickinson</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Wilson, P.H.</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Alfred H. Lundin,</persName>
-<persName>Frank P. Helsell</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Dykeman, King</persName>
-<persName>Cushman, Joseph</persName>
-<persName>Cushman, Edward E.</persName>
+<persName>Edward E. Cushman</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>Western District Court of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#eh">transcribed and encoded</change>
-<change when="2022-02" who="#sjs">reviewed</change>
+<change when="2022-02" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,59 +131,30 @@
 <body>  
 
 
-               
+
 <div1 type="case">
 
-<pb facs="hc.case.wa.0147.013"/>
-
-<p>IN THE UNITED STATE DISTRICT, WESTERN DISTRICT OF
-WASHINGTON, NORTHERN DIVISION.</p>
-
-<p>IN THE MATTER OF THE APPLICATION 
-OF MRS. GLADYS FREDRIKA FUSON,
-FOR WRIT OF HABEAS CORPUS.}</p>
-
-<p>NO.3451
-MOTION TO QUASH</p>
-
-<p>Comes now King Dykeman, respondent named in the writ of 
-habeas corpus issued in the above entitled action, and moves the 
-court for an order quashing the writ of habeas corpus issued herein,
-dismissing the above entitled motion and remanding the petitioner
-above named to the custody of the Juvenile Detention Home in King 
-County, Washington, on the ground and for the reason that the petition
-in this action fails to state facts suffcuent to entitle 
-petitioner to any relief</p>
-
-<p>Alfred H Laudin
-Frank P. Helsell
-Attorneys for Respondent.</p>
-
 <pb/>
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN 
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>NO.3451</p>
+<p>IN THE MATTER  OF 
+ELSIE MILLER DICKINSON.
+No. 2965.
+ORDER OF CONTINUANCE.
+On Habeas Corpus.</p>
 
-<p>IN THE U.S. DISTRICT COURT WESTERN
-DISTRICT OF WASHINGTON, NORTHERN 
-DIVISION.</p>
+<p>It appearing to the Court that the return day on 
+the Order show cause in the above entitled matter comes 
+on February 24th.1915, and that theJudges of this District 
+will be otherwise engaged in the performance of their duties,</p>
+<p>IT IS NOW THEREFORE ORDERED that the hearing on the 
+return day in the above entitled matter be, and the same is 
+hereby continued to and including March 2nd.1915, at 10 a.m.</p>
+<p>Dated this  23rd. day of February,A.D. 1915.</p>
+<ab>Edward E Cushman <lb/>
+District Judge.</ab>
 
-<p>IN THE MATTER IF THE APPLICATION 
-OF GLADYS FREDRIKA FUSON 
-FOR A WRIT OF HABEAS CORPUS</p>
-
-<p>MOTION TO QUASH</p>
-
-<p>FILED INTHE 
-U.S. District Court
-Western District of washington 
-Oct 27 1916 
-FRANK L CROSBY Clerk
-by Edw Lakin Deputy</p>
-
-<p>ALFRED H. LUNDIN
-FRANK P. HELSELL
-432 Court Hourse, Seattle, Wash.
-Attorneys for Respondednt.</p>
 </div1>
     
 </body>
