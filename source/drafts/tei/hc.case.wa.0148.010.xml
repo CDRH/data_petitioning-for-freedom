@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Affidavit</title>
-<date when="1903">March 3, 1903</date>
+<date when="1903-03-03">March 3, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,18 +79,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-03"></date>March 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lavin, James P.</term>
-<term>Angelique, M.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
-<term>Cushman, Edward E.</term>
-<term>Avres, A. Reeves</term>
-<term>Statiherd, H.M.</term>
+<term>Ayres, A. Reeves</term>
+<term>Walthew, H.M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,33 +96,38 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, Jampes P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
