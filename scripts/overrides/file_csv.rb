@@ -15,6 +15,7 @@ class FileCsv < FileType
         es_doc = []
         @csv.each do |row|
             if !row.header_row? && row["Case ID"]
+                puts "processing " + row["Case ID"]
                 es_doc << row_to_es(@csv.headers, row)
             end
         end
