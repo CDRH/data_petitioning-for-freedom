@@ -47,7 +47,9 @@ class TeiToEs
 
   # TODO contributor
   # do we want to note that Dr. Jagodinsky is the PI as role?
-
+  def category
+    "Documents"
+  end
   # def creator
   #   # TODO
   # end
