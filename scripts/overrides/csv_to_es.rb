@@ -91,9 +91,8 @@ class CsvToEs
 
     def person
       # only includes name and case role, due to limitations of API
-      
+      list = []
       if @row["Person Participants"]
-        list = []
         @row["Person Participants"].split(/; */).each_with_index { |name, index|
           person = { 
             "name" => name 
@@ -134,15 +133,14 @@ class CsvToEs
             end
           list << person 
         }
-        if @row["Additional Parties"]
-          @row["Additional Parties"].split(/; */).each { |name|
-            person = { "name" => name, "role" => "Additional Party" }
-            list << person
-          }
-        end
-        list
       end
-
+      if @row["Additional Parties"]
+        @row["Additional Parties"].split(/; */).each { |name|
+          person = { "name" => name, "role" => "Additional Party" }
+          list << person
+        }
+      end
+      list
     end
   
   
