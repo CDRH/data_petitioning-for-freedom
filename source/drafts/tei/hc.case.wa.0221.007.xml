@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0221.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Chin Quock Wah vs. Henry M. White.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0221.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Chin Quock Wah vs. Henry M. White.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,11 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1915-05">May 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term></term>
+
+
+
+
+
+
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,26 +102,28 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Chin Quock Wah</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Adam Beeler</persName>
+<persName>Sullivan</persName>    
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Clay Allen</persName>
+<persName>George P. Fishburne</persName>    
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western District Court of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,6 +144,78 @@
 <div1 type="case">
 
 <pb/>
+<p>UNITED STATES DISTRICT COURT 
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE APPLICATION 
+OF CHIN QUOCK WAH FOR A WRIT 
+OF HABEAS CORPUS ) 
+No. 2971.
+Filed May 10, 1915.</p>
+
+<p>Beeler &amp; Sullivan For Applicant.
+Clay Allen, U. S. District Attorney) For Government.
+George P. Fishburne, Asst. " )</p>
+<p>NETERER, District Judge:</p>
+<p>It is alleged in the amended petition that the petitioner
+is restrained of his liberty by the United States Commissioner 
+of Immigration, in that he is ordred deported, contrary to law, 
+and states that on the 14th of September, 1914, he arrived at 
+the port of Seattle, made application for admittance, and that
+he was given a hearing by the Immigration officials and testimony
+was taken from time to time, and on the 25th of November,
+1914, an order was issued by the Commissioner of Immigration, 
+finding that he was not entitled to remain in the United States, 
+and his deportation was ordered; that on the same day an appeal was
+taken to the Secretary of Labor; that the appeal was determined 
+by one J. B. Densmore, Solicitor of the Department, as Acting
+Assistant; that at said time the Secretary of Labor and his 
+Assistant were at their respective offices, and the action
+of Densmore was not authorized by law, and that the petitioner, by 
+reason thereof, did not have a hearing upon his appeal, and that
+he has been denied due process of law; that he is the minor son 
+of Ching Wing Hin, a native born Chinaman of the United States; 
+and prays that he be discharged and allowed to join his father, 
+who is a merchant in Boston, Mass. It is further alleged that
+the petitioner was denied the right to have counsel appear before 
+the Secretary of Labor and present oral argument in support of
+his appeal.</p>
+<p>Return is made in which it is admitted that the petitioner 
+arrived in the United States and applied for admission, and that
+he was denied admission and ordered to be deported; admits that
+<fw>--1--</fw>
+<pb/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div1>
