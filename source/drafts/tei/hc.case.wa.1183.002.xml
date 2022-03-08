@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>grace</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName></persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.1183.002"/> <!-- insert number from spreadhseet -->
+
+<head> House Bill No. 340
+State of Washington, Ninth Regular Session
+Read first time February 20, 1905; ordered printed, and referred to Committee on Judiciary. </head>
+<p> Making it a misdemeanor to sell or exchanged property under the representation, advertisement
+notice or inducement that an unidentified, unknown, unselected, or chance
+prize, premium or premium gift, or that a stamp, trading-stamp, coupon or other like
+device, entitling the holder to recieve such a prize, premium or premium gift, or that
+the redemption of such a stamp, trading-stamp, coupon or other like device so given is
+to be part of the transaction, or to sell or exchange any trading-stamp, stamp, coupon,
+or other like device to aid such sale or exchange, as aforesaid, and providing a penalty
+therefor. </p>
+<p> Be it enacted by the Legislature of the State of Washington:
+Section 1. Whoever sells or exchanges any property or offers or attempts so to do
+upon a representation, advertisement, notice of inducement that anything unidentified
+by or unselected by the purchaser at or before the time of the sale or exchange or upon a
+representation, advertisement, notice or inducement that anything whose precise nature
+is not known to the purchaser at the time of the sale or exchange as to be completely
+identified beyond the necessity of any further or other selection or upon a representation
+notice, advertisement, or inducement that any property whose selection will depend
+upon chance or hazard in any manner whatsoever is or is to be delivered or recieved
+or is in any way connected with or is a part of the transaction as a prize, premium or
+premium-gift; or whoever sells or exchanges any property or offeres or attempts to do
+upon a representation, advertisement, notice or inducement that a stamp, trading-
+stamp, coupon or other device which entitiles te purchaser to demand or recieve either from
+the vendor or from any other person, corporation, association, or company any property
+whose selection will depend upon chance or hazard or in any manner whatsoever, is to
+be delivered or recieved or is iin any way connected with or is a part of the transaction
+as a price, premium or premium-gift; or whoever sells or exchanges any trading-stamp,
+stamp, coupon or other like device device upon a contract to enable the person to sell or exchange
+property, or attempt so to do, upon any representation, advertisement, notice or inducement
+of any kind hereinbefore mentioned; or whoever delivers any goods, wares or merchandise
+upon the representation of any such stamp, coupon or other like device so
+
+<pb/>
+
+given or caused to be given shall for each offense be guilty of a misdemeanor and be
+punishable by a fine of not less than $20 or more than $500, or imprisonment in a county
+jail for not less than ten days, nor more than six months, or by both: Provided, however,
+That the provisions of this act shall not apply or extend in any manner to the redemption
+of any such stamp, trading-stamp, coupon or other like device that may have been issued
+as a premium prize or premium-gift prior to the time this act takes effect: And provided
+further. That the provisions of this act shall not apply or extend to any sale or exchange
+of articles in bulk, heap or mass, or a part or portion thereof; which sale or exchange
+is not made, effected or induced by or upon any representation, advertisement,
+notice or inducement of any kind hereinbefore specified. Provided further, that
+this act shall not apply to any person giving a due bill on the
+sale of merchandise and redeeming the same himself in merchandise
+<add>Provided further, That this act shall not apply to agricultural
+or church fairs conducted for scientifis or chartiable purposes. </add> </p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
