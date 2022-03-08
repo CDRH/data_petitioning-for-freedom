@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+ <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0148.013">
     
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-03"></date>March 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -96,33 +96,38 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, Jampes P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
-<persName>Hanford, C.H.</persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,7 +145,30 @@
 <p>IN THE UNITED STATES CIRCUIT COURT FOR THE DISTRICT OF WASHINGTON,
 NORTHERN DIVISION</p>
 
-<p>...</p>
+<p>In the Matter of the Application
+of James P, Lavin and Sister Superior 
+M Angelique, for a Writ 
+of Certiorari.</p>
+
+<p>In the Matter of the Application of Yvonne La Fevre, Georgette
+Normand, and Marie Le Fevre for a 
+writ of habeas corpus.</p>
+
+<p><unclear>No.</unclear></p>
+
+<p>Order.</p>
+
+<p>Upon motion of Edward <unclear>Cushman</unclear>, <unclear>assistant</unclear> United States Attorney,
+and the <unclear></unclear> being fully <unclear></unclear>, it is <unclear>ordered</unclear> that
+the copy of the
+writ of certiorari <unclear></unclear> to the <unclear></unclear> of Edward E. <unclear>Cushman</unclear>
+filed herein, be filed <unclear></unclear> of the 1st day of February, 1903,
+and filed herein as a <unclear></unclear> for the <unclear></unclear> writ <unclear></unclear> on
+that
+date</p>
+
+<p>Done in open court this <unclear>5</unclear> day of <unclear>March</unclear>,
+<unclear>1903</unclear>.</p>
 
 <p>C.H. Hanford
 Judge.</p>
@@ -157,16 +185,16 @@ In District of Washington</p>
 <p>In the Matter of 
 the Application of 
 James P. Lavin and 
-Another &amp;<unclear></unclear></p>
+Another for Certiorari</p>
 
 <p>Order</p>
 
 <p>FILED IN THE 
-U.S. Circuti Court,
+U.S. Circuit Court,
 DIST. OF WASHINGTON.
 MAR 5, 1903
 A. REEVES AYRES, Clerk
-HM Statiherd Dep.</p>
+HM Walthew Dep.</p>
 </div1>
     
 </body>
