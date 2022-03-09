@@ -854,7 +854,7 @@
         "Court Type": "Commissioner's Court",
         "Created": "2022-03-02T15:40:12.000Z",
         "Earliest Record Date": "1854-12-18",
-        "Last Modified": "2022-03-02T16:42:24.000Z",
+        "Last Modified": "2022-03-02T21:58:19.000Z",
         "Latest Record Date": "1854-12-19",
         "Location of Court": [
             "recLv8qWaPpNk5G0x"
@@ -874,6 +874,7 @@
         "Petition Type": [
             "Institutional: underage military enlistment"
         ],
+        "Points of Law Cited": "a minor cannot enlist in the U.S. military without the consent of a parent, guardian, or master",
         "Primary field": "Habeas Corpus in the matter of Philip Lowry",
         "Record Type(s)": [
             "Case File"
@@ -1017,6 +1018,58 @@
         "Title": "Habeas Corpus in the Matter of William Jones & William Barclay",
         "airtable_createdTime": "2022-02-22T21:39:33.000Z",
         "airtable_id": "rec8rGMSlvfwWKlLs"
+    },
+    {
+        "Additional Parties Named in Document: Last, First": "Eccurs, N. G. Dr.; O\u2019Hara, Capt.",
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, August Term 1855, No. 105",
+        "Case ID": "hc.case.mo.0102",
+        "Case Role [join]": [
+            "rec2HaIYUqPGxrP01",
+            "reckeS660dvKSFpav",
+            "recEacxlTH0q4YypM",
+            "rec8hKktQcvHL97jV"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-02T21:10:11.000Z",
+        "Earliest Record Date": "1855-08-27",
+        "Last Modified": "2022-03-02T22:02:01.000Z",
+        "Latest Record Date": "1855-08-28",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "James McAlvoy enlisted in the U.S. military. His mother, Bridget McAlvoy, asserted that he was a minor and petitioned for a writ of habeas corpus to retrieve him, which was granted. After hearing the evidence, James was released.",
+        "People": [
+            "recMNFQspdUt81kLh",
+            "recsE0sHriCIEXAm8",
+            "recZ0ScOR7sYFo2qc",
+            "recavkqA8WOgcQK5Y"
+        ],
+        "Petition Date": "1855-08-27",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Institutional: underage military enlistment"
+        ],
+        "Points of Law Cited": "a minor cannot enlist in the U.S. military without the consent of a parent, guardian, or master",
+        "Primary field": "Habeas Corpus in the matter of James McAlvoy",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recJIzpdj4ZIDywlk",
+            "recywhvEXBT0uOP6F"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Site(s) of Significance": [
+            "Jefferson Barracks (St. Louis, MO)"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of James McAlvoy",
+        "airtable_createdTime": "2022-03-02T21:10:11.000Z",
+        "airtable_id": "rec9MdCFYIiyPFtHJ"
     },
     {
         "Additional Parties Named in Document: Last, First": "McClure, James; Rose, Elzy H.; Hickman, Francis",
@@ -1482,6 +1535,16 @@
         "Title": "Ex parte William Johnson",
         "airtable_createdTime": "2022-01-26T20:25:57.000Z",
         "airtable_id": "recDusgTDlX94oCv8"
+    },
+    {
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, December Term 1854 No. 120",
+        "Case ID": "hc.case.mo.0107",
+        "Created": "2022-03-03T14:37:16.000Z",
+        "Last Modified": "2022-03-03T14:49:00.000Z",
+        "Primary field": "Habeas Corpus in the matter of John Medford",
+        "Title": "Habeas Corpus in the matter of John Medford",
+        "airtable_createdTime": "2022-03-03T14:37:16.000Z",
+        "airtable_id": "recEcPouTlgHOggRm"
     },
     {
         "Additional Parties Named in Document: Last, First": "Adams, James C.; Baning, John; Wells, Jesse; Bailey, Alexander",
@@ -2154,7 +2217,7 @@
         "Court Type": "Commissioner's Court",
         "Created": "2022-01-27T20:58:07.000Z",
         "Earliest Record Date": "1853-08-04",
-        "Last Modified": "2022-03-01T18:06:14.000Z",
+        "Last Modified": "2022-03-02T22:43:26.000Z",
         "Latest Record Date": "1853-08-11",
         "Location of Court": [
             "recLv8qWaPpNk5G0x"
@@ -2524,6 +2587,68 @@
         "Title": "In the matter of William Edwards",
         "airtable_createdTime": "2022-02-01T21:36:17.000Z",
         "airtable_id": "recMtWCmwi2bfQYrl"
+    },
+    {
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, December Term 1854, No. 130",
+        "Case ID": "hc.case.mo.0104",
+        "Case Role [join]": [
+            "recl2krOuUvaVDAvT",
+            "rec3ns0BoGJ7WHme9",
+            "recnQw3yvAbnHXYsW",
+            "recDxdMx64NYjtD8o",
+            "rec8CCApIhUJs6Jip",
+            "recOerjTvpG5OVeoB",
+            "recRVGK9CNzPd9hdi"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-02T22:09:08.000Z",
+        "Earliest Record Date": "1855-01-11",
+        "Last Modified": "2022-03-03T14:36:21.000Z",
+        "Latest Record Date": "1855-01-15",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "Patrick McDonald, a thirteen year old boy, was arrested, accused of being a vagrant, and sent to the St. Louis House of Refuge. Bail was set at $100. He petitioned for a writ of habeas corpus, contending that minors who had parents and homes could not be vagrants, which was granted. Michael McDonald, likely his father, witnessed the petition. After hearing the evidence, Patrick was remanded to the custody of F. S. W. Gleason, superintendent of the House of Refuge.",
+        "People": [
+            "recK1jeGCPADCc5kP",
+            "recaHatculKOplzKX",
+            "recozrCKojPq5y9ri",
+            "recJrJE1V0Px9OTcv",
+            "recavkqA8WOgcQK5Y",
+            "recLWu8Tzvxk7ak6j",
+            "rec12GsOtfnW25foA"
+        ],
+        "Petition Date": "1855-01-11",
+        "Petition Outcome": "Petition granted: bound party remained in custody",
+        "Petition Type": [
+            "Carceral: vagrancy"
+        ],
+        "Points of Law Cited": "St. Louis municipal ordinance concerning vagrants, passed March 29, 1850",
+        "Primary field": "Habeas Corpus in the matter of Patrick McDonald",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recUjN4xQ0EpfIXGd",
+            "rec37zNy8qqp7Ayz2",
+            "rec3MI2wfAeOklgpR",
+            "recYzsFiawoNUjxzB",
+            "reckBKc5C7EQpO1T9",
+            "recPj02V3C9xekREN",
+            "recl8YmvOzoZwSgyf"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Site(s) of Significance": [
+            "House of Refuge (St. Louis, MO)"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of Patrick McDonald",
+        "airtable_createdTime": "2022-03-02T22:09:08.000Z",
+        "airtable_id": "recN5f8VZioBDff9n"
     },
     {
         "Additional Parties Named in Document: Last, First": "Bolin, Sgt.",
@@ -3481,6 +3606,51 @@
         "airtable_id": "recWZYmGbAguzkjHB"
     },
     {
+        "Additional Parties Named in Document: Last, First": "Gauly, Michael; MacDonald, Robert S.; Connell, Michael.; Hurst, C. R.; Lawrence, D. H.; Watson, W. B.; Dickinsey, L.",
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, June Term 1857, No. 96",
+        "Case ID": "hc.case.mo.0105",
+        "Case Role [join]": [
+            "recnhVl3iM71DgYVy",
+            "rec7QJ8WWPgK5Ea2a",
+            "recT7aVEk0vVJ6uoR",
+            "rectcZIy7dlIE5kQu"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-02T22:56:44.000Z",
+        "Earliest Record Date": "1857-06-03",
+        "Last Modified": "2022-03-03T14:54:30.000Z",
+        "Latest Record Date": "1857-06-10",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "William McGiveren was lounging by the Meramec River with some friends when he made a remark that he thought it would be funny to drown Michael Gauly. Gauly had McGiveren arrested for disturbing the peace. Bail was set at $250. McGiveren petitioned for a writ of habeas corpus, which was granted. After hearing the evidence, McGiveren was released.",
+        "People": [
+            "recKrzHqJHAhewoT2",
+            "rec8L3b7WBNrLMOER",
+            "recQwGANcu5MkvJMS",
+            "recGsnlmWbE63VmyA"
+        ],
+        "Petition Date": "1857-06-10",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Carceral: disturbing the peace"
+        ],
+        "Points of Law Cited": "due process",
+        "Primary field": "Habeas Corpus in the matter of Wm Megiveren",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "rec0hqUnflC2PdpmJ"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Title": "Habeas Corpus in the matter of Wm Megiveren",
+        "airtable_createdTime": "2022-03-02T22:56:44.000Z",
+        "airtable_id": "recWdmssfqS7x21pG"
+    },
+    {
         "Case Citation/Source": "St. Louis Law Commissioners' Court, June Term 1857, No. 98",
         "Case ID": "hc.case.mo.0077",
         "Case Role [join]": [
@@ -3689,6 +3859,59 @@
         "airtable_id": "recY0lICy86aBREaG"
     },
     {
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, October Term 1855 No. 107",
+        "Case ID": "hc.case.mo.0106",
+        "Case Role [join]": [
+            "recKZwWcxegCr9bSP",
+            "recAvougcy9rL3I0I",
+            "recGrQ8Pcrr3kpmH2",
+            "recVRUIZ3X82cXiS7",
+            "recjbk4XEY1MyQZr1"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-03T14:03:34.000Z",
+        "Earliest Record Date": "1855-10-03",
+        "Last Modified": "2022-03-03T14:47:45.000Z",
+        "Latest Record Date": "1855-10-04",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "John McMenamy enlisted in the U.S. military. His mother, Mary McMenamy, asserted that he was a minor and petitioned for a writ of habeas corpus to retrieve him, which was granted. After hearing the evidence, John was released.",
+        "People": [
+            "rec087ocMxGmoo0Oj",
+            "recEdUqBQphzJWrFa",
+            "recftKSnd30DcF0Db",
+            "recoDb9RGMDJi0qB5",
+            "recavkqA8WOgcQK5Y"
+        ],
+        "Petition Date": "1855-10-03",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Institutional: underage military enlistment"
+        ],
+        "Points of Law Cited": "a minor cannot enlist in the U.S. military without the consent of a parent, guardian, or master",
+        "Primary field": "Habeas Corpus in the matter of John McMenamy",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recj9tihoodkmFNTU",
+            "recAYNMz0WPQ4KAoZ"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Site(s) of Significance": [
+            "Jefferson Barracks (St. Louis, MO)"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of John McMenamy",
+        "airtable_createdTime": "2022-03-03T14:03:34.000Z",
+        "airtable_id": "recZPMxiGBakaxdK8"
+    },
+    {
         "Additional Parties Named in Document: Last, First": "Miller",
         "Case Citation/Source": "RG207 Lancaster County Subgroup 9: Series 4 Daily Journal T: Feb. 1890-Sept. 1890, p. 784-785; 790; RG207 Lancaster County Subgroup 9: Series 3 Appearance Docket W, p. 93; RG207 Lancaster County Subgroup 9: Series 5 Complete Record 23, p. 120-122",
         "Case ID": "hc.case.ne.0543",
@@ -3768,7 +3991,7 @@
         "Court Type": "Commissioner's Court",
         "Created": "2022-01-25T14:08:11.000Z",
         "Earliest Record Date": "1854-09-07",
-        "Last Modified": "2022-03-01T18:06:14.000Z",
+        "Last Modified": "2022-03-02T22:43:26.000Z",
         "Latest Record Date": "1854-10-13",
         "Location of Court": [
             "recLv8qWaPpNk5G0x"
@@ -4208,7 +4431,7 @@
         "Court Type": "Commissioner's Court",
         "Created": "2022-03-02T16:10:57.000Z",
         "Earliest Record Date": "1857-04-22",
-        "Last Modified": "2022-03-02T17:12:25.000Z",
+        "Last Modified": "2022-03-02T21:58:18.000Z",
         "Latest Record Date": "1857-04-24",
         "Location of Court": [
             "recLv8qWaPpNk5G0x"
@@ -4226,6 +4449,7 @@
         "Petition Type": [
             "Institutional: underage military enlistment"
         ],
+        "Points of Law Cited": "a minor cannot enlist in the U.S. military without the consent of a parent, guardian, or master",
         "Primary field": "Habeas Corpus in the Matter of Hugh Maganity",
         "Record Type(s)": [
             "Case File"
@@ -4479,7 +4703,7 @@
         "Court Type": "Commissioner's Court",
         "Created": "2022-02-18T17:31:53.000Z",
         "Earliest Record Date": "1855-01-31",
-        "Last Modified": "2022-03-01T18:06:14.000Z",
+        "Last Modified": "2022-03-02T22:43:26.000Z",
         "Latest Record Date": "1855-02-27",
         "Location of Court": [
             "recLv8qWaPpNk5G0x"
@@ -4489,9 +4713,9 @@
             "recCSRLCjUZimXhBf",
             "reckNExaZDqKYwxR7",
             "recavkqA8WOgcQK5Y",
-            "recgd3NLbIbciv0cA",
             "recdAyFwqXdGC827h",
-            "recR8DbuzrqJ11z1b"
+            "recR8DbuzrqJ11z1b",
+            "rec12GsOtfnW25foA"
         ],
         "Petition Date": "1855-02-23",
         "Petition Outcome": "Petition granted: bound party released",
@@ -5864,6 +6088,58 @@
         "airtable_id": "recrrVK6D8iUHEjqa"
     },
     {
+        "Additional Parties Named in Document: Last, First": "Garrard, Lieut.; Bowen, Jno S.",
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, April Term 1855, No. 88",
+        "Case ID": "hc.case.mo.0103",
+        "Case Role [join]": [
+            "recdGhdyPY04eI2IW",
+            "rechHZt1sYMwqUIwJ",
+            "recLq4wnYwXti8H5g",
+            "recucmctMOWov1Rcf"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-02T21:49:21.000Z",
+        "Earliest Record Date": "1855-04-06",
+        "Last Modified": "2022-03-02T22:07:39.000Z",
+        "Latest Record Date": "1855-04-07",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "James McCanter enlisted in the U.S. military. His mother, Bridget McCanter, asserted that he was a minor and petitioned for a writ of habeas corpus to retrieve him, which was granted. After hearing the evidence, James was released.",
+        "People": [
+            "recqKzAnhR9kZBL6s",
+            "rece8P7ng0dw0zDsH",
+            "recojjlzyYKysbICA",
+            "recavkqA8WOgcQK5Y"
+        ],
+        "Petition Date": "1855-04-06",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Institutional: underage military enlistment"
+        ],
+        "Points of Law Cited": "a minor cannot enlist in the U.S. military without the consent of a parent, guardian, or master",
+        "Primary field": "Habeas Corpus in the matter of James McCanter",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recu6HQftxI2sWBDl",
+            "recNCqLnXSojS0gSl"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Site(s) of Significance": [
+            "Jefferson Barracks (St. Louis, MO)"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of James McCanter",
+        "airtable_createdTime": "2022-03-02T21:49:21.000Z",
+        "airtable_id": "recsDkTSyQv6uKwXd"
+    },
+    {
         "Additional Parties Named in Document: Last, First": "Keating, William; Bill, Horace N.; Barker, Lenas W.; Minor, Samuel; Boston, Thomas H.",
         "Case Citation/Source": "St. Louis Law Commissioners' Court, August Term 1858, No. 105",
         "Case ID": "hc.case.mo.0053",
@@ -6266,9 +6542,67 @@
     {
         "Case Citation/Source": "St. Louis Law Commissioners' Court, December Term 1851, No. 13",
         "Case ID": "hc.case.mo.0101",
+        "Case Role [join]": [
+            "recIZzRkhAqwsUbl2",
+            "recxE8nJ2JiXG4BQn",
+            "recEKkzHAD17bRwMS",
+            "rec1wLIDD4dFdBpZb",
+            "recJV0tVVL7v93CYe",
+            "rechPNrSie3OK3Ewc",
+            "recCB1kwLE9aeJPnn",
+            "rec763w6Bg5U9lzHK"
+        ],
+        "Court Type": "Commissioner's Court",
         "Created": "2022-03-02T17:10:33.000Z",
-        "Last Modified": "2022-03-02T17:15:52.000Z",
+        "Earliest Record Date": "1851-12-03",
+        "Last Modified": "2022-03-02T21:00:09.000Z",
+        "Latest Record Date": "1851-12-12",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "John Barton petitioned for a writ of habeas corpus to retrieve his nephew and ward, Horatio Marsden, from Stephen Denny, who was Marsden's brother-in-law. (The documentation vacillates on whether Barton or Marsden was the legal petitioner.) Barton accused Denny of illegally detaining Marsden. Denny countered that he did not detain Marsden, but rather that Marsden chose to live with him; that Barton was abusive; and that, in any case, Marsden had departed from his home. The court granted Barton's petition, but Marsden's fate is unknown.",
+        "People": [
+            "recC2rXoDffFHOh0H",
+            "reclo109wFyZdi8Gu",
+            "recDy5QmPctDv8Xur",
+            "recavkqA8WOgcQK5Y",
+            "recmOmIRqNsn80CGT",
+            "rec4Tk7lVIEl8ljGg",
+            "recbye20xZjfMjr4G",
+            "recSiZo3XQ42K3ru0"
+        ],
+        "Petition Date": "1851-12-03",
+        "Petition Outcome": "Petition granted: bound party fate unknown",
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
+        "Points of Law Cited": "an orphan's right to select their own guardian",
         "Primary field": "By the Habeas Corpus Act. in the matter of Horatio Napoleon Marsden",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recJIPaJtvJUJVNlG",
+            "recgAfHPB3VN4P8IR",
+            "reckyWVKQdT7b28pY",
+            "recZA5ZZUchdFqOI3",
+            "rec8uqtly6SpVH5oC",
+            "recRvVXhCWw5ECOA5",
+            "recAXMcrsqayaUQfy",
+            "recKDGoGpIbOSQmkB",
+            "recPy3OPgYhXSD8D9",
+            "recDhK28QUxMKcC3T",
+            "reckIdQFMEx1dOD7X",
+            "rec5gBGG4EIV0zfB5",
+            "recVmR4XOja1L6ax0",
+            "recqHwLC0r4ECwaR8"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Tags": [
+            "Children"
+        ],
         "Title": "By the Habeas Corpus Act. in the matter of Horatio Napoleon Marsden",
         "airtable_createdTime": "2022-03-02T17:10:33.000Z",
         "airtable_id": "recw3WCBLI3yX4Kbx"
