@@ -13,10 +13,10 @@ class FileCsv < FileType
         # than its FileCsv.transform_es, so copying latter's code for now
         puts "transforming #{self.filename}"
         es_doc = []
+        table = table_type
         @csv.each do |row|
-            if !row.header_row? && row["Case ID"]
-                puts "processing " + row["Case ID"]
-                es_doc << row_to_es(@csv.headers, row)
+            if !row.header_row?
+                es_doc << row_to_es(@csv.headers, row, table)
             end
         end
         if @options["output"]
@@ -31,6 +31,24 @@ class FileCsv < FileType
           encoding: encoding,
           headers: true
         })
+    end
+
+    def row_to_es(headers, row, table)
+        if table == "cases"
+            puts "processing " + row["Case ID"]
+            CsvToEs.new(row, options, @csv, self.filename(false)).json
+        elsif table == "people"
+            puts "processing " + row["unique_id"]
+            CsvToEsPerson.new(row, options, @csv, self.filename(false)).json
+        end
+    end
+
+    def table_type
+        if self.filename.include? "people"
+            "people"
+        else
+            "cases"
+        end
     end
 
 end
