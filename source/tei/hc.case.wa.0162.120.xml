@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0162.120">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ray Raymond v. Territory of Washington. W. D. Gillespie Testimony</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
+<name n="Ham, Bethany" xml:id="brh">Bethany Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0162.120</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. W. D. Gillespie Testimony</title>
+<date when="1886-06-29">June 29, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term>June 1886</term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gillespie, W. D.</term>
+<term>Lynch, J.</term>
+<term>Stanley, Ruby</term>
+<term>Barnes, James B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Raymond, Ray</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Peel, J. J. L.</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#lkw">reviewed; edited</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+        
+<pb facs="hc.case.wa.0162.120"/>
+<p>
+Territory of Washington<lb/>
+County of Spokane} ss.
+</p>
+
+<p>
+Territory of Washington<lb/>
+    vs<lb/>
+Ray Raymond
+</p>
+
+<p>
+W. D. Gillespie sworn</p>
+
+<p>I hold the office of Policeman in Spokane
+Falls I know the Defendant Ray Raymond
+and where she lives, have been a
+Policeman two months and a half
+I was at her residence on the
+Morning of the 26th of June and saw
+the dead body of a man and heard a
+a pistol prior to that.
+</p>
+<p>
+    On the morning of the shooting
+I was at the California house and
+heard the shot I ran toward the
+First Nat Bank I see the door
+of the star house open and looked
+to me like a man laying in the
+hallway and some one leaning
+over him    I ran down to the star
+house found a man lying 
+there in the door I asked what
+the trouble was, of the defendant she
+stated she had shot at the man and
+said she didn't <unclear>shoot</unclear> him I
+went to work to see if he was hit
+pulled down his shirt in front and
+told her she had shot him she
+said O My God have I shot
+him; at the time I got there she
+</p>
+<pb/>
+<p>
+was asking some one to bring water
+</p>
+<p>After I told her that the man was
+shot she told me that they were in the
+middle parlor taking a drink and
+that one of the Girls got up and went
+to the door and say who is in
+the hall of said door and looking
+and in the hall says O Ray there
+is a man in the hall and Ray got
+up and went out into the hall and 
+asked the man what he was doing there
+and ordered him to leave, he said
+he would not, and struck at her and
+tried to close the door she stepped
+into her room and took a pistol
+out of the drawer came back and
+asked the man if he would go now
+said he would not and struck at
+her, and she pulled up the gun
+and fired, </p>
+<p>
+<del/> Witness requested
+to make a diagram of the Hall &amp; rooms
+in the building where the homicide
+<unclear/> and gave a verbal discription
+of the premises    The man was laying
+in the North hall with his <add>head</add> lying near
+the out door part of his body in the
+in the entrance way one leg - the
+hall inside the inner door   the door
+on the right is where she says the <unclear>west</unclear>
+light was burning in the Hall
+</p>
+<pb/>
+<p>
+As a general thing you could see
+one through the star   The star
+was skinny
+</p>
+
+<p>
+I did not pay particular
+attention <add>when the man was shot</add> but as near as I can recollect
+right side of the neck near the coller bone
+the man was alive after I got there
+but did not seem concious I
+was in the middle parlor of the house
+at the time of his death
+</p>
+
+<p>
+I arrested the defendant and took
+the pistol from her Witness exhibits pistol
+three loaded chambers now and two empty
+4 shells is one shell empty <add>the pistol now is in  exact condition in which I received it</add>
+</p>
+
+<p>The man had large features
+large nose about 38 years old
+possible 40 He had a a dark
+checkered coat no vest a <unclear/> wool
+or collar shirt blue Overalls Boots
+worse for wear - left Boot hole = top
+where big toe would come his
+nose pock marked &amp; large  Color of hair
+Brown</p>
+
+<p>
+Cross Ex
+</p>
+
+<p>
+Had a very long moustache
+between sandy &amp; dark gray <unclear>tanery</unclear> drooping
+no hat on, coat on. As stated before
+dark checkered gray collar or the
+shirt laced in front blue overalls
+one leg rolled up think left leg
+<del>shoulder</del> not say if any are done
+anything with the clothes or not
+overalls seemed soiled
+</p>
+
+<pb/>
+
+<p>
+Had no beard other than moustache
+</p>
+<p>
+A man should Judge would
+weigh 150 to 155 medium height
+a man about as tall as Judge Peel
+little  <del>larger</del> <add>taller</add> man then the start Had
+a very large nose and pock marked
+His coat was new did not
+notice any dirt on it
+</p>
+
+<p>
+I was in the Bar room in the
+California I House standing
+close to the side door a the
+west when I heard the shot
+</p>
+
+<p>
+Then I ran <unclear>diagonill</unclear> across
+the street and was within 20
+feet when I saw the light in
+the star building  I spoke to
+some one in the California house
+as I ran out    when I saw
+the light in the star building and
+not see any one coming seems
+to me I did see some one on
+the street but do not know who it
+was   saw no one ahead of me
+some one behind me   Door
+was entirely ajar when I saw the
+light in the star building the door
+of the <add>building</add> <del>man</del> was entirely ajar the Mans
+Body would prevent it from closing
+</p>
+
+<p>When I first saw the door ajar
+saw the same person was leaning
+over him as when I arrived at
+
+<pb/>
+
+
+at the door    It was the defendant
+something less than a minute elapsed
+after I heard the shot until I got there
+The deft was asking some one to
+bring watter or why they did not bring
+water   She seemed in the act of
+trying to give relief to the man
+she was excited and was <unclear>wringing</unclear>
+her hands and asked me if he was
+hurt and said she had shot at him
+but did not think she had hurt him
+</p>
+
+<p>
+She adressed me first and asked
+him afterwards a couple of minutes
+afterwards when I told her she had
+shot him she told me she did not
+intend to shoot him she was trying
+get some one to give him some whiskey
+so as to revive him  Shortly after
+I got there I think one of the Girls
+from the House brought some water the
+first thing after I got there I asked
+her what was the trouble and she
+replied that she shot at him or the
+man <unclear>I can not share whether she said</unclear>
+him or the man – His head laying the
+outer N. E. corner, on his back with his
+face up his head pressed forward <unclear>by</unclear>
+the wall one of his legs one way &amp; one doubled
+up – <unclear>Bureau Set</unclear>
+</p>
+
+<p>
+She said after told her she had
+shot the man O. My God have I
+shot him  She showed considerable
+feeling
+
+
+<pb/>
+
+
+threw up her hands and began
+crying going from one room to
+the other – all she had to do was
+to go from <del>one room</del> <add>the hall</add> to the <del>other</del> <add>adjoining room</add> to get
+whiskey   I followed nearly all the
+time she did not try to get away
+she was very much excited and <unclear/>
+did not make any effort to escape
+was about 2 to 4 minutes – before I
+got <del>to do</del> the Revolver The First thing
+I <unclear>and been</unclear> <del>to do</del> <add>look</add> to see if the man
+was hurt when I got up from the man
+I asked for the Revolver   She was
+standing just on the inside of the door
+in the middle Parlor I asked  her for
+the Revolver she says here it is and
+took it from somewhere in her dress
+</p>
+
+<p>I was on the left side of the body
+when I got up to get the Revolver – she
+could see me in a the body of the
+man  This occupied only a few
+minutes   She told me this a few
+minutes after, she told me she asked
+him to get out he replied he would
+not go out, Did not at that or
+any other time <add>before the coroner inquest</add> tell me that he said 
+he be D–D if he would go out
+</p>
+
+<p>
+I did not swear before the coroner
+Jury that she told me that she told
+told him to go out and he said he be D–D
+if he would go out  I am trying
+
+
+<pb/>
+
+to give her exact words <del>and there if</del>
+I told him to go out were all the
+words I informed it was the outside
+door that was referred to <add>that she was inside the door </add> She has said
+he struck at her from what I
+understood he only struck at her once
+before she got the revolver</p>
+
+<p>I did not swer before the Grand
+Jury that she said he struck at her
+twice before she got the revolver,
+she
+said she got the revolver from
+a drawer in her <add>bureau in her</add> room she said
+she came back and ordered him out
+again he then struck at her and
+she then raised the revolver and
+fired did not say he struck her
+ on the right shoulder did not swear
+so before coroner jury
+</p>
+
+<pb/>
+
+<p>
+No one arrived
+at the scene with me some one
+came in about a minute I think Mr
+Lynch helped me to open his shirt
+and examine the wound and was
+inside the vestibule with me he <add>Lynch</add> was
+a small man with dark moustache
+I tried to keep people out I did
+not close the outer door, after the
+door was closed I tried to keep
+People out say <unclear>5 or less</unclear> minutes
+When I got there I saw no one but
+Ray in the Hall saw one of the
+Girls think it was Ruby Stanley
+in the middle parlor door.
+</p>
+
+<pb/>
+
+<p>
+had seen the man that was killed
+before about Mr Barnes place at the door going in or in about
+half our before Barnes place is a saloon at that time I was
+<del>going into B</del> coming out of Banres
+he was going in I noticed he 
+was a stranger in the place paid
+no particular attention to him
+</p>
+
+<p>
+He was not drinking when I
+saw him but had the appearance
+of having been drinking acted
+as though he had a little aboard
+</p>
+
+<p>
+I saw him on the street just before
+dark was in a crowd some three <unclear>but</unclear>
+did not know them, know Johnny
+Maybiss by sight Do not know
+whether he had been with the man
+before he was murdered <unclear></unclear> heard
+he was  I <unclear>subpoenaed</unclear> him 
+to appear at this examination on the
+part of the Territory the same
+</p>
+
+<p>
+I have told all as far as I <unclear>remember</unclear>
+about the case
+</p>
+
+<p>
+ReDirect
+</p>
+
+<p>
+The mans coat was new the front clean
+did not see the back    should Judge the overalls
+&amp; shirt had been worn some time and
+were soiled   I was the first man that
+reached the house after I heard the shot
+I saw at the house Defedant and
+</p>
+
+<pb/>
+
+<p>
+Ruby Stanley Defendant mentioned the Girl
+and herself said there were two Gentlemen
+in the middle parlor drinking together
+</p>
+
+<p>
+Pub hall <add>about</add> 4 feet Deft
+Body extended nearly to the outer door
+foot to inner door body nearly in hall</p>
+
+<p>When I first got there she was
+<del>wringing</del> swinging her hands over him after
+I told her the man was shot she manifested
+considerable feeling  Her demeanor
+was after the manner of one very much
+excited She related circumstances four
+times   I stated an first examination twice
+varied such time added to each
+time she told it    I believe that the
+last couple of times she told <add>it</add> she was more cool about did not cry cannot tell
+what new facts she told except it
+was little different than before    Hall
+was lighted when I looked down after the 
+shot    Believe the south <add>hall</add> is the customary
+entrance but they use both
+</p>
+
+<p>ReCross</p>
+<p>
+I know the character of the House
+House is a house of public character
+one that gentlemen frequent at all
+times of the night      Suppose they ask
+for permission to enter if door is
+closed they cannot enter without asking
+when I go I ring the bell each time
+she told a little more <add>that is added a little more to the story</add> she swooned
+that night, third &amp; fourth recital after
+swooning     after I got there saw
+</p>
+
+<pb/>
+
+<p>
+Ruby Stanley &amp; Ray only</p>
+
+<p>I told her when the man was 
+dead these accounts were told by
+her before I told her man was dead
+</p>
+
+<p>ReDirect</p>
+
+<p>
+She was swooning about three minutes
+she threw up her hands <unclear>gave way</unclear>
+and did not seem to have conciousness
+when she came to she came to she went from room
+to room     She swooned after I told
+her I must arrest her some 5 minutes
+she swooned on the Road to Mr Glispies
+<del>and</del>
+</p>
+
+<p>ReCross</p>
+
+<p>
+<del>I dont know</del> Dont know the
+immediate cause of swooning, aid
+was given her to recover from a swoon
+by putting water in her face
+</p>
+
+<p>ReDirect</p>
+
+<p>
+Saw the body of the man after he
+was dead and know he was dead
+Transactions I have described took
+place –  Spokane Falls, <add>Spokane County</add> Wash TY
+</p>
+
+<p>
+I would say the man
+when I saw him before this occurance
+was under the influence of liquor
+seemed to be very quiet and peacable
+</p>
+
+<p>
+Think there is a Bell on the door at the
+North Hall
+</p>
+
+<p>ReCross</p>
+
+<p>
+No one called my attention to
+the man in the afternoon</p>
+
+<p>W. D. Gillespie
+</p>
+
+<pb/>
+
+<p>
+Subscribed and sworn to before me on this June
+29th 1886</p>
+
+<p>J.J.L. Peel<lb/>
+Justice of the Peace
+</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

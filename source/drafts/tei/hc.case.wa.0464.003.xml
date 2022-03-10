@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0464.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Adolph Krug vs. The United States of America. Order</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J.." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0464.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Adolph Krug vs. The United States of America. Order</title>
+<date when="1897-03-08">March 8, 1897</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1897-03">March 1897</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Moore, A. N.</term>
+<term>Ayres, A. Reeves</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Krug, Adolph</persName>
+</person>
+<person role="defendant">
+<persName>The United States of America</persName>
+<persName>Moyer, William H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Lewis, James Hamilton</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Macklroy, James</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+<persName>Fuller, Melville W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States</orgName>
+<placeName>District of Washington, Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-06" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<ab>IN THE CIRCUIT COURT OF THE UNITED STATES, DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.</ab>
+
+
+<ab>In the Matter of the
+APPLICATION OF ADOLPH KRUG
+FOR WRIT OF HABEAS CORPUS AND
+RELEASE, and other proceedings
+thereon.</ab>
+
+<ab>ORDER.</ab>
+
+<p>Now on this 15th day of February, 1897, on reading and filing
+the petition of Adolph Krug, for a Writ of Habeas Corpus, it is 
+hereby ordered that the application contained in said petition, for
+a Writ of Habeas Corpus, be and the same is hereby set for hearing
+in the court room of this court, in the City of Seattle, on the
+25th day of February, 1897, at the hour of ten (10) o'clock
+A.M., and that William H. Moyer, sheriff of King County, do then
+and there appear and show cause, if he can, why said Writ of Habeas 
+Corpus should not be issued.</p>
+
+<ab>C.H. Hanford
+Judge.</ab>
+
+<pb/>
+
+<ab>Tx</ab>
+
+<ab>G.O.B. 4-501.</ab>
+
+<ab>No. 599</ab>
+
+<ab>IN THE Circuit COURT
+OF THE UNITED STATES
+FOR THE
+DISTRICT OF WASHINGTON</ab>
+
+<ab>In the Matter of the 
+Petition of
+Adolph Krug
+Writ of Habeas Corpus</ab>
+
+<ab>Order</ab>
+
+<ab>Filed Feby 15 1897
+A Reeves Ayres Clerk.</ab>
+
+
+<ab>By A. N. Moore Deputy.</ab>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0162.082">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ray Raymond v. Territory of Washington. T. Donaldson Affidavit</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0162.082</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. T. Donaldson Affidavit</title>
+<date when="1886-12-15">December 15, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-09</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Donaldson, T.</term>
+<term>Griffitts, Thomas C.</term>
+<term>Caton, Nathan T.</term>
+<term>Stout, J. Kennedy</term>
+<term>Stanford, Frederick</term>
+<term>Wycoff, George</term>
+<term>Whittier, E. F.</term>
+<term>Finch, James</term>
+<term>Wilson, Charles</term>
+<term>Hyde, S. C.</term>
+<term>Clement, D. A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Raymond, Ray</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#lkw">reviewed; edited</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+        
+<pb facs="hc.case.wa.0162.082"/>
+
+<p>Territory of Washington<lb/>
+County of Spokane} ss</p>
+
+<p>In the district
+court Fourth Judicial 
+District
+holding terms at
+Spokane Falls.</p>
+
+<p>The Territory of Washington<lb/>
+vs.<lb/>
+Ray Raymond</p>
+
+<p>Territory of Washington<lb/>
+County of Spokane} ss</p>
+
+<p>I, T. Donaldson
+being duly sworn on my
+oath depose and say:
+That I have <add>heard</add> read the affidavits 
+of T.C. Griffitts, N.T.
+Caton, J. Kennedy Stout, and
+Frederick Stanford, and
+of Ray Raymond, filed in
+this action in support of
+said defendants motion for a 
+continuance therein, and
+know the contents of said
+affidavits.</p>
+
+<p>That I was present
+at the house of said
+defendant Ray Raymond in
+
+<pb/>
+
+the city of Spokane Falls in
+said county on or about
+the 25th day of June 1886,
+at the time of the killing
+of James Finch and witnessed
+the transaction. That I now
+reside and ever since
+said day have resided at the
+precinct of Richland in
+said county of Spokane,
+about thirteen miles from 
+the city of Spokane Falls.
+That some time there after
+and as affiant now recollects 
+and verily believes the
+time thereof to be, in the
+early part of the month
+of August in the year
+1886. T.C. Griffitts and
+J. Kennedy Stout, being the
+same persons who made
+said affidavits, and are
+of counsel for said defendant 
+Ray Raymond, came
+to the dwelling house
+of this affiant at said
+Richland precinct and
+held a conversation with 
+this affiant concerning
+the killing of said James
+Finch. That said Griffitts
+then and there stated to this
+
+<pb/>
+
+affiant that they (said 
+Griffitts and said Stout)
+had come to talk with
+affiant about the killing
+of said James Finch
+and this affiant then and
+there states to said Griffitts
+and Stout and in their
+presence and hearing
+that he, this affiant 
+was present at and witnessed 
+the killing of
+said Finch. That this
+affiant afterward held
+a conversation with said
+Griffitts and Stout in
+the house of said Ray Raymond 
+at the place where
+the killing of said James
+Finch, took place.</p>
+
+<p>That affiant is well
+acquainted with George
+Wycoff mentioned in the
+said affidavit; that he was
+present at the time of
+the killing of said James Finch,
+and witnesses the same.
+That at the time of the
+conversation believes this
+affiant and said Griffitts
+and Stout first above
+mentioned, this affiant
+
+<pb/>
+
+stated to said Griffitts
+and Stout that said George
+Wycoff was present at
+and witnesses the killing
+of said James Finch.
+That he then and there
+informed said Griffitts
+and Stout that said George
+Wycoff resided on Rattler's
+Run, about five miles
+from Rockford, in Spokane
+County, W.T. That he does so
+reside and then resided
+at or near Rattler's Run
+five miles from Rockford 
+in said Spokane
+County, Washington Territory.
+Affiant further deposes
+and says that said George 
+Wycoff has been present
+and in attendance upon
+our said court <del>ever</del> ever
+since <del>the</del> and including
+the tenth day of December 
+A.D. 1886. That affiant 
+<del>has</del> did, on Saturday
+the 11th day of December
+1886, and several times
+therefore state to and
+inform E.F. Whittier Sheriff
+of Spokane County, that
+said Wycoff was present
+
+<pb/>
+
+in Spokane Falls and
+in attendance upon court
+as a witness for the Territory 
+in the above named
+action.</p>
+
+<p>That affiant has often
+met with and spoken 
+to said T.C. Griffitts
+during the past week
+in Spokane Falls, and
+that said Griffitts and
+said Stout have well
+known that affiant
+was present in attendance 
+upon court.
+That affiant has never
+had any conversation or
+communication whatever
+with the prosecuting atty.
+or any person representing
+the prosecution in this
+action, relating to this
+action or his testimony
+therein, until since he
+was served with subpoenas 
+therein on the
+third day of December
+A.D. 1886.</p>
+
+<p>That said George 
+Wycoff was in position
+at the time of the killing
+of said James Finch
+
+<pb/>
+
+to have been able to
+hear <del>the</del> substantially
+all that happened and
+to see part of the transactions 
+relating to the
+killing of said Finch.
+That affiant was in a
+position where he could
+see and hear substantially 
+all that happened
+and he did see <del>substance</del>
+and hear sustantially
+all that happened, relating 
+to the killing of
+James Finch. <del>That Charles
+Wilson was not present</del>
+That affiant saw and
+heard nothing of Charles
+Wilson at the time of
+the killing of James
+Finch and verily believes
+he was not present
+at nor a witness to
+the transactions relating
+thereto.</p>
+
+<p>T. Donaldson</p>
+
+<p>Subscribed and sworn to
+before me this 15th day
+of December A.D. 1886.</p>
+
+<p>S.C. Hyde<lb/>
+Notary Public<lb/>
+Washington Territory</p>
+
+<pb/>
+
+<p>Aff<lb/>
+T. Donaldson</p>
+
+<p>Filed Dec. 16 1886<lb/>
+D.A. Clement<lb/>
+Clerk</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

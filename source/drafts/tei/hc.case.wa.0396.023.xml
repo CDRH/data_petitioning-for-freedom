@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Martin Lawson vs. King County Writ of Habeaus Corpus</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+                    <name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+                    <name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+                    <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+                    <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+                    <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+                    <name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+                    <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+                    <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+                    <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2020</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0000.000</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">Martin Lawson vs. King County Writ of Habeaus Corpuss</title>
+                    <date when="1891">1891</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <collection></collection>
+                        <idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1000-01">1875</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>King County, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>Lawson Martin</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName></persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName></persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName></persName>
+                    </person>
+                    <person role="judge">
+                        <persName>J. R. Lewis</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName></orgName>
+                        <placeName></placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2018-01" who="#ini">reviewed; edited</change>
+            <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text>
+        
+        <body>  
+            
+            <div1 type="case">
+<p>under and by virtue of a warrants of
+arrest issued to the said deputy mashal by
+one D. S. Smith who claims to be a
+Justice of the Peace in and for King
+County aforesaid, which said warrants
+were dated the 9th day of December A. D.
+876, and chraging that the said
+plaintiffs and each of them did
+derst from the american ship War-Hawk,
+and commanding the said
+Deputy Marshal forthwith
+to apprehend the siad plaintiffs and 
+each of them and to bring item
+and each of them before him the
+said D. S. Smith to be dealer with
+according to know, and that the
+said Smith signed the said warrants
+of arrest as "Justice of the peace", That
+upon the said ninth day of December
+A. D. 1876 the said Smith was not Justice
+of the Peace in and for said King County
+or elsewhere, nor was he vested by law
+with any power or authority whatsover to issue
+the said warrants of arrest or warrants of arrest of any nature or whatever nor since
+the said ninth day of December 1876
+has the said Smith possessed such 
+authority or power, or the reason that at the <unclear> too small to read</unclear>
+has thereupon such proceedings were
+had before the said Smith that upon
+That the said Smith has held the said office of Justice of the Peace for
+the pervial of the years and more prior to the election and qualification of
+the said D.W Judge and C. G. Perkins and prior to the said 9th day of
+of December A. D. 1876 that the said Smith daily qualified and entered upon the discharged this
+duties as justice of the peace in said King County on the 14th day of November A. D. 1874, That said E. G. Perkins
+as such notice of the peace on the 16th day of November A. D. 1876</p>
+            </div1>
+            
+        </body>
+    </text>
+</TEI>

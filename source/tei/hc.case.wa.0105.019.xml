@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0105.019"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>James Riley v. Egbert H. Tucker. Coroner's Inquisition</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0105.019</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">James Riley v. Egbert H. Tucker. Coroner's Inquisition</title>
+<date when="1861-08-23">August 23, 1861</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date/></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Carney, Edward</term>
+<term>Collins, Daniel</term>
+<term>Fitzgerald, Charles J.</term>
+<term>Hogan, Thomas A.</term>
+<term>Jester, James E. D.</term>
+<term>Scameoch</term>
+<term>Weterhouse, Joseph</term>
+<term>Whitman, T. F.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Elk Plains, Washington</term>
+<term>Pierce County, Washington</term>
+<term>Steilacoom, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Riley, James</persName>
+</person>
+<person role="defendant">
+<persName>Tucker, Egbert H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Hewitt, C. C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District</orgName> 
+<placeName>Pierce County, Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020-10" who="#lkw">review</change>  
+<change when="2019" who="#zcb">encoded</change>          
+<change when="2018" who="#nrl">transcribed</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0105.019"/>
+<note>906</note>
+
+<p>Territory of Washington}</p>
+<p>County of Pierce} SS</p>
+
+<p>Before Daniel Collins, Coroner.</p>
+
+<p>In the matter of the inquisition upon the body 
+of Scameoch alias John (an Indian) deceased.}</p>
+
+<p>We, the undersigned, the jurors summoned to appear 
+before Daniel Collins, the Coroner of the County of Pierce, 
+Territory of Washington, at Elk Plains in the County of 
+Pierce, where the body was examined, and adjourned to 
+Steilacoom, on the twenty first (21st) day of August, 
+1861, to inquire into the cause of death of Scameoch alias John 
+having been duly sworn according to law, and having 
+made such inquisition after inspecting the body, and hearing 
+the testimony adduced, upon our oaths, each and all do say, 
+that we find the deceased was named Scameoch alias John 
+(an Indian) that he came to his death on the 21st day of 
+August, 1861, in this country, from mortal wounds received 
+with a knife in the hands of James Riley at Bradley's 
+barn in this county on the 18th day of August 1861. 
+And we further find that we believe that James Riley 
+was the person by whose act the death of said Indian 
+Scameoch, alias John was occasioned. As we have 
+evidence that the said Riley was with the Indian, when he received 
+the wound, and was the only white man with him during the 
+<unclear>affair</unclear>, and was seen in pursuit of him when he received 
+the wounds, further that he confessed the same.</p>
+
+<p>All of which we duly certify by this inquisition in writing 
+by <del>the</del> us signed this twenty third (23d) day of August, 
+1861.</p>
+
+<p>Jas E.D. Jester</p>
+<p>Edward Carney</p>
+<p>Charles J Fitzgerald</p>
+<p>T F Whitman</p>
+<p>Joseph Weterhouse</p>
+<p>Thomas A Hogun</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

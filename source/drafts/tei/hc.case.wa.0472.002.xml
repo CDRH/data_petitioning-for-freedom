@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0472.002</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>13 May 1897</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Pierce, John A.
+Speck, Robert D.
+Baldwin, Harris 
+Hanford, C. H. 
+Aspland, Lise C.
+White, E. T.
+Pomeroy, Frances A. 
+Aspland, Andrew 
+Aspland, Ella May 
+Brown, Abel 
+Wilkinson, M. A.  
+Aspland, John H. 
+White, E. T. 
+Aspland, Jennie 
+Switzer, W. D. 
+Magnus, Franz
+Sempee,John M. 
+Sawyer, Mary
+Spence, William C. 
+Corbett, J. E. 
+Eldridge, John 
+Hair, N. C. 
+Valentine, John E. 
+Backus, C. F. 
+Donovan, G. J.
+Low, J. R. 
+Thomas, C.
+Monroe, W. A. 
+Fenton, James E. 
+Prather, Leander H.
+Cisna, M. A. 
+Dempsey, C. C.
+Willia, C. Thomas 
+Gould, P.
+James, Thomas
+Doane, H. W.
+Roadnight, J. F.
+Lipschuetz, I.
+Valentine, J. E. 
+Morgan, U. H.  
+Hair, N. C.
+Van Ness, John Q. 
+Gill, William 
+Frazier, R. J. 
+O'Brien, 
+Lipschuetz, Isador
+Boyd, L. F.
+Hillard, Barry N.
+McNulty, Philip
+Byers, William
+Traut, A.
+Bishop, B. H.
+Cannon, H. L.
+Crowley, J. A.
+Frazier, R. J. 
+Fenton, James, E. 
+Pierce, John A. 
+La Valley, William J.
+Semper, William
+Flynn, James
+Swift, Harry
+Drain, James A.
+Rogers, John R.
+Lewis, James Hamilton
+Hapkins, R. M.
+Moore, James Z.
+Winston, P. H. 
+Ide, Clarence W.
+Pugh, Felix M.
+Moore, A. N.
+Dore, John F.
+Walthew, H. M.
+Kimball, Horace
+Poindexter, Miles
+McKenney, James H.
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington
+Wallace, Idaho
+Cannon Precinct, IWashington
+Precinct No. 2, Washington
+Shoshone County, Idaho
+Olympia, Washington
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Webster, George</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Spokane County, Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName> Del Cary Smith
+Fenton, James E. 
+O'Brien
+James Hamilton Lewis
+John F. Dore</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Pierce, John A.
+Baldwin, Harris
+James Z. Moore</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H. </persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of the United States, Ninth Judicial Circuit, District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Spokane County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0472.001"/> <!-- insert number from spreadhseet -->
+
+<p>The State of Washington, )
+) ss.
+County of Spokane. )</p>
+
+<p>I, George Webster being duly sworn say; that I am the pe-
+titioner and relator herein and the defendant in the case No. 771 en-
+titled the State of Washington, plaintiff, -vs- George Webster, de-
+fendant. That I ha ve read the foregoig petition for a Writ of 
+Error Coram Nobis, know the contents thereof and the allegation
+therein are tru.</p>
+
+<p>George Webster.</p>
+
+<p>Subscribed and sworn to before me this 3rd day of January, A. D. 1898
+</p>
+
+<p>Del Cary Smith
+N O T A R Y P U B L I C
+for Washington, resid-
+ing at Spokane.</p>
+
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON</p>
+
+<p>IN AND FOR THE COUNTY OF SPOKANE.</p>
+
+<p>The State of Washington,</p>
+
+<p>Plaintif, )</p>
+
+<p>-vs- )</p>
+
+<p>George Webster, )</p>
+
+<p>Defendant.)</p>
+
+<p>George Webster,</p>
+
+<p>Petitioner in error,</p>
+
+<p>-vs-</p>
+
+<p>The State of Washington</p>
+
+<p>Defendant in error</p>
+
+<p> STATE OF IDAHO )</p>
+
+<p>) ss.</p>
+
+<p>County of Shoshone.</p>
+
+<p>In the Matter of the Application
+of George Webster,</p>
+
+<p>ss. for,</p>
+
+<p>A writ of error Coram Nobis</p>
+
+<p>Barry N. Hillard being first duly sworn 
+on oath deposes and says:- That he is now and has been since
+the second Monday in January, A. D. 1891, the duly elected
+qualified and acting Clerk of the District Court ad ex-officio
+Recorder, Auditor and Clerk of the Board of County Commissioners
+in and for Shoshone County in the State of Idaho; that as such
+Auditor and Clerk of the Board of County Commissioners he is 
+the legal custodian of the Election Register of Wallave Pre-
+cinct No.2 of Qualified Electors for the General Election
+November 3rd, A. D. 1896, and of the Poll Book of said General
+Election held on Tuesday, November 3rd, 1896, in Wallace Pre-
+cinct No. 22, in Shoshone County, State of Idaho; that said
+books are now in his office and in his custody; that in said
+Election Register of Qualified Electors for said Wallace Pre-
+cinct No.2 in Shoshone County, State of Idaho, the following
+entry concerning one "Isador Lipschuetz", appears of record,
+to-wit:-- </p>
+
+<p>"Number 235, Isador Lipschuetz, Date of Registry, Oct 17th,
+1896, Where born, Germand, Age 41, Description of Residence,
+Idaho Hotel, Certificate of Naturalization exhibit, yes or no,
+"No", remarks, "Sworn to them out in Philadelphia, 1876, and 
+lost them in Idaho, in Summerfield Store, 1895."
+That in said Poll Book for said General Election held Tuesday,
+November 3rd, A. D. 1896, in Wallace No. 2 Precinct, Shoshone
+County, State of Idaho, the following entry concerning one
+"Isadore Lipschuetz" appears of record, to-wit:- </p>
+
+<p>"Number and names of Elector voting, No. 2. "Isadore
+Lipschuetz".</p>
+
+<p>Affiant futher says that the aforesaid Poll Book is duly
+attested by the Judges and Clerks of said General Election and
+was the official return of said General Election to the Board
+of Canvassers of said Election. And further affiant saith not.</p>
+
+<p>Subscribed and sworn to 
+before me this the 18th 
+day of December, A. D. 1897.</p>
+
+<p>Barry N. Hillard.</p>
+
+<p>Winfield Ervin, Nortary Public.
+Shoshone County, Idaho, residing at Murray.</p>
+
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON</p>
+
+<p>IN AND FOR THE COUNTY OF SPOKANE.</p>
+
+<p>The State of Washington,</p>
+
+<p>Plaintif, )</p>
+
+<p>-vs- )</p>
+
+<p>George Webster, )</p>
+
+<p>Defendant.)</p>
+
+<p>George Webster,</p>
+
+<p>Petitioner in error,</p>
+
+<p>-vs-</p>
+
+<p>The State of Washington</p>
+
+<p>Defendant in error</p>
+
+<p> STATE OF IDAHO )</p>
+
+<p>) ss.</p>
+
+<p>County of Shoshone.</p>
+
+<p>In the Matter of the Application
+of George Webster,</p>
+
+<p>ss. for,</p>
+
+<p>A Writ of error Coram Nobis</p>
+
+<p>The State of Washington, )
+) ss.
+County of Spokane. )</p>
+
+<p>I, Philip McNulty being duly sworn say; that I was one of the
+duly appointed, acting, and qualified judges in and for Cannon Pre-
+cinct at the City Election in the City of Spokane, in the State of 
+Washington , on the 4th day of May , A. D. 1897, that I am acquianted
+with Isidor Lipschuetz who registered in said Precinct on the 8th
+day of April, A. D. 1897; that the said Isidor Lipschuetz  is a bar-
+ber doing business on Main Street in the City of Spokane, Washington,
+of about the age of 41 years and the same person who served as juror
+in the cause of the State of Washington against George Webster, de-
+fendant above named. That said Isidor Lipschuetz  voted at the said
+City Election on the 4th day of May , A. D. 1897, in Cannon Precinct,
+and that his name was put opposite the No. 64. That the said
+Isidor Lipschuetz is the same person who made and subscribed and af-
+fidavit and filed the same with the Clerk of the City of Spokane, to
+the effect that he was a naturalized citizen of the United States,
+and that he had been an actual permanent reisdent of the State of 
+Washington, for 70 days prior to said time, and a resident of Can-
+non Precinct 10 days prior to said time.</p>
+
+<p>And affidavit further deposes and says; that on the 3rd day of
+January , A. D. 1898, he saw the said Isidor Lipschuetz at his Barber-
+Shop on Main Avenue, in Spokane, Washington, and then and there had
+a conversation with the said Isidor Lipschuetz, and the said Isidor
+Lipschuetz resided then and there stated to affiant that he, tha said Isidor
+Lipschuetz resided in the town of Wallace, Idaho, and was in the Bar-
+ber business in the said twon of Wallace, on the 3rd day of November,
+1896; that he the said Isidor Lipschuetz voted in Wallace Precinct
+on the 3rd day of November, A. D. 1896 at the Prseidential Election
+held in the said Precinct on said date, and that he the said Isidor
+Lipschuetz  also voted in Cannon Precinct on the 4th day of May ,A.D.
+1897, at the City Election of the City of Spokane held in said Pre-
+cinct on said date, and that he the said Isidoe Lipschuetz served as
+a juror in the above entitled case, No. 771, that State of Washington
+plaintiff, -vs- George Webster, defendant, in the above entitled
+Court, and that he, the said Isidor Lipschuetz, who served upon the
+said jury, was the same person who voted in
+in Wallace Precinct on the 3rd day of November, A.D.
+1896, and the same person who voted in Cannon Precinct in the City
+of Spokane, on the 4th day of May, A. D. 1897.</p>
+
+<p>Philip McNulty</p>
+
+<p>Subscribed and sworn to before me this 3rd day of Jan'y, A.D. 1999</p>
+
+<p>W. M. Byers, Notary Public
+for Washington, residing at
+Spokane, Washington.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

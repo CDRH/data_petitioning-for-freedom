@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0211.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Moy Share Park v. Henry M. White. Order to Show Cause</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0211.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Moy Share Park v. Henry M. White. Order to Show Cause</title>
+<date when="1920-04-06">April 6, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1920-04">April 1920</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Park, Moy Share</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Storey, James V.</persName>
+<persName>Todd, Hugh C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+<persName>Moore, Ben L.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-02" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>g.0.13-8-83</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Tx</p>
+
+<p>Apr 7 1920</p>
+
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Leitch Deputy</p>
+
+<pb/>
+
+<p>No. 5210</p>
+
+<p>Order to Show Cause Why Writ of Habeas Corpus Should Not be Issued.</p>
+
+<p>In the Matter of the Application of Moy Share Park for a Writ of Habeas Corpus</p>
+
+<p>On reading and filing the petition of Moy Share Park duly signed and verified, whereby it appears that the said Moy Share Park is wrongfully and illegally imprisoned and restrained of his liberty by Hon. Henry W.White, Commissioner of Immigration, at the United States Immigration Station at Seattle, Washington, and stating wherein the illegality exists, from which it appears that a Writ of Habeas Corpus ought to issue:</p>
+
+<p>NOW, THEREFORE, it is by this Court</p>
+
+<p>ORDERED, ADJUDGED AND DECREED that the said Henry M. White, Commissioner of Immigration at Seattle, Washington, be directed to show cause before <add>Judge Neterer</add> <del>me</del> in the court room of said court on the 19th day of April, A.D. 1920 at 10 AM. o'clock of said day, why said writ should not issue, <add>to hold the person of</add> and to do and receive what shall then and there be considered concerning the said Moy Share Park, together with the time and cause of his detention.</p>
+
+<p>Done in open court this 6th day of April, 1920.</p>
+
+<p>Edward E <unclear>Curhman</unclear></p>
+<p>Judge</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0162.084">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ray Raymond v. Territory of Washington. Counsel Statement</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
+<name n="Ham, Bethany" xml:id="brh">Bethany Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0162.084</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. Counsel Statement</title>
+<date when="1886-12-15">December 15, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-09; SPO-1886-10</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term>December 1886</term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clement, D. A.</term>
+<term>Wycoff, George</term>
+<term>Woods, W. J.</term>
+<term>McDermott</term>
+<term>Donaldson, T.</term>
+<term>Finch, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+<term>Walla Walla County, Washington</term>
+<term>Spokane Falls, Washington</term>
+<term>Ogden, Utah</term>
+<term>Butte City, Montana</term>
+<term>Murray, Idaho</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Raymond, Ray</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Griffitts, Thomas C.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Stout, J. Kennedy</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Caton, Nathan T.</persName> 
+</person>
+<person role="attorney_petitioner">
+<persName>Stanford, Frederick</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#lkw">reviewed; edited</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+        
+<pb facs="hc.case.wa.0162.084"/>
+
+<p>Territory of Washington<lb/>  
+of Spokane} ss</p>
+
+<p>In the District Court 4th Judicial District holding
+terms at County seat of
+Spokane County</p>
+
+<p>Territory of Washington<lb/>
+vs. Plaintiff<lb/>
+Ray Raymond Defendant</p>
+
+<p>Territory of Washington}<lb/>
+County of Spokane} ss </p>
+
+<p>Thomas C. Griffitts, J. Kennedy
+Stout, N.T. Caton, and Frederick Stanford
+being each individually duly sworn
+depose and swear as follows:
+That they and each of them are of counsel a
+attorney for defendant Ray Raymond in
+this cause that said defendant cannot
+safely proceed to trial therein at this time
+of this court for the following reasons:
+The indictment against her was returned
+herein December 1, 1886, and the defendants
+plea entered of not guilty on Dec. 1, 1886.
+That immediately thereafter defendant
+counsel made a motion for change of
+venue herein and present the same to the
+hearing at the earliest time the convenience
+of the court and counsel for the Territory
+permitted, and said motion was finally 
+determined and awarded Dec.
+14, 1886, defendant by her counsel immediately 
+
+<pb/>
+
+give in there this return for a continuance.
+That the said motion for a change of venue was
+made by defendant and her counsel in the utmost 
+good faith and they are greatly taken 
+by surprise both by the affidavit filed herein
+by the territory and on the said motion and at
+the <unclear/> of the same and believing
+their said motion were taken, they did not
+know a motion for a continuance herein
+would be necessary until the final determination 
+of said motion for a change of
+venue. That until the finding and <unclear/>
+of the indictment hererin neither affiant nor
+defendant knew with what crime defendant
+would be accused nor what the issue herein
+would be whether she would be accused
+of any offense whatsoever or of an offense
+insodoing the issue of malice in the killing
+of Finch. That at time such indictment
+was presented this term of this court had
+duly been in sworn and counsel for defendant
+had been constant in attendance.
+Then now and ever since said indictment
+was returned into the court and
+defendant counsel herein have been
+in about constant attendance
+at this court and engaged either in 
+the trial of counsel therein or in watching
+
+<pb/>
+
+and waiting for the trial of pending causes
+or preparing for the trial of cause still
+pending in this court set for trial
+and of pursing importance and still
+to be tried herein that considerable time
+since the finding of said indictment have
+been occupied by defendants counsel in
+the preparation for and hearing of said
+motion for a change of venue and since
+its determination in the preparation
+of a showing for the continuance; that
+in addition to their other habeas as afore
+detailed counsel immediately set
+about making such preparation
+as they could under the circumstances
+for the trial of the cause although well
+aware they could not fully prepare
+thereupon and in fact counsel believes
+that the late <del/> date in the term when
+this indictment was presented, the
+bona fide efforts they had made and the
+parts directed in the showing for
+change of venue made by them and which is here
+referred to as part of the view herein and the continuation
+of that case at this <del>cause</del> term of court and the
+return of the indictment herein and the great
+expense and delay of procuring a jury
+herein at this time, with the facts heretofore
+
+<pb/>
+<!-- begin SPO-1886-10-->
+States in this affidavit would appear to the 
+dissention of this court and prevent them 
+from being compelled to go to trial 
+at this time, that from to the finding 
+of the indictment herin defendant and 
+affiants had made inquiry concerning 
+one George Wycoff who affiants were 
+informed lived about 22 miles from 
+Spokane Falls and when affiant had 
+been informed was in defendants' 
+parlor on the night of the killing of 
+Finch, and had been reliably informed 
+that said Wycoff was temporarily absent 
+from his home and from Spokane 
+County and about Walla Walla county 
+somewhere but just where affiants 
+could not learn, that shortly after the 
+finding of the indictment – herein 
+affiants directed a subpoena to issue herein 
+for him, </p>
+
+<p>that they were subsequently informed 
+he could not be found and they have only 
+learned within two days that he has 
+been found and is somewhere in Spokane 
+Falls as a witness for the prosecution 
+there – said Wycoff is wholly unknown
+ to affiant <add>defendant</add> and her counsel by sight even 
+and they are unable to say whether or
+
+<pb/>
+
+not he was <del>for</del> in defendant's parlor as 
+aforesaid at time of the killing is what he 
+<del/> can will swear to 
+on said trial, but affiants have heard that he claims
+to have been an eye=witness to the shooting. That 
+since the finding of this indictment – affiants 
+have also learned that the prosecution have 
+still another witness by the name of Donalson 
+but whose given name is unknown to 
+affaints, and who was not a witness upon 
+the preliminary examination herein 
+for before the fgrand jury and whose 
+name is not in the indictment who also 
+claims and intends to swear that he was 
+present <add> at the time</add> <del>that night</del> of the Killing of Finch 
+and was in defendant's parlor at the time 
+and that he was an eye=witness to the shooting. 
+That whether or not <unclear>Mr</unclear> Donalson was 
+present in defendents parlor at the time of the shooting 
+of Finch affiants do not know <add> of their own knowledge the have heard of that effect</add> except from his statements, but affiants
+allege that – they are informed <del/>
+ that if he was present in said 
+parlor he occupied a position therein 
+which rendered it impossible for him to 
+see the occurences leading to and act of 
+shooting of Finch, and that the same fact is 
+true of the said George Wycoff and that he
+
+<pb/>
+
+if present at all in defendant's parlor at time of said 
+killing also occupied a position where 
+he could not see any view the of fray 
+out of which the killing arose or the act 
+of killing. That neither affiants nor
+the defendant knew until since the 
+finding of this indicment that the 
+prosecution had or claimed to have 
+such witness and affiants and claimed 
+that the prosecution had procured the 
+witness Wycoff within the last two 
+days. That neither affiants nor defendant
+know fully what the prosecution intends 
+to prove by said witness in the trial 
+of this cause and they are not sufficiently 
+acquainted with said witnesses at this time
+to be able fully to meet them and guard
+agaisnt surprise on the trial of the
+current this time <del/> affiants have refer
+to the affidavit of defendant herein filed
+in support hereof, affiants further allege
+that they have used all possibile diligence
+to prepare to meet such witnesses since
+they became aware that the Territory
+had procured there and would offer
+their Testimony and have been unable
+to do so, 
+
+Affiants further allege as another ground  for this motion;
+
+<pb/>
+
+That one of the grounds of defense which they expect
+to maintain on part of defendant in their cause
+is that <del>on the time</del> of insanity at the time
+of the killing, that defendant is and for many years
+has been afflicted with a species of insanity and
+mental disorder, <del>which</del> and that the same is
+hereditary in her family, and that – at the time
+of the killing, of said Finch defendant was
+insane and in such mental condition as
+to be incapable of committing the crime
+with which she is charged in this indictment
+That on the trial of this cause affiants expect
+to prove by one W. J. Woods of Ogden in
+The Territory of Utah, That – he has known
+defendant for about 15 years; That – he was
+married to defendant 14 years ago and
+lived with her 5 or 6 years and by her
+had two children; That – at the time she
+was his wife and he living with her as such
+she was afflicted with the disease of
+<add>Emotional and nervous hereditary</add> insanity the same as that with which
+she was afflicted at the time of the killing
+alleged in the indictment – herein
+but the details of what said witness <del/>
+will <unclear/> to bearing upon this issues
+affiants cannot fully state, but affiants 
+expect to prove by him the facts above stated
+and the fact that insanity is a hereditary Trait
+in defendants family. That one letter received
+
+<pb/>
+
+by one of defendants counsels in the month of July, 1886
+with the envelope in which the same was received
+is presented herewith marked
+A. B. and made part of this affidavit
+That since the finding of this indictment 
+it has been impossible to procure the attendance
+of said witness <add><unclear>words</unclear></add> at this term of this court
+is to procure a deposition from him even
+if his deposition <del/> would be
+proper and admissible but that from
+information from and friendly disposition
+of said witness towards defendant, and
+from the fact that defendant has sufficient
+money to pay the expense of said
+witness from Ogden aforesaid to Spokane
+Falls or the place  of holding this court
+and the expense of his attendance
+herein, and that she will pay the 
+same to procure his attendance
+all of which is have stated as facts, affiants
+believe and have reasonable grounds
+to believe, there they can procure the personal
+attendance of said witness at the 
+next term of this court for the trial of this
+cause –</p>
+
+<p>Affiants further expect to prove and can
+prove by said witness word that somewhere
+in her sound mind and lucid
+
+<pb/>
+
+intervals defendants is a peaceable, kind=hearted 
+woman, exceedingly timid
+and cowardly and afraid of assaults or
+force of any kind and not in any manner
+given to quarreling or the use of firearms,
+This testimony is mentioned in view of the 
+fact that defendant is charged with
+maliciously and purposely killing James
+Finch and that is in a fact that said
+Finch was at the time of the killing <del>of
+Finch</del> with which she is charged a total stranger
+to her.</p>
+
+<p>That affiants expect to prove substantially that
+same facts as above stating concerning defendants
+insanity <add>and peaceable disposition</add> by the <del/> are
+William Mc Dermott, who is now a 
+resident of Butte City, Montana, that
+one of affiants has seen and talked with said
+Mc Dermott within the last two months
+and is informed by him that he will swear
+That defendant is and for many years
+has been insane and afflicted with such
+mental disorder and that it is hereditery 
+in her family; that the said McDermontt
+is a brother = in = law of defendant
+and has known her long and intimately
+and is intimately acquianted with
+her family, that when not under the
+influence of such disease defendant is
+
+<pb/>
+
+a woman of peaceable character and
+kind disposition; that he will attend the
+trial at this court at such time as the
+same shall take place if he be notified
+of the time and the place of the trial: That since
+the finding of that indictment affiants
+have been unable to communicate with
+said Mc Dermott for the reason That
+as they are informed and believe he is
+traveling somewhere in the mining
+regions of Idaho and only temporarily away
+from home, That one of affiants N. T.
+Caton, saw and conversed with said
+McDermott near Murray I. T. about
+six weeks ago affiants believe from
+these facts that his attendance can be
+procured at the next term of this 
+court to testify in the trial of this
+<del>court</del> cause</p>
+
+<p>That affiants epect to prove by both of said 
+above named witnesses that <add>one of <del>Deft</del></add> defendants 
+Aunt. <del>was</del> was afflicted with the same species
+of insanity and became therefore
+hopelessly insane and that other
+members of her family have also been
+afflicted with insanity.</p>
+
+
+<p>Affiants expect to prove substantially the
+same facts as above alleged by the
+
+<pb/>
+
+members of <del>off</del> defendants family. To-wit two
+brothers and one sister, all of whom are
+<del>not</del> non-residents of and now absent
+from the Territory of Washington but
+whose personal attendance within 
+court at the trial of this cause affiants
+hope to obtain if given time to do so. That
+it has been impossible since the finding of
+this indictment for counsel to propose
+for the trial of this issue on this term of this
+court for the reasons stated herein.
+<del>and for the just <unclear>reason that</unclear></del></p>
+
+<p>That none of defendants family reside in
+the Territory of Washington and affiants'
+know of no other witnesses by which
+They can prove the facts to which 
+either the witness Woods or McDermott
+will Testify as above stated, except as to members
+of defendants family as above stated
+and affiants counsel state in detail
+what they can prove by such members
+of her family for the reason they have
+not sufficiently communicated with
+them of and concerning this issue, but
+if their case is continued until the
+next term of this court affiants allege
+it is their purpose to acertain to what
+such persons can testify and to
+know their testimony and they
+<pb/>
+
+believe they since be able to do so.</p>
+
+<p>And affiants say that this <unclear>account</unclear>
+is not made for delay, but that
+justice may be done.</p>
+
+<p>Thomas C. Griffiths<lb/>
+J Kennedy Stout<lb/>
+N. T. Caton<lb/>
+F Stanford</p>
+
+<p>Subscribed and sworn to 
+before me this 15th day of
+December, 1886<lb/>
+D A Clement<lb/>
+    Clerk
+</p>
+</div1>
+    
+</body>
+
+
+</text>
+</TEI>

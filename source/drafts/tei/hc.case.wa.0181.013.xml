@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.013.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Return to the Order to Show Cause and Petition for Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.012</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration.  Return to the Order to Show Cause and Petition for Writ of Habeas Corpus</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-11">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Moola Singh</term>
+<term>Seventy-two Hindoo Aliens</term>
+<term>Jeremiah Neterer</term>
+<term>Frank L. Crosby</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court Western District of Washington Northern Division</term>
+<term>Philippine Islands</term>
+<term>Seattle, Washington</term>
+<term>Manila, Philippine Islands</term>
+<term>United States</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>207 7-5 780</p>
+<p>UNITED STATES DISTRICT COURT 
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+<p>In re Unlawful Detention 
+of Moola Singh and Seventy-two 
+other Hindoo Aliens.</p>
+<p>) ) )</p>
+<p>No. 2532 
+Filed Sept.<gap></gap>, 1913.</p>
+<p>Herbert W. Meyers, For Petitioners 
+C. F. Riddell, E. B. Brockway, For Respondent. </p>
+<p>NETERER, District Judge.</p>
+<p>Moola Singh and seventy-two other Hindoos filed a petition
+praying a writ of habeas corpus, and alleges: That they were
+former residents of the Philippine Islands, and at this time 
+are unlawfully detained by the immigration authorities at 
+Seattle, Washington; that they have resided in the Phillippine
+Islands for periods varying from several months to several
+years; that they were lawfully admitted by the immigration 
+officers at the city of Manila; that they came to the city of 
+Seattle and were arrested, tried before the commissioner of 
+immigration in Seattle, and the secretary of labor, denied 
+admission and ordered deportation. They further alleged that they
+were not accorded a fair trial, and pray that they may be discharged
+from custody and permitted to enter. Notice of application
+was served upon the United States Attorney, and the 
+hearing came regularly before the court, both sides being
+represented.</p>
+<p>The question to be determined by this court is, were the 
+petitioners accorded a trial, and is the action of the secretary 
+of labor res judicata. Sec. 20 of the immigration act of 
+Feb. 20, 1907, as amended by the Act of March 6, 1910, and 
+March 4. 1913, provides:</p>
+<p>"That any alien who shall enter the United States in 
+violation of law, and such as becomes public charges from causes existing
+prior to landing, shall, upon the warrant of the Secretary
+of Labor, be taken into custody and deported to the country
+whence he came at any time within three years after the date
+of his entry into the United States..."</p>
+<p>Sec. 21 provides:</p>
+<p>"That in case the Secretary of Labor shall be satisfied 
+that an alien has been found in the United States in violation</p>
+<p>1.</p>
+<pb></pb>
+<p>of this Act, or that an alien is subject to deportation under 
+the provisions of this Act or of any law of the United States, 
+he shall cause such alien within the period of three years
+after landing or entry therein to be taken into custody and returned
+to the country whence he came, as provided by section
+twenty of this act.." </p>
+<p>Sec. 25 provides:</p>
+<p>".... That in every case where an alien is excluded from 
+admission into the United States, under any law or treaty now 
+existing or hereafter made, the decision of the appropriate 
+immigration officers, if adverse to the admission of such alien, 
+shall be final, unless reveresed on appeal to the Secretary of 
+Labor."</p>
+<p>The admission of aliens into the United States is regulated 
+by congress. The supervision is confided to the department of 
+immigration charged with the enforcement of laws regulating 
+the admission. The final determination of all of the facts 
+with relation to the qualification of aliens to enter the 
+United States or their deportation within the time limit fixed 
+by act of congress for reasons therein given is entrusted to the 
+proper immigration officers "whose decision is final, unless
+reversed on appeal to the Secretary of Labor." By the act
+of congress these officers are made the sole and exclusive judges 
+of the existence of the facts establishing qualification, and 
+no other tribunal is vested with authority or power by congress 
+to re-examine and consider the sufficiency of the evidence on 
+which these officers acted. So long as the officers clothed
+with this authority act within the limits placed by congress, 
+courts have no right to enterfere. The authority of the 
+immigration officers and the jurisdiction of the courts depend upon
+power conferred by congress. It is a matter of legislation. No
+discretion is vested in the courts. Congress has the right to
+legislate upon the subject, prescribe rules and fix limits and
+confer authority where it deems wise in legislating upon the 
+subject at hand. The supreme authority is conferred upon the 
+immigration officers. The jurisdiction of the court is limited 
+to ascertaining whether the petitioners were denied a hearing.</p>
+<p>Ekin v. United States, 142 U.S. 650; 
+Yamataya v. Fisher, 189 U.S. 86; 
+United States v. Ju Toy, 198 U.S. 253; 
+Lee Moon Sing v. United States, 158 U.S. 538; 
+Chin Yow v. United States, 208 U.S. 8.</p>
+<p>An examination of the record which is presented upon this hearing</p>
+<p>2.</p>
+<pb></pb>
+<p>established to my mind conclusivly that a fair and 
+full hearing was accorded to each and every one of the
+petitioners. They were represented by counsel and given
+every opportunity of presenting all facts bearing upon their 
+qualification. A hearing having been accorded, the court is 
+precluded from a re-examination of the issue presented, merely
+because it is contended that the conclusion of the immigration 
+officers, based upon the testimony presented, was wrong.
+Chin You v. United States, supra. 
+The petition for writ is denied.</p>
+<p>Jeremiah Neterer 
+Judge.</p>
+<p>FILED IN THE 
+U.S. DISTRICT COURT
+Western Dist. of Washington. 
+SEP of 1913 
+Frank L. Crosby, Clerk 
+By Emy Deputy</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

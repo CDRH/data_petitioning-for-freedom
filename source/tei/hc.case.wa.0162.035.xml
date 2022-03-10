@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0162.035">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ray Raymond v. Territory of Washington. Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh ">Emily Hidalgo</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0162.035</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. Writ of Habeas Corpus</title>
+<date when="1887-06-01">June 1, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-02</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bradshaw, Joseph</term>
+<term>Packwood, Samuel J.</term>
+<term>Shaser, F. W.</term>
+<term>Johnston, Charles D.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Raymond, Ray</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#lkw">reviewed; edited</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+
+<pb facs="hc.case.wa.0162.035"/>
+
+<p>Territory of Washington
+County of Spokane} ss</p>
+
+<p>I do hereby return
+to the Honorable Judge George Turner Judge
+of the Fourth Judicial District Holding
+Terms at Spokane Falls Washington Territory
+that before the coming to one of the within
+writ the said Joseph Bradshaw was
+committed to my custody and is detained
+by writ of a commitment. A copy of which I failed to bring with me. Nevertheless, I
+have the body of the said Joseph Bradshaw
+before you at the time and place within
+metion. As I am within commanded</p>
+
+<p>S.J. Packwood<lb/>
+Sheriff of Kittitas Co W.T.</p>
+
+<p>by F.W. Shaser deputy</p>
+
+<p>Sheriffs Expenses</p>
+
+<p>Conveying prisoner from Ellensburg W.T.
+To Spokane Falls, W.T. and Return to Ellensburg W.T.
+To Sheriffs per diem 15 days 3 at nine per day 45.00
+Convey Ellensburg to Spokane Falls 271 mi at mile 10 27.10
+Spokane Falls to Ellensburg W.T. 271 mi .10 27.10
+4 days Board for prisoner $1.00 per day 4.00
+" mileage on Prisoner 542 miles 10 per mile 54.20
+$157.40</p>
+
+<pb/>
+
+<p>Territory of Washington,
+County of Spokane} ss</p>
+
+<p>F.W. Shaser being duly sworn, deposes and says that he is
+Deputy Sheriff Kittitas County W.T., that the above and foregoing account is
+hereby correct, and the services therein charged were actually and necessarily performed.</p>
+
+<p>F.W. Shaser</p>
+
+<p>Subscribed and sworn to before me this first day
+of June 1887</p>
+
+<p>Chas B. Johnston</p>
+
+<p>Dep. Court 4th Judicial Court W.T.</p>
+
+<figure><p>DISTRICT COURT WASHINGTON TERRITORY FOURTH JUD. DISTRICT SPOKANE COUNTY</p></figure>
+
+<pb/>
+
+<p>CASE NO. 1886</p>
+
+<p>In the District Court 4th
+Judicial District, holding terms
+at Cheney, Spokane Falls.</p>
+
+<p>Territory of Washington<lb/>
+
+Plaintiff</p>
+
+<p>vs.</p>
+
+<p>Ray Raymond, defendant</p>
+
+<p>Writ of Habeas
+Corpus
+Filed in the office of the Clerk of
+the District Court this
+day of 188</p>
+
+<p>Clerk</p>
+
+<p>Deputy</p>
+
+<p>Attorney for</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

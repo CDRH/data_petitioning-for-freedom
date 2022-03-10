@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0439.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Thomas Kerr v. William Cochrane. Commitment</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0439.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Thomas Kerr v. William Cochrane. Commitment</title>
+<date when="1888-12-15">December 15, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1888-12-15">December 15, 1888</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Soderberg, N.</term>
+<term>Thornton, H.G.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>King County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Kerr, Thomas</persName>
+</person>
+<person role="defendant">
+<persName>Cochrane, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Osborn</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Dyer</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Burke, Thomas</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the Third Judicial District of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>FILE
+No. 6549</p>
+
+<p>UNITED STATES OF AMERICA.
+Territory of Washington,
+County of King,             } ss</p>
+
+<p>In Justice's Court, Seattle Precinct, King County, W.T. before N. SODERBERG, J.P.
+TERRITORY OF WASHINGTON,
+PLAINTIFF,
+vs.
+Thomas Kerr
+DEFENDANT.</p>
+
+<p>TO H.G. Thornton
+and the keeper of the jail of said King County, W.T.</p>
+
+<p>WHEREAS, at a Justice's Court held at my office, in said county, for the trial of Thomas
+Kerr
+for the offense hereinafter stated, the said Thomas Kerr
+was convicted of having, on the 13
+day of December 1888, in said county, committed vagrancy
+and upon conviction, the said Court did adjudge and determine that said Thomas
+Kerr should give a bond in $50 for
+his good behavior for 90
+days to the Territory of Washington
+and stand committed 90
+days or until the same be paid : and, whereas, the said Thomas Kerr
+has made default in the payment of the same. Therefore, you, the said Thomas
+Kerr are hereby commanded in the name of the United States
+forthwith to convey and deliver the said Thomas Kerr
+to the said keeper; and you, the said keeper, are hereby commanded
+to receive the said Thomas Kerr
+into your custody in said jail, and him there keep at hard labor for the space of 90
+days, unless said fine and costs be sooner paid, or he shall thence be discharged by due course of law.</p>
+
+<p>Dated this 15 day of December 1888
+N. Soderberg,
+Justice of the Peace</p>
+
+<pb></pb>
+
+<p>(957)</p>
+
+<p>COMMITMENT.</p>
+
+<p>TERRITORY OF WASHINGTON,
+vs
+Thos. Kerr</p>
+
+<pb></pb>
+
+<p>Copy of original Commitment</p>
+
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

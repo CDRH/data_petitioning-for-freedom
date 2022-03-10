@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0436.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Louis Brown v. J.C. Mitchell and James Bogant. Habaeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0436.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Louis Brown v. J.C. Mitchell and James Bogant. Habeas Corpus</title>
+<date when="1888-11-22">November 22, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1888-11-22">November 22, 1888</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Ledgerwood, W.E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>King County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Brown, Louis</persName>
+</person>
+<person role="defendant">
+<persName>Mitchell, J.C.</persName>
+</person>
+<person role="defendant">
+<persName>Bogant, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Costello, John E.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Boyle, Charles E.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court for the Third Judicial District of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>IN THE DISTRICT COURT,</p>
+
+<p>Of the Third Judicial District of Washington Territory, holding Terms at Seattle,
+for the County of King.</p>
+
+<p>HABEAS CORPUS.</p>
+
+<p>The People of the United States of America, to the <add>J.C. Mitchell + James Bogant Chief of Police and Jailor</add>
+<del>Sheriff</del> of King County Greetings:</p>
+
+
+<p>We command you, that you have the body of Louis Brown
+by you imprisoned and detained as it is said, together with the time and cause of such imprisonment and detention, by
+whatsoever name said Louis Brown shall be called or charged,
+before the HON. <del>Richard A. Jones</del> <add>Charles E. Boyle</add>, Judge of aforesaid Court at
+<add>chambers in</add>the court house
+in the city of Seattle, at the hour
+of three o'clock P.M. this date
+to do and receive what shall then and there be considered concerning him the said Louis
+Brown</p>
+
+<p>And have you then and there this writ.</p>
+
+<p>WITNESS THE HON. <del>RICHARD A JONES</del>
+<add>Charles E. Boyle</add>, Judge of said District
+Court, and the seal thereof this 22nd day of
+Nov. A.D. 1888</p>
+
+<p>W.E. Ledgerwood
+Clerk.</p>
+
+<pb></pb>
+
+<p>Directory of Washington } ss.
+County of King</p>
+
+<p>I hereby certify that I
+received the within
+writ on the 22nd day of
+Nov. 1888, and pursuant
+to the order of said Court I herewith
+bring into court the body of the
+within issued Louis Brown.
+I here then certify that shall the said
+defendant by virtue of a commitment
+duly issued by N. Soderberg a Justice
+of the Peace in the City of Seattle
+commanding the the said Louis Brown
+to safely keep in the city jail of said
+city, <unclear>a</unclear> copy of the said commitment
+<unclear></unclear> attached hereto</p>
+
+<p>J.C. Mitchell Chief of Police</p>
+
+<p>No. 6352</p>
+
+<p>In the
+District Court,
+Third Judicial District,
+Holding Terms at Seattle, W.T.</p>
+
+<p>In the matter of the Application of
+Louis Brown
+For Writ of Habeas Corpus</p>
+
+<p>HABEAS CORPUS.</p>
+
+<pb></pb>
+
+<p>IN THE DISTRICT COURT,</p>
+    
+<p>Of the Third Judicial District of Washington Territory, holding Terms at Seattle,
+for the County of King.</p>
+    
+<p>HABEAS CORPUS.</p>
+
+<p>The people of the United States of America to the Sheriff
+<add>J.C. Mitchell + James Bogant Chief of Police + Jailor</add>
+of King County Greeting:</p>
+
+<p>We commad you, that you have the body of Louis Brown
+by you imprisoned and detained as it is said, together with the time and cause of such
+imprisonment and detention, by whatsoever name said Louis Brown
+shall be called or charged before the HON <del>ROGER S. GREENE</del>
+<add>Charles E. Boyle</add>, Judge of the aforesaid Court at
+chambers in the Court house in the city of Seattle at the
+hour of three o'clockP.M. this date
+to do and receive what shall then are there be considered concerning the said
+Louis Brown
+And have you then and there this writ.</p>
+
+<p>WITNESS THE HON. <del>Roger S. Greene</del>
+<add>Charles E. Boyle</add>, Judge of the said
+District Court, and the seal thereof this 22nd day 
+of Nov, A.D. 1888</p>
+
+<p>W.E. Ledgerwood,
+Clerk</p>
+
+<pb></pb>
+
+<p>6352</p>
+
+<p>In the matter of the
+application of
+Louis Brown for
+Writ of Habeas
+Corpus</p>
+
+<p>Habeas Corpus</p>
+
+<pb></pb>
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

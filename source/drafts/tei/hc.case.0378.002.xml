@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.0378.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fetter v. Crowne</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.0378.002</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fetter v. Crowne. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1869-05-31">May 31, 1869</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository><!-- insert name of repository -->
+<collection>Walla Walla County Government; Clerk, Territorial Court Civil/Criminal Case Files, 1860-1889</collection>
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1869-05-31"></date>31 May 1869</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>L.A. Mullen</term>
+<term>Susannah Fetter</term>
+<term>Lena Fetter</term>
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Territory of Washington</term>
+<term>Walla Walla County</term>
+<term>State of Oregon</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>F Fetter</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Eugene Crowne and Lena Fetter</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Muellen Brothers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Louis R Dugan</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>James E Wyche</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>1st District Court for the First Judical District for the Territory of Washington</orgName> <!-- insert court name -->
+<placeName>Walla Walla County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#AS">transcribed and encoded</change><!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.0378.002"/> <!-- insert number from spreadhseet -->
+<p>Territory of Washington 
+County of Walla Walla }SS</p>
+<p>In the the matter of 
+the opposition
+of F Fetter for 
+Custody of Suzannah 
+Fetter</p>
+<p>Lena Fetter for 
+answer to the said Petition
+denies that on the 23rd day 
+of May 1869 the said child 
+was taken from the custody 
+of said F Fetter by the affiant
+or any other person or persons
+and says that in consequence 
+of harsh an cruel treatment 
+of said Fetter to the affiant
+she was compelled to leave
+her house and that said 
+child was assigned to her 
+custody of said F Fetter 
+denies that at the solicitation
+of one E Crowne or any
+other person she left said 
+F Fetter and says that 
+she was compelled by the 
+said F Fetter to leave his 
+house and that she went</p>
+<p>to Wallula on her way to 
+friends at <unclear>Oregon</unclear> city 
+of her own free will 
+and without solicitation
+of any person and alleges
+that she did so for
+the purposes of earning
+a living for herself and 
+child affiant avers
+that she is fully competent
+to take the care and custody 
+of said child and said
+F Fetter from his
+<unclear></unclear> habits and 
+violent temper was
+an unfit person to 
+have care and 
+custody and training 
+of said child wherefor
+affiant praise
+that the custody of said child 
+be awarded to her</p>
+<p><unclear>Louis R Dugan</unclear>
+atty for 
+Lena Fetter</p>
+<pb/> 
+<p>In the matter of the application 
+of F Fetter for a writ of Habeas Corups</p>
+<p>Whereas it has been made 
+satisfacory to appear to me by affiant
+of F Fetter that Eugene Crowne 
+and Mrs. Lenna Fetter wife of
+F Fetter affiant-have in said custody 
+Susannah Fetter aged five years and 
+six months the daugher of the affiant 
+and are about to remove said child
+to the state of Oregon and beyond
+the jursidiction of this court
+Now therfore it is here now 
+ordered</p>
+<p>That a warrant issue by the clerk 
+of the court ordered to the sheriff 
+of Walla Walla County commanding 
+him to take in his custody
+the said minor child susannah 
+fetter and to produce said child 
+before me at the Court 
+House in the city of Walla Walla 
+<del>and the said sheriff</del></p> 
+<p>JE Wyche
+Judge</p>
+<p>May 27th 1869</p>
+<pb/> 
+<p>In the matter of 
+the application 
+of F Fetter for 
+Writ of 
+Habeas Corpus</p>
+<p>Filed May 27th 1869 
+B.J. Wyche 
+Clerk</p>
+<p>Order of 
+Court</p> 
+<pb/>
+<p>Lenna Fetter must produce 
+the body of the said 
+child Susannah Fetter
+before your honor <unclear></unclear>
+&amp; that the said <unclear></unclear>
+be arrested unless they 
+give security for the production
+of said minor child </p>
+<p>F. Fetter</p> 
+<p>Territory of Washington 
+Walla Walla } }SS</p>
+<p>Frank Fetter being 
+first duly sworn says 
+that he is the petitioner
+that he knowns not <unclear></unclear>
+of the foregoing petition 
+and that the same 
+is true as is true as he 
+verily believes F. Fetter</p>
+<pb/> 
+<p>subscribed and sworn 
+to before me this 27th 
+May 1869</p>
+<p>L.A. Mullen<unclear></unclear>
+Notary Public</p>
+<p>Filed May 27th 1869</p>
+<p>B.J. Wyche</p>
+<p>Clerk</p>
+<pb></pb>
+<p>Territory of Washington
+Walla Walla County }SS
+In the matter of the application 
+of F. Fetter for a writ 
+of Habeas Corpus</p>
+<p>To the Hon JE Wyche judge 
+of district Court of the
+1st Judical district</p>
+<p>The petition of F. Fetter
+must respectfully <unclear>respondance</unclear>
+That he is the father of 
+and legal gaurdian
+of his minor daughter named 
+Susannah Fetter aged 
+five years and six months 
+and entitiled to the custody 
+and care thereof </p>
+<p>That on the 27th day of
+May 1869 the said minor 
+child now taken from 
+the care and custody of
+your petitioner by Mr
+Eugene Crowne and 
+Mrs. Linna Fetter the wife 
+of your petitioner who has 
+left and abandoned your 
+petitioner at the solicitation
+of the said E Crowne </p>
+<pb></pb> 
+<p> 
+and that the said child 
+is now restrained of her liberty 
+by said practices and 
+that the said practices are 
+now <unclear></unclear> to answer 
+the said minor child from
+the territory – your petitioner
+says that he does not know where said child is kept 
+but believes that said <unclear>practices</unclear>
+have left for Wallula
+with the intent to go to Oregon 
+Wherefor your petitioner 
+prays that <del>the said</del> a
+Writ of Habeas Corpus 
+may issue commanding 
+the said E Crowne and </p>
+</div1>
+    
+</body>
+</text>
+</TEI>

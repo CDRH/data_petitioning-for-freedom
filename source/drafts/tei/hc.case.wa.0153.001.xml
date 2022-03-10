@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0153.001.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Earnest Hutchinson v. State of Washington. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0153.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Earnest Hutchinson v. State of Washington. Petition</title>
+<date when="1905-07-25">July 26, 1905</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
+<idno>1183ErnestHutchinson</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1905-07">July 1905</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Smith, L. C.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Tacoma, Washington</term>
+<term>Seattle, Oregon</term>
+<term>Everett, Washington</term>
+<term>Ypsilanti, Michigan</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hutchinson, Earnest</persName>
+</person>
+<person role="defendant">
+<persName>State of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Carroll and Carroll</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Mackintosh, Kenneth</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court of the Ninth Circuit</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<p>In The United States Circuit Court of The Ninth Circuit In and For The Western District of Washington Northern Division</p>
+
+<p>In the Matter of the Petition of Earnest Hutchinson for Writ of Habeas Corpus. Petition For Writ of Habeas Corpus.</p>
+
+<p>To the Honorable C. H. Hanford, Judge</p>
+
+<p>The petition of Earnest Hutchinson respectfully respresents to your honor.</p>
+
+<p>I.</p>
+
+<p>That your petitioner is a citizen of the United States and of the State of Michigan and a member of the firm doing business in
+       the state of Washington under the firm name and style of "National Stamp Company", having their domicile and principal place
+       of business in the city of Ypsilanti, in the said state of Michigan.</p>
+
+<p>II.</p>
+
+<p>That said company is engaged in business in the cities of Tacoma, Seattle, Everett and other places in the state of Washington; and
+       that said business consists of general merchandising, advertising, and manufacturing for, and selling to the trade in the said state of
+       Washington and in the several states of the United States where said company is carrying on business, buyers' stamps, otherwise
+       called Trading Stamps.</p>
+
+<p>III.</p>
+
+<p>That the purposes and objects of said company are:
+       To buy, sell, and exchange merchandise; to do a general merchandise and advertising business; to print, issue and circulate advertisements;
+       to make and carry out contracts with corporations and individuals; to advertise their business by special and useful devices; to give merchandise
+       in exchange for</p>
+
+<pb/>
+
+<p>Buyers' Stamps, commonly known as "Trading Stamps" and which said stamps are due bills, certificates or vouchers to be sold by said company,
+       and to be redeemed by it in merchandise, according to its contracts, rules and regulations.</p>
+
+<p>IV.</p>
+
+<p>That said Buyers' Stamp is issued by and as a due bill of said National Stamp Company and is redeemed by said company in exchange for merchandise
+       at the store or place of business o fthe said company in the cities of Tacoma, Seattle, and Everett, or any other city, town or place in the United States where
+       said company has an office or is doing business as aforesaid.</p>
+
+<p>V.</p>
+
+<p>That said stamps of said company are sold to the trade at the rate of fifty cents a hundred and are given by the trade or merchant as a cash discount to each
+       purchaser, one stamp to each ten cents represented in the purchase, and which said stamps are redeemed by said stamp company in merchandise at its place
+       of business in said cities of Tacoma, Seattle and Everett, or any other city, town or place in the United States, and that said stamps are used only as a means of
+       advertising the business of petitioners and of the merchants using the same, as a medium of co-operation and exchange for value:</p>
+
+<p>VI.</p>
+
+<p>Petitioner attaches hereto and makes a part hereof a stamp book used in the said business of petitioner marked Exhibit "A", which said Exhabit "A" is for the convenience
+       and information of the people doing business with said company and the merchants using said stamps and which said book explains the method of obtaining, using
+       and redeeming said stamps.</p>
+
+<p>VII.</p>
+
+<p>That at the ninth bi-ennial session of the Legislature of the State of Washington, the State Legislature passed and enact-</p>
+
+<pb/>
+
+<p>ed House Bill No. 340, entitled "An Act making it a misdemeanor to sell or exchange property under the representation, advertisement, notice or inducement that an undentified,
+       unknown, unselected, or change prize, premium or premium gift, or that a stamp, trading stamp, coupon or other like device, entitling the holder to receive such a prize, premium,
+       or premium gift, or that the redemption of such a stamp, trading stamp, coupon or other like device to said such sale or exchange, as aforesaid, and providing a penalty therefor.
+       And which said act was approved by the Governor on or about the 14th day of March, A.D., 1905, a copy of which said act is hereto attached, and for greater certainty is made
+       a part hereof and marked Exhibit "B".</p>
+
+<p>VIII.</p>
+
+<p>Petitioner attaches hereto and makes part hereof, marked Exhibit "C", a true and correct copy of the complaint, filed against petitioner and upon which he is unlawfully held and 
+       deprived of his liberty and which said compaint is founded upon said House Bill No. 340.</p>
+
+<p>Wherefore, your petitioner demurs to said complaint and for cause of demurrer alleges:
+       1st. That the information and complaint against petitioner charages no offense or crime,
+       2nd. The said House Bill No. 340 under which peitioner is deprived of his liberty and upon which said complaint is founded is unconstitutional and void. <del></del></p>
+
+<p>IX.</p>
+
+<p>That said act, (House Bill No. 340) passed as aforesaid, by said Legislature and approved by the Governor, is unconstiutional and void in this to-wit:</p>
+
+<p>1st. That it is destructive of the lawful business of plaintiffs, and is destructive of their rights as indiviuals and citizens of the United States.</p>
+
+<pb/>
+
+<p>2nd. That said act is against public policy.</p>
+<p>3rd. That said act is in restraint of trade and commerce between the people of this state.</p>
+<p>4th. That asid act is in restraint of Inter)State trade and commerce.</p>
+<p>5th. That said act is special and class legislation and wrongfully, unlawfully and unreasonably discriminates against the lawful business affairs of petitioner.</p>
+<p>6th. That said act unlawfully, wrongfully and unconstitutionally deprives petitioner of his liberty and right to fully contract and carry on lawful business, trade and commerce.</p>
+<p>7th. That said act unlawfully, wrongfully and unconstitutionally prohibits and restrains petitioner from engaging in lawful business and takes away and destroys property
+       without due process of law.</p>
+<p>8th. That said act imposes an unreasonable and unjust burden upon petitioner and upon trade and commerce, and is in violation of their constitutional rights.</p>
+<p>9th. That said act is in violation of and in conflict with the Constitution of the United States and of the State of Washington; that said legislature of the state of Washington
+       has not the legal power or authority to enact such law as herein complained of.</p>
+<p>10th. That said act impairs and interferes with petitioner's right to engage in lawful business, and is a wrongful and unconstitutional exercise of the police power of the
+       state of washington.</p>
+<p>11th. That said act unlawfully interferes with and impairs the obligations of contract; and said act is an arbitary and unconstitutional interference with the right of private contract.</p>
+<p>12th. That said act is oppressive, discriminative, pre</p>
+
+<pb/>
+
+<p>hibitory and unreasonable and is not a proper and lawful erercise of the police power of the Legislature of the State of Washington.</p>
+<p>13th. That said bill embraces more than one subject, and</p>
+<p>14th. That said subject of said bill is not expressed in the title.</p>
+
+<p>X.</p>       
+
+<p>That your petitioner is unlawfully restrained of his liberty by L. C. Smith, Sheriff of King County, State of Washington.</p>
+
+<p>XI.</p>
+
+<p>That said Sheriff pretends to and does hold petitioner a prisoner and unlawfully deprives and restrains petitioner of his liberty and constitutional rights under and by virtue
+       of a pretended complaint and warrant based upon said unconstitutional and void House Bil No. 340.</p>
+
+<p>Your petitioner therefore prays that a Writ of Habeas Corpus may issue, directed to the said Sheriff, commanding him that he have the body of said Earnest Hutchinson
+       by him imprisoned and detained, together with the time and cause of said imprisonment and detention, before Hon. C. H. Hanford, Judge of the aforesaid Court at the 
+       United States Courtroom in Federal buildingcor. 4th Ave. and Marion St., in the City of Seattle, County of King, State of Washington, at 10 A.M. on the 7 day of August, 1905,
+       to do and receive what shall then and there be considered or ordered concerning the said Earnest Hutchinson, in pursuance of the statute in such case made and provided.</p>
+
+<p>Dated this 26 day of July. A.D. 1905.</p>
+
+<p>Carroll and Carroll</p>
+<p>Attorneys for Petitioner.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

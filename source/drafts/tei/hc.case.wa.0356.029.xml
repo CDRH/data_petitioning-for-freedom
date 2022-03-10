@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0356.029">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gin Kato v. Henry M. White. Letter of Transmittal</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0356.029</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gin Kato v. Henry M. White. Letter of Transmittal</title>
+<date when="1920-06-03">June 3, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1920-06">June 1920</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Brown, Belle</term>
+<term>Burke, Rose</term>
+<term>Miller, Nina</term>
+<term>Miller, Peggy</term>
+<term>Tarabolo, Margherita</term>
+<term>Berger, Adeline</term>
+<term>Guem, Sam</term>
+<term>Him, Chung</term>
+<term>Yam, Seid</term>
+<term>Kato, Gin</term>
+
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Ketchikan, Alaska</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Kato, Gin</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Kiefer, James</persName>
+<persName>Winston, Will H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+<persName>Capers, R.E</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-06" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>54821/142-3-4-5-6-7-8-9.</p>
+
+<p>June 3rd, 1920.</p>
+
+<p>Inspector in Charge, Immigration Service, Ketchikan, Alaska.</p>
+
+<p>The Bureau refers to your letter of May 17th, No. 528, with inclosure, and transmits herewith formal warrants of arrest issued today in the case of the aliens Belle Brown, Rose Burke, Nina Miller, alias Peggy Miller, Margherita Tarabolo, alias Adeline Berger, Sam Guem, Chung Him, Seid Yam, and Gin Kato.</p>
+
+<p>Exact Copy as Signed by Alfred Hampton</p>
+<p>Mailed Jun 5 1920 By --- B</p>
+
+<p>Assistant Commissioner-General.</p>
+
+<p>RWS</p>
+<p>Inclosures W.A's. Nos.</p>
+<p>3893 to 3900, inclusive.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

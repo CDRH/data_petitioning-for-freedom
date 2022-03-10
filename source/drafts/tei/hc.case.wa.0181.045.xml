@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.045">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Petition for Rehearing</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.045</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Petition for Rehearing</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Moola Singh</term>
+<term>Seventy-Two Hindus</term>
+<term>Herbert W. Meyer</term>
+<term>Caminetti</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Seattle, Washington</term>
+<term>San Francisco</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+               
+<div1 type="case">
+
+<pb/>
+<p>IN THE MATTER OF THE UNLAWFUL
+DETENTION OF MOOLA SINGH
+AND SEVENTY-TWO HINDOO ALIENS</p>
+<p>No. 2532.
+PETITION FOR REHEARING</p>
+<p>Come now the petitioners and request the Court
+to grant a rehearing and further, to stay the deporta-
+tion of the aliens and the signing of the final judg-
+ment until the petitioners have had an opportunity to be
+heard.</p>
+<p>In the advance sheets for this year the latest
+word on the subject has been said by the Supreme Court
+of the United States in the advance sheets for January,
+1913, No. 3, the case of Zakonaite vs. Wolf, decided in
+December of 1912, in which the contention of the petition-
+ers is apparently sustained in that the Court states in
+that opinion that the facts must be adequate to support
+the secretary's conclusions, which shows clearly that
+there was no finality as has been contended. Also in a
+case decided in June 1912, the supreme Court of the United
+States lays dovn a different doctrine to that advanced
+by the Government and different to that supporting the
+<pb></pb>
+ruling of the Honorable Court. These, with other late
+cases, it is the desire of attorney for petitioners, to
+call to the attention of this Honorable Court.</p>
+<p>It will be noted from the attached clipping,
+<figure><p>SEATTLE COURT RULING AFFECTS MANY HINDUS</p>
+<p>Orientals in San Francisco Will BE Deported
+Under Decision Made by 
+Federal Judge in This City.</p><p>WASHINGTON, Friday, Sept. 12-
+Hindues seeking admission to the United 
+States through the Philippines, or any
+other American possession, will not
+be permitted to land, unless they pass
+the examination required under the immigration laws.</p>
+<p>Commissioner General of Immigration
+Caminetti received word last night
+from the immigration commissioner at
+Seattle that the federal court there
+had sustained his order deporting seventy-
+three Hindus who recently arrived
+from the Philippines. The 
+commissioner ordered them deported "on
+the ground that they were unlawfully
+within the United States because at
+the time of their entry to the Philippines
+they were likely to become public
+charges if they should come to the
+mainland of the United States."</p>
+<p>Twenty or more similar cases are
+pending at San Francisco and the
+Hindus probably will be ordered 
+deported under the decision of the court.</p></figure>
+<unclear></unclear>there are aliens in other portions of our country,
+<unclear></unclear>lestinies are being determined by the decision of
+<unclear></unclear>onorable Court and therefore, as this is the first
+<unclear></unclear>case of this sort has been before the Federal 
+<unclear></unclear>every precaution should be taken to have no
+<unclear></unclear>committed and to have every opportunity given
+<unclear></unclear>eys for petitioners and the government.</p>
+<p>It will be further noted that the cases cited
+<unclear></unclear> government and also by this Honorable Court, that in
+each case it was either admitted by the aline or was
+definitely proven that they were actual law violators,
+which is not the case in issue here.</p>
+<p>This petition is based on the fact that the
+matter of finality of the decision of the immigration
+department was but lightly touched upon in the hearing
+on the application for the writ, owing to the size
+of the record and the number of different phases of the
+case, and further for the reason that the petitoners
+believe that there is a distinction in the present case
+from those cited by the Honorable Judge of the District
+Court in his opinion, which the petitioners desire to call
+the court's attention to. Further, petitioners believe 
+that there are later decisions which would be taken as
+authoritive by this Honorable Court than those cited by
+<pb></pb>
+counsel for the government, and further, certain matters
+have been suggested by the opinion of this Honorable
+Court.</p>
+<p>WHEREFORE petitioners pray that they may be
+given leave to present these matters to the Honorable
+District Court before judgement is finally signed.</p>
+<p>Herbert Meyer
+Attorney for Petitioners.</p> 
+<p>SEP 13 1913</p>
+<pb></pb>
+<p>2x No. 2532.</p>
+<p>IN THE UNITED STATES DISTRICT
+COURT FOR THE WESTERN
+DISTRICT OF WASHINGTION,
+NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE UNLAWFUL
+DETENTION OF 73
+HINDOO ALIENS.</p>
+<p>PETITION FOR REHEARING.</p>
+<p>Received Copy of
+Within Sept 12, 1913 
+EBBrockway 
+Asst U.S Atty</p>
+<p>FILED IN THE 
+U.S. DISTRICT COURT, 
+WESTERN DIST. OF WASHINGTON,
+SEP 13 1913
+FRANK L. CROSBY, CLERK,
+By Emy Deputy</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY AT LAW
+430-431-432-433 PIONEER BUILDING 
+PHONE MAIN 1278 
+SEATTLE, WASH.
+MERCHANTS PRINTING CO., TIMES BLDG., SEATTLE</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

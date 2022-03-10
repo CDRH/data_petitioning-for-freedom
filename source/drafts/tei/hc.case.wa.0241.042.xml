@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0241.042"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Walker et al. Writ of Habeas Corpus</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0241.042</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Walker et al. Writ of Habeas Corpus</title>
+<date/>
+<note type="project">Our transcription is based on a digital image.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-07">July 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Byrd, Lewis</term>
+<term>Campbell, Alex</term>
+<term>Hoyt, John P.</term>
+<term>Walker, M.A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Tacoma, Pierce County, Washington Territory</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName>Walker, M.A.</persName>
+<persName>Walker, Charles</persName>
+<persName>Walker, Helen</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Campbell, A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
+<placeName>Western District of Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#sab">transcribed, encoded</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0241.042"/>
+
+<p>In the District Court of the Second Judicial District of Washington Tery. holding terms at Tacoma, in and for Pierce County</p>
+<p>1601 1/2</p>
+
+<p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+In the matter of application of x
+                                x
+M.A. WALKER,                    x     WRIT of HABEAS CORPUS.
+                                x
+for a Writ of Habeas Corpus     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+
+<p>To LEWIS BYRD, Sheriff of Pierce County, greeting:--</p>
+
+<p>We command you, that you have the body of M.A. WALKER, by you imprisoned and detained, as it is said, together with the time we cause of such imprisonment and detention, by whatsoever name said M.A. Walker, shall be called or charged, before Hon. JOHN P. HOYT, Judge of the District Court of the Second Judicial District of the Territory of Washington, at the Court-room of said Court, at Tacoma, on the     day of August, 1885, at    oclock,    , m., of that day, to do and receive what shall then and there in considered concerning the said M.A. WALKER,</p>
+<p>And have you then and there this writ.</p>
+
+<p>Witness the HON. JOHN P. HOYT, Judge of the said District Court, at the Court room there-of in the City of Tacoma, Pierce County, Wash. Terry. this     day of August, 1885.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

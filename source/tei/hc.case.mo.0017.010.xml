@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0017.010">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dolly vs John Young. Copy of the order</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0017.010</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Dolly vs John Young. Copy of the order</title>
+<date when="1828-03-26">March 26, 1828</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1828-03">March 1828</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gamble, Archibald</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>St. Louis (o.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Dolly</persName>
+</person>
+<person role="defendant">
+<persName>Young, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Evans, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Strother, George</persName>
+</person>
+<person role="attorney_defendant">
+<persName>McGirk, Isaac</persName>
+</person>
+<person role="judge">
+<persName>Carr, William C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-11" who="#lkw">reviewed; edited</change>   
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0017.010.001"/>
+
+<p></p>
+
+<p>State of Missouri County of St. Louis } ss</p>
+
+<p>In the St Louis Circuit Court Wednesday 26 March 1828</p>
+
+<p>George F Strother and James Evans present the petition of Dolly a woman of color praying that she may be permitted to institute suit against John Young to establish her right to freedom and that she may be permitted to sue as a poor person thereupon the court permits the said Dolly to sue as aforesaid and direct that an action of assault and battery and false imprisonment be commenced against the said John Young in the name of the said Dolly and assign James Evans and George F Strother Esquires as her counsel and it is ordered by the court that the said defendant permit the said Dolly to have a reasonable liberty of attending her counsel and the Court when the occasion may require it and that the said Dolly the plaintiff shall not be taken or removed out of the jurisdiction of this court and that she shall not be subject to any severity of treatment on account of her said application for freedom</p>
+
+<p>A true copy of the Order</p>
+<p>A Gamble Clerk</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

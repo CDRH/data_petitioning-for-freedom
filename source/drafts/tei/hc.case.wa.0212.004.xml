@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0212.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Taka Shibata v. Henry M. White. Memorandum</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0212.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Taka Shibata v. Henry M. White. Memorandum</title>
+<date when="1920-08-03">August 2, 1920</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1920-08">August 1920</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Ying, Lum Lin</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Japan</term>
+<term>Nebraska</term>
+<term>Seattle, Washington</term>
+<term>Minnesota</term>
+<term>Missouri</term>
+<term>Oregon</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Shibata, Taka</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Davis, P.V.</persName>
+<persName>Kiefer, James</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+<persName>Capers, R.E</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+<persName>Rudkin, Frank H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-02" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>No. 5449</p>
+
+<p>In the District Court of the United States for the Western District of Washington, Northern Division.</p>
+
+<p>In the Matter of the Application of TAKA SHIBATA for a Writ of Habeas Corpus.</p>
+
+<p>Memorandum</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Tx</p>
+
+<p>Aug 3 1920</p>
+
+<p>F.M. Harshberger, Clerk</p>
+<p>By S.E. Letich Deputy</p>
+
+<p>No. 5449</p>
+<p>Memorandum</p>
+
+<p>In the Matter of the Application of TAKA SHIBATA for a Writ of Habeas Corpus.</p>
+
+<p>P.V. Davis and James Kiefer, Attorneys for Petitioner U.S. Attorney for Respondent.</p>
+
+<p>RUDKIN, District Judge. Briefly stated the facts in this case are as follows: The petitioner is a subject of Japan, and was married in the month of April, 1918, to one Shibata Kunikichi, also a subject of Japan. At the time of the marriage the petitioner was a resident of Japan and the husband a resident of the state of Nebraska. The marriage was apparently contracted according to Japanese law or custom. The petitioner arrived in the United States on the 23d day of December, 1919, and was met by her husband soon after her arrival in Seattle. On the 5th day of January, 1920, the petitioner was duly admitted to the United States, the medical examiner having certified that she was free from disease, and a Board of Special Inquiry having found that she was a person not likely to become a public charge. After admission the petitioner lived a few days with her husband in Seattle. She then deserted him and took up her abode with a brother. Later she was taken into custody by the immigration authorities on the fround that she was a person likely to become a public charge, and on the further ground that she entered the United States without inspection by means of false and misleading statement. The latter charge has been abandoned, but deportation</p>
+
+<p>was ordered upon the ground that the petitioner was likely to become a public charge at the time of entry. She then sued out the present writ to obtain her discharge and the sufficiency of the evidence to warrant the order of deportation is the sole question presented by the return to the show cause order.</p>
+
+<p>If the petitioner were an unmarried female there is perhaps sufficient evidence to bar further inquiry by the courts, although it must be conceded that the likelihood that she will ever become a public charge, as that term has been defined, is exceedingly remote.</p>
+
+<p>Gegiou v. Uhl, 239 U.S. 3.</p>
+<p>Howe vs. U.S., 247 Fed. 292.</p>
+<p>Ex Parte Mitchell, 256 Fed. 229.</p>
+
+<p>But as I view the record that question is not now before me, for if the petitioner was the wife of Shibata at the time of entry there is no evidence whatever to support the departmental ruling, it being conceded that the husband was willing and amply able to support and maintain his wife. In this view of the case if the petitioner was at any time likely to become a public charge it was only after she deserted and abandoned her husband, and inasmuch as this took place after entry and admission it affords no ground for deportation. The attorney for the Government doubtless realize this because he earnestly insists that the so-called marriage was a mere mullity under out laws. The question thus presented is an important and far-reaching one. Judge Bellinger expressed a grave doubt as to the validity of such a marriage in re Lum Lin Ying, 59 Fed. 682, but nevertheless discharged the petitioner from custody. His view seems to have been that the marriage was invalid unless recognized by the laws of both Oregon and China, of which places the parties were residents. But if marriage is a mere civil contract, that contract must have a situs, and unless the physical presence of the parties</p>
+
+<pb/>
+
+<p>to such a contract is absolutely indispensible to its validity the validity of the contract would seem to depend on the place of consummation. For the rule is all but universal that a marriage valid where contracted is valid everywhere. In G. N. Ry. Co. vs. Johnson, 254 Fed. 683, the marriage contract was signed in duplicate by the husband in the state of Minnesota and transmitted to the wife in the state of Missouri, where the contract was signed by the wife in duplicate and one copy returned to the husband. The court ruled on these facts that the validity of the contract depend upon the laws of the state of Missouri and marriage was upheld.</p>
+
+<p>There is no evidence in the record as to the laws of Japan, and the court cannot take judicial notice of the laws of a foreign country. Furthermore, there is no evidence in the record as to the mode or place of consummation of the marriage and for that reason the court cannot pass upon its validity on the record before it. The validity of the marriage was recognized by the Government at the time of entry and it was conceded at the hearing that the validity of such marriages has uniformly been recognized by the Department. Under these circumstances the court will hold the marriage valid without further inquiry. If the Government desires to challenge the validity of such marriages it must do so directly, and when a proper record is before the court the question will be determined, but not until then.</p>
+
+<p>I am therefore of opinion that the order of deportation is not supported by any competent evidence, and the writ of habeas corpus will issue and the petitioner is discharged.</p>
+
+<p>Let an order be entered accordinly.</p>
+
+<pb/>
+
+<p>Judge Rudkins-</p>
+<p>A copy of this will be furnished to-day (Saturday) to counsel-</p>
+<p>Caper</p>
+
+<p></p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

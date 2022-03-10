@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0172.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>D.A. Hatfield v. Robert T. Hodge. Order Denying.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0172.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">D.A. Hatfield v. Robert T. Hodge. Order Denying.</title>
+<date when="1912-02-06">Feburary 6, 1912</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle.</collection>
+<idno>2082DAHatfield</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1912-02">Feburary 1912</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Crossby, Frank L.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Larken, Eden</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hatfield, D. A.</persName>
+</person>
+<person role="defendant">
+<persName>Hodge, Robert T.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McBride, A. J.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Murphy, John F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Caldwell, Hugh W.</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>In the District Court of the United States
+for the District of Washington</p>
+<p>Northern Division</p>
+<p>Final Record</p>
+<p>In Re Application of D.A. Hatfield,
+for writ of Habeas Corpus.
+vs. No. 2082</p>
+<p>Filed April 10th, 1913 <del>190</del></p>
+<ab>Farnk L. Crosby
+Clerk</ab>
+<ab>By Eden Larken
+Deputy Clerk</ab>
+<p>Witness my hand and offical 
+seal this 10 day of May 1913</p>
+<ab>Frank L. Crosby
+clerk.</ab>
+<ab>By Eden Larken
+Deputy.</ab>
+<pb/>
+<p>In the matter of D.A. Hatfield,
+for application for Writ of Habeas 
+Corpus.</p>
+<p>No. 2082
+Order Denying</p>
+<ab>Feb. 24, 1912.</ab>
+<p>On the 6th day of Feburary, this cause came on to be heard
+on the application of D. A. Hatfield for a Writ of Habeas Corpus
+and the answer thereto of Robert T. Hodge, Respondent, and after
+hearing arguments in behalf of the Respondent by his Attorney, Hugh
+M. Caldwell, the further hearing was continued until the 24th day of
+Feburary, 1912, and after hearing arguments in behalf of the petitioner
+by his attorney A. G. McBride and the Court being sufficiently
+advised in the premises, the said application is denied and the Court
+refuses to grant a Writ of Habeas Corpus, which ruling of the Court
+the petitioner excepts and his exception is allowed by the Court.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

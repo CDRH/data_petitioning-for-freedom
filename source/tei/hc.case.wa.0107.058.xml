@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0107.058">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Gus Bendjus et al. v. Territory of Washington. Writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0107.058</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Gus Bendjus et al. v. Territory of Washington. Writ</title>
+<date when="1887-10-10">October 10, 1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887-10">October 1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sutton, H. M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Thurston County, Washington</term>
+<term>Olympia, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Bendjus, Gus</persName>
+</person>
+<person role="petitioner">
+<persName>Strangland, Robert</persName>
+</person>
+<person role="petitioner">
+<persName>Frederiksen, Ben</persName>
+</person>
+<person role="petitioner">
+<persName>Nelson, Frank</persName>
+</person>
+<person role="petitioner">
+<persName>Johnson, Andrew</persName>
+</person>
+<person role="petitioner">
+<persName>Brown, Leander</persName>
+</person>
+<person role="petitioner">
+<persName>Thompson, John</persName>
+</person>
+<person role="petitioner">
+<persName>Agren, Alex</persName>
+</person>
+<person role="petitioner">
+<persName>Jacobs, Thomas</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bignold, Lewis B.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Robinson, Joseph W.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moody, George J.</persName>
+</person>
+<person role="judge">
+<persName>Allyn, Frank</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Second Judicial District Court</orgName>
+<placeName>Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="lkw">review</change>     
+<change when="2021-09" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+
+
+<pb/>
+
+<p>In the District Court holding terms at Olympia</p>
+
+       <p>In re <del>applica</del> Petetion of Gus Bendjus Et al
+       for writ of Habeas Corpus</p>
+
+<p>To George L Moody Prosecuting Attorney:</p>
+
+<p>Please take notice that a writ of Habeas Corpus has been issued to the
+       Sheriff of Thurston County, commanding said Seriff to bring us the the 
+       bodies of Gus Bendjus et al before the Hon. Frank Allyn, judge of the Second
+       Judicial District of Washington Territory that they may be discharged.</p>
+
+<p>You will please appear &amp; show cause to the contrary.</p>
+
+<p>The writ is made returnable at Tacoma Court House at 10 o clock am Oct 13. 1887.</p>
+
+<p>Dated, Olympia Oct 8. 1887</p>
+
+<ab>Bignold &amp; Robinson<lb/>
+         Attorneys for Petetioners</ab>
+
+<p>Service by copy accepted this 10 day of Oct at 8 o clock pm 1887</p>
+
+<ab>George J. Moody<lb/>
+         Pros Atty.</ab>
+
+
+<pb/>
+
+<p>137</p>
+
+
+<p> Filed on the 11th day of October 1887.</p>
+
+<ab>HM Sutton<lb/>
+         Clerk</ab>
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

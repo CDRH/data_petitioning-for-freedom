@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0060.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Matthews, Joseph Lewis and Thomas Wright v. Territory of Washington. Defendant's Response to Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0060.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">John Matthews, Joseph Lewis and Thomas Wright v. Territory of Washington. Defendant's Response to Writ of Habeas Corpus</title>
+<date when="1875-06-16">September 16, 1875</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Murder</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1875-06">June 1875</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Kaefe, John</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Jefferson County (Wash.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Matthews, John</persName>
+</person>
+<person role="petitioner">
+<persName>Lewis, Joseph</persName>
+</person>
+<person role="petitioner">
+<persName>Wright, Thomas</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Bradshaw, Charles M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>McConaha, George N.</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District</orgName>
+<placeName>Territory of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-11" who="#lkw">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0060.004.001"/>
+
+<p>In the Disctrict Court for the Third Judicial District of Washington Territory holding Terms at Port Townsend in and for the Counties of King, Jefferson, Island, Clallam, Whatcom and San Juan September Term A.D. 1875.</p>
+
+<p>The Territory of Washington</p>
+<p>vs</p>
+<p>John Kaefe John Lewis Thomas Wright and John Mathews</p>
+
+<p>The Grand Jurors of the Territory of Washington in and for the Third Judicial Disctrict of the Territory aforesaid good and lawful men of the counties of Jefferson Island Clalam Whatcom and San Juan duly empanelled charged and sworn to require of and concerning offenses 
+
+<pb facs="hc.case.wa.0060.004.002"/>
+
+committed against the laws of the Territory of Washington aforesaid. On their oath do <unclear>present</unclear> that the said defendants on 2d day of May AD 1875 did kill and murder an Indian Contrary to the statute in such care made and provided and against the peace and dignity of the Territory of Washington aforesaid</p>
+
+<p>Dated at <del>Seattle W. T.</del> at Port Townsend in the District aforesaid on the 16th day of Sept. A.D. 1875</p>
+
+<p>Geo N McCoconaha</p>
+<p>Dist. Attorney</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

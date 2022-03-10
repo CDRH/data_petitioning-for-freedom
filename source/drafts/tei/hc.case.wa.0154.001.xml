@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0154.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0154.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">October 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clifford, Peter A.
+Long (Clifford, Williams), Grace E.
+Clifford, Alice B.
+Burt. J.  J.
+White, W. H. 
+DeLang, James
+Hanford, C. H.
+Ayres, A. Reeves
+Matthew, H. M.
+Herice, Deevnay 
+Fuller, Melville W.  
+Hopkins, C. B.
+Stringer, John
+Heade, Matthew H.
+Tallman, Boyd J.
+Humphreys, William P.
+Allison, William B.
+Norris, George E.
+Huxston, R. I.
+Koepfli, C. A.
+Brewster, J. M.
+Moor, A. N. 
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Georgetown, King County, Washington
+San Francisco, San Francisco County, California
+Seattle, King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Clifford, Peter A.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Long (Williams, Clifford), Grace E.
+Williams, Herbert O.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>White, W. H.
+Burt, J. J. 
+Steiner, G. E.
+Sweeney
+French
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Humphreys, William P.</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H.
+Tallman, Boyd J.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0154.001"/> <!-- insert number from spreadhseet -->
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES NINTH JUDICIAL CIRCUIT,
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>PETER A. CLIFFORD,
+PETITIONER,
+vs.
+HERBERT O. WILLIAMS and
+GRACE E. WILLIAMS,
+Respondents.</p>
+
+<p>Petition for Writ of 
+Habeas Corpus.</p>
+
+<p>To the Honorable the Circuit Court
+of the United States for the District of Washington, Northern
+Division:-</p>
+
+<p>The petition of Peter A. Clifford respectfully shows:</p>
+
+<p>I.</p>
+
+<p>That at all the times herein stated he was and now is a citizen
+and resident of the State of California, and that respon-
+dents are and for more than eight months last past have been
+citizens and residents of the State of Washington, in the 
+County of King.</p>
+
+<p>II.</p>
+
+<p>That on the 17th day of October, A. D. 1899, one Grace E.
+Long was a citizen and resident of the State of California, and
+on that day your petitioner and the said Grace E. Long, at the
+City and County of San Francisco, in the said State of Califor-
+nia, intermarried, and bacame husband and wife, and the said
+Grace E. Long thereby became Grace E. Clifford.</p>
+
+<p>III.</p>
+
+<p>That thereafter your petitioner and his said wife lived
+together in the City and County of San Francisco, State of Cal-
+ifornia until about the 7th day of March, A. D. 1901, and
+that on or about the said last named day the said Grace E. Clif-
+ford deserted and abandoned your petitioner without any just cause
+and without his consent.
+</p>
+
+<p>IV.</p>
+
+<p>That during the marriage of your petitioner and the said
+Grace E. Clifford, there was born to them, as the issue of said
+marriage, a female child, now living, and of the age of four
+years, named Alice B. Clifford.</p>
+
+<p>V.</p>
+
+<p>That on the 24th day of March, A. D. 1902, the said Grace E.
+Cliffored commenced an action in the Superior Court in and for
+the City and County of San Francisco, State of California, for
+an absolute divorce from your petitioner, and therein prayed
+for the custody of said child of said mariage, and your petit-
+ioner appeared in said action and filed his answer, and also a
+cross-complaint for a divorce from said Grace E. Clifford there-
+in, and in said cross-complaint prayed that the custody of said
+child should be awarded to him by said Court.</p>
+
+<p>VI.</p>
+
+<p>That thereafter such proceedings were had in such action
+and cross-action that the judgment of said court was given, made and
+entered therein, denying a divorce to said Grace E. Clifford and
+granting a divorce to your petitioner, and awarding the custody
+of said child to said Grace E. Clifford until the further order
+of the court; and providing that your petitioner should be al-
+lowed to see said child once a week and to take the same out
+with him once in every two weeks.</p>
+
+<p>VII.</p>
+
+<p>That at the time of the commencement of said action and from
+thenoe on down and including the time of the entry of said judg-
+ment, your petitioner, thhe said Grace E. Clifford, and said 
+child were all citizens and bona fide residents of the said City
+and County of San Francisco, in said State of California, and
+actually present therein, and your petitioner and the said Grace
+E. Clifford had been such citizens and residents of said City
+and County continuously since the date of their said marriage,
+and said child had been such citizen and resident continuously
+since the date of her birth, and within the jurisdiction of said
+Superior Court in said acion and cross-section, and said Superior
+Court was then and yet is a court of record and of superior jur-
+isdiction.</p>
+
+<p>VIII.</p>
+
+<p>That after the date of entry of said judgment by said
+Superior Court, the said Grace E. Clifford continued to reside
+in said City and County of San Francisco until some time in 
+September, A. D. 1903, the exact time being unknown to your
+petitioner, and that during said moth she secretly and surrepti-
+tiously and without the permission of said Superior Court,
+and in contempt thereof, and without the knowledge or consent
+of your petitioner, took said child out of the State of Califor-
+nia.</p>
+
+<p>IX.</p>
+
+<p>That on the 27th day of November, A. D. 1903, your petition-
+er fled in said Superior Court a verified petition in said ac-
+tion and cross-action for a modification of the judgment there-
+in by taking away from the custody of the said Grace E. Clifford
+the said child and awarding the custody thereof to your petit-
+ioner, and such proceedings were thereupon had that an order was
+made and entered therein modifying and changing said judgment
+and taking the custody of said child from said Grace E. Clifford
+ and awarding the same to your petitioner until the further order
+of the said Superior Court, and said order ever since has been
+and still is standing and not set aside, and in full force and
+effect, and under the laws of the State of California, at the 
+time of the commencement of said action, and at the time of the 
+entry of said judgment, and at the time of the making of the
+said order, said child was a ward of said Court and under the 
+control thereof; and it is provided by the laws of the said
+State that said Court could at any tme after the entry of said
+judgment make any order with or without notice modifyig said
+judgmet as to the custody of said child.</p>
+
+<p>X.</p>
+
+<p>That since the said judgment of divorce, the said Grace E.
+Clifford and one Herbert O. Williams above named, intermarried
+in said State of California, and became and ever since have
+been and now are husband and wife and evrer since their
+said marriage have had in the State of California and elsewhere
+and now at the town of Georgetown, in said County of King,
+saod child in their custody and posession.</p>
+
+<p>XI.</p>
+
+<p>That on the 19th day of January, 1904, at the said town of
+Georgetown, your petitioner presented to the said Herbet O.
+Williams and also to the said Grace E. Williams, a copy of the
+record and proceedings of the said Superior Court of said City
+and County of San Francisco, in said acion and cross-section,
+certified under and in pursuance of an Act of the Congress of
+the United Sates in such case made and provided, and demanded
+from them and eachof them the immediate delivery of the said
+child to him, said petitioner, but they refused and still do 
+refuse to give up said child, and said child ever since has been
+and now is imprisoned and restrained of her liberty by them at 
+said town of Georgettown, and that according to the best of your
+petitioner's knowledge and belief, the cause of pretense of the
+aforesaid confinement or restraint of the said child, Alice B.
+Clifford, is that under the said judgment of said Superior Court
+of said City and County of San Francisco, the custody of said
+child was given to said Grace E. Clifford, now Grace E. Williams,
+umtil further order of the Court, and that after she took said
+child beyond the limits of said State of California, as afore-
+saod, said Superior Court lost all jurisdiction to make any fur-
+ther order in said action and cross-section in regard to any mod-
+ification of said judgment as to the custody of said child, and
+that she had the right to take said child beyond the jurisdic-
+tion of the State of California without first obtaining therefor
+the permission of said Court, and that after said child was
+taken into said State of Washington said Herbet O. Williams
+and without the knowledge or consent of said Superior Court of
+said City and County of San Francisco, and without giving any
+notice thereof, undertook, under the laws of the said State of
+Washington, to adpot said child as husband and wife, as theor
+own. And your petitioner further states that he believes and
+therefore alleges, ad he is advised by counsel W. H. White, Esq.,
+residing at the City of Seattle, State of Washington, and J. J. 
+Burt, Esq., residing at the City and County of San Francisco,
+State of California, that the said imprisonment of the said
+child, Alice B, Clifford, is illegal, and that the illegality
+consists in this, to-wit:-
+</p>
+
+<p>That said Superior Court of the said City and County of San
+Francisco had jurisdiction under the laws of the State of Calif-
+ornia, to award the custody of said child upon the fact here-
+onbefore alleged until the further order of that Court, and to
+thereinafter change and modify the judgment as to the custody
+of said child with or without notice to any or either of the 
+parties to said action, and that the said Grace E. Williams and 
+Herbert O. Williams had no, nor had either of them any, right or 
+power under the laws of California, to remove said child from
+the State of California or change its placee of residence there-
+from to any other place without the permission of said Superior
+Court of said City and County of San Francisco, and that under
+Art. IV, Sec 1 of the Constitution of the United States, and
+Section 905 Revised statutes if the United States enacted i
+pursuance thereof, full faith and credit must be given in the
+State of Washington to the acts and proceedings of said Super-
+ior Court of the City and County of San Francisco, and all per-
+sons and courts must recognize the petitioner's right to the
+custody of said child under said order in said State of Washing-
+ton; as wel as under the laws of commity existing between
+said State of Washington and said State of California; and that
+also under the laws of Washington said attempted adpotion was
+illegal and void, for the reason thar there is no provision
+in the laws of Washington authorizing any person to adopt hi
+or her own legitimate child by birth, and that under the laws of
+the State of Washington there is no provision allowing or permit-
+ing a woman who has married again to consent to or permir
+the adoption of any child which she may have had by her first
+husband and from whom she has been divorced, and that the con
+sent given by Grace E. Williams for the adoption of said 
+child and said adoption proceedings was given to its adoption
+by herself and the said Herbert O. Williams, and not to the said
+Herbert O. Williams, with whom she was at the time living as her
+husband, alone. </p>
+
+<p>XIII.</p>
+
+<p>And your petitioner further states that there is danger
+that the said Herbet O. Willliams and the said Grace E. Wil-
+liams will take or send the said child out of the jurisdiction
+of this court, from the fact that they secret;y, and without
+the permission of the saodd Court in the City and County of
+</p>
+
+<p>Peter A. Clifford
+Petitioner.</p>
+
+<p>W H White
+J. J. Burt,
+Co Counsil.</p>
+
+<p>ting a woman when she has married again to consent to or permit
+the adoption of any child which she have had by her first
+husband and from whom she has been divorced, and that the con
+sent given by said Grace E. Williams for the adoption of said
+child and said adoption proceedings was given to its adoption
+by herself and the said Herbet O. Williams, and not to the said
+Herbert O. Williams, with whom she was at the time living as her
+husband, alone.</p>
+
+<p>XII.</p>
+
+<p>And your petitioner further states that there is danger
+that the said Herbet O. Williams and the said Grace E. Wil-
+liams will take or send the said child out of the jurisdiction
+of this court, from the fact that they secretly, and without 
+the permission of the said Court in the City and County of 
+San Fracisco, and in contempt thereof, took said child be-
+yond the limits of the State of California. </p>
+
+<p>WHEREFORE, your Petitioner set up and claims, upon the fore-
+going facts set out in this petition, under the said Article
+IV., Section I, of the Constiution of the United States and
+Section 905 of the Revised Statutes of the United States, the
+right to the immediate custody of said child Alice B. Clifford
+to be taken back, and restored, to the jurisdiction of the
+Superior Court of City and County of San Francisco, State 
+of California, and prays a writ of habeas corps directed to
+the said Herbert O. Williams and Grace E. Williams commanding them to bring up the
+body of the said child, Alice B. Clifford, to abide such order
+as your Honor may make, and that also a warrant issue to the
+marshal of the Untied States for this District commanding him
+to take said child into his cusotdy and to hold the same in his
+custody until the final determination of this petition.</p>
+
+<p>Peter A. Clifford
+Petitioner.</p>
+
+<p>W H White
+Attorney for Peitioner
+J. J. Burt
+Of Counsil.</p>
+
+<p>State of California, )
+)ss.
+City and County of San Francisco )
+</p>
+
+<p>Peter A, Clifford,  being first duly sworn, on his oath
+deposes and says:</p>
+
+<p>I am the petitioner in the above entitled cause; I
+have read the foregoing petition, know the contents thereof,
+and verily believe the same to be true.</p>
+
+<p>Peter A. Clifford</p>
+
+<p>Subscribed and sworn to before me
+this 3rd day of June, A. D. 1904
+James DeLang
+Commissioner for Washington
+in San Francisco, California.</p>
+
+<p>Upon reading and filing the foregoing petition, verified by
+the petitioner, whereby it appears that Alice B. Clifford is
+illegally imprisionmented restrained of her liberty by Herbert
+O. Williams and Grace E. Williams at the town of Georgetown,
+County of King, State of Washington, and stating wherein the il-
+legality consists, from which it appears to me that a writ of
+habeas corpus should issue;</p>
+
+<p>IT IS ORDERED: That a writ of habeas corpus issue out of
+and under the seal of the above named Circuit Court, directed to
+the said Herbert O. Williams and Grace E. Williams, commanding
+them and each of them to have the body of Alice B. Clifford be-
+fore me on the 9th day of June A. D. 1904, at the hour
+of ten o'clock A. M., at the Court room of the said Court
+in the City of Seattle, State of Washington, to do and receive
+what shall then and there be considered concerning the said
+Alice B. Cliffordm together with the time and cause of her de-
+tention, and that they have then and there the said writ.
+</p>
+
+<p>It further appearing that there is good reason to believe
+that said Alice B. Clifford will be carried out of and beyond
+the jurisdiction of said Court, it is ordered that a warrant
+issue out of and under the seal of said court to the marshal of
+said District commanding him to take the said Alice B. Clifford
+and to hold her in custody until the determination of said pe-
+tition.</p>
+
+<p>Dated, June 7th 1904.</p>
+
+<p>C. H. Hanford
+Judge.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

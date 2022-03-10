@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.004">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.059</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>IN THE DISTRICT COURT OF THE UNITED STATES, FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN
+DIVISION</p>
+<p>In the Matter of the Petition of K. Gregory, M. Aloshin, I. Riaboff, P, Neanlin, I. Erelin, L.
+Orloff, G. Yakimoff, P. Yakimoff, aliens, for a WRIT OF HABEAS CORPUS.</p>
+<p>No. 2646
+RETURN TO PETITION AND WRIT OF HABEAS CORPUS.</p>
+<p>TO THE HONORABLE JUDGE JEREMIAH NETERER, JUDGE OF THE ABOVE ENTITLED COURT:</p>
+<p>Comes now Henry M. White, Commissioner of Immigration, at Seattle, now for answer to the Writ of
+Habeas Corpus ussued herein, and for answer to the petition filed herein, for said Writ, states as
+follows:</p>
+<p>I.</p>
+<p>That he denies each and every allegation set forth in the petition for said writ, save and except
+what is herein-after specially admitted.</p>
+<p>II.</p>
+<p>That he admits the allegations set forth in the first paragraph of the petition ending at the
+words "Commissioner of Immigration".</p>
+<p>III.</p>
+<p>As to the allegations set forth in the second paragraph, he admits those ending at "twenty years
+of age" in line eleven.</p>
+<p>As to the rest of the allegations in said paragraph, he
+<pb></pb>
+has not knowledge or information thereof sufficient to form a belief and therefore denies the same.</p>
+<p>IV.</p>
+<p>As to the allegations in the third paragraph, he admits those ending at the words "free will" in
+line eighteen; and as to the other allegations set forth in said paragraph, he has not knowledge or
+information thereof sufficient to form a belief and therefore denies the same.</p>
+<p>V.</p>
+<p>As to the allegations set forth in the fourth paragraph, he admits those ending at the word
+"Russia" in line twenty-three; and as to the matter set forth in line twenty-four of said paragraph,
+he has not knowledge and information thereof sufficient to form a belief and therefore denies the
+same.</p>
+<p>VI.</p>
+<p>As to the allegations set forth in the fifth paragraph, he has not knowledge and information
+thereof sufficient to form a belief and therefore denies the same.</p>
+<p>VII.</p>
+<p>As to the allegations set forth in the sixth paragraph, he admits that the petitions were not
+held upon process issued by a United States or state court; alleges that there is a valid and lawful
+reason for the detention of your petitioners, as hereinafter appears by the affirmative matter set
+forth in the seperate answer.</p>
+<p>VIII.</p>
+<p>As to the allegations set forth in the seventh paragraph, he denies each and every allegation
+thereof, save and accept what may be admitted by the matter set forth in the seperate answer
+hereinafter appearing.</p>
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0400.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Anthony Han v. King County. Sentence for Pettit Lancery</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0400.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Anthony Han v. King County. Sentence for Pettit Lancery</title>
+<date when="1878-10-04">October 4, 1878</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case 2116</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1878-10">Octoeber 1878</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Anthony Han</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName>King County</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>J.M. Wells</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Samuel Greene</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Third Judicial District Court</orgName>
+<placeName>Washington Terriorty</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2021-06" who="#GT">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+<ab>United States of America
+Territory of Washington
+County of King
+SS</ab>
+<p>To any Constable; and the Keeper
+of the County Jail of said County:</p>
+<p>Whereas at a Justice Court held at my offices
+in White River Precint in said county for
+the trial of Antony Hain for the offense
+herein after stated the said Antony Hain 
+was convicted of having on the 22nd day of 
+September AD 1878 in said county, committed 
+the crime of pettit lancery and
+upon conviction , the said court did adjudge
+and determine that the said Antony Hain 
+should be imprisoned in the county jail of 
+said county for the period of six months
+and that he should pay a fine of twenty 
+five dollars and if at the expiration of 
+the six months the fine is not paid then 
+in that case said Antony Hain should 
+be held at hard labor at said county jail 
+until such fine is paid.</p>
+<p>Therefore you the said Constable 
+are commanded in the name of the 
+United States, forthwith to carry and 
+deliever the said Antony Hain to the 
+said Keeper; and you the said keeper as
+hereby commanded to receive the said
+Antony Hain into your custody in said 
+<pb></pb>
+jail and him there safely keep until the 
+expiration of said six months and 
+until said fine is paid, or until 
+he shall therelse be released by due course
+of law.</p>
+<ab>Dated this 1st Day of October, 1878
+(Signed) Samuel Greene
+Justice of the Peace</ab>
+<pb></pb>
+<ab>Territory 
+VS.
+Antony Hain</ab>
+<ab>Commitment upon
+Sentence</ab>
+<ab>Daniel U. Post is 
+hereby authorized to 
+act as Constable in
+this cause because of 
+a vacancy in the office
+of Constables in White
+River precint
+(signed) Samuel Greene
+Justice of the Peace</ab>
+</div1>
+    
+</body>
+</text>
+</TEI>

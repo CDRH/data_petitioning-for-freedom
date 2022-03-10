@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.003.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Meals Receipt</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Meals Receipt</title>
+<date when="2021">2021</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>J.R.L.</term>
+<term>Moola Singh</term>
+<term>Talok Singh</term> 
+<term>Dalip Singh</term>
+<term>Bhagwan Singh</term>
+<term>Pala Singh</term>
+<term>Ala Singh</term>
+<term>Biahsn Singh</term> 
+<term>Rulia Singh</term>
+<term>Kishan Singh</term>
+<term>Harijan Singh</term>
+<term>Arjan Singh</term>
+<term>Hire Singh</term>
+<term>Bhag Singh</term>
+<term>Amarao Singh</term>
+<term>Duvan Singh</term>
+<term>Puran Singh</term>
+<term>Nuarang Singh</term>
+<term>Dalip Singh</term>
+<term>Vir Singh</term>
+<term>Ratan Singh</term>
+<term>Nama Singh</term>
+<term>Bishan Singh</term>
+<term>Bishan Singh</term>
+<term>Rem Singh</term>
+<term>Baboo Singh</term>
+<term>Bhagat Singh</term>
+<term>Thakar Singh</term>
+<term>Variam Singh</term>
+<term>Harnam Singh</term>
+<term>Gurdit Singh</term>
+<term>Kishan Singh</term>
+<term>Gurbakhoh Singh</term>
+<term>Khazan Singh</term>
+<term>Paren Singh</term>
+<term>Milkha Singh</term>
+<term>Narnam Singh</term>
+<term>Munshi Singh</term>
+<term>Varian Singh</term>
+<term>Sham Singh</term>
+<term>Kakoo Singh</term>
+<term>Basant Singh</term>
+<term>Pooran Singh</term>
+<term>Sher Singh</term>
+<term>Santa Singh</term>
+<term>Harnam Singh</term>
+<term>Munshi Singh</term>
+<term>Parem Singh</term>
+<term>Partap Singh</term>
+<term>Naurang Singh</term>
+<term>Farzona Ali</term>
+<term>Ahas Ali</term>
+<term>Bahadar Shah</term>
+<term>Mir Ahdylla</term>
+<term>Nizam Din</term>
+<term>Sultan Ali</term>
+<term>Bagh Ali</term>
+<term>Niaz Mohd</term>
+<term>Rahmat Alla</term>
+<term>Nayat Kahn</term>
+<term>Amir Rhan</term>
+<term>Amir Khan</term>
+<term>Mohd Alam</term>
+<term>Isay Khan</term>
+<term>Amarat Khan</term>
+<term>Sanday Khan</term>
+<term>Shali Khar Khan</term>
+<term>Namdar Khan</term>
+<term>Gulam Modh</term>
+<term>Sanday Khan</term>
+<term>Baggn Khan</term>
+<term>Umar Den</term>
+<term>Ali But</term>
+<term>Hanz Mohd</term>
+<term>Chiragh Din</term>
+<term>Madda Din</term>
+<term>Ibrahim Din</term>
+<term>Ismail Din</term>
+<term>Rahmat Ali</term>
+<term>Noor Khan</term>
+<term>Ishar Singh</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>U.S. Immigration Station</term>
+<term>J. Richard Lane Dr. 644 Central Building</term>
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-12" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>To J. RICHARD LANE Dr. 
+644 CENTRAL BUILDING</p>
+<p>For meals furnished at U.S. Immigration Station, Seattle, during 
+the month of September and October, 1913 to 
+Hindus ex. S.S. "Minnesota"</p>
+<p>                 From             To                  Meals
+Nur Kahn      Sept.27 before B  Oct. 8 after D            35
+Yeshar Singh          "              8 after D            35
+Tallock Singh         "              8 after D            35 
+Bejin Singh           "              8 after D            35
+Mullah Singh          "              8 after D            35
+Kissin Singh          "              8 after D            35
+Gurwkh Singh          "              8 after D            35 
+Gurdit Singh          "              8 after D            35
+Bah Singh             "              8 after D            35
+Naram Singh           "              8 after D            35
+Kishin Singh          "              9 after D            38 
+Bishan Singh          "              7 after D            32
+Dipip Singh           "              8 after D            35
+Kaku Singh            "              2 after S            18
+Alla Singh            "         <sic>7 after D            32</sic>
+Sanda Kahn            "         <sic>2 after S            18</sic>
+Mandar Kahn           "             16 after S            60
+Mohamed Alam          "             16 after S            60
+Goita Singh           "              8 after D            35
+Gulan Mohamed         "              3 after S            21 
+Sajwar Kahn           "              2 after S            18
+Gol Ahmad             "             16 after S            60 
+Umar Din              "             16 after S            60 
+Mur Abdullah          "              6 after S            30
+Purum Singh           "              8 after D            35
+Chrag Din             "             16 after s            60
+Hawast                "              6 after S            30
+Takam Singh           "              8 after D            35
+Santa Singh           "              8 after D            35
+Bishan Singh          "              8 after D            35
+Abas Ally             "              7 after S            33
+Bhagwan Singh         "              8 after D            35
+Rulia Singh           "              9 after D            38
+Ambran Singh          "              8 after D            35
+Ali But               "              8 after D            35
+Kazan Singh           "              2 after D            18
+Hira Singh            "              8 after D            35
+Sham Singh            "              2 after D            17
+Bei Singh             "              8 after D            35
+Milkha Singh          "              1 after S            15
+Rehmat du Khan        "             16 after D            60
+Bagoo Kahn            "              7 after D            32
+Babu Singh            "              8 after D            35
+Sultan Ali            "              2 after D            17
+Bahadur Sah           "             16 after S            60
+Bag Alli              "             16 after S            60
+Prem Singh            "              8 after D            35
+Cher Singh            "              8 after D            35
+Karam Kahn            "              6 after S            60
+Kahrim Dad            "              8 after D            35 
+ Anamant Khan         "              8 after D            35
+SSanobar Khan         "             16 after S            60
+                                   Forwarded           /1947</p>
+<pb></pb>
+<p>To J. RICHARD LANE Dr. 
+644 CENTRAL BUILDING</p>
+<p>For meals furnished at U.S. Immigration Station, Seattle, during 
+the month of</p>
+<p>                 From             To                  Meals
+            Brought forward,                              1947
+Haya Kahn      Sept.27 before B  Oct.16 after S            60
+Amir Kahn             "              16 after S            60
+Yse Kahn              "               2 after S            18
+Lana Singh            "               8 after D            35
+Prem Singh            "               8 after D            35
+Ismail                "               8 after D            35
+Mada                  "               7 after D            32
+Santhay Khan          "               3 after S            21 
+Basal Singh           "               8 after D            35
+Dilip Singh           "               1 after D            14
+Niaz Mohamed          "               2 after S            18
+Noring Singh          "               8 after D            35
+Arjan Singh           "               8 after D            35
+Munshi Singh          "               8 after D            35
+Ram Singh             "               8 after D            35
+Mathai Kanor          "               8 after D            35
+Mokand Singh          "               6 after S            30
+Ebriam Khan           "               2 after S            18
+Briam Singh           "               8 after D            35
+Pagar Singh           "               8 after D            35
+                                                        /2603
+</p>
+<p>2609 meals @20c      $520,60</p>
+<p>Breakfast 
+Dinner
+Supper</p>
+<p>These Hindus are still at U.S. Immigration 
+Station and their board will be billed 
+against you when they have been disposed 
+of. The next bill will be remedered 
+from October 16th after Supper until 
+time out.   J.R.L.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

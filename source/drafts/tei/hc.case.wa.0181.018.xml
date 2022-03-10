@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.018.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Response</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.018</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Response</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bhagat Singh</term>
+<term>Nadhan Singh</term>
+<term>Nan Singh</term>
+<term>Balah Singh</term>
+<term>Seventy-three Hindoo Aliens</term>
+<term>Herbert W. Meyers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>King County</term>
+<term>Manila, Philippine Islands</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>STATE OF WASHINGTON 
+COUNTY OF KING ))) SS:</p>
+<p>Bhagat Singh, Nadhan Singh, Nan Singh and Ballah Singh, 
+being first duly sworn, depose and say;</p>
+<p>That we came over on the Steamship Minnesota
+with the seventy-three Hindoo aliens whose cases are 
+before the Honorable Jeremiah Neterer, in the Federal 
+Court, Seattle, Washington, and we know it to be a fact
+as we have seen the certificates held by the various
+aliens and we know that each one of them had from one 
+to five or six of these certificates. That the attached
+paper, signed by an immigration inspector and 
+marked with the letter "A" is a similar sort of certificate
+to the one received by all of these aliens when 
+they landed in Manila and after they had been examined
+and passed, and this certificate was taken up by the 
+government at the time of the issuance of certificates
+similar to this attached, marked "B".</p>
+<p>That the affiant, Bhagat Singh, having interpreted
+for the immigration officers at Manila for a period
+of approximately one year prior to affiant's leaving
+the Philippine Islands, and he knows by reason of his 
+having interpreted for the government that the special 
+certificates of registration which were held by all of
+the aliens involved in this hearing would not have been 
+issued and been given to the aliens unless they had first
+had certificate "A" which was given them only after a 
+proper admission at Manila and a proper examination,
+<pb></pb>
+and after having been passed by the immigration authorities.
+The other affiants besides Bhagat Singh, testifying 
+herein, know that certificate "A" was only 
+issued after being passed by the immigration board at 
+Manila and a proper examination, and that certificate
+"A" was absolutely necessary in order to permit aliens
+to have gotten certificate "B". These affiants all 
+know that this was the method used by the government 
+in Manila and that the holding of certificates similar
+to "B" signified an examination by the government 
+immigration officals at Manila and a prior holding of 
+a certificate similar to certificate "A". Bhagat
+Singh further to positive that this affidavit is true
+as to the method employed by the government at Manila
+in that he had lost his certificate "A" and endeavored
+to get a certificate "B" such as was held by all of 
+these seventy-three aliens, and the government informed
+him that he must have certificate "A" before he could 
+get a certificate "B" and he was compelled to return to the 
+government officers and get from the immigration authorities 
+certificate "A" that is a duplicate of the one which 
+had been given him after his examination before he could 
+secure certificates "B".
+Bhagat Singh 
+<unclear></unclear>
+Mand Singh 
+Mand Singh</p>
+<p>Witness: Herbert W. Meyers</p>
+<p>Subscribed and sworn to before me this 27th day of Aug. 1913.</p>
+<p>Herbert W. Meyers 
+Notary Public in and for the state 
+of Washington residing at Seattle.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

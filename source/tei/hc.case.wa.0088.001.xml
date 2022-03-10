@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0088.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alice McKay v. John Kevan and Della Kevan. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0088.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Petition</title>
+<date when="1887">1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<idno>Case No 5662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887">1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>McKay, Mary</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Tacoma, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>McKay, Alice</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, John</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, Della</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ronald, J. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Piles, L. H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Jones, Richard A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc><change when="2021-09" who="#cjy">edited</change>         
+<change when="2020-05" who="#lkw">encoded</change>
+<change when="2018" who="#nl">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+
+<p>In the district court of the Third Judicial District of Washington Territory, holding terms at Seattle for the Counties of King &amp; Kitsap</p>
+
+<p>In the matter of the application of Alice Mc.kay for a writ of habeas corpus for the body of Mary Mc.kay her infant daughter, } no.---- petition for writ of habeas corpus</p>
+
+<p>To the honorable Richard A. Jones, chief justice of Washington territory, and judge of the third judicial district thereof:</p>
+
+<p>The petition of Alice Mc.kay respectfully shows:</p>
+
+<p>1</p>
+
+<p>That Mary Mc.kay, an infant child of the age of eight and one half years is unlawfully detained and restrained of her liberty and from the custody of your petitioner by John Kevan and Della Kevan, his wife, at the city of Seattle, King County, Washington territory.</p>
+
+<p>2</p>
+
+<p>That according to the best knowledge and belief of your petitioner the cause or pretense of the detention of the said Mary Mc.kay is that the said John Kevan and Della Kevan claim to have taken said child, some years ago, from the sisters of charity in the said city of Seattle, and ever since said time have cared for and supported said child.</p>
+
+<p>3</p>
+
+<p>That the said detention, restraint and the unlawful keeping of said child from your petitioner are illegal, and that the illegality thereof consists in this, to-wit: 1. that your petitioner has been for <gap/> years past and now is a bona fide resident of the city of Tacoma, Pierce County, Wash. Ty. 2. That your petitioner is the mother of the said Mary Mc.kay and has a home at the said city of Tacoma, at which she is amply able to support, maintain and educate said child. 3. That your petitioner dearly loves said child, and life is
+<pb/>
+unedurable to her without the custody and comforting society of her said infant daughter. 4 That your petitioner <del>has been</del> was deprived of her said daughter, Mary Mc.kay, without her consent. 5. That the said John Kevan and Della Kevan are endevoring to teach said child to forget its said mother, or to recognize petitioner as such. 6. That the said John Kevan, and <del/> Della Kevan have refused to allow your petitioner to visit said child or to hold communication with her although your petitioner has often requested the right so to do. 7. That the said John Kevan and Della Kevan have refused and now refuse to surrender to your petitioner her said infant daughter.</p>
+
+<p>Wherefore your petitioner prays that a writ of habeas corpus be granted, directed to the said John Kevan and Della Kevan, commanding them to have the body of the said Mary Mc.kay before your honor at a time and place therein to be specified, together with the time and cause of her detention, and said writ, and that the said Mary Mc.kay be surrendered to your petitioner.</p>
+
+<p>Ronald &amp; Piles</p>
+<p>Attorneys for petitioner</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

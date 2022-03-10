@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.015">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.015</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>IN THE DISTRICT COURT OF THE UNITED STATES, FOR THE WESTERN 
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>In the Matter of Application
+of K. Gregory, M. Aloshin,
+I. Riaboff, P. Neanlin, I. 
+Emelin, L. Orloff, G. Yaki-
+moff and P. Yakimoff for a 
+WRIT OF HABEAS CORPUS</p>
+<p>No. 2646
+ASSIGNMENT OF ERROR</p>
+<p>Comes now Henry M. White, Commissioner of Immigration at Seattle, Washington, for the United
+States Government, the respondent and appellant in the above entitled cause, by Clay Allen, United
+States Attorney for the Western District of Washington, and George P. Fishburne, Assistant United
+States Attorney for said District, and says that in the record and preceedings in the cause and in
+the order and judgement of discharge, dated the 27th day of January, 1914, and field and entered in
+the Clerk's office February 2, 1914, and in the decision of the Court, made and filed the 27th day
+of January, 1914, there is manifest error in this, to-wit:</p>
+<p>I.</p>
+<p>That the Court erred in issuing the Writ of Habeas Corpus.</p>
+<p>II.</p>
+<p>That the Court erred in assuming jurisdiction of the case.</p>
+<pb></pb>
+<p>III.</p>
+<p>That the Court erred in holding that he had jurisdiction and power to discharge the petitioners,
+K. Gregory, M. Aloshin, I. Riaboff, P. Neanlin, I. Emelin, L. Orloff, G. Yakimoff and P. Yakimoff,
+when the records show they had previously had a hearing before the Immigration Board, which had
+rendered a decision excluding their admission and which decision was affirmed by the Secretary of
+Labor.</p>
+<p>IV.</p>
+<p>That the Court erred in finding that said petitioners were not "likely to become a public
+charge".</p>
+<p>V.</p>
+<p>That the Court erred in finding that he or any court has a right to say what are the matters to
+be taken into consideration by the Immigration Board in determining what aliens are "likely to
+become a public charge".</p>
+<p>VI.</p>
+<p>That the Court erred in findinng that the Immigration Board exceeded its authority in excluding
+the said petitioners on the ground that they are "likely to become a public charge", because it
+based its decision upon reasons not within the act.</p>
+<p>VII.</p>
+<p>That the Court erred in setting aside the decision of the Immigration Board, affirmed by the
+Secretary of Labor, that the said petitioners were "likely to become a public charge".</p>
+<p>VIII.</p>
+<p>That the Court erred in holding that the Immigration Board exceeded its authority in its
+decision, affirmed by 
+<pb></pb>
+the Secretary of Labor, that the said petitioners should be excluded because they were "likely to
+become a public charge".</p>
+<p>IX.</p>
+<p>That the Court erred in finding that the courts had power to intervene where the Immigration
+Board exceeded its authority, if the decision was already affirmed by the Secretary of Labor.</p>
+<p>X.</p>
+<p>That the Court erred in not finding that said petitioners had a hearing according to the Act, and
+that therefore the Immigration Board and the Secredtary of Labor did not exceed their authority in
+holding that said petitioners should be excluded because they were "likely to become a public
+charge".</p>
+<p>XI.</p>
+<p>That the Court erred in not holding that seeing and questioning the said petitioners by the
+Immigration Board was such taking of testimony as would exclude the courts from reviewing the
+decision of the Immigration Board, affirmed by the Secretary of Labor, holding that the said
+petitioners should be excluded on the ground they were "likely to become a public charge."</p>
+<p>XII.</p>
+<p>That the Court erred in finding that the Immigration Board excluded the said aliens as "likely to
+become a public charge" upon facts and reasons not within the Immigration Act.</p>
+<p>XIII.</p>
+<p>That the Court erred in finding that the Immigration Board excluded the said aliens on grounds
+not set forth in the Act.</p>
+<p>XV.</p>
+<p>That the Court erred in rendering the decree discharging the said petitioners from the custody of
+the officers of the United States and restoring them to their liberty.</p>
+<p>XVI.</p>
+<p>That the Court erred in not holding that the decision of the Immigration Board, affirmed by the
+Secretary of Labor, that the said aliens were"likely to become a public charge", was a decision on a
+question of fact that could bot be reviewed or reversed by the Court.</p>
+<p>WHEREAS, Henry M. White, Commissioner of Immigration at Seattle, Washington, respondent and
+appellant herein, prays that his assignment of errors be entered upon the record in this cause, and
+that upon the hearring of this appeal it may be adjudged by the United States Circuit Court of
+Appeals for the Ninth Circuit that the order and judgement, dated January 27, 1914, and entered
+February 2, 1914, be in all things reversed, set aside and held for naught, and that it be adjudged
+and decreed that the applicants, K. Gregory, M. Aloshin, I. Riaboff, P. Neanlin, I. Emelin, L. Orloff, 
+G. Yakimoff and P. Yakimoff, be remanded to the custody of the respondent herein to be further dealt
+with according to law.</p>
+<p>Dated at Seattle, February 4th, 1914</p>
+<p>Clay Allen
+United States Attorney.</p>
+<p>George Fishburne
+Assistant United States Attorney.</p>
+
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

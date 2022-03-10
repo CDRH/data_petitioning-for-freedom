@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0444.006">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Edward Crofery v. O. D. Butterfield. Petition for writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0444.006</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Edward Crofery v. O. D. Butterfield. Petition for writ</title>
+<date when="1889-05-10">May 10th, 1889</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6775</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1889-05">May 1889</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Jones, H. F.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Crofery, Howard</persName>
+</person>
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName>Butterfield, O. D.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Jones, H. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Hanford, Cornelius H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>King County</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0444.006"/>
+<p>
+In the District Court of the Third Judicial of Washington Territory, Holding Terms at Seattle In King County,
+
+In the Matter of the Application of
+    Edward Crofery
+                    Petition for writ
+FOR A WRIT OF HABEAS CORPUS.
+
+To the Hon. C. H. Hanford, cheif Justice of Washington Territory and Judge of the above entitled court.
+The petition of Edward Crofery respectfully shows: 
+That he, the said Edward Crofery is unlawfully imprisoned detained, confined and restrained of his liberty by one O. D. Buterfield Chief of Police and keeper of the jail of the city of Seattle in said King County Washington Territoru.
+That the said imprisonment, detention confinement and restraint are illegal and that the illegality thereof consists in this, to wit: That there is no complaint or information on file in any court of this territory charging this petitioner with the commission of any crime. 
+</p>
+<p>
+That this petitioner has been so illegaly confined, imprisoned, restra rained, and detained for the space of 52 hours, without having had the privillage of a hearing or allowed the right to furnish bail. Wherefore, your petitioner prays that a writ of Habeas corpus may be granted, directed to the said O. D. Buterfield Cheif of Police as aforesaid, commanding him to have the body of the said Edward Crofery before your Honor at a time and place therein to be specified, to do and receive what shall then and there be consideredby your Honor, concerning said Edward Crofery, together with the time and cause of his detention, and said writ; and that he, Edward Crofery may be restored to his liberty.
+
+<del>Subscribed and</del> sworn to before me this 10th day of May A. D. 1889
+    H F Jones
+Notary Public in and for Washington Territory.
+
+x
+</p>
+
+
+
+
+
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

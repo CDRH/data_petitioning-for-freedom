@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.044">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Memorandum Brief of Petitioners. Reply Brief</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.044</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Memorandum Brief of Petitioners. Reply Brief</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Herbert W. Meyers</term>
+<term>Seventy-three Hindus</term>
+<term>Jeremiah Neterer</term>
+<term>E.B.B. Brockway</term>
+<term>Frank L. Crosby</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+<pb/>
+<p>IN THE UNITED STATES
+DISTRICT COURT FOR THE
+WESTERN DISTRICT OF 
+WASHINGTON, NORTHERN 
+DIVISION.</p>
+<p>IN THE MATTER OF THE
+UNLAWFUL DETENTION OF
+SEVENTY-THREE HINDOOS.</p>
+<p>MEMORANDUM BRIEF OF 
+PETITIONERS. 
+REPLY BRIEF.</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY AT LAW
+430-431-432-433 PIONEER BUILDING
+PHONE MAIN 1278 
+SEATTLE, WASH.</p>
+<p>MERCHANTS PRINTING CO., TIMES BLDG., SEATTLE</p>
+<pb></pb>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR THE WESTERN
+DISTRICT OF WASHINGTON, NORTHERN DIVISION, MAY TERM, 1913.</p>
+<p>IN THE MATTER OF THE UNLAWFUL
+DETENTION OF SEVENTY-
+THREE HINDOO ALIENS.
+: : : 
+NO. 2532. 
+BILL OF EXCEPTIONS.</p>
+<p>BE IT REMEMBERED: That in the May term, 1913, came
+the seventy-three Hindoo aliens into the said court and im-
+pleaded the United States of America in a certain petition for
+writs of habeas corpus on the ground of the unlawful detention of
+the said aliens; a show cause order was issued out of the United
+States District Court and in due time the United States made a
+return from said order and petition for writs of habeas corpus,
+admitting and denying allegations in the petition, and the United
+States further tendered the record as taken before the Immigration
+Department; a hearing was had on the 18th day of August,
+1913, and the same was continued until the 26th day of August,
+1913, and the court took the matter under advisement; the court
+thereupon rendered a verbal opinion, after which a rehearing was
+asked for by the petitioners, and the matter came on for hearing
+on the petition of the aliens on the 16th day of September, 1913,
+after which, on September 27, 1913, the court signed and filed
+an order refusing to grant the writs and discharging the govern-
+ment on the show cause order, to all of which petitioners excepted
+as herein set forth:</p>
+<pb></pb>
+<p>-I-</p>
+<p>The learned judge erred in refusing to grant the writs 
+of habeas corpus and in refusing to release the aliens.</p>
+<p>-II-</p>
+<p>The learned judge erred in refusing to release the 
+aliens on the hearing on the show cause order on the ground that
+the government's return was not sufficient.</p>
+<p>-III-</p>
+<p>The learned judge erred in refusing to release the
+aliens and failing to grant the writs prayed for on the
+rehearing.</p>
+<p>-IV-</p>
+<p>The learned judge erred in holding the decision of the
+Immigration Department final and in failing to examine the evidence.</p>
+<p>-V-</p>
+<p>The learned judge erred in refusing to find that the
+petitioners had been deprived of their constitutional rights under
+Articles V, VI, VIII, and XIV of the Amendments to the Constitution
+of the United States.</p>
+<p>-VI-</p>
+<p>The learned judge erred in not holding that the second
+examination at Seattle was improper.</p>
+<p>-VII-</p>
+<p>The learned judge erred in refusing to hold that the
+examination at Manila was sufficient.</p>
+<p>-VIII-</p>
+<p>The learned judge erred in refusing to find that the
+warrants of arrest were not faulty and contrary to law.</p>
+<p>-IX-</p>
+<p>The learned judge erred in refusing to find that the 
+examination was not fair and impartial.</p>
+<pb></pb>
+<p>-X-</p>
+<p>The learned judge erred in refusing to find that the
+Immigration Department violated the Act of February 20, 1907.</p>
+<p>-XI-</p>
+<p>The learned judge erred in failing to find that the
+Immigration officals transcended the bound of their authority.</p>
+<p>-XII-</p>
+<p>The learned judge erred in failing to find that the
+warrants were issued contrary to law, and the entire proceeding
+was in direct violation of the Act of February 20, 1907.</p>
+<p>-XIII-</p>
+<p>The learned judge erred in failing to find that the
+Immigration officals had abused their authority and discretion</p>
+<p>-XIV-</p>
+<p>The learned judge erred in failing to find that the
+second examination was improper, after a previous proper 
+examination.</p>
+<p>-XV-</p>
+<p>The learned judge erred in failing to find that the
+aliens had never become public charges and had never entered the
+country unlawfully and were, therefore, not properly held under
+the Act of February 20, 1907.</p>
+<p>-XVI-</p>
+<p>The learned judge erred in refusing to find that there
+was no proper, material or substantial evidence showing the aliens
+to come within the confines of the Act of February 20, 1907.</p>
+<p>-XVII-</p>
+<p>The learned judge erred in refusing to find that the
+aliens had been properly examined and passed by an Immigration
+Board at Manila.</p>
+<p>-XVIII-</p>
+<p>The learned judge erred in failing to find that the
+petitioners had had no hearing on the ground of exclusion.</p>
+<p>-XIX-</p>
+<p>The learned judge erred in refusing to find that the
+aliens were not amenable to the law.</p>
+<p>-XX-</p>
+<p>The learned judge erred in failing to find that the
+positive proof furnished by the aliens as to their proper landing 
+in Manila was sufficient to overcome any presumption as outlined
+in Rule 14 of the Immigration Act.</p>
+<p>-XXI-</p>
+<p>The learned judge erred in failing to find that Section
+20 of the Immigration Act was mandatory.</p>
+<p>-XXII-</p>
+<p>The learned judge erred in failing to find that the
+Immigration authorities had not complied with Rule 22 of the
+Immigration Act.</p>  
+<p>-XXIII-</p>
+<p>The learned judge erred in failing to find that Section 
+25 of the Immigration Act had no application to the cases of
+these aliens.</p>
+<p>-XXIV-</p>
+<p>And to each and every of the rulings of the court 
+to which objection was made and exception was noted, as herein-
+before set forth, the petitioners now, within the time prescribed
+by law, present this bill of exceptions as to each and every of
+<pb></pb>
+the rulings on objections as aforesaid, move the court to sign 
+the same, to have the same force and effect as if each and every
+of said exceptions had been separately signed and sealed, and
+thereupon the petitioners pray that this bill of exceptions may 
+be signed and sealed and made a part of the record according to
+the form of the statute in such case made and provided, which
+is done accordingly this 8th day of October, 1913.</p>
+<p>Jeremiah Neterer
+District Judge.</p>
+<pb></pb>
+<p>2x No. 2532.</p>
+<p>IN THE DISTRICT COURT OF THE
+UNITED STATES FOR THE WESTERN 
+DISTRICT OF WASHINGTON, 
+NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE UNLAWFUL
+DETENTION OF SEVENTY-
+THREE HINDOO ALIENS.</p>
+<p>BILL OF EXCEPTIONS.</p>
+<p>Received a copy of
+the within this
+8th day of October,
+1913 
+E B Brockway
+Asst Dist Atty </p>
+<p>FILED IN THE
+U.S. DISTRICT COURT,
+Western Dist. of Washington
+NORTHERN DIVISION.
+OCT 23 1913.
+FRANK L. CROSBY, Clerk,
+By Emy Deputy</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY AT LAW
+430-431-432-433 PIONEER BUILDING
+PHONE MAIN 1278
+SEATTLE, WASH.
+MERCHANTS PRINTING CO., TIMES BLDG., SEATTLE</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

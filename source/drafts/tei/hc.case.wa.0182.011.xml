@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.011">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.011</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>Seattle, Washington,
+December 20, 1913.</p>
+<p> In re cases of 
+GREGORI KORNILIN,
+MOISEI ALIOSHIN,
+IVAN RIABOFF,
+JAKOB EPHIMOFF,
+PETER KEONLIN,
+and
+IVAN EMELIN.
+EX ss "Tamba Maru,"
+December 19, 1913.</p>
+<p>At a meeting of the Board of Special Inquiry, covened pursuant to the instructions of the
+Commissioner composed of 
+Inspectors T.W. Lynch (Chairman)
+J.E. Wilkes, and A.T. White.
+Stenographer Trent Doser
+Interpreter Henry G. Gerome</p>
+<p>Held for Special Inquiry by Inspector A.T. White as L.P.C.</p>
+<p>Alien sworn, testified as follows: Name is Gregori Kornilin; Russia, Russian; male, aged 28
+years; married; reads and writes; farm laborer; last permanent residence, Simbirsk, Krasnoie,
+Russia; nearest relative in Russia, father, Ivan, Kornilin, Simbirsk, Krasnoie, Russia; destined 
+to Vancouver, Canada, but they would not let me land so I want to go to Portland, Oregon; has
+cousin, Pavel Semeionoff, care of Stancheff Brothers. 75 North Third Street Portland, Oregorn;
+ticket to Vancoiver via Victoria; $65.00 in gold; paid own passage; never in the United States.</p>
+<p>Q  Have you a passport?    A  Yes.  Presents passport dated November 24, 1913, issued at
+Valdivastok, Russia, permitting the bearer to leave Russia.
+Q  When did you leave your home in Russia?  A  On the 17th of October I left my village.
+Q  Where did you start for?   A   I wanted to go to Canada.
+Q  Did you buy a ticket direct to Canada from your home?    A  I bought my ticket in Japan.
+Q  When you left your home in Russia did these eight other boys who are on this boat leave at the
+same tim eiwth you?   A  We all left together from the same village.
+Q  All going to Canada  A  All to Canada.
+Q  Why didn't you get your passport before you left home?   (Interpreter explains that all passports
+are issued at Valdivastok and al applicants appear there for same.)
+Q  Have you any relatives in Canada?    A  I have a second cousin.
+Q  How did you happen to decide to go to Canada?    A  The reason I wanted to go to Canada was
+because we had all received letters from Canada stating that they were doing well there and that we
+had better come over here too.
+Q  Did you receive any letters from Portland?   A  Same thing.
+Q  Did he says he was doing well too and asked you to come over?    A  He says <pb></pb>
+times are very good here and said you can get work here easy.
+Q  Why did you want to go to Canada instead of the United States?   A  We understood it was nearer
+and also that they did not request any money to be shown.
+Q  Why did you not land in Canada?  A  We didn't know why; they would not let us.
+Q  What did they tell you?  A  No more poeple are allowed to enter because there are too many out of
+work here.
+Q  How long since you had a letter fro you cousin in Portland?  A  I received a letter about the
+first of October.
+Q  Have you that letter with you?   A  No.
+Q  That man in Portland is a real blood cousin is he?   A  He is my cousin; my father and his father
+are brothers.
+Q  Have you any work promised you in this country?  A  He says you can get plenty of work.
+Q  Did he say he had a position for you - a job?    A  No, he didn't say anything of that sort.
+Q  Have you ever been in any charitiable or penal institution?  A  No.
+Q  Do you believe in polygamy?  A  No.
+Q  Do you belong to any societies?  A  No.
+Q  Do you believe in organized government?  A  I beleive in law.
+Q  Do you believe that the form of government now existing in Russia is all right?  A  The form of
+Government is all right but somehow we have not got enough land.
+Q  Do you beleive in killing the officers because they are government officers?   A  No, we could
+not do that.
+Q  Do you believe in the teachings of the anarchists and annihilationists of Russia?    A  I do not
+know what anarchists are.
+Q  Did you ever hear of people are banded together and throw bombs and try to kill the officials of
+Russia?   A  I have not heard of it and I do not believe it.
+Q  What would you do if you were landed in this country?    A  I will get a rooming house and then
+look for work.
+Q  What kind of work do you think you could do?   A  I can do all the farm work.
+Q  You are not familiar with farm work as it is done in this country, are you?  A  I have an idea
+that it is about the same.
+Q  Have you ever applied for admission to the United States?    A  No.
+Q  And the only kind of work you can do is farm labor?  A  No, besides farm labor I understand
+common labor too.
+Q  What kind of work did you do in Russia other than ordinary farm labor?   A  I worked in the woods
+and I worked in the mines at spare times.
+Q  What kind of mines?  A  Coal mines.
+Q  There is no one else in the United States you know except the man in Portland    A  No, Oh, there
+is a lot of others, about twenty friends around Portland, but no relatives.
+Q  You don't know their names or addresses?   A  They all work in the same place and they all live
+in the same place.
+Q  BY INSPECTOR WILKES: Have you got anyone dependent upon you for support in Russia?   A  I have a
+wife and two children. They do not have to rely on me for support: my father and brother could
+support them if I could not.
+Q  What wages do you expect to earn in the United States?   A  I do not know, I think about a couple
+dollars a day.
+<pb></pb>
+Q  Are both of your children in Russia?   A  Yes, sir.
+Q  BY INSPECTOR LYNCH: Have you any property in Russia?   A  Yes, I have a home and nine acres of
+land. I can get about $800 for it.
+Q  Your cousin in Portland, what is his business?   A  He works on a railroad in the woods.
+Q  He has no property that you know of?   A  I don't know he only lives here a year.</p>
+<p>The applicant is an ignorant peasant of average intelligence and of good physique.</p>
+<p>MOISEI ALIOSHIN sworn, testified as follows: Name is Moisei Alioshin; Russia, Russian male, aged
+38 years; married; reads and writes; farm laborer; last permanent residence, Simbrisk, Krasnoie,
+Russia; nearest realtive in Russia, wife, Axinia, residing at Simbirsk, Krasnoie, Russia; destined to 
+Vancouver, Canada, but they would not let me land so I want to go to Portland, Oregon; has no relatives 
+in U.S.; ticket, produces order for passage from Victoria to Vancouver; money, $46.00; paid own passage; 
+never in the United States.</p>
+<p>Q  Have you a passport?  A  Yes, presents passport dated November 24, 1913, issued in
+Valdivastok, Russia, permitting the bearer to leave Russia.
+Q  When did you leave your home in Krasnoie?    A  About the first of November, 1913.
+Q  And you bought a ticket to where?    A  I bought a ticket from my village to Valdivastok and from
+there to Yokohama and from there to Vancouver.
+Q  Could you not buy a ticket in your home village direct to your destination?  A  No.
+Q  Did you leave home with the other eight Russians who are now on this boat?   A  The whole bunch
+went together.
+Q  Are any of them related to you?  A  No.
+Q Why did you start fro Vancouver rather than the United States?    A  Because I have a brother in
+Vancouver.
+Q  He advised you to come?  A  Yes he advised me.
+Q  Did you ever have any letters from any friends in the United States?   A  Yes from Portland
+letters saying please come you will be better off here than in the old country.
+Q  Why did you not land iat Victoria?   A  I don't know why.
+Q  They told you you could not land?    A Yes, they told me so.
+Q  Did they say you must go back to Russia or Japan?    A  They told me to go to Seattle. He only
+questioned one of us.
+Q  Which one?   A Jakob Ephimoff.
+Q  Have you any property in Russia?   A  I have a house and some land.
+Q  How much land?   A  I have land enough for one soul, nine acres.
+Q  Were you able to make a living off your nine acres?   A  No, it is not enough land. It is very
+hard to make a living.
+Q  How many persons are dependent on you for support?   A  Wife and two sons.
+Q  How will they make a living while you are away?   A  I left them enough bread for a year and $100
+in cash.
+<pb></pb>
+Q  What would you do if you were landed?    A  I think I have enough money until I go to work. If
+not all i have to do is to send a telegram to my brother in Vancouver and he will send me money.
+Q  What kind of work will you do?   A  I can work also in the woods and in gold mines.
+Q  Do you believe in polygamy?    A  No.
+Q  Have you ever been an inmate of any penal or charitable institution?   A  No.
+Q  You are not crippled or deformed in any way?   A  No.
+Q  Do you beleive in government by law?   A  Yes.
+Q  Do you belong to any societies?   A  All I belong to is the village community.
+Q  Do you beleive in the teachings of anarchy?   A  I do not kknow what it means.
+Q  Do you not know that in Russia there are certain persons banded together to overthrow the
+government and make attempts from time to time to overthrow the officers?   A  During the Japanese
+war there was all kinds of murders.
+Q  Didn't you ever hear of the anarchists who throw bombs and try to kill Russian officials?    A  I
+live in a small village, and I never hear of it. We thought there was something like that in the
+cities.</p>
+<p>The applicant is of good physique, or average intelligence, but apparently not very well
+informed.</p>
+<p>IVAN RIABOFF sworn, testified as follows: Name is Ivan Riaboff; Russia. Russian; male, aged 38
+years; married; reads and writes; farm laborer; last permanent residence, Krasnoie, Simbirsk,
+Russia; nearest relative in Russia, wife Anna, Krasnoie, Simbirak, Russia; destined to Vancouver,
+Canada, but they would not let me land so I want to go to Portland, Oregon; has brother-in-law,
+Stephen Philatoff, care of Stancheff Brothers, 73 North Third Streek Portland, Oregon; produces
+order for passage from Victoria to Vancouver; $50.00; paid own passage; never in the United States.</p>
+<p>Q  Have you a passport?   A  Yes, presents passport dated November 24, 1913, issued at
+Valdivastok, Russia, permitting the bearer to leave Russia.
+Q  When did you leave your home village?    A  About 50 days ago.
+Q  These other men left at the same time?   A  All together.
+Q  All going to Vancouver?   A  Yes.
+Q  You bought a ticket to Valdivastok then to Yokohama and then to Vancouver?   A  Yes, sir.
+Q  Have you any relative in Vancouver or Canada?    A  Yes, sir. An uncle - mother's brother - in
+Vancouver.
+Q  Any relative in the United States?   A  I have my wife's brother.
+Q  Have you any property in Russia?   A I have three acres of land and a house and some cattle.
+Q  How many people dependent on you for support?    A  I have my wife a 17 year old son and a 15
+year old daughter.
+Q  How will they make a living now that you have left them?   A  I left them plenty of corn that
+they could sell and realise a few hundre dollars besides corn for their own consumption.
+<pb></pb>
+Q  What would you do if you were landed from this boat?   A  Any kind of labor I can get.
+Q  Where would you go?   A  Go to Portland.
+Q  Do you believe in polygamy?   A  I do not.
+Q  Were you ever an inmate of any charitable or penal institution?   A  No.
+Q  Do you believe in organised government?   A  Yes, sir.
+Q  Are you affiliated with any anarchist associations?   A  I do not understand what that is.
+Q  Do you know that in Russia there are certain associatiosn which are banded together for the
+purpose of killing government officials?    A  I have heard of that.
+Q  You do not belong to any of them or do not believe in that practice?   A  No.
+Q  Are you in good health?   A  Good health.
+Q  Not crippled or deformed in any way?   A  No.</p>
+<p>The applicant is of average intelligence but not very well informed. he is of good physique.</p>
+<p>JAKOB EPHIMOFF sworn, testified as follows: Name is Ivan Riaboff; Russia; Russian; male, aged 34
+years; married; reads and writes; farm laborer; last permanent residence, Grasnoie, Simbirak,
+Russia; nearest relative in Russia, wife Agaphia, Krasnoie, Simbirsk, Russia; destined to Vancouver,
+Canada, but they would not left me land so I want to go to Portland, Oregonl has cousin Alexei
+Kalimoff, care of Stancheff Brothers, 73 North Third Street Portland, Oregon; has order for passage
+from Victoria to Vancouver; $52.20; paid own passage; never in the United States.</p>
+<p>Q  Have you a passport?   A  Yes, presents passport dated November 24 1913, issued in
+Valdivastok, Russia, permitting the bearer to leave Russia.
+Q  Have you ever applied for admission to the United States before?   A  No.
+Q  You left your home village in Russia with these other eight Russians who are now detained?   A  I
+left with the rest of them.
+Q  And you bought a ticket to Valdivastok, thence to Yokohama, thense to Vancouver, B.C.?   A  Yes,
+sir.
+Q  Why were you going to Vancouver B.C.?    A  I have a cousin there.
+Q  Why did you attempt to go to Canada rather than the United States?   A  Well my relatives wrote
+to me from Portland and Vancouver and we thought that that was the nearest and would be less
+expense.
+Q  Why did you not land at Victoria?    A  They would not let me land.
+Q  Why?   A  I don't know why.
+Q  What did they tell you?   A  Well, some officer told me that they didn't want any laborers there.
+There is nowork here; go to Seattle.
+Q  Did he tell you that you would have to go back to Russia?    A  No.
+Q  Well did he tell you you could go to Canada from Seattle?    A  No, he did not say so.
+Q  Did you have an interpreter in Russian to talk?   A  There was a passenger who spokane Russian.
+Q  What kind of work did you follow in Russia?   A  I worked on my land and also worked in the
+woods.
+<pb></pb>
+Q  How much land have you?   A  Sven and a half acres.
+Q  How much of a family have you dependent upon you for support?    A  I have a sone 17 years old
+and a daughter 17 years old and a wife.
+Q  Where did you get the money to come to this country?   A  Sold cattle and worked in the woods and
+shold some corn.
+Q  You do not know how to do thae kind of work you would be required to do in this country, do you? 
+A  I am not afraid of the work.
+Q  What reason have you to believe that you could get work?   A  They wrote to us there is plenty of
+work here.
+Q  When was that?   A  About two months ago?
+Q  Who wrote you?   A My cousin in Portland and my cousin in Vancouver.
+Q  Did they say they had a job for you?   A  No, he said there was plenty of work you can get.
+Q  Have you ever been an inmate of a penal or charitable institution?   A  No.
+Q  Do you believe in the teachings of the amarchists?   A  No,
+Q  Do you know what I means by anarchy, do you?   A  So far as I am concerned, I don't know what it
+is; we don't study it.
+Q  Do you know there are people in Russia banded together to make attempts to kill officials because
+of their official character?    A  I do not understand that.
+Q  Never heard of it?   A  No.
+Q  You were refused permission to land in Canada by the Canadian Immigration officers, were you not?
+A  Yes.
+Q</p>
+<p>The applicant is of good physique, good intelligence but has no education and is not very well
+informed.</p>
+<p>PETER NEONILIN sworn, testified as follows: Name is Peter Neonilin; Russia; Russian; male, aged
+34 years; married; reads and writes; farm laborer; last permanent residence, Krasnoie, Simbirsk,
+Russia; nearest relative in Russia, wife Helen, Krasnoie, Simbirsk, Russia; destined to go to
+Vancouver, Canada, but they would not let me land so I went to go to Portland, Oregon; has cousin
+Alexei Kalimoff, care of Stancheff Brothers, 73 North Third Streek Portland, Oregon; has order for
+passage from Victoria to Vancouver; $46.00; paid own passage; never in the United States.</p>
+<p>Q  Have you a passport?   A  Yes, presents passport dated November 24, 1913, issued at
+Valdivastok, Russia, permitting the bearer to leave Russia.
+Q  Have you ever applied for admission to the United States before?   A  No.
+Q  You are traveling with the other eight Russians who are now on this boat?    A  Yes.
+Q  Are you related to any of them?   A  No.
+Q  Is Jakob Ephimoff related to you?    A  He is a third cousin.
+Q  When you left home you bough a ticket from your village to Valdivastok, thence to Yokohama,
+thence to Vancouver, B.C.   A  Yes.
+Q  Neither you or any other members of the party, so far as you know, cane out with the intention of
+coming to the United States?    A  We all was to go to Canada and if we didn't like it after a while
+we would come here.
+<pb></pb>
+Q  Why did you attempt to go to Canada rather than the United States?   A  They gave us tickets to
+Canada.
+Q  Didn't you ask for tickets to Canada?    A  I was not going to Canada. They sold me a ticket to
+Canada.
+Q  You wanted to go to Canada, didn't you?   A  I don't know, I have no relatives there, All I have
+is friends there.
+Q  You wanted to go there didn't you? You started for there when you left home?   A  We were all
+going together.
+Q  When you left your home in Russia you started to go to Vancouver, B.C., didn't you?   A  I was
+going to Canada.
+Q  What was your reason for going to Canada?    A  I was going with my neighbors you know.
+Q  Have you any friends or relatives in Canada?   A  Just my neighbors, no relatives.
+Q  Did you reeive any letters from any of them>   A  From Portland?
+Q  Yes.   A  Yes, I received a letter from Portland.
+Q  What did those letters contain in the way of suggestiosn or information?   A  My counsin wrote to
+my father and told him that if I wanted to come I could get lots of work, and if he needs it I can
+give him a little money until he gets to work.
+Q  You are not familiar with the means of work which are open to laborers in this country are you? 
+A  I think according to the letters that the work is the same.
+Q  Were you ever confined in a charitable or penal institution?   A  No,
+Q  Do you belong to any anarchistic societies?   A  No.
+Q  You know what they are?   A  This is the first time I hear the word anarchist.
+Q  You know what annihilationist means?   A  No.
+Q  Do you know that in Russia there are certain people banded together who believe in the killing of
+government officials?   A  Never heard of it.
+Q  Your cousin in Portland is a common laborer?   A  Yes, sir.
+Q  Have you any property in Russia?   A  I have a cow a horse a house and nine acres of land.
+Q  How many people dependent upon you for support?   A  Wife and five children.
+Q  Where did you get the money to come to Canada - to buy your ticket?   A  I had my own money.
+Q  Where did you get it?    A  I sold some cattle andgrain.</p>
+<p>The applicant is not very bright, not very well informed, apparently honest in his statements,
+and of good physique.</p>
+<p>IVAN EMELIN sworn, testified as follows: Name is Ivan Emelin; Russia; Russian; male, aged 39
+years; married; reads and writes; common laborer; last permanent residence, Krasnoie, Simbrisk,
+Russia; nearest relatives in
+<pb></pb>
+Russia, wife Alexei, Krasnoie, Simbirsk, Russia; destined to Vancouver, Canada, but they would not
+let me land so I want to go to Portland, Oregon; has third cousin, Engraph Lipatoff, care of
+Stancheff Brothers, 73 North Third Street Portland, Oregon; has order for passage from Victoria to
+Vancouver; $46.00; borrowed money to pay passage; never in United States before.</p>
+<p>Q  have you a passport?   A  Yes, presents passport dated November 24, 1913, issied at
+Valdivastok, Russia.
+Q  Have you ever applied for admission to the United States before?   A  No.
+Q  You were traveling with this party of nine and were refused landing at Victoria?   A  Yes.
+Q  Have you any property in Russia?   A  I have a house a cow and nine acres of land.
+Q  Family?   A  I have a wife.
+Q  No children?   A  No.
+Q  Do you believe in polygamy?   A  No.
+Q  Have you ever been an inmate of any charitable or penal institution?   A  No.
+Q  Do you believe in anarchy?   A  No, I don't know what it is.
+Q  Do you not know that in Russia there are people banded together who believe in killing government
+officials because of their official character?   A  I have heard that somewhere those things occur.
+Q  You do not believe in it?    A  No.
+Q  What would you do if landed from this boat?   A  I will go and look for work.
+Q  Suppose you can't find work?   A  I ought to be able to get a job.
+Q  Supposed there is no job?    A  We will wait two or three days. Any how we will be able to feed
+ouselves until spring.
+Q  Do you know what living costs in this country?   A  Wellit would cost about $3.50 a week. We can
+also write to our friends. They will either write and send money or come themselves.
+Q  Are you familiar with the lines of work which a laborer has to do in this country?   A  I heard
+they are about the same.
+Q  What kind of work did you do in Russia?  A  Worked on my land <add>and</add> as a laborer.</p>
+<p>The applicant is of good physique, rather dull and ignorant, but apparantly honest.</p>
+<p>CASES DEFERRED.</p>
+<p>I hereby certify that the foregoing is a correct transcript of the testimony given in these
+cases.</p>
+<p>Trent Doser
+Stenographer.</p>
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

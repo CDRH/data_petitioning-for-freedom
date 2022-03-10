@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0088.023">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alice McKay v. John Kevan and Della Kevan. Testimony</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0088.023</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Testimony</title>
+<date when="1887">1887</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<idno>Case No 5662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1887">1887</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>McKay, Mary</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Belltown, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>McKay, Alice</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, John</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, Della</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ronald, J. P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Gilman, L. C.</persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc><change when="2021-09" who="#cjy">edited</change>         
+<change when="2020-05" who="#lkw">encoded</change>
+<change when="2018" who="#nl">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>MARY KEEVIN. called on behalf of the respondent. after being duly sworn. testified as follows:</p>
+
+<p>Q. [Gilman] Mary. where do you live? A. Belltown.</p>
+
+<p>Q. With whom do you live? A. With Mrs. Keevin.</p>
+
+<p>Q. This lady right here? A. Yes sir.</p>
+
+<p>Q. How long have you lived there. ever since you can remember? A. Yes sir.</p>
+
+<p>Q. Do you recollect of ever living with any one else? than Mrs. Keevin? A. No sir.</p>
+
+<p>Q. How does Mrs. Keevin treaat you?</p>
+
+<p>Q. RONALD: We object. it is incompetent in this case.</p>
+
+<p>The COURT: She can state. Exception allowed.</p>
+
+<p>A. Good.</p>
+
+<p>Q. Treats you kindly? A. Yes sir.</p>
+
+<p>Q. Furnishes you with plenty to eat and ware? A. Yes sir.</p>
+
+<p>Q. Do you go to school? A. <del/> Yes sir.</p>
+
+<p>Q. Where do you go to school? A. Belltown.</p>
+
+<p>Q. Would you like to be taken away from Mrs. Keevin? A. No sir.</p>
+
+<p>RONALD: We object.</p>
+
+<p>The COURT: I would like to know what she thinks about it. herself.</p>
+
+<p>RONALD: We except</p>
+
+<p>The COURT: Exception allowed.</p>
+
+<p>Q. Would you like to be taken away from Mrs. Keevin and go with this woman here?</p>
+
+<p>A. I would not go with her.</p>
+
+<p>Q. Who is that woman, do you know? A. No sir</p>
+
+<p>Q. Do you want to be left with Mrs. Keevin? A. Yes sir.</p>
+
+<p>CROSS-EXAMINATION:</p>
+
+<p>Q. [Ronald] Mrs. Keevin has taught you to like her has she? A. Yes sir.</p>
+
+<p>Q. She dont want you to like this woman here at all? A. She never said anything to me to like another woman<del/>.</p>
+
+<p>Q. She dont want you to know but that she is your mama does she? If that other woman was your mother you would like her? Mrs. Keevin has talked to you a good deal about the other woman has she not? A. No sir.</p>
+
+<p>Q. Did she ever let you come in to see the other woman? A. Yes sir.</p>
+
+<p>Q. Never sent you out of the room? A. No sir.</p>
+
+<p>Q. Always let you get on the other woman's lap did she? - I did not get on the other woman's lap.</p>
+
+<fw>[Mary Keevin, 20. <gap/> 76--119.</fw>
+
+<pb/>
+
+<p>Q. [Gilman] Why did you not want to get on the other woman's lap?</p>
+
+<p>The COURT: That is not material.</p>
+
+<p>-------0-------</p>
+</div1>
+</body>
+</text>
+</TEI>

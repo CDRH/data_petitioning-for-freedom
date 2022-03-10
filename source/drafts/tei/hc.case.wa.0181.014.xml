@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.014.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Response</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.014</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Affidavit of Ellis DeBruler</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-09">August 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Jeremiah Neterer</term>
+<term>Seventy-Three Hindoo Aliens</term>
+<term>Moola Singh</term>
+<term>Ram Singh</term>
+<term>Ali Bux</term>
+<term>Baggu Khan</term>
+<term>Tom Yong</term>
+<term>Ellis Debruler</term>
+<term>Herbert W. Meyers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Manila, Philippine Islands</term>
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Hong Kong</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>IN THE UNITED DISTRICT COURT FOR THE WESTERN DISTRICT 
+OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE 
+UNLAWFUL DETENTION OF 
+SEVENTY-THREE HINDOO
+ALIENS.</p>
+<p>) ) ) )</p>
+<p>2532</p>
+<p>TO THE HONORABLE JEREMIAH NETERER, 
+UNITED STATES DISTRICT JUDGE, 
+SEATTLE, WASHINGTON;</p>
+<p>SECTION 20.</p>
+<p>It is an admitted fact that the aliens are held 
+on warrants of deportation issues by authority of 
+Section 20. It will be noted that Section 2 of the Act 
+states that persons likely to become a public charge are 
+subject to be excluded, but under the admission and 
+authority of the Gonzales case, 192 U.S. 1, and the 
+case of Suekichi, 199 Fed. 750, Section 2 is not to be 
+applied to alien residents, but only alien immigrants.</p>
+<p>These aliens are held under authority of the 
+deportation warrants and these warrants give as the only 
+ground for holding and deporting said aliens in that they</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY 
+430-3 PIONEER BUILDING 
+SEATTLE</p>
+<pb></pb>
+<p>were likely to become public charges at the time of their 
+entry, and those warrants have taken the place of the 
+warrants of arrest (see heading at top of warrants) and
+the authorities hold that these warrants must be 
+substantially correct and must be taken at their face value, 
+and if errors have been made of a substantial nature, 
+that the alien should be released on habeas corpus.</p>
+<p>The courts have gone to the extent of holding 
+that where the place where the aliens was to be deported 
+was not stated in the warrant, but that there was a 
+mere statement in said warrant that the alien should 
+be deported to the country from whence he came, that 
+that was insufficient, and the alien should be released 
+on habeas corpus.</p>
+<p>Attention is called to the affidavit of the 
+interpreter attached hereto, who was present when about 
+half the number of aliens in this case were examined 
+by the immigration board at Manila, and passed, and this 
+interperter furnishes letters from government officials,
+showing that he was the official interpreter. He testifies 
+that these men were lawfully admitted at Manila 
+and that they could not have received the certificates 
+attached hereto, which it is an admitted fact in the 
+record that all of the aliens possessed, unless they had 
+first had a certificate signed by the immigration 
+officials in Manila, which were presented to the aliens 
+after a proper examination and an admission at a regular 
+port of entry.</p>
+<pb></pb>
+<p>In all the cases that have come before the 
+courts, it has been shown that the alien ran across the
+border at a place other than a regular port of entry or 
+that the alien testified falsely to be admitted, or 
+that in some surreptitious or clandestine manner the 
+alien unlawfully entered. In this case there is not 
+a word or a line of the testimony to show any unlawful 
+entry, but there is a testimony to show that they went 
+to Manila in a boat operated by one of the regular steamship
+lines, and the court will take judicial notice
+of the fact that these big ocean liners do not land 
+their passengers at some hidden shore, but that they 
+are met before landing at the port of Manila by the
+government officers and not a man is permitted to land
+until after he is inspected and examined by the immigration 
+and custom officers. They testified they were 
+examined regularly and passed, and described, apparently
+to the satisfaction of the government agents at Seattle, 
+as they did not question the fact of the examination, 
+that they had received an examination similar 
+to the one received in Seattle, and had been passed
+as entitled to enter, from six months to three years ago 
+at the port of Manila.</p>
+<p>It will be noted by referring to Section 12 
+that the master or commanding officer of a steamer is 
+required to make a report and to pay $4.00 head tax for
+every man on board who comes within the requirements, and 
+about midway of that paragraph it is stated that no 
+master of any vessel shall be granted clearance papers</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY 
+430-2 PIONEER BUILDING 
+SEATTLE</p>
+<pb></pb>
+<p>for his vessel until he has deposited such list or lists 
+with the collecter of customs, and further that the 
+collecter of customs with whom such list has been 
+deposited, in accordance with the provisions of 
+this section, shall promptly notify the commissioner 
+general of immigration. This is for the purpose of 
+having alines who are about to land, examined properly
+by the proper board of immigration officers. After 
+they were examined, as appears in the affidavit attached 
+hereto, of the interperter, they are given the certificate 
+marked "A", which it will be noted is signed 
+by the immigration officals who conducted the examination, 
+and that this certificate of identification, 
+which shows proper admission and examination is then 
+surrendered for the certificate marked "B", which it is 
+an admitted fact, were held and surrendered to the 
+government in every case, and special attention is 
+called to the same interpreter's affidavit, in which he
+tells of having lost his original certificate which showed 
+his having been admitted, and having to get a duplicate, 
+in order to get the certificate which was held and surrendered 
+to the government by each one of the aliens
+in this hearing. The government not only has failed 
+to show an unlawful entry, but lawful entry, so far as 
+it was in the power of the aliens to show, has been 
+shown. It is preposterous to suppose that if the alien 
+would send a cable to the immigration officer at Manila 
+that he would look at his said records and tell said 
+alien that his name was on the manifest showing him to</p>
+<pb></pb>
+<p>have lawfully arrived at Manila on a certain date, but 
+the government, owning and controlling the records, 
+could have gotten that information without any 
+difficulty. The records are in the possession of the government, 
+and it would tke this Honorable Court, or some 
+other court, in order to secure this information from 
+the government from their official records.</p>
+<pb></pb>
+<p>It seems conclusive that by reference to Section 
+36, page 17 of the immigration pamphlet, where it provides 
+"that all aliens who shall enter the United States except 
+at the seaports thereof, or at such place or places 
+as the Secretary of Labor may from tiem to time designate, 
+shall be adjudged to have entered the country unlawfully
+and shall be deported as provided by Sections 
+20 and 21 of this Act," especially inasmuch as the same 
+section provides that the provision shall not effect the 
+power of the commissioner general to regulate the entry 
+and inspection of aliens along the borders of Canada 
+and Mexico. After setting out in this section what the 
+government deems to be an unlawful entry, and the aliens 
+having all testifed and show evidence of an admission 
+at Manila, and an examination, and as there is a total 
+lack of evidence showing any kind of an unlawful entry, 
+and further, inasmuch as the government did not demand 
+a head tax from these aliens on entering Seattle, and 
+as paragraph "E" of subdivision 3, page 22 of the pamphlet
+states that a head tax is not demanded from aliens 
+who have been lawfully admitted to the United States who</p>
+<p>HERBERT W. MEYERS 
+ATTORNEY 
+430-3 PIONEER BUILDING 
+SEATTLE</p>
+<pb></pb>
+<p>later shall go entransit from one part of the United 
+States to another, it seems doubtful to us if the court 
+can find that the government has complied with section 
+20 of the law, and especially do these aliens not come 
+within the provision of Section 2, as subdivision 4 of 
+rule 14, page 33 of the pamphlet states that a failure 
+to present a certificate shall be deemed presumptive 
+evidence that an examination has not occured unless 
+he shows that his presence in the country is lawful or 
+that the limitation of the statute has expired, and 
+certainly this provision is complied with when the alien 
+has testified under oath that he was lawfully admitted 
+and passed at Manila and resided there after such lawful 
+admission for from six months to several years, in view 
+of the faact that he was duly sworn and could be convicted 
+of perjury for falsely swearing, and in view of the further
+fact that the courts have held that alien residents 
+have the same protection and have the same status as 
+citizens in these matters, and it will not be denied that
+the oath of a citizen or an alien resident, as the courts 
+have unanimously decided these men to be, who has testifed 
+definitely and positively of the lawful examination 
+and admission, that that when connected with the fact
+of the furnishing of a certificate only granted after 
+the surrender of a certificate signed by the immigration 
+official, showing a proper examination, and when connected 
+with the further fact that the interpreter who has 
+testified herein, who is a resident of the city of 
+Seattle, testifies that he was present when more than half
+<pb></pb>
+of these men were examined by the immigration board at 
+Manila, it seems preposterous to permit the government
+to say that these men entered the country unlawfully.</p>
+<p>Subdivision 2 of rule 14 page 33, states that
+a certificate shall be furnished as evidence of regular
+entry, meaning that if this certificate is not furnished, 
+other evidence should be furnished, which has been in 
+this case, and further, in subdivision 3, the alien
+producing a certificate shall be admitted without further
+examination, indicating that the certificate simply 
+did away with the examination altogether and failure
+to have a certificate meant that the alien would have
+to go through another grilling and tedious examination.</p>
+<p>Attention of the Court is called, however, to 
+the fact that this entire supposed presumption as to 
+the failure to have a certificate is not law, and is simply
+a ruling of the department, which is in no sense 
+controlling upon the court. As to the only other portion
+of section 20, which is material herein, and which 
+reads as follows, "such as become public charges from 
+causes existing prior to landing", it is plain to see
+is entirely different language from that used in Section 
+2, which provides for a liklehood to become a charge, and 
+that the language in Section 20 is mandatory and means 
+that they must have become charges in order to come within
+Section 20.</p>
+<p>Then when we turn to page 36 of the pamphlet,
+the 7th line from the bottom, of the fine print, and find
+that the secretary has ruled as follows, "usual instances
+in which an alien becomes a public charge are where he 
+<pb></pb>
+enters a public alms house, or hospital or is sent to
+jail" that the court will readily see that no evidence 
+has been produced, and that the petition for the writ 
+should be granted, as the courts have held that where no 
+evidence is produced on a material point, that the court
+must discharge the alien. When the Secretary cited instances
+when an alien becomes a public charge he certainly
+meant to say that some happenstance out of the 
+ordinary must have occurred to the alien in order to 
+make him a public charge. Then by referring to page 37 
+of the pamphlet, subdivision cites "Proof in cases 
+which have become public charges from prior causes, 
+physical or mental" and then the Secretary states what 
+should be found in the case of an alien who has become 
+a public charge as follows, "an explicit statement that
+the alien is a public charge, where and how, and if in 
+an institution, the date of admission thereto". And 
+further, "wether or not the disabilities described 
+constitute the sole causes why the alien is a public charge",
+and "wheter the causes which render the alien a public 
+charge, existed prior to landing".</p>
+<p>Subdivision 4, page 37 shows that this procedure is 
+the necessary procedure in these warrant hearings under
+Section 20, as is this case. Then at the bottom of 
+page 38, this language is found, "but as to aliens who
+have become public charges from causes existing prior
+to landing, etc." and then further in that same paragraph
+we find the language, "removal from the institution", 
+<pb></pb>
+indicating that the Secretary did not believe that the 
+alien had become a public charge unless he was in some 
+institution, either a jail, an alms house, or workhouse, 
+or in some poor farm.</p>
+<p>UNLAWFUL ENTRY</p>
+<p>By referring to the bottom of page 29, the fine 
+print, this language is found, "any alien who enters the 
+United States, across the Canadian border at any other
+place than those named in subdivision 1 of this rule as 
+a port of entry is subject to deportation under Section 
+20, etc", showng again that the government admits that
+aliens entering at Manila or any other designated port
+of entry, that this is a sufficient showing that there
+ws no unlawful entry.</p>
+<p>Unlawful entry was an entry at night, avoiding 
+and inspection, in re. Dick, 174 Fed. 674</p>
+<p>Unlawful entry was clandestine entry, in re. 
+Prentiss 192 Fed. 467.</p>
+<p>Unlawful entry was falsely representing self
+to be a citizen, in re. Williams, 186, Fed. 476.</p>
+<p>An alien who becomes a charge within a year
+shall be deemed to have came in violation of law, in 
+re. Dick, 174 Fed. 674.</p>
+<p>Entering surreptitiously is violation of Sec.
+20, in re. Dick 176 Fed. 998.</p>
+<p>Falsely represents himself to be a citizen, in 
+re. Williams 186 Fed. 479.</p>
+<p>LAWFUL ENTRY SHOWN ALMOST CONCLUSIVELY.</p>
+<p>The record will show that in each case the
+<pb></pb>
+passport from the British government was handed to the 
+immigration inspector at Seattle and surrendered to the 
+government by the alien, and that the said passport was
+returned to the said alien, and one of these passports
+is attached hereto, and it will be noticed that on the 
+back thereof is stamped, "landed at Manila January 9,
+1912, Immigration division", and that said stamp bears
+an American eagle, and was doubtless stamped at the 
+time of this man's examination by the immigration board 
+at Manila. These passports are all in the possession 
+of the aliens, as the government did not desire to keep 
+the same, but the fact that they were presented to the 
+government at Seattle will not be denied by counsel for 
+the government, and it seems with that stamp on the 
+passports, that an unlawful entry at Manila can hardly be
+consistently urged. </p> 
+<p>Further, the blue and pink papers which are
+attached hereto were given to the aliens by the trans-
+portationcompany and these in each instance, were also
+presented to the government, and returned to the aliens
+by the immigration inspector, showing that they took 
+passage on a regular line of a steamships subject to the 
+immigration laws, and did not approach the shores of 
+Manila in a launch or in a row boat for the purpose of
+making a surreptitious entry.</p>
+<p>If there was a clandestine or surreptitious 
+entry in these cases, how was it that the government got 
+$4.00 head tax from each man, which is an admitted fact
+in the record?</p>
+<p>If not once lawfully admitted, then the government
+<pb></pb>
+would have excluded or attempted to exclude the 
+aliens under Section 2, as they would then have been 
+subject to that Section, and the government admits 
+a priro lawful admission by endeavoring to take the
+aliens under Section 20.</p>
+<p>The Court will take judicial notice of the
+fact that the head tax money goes in the immigration 
+fund and is collected at the time of the examination 
+by the immigration board.</p>
+<p>RETURN SHOULD BE QUASHED.</p>
+<p>The petition sets up the faact that no evidence 
+has ever been introduced showing the aliens to be
+within Section 20, and as the government in its
+return has not set up any evidence and as the record
+does not show that there was any evidence, the return 
+should be quashed.</p>
+<p>WARRANTS SHOULD BE QUASHED</p>
+<p>As the warrant does not substantially comply
+with law and particularly with Section 20, and as the
+warrant does not show a compliance with Section 20, but
+is drawn up in accordance with the language of Section 
+2, which is not applicable in this case, Section 20
+making it mandatory that the aliens have become charges, 
+whereas the warrant specified that they might likely 
+become, the warrant should be quashed.</p>
+<p>GOVERNMENT CASES.</p>
+<p>The cases cited by counsel for the government
+<pb></pb>
+were cases in which an unlawful and surreptitious
+entires were made, as was the Yamatayo case. In that
+case the alien was found to be a pauper at the time and 
+was also found to have surreptitously and unlawfully 
+entered without authority, which is not true in the 
+present case.</p>
+<p>CERTIFICATES HELD BY FOUR OF THE ALIENS.</p>
+<p>Although all of the seventy-three aliens were
+admitted and passed and had a certificate issued by the 
+immigration board after examination, still the certificate 
+which may be obtained after an alien has lived for a 
+year or two in Manila, in leaving there for the mainland
+of the United States, was not asked for or obtained by 
+the majority of the aliens, because they did not know 
+of the law permitting them to obtain the said certificates, 
+and no government informed them of this fact, 
+but four of the men did make application and get these 
+certificate, which they subsequently lost on board the
+boat. These men were Moola Singh, Ram Singh, Ali Bux and 
+Baggu Khan, the first three of whom testified in their 
+examination that they had these certificates, but lost
+them. The fourth was not asked the question and on that
+account could not tell the government inspector of his 
+having held such a certificate.</p>
+<p>ALIEN RESIDENTS OF MANILA.</p>
+<p>The testimony shows that these men lived in 
+Manila for from varying periods of five or six months to 
+two or three years, and that most of them were employed
+<pb></pb>
+either by the city government of Manila or in some
+official capacity, in some cases on the police force, 
+of that city, and the court will take judicial notice
+of the fact that in order to get these positions and 
+in order to hold them they would have certainly receive 
+sufficient attention and examination in order for the government 
+immigration officers to have taken them up, had
+they unlawfully entered, before they had been there a 
+matter of several years.</p>
+<p>INCORRECT CONCLUSION REACHED.</p>
+<p>In the case of TOM YONG, found in 193 U.S. 
+page 517, there was a reversal of the order of the deportation, 
+and the court said, "It is true that the findings 
+of the commissioner and in the district court in cases
+of this character should ordinarly be followed in this 
+court, and will only be reconsidered when it is clear
+that an incorrect conclusion has been reached". "In this
+state of the record an examination thereof satisfied us 
+that the appellants adduced testimony which established 
+that they were bone fide merchants within the meaning
+of the law at the time the registration was required 
+of laborers by the act od Congress, and, as the orders 
+of deportation were made on the sole ground that the 
+appellants failed to show that fact, the judgments are 
+reversed and the appellants discharged".</p>
+<p>BURDEN ON GOVERNMENT.</p>
+<p>In the case of Castro v. Williams, 203 Fed. 
+155, the court said, "The burden is upon the immigration 
+authorities to show that any alien denied the right to 
+enter does not fall within one of those exception to the 
+<pb></pb>
+general privilege. Although an alien who has not yet 
+entered may not enjoy constitutional guaranties of 
+citizens, he has rights under the law which must be
+respected." By interference, this decision shows that an alien who has entered does enjoy constitutional guaranties.</p>
+<p>ACT TO BE STRICTLY CONSTRUED.</p>
+<p>In the case of U.S. v. Redfern, 186 Fed. 150 
+the courtstates that the immigration statute should be
+strictly construed. There are one or two other cases 
+which have decided the same point, but I am unable to 
+give the reference at this time.</p>
+<p>In one case the court stated that the statutes
+were very drastic and should be strictly construed.</p>
+<p>If the court will read the first few lines of 
+Section 20, the petitioners believe that he will see at 
+a glance that the aliens do not come within the confines 
+of the section on which the warrants were based.</p>
+<p>The government admits that there has been no 
+evidence produced or attempted to be produced, showing 
+any unlawful entry. On the other hand, there has been 
+much evidence produced showing a lawful entry.</p>
+<p>The government admits that the men have never 
+become public charges and Section 20 makes it mandatory 
+that before a warrant can issue, they must become public 
+charges, the government's contention being that a likliehood
+or a possibility or a probability, that in the distant 
+future they might become, is a compliance with 
+Section 20, which we are sure cannot be urged with much
+<pb></pb>
+force to this Honorable Court.</p>
+<p>BECOME CHARGES.</p>
+<p>By referring to the 3rd line in the last paragraph
+of the fine print at the bottom of page 36, the 
+language is used, "those who have become", and it is
+evident from this wording that the government in the past has read
+Section 20 in the same manner as counsel for petitioners 
+has read this language to the court, as those who have 
+already become, and that those who are likely to become. 
+This same wording is found in subdivision 7, the third 
+line thereof on page 38.</p>
+<p>EXILE ON PRESUMPTION OF GOVERNMENT CLERK, NOT OF LAW, NEVER.</p>
+<p>In this free country of ours, when the law 
+requires that some evidence be produced to send an alien 
+who has presumably properly landed, and who has the 
+rights of a resident of this country, out of the country,
+that some evidence of a material nature will be required, 
+the presumption of the government clerk, who 
+might possibly be a labor leader, is certainly not going
+to be sufficient for this Honorable Court.</p>
+<p>LAWFUL. ENTRY.</p>
+<p>In face of all the facts called to the attention 
+of the court, showing a lawful entry of the 
+aliens at a regular port of entry, Manila, and in 
+view of the further facts, it seems that it would be out 
+of the question to hold that there had not been a lawful
+entry made, and when not a word of testimony is before 
+the court showing an unlawful entry, which is required 
+by law.</p>
+<pb></pb>
+<p>Attached hereto and marked Exhibit 1, will be 
+found a receipt for the head tax, signed by the steamship
+company, showing a sailing on one of the largest
+vessels making Manila, and showing a regular passage to
+Manila, which shows conclusively that an examination 
+must have been held at Manila, as these boats are not
+permitted to land until the immigration officer has 
+passed said alien. The court will take judicial 
+notice of the fact that the government makes these 
+investigations. On the back of Exhibit 1 is found the 
+immigration requirements as instruction to the alien.</p>
+<p>Marked Exhibit 2 will be found receipts from 
+the steamship line for $19.00 which was taken from 
+four of the aliens and others of the party had some of 
+these similar receipts, showing this money to have been 
+collected, as they were likely to be quarantined at
+Manila, showing again the fact that they were proceeding 
+in a lawful manner on a regular steamship line, and 
+were being subjected to every precaution taken in the
+event of their rejection.</p>
+<p>Exhibit 3 was taken from one of the aliens and 
+similar papers were held by some of the others, in 
+which the United States surgeon general passed the alien 
+at Singapore as being free from disease and it will be 
+noted that the government's stamp is on the document as 
+follows, which appears to be, "landed at Manila, P. I. 
+July 22, 1912, Immigration division".</p>
+<p>Exhibit 4 is a surgen general's certification
+which the record will show was presented to the government 
+<pb></pb>
+by every alien in the number held at the detention
+office, this certificate showing that the men were proceeding
+in a lawful manner. It will be noted on these 
+certificates that the consul general's seal appears.</p>
+<p>Two marked Exhibit 5 are certificates of registration 
+at Manila in the office of the British consulate.
+It is submitted that if these men had unlawfully entered, 
+as was suggested by the government, they certainly would 
+not register in the consulate's office on arrival.</p>
+<p>Exhibit 6 shows some of the men to have been 
+disinfected and the official stamps of the vessel and 
+the dates appear thereon. These documents were also 
+presented to the government and surrendered by the
+government to the aliens.</p>
+<p>Exhibit 7 is a document similar to one held by 
+the other men and shows the alien to have been proceeding 
+lawfully. He received this paper from the American 
+consulate, showing him to have been disinfected and 
+entitled to proceed.</p>
+<p>Exhibit 8 was presented to the government and 
+surrendered back to the alien and is similar to those held 
+by other aliens and is similar to those
+held by other aliens and was stamped by the assistant 
+Supt. of Indian immigration at Singapore showing him to 
+have been regularly travelling from Singapore to Manila.</p>
+<p>Exhibit 9 was also presented to the government 
+and surrendered by the government back to the 
+alien. In that it will be noted said document is 
+stamped "landed at Manila, P. I, July 22, 1912, Immigration 
+Division", showing clearly a lawful entry.</p>
+<pb></pb>
+<p>Exhibit 10 are post office receipts showing
+money to have been sent by registered mail and 
+documents showing money to have been sent by some of 
+the aliens from Manila to Hong King.</p>
+<p>GOVERNMENT'S RECORDS NOT ACCESSIBLE TO ALIENS</p>
+<p>It would be impossible for the aliens to get
+the information from the government officials and 
+access is not given to the aliens. To further prove this 
+point, if proof be necessary, the commissioner of 
+immigration at Seattle, Hon. Ellis Debruler, informed 
+counsel for petitioners on the morning of August 28, 
+1913, that the Honorable Federal Court sitting in 
+Seattle, and the Circuit Court of Appeals and no other
+court, could compel the government to furnish its original
+record, but that the best of the court could do would be
+to request a copy of the same, this statement being 
+made when counsel for petitioners requested that the 
+original record be furnished to this Honorable Court,
+as there were pictures, material affidavits, and 
+documents, which were not in the carbon copy of the 
+record furnished to the court.</p>
+<p>The following citations are furnished to the 
+court in showing that the decisions of the immigration officer
+in this case is not final, but that the court should go into 
+the record to find if evidence has been produced, and if the 
+finding is based upon some material evidence, and if the law 
+has been complied with, and if the alien in question comes
+within the requirements of the section of the Act under which 
+the said aliens were taken into custody.
+<pb></pb></p>
+<p>In view of the failure of the government to 
+produce any evidence and in view of the overwhelming 
+amount of evidence in the record, produced by the aliens, 
+and in view of the facilites at the government's hands 
+to produce the evidence, which should have been furnished, 
+and the inability of the aliens to get access to the 
+government's records, it is urged that the warrants 
+should be quashed, as not in compliance with Section 20 
+upon which section it is admitted they are based.</p>
+<p>AUG 28 1913</p>
+<p>Respectfully submitted, 
+Herbert W. Meyers
+Attorny for petitioners.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0467.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Leonard v. State of Washington. Notice.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Ibrahim, Meyri" xml:id="mi">Meyri Ibrahim</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0467.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">John Leonard v. State of Washington. Writ of Habeus Corpus.</title>
+<date when="1897-06-22"> June 22nd, 1897</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
+<idno>Case 625</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1897-06"> June 1897 </date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term> Whitman County, Washington </term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Ninth Judicial Circuit Court</orgName>
+<placeName>County of Whitman, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#mi">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<div1 type="case">
+
+<pb facs="hc.case.wa.0467.003"/>
+
+<p> In re. Application of John Leonard for Writ of Habeas Corpus. </p>
+<p> United States Circuit Court for the District of Washington. 
+In the matter of 
+the application
+of John Leonard
+for Writ of Habeus
+Corpus vs.
+R.A. Simms
+Sheriff of Whitman
+County, Washington </p>
+<p> To the Clerk of the above entitled Court:
+You will please issue citation ?
+persuant to the rules in
+such cases, also prepare
+appeal and ? transcript ?
+appeal to the Supreme Court
+of the United States to include
+Petition for Habeas Corpus Writ
+order denying the issuance
+of writ and allowing ?
+appeal, notice of appeal to
+the Supreme Court and
+motion to the Sheriff and
+duly certify the same ?
+the ? and the ?
+? by law
+John F. ?
+? ? ? </p>
+
+<pb/>
+
+<p> United States Circuit Court for the District of Washington </p>
+<p> In the matter of
+the application
+of John Leonard
+for Writ of Habeas
+<del/> 
+? and ? ? </p>
+<p> To the Clerk of the above entitled Court:
+You will please prepare 3 certifie
+of order denying and refusing
+to ? writ and allowing
+the appeal herein. </p>
+<p> ? three (3) ? of the 
+? citation in the ?
+? ? </p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

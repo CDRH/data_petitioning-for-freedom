@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.040">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Petition for Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.040</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Petition for Writ of Habeas Corpus</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Moola Singh</term>
+<term>Talok Singh</term>
+<term>Dalip Singh</term> 
+<term>Bhagwan Singh</term> 
+<term>Pala Singh</term> 
+<term>Ala Singh</term> 
+<term>Biahsn Singh</term> 
+<term>Rulia Singh</term> 
+<term>Kishan Singh</term>
+<term>Harijan Singh</term> 
+<term>Arjan Singh</term> 
+<term>Hire Singh</term>
+<term>Bhag Singh</term>
+<term>Amarao Singh</term>
+<term>Duvan Singh</term>
+<term>Puran Singh</term>
+<term>Nuarang Singh </term> 
+<term>Dalip Singh</term>
+<term>Vir Singh</term>
+<term>Ratan Singh</term>
+<term>Nama Singh</term>
+<term>Bishan Singh</term>
+<term>Bishan Singh</term>
+<term>Rem Singh</term>
+<term>Baboo Singh</term>
+<term>Bhagat Singh</term>
+<term>Thakar Singh</term>
+<term>Variam Singh</term>
+<term>Harnam Singh</term>
+<term>Gurdit Singh</term>
+<term>Kishan Singh</term>
+<term>Gurbakhoh Singh</term>
+<term>Khazan Singh</term>
+<term>Paren Singh</term>
+<term>Milkha Singh</term>
+<term>Narnam Singh</term>
+<term>Munshi Singh</term>
+<term>Varian Singh</term>
+<term>Sham Singh</term>
+<term>Kakoo Singh</term>
+<term>Basant Singh</term> 
+<term>Pooran Singh</term> 
+<term>Sher Singh</term> 
+<term>Santa Singh</term> 
+<term>Harnam Singh</term> 
+<term>Munshi Singh</term> 
+<term>Parem Singh</term> 
+<term>Partap Singh</term> 
+<term>Naurang Singh</term> 
+<term>Farzona Ali</term> 
+<term>Ahas Ali</term> 
+<term>Bahadar Shah</term> 
+<term>Mir Ahdylla</term> 
+<term>Nizam Din</term> 
+<term>Sultan Ali</term> 
+<term>Bagh Ali</term> 
+<term>Niaz Mohd</term> 
+<term>Rahmat Alla</term> 
+<term>Nayat Kahn</term> 
+<term>Amir Rhan</term> 
+<term>Amir Khan</term> 
+<term>Mohd Alam</term> 
+<term>Isay Khan</term> 
+<term>Amarat Khan</term> 
+<term>Sanday Khan</term> 
+<term>Shali Khar Khan</term> 
+<term>Namdar Khan</term> 
+<term>Gulam Modh</term> 
+<term>Sanday Khan</term> 
+<term>Baggn Khan</term> 
+<term>Umar Den</term> 
+<term>Ali But</term> 
+<term>Hanz Mohd</term> 
+<term>Chiragh Din</term> 
+<term>Madda Din</term> 
+<term>Ibrahim Din</term> 
+<term>Ismail Din</term> 
+<term>Rahmat Ali</term> 
+<term>Noor Khan</term> 
+<term>Ishar Singh</term>
+<term>Pala Singh</term>
+<term>Herbert W. Meyers</term>
+<term>Frank L. Crosby</term>
+<term>J.B. Densmore</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>District Court of the United States for the Western District of Washington Northern Division</term>
+<term>Seattle, Washington</term>
+<term>Manila, Philippine Islands</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
+OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>2532</p>
+<p>IN THE MATTER OF THE UNLAWFUL 
+DETENTION OF SEVENTY-SIX 
+HINDOO ALIENS.</p>
+<p>) ) )</p>
+<p>PETITION FOR WRIT 
+OF HABEAS CORPUS.</p>
+<p>TO THE UNITED STATES DISTRICT COURT, IN AND FOR THE
+WESTERN DISTRICT OF WASHINGTON:</p>
+<p>The petition of Moola Singh, Talok Singh, Dalip Singh, Bhagwan
+Singh, Pala Singh, Ala Singh, Biahsn Singh, Rulia 
+Singh, Kishan Singh, Harijan Singh, Arjan Singh, Hire Singh, 
+Bhag Singh, Amarao Singh, Duvan Singh, Puran Singh, Nuarang
+Singh, Dalip Singh, Vir Singh, Ratan Singh, Nama Singh,
+Bishan Singh, Bishan Singh, Rem Singh, Baboo Singh, Bhagat
+Singh, Thakar Singh, Variam Singh, Harnam Singh, 
+Gurdit Singh, Kishan Singh, Gurbakhoh Singh, Khazan 
+Singh, Paren Singh, Milkha Singh, Narnam Singh, Munshi
+Singh, Varian Singh, Sham Singh, Kakoo Singh, 
+Basant Singh, Pooran Singh, Sher Singh, Santa Singh, 
+Harnam Singh, Munshi Singh, Parem Singh, Partap Singh, 
+Naurang Singh, Farzona Ali, Ahas Ali, Bahadar Shah, 
+Mir Ahdylla, Nizam Din, Sultan Ali, Bagh Ali, Niaz 
+Mohd, Rahmat Alla, Nayat Kahn, Amir Rhan, Amir Khan, 
+Mohd Alam, Isay Khan, Amarat Khan, Sanday Khan, Shali 
+Khar Khan, Namdar Khan, Gulam Modh, Sanday Khan, Baggn
+Khan, Umar Den, Ali But, Hanz Mohd, Chiragh Din, Madda
+Din, Ibrahim Din, Ismail Din, Rahmat Ali, Noor Khan, 
+and Ishar Singh, respectfully shows;</p>
+<p>I.</p>
+<p>That your petitioners are former residents of
+the Philippine Islands and are at this time unlawfully
+<pb></pb>
+detained by the immigration authorities at the immigration
+station, Seattle, Washington.</p>
+<p>II.</p>
+<p>That you petitioners were lawfully admitted
+at a regular immigration port of entry, Manila, Philippine
+Islands; were duly examined by an immigration 
+board and duly examined by medical officers of the United 
+States government, and passed by said immigration officials
+at the said city of Manila, as being fit and proper
+persons to land in the territory held and controled
+by the United States government, and being strong and
+healthy enough and free from disease, to be entitled
+to pass the medical officers of the said immigration
+department. Said immigrants were duly landed and lives
+from varying periods from several months to several 
+years in the city of Manila, and in the Philippine
+Islands, with the knowledge of the United States 
+government.</p>
+<p>III.</p>
+<p>That you petitioners are now imprisoned and 
+restrained of their liberty and detained by color of the 
+authority of the United States in the custody of the
+Commissioner of Immigration, Seattle, Washington, at the
+immigration detention house in said city.</p>
+<p>IV.</p>
+<p>That the sole claim or authority, by virtue 
+of which the said commissioner of immigration has 
+restrained and detains your petitioners is a certain
+warrant of arrest based upon Section 20 of the Act of 
+February 20, 1907, as amended by the Acts of March 26,
+1910 and March 4, 1913, which warrant was issued contrary
+to law and without any foundation in law, and which 
+even cites to be a fact that the aliens entered the 
+United States in violation of law, which is not true, 
+and of which faact, no proof has ever been offered. The
+other facts set out in said warrant or unlawful issue
+are untrue and not a cintilla of evidence has been 
+introduced or presented to the Secretary or his assistant, 
+who has ordered the aliens deported.</p>
+<p>V.</p>
+<p>That the aliens and your petitioners represent
+that they were not given a fair and impartial
+hearing, as is contemplated by law. That the immigration
+officals and inspectors were biased and prejudiced, 
+which facts can be shown by affidavits or viva 
+voce testimony, if they are given permission to be heard
+by this honorable court. That the government sent certain
+testimony to Washington, which your petitioners
+have been given no opportunity to answer. That new testimony
+can be produced showing that it would be an absolute
+impossibility for these men to become public 
+charges, and showing that there never has been a time
+since their landing on the soil of the United States
+when they were even likely to become public charges.
+These petitioners have had their constitutional gaurantee
+denied them, and the entire proceeding from the landing
+of the petitioners on the Steamship Minnesota, has 
+<pb></pb>
+been a proceeding conducted not in accordance with law.
+That the authority so called, exercised by the commissioner
+of immigration, Seattle, the comissioner general of 
+immigration and the secretary of labor, have not been
+fairly exercised, in justice, or in accordance with law; 
+said officials have not acted within the jurisdiction 
+conferred upon them or in accordance with the provision 
+of the act affecting such cases. The government has
+contended that these men violated some law on entering, 
+which is not true, and there has never been any evidence
+before any of the government officials showing any
+violation of law, but there is much evidence showing
+a proper landing, the inspection and examination of the
+aliens, in accordance with law. No evidence showing the
+condition of the aliens when they were examined the
+first time in Manila, has been produced. The aliens, 
+having once been examined, in accordance with law, and
+passed, the second attempted examination is improper, 
+and not in accordance with law, and in direct violation
+of the Act of February 20, 1907, as amended. The allegation
+was made by the government, that these men 
+unlawfully entered the United States, but this fact was
+not proven and is not true. That your petitioners are
+not alien immigrants, within the meaning of the Act,
+having entered under a previous proper examination at
+Manila. Your petitioners produced evidence which was
+not met by the government, which positively proves
+that the government's contention was untrue.</p>
+<p>VI.</p>
+<p>That the issuing of the warrant, the holding
+<pb></pb>
+of the examination by the by the immigration board at Seattle
+and on the Steamship Minnesota, the decision of the board
+at Seattle, and the decision of the Secretary of Labor, 
+or his representative in denying the rights of your
+petitioners to land at Seattle, was all contrary to law
+and in direct violation of the Act of February 20, 1907,
+as amended.</p>
+<p>VII.</p>
+<p>That there was an abuse of authority on the part
+of the immigration board, and the commissioner of 
+immigration at Seattle and the Secretary of Labor, or
+his representative at Washington, in denying your 
+petitioners the right to land at Seattle, as there is
+absolutely no evidence upon which to base a decision</p>
+<p>VIII.</p>
+<p>That your petitioners' imprisonment, restraint and 
+detention are in violation of their rights, privleges,
+and immunities, under the constitution and laws of 
+the United States for the following reasons;</p> 
+<p>First; That your petitioners had once been
+duly examined and passed and could not lawfully be
+again examined, in accordance with law.</p>
+<p>Second; The issuing of the warrant was contrary
+to law, and especially contracy to the act of
+February 20, 1907, as amended by the Act of March 4,
+1913, for the reason that your petitioners had never
+become charges and had showed no liklihood of becoming
+charges, but on the other hand having affirmatively shown
+that there was no liklihood of their ever becoming charges.</p> 
+<pb></pb>
+<p>That these men were examined at Manila under authority 
+of the act of February 20, 1907, and if so, that examination
+was final and the second examination at Seattle
+improper, unless the government saw fit to arrest these
+men under authority of Section 20 of said act, which
+section makes the entire proceeding illegal and improper, 
+as appears on the face of said section as the
+wording of that section is mandatory and does not deal
+in possibilities which the government is contending for.</p>
+<p>IX.</p>
+<p>That there was no evidence before the Immigration
+Board, the Commissioner of the Secretary, upon
+which to base the ruling of the board in rejecting the
+petitioners, and in requesting warrants, or the secretary,
+in ordering the aliens deported.</p>
+<p>X.</p>
+<p>The aliens resided, some of them as long as two
+years in the Philippine Islands and never became public
+charges or showed any liklihood of becoming charges, 
+and as they were taken in custody immediately upon arrival
+of the vessel, and as they have been detained ever since
+their arrival, it cannot be said that they have become
+charges, as they have been in custody ever since leaving 
+Manila, and they have never had an opportunity to show
+the fallact of the government's position.</p>
+<p>XI.</p>
+<p>In the case of the other aliens who came over
+with these petitioners, an alleged rehearing was granted, 
+which was not rehearing at all, as the aliens were not
+permitted to be represented by friends or counsel, and
+<pb></pb>
+were not permitted to cross examine witnesses or to have 
+any of the other privileges usual in these cases, and
+although those other aliens had taken an appeal, without
+giving proper consideration or accordance with law
+to those appeals, a medical examination was had and the 
+appeal in those cases ignored. The aliens have been
+denied the privilege of seeing their friends and relatives,
+even within the bounds of reasonable restrictions,
+as can be shown by competent testimony.</p>
+<p>XII.</p>
+<p>The aliens have been housed together in a
+place only large enough for a third of their number
+and in a place where the cubical air space is only a
+third or fourth what it should be in keeping with
+healthful and sanitary conditions. The second examination
+of these men was improper as the Secretary, in a
+similar case ruled less than a year ago that men who
+had been once examined in Manila were not subject to 
+reexamination in this country. The government has ruled
+that the Great Northern Steamship Company should in this
+case be relieved of deporting these aliens back to the 
+place of embarkation, and that the government would defer
+this expense, showing the government's admission of their
+own error in once admitting the aliens and now again
+attempting to re-examine, as, in accordance with the Act
+of February 20, 1907, the Steamship Company should defer
+the expenses of the deportation.</p>
+<p>XIII.</p> 
+<p>The Act of February 20th, 1907, provides that
+the headtax of Four Dollars ($4.00) for every alien entering
+<pb></pb>
+the United States shall be collected. These men 
+paid this head-tax when they were examined in Manila, and
+were not compelled to pay the same on their arrival in 
+Seattle, this provision and the law indicating that the
+men are supposed to pay this fee but once, and by inference
+they are not supposed to be examined more than once.
+The Act itself specifically provides that it is 
+to apply to and regulate the immigration of aliens into
+the United States.</p>
+<p>Section Six (6) of the Act of February 20th, 
+provides that this Section was not applied to the 
+states or territories, the District of Columbia, or
+places subject to the jurisdiction of the United
+States.</p>
+<p>By referring to Section Twelve (12) and the
+last ten lines thereof, it will be noted that aliens 
+coming from points in the United States are treated 
+differently from those coming from foreign ports.</p>
+<p>Section Thirty-three (33) provides that for 
+the purpose of the Act above quoted the word "United
+States" shall be construed to mean the United States 
+and any waters, territory or other place subject to
+the jurisdiction thereof, except the Isthmian Canal only.</p>
+<p>XIV.</p>
+<p>It will be noted by referring to page twenty-eight
+(28) of the Regulation of July 1, 1907, paragraph 
+"G" thereof, that the aliens who have come from 
+contiguous territory in the United States, namely from
+Manila, are subjected to different disposition than those 
+<pb></pb>
+who have come from a foreign port.</p>
+<p>XV.</p>
+<p>It will be noted that this case makes the
+present cases very strong, indeed, from the alien 
+standpoint, as the present cases do not come within the 
+confines of this decision or of numerous other decisions,
+which hold the same as this one. The cases holding
+that the government must show that the men have become
+public charges within a year, and in absence of such 
+a showing, they having been under the flag for a year
+throws the presumption against the government in that
+they have not become charges, and therefore, the 
+probability is not only very remote, but becomes almost
+an impossibility. This I believe would be the holding
+of the Supreme Court, if we appealed and took the matter
+before the Circuit Court or that tribunal.</p>
+<p>XVI.</p>
+<p>Sub-division 4 of Rule 14, simply a 
+ruling of the department, provides that the failure
+to present a certificate shall be deemed presumptive
+evidence that an examination has not occured. That
+presumption is only a presumption, however, and when the
+men testify under oath that they were examined and passed, 
+and the government does not meet that definite
+testimony, than the presumption falls and their testimony
+under oath stands inasmuch as they can be 
+punished for false swearing.</p>
+<p>XVII</p>
+<p>The Commissioner of Immigration is threatening unless
+restrained to deport these petitioners on authority of
+warrants which were improperly issued and have no basis in law.</p>
+<pb></pb>
+<p>XVIII.</p>
+<p>That three of the aliens, Moola Singh, Ram Singh, and 
+Ali Bux held certificates showing that they had been examined
+in Manila, but lost the same, either in boarding 
+the boat or on the boat coming from Manila. That Boggu
+Khan had a certificate and lost the same coming from
+Manila, but by reason of the fact that he was not asked
+the question, did not testify in his examination of this
+fact, and can not be only prove conclusively, but the
+government's records in Manila in this case as in the
+other three will show this to be a fact and it can be 
+proven to competent testimony.</p>
+<p>IX.</p>
+<p>That a copy of the warrants is not attached hereto
+for the reason that the same is entransit and to save
+the government's time and by agreement with the United
+States Immigration officals, this order is asked on
+the strength of a telegram received from a J.B. Densmore, 
+acting Secretary of Labor, advising that warrants were
+being mailed for the return of seventy-three persons, whose
+names are not definitely known.</p>
+<p>XX.</p>
+<p>That the warrants issued are fatally defective 
+in that they do not comply with law and in particular do
+not comply with the Act of February 20, 1907 as amended.</p>
+<p>XXI.</p>
+<p>That the aliens are not amenable to the law
+which is the basis for the issuance of these warrants.</p>
+<p>XXII.</p>
+<p>That the petitioners have had no hearing on the 
+ground on which the exclusion is based.</p>
+<p>XXIII.</p>
+<p>That the Secretary of Labor, rendering the 
+decisions in these cases, has violated the law, and 
+particularly the Act of February 20, 1907 as amended by the
+Acts of March 26, 1910 and March 4, 1913.</p>
+<p>XXXIV.</p>
+<p>This honorable court has jurisdiction for the
+reason that there is a question of law involved, whether
+the aliens herein are amenable to the Act of February 20, 
+1907, as the aliens are herein claiming that they are not
+within the inhibition of the statutes.</p>
+<p>XXV.</p>
+<p>In some of the cases the petitioners had resided
+in the territory of the United States for more than
+one year and therefore the government was barred from
+proceeding in these cases.</p>
+<pb></pb>
+<p>WHEREFORE your petitioners pray that a writ of 
+habeas corpus directing the immigration officals to 
+bring the said alien petitioners in court and to show
+cause of their detention, or for an order to show cause 
+directing the immigration officals to appear in court
+on a day certain to answer the petition herein filed, 
+and to show cause why the said petitioners should not
+be discharged and no longer held.</p>
+<p>Your petitioners further pray that they may be
+discharged from custody and released as being improperly 
+held, and for such other and further relief as to the
+court may seem just and proper.</p>
+<p>HINDOO ALIENS,</p>
+<p>BY Herbert W. Meyers
+Attorney for aliens and petitioners.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

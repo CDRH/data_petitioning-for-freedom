@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0272.010.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Columbia George v. Charles B. Hopkins. Reply</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Czapla, Ethan P" xml:id="epc">Ethan Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0272.010</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Columbia George v. Charles B. Hopkins. Reply</title>
+<date when="1906-03-28">March 28, 1906</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
+<idno>1390ColumbiaGeorgeIndian</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1906-03">March 1906</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>McCaffeery, James J.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>McNeils Island, Washington</term>
+<term>Oregon State Penitentiary, Oregon</term>
+<term>Salem, Oregon</term>
+<term>King County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>George, Columbia</persName>
+</person>
+<person role="defendant">
+<persName>Hopkins, Charles B.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Slater, R. J.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Frye, Jesse A.</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<p>Service of the within Reply by delivery of a copy to the undersigned is hereby acknowledged this 26 day of March 1906</p>
+
+<p>Jesse A. Frye
+       Attorney for Respondent</p>
+
+<pb/>
+
+<p>No. 1390 Original</p>
+
+<p>In the Circuit Court of the United States for the Western District of Washington Northern Division</p>
+
+<p>In the matter of the application of Columbia George for a writ of Habeas Corpus. Reply</p>
+
+<p>Filed in the U.S. Circuit Court, Western Dist. of Washington. MAR 28 1906. A. Reeves Ayres, Clerk. HM Matthew, Dep.</p>
+
+<p>Service of papers in this case may be made upon
+       R.J. Slater
+       Pendleton, Oregon</p>
+
+<pb/>
+
+<p>In the United States Circuit Court For The Western District of Washington Northern Division</p>
+
+<p>In the matter of the application of Columbia George for a writ of Habeas Corpus. No. 1390</p>
+
+<p>Reply to answer and return of the United States Government.</p>
+
+<p>For reply to the answer and return of the United States Government filed herein, comes the above named
+       applicant and denies each and every allegation in said answer and return contained, except as hereafter
+       admitted or qualified.</p>
+
+<p>Admits paragraphs one and two, excepting the allegation therein contained that the said Columbia George
+       and Toy Toy were at the time said murder was committed tribal Indians, and admits that the said Columbia
+       George and Toy Toy wer on the 21st day of October 1901, at Portland, Oregon, in the Circiut Court of the 
+       United States for the District of Oregon, indicted, and said indictment was returned in said court as setforth on
+       page three in lines one to sixteen inclusive of said answer and return, and admit that a trial was had of Columbia
+       George and Toy Toy in said court, and that said Columbia George and Toy Toy were convicted of murder without
+       capital punishment and sentenced to imprisonment at hard labor for life in the Oregon penitentiary at Salem Oregon,
+       upon the commitment issued by the Judge of the United States Circuit Court for the District of Oregon, which said
+       commitment was issued under a judgment in said cause rendered by said Circuit Court of the United States for the
+       District of Oregon on the 3rd day of September 1901, and thereafter by an order of the Attorney General of the United
+       States, the said petitioner Columbia George was transferred to the custody</p>
+
+<pb/>
+
+<p>of C.B. Hopkins, United States Marshal for the Western District of Washington, and that said Columbia George is now in
+       the custody of said United States Marshal in the United States Penitentiary at McNeils Island, Washington, and that said
+       petitioner is being held in said penitentiary pursant to the commitment issued by the United States Circuit Court of the District
+       of Oregon, and pursuant to the order of the Attorney General of the United States, but denies that the custody of said Columbia
+       George by the said United States Marshal for the Western District of Washington is legal, and denies that the Attorney General
+       of the United States had power and authority to transfer said petitioner form the Oregon State Penitentiary at Salem Oregon, to
+       the custody of the United States Marshal for the Western District of Washington. Admits that the term of sentence of the said
+       Columbia George has not expired according to law or according to the commitment issued in the premises.</p>
+
+<p>Admits that C.B. Hopkins, is now and for a long time piror hereto, has been the duly and qualified appointed United States Marshal
+       for the Western District of Washington, and that the petitioner Columbia Gerge is in his custody as United States Marshal. 
+       Admits that said petitioner is now being held in the United States Penitentiary on McNeils Island, State of Washington, and admits
+       that at the time of the return, the said Columbia George and the said Toy Toy were full blooded Indians and the person murdered by
+       them was a full blooded Indian, but denies that the crime was committed by them upon the Umatilla Reservation in the State of Oregon,
+       except as setforth and as alleged in the petition to-wit, that said crime was comitted upon what is known as the Umatilla Reduced Reservation
+       and upon land allotted to another Indian.</p>
+
+<pb/>
+
+<p>Denies that the said Columbia George was at the time of the return of said indictment or at the time of the trial and commitment or is now a tribal
+       Indian belonging to the Cayuse Band of Indians, or that at the time of the commission fo said crime or during said trial and until sentenced, he was
+       residing upon said Umatilla Indian Reservation in the State of Oregon, except as setforth in the petition for the writ of habeas corpus.</p>
+
+<p>WHEREFORE: The petitioner prays that this Honorable Court for an abolute writ of habeas corpus in this matter, and that he be discharged from further
+       custody of the said United States Marshal, for the reasons setforth and alleged in his petition and in this reply.</p>
+
+<p>R.J. Slader
+       Attorney for Petitioner</p>
+
+<p>{State of Washington
+       County of King} ss</p>
+
+<p>I, R. J. Slater, being first duly sworn, depose and says: That I'm the attorney for the petitioner above named, and that I am persoanally acquainted with the
+       facts setforth in the above reply and with all the matters connected therewith, and of my own personal knowledge know the same to beture. That I make this
+       affidavit for the reason that the petitioner is now confined in the Penitentiary, is an Indian, and is not within this court.</p>
+
+<p>R.J. Slater</p>
+
+<p>Subscribed and sworn to before me this 26th day of March 1906.</p>
+
+<p>James J. McCaffery
+       Notary Public in and for the State of Washington Residing at Seattle</p>
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

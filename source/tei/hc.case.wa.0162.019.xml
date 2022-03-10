@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0162.019">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ray Raymond v. Territory of Washington. Transcript of Docket</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0162.019</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Ray Raymond v. Territory of Washington. Transcript of Docket</title>
+<date when="1886-07-02">July 2, 1886</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1886-17</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Barnes, James B.</term>
+<term>Boyd, J. H.</term>
+<term>Bonner, W.</term>
+<term>Bradshaw, Joseph</term>
+<term>Cambell, A. J.</term>
+<term>Crane</term>
+<term>Edwards, A. C.</term>
+<term>Finch, James</term>
+<term>Gillespie, W. D.</term>
+<term>Hanna, J. C.</term>
+<term>Howard, Joseph</term>
+<term>Huschka, Joseph</term>
+<term>Jefferson, Thomas</term>
+<term>Kellinger, M. R.</term>
+<term>Leininger, S. B.</term>
+<term>Lerance</term>
+<term>Mabius, John W.</term>
+<term>Mose</term>
+<term>Morgan, J. M.</term>
+<term>Stanley, Ruby</term>
+<term>Summers, H.</term>
+<term>Selliger</term>
+<term>Palentay, G.</term>
+<term>Worthington, Pearl</term>
+<term>Penfield, C. S.</term>
+<term>Snitzinger, Francis</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Raymond, Ray</persName>
+</person>
+<person role="defendant">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Griffitts,  Thomas C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hyde, S. C.</persName>
+</person>
+<person role="judge">
+<persName>Peel, J. J. L.</persName>
+</person>
+<person role="judge">
+<persName>Booge, John I.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-09" who="#lkw">review</change> 
+<change when="2021-06" who="#eh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0162.019"/>
+
+<p>In Justice's Court before 
+JJL Peel J.P.</p>
+
+<p>Territory of Washington<lb/>
+County of Spokane } SS</p>
+
+<p>Trascript of Docket</p>
+
+<p>The Territory of Washington<lb/>
+Ray Raymond deft } Charge Murder</p>
+
+<p>On this June 26th 
+1886 W.D. Gillespie makes and files complaint
+charging defendant with having on
+the 26th day of June 1886 in the City of Spokane Falls 
+Spokane County Washington Territory purposely 
+and of her deliberate and premeditated Malice 
+Kill James Finch, by shooting him in the neck
+With a pistol, and demands that she be 
+arrested and dealt with according to law</p>
+
+<p>Warrant issued and placed in the hands 
+of W.D. Gillespie specially appointed by this 
+court to serve same there being no qualified 
+Officer in this precinct at this time. Subpoena
+issued for Pearl Worthington, Ruby Stanley, W
+Bonner, Dr. Morgan, J.H Huschka, Joseph 
+Bradshaw, John Maibes on the part of 
+of the Territory and placed in the hands of 
+W.D. Gillespie special officer for serving</p>
+
+<p>June 26th 1886 Warrant rerturned by 
+special officer he certifying in his return 
+
+<pb/>
+
+that he executed the same by arresting defendant and 
+having her in <add>his</add> custody and does not bring her 
+into court by reason of an agreement between the 
+prosecuting Attorney S.C. Hyde Esq and Attorney for 
+defendant T.C. Griffits Esq that on account of 
+her sickness she need not be brought into court 
+pending her application for a continuance</p>
+
+<p>Certificate and affidavit of physician A.J.
+Cambell M.D. taken and filed said affidavit
+setting forth that she is under Medical treatment 
+by him for nervous prostration and is unable at 
+this time to be removed from her bed wihtout greatly
+endangering her condition. Prisoner remanded 
+to the custody of said officer with instruction to
+safely keep and deliver prisoner into court at 
+4 O'Clock P.M. this day or at any time thereafter
+if she is still not able to attend at <add>said</add> 7 O'Clock
+</p>
+
+<p>Continued to 7 O'Clock P.M. this day</p>
+
+<p>At 7:15 O'Clock P.M. appearing from prosecution 
+S.C. Hyde Esq<add>and</add> for defendant F.C. Griffits Esq
+the officer in charge of the prisoner reporting that she 
+is still so prostrated that she cannot safely be 
+brought into court, By Consent in open court 
+this case is continued to Tuesday June 29th 1886
+at 10 O'Clock A.M. and officer charged to 
+safely keep said prisoner and witness informed 
+that they must hold themselves subject to the order of the court</p>
+
+<pb/>
+
+<p>June 28th 1886 Subpoena issued on the part of 
+the defendant for John Maibus, Mose, Ruby
+Stanley, Pearl Worthington, M.R. Kellinger, H.
+Summers and A.C. Edwards &amp; also on the 
+part of the defendant for James Barnes, G Palentay
+Frankie Snitzinger, and Joe Howard and placed in 
+the hands of S. B. Leininger Constable for sevice</p>
+
+<p>June 29th 1886 at 10:15 A.M. Subpoena for plantiff for
+Jas Bradshaw et al returned srved and filed, Court open
+Prisoner in Court appearing for prosecution
+S.C. Hyde Esq and for defendant <add>Messrs</add> <del/> Griffits
+<del/> and Stouh Attorney for prosecution moves 
+to discharge Pearl Worthington and Ruby Stanley
+as witnesses on the part of the prosecution
+objected to be defts Counsel. Objection overruled 
+and motion granted and said witness discharged.
+Defendant and defendants counsel expressly
+<unclear>waiv</unclear> the formal reading of the complaint by the 
+court Subpoena issued on the part of the 
+defendant for Jos Bradshaw W.D. Gillespie Jno 
+Maibies Pearl Worthington Ruby Stanley, W 
+Bonner, Dr Morgan <add>and</add> JH Huschka and 
+placed in the hands of S.B Lenninger Constable
+for service</p>
+
+<p>Jno I Booge Esq Justice of the Peace 
+for Spokane County W.T. associated by 
+invitation to assist this court in the execution 
+of the powers and duties in conducting this 
+
+<pb/>
+
+examination and said Jno I Booge by agreement
+of this combined court is duly appointed to 
+take down in writing the testimony produced 
+in this court on this exammation</p>
+
+<p>At 12 O'Clock M. Continued to 1 O'Clock P.M. 
+Witnesses placed under order if the Court and 
+prisoner remanded to the custody of the officer</p>
+
+<p>Subpoena issued on the part of the defendant 
+for Dr. C.J. Penfield and on order in his hands
+taken from the body of James Finch deceased 
+and placed in the hands of S.B. Leininger Constable 
+for service</p>
+
+<p>June 29th 1886 1 O'Clock P.M.
+Court convened, Subpoena part of Territory 
+for Pearl Worthington et al returned served and filed 
+Prisoner and Counsel presented Subpoena
+on part of defendant for James Barnes et al 
+returned served and filed Subpoena on the 
+part of the defendant for Dr Morgan et al returned 
+served and filed also Subpoena for Dr CJ
+Penfield on part of defendant returned served 
+and filed. At 6 O'Clock P.M. case continued 
+to June 30th 1886 at the hour of 10 OClock A.M
+witness placed under the order of the court 
+and prisoner remanded to the custody of the 
+Officer</p>
+
+<p>June 30th 1886 Court met present prisoner, 
+and Counsel on both sides examination proceded 
+with, Adjourned at [12 M] to 1:30 O'Clock
+P.M. at 1:30 P.M prisoner and Counsel 
+all present examination proceded
+
+<pb/>
+
+with, to 6 Oclock P.M. Adjourned to July 
+1st at 10 O'Clock A.M</p>
+
+<p>July 1st 1886 At 10 O'Clock AM Court 
+convened Present prisoner, and Counsel
+for both sides. Examination proceeded with 
+At 12 M Adjourned to 1 O'Clock P.M.
+At 1 O'Clock PM. conveened, Present 
+prisoner and counsel, subpoenas on the 
+part of the Territory one for Selliger and Crane
+and one for Penfield Hanna and Boyd returned
+served and filed Subpoenas on the part 
+of the defendant for one for Thomas Jefferson and 
+one for John Mabius et al returned served
+and filed</p>
+
+<p>At 6 O'Clock P.M adjourned to 
+7:30 PM At 7:30 PM Court coveened 
+Present Counsel and proceeded to close with 
+argument and same being completed this 
+court takes this case under advisement till
+1 O'Clock PM July 2nd 1886</p>
+
+<p> July 2nd 1886, the following 
+witnesses then sworn and examined in this case 
+on the part of the plaintiff W.D. Gillespie Jas Huschka, 
+Jas Bradshaw, JM Morgan, JM Mabius, 
+C.S. Penfield JH Boyd, JC Hanna on the 
+part of defendant JB Barnes, F Snitzinger, Ruby
+Stanley, Thomas Jefferson,</p>
+
+<pb/>
+
+<p>This court after hearing the testimony and deliberating 
+on the same and having considered the <add>law and the</add> evidence
+find that the offense as charged in the complaint
+filed in this case has been committed and that 
+there is probable cause for charging the defendant 
+Ray Raymond with the crime of Murder in the 
+first degree and that the proof is evident and 
+the presumption great that the said defendant is
+guilty of said crime</p>
+
+<p>It is therefore ordered that the dedendant 
+be committed to the country jail of Spokane 
+county withtout bail to answer at the next 
+term of the district court of the 4th Judicial district 
+holding terms at the county seat of 
+Spokane County to answer to the said charge
+of Murder in the first degree and that the 
+witnesses for the prosecution be required 
+each to recognize in the sum of Two 
+Hundred dollars to appear at said court 
+to testify in this case</p>
+
+<p>Dated July 2 1886</p>
+
+<p>JJL PEEL J.P.</p>
+<p>Jno I Booge J.P.</p>
+
+<p>Territory of Washington
+County of Spokane } SS</p>
+
+<p>Know all men by these 
+present that we W.D. Gillespie, Joseph 
+Bradshaw, JW Mabius, CS Penfied</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

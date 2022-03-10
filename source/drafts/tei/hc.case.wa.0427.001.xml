@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0427.001"> <!-- replace with number from spreadsheet -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0427.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"></title><!-- replace with name of case; type of document -->
+<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>October 17, 1887</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Thomas S. Brown, G. Geods, George 
+Dowing, Chas. Schubarb, Carl Jong
+Matson named in the process as
+C.J. Young and Peter J. Wegner</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Junius Rochester</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hon. C. D. Emery</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Richard A. Jones</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>THIRD JUDICAL DISTRICT OF WASHINGTON 
+TERRITORY</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2020" who="#ini">Grace A. Rittscher.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0427.001"/> <!-- insert number from spreadhseet -->
+
+
+<fw type="footer"> &amp;</fw>
+
+<p>FILE No.5567</p>
+
+<p>KING 1887</p>
+
+<p>TERRITORIAL COURT PROJECT
+CASE FILE DATA ENTRY FORM</p>
+
+<p>000        CONTROL NUMBER ______/3    120    ACESS CODE
+140          KING                                                    200      DATE: 1887
+36X
+
+37X      NAME OF DEFENDANT (S)
+
+38x PROBATE CASE NAME(S)
+
+39X SUBJECTS (S) 
+                                    Habeas Corpus, Wbit
+
+401 SEX OF DEFENDANT IN CRIMIAL CASE   410  TYPE OF CASE     420    DECISION OF COURT
+                                                                                                 Misc.                                        
+700 COUNTRY CODE                                                               711    type - - - -  - (PRO, CIV, CRI, ADM, EQU)
+90X DESCRIPTION 
+    Application of Thomas Brown for a Wait of Habeas Corpus 
+
+
+
+
+910 LOCATION (BOX NUMBER, REEL NUMBER)
+</p>
+
+<pb/>
+<p>
+IN THE DISTRICT COURT OF THE THIRD JUDICAL DISTRICT OF WASHINGTON 
+TERRITORY, HOLDING TERMS AT SEATTLE,</p>
+
+<p>  In the matter of the application
+of Thomas S. Brown, G. Geods, George 
+Dowing, Chas. Schubarb, Carl Jong
+Matson named in the process as
+C.J. Young and Peter J. Wegner for
+a Writ of Habaes Corpus and discharge. </p>
+
+<p>TO THE HON.RICHARD A. JONES, JUDGE OF THE ABOVE STYLED COURT: </p>
+
+<p>Your petitonior Jumius Rochester petions the Court an dsays-
+That in this petition he appears in behalf of and as the agent of 
+Thomas S. Brown, G. Geods, George Dowing, Chas. Schubarb, Carl Jong Matso
+named in the processes as C.J. Young and Peter J.Wegner. </p>
+
+<p>That the said persons above named well defendant in cases of the
+United States against them before Hon. C. D. Emery, United States Commissioner 
+at Seattle in King County, with jurisdiction to hear and try certain 
+caused at law.</p>
+
+<p>That the above named persons are and each of them is illegally
+wringfully and wihtout any authority of law restrained of his liberty 
+by Thomas Jefferson Hamilion United States Harshal for Washingtion
+Territory, at McNeils Island at the United States Penitentiary in the 
+County of Washingtion Territory. </p>
+
+<p>That the caused and pretese of the restraint of the liberty of
+said persons and each of them is the alleged commission of acts which
+are in no wise a violation of any law of the United States or of the 
+Territory of Washington, and which conestitues no crime, misdemanor or 
+offense whatever.</p>
+
+<p>That the illegality of the restraint herein complained of consists
+in the wrongful, unlawful and unwarranted defention of each of said
+persons named herein as detained by the said Hamiltion upon an alleged
+commitment issued by C.D. Emery as aforesaid, which charges no offense
+against the laws of the United States or Territory of Washingtion and </p>
+
+<pb/>
+
+<p>your petitioner futher says, that the recitals in said commintments and
+in each of them, upon which the said Hamilton holds th esaid persons
+show that there has been no crime or offense committed by said persons
+or either of them, and that the acts with which they and each of them is
+charged do no constitute any offense against the laws of the United 
+States or Washingtion Territory, or any crime, misdemanor or offense 
+whatever: that the several commitments in the case of each of said
+persons are idential except the names of the several defendants 
+are different in each: a true exact copy of one of each of said 
+persons are identical except th enames of the several defendants 
+are different in each: a true exact copy of one of said commitments, 
+to wit: commitment in the case of Thomas S. Brown  upon which said 
+Thomas S. Brown is held as aforesaid, and which is the sale and only
+authorty of the said Hamilton for detaining the said persons or any
+of them is hereto annemed as part hereof and made a part of this
+petiton marked exhibit and peeitioner futher says that the only 
+offense charged  against the said Thomas S. Brown or against any of
+said persons herein named as unlawfully restrained of their liberty,
+is that each of said perons, on or above teh 10th, day of October
+1887, in the Territory aforesaid, disoeyed th eorders of the Master of 
+the American ship Ivanhoe.</p>
+
+<p>Petitioner says that ther is no other or further cause for 
+such detention save as above stated: 
+</p>
+
+<p>Wherefore your petitioner prays your Honor to grant unto the said 
+Thomas S. Brown, G. Geods, Gerorge Downing, Chas. Schubarb, Carl Jong Matson
+named in the processes as C.J. Young and Peter J. Wegner a Mrist of Habeas
+Corpus commanding and ordering the said Thomas Jefferson Hamilton to
+produce before your Honor at such time and place as your Honor deems 
+wise an dmeet the bodies of the said Thomas S. Brown,   G. Geods, Gerorge 
+Downing, Chas. Schubarb, Carl Jong Matson named  in the processes as
+O.J Young and  Peter J. Wegner, and that your Honor will hear and determine whether theey are or either of them is illegally detained or restrained
+of his liberty and that they and each of them be discharged and permitted to go their way without further delay detention, </p>
+
+<pb/>
+
+
+<p>TERRITORY OF WASHINGTON 
+COUNTY OF KING
+------------------ - S. S. </p>
+
+<p>PERSONALLY APPEARED BEFORE ME JUNIUS ROCHESTER 
+WHO UPON OATH DEPOSES AND SAYS THAT HE APPEARS HEREIN UPON THE
+HALF AND AS THE AGENT OF THOMAS S. BROW., G. GEODS GERORGE DOWPETER
+J. WEGENER, THAT HE IS THE PETEETIN ON THEIR BEHALF NAMED
+HEREIN AND IN THE AFORE SAID AND HEREIN PETITOIN, THAT HE HAS READ
+THE SAID PETITION AND KNOWS THE CONTENTS THEREOF AND BELEIVES 
+THE SAME TO BE TRUE. </p>
+<p>                                                                            Jamius Rochester
+   SWORN  TO AND SUVSCRIBED
+BEFORE ME THIS 15TH. DAY OF OCTOBER 1887.</p>
+
+
+<p>Jacob Mctrafe
+Habaus Petition</p>
+
+<pb/>
+
+<p>FINAL MITTIMUS                                                                                      NO.________
+United States of America,
+Terriotry  of Washingtion,
+City  of Seattle</p>
+
+<p>The President of the United States of America to the Marshal of said Territory,
+and  to the Keeper of the Jail of King County, in the Territory 
+of Washington, Greeting: </p>
+
+<p>Whereas, Thos S. Brown
+has been arrested upon the oath of D.A. oarter
+for having, on  oor about the 10th day  of October A.D. 1887, at
+Disobeyed the orders of the master of the 
+American ships franhve </p>
+<p>and has been examined by me, CHARLES D. EMERY a Commissioner of the United States for said Territory of Washington, upoon the aforesaid charge, and has been required to give bail in the sum of  $500.00/100 Dollars for ______ appearance before the 
+District  Court for the 3rd Judicial District of said Territory, on the first dayof the next regular term thereof, which requisition he__ ha___ failed to comply  with: </p>
+
+<p>
+These are, therefore, to Command you, In the name and by  the authority of aforesaid,  to receive the said  Thos S. Brown prisoner__ of the United States of America, into your custody, to remain ni confinement until__ he__ be dicharged by due course of  law.</p>
+
+<p>Given under my hand and seal in the City and Territory aforesaid, this
+11th day of October A.D. 1887
+(sigues) 
+L. D. Emery
+U.S. Commissioner.</p>
+
+<pb/>
+
+<p>In Re affliation of 
+Thos S Brown 
+for Habeas Corpus </p>
+
+<p>Exhibit A</p>
+
+<ab>THE UNITED STATES of AMERICA
+vs.
+Thomas S. Brown</ab>
+
+<ab>final Mittimus. </ab>
+
+<p>Issued...................18......
+Returned and filed
+..........................18......
+.................................
+U.S. Commissioner Washington Terr.</p>
+
+<ab>Return. </ab>
+<p>Received this MITTIMUS with the within named
+Prisoner, on the......day  of.............
+A.D. 18....., and on the same day I committed the
+said Prisoner to the custody of the  within named
+Jail Keeper, with whom I left at the same time a 
+certified copy of this Mittimus.
+Dated...............18........
+....................................
+U.S. Marshal Washington Tex.
+By.................................Deputy. </p>
+
+<pb/>
+
+<p>1500 No 5567</p>
+
+<p>In the metter of 
+the affliation 
+of Thomas S Brown
+eralfna
+wrat of Habeas 
+Corpus</p>
+
+<p>Field of  17/89
+WELeaguevord
+</p>
+<pb/>
+
+<p>IN THE MATTER OF THE APPLICATION OF
+THOMAS S. BROWN ET AL.
+FOR A WRIT OF HEABAS CORPUS ETC.</p>
+
+<p>N. 511</p>
+
+<p>UPON READING THE PETITION OF JUNIUS ROCEHESTER WHO PETITIONS
+UPON THE BEHALF AND AS THE AGENT OF THOMAS  S. BROWN, G. GEODS
+GEORGE DOWNING CHARLES SCHUBARD CARL JOHN MATSON KNOWN AS C.J. YOUNG AND PETER J. WEGENER PRAYING FOR A WRIT OF HEABEAS CORPUS 
+FOR THE REASONS AND CAUSES NAMED THEREIN AND COMPLAINED THEREIN
+AND THE COURT BEING FULLY ADVISED IN THE PREMISES AND THE PETITIONER
+EVER PRAYING NOW IT IS ORDERED THAT THE SAID WRIT OF
+HABEAS CORPUS ISSUE DIRECTED TO T.J. HAMILTON MARSHAL OF WASHINGTON 
+TERRITORY COMMANDING HIM TO PRODUCE THE BODIIES OF THOMAS
+MATSON (KNOWN AS C.J YOUNG) AND PETER J. WEGENER BEFORE ME AT
+THE DISTRICT COURT ROOM IN THE CITY OF SEATTLE W.T. AT THE HOUR 
+OF TWO O CLOCK IN THE AFTERNOON  OF THE 17TH DAY OF OCTOBER 
+A.D. 1887. THAT THEN AND THERE I MAY ENGUIRE IN THE CAUSES 
+COMPLAINED OF AND SAY IF THE SAID PETIONERS ARE SO ILLEGALLY RESTRAINED 
+AS COMPLAINED, AND THAT I MAY DO AND DIRECT AS PROPEH IN 
+THE PREMISES. AND THE CLERK OF THE HEREIN MANED COURT IS ORDERED
+TO ISSUE THE HEREIN NAMED WRIT.
+DONE AT SEATTLE H. T. OCTOBER 15TH. 1887.</p>
+
+<p>RA JOUES</p>
+
+
+<pb/>
+
+<p>no 5367
+
+In the matter of 
+the afflication
+of Thomas S Brown
+writ of Habus Corpus </p>
+
+<p>Field of 17/89
+WELeugevurod</p>
+
+<pb/>
+
+<p>N. 512</p>
+
+<p>In the District of Washington of the Third 
+Justice District of Washington 
+Territory, holding terms at Seattle</p>
+
+<p>
+In the matter of 
+the afflicatoin of
+Thomas S Brown
+etal. for Habeas 
+Corpus and Discharge.   </p>
+
+
+<p>No. 5567
+Order discharging
+Defendants </p>
+
+<p>This cause coming on to be heard
+upon the retrival of TSB familtion
+the Writ of Habeas Corpus here to
+fore issued herein, and Thomas S Brown, G Geods, George Douning, Chas Schuford, Loare Jong Mats on
+known as C.J Young and Peter J Wegner
+being in often court attended
+by their Consel Miss Metcalfe
+of Rochester and Lewis and Gulinace
+and the United States appearing 
+by its Counsel Charles F. Monday
+Easy Assistaur United States District
+attorney, and said TJS familetion
+having returned said unit into 
+Court writ his doings. Therefore
+and the cause of the detention
+of said. Defeudants herein </p>
+
+<pb/>
+
+<p>and if appearing to the Court
+that  said fersois were and are illegally and wrongfully
+restrained of their Liberty
+by said TJ Hamilton and 
+the court being suffieiently
+advised this considered
+by the court that said 
+Thomas S Brown, G Geods, 
+George Downing, Charles Schubard,
+Core Jong Matsern
+known as  CJ Young and 
+Pter J Wegner be and they are hereby discharged from
+ custody and that they go 
+here michour day and
+that day recover their
+costs herein expendure
+and may have execution. </p>
+
+<p>Field out 7/87
+W E Seugerurnd Rleel</p>
+
+<pb/>
+
+<ab>IN THE DISTRICT COURT,
+
+Of the Third Judicial District of Washington Territory, holding
+Terms at Seattle, for the Countries of King and Kitsap.</ab>
+
+<ab>
+HABEAS CORPUS</ab>
+
+<p>The People of the United States of America, to the marshall
+of Washington Territory Greeting: </p>
+
+<p>We command you, that you have the bodys of Thomas S Brown, G Geods, Geog Downing, Charles Schubard, Carl Jong Matson, Peter J Wagner 
+by you imprisoned and detained as it is said, together with the time and cause of such imprisonment and detention by whatsoever name said Thomas S Brown, G Geods, Geo Dowing, Charles Schubard Peter J Megsuet
+shall be called or charged, before the HON. Ra Jones, Judge of the aforesaid Court at 
+the District Court in the city of Seattle W. at the hour of two oclock in the afternoon of the 17th day of October 1887
+to do and receive what shall then and there be considered concerning the said Thomas S Brown, G Geods, George Downing, Chas Schubard, Carl Jong  Matson (CJ Young) and Peter J Wagner
+And have you then there this writ.</p>
+<p>    WITNESS THE HON RICHARD JONES Judge of said
+District Court, adn teh seal thereof this 17th day 
+of Oct A.D. 1887
+WELeaugervard... Clerk.
+By........................Deputy</p>
+
+<pb/>
+
+<p>No 5567</p>
+<p>
+Writ of 
+Habeaus Corpus </p>
+
+<p>Oct 17/87
+WELEAUGERVARD </p>
+
+
+
+</div1>
+
+    
+</body>
+</text>
+</TEI>

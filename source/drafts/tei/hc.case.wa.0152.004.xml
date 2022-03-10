@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0152.003"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0152.003</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">December 1, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>
+Corbin, Jerome C.
+Corbin, Frank E. 
+Hanford, C. H.
+Root, Elihu
+Rowan, A. S.
+Lueders, H. W.
+Ayres, A. Reeves
+Matthew, H. M.
+Roberts, A. H.
+Matthews, W. F.
+Huston, J. F. 
+Frye, Jesse A.
+Durham, Edmund E.
+Bethel, W. A. 
+Taylor, R. E. 
+Evans, R. K.
+Goe, James B.
+Murphy, Truman O.
+Hawthorne, Harry L.
+Enoche, Berkeley
+Hadsell, Arthur
+Morse, Arthur W.
+Micthell, Harry E.
+Screws, William P.
+Allen, Charles M.
+Wilson, Walter K.
+Nalle, James B.
+Taylor, Reuben C.
+FUNSTON
+Mitchell, B. J. 
+Cushman, Edward E.
+Moors, A. N.
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington'
+Vancouver, Washington
+Tacoma, Pierce County, Washington
+Clarke County
+County of King
+</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Corbin, Jerome C.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Corbin, Frank E.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName> Lueders, H. W.
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Bethel, W. A., Frye, Jesse A., Cushman, Edward E. </persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H. </persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Circuit Court of Washington, 9th District</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0152.001"/> <!-- insert number from spreadhseet -->
+
+
+<p>IN THE UNITED STATES CIRCUIT COURT, NINTH CIRCUITM DISTRICT
+OF WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>In re Frank E. Corbin
+(Writ of habeas corpus--Return of respondent.)</p>
+
+<p>To the Honorable Judge of the said Court.</p>
+
+<p>The respondent, Colonel Joseph F, Huston, 19th Infantry,
+upon whom hasbeen served a writ of habeas corpus for the pro-
+duction of Frank E. Corbin, respectfully makes return and
+states that as Commanding Officer of the Military Port of Van-
+couver Barracks, Washington, he holds the said Frank E. Corbin
+by authority of the United States under the following circum-
+stances:</p>
+
+<p>That on the 30th day of November, 1903, at Seattle Wash-
+ington, the said Frank E. Corbin, being then a minor, did fraud-
+ulently enlist in the military service of the United States for
+the term of three years by falsely representing that he was
+twenty-one years and four months old, and that the said
+Frank E. Corbin has since the said fraudulent enlistment received
+pay and allowance thereunder.</p>
+
+<p>That the said Frank E. Corbin has been placed in confine-
+ment, charged with said offense, and formal charge against him
+therefor have been preferred, a copy of which is hereto annexed,
+and that he will be brought to trial thereon as soon as practic-
+able before a general court-martial convened by Special Orders,
+No. 6, dated Headquarters Department of Columbia, Vancouver
+Barracks, Washington, January 11th, 1904, a copy of which is hereto
+annexed.</p>
+
+<p>In obedience, however, to the said writ of HABEAS CORPUS,
+the respondent herewith produces before the Court the body of
+the said Frank E. Corbin, respectfully refers to the decisions
+cited in the annexed brief, and for the reasons set forth in
+this return prays this honorable Court to dismiss the said writ.</p>
+
+<p>J. F. Huson
+Colonel, 19th U. S. Infantry.</p>
+
+<p>Dated, Vancouver Barracks, Washington
+January 16, 1904</p>
+
+<p>Jesse Attys
+U. S. Atty</p>
+
+<p>Edward E. Cushman
+Asst. US Atty
+W. A. Bethel
+Attorney for respondent.</p>
+
+<p>CHARGES AND SPECIFICATION PREFERRED AGAINST Private
+Frank E. Corbin, Company "D", 19th Infantry.</p>
+
+<p>CHARGE: Fradualent enlistment in violatoin of the 62nd Article 
+of War.</p>
+
+<p>Specification; In that Private Frank E. Corbin, Company "D", 19th 
+Infantry, did at Seattle, Washington, on the 30th day of
+November 1903, he being a minor, fraudulently enlist as
+a soldier in the service of the United States by falsely
+representing himself to befoore over 21 years, to wit, 21 years and 4
+months of age, and that he has since said fraudulent
+enlistment received pay and allowances thereunder.</p>
+
+<p>Ths at Seattle, Washingotn, and Vancouver Barracks,
+Washington, on and after about November 30th 1903.</p>
+
+<p>GSW Herberts
+Cap't and Adj't 19th Infantry
+Officer Preferring Charges.</p>
+
+<p>WITNESSES:
+Sergeant Mohr, Recruiting Station, Seattle, Wash.
+Corbin, (Father of accused)</p>
+
+<p>PREVIOUS CONVICTIONS: one (1)</p>
+
+<p>(duplicant)</p>
+
+<p>THE UNITED STATES
+VERSUS
+FRANK E. CORBIN,
+Private Company "D" 19th 
+Infantry.</p>
+
+<p>Violation of the 62nd A. W.
+(Fraudulent Enlistment)
+The Specification.</p>
+
+<p>1st Indorsement.</p>
+
+<p>Vancouver Barracks, Washington,
+January 16, 1904.</p>
+
+<p>Respectfully forwarded to
+the Adjutant General, Depart-
+ment of the Columbia, recommend-
+ing trial by general court mar-
+tial.</p>
+
+<p>I have investigated this
+case and believe the charges 
+can be sustained.</p>
+
+<p>Statements of service and
+record of previous convictions
+inclosed.</p>
+
+<p>J. F. Huston
+Colonel 19th Infantry,
+Commanding.
+(2 Incl's.)
+(application)</p>
+
+<p>2nd Indorsement.
+HEADQRS. DEPT, OF THE COLUMBIA,
+VANCOUVER BARRACKS, WASH.,
+JAN, 16, 1904.
+To the Judge Advocate, D. C.</p>
+
+<p>3rd Endorsement
+HEADQUARTERS DEPT OF THE COLUMBIA.
+JUDGE ADVOCATE'S OFFICE,
+VANCOUVER BARRACKS WASH.
+Jany 16 1904
+Respectfully returned recommended for trial
+by General Court- Martial</p>
+
+<p>W. A. Bethel</p>
+
+<p>Major and Judge advocate, U. S. Army,
+Judge Advocate.</p>
+
+<p>4th Indorsement
+HEADQUARTERS DEPT OF THE COLUMBIA
+VANCOUVER BARRACKS, WASH.,
+JAN, 16, 1904.</p>
+
+<p>Respectfully referred to 2nd Lt. R.
+E. Taylor, 19th Infantry,
+judge advocate of the general court-martial
+convened by paragraph 1 Special Orders
+No. 6 current series, from these head-
+quarters, for trial.</p>
+
+<p>By command of Brigadjer General FUNSTON</p>
+
+<p>R. K. Evans</p>
+
+<p>Major, Adjutant General</p>
+
+<p>I certify that the within 
+charges together with the
+endorsements hereon are true
+copies of papers in the case
+of the United States vs.
+Frank C. Corbin, which have
+been refered from this of-
+fice to a general court-mar-
+tial for trial.</p>
+
+<p>R. K. Evans
+Major, Adjutant General,
+Department of the Colum-
+bia.</p>
+
+<p>HEADQUARTERS DEPARTMENT OF THE COLUMBIA,
+VANCOUVER BARRACKS, WASH., JANUARY 11, 1904.</p>
+
+<p>SPECIAL ORDERS</p>
+
+<p>NO. 6</p>
+
+<p>1.- A general court-martial is appointed to meet at Vancouver
+Barracks, Wash., at 10 o'clock, a. m. on Friday, January 15,
+1904, or as soon thereafter as practicable, for thee trial of such
+persons as may be properly brought before it.</p>
+
+<p>Detail for the Court.</p>
+
+<p>Major James B. Goe, 19th Infantry</p>
+
+<p>Captain Truman O. Murphy, 19th Infantry</p>
+
+<p>Captain Harry L. Hawthorne, Artillery Corps.</p>
+
+<p>Captain Berkeley Enochs, 19th Infantry.</p>
+
+<p>1st Liuetenant G. Arthur Hadsell, 19th Infantry.</p>
+
+<p>1st Lieutenant Arthur W. Morse, Assistant Surgeon, U. S. 
+Army.</p>
+
+<p>1st Lieutenant Harry E. Mitchell, Artillery Corps.</p>
+
+<p>1st Lieutenant William P. Screws, Batallion Adjutant 19th
+Infantry.</p>
+
+<p>2d Lieutenant Charles M. Allen, Artillery Corps.</p>
+
+<p>2d Lieutenant Walter K. Wilson, Artillery Corps.</p>
+
+<p>2d Lieutenant James B. Nalle, 19th Infantry.</p>
+
+<p>2d Lieutenant Reuben C. Taylor, 19th Infantry, judge
+advocate.</p>
+
+<p>A greater number of officer cannot be assembled without man-
+ifest injury to the service.</p>
+
+<p>By command of Brigader General FUNSTON:</p>
+
+<p>R. K. Evans
+Major, Adjutant General</p>
+
+<p>Official:
+B. J. MITCHELL,
+1st Lieut. 12th Infantry,
+Aid-de-Camp.</p>
+
+<p>IN THE UNITED STATES CIRCUIT COURT, NINTH CIRCUIT, DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>In re Frank E. Corbin.</p>
+
+<p>B R I E F O F R E S P O N D E N T .</p>
+
+<p>A CONTRACT OF ENLISTMENT IS NOT VOIDABLE BY PARENTS OR GUARD-
+IANS IF THE SOLDIER IS HELD PURSUANT TO A SENTENCE OF A COURT-
+MARTIAL OR ANY STEP HAS BEEN TAKEN WITH A VIEW TO BRINGING HIM
+BEFORE SUCH COURT.</p>
+
+<p>In re Kaufman, 41 Federal Reporter, 876; In re Dohrendorf,
+et al., 40 Federal Reporter, 148; In re Cosenow, 37 Federal Re-
+porter, 668; In re Dowd, 90 Federal Reporter, 718; Ex parte
+Anderson, 16 Iowa.</p>
+
+<p>In the Kaufman case, the father sought the discharge of
+his son, who was held by the military authorities and had been
+ordered before a military court for trial as a deserter. Quot-
+ing from the syllabus:</p>
+
+<p>A minor who enlists in the United States Army upon hs rep=
+resentation that he is of age, and receives pay and clothing and
+afterwards deserts and is arrested as a deserter, and at the time
+of his petition is held by the United States awaiting trial by a 
+court-martial for the crime of desertion, will not be released
+under a writ of HABEAS CORPUS upon the ground that being a minor
+his enlistment was unlawful contrary to the Revised Statutes
+of the United States.</p>
+
+<p>In the Cosenow case the minor swore that he was twenty-one
+years and seven months old at the time of enlistment. He
+deserted, and at the time of the filing of the petition was held
+in custody awaiting the action of the reviewing authority on the
+proceedigs of the court-martial. His father sought the discharge
+of his son on the ground of infancy at the time of enlistment.
+The court refused to discharge him, holding that "an enlistment
+contrary to law is not void, but voidable;" that the court-mar-
+tial had jurisdiction of the offense, and the soldier "must be
+remanded to await the result of his trial."</p>
+
+<p>The Dowd case arose on the application of the mother for the
+release of her son, who was held under sentence of a summary
+of court. The court held, quoting from the syllabus:</p>
+
+<p>The enlistment of a minor in the Army without the consent of
+his parents or guardian, required by Revised Statutes, section
+1117, is not void, but voidable only, and while he remains in the
+service under such enlistment the mino is amendable to the Ar-
+ticles of War, and can not be remanded to the custody of his par-
+ents by a civil court on a writ of HABEAS CORPUS while undergong
+a sentence imposed on him by a court-martial for a violation of
+such articles.</p>
+
+<p>In the Anderson cas,e the father procured a writ of HABEAS
+CORPUS for the purpose of obtaining the discharge of his minor
+son from the military custody in which he was held. It was ad-
+mitted by the pleadings that the relator's son was a minor when
+he enlisted and that he enlisted without his parents consent.</p>
+
+<p>The Judge's decision was as follows:</p>
+
+<p>I therefore hold that the return of the respondent in this
+case, that he holds the prisoner for the crime of desertion, and
+that heis now awaiting his trial before a court-martial is suf-
+ficient, and that he must abide by the decision of the latter
+court, before the question of the validity of his enlistment can be
+determined by the civil courts on HABEAS CORPUS.</p>
+
+<p>Section 3 of an act of Congress amending the Articles of 
+War and for others purposes, approved July 27, 1892, provides:
+"That fraudulent enlistment, and the receipt of anypay or allow-
+ance thereunder, is hereby declared a military offense and made
+punishiable by court-martial under the Sixty-second Article of
+War."</p>
+
+<p>In Circular No. 13 of the War Department for 1892, the Acting
+Secretary of War decided that cases of fraudulent enlistment
+should be tried before a general court-martial. That circular
+declared fraudulent enlistment to be "an enlistment procured by
+means of a willful misrepresentation in regard to a qualifica-
+tion or disqualification for enlistment, or by an intentional
+concealment of a disqualification which has had the effect of
+causing the enlistment of a man not qualified to be a soldier,
+and who but for such false representation or concealment would
+have been rejected.</p>
+
+<p>Section 1117, Revised Statutes, provides that: "No person
+under the age of twenty-one years shall be enlisted or mustered
+into the military service of the United States without the 
+written consent of his parents or guardian; PROVIDED, That such
+minor has such parens or guardians entitled to his custody
+and control."</p>
+
+<p>A minor who obtains his enlistment into the military ser-
+vice of the United States by falsely representing that he is
+twenty-one years old is guilty of fraudulent enlistment and is
+amendable to trial by a military court-martial which has exclus-
+ive jurisdiction in such case.</p>
+
+<p>Should a civil court discharge from the Army a minor who is
+under charges and awaiting trial by court-martial for desertion,
+fradulent enlistment, or any other offense prescribed by the Ar-
+ticles of War or other acts of Congress, it would disregard the
+Constitutional power of Congress "To make rules for the Govern-
+ment and Regulation of the land and naval forces."</p>
+
+<p>Under the custom of the service the parents or guardian of a 
+minor who enlists without their consent can obtain his discharge
+upon application to the Secretary of War, prior to the commis-
+sion of a military offense. Their right under section 1117,
+Revised Statutes are thus sufficiently protected; but when the
+minor has committed a military offense the interests of the pub-
+lic in the administration of justice are paramount to the right
+sequence of his offense before the right to his dischagr be
+passed upon. (Digest Opin. J. A. G., SS 1258 and 1204, and notes.)</p>
+
+<p>The soldier should not be allowed to escape punishment for his
+offense, even though his parents assert their right to his ser-
+vices. A minor in civil life is liable to punishment for a crime
+or misdemeanor, even though his confinement nay interfere with
+the rights of his parents.</p>
+
+<p>Jesse A Nye
+U.S. Atty</p>
+
+<p>Edward E. Cushman
+</p>
+
+<p>W. A. Bethel
+Attorney for respondent.</p>
+
+<p>1166</p>
+
+<p>In The U. S. Circuit Courtm
+District of Washington</p>
+
+<p>Northern Division</p>
+
+<p>In re Frank E. Corbin -habeas
+Corpus</p>
+
+<p>Return of Respondent</p>
+
+<p>FILED IN THE 
+U. S. Cicruit Court.</p>
+
+<p>DIST. OF WASHINGTON.</p>
+
+<p>JAN 18 1904</p>
+
+<p>A. REEVES AYRES, Clerk.</p>
+
+<p>HM Matthew
+Deputy</p>
+
+</div1>
+
+    
+
+    
+</body>
+</text>
+</TEI>

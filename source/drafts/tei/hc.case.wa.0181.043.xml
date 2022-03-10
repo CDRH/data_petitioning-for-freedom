@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0181.043">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Seventy-six Hindus v. Seattle Department of Immigration. Memorandum Brief of Petitioners. Reply Brief</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0181.043</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Seventy-six Hindus v. Seattle Department of Immigration. Memorandum Brief of Petitioners. Reply Brief</title>
+<date when="2022">2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-10">October 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Seventy-Three Hindus</term>
+<term>Frank Green</term>
+<term>Herbert W. Meyers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court for the Western District of Washington, Northern Division</term>
+<term>Manila, Philippines</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Moola Singh</persName>
+<persName>Talok Singh</persName> 
+<persName>Dalip Singh</persName>
+<persName>Bhagwan Singh</persName>
+<persName>Pala Singh</persName>
+<persName>Ala Singh</persName>
+<persName>Biahsn Singh</persName> 
+<persName>Rulia Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Harijan Singh</persName>
+<persName>Arjan Singh</persName>
+<persName>Hire Singh</persName>
+<persName>Bhag Singh</persName>
+<persName>Amarao Singh</persName>
+<persName>Duvan Singh</persName>
+<persName>Puran Singh</persName>
+<persName>Nuarang Singh</persName>
+<persName>Dalip Singh</persName>
+<persName>Vir Singh</persName>
+<persName>Ratan Singh</persName>
+<persName>Nama Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Bishan Singh</persName>
+<persName>Rem Singh</persName>
+<persName>Baboo Singh</persName>
+<persName>Bhagat Singh</persName>
+<persName>Thakar Singh</persName>
+<persName>Variam Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Gurdit Singh</persName>
+<persName>Kishan Singh</persName>
+<persName>Gurbakhoh Singh</persName>
+<persName>Khazan Singh</persName>
+<persName>Paren Singh</persName>
+<persName>Milkha Singh</persName>
+<persName>Narnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Varian Singh</persName>
+<persName>Sham Singh</persName>
+<persName>Kakoo Singh</persName>
+<persName>Basant Singh</persName>
+<persName>Pooran Singh</persName>
+<persName>Sher Singh</persName>
+<persName>Santa Singh</persName>
+<persName>Harnam Singh</persName>
+<persName>Munshi Singh</persName>
+<persName>Parem Singh</persName>
+<persName>Partap Singh</persName>
+<persName>Naurang Singh</persName>
+<persName>Farzona Ali</persName>
+<persName>Ahas Ali</persName>
+<persName>Bahadar Shah</persName>
+<persName>Mir Ahdylla</persName>
+<persName>Nizam Din</persName>
+<persName>Sultan Ali</persName>
+<persName>Bagh Ali</persName>
+<persName>Niaz Mohd</persName>
+<persName>Rahmat Alla</persName>
+<persName>Nayat Kahn</persName>
+<persName>Amir Rhan</persName>
+<persName>Amir Khan</persName>
+<persName>Mohd Alam</persName>
+<persName>Isay Khan</persName>
+<persName>Amarat Khan</persName>
+<persName>Sanday Khan</persName>
+<persName>Shali Khar Khan</persName>
+<persName>Namdar Khan</persName>
+<persName>Gulam Modh</persName>
+<persName>Sanday Khan</persName>
+<persName>Baggn Khan</persName>
+<persName>Umar Den</persName>
+<persName>Ali But</persName>
+<persName>Hanz Mohd</persName>
+<persName>Chiragh Din</persName>
+<persName>Madda Din</persName>
+<persName>Ibrahim Din</persName>
+<persName>Ismail Din</persName>
+<persName>Rahmat Ali</persName>
+<persName>Noor Khan</persName>
+<persName>Ishar Singh</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Herbert Meyers</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John J. Sullivan</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<pb></pb>
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
+OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE 
+UNLAWFUL DETENTION OF 
+SEVENTY-THREE HINDOOS.) ) )
+No. 2532. 
+MEMORANDUM BRIEF OF 
+PETITIONERS. 
+REPLY BRIEF.</p>
+<p>PRACTICE OF DEPARTMENT.
+It will be noted that the respondent states
+that it has been the practice of the department to issue
+warrants where the aliens were likely to become public
+charges, and not to wait until the aliens had become
+public charges. This clearly shows that the practice
+of the department has not been in accordance with law,
+and in accordance with Section 20. The respondent urges
+that he knows of no decisions in which more than a
+liklihood to become public charges is necessary.</p>
+<p>The language of Section 20 is to plain and
+the government's rules are so clear that it was intended
+that the alien should actually become a public charge
+before a warrant should be issued, that a decision could
+hardly be founded on a matter that is plain on its face
+as to the intent of Section 20</p>
+<p>The practice of the department in the past is
+<pb></pb>
+not law for this court, but the construction of Section
+20 can be but one way, if the court is strictly construes
+that section, as petitioners believe it should be construed.</p>
+<p>RESPONDENT'S CITATION PROVES PETITIONERS' CASE.</p>
+<p>By reference to United States vs. Williams, 
+175 Federal, 274, it will be noted that this case decides
+the very points contended for and by the petitioners.
+The holding there was that if the Secretary violated the
+statute, that the courts would interfer, also that the
+courts would see that there was some evidence upon which
+the decision of the secretary was based. In that case, 
+the Court further decided that it was not only necessary
+to find that the alien had become a pauper, but that it
+might be shown that alien had become a prisoner as well,
+showing clearly that if would be neccessary for him to
+become something, either a pauper or a prisoner.</p>
+<p>The United States attorney contends that the
+warrant was not issued as a result of a clandestine entry, 
+but on a liability to become a public charge, showing
+clearly that these cases could not come within the purview
+or the intent of Section 20.</p>
+<p>FRANK GREEN'S STATEMENT.</p>
+<p>That respondent states that he had a talk with
+Mr. Frank Green, and the attorney for petitioners 
+likewise had a talk with the said party. Mr. Green states
+that he was a soldier in the Philippine Islands and that
+it was customary to demand a registration certificate 
+before permitting aliens in the Philippine Islands to 
+<pb></pb>
+testify in court or to do any act concerning governmental 
+or city or state business, but on reading the affidavit 
+of the interpretor which petitioners furnished, Mr.
+Green states that doubtless that is a fact today, and
+that such rules are doubtless followed. That what he 
+was referring to was that during the time of the insurrection
+when he was a soldier was issuing some of these
+certificates himself. That he really did not know as
+to the law or as to what the immigration or governmental
+requirement was, but he believes that perhaps some
+such rule as that mentioned by the interpretor was
+probabaly correct.</p>
+<p>GOVERNMENT ADMITS OUR CONTENTION. 
+It will be noted by referring to the memorandum
+brief of respondent on the first page thereof, the 
+second from the last line, this language used by the attorney
+for the government, "and whether at said hearing
+some evidence has been secured". It has been our contention
+that no evidence has ever been presented. At 
+the bottom of page 3 of respondent's brief, it will be
+noted the government contends that the language used
+in Section 20 quoted by petitioners as to those who do
+become public charges is contended by the government to
+have meant to meet cases where it could not be said
+that there was a liklihood to become a public charge
+at the time of entry. There is nothing in the law
+justifiying this assertion and Section 20 is so plain that
+it would be hard to read this contention into it.</p>
+<pb></pb>
+<p>At the bottom of page 4 of respondent's brief, 
+counsel states that Section 20 explicitely authorizes 
+deportation for unlawful entry. This is quite correct, 
+but he goes on and parenthetically states (including
+original liability to become a public charge within three
+years). There is nothing in the law to justify this 
+parenthetic statememt and the section is so plain as to
+make it obvious to the court that this is not intended.</p>
+<p>On page 5 of respondent's brief, the sixth line
+thereof, counsel states that the official warrants upon
+authority of which the aliens are held has no bearing
+on the original entry into the Philippines and that the
+original entry is not questioned by the secretary's
+warrant, but that the only ground on which the aliens are
+held is of their liability to become public charges, which
+is plainly not in accordance with Section 20, and here
+again the government practically admits our contention.</p>
+<p>Again, in the middle of page 6, the government
+admits our contention as to the method of issuing the
+informal certificate prior to the issuance of the cedula
+or head tax. Thus it will be seen that the United States
+attorney has in his bried admitted every contention made
+be counsel for the aliens, his only contention now being
+that Section 20 does not mean what it plainly and un-
+equivocally states, and if it is to be strictly construed
+the government's contentions cannot stand a moment.</p>
+<p>The only other contention made by the government
+is an attempt to read into Section 20 certain practices
+<pb></pb> of the department which the petitioners claim is no
+ground by reason of the unauthorized and unlawful 
+authority exercised by the secretary and immigration 
+officials in the past, due largely to the fact that the
+courts have not had these matters brought to their 
+attention in the past.</p>
+<p>At the top of page 7 of respondent's brief,
+respondent states that the same exhibits attached to
+the brief of petitioners were sent to Washington,
+this is not true. There were documents sent to Wash-
+ington, but none so conclusive of a proper examination
+at Manila and a lawful entry, as the ones attached to
+petitioners' brief. It seems to petitioners that
+these documents cannot be answered and that a lawful 
+entry is shown thereby, the government admitting again
+that these documents show more or less clearly that the
+aliens were before the immigration authorities at Manila.</p>
+<p>Again, at the end of the first paragraph of
+Paragraph 7 it will be noted that the government admits
+that there was no clandestine entry, but it is here con-
+tended that the unlawful entry is not the basis for the
+secretary's warrant on authority of which the aliens are
+now being held, again admitting that an unlawful entry
+is not shown in any way and practically admitting a
+lawful entry.This does away with the only ground upon
+which the government has to stand, which throws the
+argument back upon the liability to become a public
+charge, and in view of the specific terms of Section 20,
+this contention must fall.</p>
+<pb></pb>
+<p>SECTION 20, NOT SECTION 3.</p>
+<p>The government in the respondent's brief,
+endeavors to inject Section 3 into the argument. The court
+will have little difficulty in determining that Section
+3 has nothing to do with this case and Section 20 is the
+only section upon which the secretary can issue the
+warrants.</p>
+<p>NO EVIDENCE INTRODUCED.</p>
+<p>On the last page of respondent's brief, this
+language is found,"some evidence, however slight, having
+been introduced in support of the ruling of the secretary".
+No matter how carefully the court scans the testimony,
+he will find that there has not been a word of testimony
+and there has been no evidence introduced and there has
+never ever been any evidence before any of the government
+officials on the point involved in this petition,
+on the fact of aliens having already become public
+charges.</p>
+<p>In the case cited by the government, it will be
+noted that the courts held there must be some evidence and
+that the decision was only final where it complied with
+the law, in the one case where there had been no appeal
+taken when that was the requisite, and in the other that
+there had been an unlawful entry shown by the evidence, which
+is not true in the case before this Honorable Court.
+Respectfully submitted,</p>
+<p>Herbert W. Meyers
+Attorney for Petitioners.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

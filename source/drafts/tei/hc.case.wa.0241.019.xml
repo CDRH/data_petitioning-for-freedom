@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0241.019"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Walker et al. Summary of Case</title> 
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0241.019</idno> 
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Walker et al. Summary of Case</title>
+<date/>
+<note type="project">Our transcription is based on a digital image.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-07">July 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Arnold, Emma</term>
+<term>Dolan</term>
+<term>Dolan</term>
+<term>Foster</term>
+<term>Kelly</term>
+<term>Lockwood</term>
+<term>Smith, Anna</term>
+<term>Stunter</term>
+<term>Stunter</term>
+<term>Walker, Charles</term>
+<term>Whithem</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Port Downsend</term> 
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Territory of Washington</persName>
+</person>
+<person role="defendant">
+<persName>Walker, M.A.</persName>
+<persName>Walker, Charles</persName>
+<persName>Walker, Helen</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Campbell, A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court For The Western District of Washington Northern Division</orgName>
+<placeName>Western District of Washington</placeName> 
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2019" who="#sab">transcribed, encoded</change> 
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0241.019"/>
+
+<p>Mr Lockwood: Mr &amp; Mrs. Dolan: Mr &amp; Mrs Stunter Miss Emma Arnold: Mrs Whithem: Anna Smith: My mother Mrs. Foster: My Brother in law Mr Chal Walker &amp; my <unclear></unclear> were present: he said that his folks would luck him cut and wanted to know if he returned could he stay all night at my house. I told him "yes." That he could sleep with my mother-in-law" said that his mother often locked from out &amp; that was the reason he wanted to return: had some beer in the house some lemonade, &amp; eatables: he drank <unclear></unclear> or give glasses of beer during the evening: came to my house just about dark: was not intoxicated either when he came to my house just about dark: was not intoxicated either when he came to my house or at the time when he departed: my husband was away last night. Came in on the boat, think it was about one o'clock when he got home, and about half or one hour before the Switch engine came along: <del>was about</del> he came home with Hy Lockwood from Port Downsend: have no idea <unclear>(sworn to all the way from an hour, to ten minutes. an hour just then ten minutes)</unclear> how long it was after Mr Lockwood departed until my husband came home: sat up made lay an hour after Mr. Walker came home before me went to Ted and then me put the lights out: hadn't gone to sleep before Mr Kelly notified us of the mans death: think Mr Walker was &amp; said he was asleep when engine passed: I heard two voices on track between or twenty minutes before Engine came along and thought that one voice sounded like that Mr Lockwood: when Mr Kelly called me went down and seen that it was Mr Lockwood who was killed:</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

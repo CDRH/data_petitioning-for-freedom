@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0154.009"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0154.009</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">October 14, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clifford, Peter A.
+Long (Clifford, Williams), Grace E.
+Clifford, Alice B.
+Burt. J.  J.
+White, W. H. 
+DeLang, James
+Hanford, C. H.
+Ayres, A. Reeves
+Matthew, H. M.
+Herice, Deevnay 
+Fuller, Melville W.  
+Hopkins, C. B.
+Stringer, John
+Heade, Matthew H.
+Tallman, Boyd J.
+Humphreys, William P.
+Allison, William B.
+Norris, George E.
+Huxston, R. I.
+Koepfli, C. A.
+Brewster, J. M.
+Moor, A. N. 
+Drake, James C.
+Wright, B. O. 
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Georgetown, King County, Washington
+San Francisco, San Francisco County, California
+Seattle, King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Clifford, Peter A.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Long (Williams, Clifford), Grace E.
+Williams, Herbert O.</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>White, W. H.
+Burt, J. J. 
+Steiner, G. E.
+Sweeney
+French
+</persName>
+</person>
+<person role="attorney_defendant">
+<persName>
+Humphreys, William P.</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Hanford, C. H.
+Tallman, Boyd J.</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0154.001"/> <!-- insert number from spreadhseet -->
+
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, NINTH JUDICIAL CIRCUIT,
+DISTRICT OF WASHINGTON,
+NORTHERN DIVISION.</p>
+
+<p>Peter A. Clifford,
+Petitioner,
+vs.
+Herbert O. Williams and
+Grace E. Williams,
+Respondents.</p>
+
+<p>No.
+Motion to dismiss for want of 
+Jurisdiction.</p>
+
+<p>Come now the respondents Herbert O. Williams and
+Grace E. Williams, by their attorneys Sweeney and Steiner, and moves the
+court to stay proceedings herein, and dismiss the above entitled cause,
+on the ground that the court has no jurisdiction in the premises.</p>
+
+<p>Sweeney Steiner
+Attorneys for respondents.</p>
+
+<p>No. 1204.
+CIRCUIT COURT OF THE UNITED STATES,
+DISTRICT OF WASHINGTON,
+NORTHERN DIVISION.</p>
+
+<p>Peter A. Clifford,
+Petitioner,
+vs.
+Herbert O. Williams and
+Grace E. Williams,
+Respondents.</p>
+
+<p>Motion to dismiss for want of
+jurisdiction.</p>
+
+<p>FILED IN THE 
+U. S. Circuit Court,
+DIST. OF WASHINGTON.
+JUN 20 1904
+A. REEVES AYRES, Clerk
+HM Matthew Deputy</p>
+
+<p>Sweeney and Steiner,
+Attorneys for Respondents,
+Heller Bldg. Seattle, Wash.</p>
+
+<p>UNITED STATES CIRCUIT COURT
+DISTRICT OF WASHINGTON
+Northern Division.</p>
+
+<p>PETER A. CLIFFORD,
+Petitioner,
+v.
+HERBERT O. WILLIAMS
+and GRACE E. WILLIAMS,
+Respondents.</p>
+
+<p>No. 1204.
+Filed June 28 
+1904.</p>
+
+<p>Petition for a writ of habeas corpus by a citizen of
+California to obtain custody of his minor child. Heard on
+motion to dismiss for want of jurisdicion. Motion granted.
+W. H. White, and
+J. J. Burt.</p>
+
+<p>For the Petitioner.</p>
+
+<p>Sweeney and Steiner, For the Respondents.</p>
+
+<p>HANFORD, District Judge:-</p>
+
+<p>This cause involves a controversy between divorced
+parents for the custody of their child. The petitioner is
+a citizen of California, in which state the parties were
+domiciled when they were divourced. The divorce was granted
+by a court of the state of California, and by its decree the 
+custody of the child was awarded to the mother in accordance
+with the laws of California, for the reason that being a lit-
+tle girl of tender years it required the nuture of its
+mother, although the divorce was granted to the father on ac-
+count of her fault. The decree, however, recognized the
+parental rights of the father by according to him the priv-
+ilege of seeing the child periodically. The mother, after
+being marriedd to her co-respondent, Herbert O. Williams, re-
+moved from California to the state of Washington, bringing
+the child with her, without obtaining leave of the court to
+change the child's domicil, and the respondents are now cit-
+izens of the state of Washington. The court which granted
+the divorce subsequently made a new order, awarding the cus-
+tody of the child to the father upon his application, of
+which notice was served upon the attorney of reocrd for the 
+mother. The respondents have by formal proceedings in a
+court of the state of Washington attempted to acquire a le-
+gal right to the custody of the child by adoption, which
+proceedings are alleged in the petition to be invalid, for
+the reasons that the petitioner did not consent to such adop-
+tion of his child, and the court in which the proceedings
+were had did not have jurisdiction. The respondents deny
+the jurisdiction of this court to entertain the petition
+for a writ of habeas corpus, and on that ground have moved
+to dismiss the case.</p>
+
+<p>I am impressed with the plausibility and force of the
+arguments made in behalf of the petitioner, that it is de-
+sirable that the national courts should have jurisdiction
+of controversies involving conflicting orders and judgments
+of courts of different states, but the court has no power to
+invest itself with jurisdiction, and cannot assume it unless
+jurisdictionn has been conferred by an act of Congress. The
+Constitution of the United States establishes the range of
+the judicial power of the national government, and ordains
+that the judiial power shall be vested in a Supreme Court,
+and such inferior courts which Congress is authorized to create. Con-
+gress is entrusted with power to create tribunals inferior 
+to the Supreme Court, and to define their jurisdiction so as
+to make distribution of the limited powers which the judicial
+branch of the national government may exercise. Therefore,
+whenever one of the inferior courts contemplated by the con-
+stitution is called upon to adjudicate a controversy, it
+must appear that the jurisdiction invoked has been conferred
+by an act of congress. These principles are fundamental,
+and as incontrovertibly established by the often repeated
+declarations of the courts, as the fact of the distribution
+of the powers of the national government into three co-orfin-
+ate branches. The jurisdiction of this court to adjudicate the
+controversy between the parents of this child having been
+challenged by the respondents' motion, the court cannot con-
+sider any question touching the merits of the controversy,
+until we find a particular statute which clearly confers
+jurisdiction to adjudicate such a controversy.</p>
+
+<p>Where is the statute? In the prosecution of this in-
+quiry, it is logically necessary to first ascertain the na-
+ture of the case, and its object. Originally, in England,
+the great writ of Habeas Corpus ad subjiciendum was one of the
+high prerogative writs by which courts acquired jurisdiction
+of a person actually imprisoned or deprived of his liberty;
+but in this case the writ was issued as a process of the court
+to acquire temporary custody of a child which has not been
+incarcerated in any prision, for the purpose of adjudicating
+a controvery between its parents as to their respective
+rights to its custody. The object sought by the litigation
+is not to release the child from restraint but to determine
+finally the legal rights of the parents. The case being a
+civil action at law, and the jurisdictional process, being
+the writ of habeas corpus, two theories of jurisdiction must
+be canvassed, one requiring consideration of the general
+statute defining the jurisdiction of the United States circuit
+courts, and the other the statutory provisions relating par-
+ticularly to writs of habeas corpus.</p>
+
+<p>Looking, now, to the statutes, we find that congress,
+by the general law defining the jurisdiction of United States
+circuit courts has conferred upon them jurisdiction inclus-
+ive of civil cases arising under the constitution or laws
+of the United States, or treaties made under their authority,
+and cases in which there shall be a controversy between cit-
+izens of different states. If this grant of jurisdiction
+were absolute and unlimited, there would be no difficulty
+in resolving the question now under consideration n favor
+of the court's jurisdiction, but the statute does not give
+jurisdiction of all cases arising under the constitution,
+laws or treaties of the United States, nor of all cases in-
+volving controversies between citizens of different states,
+but limits the jurisdiction of all such cases by a prescib-
+ed amount of money or pecuniary value involved, and this cause
+cannot be brought within the terms of that statute because
+the right of a parent to have the custody of a minor child
+is priceless, and the value of a person's liberty cannot be
+estimated in money. Barry v. Mercein, 5 How. 110; Kurtz
+v. Moffitt, 115 U. S. 487.</p>
+
+<p>Under this general law, circuit courts have jurisdic-
+tion of suits in which the lititgants claim lands under grants
+from different states, and this case suggets the propriety
+of conferring jurisdiction of suits in which the rights
+claimed are based upon judgments or judicial orders of courts
+of different states, without regard to property as the sub-
+ject of litigation or the amount involved. This, however,
+is a matter proper for congress to consider, and arguments
+in favor of such enlargement of jurisdiction can have no
+influence upon a court called upon to decide a question as
+to its jurisdiction under existing laws.</p>
+
+<p>The special grant of power to issue writs of habeas
+corpus is contained in Chapter Thirteen of Title XIII., in-
+cluding Secs. 751-766 U. S. R. S. As significance has been
+ascribed to the arrangement into sections of the different
+parts of the law, it is necessary for a correct analysis to
+consider the several sections separately, and also to treat
+the chapter in its entirety as one law. Sections 751 and
+752 provide that, the supreme court, circuit courts and dis-
+trict courts, and the justices and judges of said courts, 
+within their respective jurisdictions, shall have power to
+issue writs of habeas corpus for the prupose of inquiry into
+the cause of restraint of liberty; section 761 provides for
+a summary hearing, and authorities the court or jusrice or
+judge to dispose of the party as law and justice require.
+These sections seem to contain the entire grant of power,
+and they do not contain any clause or sentence indicating
+limitations of the power. It is unecessary to prove that
+the power given by this law is not without any limitation, be-
+cause unlimited power is not contended for in the argument in
+behalf of the petitioner. The question is, whether the power
+granted by these sections is co-extensive with the judicial
+power of the national government, as defined by the constitu-
+tion, so as to comprehend all cases within the jurisdictiom
+conferrable upon the federal courts, or whether the power is to
+be exercised only in cases within the limited jurisdiction
+conferred upon the courts by other acts of congress. The
+argument in favor of construing the law liberally, as a
+grant of the whole power, permissible to be granted, with
+respect to matters in which the writ of habeas corpus may
+be approximately used as a process by which to acquire juris-
+diction of a particular person, is supported in an able de-
+cision of the Circuit Court of Appeals for the First Cir-
+cuit, in the case of King v. McLean Asylum, 64 Fed. Rep. 331,
+in which that court announced its conclusion:</p>
+
+<p>"That the power granted by the judiciary act of 1789,
+as remodeled by sections 751 and 752 of the Revised Statutes,
+goes to the entire extent of the jurisdiction which congress
+c ould, under the constution, vrst in the supreme court or
+the circuit courts, except as expressly excluded by other
+provisions of statute, and except as also necessarily ex-
+cluded by the inherent nature of the courts themselves, and
+of the machinery given them by law with which to work out
+practical results."</p>
+
+<p>I am unable, however, to follow that decision in this
+case, for the reason that the facts of this cause do not af-
+ford any safe ground upon which to base a distinction be-
+tween this case and the Burrus case, 136 u. S. 586, in which
+the supreme court was called upon to decide, and did decide,
+a controverted question as to the jurisdiction, of a district
+court of the United States in a habeas corpus case, to award
+the custody of a child to its father, and denied the juris-
+diction of the district court, on the ground that the writ
+of habeas corpus cannot be used by courts of the United
+States, except in cases where it is appropriate to their
+jurisdiction, and in that connection the court said:
+ </p>
+
+<p>"Of course this does not mean that they have jurisdic-
+tion in all cases to issue the writ of habeas corpus, but
+that they have such jurisdiction when, by reason of some
+other matter or thing in the case, the court has jurisdic-
+tion which it can enforce by means of this writ."</p>
+
+<p>This is a solemn declaration which cannot be brushed
+aside as mere dicta, and this court is necessarly bound by
+the determinations of the supreme court of questions af-
+fecting the extent of its powers. The only material dif-
+ferences between this case, and the Burrus case, are in the
+facts that, the question involved in that case had reference
+to the jurisdiction of a district court, and no conflicting
+orders or judicial proceedings of courts of different
+states were set up as the basis of rights claimed; whereas
+this case is in a circuit court, and the petitioner claims
+an absolute right to the custody of his child by virtue of
+an order awarding the custody to him made by a court of the
+state of California, and the petition attacks the validity
+of proceedings of a court of the state of Washington giving
+judicial sanction to the adoption of the child by the re-
+spondents; but such differences do not justify the applica-
+tion of any different principle or rule for contruing the
+statute. Section 751 confers identically the same power to
+issue writs of habeas corpus upon the district courts that
+it confers upon the circuit courts, and no differences in
+their capacity or functions, or the purposes for which they 
+were established, distinguishing them from the circuit
+courts, reclude the district courts from taking the power
+granted by that section in all of its amplitude. Both are
+inferior to the supreme court, and established by laws en-
+acted by congress pursuant to authority given by the con-
+stitution, and derive all of their powers and jurisdiction
+from the same source, and they are equally well equipped
+in their organization with all the means requisite for ex-
+ercising the functions of a court in taking into custody a
+person, and adjudicating all questions affecting that per-
+son's liberty, and all questions affecting the authrity
+and rights of others with respect to the custody and con-
+trol of infants. The facts that, the litigants are citi-
+zens of differnt states and that case involves a con-
+troversey between citizens of different states, cannot be
+treated as a feature affecting the question as to the rela-
+tive powers of the circuit and district courts, without con-
+ceding that the decision of the question must be controlled
+by the general statues defining the jurisdiction of the
+different courts. Congress has conferred jurisdiction of
+civil actions at law and suits in equity arising under the
+constitution, laws and treaties of the United States, and
+of actions and suits of a civil nature presenting contro-
+versies between citizens of different states upon the cir-
+cuit courts, and has not authorized the district courts to
+entertain jurisdiction upon those grounds, but it may do so,
+and it is not unlikely that in the near future, agitation 
+of the subject which has been going on for many years, will
+result in constituting the district courts the sole repos-
+itories of the original jurisdiction of the federal courts.
+A concession that section 751 is to be construed, for the
+purpose of determining the respective powers of the circuit
+and district courts, with reference to the general statutes
+defining their jurisdictions, is an abandonment of the en-
+tire argument based upon the special grant of powers con-
+tained in the habeas corpus law, because it takes us back to the
+question whether under general law, the case is cognizable in the
+circuit court, and leaves us there.
+</p>
+
+<p>Section 753 contains no grant of power, but is a re-
+striction upon the power of the federal courts, prohibiting
+the issuance of the writ of habeas corpus in behalf of a
+prisoner in jail except under the prescribed ocnditions
+enumerated in that section. To meet the conditions exist-
+ing at the time of South Carolina's attempt to nullify the
+laws of the United States, and deal with officers of the
+ national government under its criminal laws for acts done
+in the performance of official duties, congress enacted:</p>
+
+<p>"That either of the justices of the supreme court
+or a judge of any district court of the United States, in
+addition to the authority already conferred by law, shall
+have power to grant writs of habeas corpus in all cases of
+a prisoner, or prisoners in jail, or confinement, where he
+or they shall be committed or confined on, or by any author-
+ity or law, for any act done, or omitted to be done, in pur-
+suance of a law of the United States, x x x x ." 4 U. S. Stats.
+p. 634, Sec. 7.</p>
+
+<p>This law has been recast in the revised statues, and
+the body of it with changed phraselogy now constitutes sec-
+tion 753, and as already indicated, there is in it no grant
+of powerm so that it must now be construed with reference
+to its position following sections 751 and 752 in order to
+give it any definite and clear meaning, unless we assume that,
+by implication, it confers power to grant writs of habeas 
+corpus in the excepted cases enumerated. Thus construedm
+the section, by implication, would confer jurisdiction upon
+the federal courts generally, without discriminating between
+circuit and district courts, to issue writs of habeas corpus
+in behalf of the persons held in custody in violation of the
+constitution of the United States. It is the main conten-
+tion of the petitioner in this case that as the respondents
+have refused to surrender the child in compliance with the
+order of a court of the state of California they have failed
+to give full faith and credit, in the state of Washington,
+to a judgment of a court of the state of California, and
+that such refusal constitutes detention of the child in cus-
+today in violation of section 1 of Art. IV. of the constitu-
+tion, and that the habeas corpus law does exporessly or by
+implication confer jurisdiction upon this court as a citcuit
+court of the United States to grant the relief which he seeks
+by the writ of habeas corpus. If the law by necessaryim-
+plication does confer jurisdiction upon the federal courts
+to grant writs of habeas corpus in the particular cases enum-
+erated in section 753, such implied jurisdiction is necessaar-
+ily limited by the conditions to which the law is applicable,
+and does not include this case, for the reason that the child
+is not imprisoned in jail, and imprisonment in jail appears
+to be the first condition recited in that section, and is the
+controlling condition governing all of the cases which by
+reason of the exceptions the federal courts are permitted to
+take cognizance of.  </p>
+
+<p>There is another fatal objection to the petitioner's
+contention. That objection is grounded upon the difficulty
+of bringing the case within the purview of the full faith and
+credit clause of the constitution. That section of the
+constitution prives that congress may by general laws pre-
+scribe the manner in which the public acts, records, and ju-
+dicial proceedings of every state "shall be proved, and the
+effect thereof," and pursuant to that authority congress has
+by section 905 U. S. R. D. prescribed the manner in which
+public acts, records and proceedings shall be proved, and the
+effect thereof, as follows:</p>
+
+<p>Sec. 905, x x x The records, and judicial proceedings
+of the courts of any state of territory, or of any such coun-
+try, shall be proved or admitted in any other court within
+the United States, by the attestation of the clerk and te
+seal of the court annexed, if there be a seal, together with
+a certificate of the judge, chief justice, or presiding magis-
+trate, that the said attestation is in due form. And said
+records and judicial proceedings so authenticated, shall have
+such faith and credit given to them in every other court with-
+in the United States as they have by law or usage in the court
+of the state from which they are taken."</p>
+
+<p>Under this law a judgment of a court of a state can on-
+ly be made effective elsewhere within the United States, through
+the instrumentality of a court having local jurisdiction. Sec-
+tion 905, and the provisions of constitution upon which
+it is based, establish a rule of evidence rather than a 
+ground of jurisdiction. Wisconsin v. Pelican Insurance Co.,
+127 U. S. 265-300. See, especially, pages 291-2-3.</p>
+
+<p>Applying this rule to the case in hand, a duly authen-
+ticated transcript of the judgment awarding to the petitioner
+custody of his child, is competent avidence in this state,
+and when so proved in a court of this statem the judgment it-
+self will have the same validity, force and virture in this
+state that it has by law or usage in the state of California,
+unless it can be impeached for fraud or lack of jurisdiction
+in the court which rendered it, the parties and the court
+will be bound by it, so far that the controvery which it
+determined cannot be again litigated in this state. But
+until a court other than a court of the state of California
+refuses to give such faith and credit to that judgment, the
+refusal of the respondents to surrender the child will not
+constitutte a violation of the constitution. In this con-
+nection, it should be noted that the petition does not al-
+lege that in the proceedings for legal adoption of the child
+ by the respondents, the Washington court failed to give full
+faith and credit to the order of the California court, award-
+ing custody of the child to the petitioner, or acted with 
+knowledge thereof. The duty of the respondents to obey the
+command which the judgment contains is not more imperative
+by reason of their presence in this state, than if they had
+remained in California, and their custody of the child in
+this state is not in violation of the constitution. It is 
+not, because, according to the act of congress the judgment
+awarding the legal custidy to the petitioner, can have no
+other force or effect in this state than it has in California,
+and until equal faith and credit has been refused, by a court,
+there can be no ground for complaining of any violation of
+the constitution, and no cause of action which will entitle
+the petitioner to invoke the jurisdiction of a national
+court, for the preservation of a constitutional right.</p>
+
+<p>U regard chaoter thirteen of Title XIII. U. S. R. S.
+as one law, intended to govern the practice of the federal
+courts in habeas corpus cases, the several sections thereof
+having relation to each other to constitute a complete har-
+monious system. In general terms, it authorizes the courts,
+and the justices and judges thereof, to issue writs of habeas
+corpus, and dispose of persons restrained of liberty, as law
+and justice require, prohibiting, however, the use of the
+writ in behalf of prisoners in jail except in the enumerated
+cases, in which the national government, acting within its
+sphere, may properly interfere. And I am constrained by the
+decision of the supreme court, in the case of Burrus, 136
+U. S. 586, to hold that the authority which the law gives
+does not enlarge the jurisdiction of this court, to embrace
+this case. Motion to dismiss grated.</p>
+
+<p>C. H. Hanford
+Judge</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

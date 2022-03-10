@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0064.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie R." xml:id="nrl">Natalie R. Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0064.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Alexander S. Hughes Et Al v. Lewis V. Wycoff. Civil</title>
+<date when="1875-05-15">May 15, 1875</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<idno>Case No 330</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1875-05">May 1875</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Seavey, James</term>
+<term>Brown, Beriah</term>
+<term>Smith, D. S.</term>
+<term>Andrews, L. B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County (Wash.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hughes, David</persName>
+</person>
+<person role="petitioner">
+<persName>Hughes, Alexander S.</persName>
+</person>
+<person role="petitioner">
+<persName>Brannan, Joseph</persName>
+</person>
+<person role="petitioner">
+<persName>Boyd, James</persName>
+</person>
+<person role="petitioner">
+<persName>Hart, David</persName>
+</person>
+<person role="defendant">
+<persName>Wycoff, Lewis V.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Lewis, J. R.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc><change when="2021-09" who="#cjy">edited</change>         
+<change when="2018-12" who="#lkw">reviewed; edited</change>      
+<change when="2018-06" who="#ka">reviewed; edited</change>
+<change when="2018-06" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0064.007.001"/>
+
+<p></p>
+
+<p>No 117</p>
+
+<p>David Huges et al</p>
+<p>against</p>
+<p>Lewis V Wycoff Sheriff &amp;c</p>
+
+<p>Writ of Habeas Corpus</p>
+
+<p>Filed May 15 1875</p>
+<p>James Seavy Clerk</p>
+<p>By Beriah Brown, Deputy</p>
+
+
+
+<p>To the Hon J.R. Lewis Chief Justice of the Supreme Court of Washington Territory and the Judge of the within named District Court.</p>
+
+<p>The Undersigned Sheriff of King County Washington Territory to whom the within writ is issued do now make the following return to the same. to wit that said writ <unclear>came to</unclear> my hands and knowledge on the 14th day of May AD 1875 and that I now have the persons named in said writ before your Honor to wit Alexander S Hughes David Hughes James Boyd David Hart and Joseph Brannen and that the cause of their detention by me is that I am the sheriff of said King County Washington Territory and the Keeper of the Jail of said County: and I detain them in my custody by virtue of a process commonly called a commitment issued by one D.S. Smith a Justice of the Peace of said county and to me directed and not by virtue of any other power or authority and a true copy of which said commitment is hereto attached and made a part of this return marked Exhibit "A"</p>
+<p>LV Wycoff</p>
+<p>Sheriff of King <unclear>Co. W. T.</unclear></p>
+
+<p>Sworn and Subscribed to before me on this 15th day of May AD 1875</p>
+<p>L.B. Andrews</p>
+<p>Clerk</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

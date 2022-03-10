@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0088.040">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Alice McKay v. John Kevan and Della Kevan. Warrant</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0088.040</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Warrant</title>
+<date when="1891-05-05">May 5, 1891</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<idno>Case No 5662</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1891-05">May 1891</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Woolery, James H.</term>
+<term>Spencer, W. B.</term>
+<term>Stanley, George F.</term>
+<term>Budenich, Katie McKay</term>
+<term>Jones, Richard A.</term>
+<term>McKay, Mary</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>Tacoma, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>McKay, Alice</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, John</persName>
+</person>
+<person role="defendant">
+<persName>Kevan, Della</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Lichtenberg, I. J.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc><change when="2021-09" who="#cjy">edited</change>         
+<change when="2020-05" who="#lkw">encoded</change>
+<change when="2018" who="#nl">transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb/>
+
+<p>In the Matter of the Application of Alice McKay for a Writ of Habeas Corpus to Obtain the Person of Her Infant Daugther Mary McKay.</p>
+
+<p>No. 5662.</p>
+
+<p>The State of Washington</p>
+
+<p>To J.H. Woolery Sheriff of King County, Greeting</p>
+
+<p>Whereas complaint has been made under oath before the undersigned, one of the judges of the Superior Court of the County of King, in the State of Washington, that on the 26th day of November, 1887, the above entitled matter came on to be heard in the then district court in and for King County, in the then Territory of Washington, before Honorable Richard A Jones of said court, and it was so proceeded in that the said Honorable Richard A Jones made and entered the following order in the above entitled cause:</p>
+
+<p>In the Matter of the Application of Alice McKay for a writ of habeas corpus to obtain the person of her infant child, Mary McKay.</p>
+
+<p>Now, on this 26th day of November, 1887, this matter coming on before the court to be heard, and after hearing the evidence in the matter, it is ordered by the court that this matter be and the same hereby is continued for argument and final judgment, and final disposition of said infant until the 16th day of December, 1887, at the hour of 1.30 p m and it is ordered, adjudged and decreed by the court that in the meantime the said infant child, Mary McKay, be and she hereby is the ward of this court and suffered to remain in the custody of John Keevan and Della Keevan as such until the said 16th day of December, 1887, at 1.30 p m at which
+
+<fw>1.</fw>
+
+<pb/>
+
+produce the body of the said Mary McKay before this court to be disposed of as the court shall deem meet and equitable. And it is further ordered that the said John and Della Keevan are hereby enjoined from removing said child from without the jurisdiction of this court.</p>
+
+<p>That on the 16th day of December, 1887, a further order was entered in said cause continuing the further hearing until the 29th day of December, 1887, and that said cause has never been finally disposed of either in said district court or in the superior court, the successor of said district court. That since the making of said orders in said cause, Mary McKay, known as Mamie Keevan, in accordance with said order of November 26, 1887 has been in the care, custody and control of affiant and her husband, John Keevan, as a member of their family and has been cared for and provided for by them as one of their family and <del/> that they have always held her in their care and custody as the ward of said court according to the terms of said order up to April 17, 1891, and that they have obeyed said in all respects and have not taken said child out of the jursidiction of this court. Affiant further says that on the 17th day of April, 1891, Alice McKay, the mother of said child, and the daughter of said Alice McKay, Katie McKay Doe, now married, and whose marriage name is to the affiant unknown entered upon the premises of affiant in the City of Seattle and forcibly and against her will abducted and carried away said Mary McKay, known as Mamie Keevan, said Mary McKay then and there being in the custody of the affiant and her husband, John Keevan, as the ward of this court in contempt and disregard of the aforesaid order of said court and carried her as affiant is informed and believes into the county of
+
+<fw>2.</fw>
+
+<pb/>
+
+McKay Doe, whose marriage name is to the affiant unknown, now have said Mary McKay concealed in said county of Pierce, in or near the city of Tacoma aforesaid and against her will. Affiant further says that said Alice McKay and Katie McKay Doe are not fit and proper persons to have the care, custody and control of said Mary McKay, who is now of the age of fifteen years and that this affiant verily believes and expects to prove that said abduction and carrying away was for the purpose of placing said Mary McKay where she would be obliged to enter upon a life of shame in a house of prostitution and for no other purpose whatever, as said Alice McKay is and has been well-known for years as a drunken, disreputable character and a common prostitute and a keeper of disreputable places, including houses of prostitution. Affiant further says that at the time of such forcible abduction and carrying away, said Alice McKay and Katie McKay Doe, her daughter, were fully aware of the fact that said Mary McKay was in the care and custody of the affiant and her husband as the ward of this court and were fully cognizant of said order of court hereinbefore set forth and perpetrated said abduction and carrying away with full knowledge of said dorder and in contempt thereof; praying that a warrant of arrest be issued for the apprehension of said Alice McKay and Katie McKay Doe whose marriage name is to the affiant unknown, without bail, and that they be brought, before your honorable court to answer for the contempt by them committed in the aforesaid abduction and removal of said Mary McKay from the care and custody of the affiant and her husband.</p>
+
+<p>Now You Are Hereby Commanded to forthwith take the bodies of Alice McKay and Katie McKay Doe formerly Katie McKay, whose marriage name is unknown and forthwith bring them before Honorable I J
+
+<fw>3.</fw>
+
+<pb/>
+
+court room in the city of Seattle, in the county of King and State of Washington, there to answer the charge of contempt hereinbefore recited and them safely keep; and for so doing this <sic>shallbe</sic> your sufficient warrant.</p>
+
+<p>Witness the Honorable I J Lichtenberg, one of the judges of said court and the seal of said court, this 5th day of May, A D 1891.</p>
+
+<p>WB Spencer Clerk.</p>
+<p>By Geo H. Stanley, Dep Clerk.</p>
+
+<fw>4.</fw>
+</div1>
+</body>
+</text>
+</TEI>

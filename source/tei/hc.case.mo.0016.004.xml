@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0016.004">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Elizabeth Bird v. Frances Pattmore. Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0016.004</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Elizabeth Bird v. Frances Pattmore. Writ of Habeas Corpus</title>
+<date when="1867-01-10">January 10, 1867</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1867-01">January 1867</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Schneider, Frank A. H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>St. Louis (Mo.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Bird, Elizabeth</persName>
+</person>
+<person role="defendant">
+<persName>Pattmore, Frances</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Clarke, Enos</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Coonley, John J.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Moody, James C.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018-11" who="#lkw">reviewed; edited</change>    
+<change when="2018-01" who="#ka">reviewed; edited</change>
+<change when="2018-01" who="#nrl">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0016.004.001"/>
+
+
+<p>The people of the State of Missouri to Mrs Pattmore greeting</p>
+
+<p>You are hereby commanded to have the body of Missouri Bird an infant colored by you detained as it is said together with the time and cause of such detention or confinement by whatsoever name the said Missouri Bird shall be called or charged before the Hon James C Moody one of the Judges of the St. Louis Circuit Court at Court Room on 1 in the Court House at the city of St Louis in the twelfth day of January instant at one oclock in the afternoon to do and receive what shall then and there be considered concerning the said Missouri Bird</p>
+
+<p>And have you then and there this writ</p>
+
+<p>Witness F. A. H. Schneider clerk of said Court with seal thereof annexed this the 10 day of Jany 1867 F. A. H. Schneider Clerk</p>
+
+<p><unclear>Endorser</unclear></p>
+
+<p>Allowed pursuant to law this 10th day of January 1867</p>
+
+<p>0-3965</p>
+<p>By the Habeas Corpus act</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

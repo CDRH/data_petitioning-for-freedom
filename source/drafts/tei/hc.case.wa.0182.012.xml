@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.012">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.012</idno>
+              
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>Seattle, Washington
+December 22, 1913</p>
+<p>At a meeting of the Board of Special Inquiry, convened pursuant to the instructions of the
+Cammissioner composed of</p>
+<p>Inspectors T.W. Lynch (Chairman)
+J.E. Wilkes, and A.T. White</p>
+<p>Stenographer     Trent Doser
+Interpreter     Henry G. Gerome</p>
+<p>In re cases of 
+GREGORI KORNILIN,
+MOISEI ALIOSHIN,
+IVAN RIABOFF,
+JAKOB EPHIMOFF,
+PETER NEONILIN,
+and
+IVAN EMELIN,
+ex SS. "Tamba Maru,"
+December 19, 1913.
+HEARING RESUMED:</p>
+<p>FINDINGS:</p>
+<p>These aliens were ticketed to Canada and were refused a landing in that country by the Dominion
+Immigration Agent at Victoria B.C. They did not take an appeal from his decision but after having
+been brought to this port on the same vessel by which they had arrived in Canada, applied for
+admission. The steamship company manifested them as from Japan to Seattle, and collected a deposit
+to cover head tax but did not collect any additional passage money.</p>
+<p>These aliens in my judgement are persons likely to become public charges and therefore
+inadmissible to the United States. They are common laborers or farm laborers and there is no workk
+for them. They have but a limited amount of money, an amount insufficient to maintain them during
+the winter and it has not been shown that they have any relatives in this country upon whom they
+have a lawful claim for support or who are in a position to care for them even if disposed to do so.
+There are at this time from 800 to 1,000 Russians unemployed in this city and there are thousands of
+other nationalities in the same condition. Reports from the interior are uniformly to the effect
+that the supply of common labor is far in excess of the demand. The City of Seattle is endeavoring
+to relieve the situation by giving married men a few days employment each week on public work and
+according to the public press the same methods are in vogue at Portland, Pregon, the point to which
+these aliens are destined. Their admission under the circumstances would only increase the number of
+unemployed and would tend to make greater the burden which will have to be borne by the state and by
+charitable organiza-
+<pb></pb>
+tions during the coming winter months. The care of those now destitute is a problem sufficiently
+great to tax the ingenuity and resources of the state and more fortunate public and any additiosn to
+the army of unemployed should be guarded against by every possible means until such time as there is
+work for them to do. Alien laborers should not be permitted to enter the United States.</p>
+<p>Nine men constituted the party ticketed to Canada originally, although three of them contend that
+they were so routed through a misunderstanding. Canada refused them admission and that Government is
+therefore primarily responsible for any inconvenience or harships which they may suffer if deported.
+I, therefore, move that these aliens be excluded as persons likely to become public charges and
+ordered deported to the country whence they came at the expense of the importing vessel.</p>
+<p>INSPECTOR WILKES: I second the motion.
+INSPECTOR WHITE: The aliens are unanimously excluded.</p>
+<p>Kornilin, Alioshin, Riaboff, Ephimoff, Neonilin, and Emelin you have been excluded by a Board of
+Special inquiry which finds that you are inadmissible to the United States for the reason that you
+are a person likely to become a public charge. Fro this decision you have the right to appeal to the
+Secretary of Labor at Washington, D.C. If you elect to appeal notice should be given promptly.</p>
+<p>You have been ordered deported to the country whence you came and you hereby advised that such
+deportation will be at the expense of the importing vessel.</p>
+<p>You are further advised that you may communicate with friends, relatives, your Consulor
+representative, or attorney.</p>
+<p>Seattle, Washington,
+December 23, 1913.</p>
+<p>STATEMENT BY GREGORI KORNILIN made through Interpreter Henry Gerome.</p>
+<p>It would work a hardship on me to be turned back, because I have sold a horse, a cow and have
+mortgaged my land. I came on the assurance of Paul Semenoff, a countryman and neighbor of mine, who
+said that there was plenty of good workk in this country and not only that but I know that he is
+sending for his wife to come here which proves to me that he must be doing well becuase he has only
+beenin this country a short while. I would respectfully beg to be left in this country. I hereby
+appeal to the Secretary of Labor at Washington D.C., from the excluding decision of the Board. I do
+not want an attorney and I do not desire to submit any firther argument or evidence.</p>
+<p>STATEMENT BY MOISEI ALIOSHIN made through INterpreter Henry Gerome.</p>
+<p>I do not wish to be sent back for it will work a hardship upon me as I have sold a hrose a cow
+and all my crop, consisting of a few acres, and was coming out to this country on the assurances of
+two of my relatives one in Vancouver, B.C., and one at Portland, Oregon, that it is an easy matter
+to make a living in this country, and relatively speaking the wages in this country are better than
+at home and I would be able to earn money to send for my family to come here. I hereby apply to the
+Secretary of Labor at Washington, D.C., from the excluding decision of the Board and do not desire
+to submit any further argument or to submit any further evidence.</p>
+<p>STATEMENT BY IVAN RIABOFF made through Interpreter Henry Gerome.</p>
+<p>I wish to be left in this country and not deported back for I have not sufficient money to travel
+about 6,000 miles to get to my homef rom Japan, and I have sold a horse, oats and rye in order to
+come to this country and left enough for my wife to live on. I came out on the assurancec of my
+broter-in-law, Stephen Philatoff, who makes his home in Portland, and he assured me that there is
+plenty of work and good wages for an able bodied man, and assured me that if ti happens that in the
+winter time there is little work he will aid me until spring and he also said that he is going to
+send for his family, and after a matter of six months I would be able to send for mine. I hereby
+appeal on the record as it stands to the Secretary of Labor at Washington, D.C., I do not desire an
+attorney and do not desire to submit any further evidence or argument.</p>
+<p>STATEMENT BY JAKOB EPHIMOFF made through Interpreter Henry Gerome.</p>
+<p>I wish to be left in this country in order to be a ble to make a living fo rmyself and bring out
+my wife, as I have not only sold a cow and horse but have rented my land for 12 years for $100. My
+relative in Canada and here told me that I could make a living here and bring out my family and for
+some reason the Canadian Immigration Department did not let me in so I would respectfully beg to be
+left here, as I have another realtive in Portland, Oregon. I hereby appeal to the Secretary of
+Labor, Washington D.C., from the excluding decision of the Board. I do not desire to be represented
+by an attorney and I do not desire to submit any further evidence or argument.</p>
+<p>STATEMENT BY PETER NEONILIN made through Interpreter henry Gerome.</p>
+<p>It would work a hardship upon me to return home as I have a wife and five children there and I
+have received assurance from my relative in Portland, Oregon that i would be able to make a living
+for them and also in Canada. Otherwise I would not have sold my horse and my cow
+<pb></pb>and soem oats and rye, because I would have kept them for seed and the horse to work the
+land and the cow for milk for my children. I have not enough money to return home and if I had i
+would not be able to make a living there as there is no work in the winter. I desire to appeal to
+the Secretary of Labor at Washington, D.C., from the excluding decision of the Board and I do not
+desire to be represented by an attorney. I do not desire to submit any firther evidence or to make
+any firther argument.</p>
+<p>STATEMENT BY IVAN EMELIN made through Interpreter Henry Gerome.</p>
+<p>I would like to be left in this country for I have sold a horse and a cow at home and some of the
+crop and it will work a hardship upon me to return home for I have not sufficient money to get to
+the place I would have to travel to to get home it is winter and tere is no work there. I have
+relatives and freinds both in Canada and Portland, Oregon and according to their letters and
+information they are all making a living and I am sure they would help me out if I could not get
+anything to do during the winter. From Yokohama to Valdivastok the fair is, in American money, $5.15
+and from Valdivastok to my home costs anout $35.00 in American money. I wish to appeal from the
+excluding decision of the Noard. I do not desire to submit any firther evidence. We all came on the
+assurances of our friends and relatives in Canada and Portland,  Oregon, and as they are all making
+a living we tood their word and thought we could make a good living here. I ahve no further argument
+to make.</p>
+<p>I hereby certify that the foregoing is a corect transcript of the testimony given in these cases.</p>
+<p>Trent Doser
+Stenographer</p>
+
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

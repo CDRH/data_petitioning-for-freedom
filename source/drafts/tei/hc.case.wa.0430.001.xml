@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0430.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henry Carlton v. William Cochrane. Order granting Writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0430.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Henry Carlton v. William Cochrane. Order granting Writ</title>
+<date when="1888-04-27">April 27, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1888-04-27">April 27, 1888</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Ledgerwood, W.E.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>King County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Carlton, Henry</persName>
+</person>
+<person role="defendant">
+<persName>Cochrane, William</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Jones, Richard A.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the Third Judicial District of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-07" who="#jlf">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>FILE
+No. 5930</p>
+
+<p>In the District Court of the Third Judicial District of Washington
+Territory, holding terms at Seattle, King County, Wash. Terr.</p>
+
+<p>In the matter of the application of
+Henry Carlton                           No. 5930
+For a Writ of Habeas Corpus             Order Granting Writ</p>
+
+<p>This cause coming on to be heard upon the Petition of Henry Carlton
+for a Writ of Habeas Corpus, and the Court having read and filed the
+said Petition, and it appearing to the Court therefrom that the said
+Henry Carlton is illegaly imprisoned and restrained of his liberty
+by William Cochrane, sheriff of King County, Washington Territory,
+in the common Jail of said County in the City of Seattle, and it
+appearing from the said petition that a Writ ought to issue, and
+it is considered and ordered by the Court that the Writ of Habeas
+Corpus issue out of this Court, directed to the said Sheriff, commanding
+him to have the body of the said Henry Carlton before me, in the
+Court room of the said Court, on this 27th day of April, 1888, at
+2 o'clock P.M. to do and receive what shall then and there be
+considered concerning the said Henry Carlton: together with the time and
+cause of his detention, and that he then and there have the said writ.</p>
+
+<p>R.A. Jones,
+Judge</p>
+
+<p>Dated at Seattle, on the 27th day of Apr 1888</p>
+
+<pb></pb>
+
+<p>No. 5930</p>
+
+<p>In the District Court, Third
+Judicial District, holding
+terms at _____</p>
+
+<p>In the matter of the
+application of
+Henry Carlton
+for Habeas Corpus</p>
+
+<p><del>Plaintiff
+vs
+Defendant</del></p>
+
+<p>FILED
+ARL 27 1887
+W.E. Ledgerwood,
+Clerk.</p>
+
+<pb></pb>
+               
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

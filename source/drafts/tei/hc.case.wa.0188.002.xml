@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0188.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Arthur B. Martin v. United States. Petition.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0188.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Albert B. Martin v. United States. Hearing.</title>
+<date when="1914-10-14">October 14, 1914</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2852ArthurMartin</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1914-10">October 1914</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>White, Henry M.</term>
+<term>Sargent, John H.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>New Orleans, Louisiana</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Martin, Arthur B.</persName>
+</person>
+<person role="defendant">
+<persName>United States of America</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, George P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moody, Albert</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>In the United States District Court for
+the Western District of Washington.</p>
+<p>In the matter of application 
+of Arthur B. Martin for a
+Writ of Habeas Corpus } Petition for a 
+Writ of Habeas Corpus.</p>
+<p>2852</p>
+<p>To the Honorable the United States District 
+Court of the Western District of Washington,</p>
+<p>Your petitioner Arthur B. Martin respectfully
+shows that he is illegaly confined, detained and
+restrained of his liberty at the United States Immigration
+Detention House, at Seattle Wash. by the United Sates
+Immigration Commissioner that the cause of his 
+confinement, detention and restraint is as follows
+to the best of your petitioner's information and
+belief. That your petitioner was arrested June 23, 
+1910 for the Violation of the Mann Act; and was
+tried and convicted and sentenced to McNeils Island
+Prison for the Better of 5 years, that he has fully
+completed his sentence and was on he say of September 10th
+1914 discharged from said prison, that after his
+discharge he was taken in Custody by an
+Immigration Inspector and placed in the Immigration
+Detention House at Seattle, Wash. where he has
+since been confined that your petitioner is
+a native of the United Sates, a subject of the
+Parish of Orleans, state of Louisiana, that your 
+petitioner prays that a writ of Habeas Corpus be
+<pb/>
+directed to the United States Immigration Commissioner
+Henry M. White requiring to produce the body of
+your petitioner before your Honor to then and 
+there show cause of his detention and why your
+Petitioner should not be granted his liberty.</p>
+<ab>Signed
+Arthur B. Martin</ab>
+<p>State of Washington
+County of King } ss.</p>
+<p>Arthur B. Martin being duly sworn deposes
+and says that he is the petitioner named in the
+foregoing petition, that the facts set <add>forth</add> and
+therein are true excepting to there stated on
+information and belief and to those he believes
+them to be true.</p>
+<ab>Arthur B. Martin</ab>
+<p>Subscribed and sworn to before 
+me this the 19th day of September
+1914.</p>
+<ab>John H. Sargent.
+Notary Public in and for the State of 
+Washington, residing at Seattle</ab>
+<figure><ab>John H. Sargent Washington
+Commission Expires 
+JUN 23 1915
+Notary Public</ab></figure>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

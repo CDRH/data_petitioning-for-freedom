@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0153.003.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Earnest Hutchinson v. State of Washington. Exhibit B</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Czapla, Ethan P." xml:id="epc">Ethan P. Czapla</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0153.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Earnest Hutchinson v. State of Washington. Exhibit B</title>
+<date when="1905-02-20">February 20, 1905</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
+<idno>1183ErnestHutchinson</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1905-02">February 1905</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hutchinson, Earnest</persName>
+</person>
+<person role="defendant">
+<persName>State of Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Carroll and Carroll</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Mackintosh, Kenneth</persName>
+</person>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court of the Ninth Circuit</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-10" who="#epc">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<p>Exhibit "B". House Bill No. 340. In the House. By Mr. Scott.</p>
+
+<p>State of Washington, Ninth Regular Session.</p>
+
+<p>Read first time February 20, 1905; ordered printed, and referred to Committee on Judiciary.</p>
+
+<p>An Act</p>
+
+<p>Making it a misdemeanor to sell or exchange property under the representation, adverstisement, notice or inducement that an unidentitifed, unknown, unselected
+       or chance prize, premium or premium gift, or that a stamp, trading stamp, coupon or other like device, entitling the holder to receive such a prize, premium or
+       premium gift, or that the redemption of such a stamp, trading stamp, coupon or other like device so given is to be part of the transaction, or to sell or exchange any
+       trading stamp, stamp, coupon, or other like device to aid such sale or exchange, as aforesaid, and providing a penalty therefor.</p>
+
+<p>Be it enacted by the Legislature of the State of Washington:
+       Section 1. Whoever sells or exchanges any property or offers or attempts so to do upon a respresentation, advertisement, notice or inducement that anything unidentified
+       by or unselected by the purchaser at or before the time of the sale or exchange or upon a representation, advertisement, notice or inducement that anything whose precise
+       nature is not known to the purchaser at the time of the sale or exchange as to be completely identified beyond the necessity of any further or other selection or upon a 
+       representation, notice, advertisement, or inducement that any property whose selection will depend upon chance or hazard in any manner whatsoever is or is to be 
+       delivered or received or is in any way connected with or is a part of the transaction as a prize, premium or premium-gift; or whoever sells or exchanges property or offers
+       or attempts so to do upon a respresentation, advertisement, notice or inducemtn that a stamp, trading stamp, coupon, or other device which entitles the pruchaser to demand
+       or receive either from the vendor or from any other person, company, association or corporation any other property unselected by cr unidentified by the purchaser at or before
+       the time of the said sale or exchange, or which entitles the purchaser to demand or receive either from the vendor or from any other person, corporation, association or company
+       any property whose selection will depend upon chance or hazard or in any manner whatsoever, is to be delivered or recieved or is in any way connected with or is a part 
+       of the transaction as a prize, premium or premim gift; or whoever sells or exchanges any trading stamp, stamp, coupon or other like device upon a contract to enable the person
+       to sell or exchange property, or attempt so to do, upon any representation, advertisement, notice or inducement of any king hereinbefore mentioned; or whoever delivers any goods,
+       wares or merchandise upon the representation of any stamp, coupon, or other like device so</p>
+
+<pb/>
+
+<p>given or caused to be given shall for each offense be guilty of a misdmeanor and be punishable by a fine of not less than $20 or more than $500, or imprisonment in a county
+       jail for not less than ten days, nor more than six months, or by both: Provided, however, That the provisions of this act shall not apply or extnd in any manner to the redemption
+       of any such stamp, trading-stamp, coupon or other like device that may have been issued as a premium prize or premium gift prior to the time this act takes effect: And provided
+       further, That the provisions of this act shall not apply or extend to any sale or exchange of articles in bluk, leap or mass or a part or portion thereof; which sale or exchange is not 
+       made, effected or induced by or upon any representation, advertisement, notice or inducement of any kind hereinbefore specified. Provided further, that this act shall not apply to
+       any person giving a due bill on the sale of merchandise and redeeming the same himself in merchandise. Provided furhter, that this act shall not apply to agricultural or church
+       fairs conducted for scientifis or chartiable purposes.</p>
+
+<p></p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

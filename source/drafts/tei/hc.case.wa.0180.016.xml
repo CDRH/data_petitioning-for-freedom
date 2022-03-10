@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0180.016.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0180.016</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Albert H. Young and Kamasaburo Sugiuro v. United States. Affadvit.</title>
+<date when="1913-11-03">November 3, 1913</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2628AlbertYoung&amp;KamasaburoSugiura</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1913-11">November 1913</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sugiura, B. K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Hunter, B. A.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Harris, Walter P.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>White, A. T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Washio, Shotaro</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Saito, Hana</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Fukuye</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Hanaki</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Okajima</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Thayer</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Keên</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Nakada</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Okayashi</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Umeda, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Ito, K.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>A</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+</keywords>
+
+
+<keywords scheme="lcsh" n="places"> 
+<term>San Francisco, California</term>
+</keywords>
+
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sacremento, California</term>
+</keywords>
+
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Young, Albert H.</persName>
+</person>
+<person role="petitioner">
+<persName>Sugiuro, Kamasaburo</persName>
+</person>
+<person role="defendant">
+<persName>United States of America</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Myers, H. A. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McClellan, R.W.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnstone, Walter L.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay K.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, G. P.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#GET">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>Exhibit "D" Department of Labor
+Immigration Service</p>
+<p>Seattle, Washington
+November 3, 1913</p>
+<p>In the matter of the arrest
+of ALbert H. Young and B.K.
+Sugiura</p>
+<p>B. A. Hunter, Inspector 
+Examiner
+Walter P. Harris
+Stenographer
+A. T. White
+Inspector</p>
+<p>Attorney McClelland Also Present</p>
+<p>Shotaro Washio, witness, being duly sworn, testified as follows:</p>
+<p>Q By Inspector Hunter: What is your name? A Witness: Shotaro
+Washio.</p>
+<p>Q Are you the same Shotaro Washio that testified in the trial of
+Albert H. Young and B.K. Sugiura for transporting a girl named Hana
+Saito from Seattle to San Francisco? A Yes</p>
+<p>What was that woman's occupation? A At that time or after she
+got there.</p>
+<p>Q Before she left San Francisco to comee here and after she returned 
+to San Francisco? A Prior to her departure from San Francisco she
+was sick and didn't do anything and after her return to Frisco she was
+a prostitute.</p>
+<p>Q Did she prostitute herself any after leaving San Francisco?
+A Yes, she was a prostitute before I had anything to do with her.</p>
+<p>Q Did she practice prostitution when you were living with her?
+A No, she was sick and couldn't do any business.</p>
+<p>Q Did she ever give you any money? A No</p>
+<p>Q Did Mr, Young and Sugiura know what her character was when they
+helped you to take her to San Francisco? A Yes</p>
+<p>Q How did they know it? A I told them</p>
+<p>Q Did you tell both of them or only one? A I told Sugiura and
+whether he told Young or not I don't know.</p>
+<p>Q Did you tell Young yourself about her character? A No, I asked
+Mr. Sugiura to help me and he got Young, I never asked Young to help
+me to take the girl down myself, Sugiura made those arrangements.</p>
+<p>Q Did you testify at the trial that you told Young and Sugiura that 
+she was a prostitute? A I don't remember having said it -- ues if
+I testified at the trial I must have said that I only told Sugiura, I 
+don't remember ever having told Young that the girl was a prostitute.</p>
+<p>Q Did you testify that they wanted totake her to Sacremento instead
+of San Francisco that they could get more money in Sacramento than 
+Frisco.? Young &amp;
+A Yes,/Sugiura told me that so I testified to that.</p>
+<p>Q By Attorney McClelland: When you came to Seattle to hunt Hana
+or to get Hana, what hotel did you stop at? A At the Great 
+Northern Hotel.</p>
+<p>Q Who kept that Hotel? A Mr. Fukuye.</p>
+<p>Q Did you know Fukuye before you came and stopped at his hotel
+A I knew five years ago when he was connected with the Oriental
+Trading Company</p>
+<p>Q Did you know the clerk in that hotel, Hanaki? A I didn't kknow
+him before this time, I met him there for the first time.</p>
+<p>Q How did you happen to meet Sugiura? A Mr. Fukuye had asid there
+was an interpreter here from the Province of Aichi Ken and as that
+was the Province I was from I said it was the same province and Mr. 
+<fw>17</fw>
+<pb/>
+Fukuye introduced me to Sugiura.</p>
+<p>Q Did you know Sugiura before Mr. Fukuye introduced you to him?
+A No.</p>
+<p>Q Did you know any of his people back in Japan? A My father
+had said that he knew Sugiura's father, I didn't know him.</p>
+<p>Q How did you meet Young. A I requested Sugiura to help me in
+this girl's transportation to San Francisco and I was in his office
+and met Young and he had known Young and introduced me.</p>
+<p>Q Do you know whether you had ever met Young prior to that time?
+A No.</p>
+<p>ow you hired another Interpreter by the name of Okajima before
+you got Sugiura or Young, didn't you? A Yes.</p>
+<p>Q You got him for the same purpose that you got Young and Sugiura
+didn't you? hat is to help you about getting Hana?
+A I only employed him to go with me to the detective agency as an
+interpreter.</p>
+<p>Q What detective agency did you go to see? A I don't know the 
+name.</p>
+<p>I was the Burna Detective Agency? A Yes</p>
+<p>And who did you see there, do you remember the name of the man?
+Mr. Thayer was it? A I don't know</p>
+<p>Q Well it was the same man that testified in the trial wasn't it,
+Mr. Thayer? A Yes.</p>
+<p>Q Now what did you teel Fujuye that you were up herefor? And what 
+did you teel him you wanted an interpreter for?
+A Only that I was here looking for this woman, he didn't talk very
+much about the thing and introduced me to an interpreter.</p>
+<p>Q You told Mr. Fujuye and the girl Hana that Hana was your wife and 
+that you were up here hunting for her and that she had run away 
+from you with Saito didn't you? A No, I don't remember having 
+said that she was my wife.</p>
+<p>Q You just told him then that you were up here hunting for the
+woman Hana? A Yes</p>
+<p>You didn't tell him anything about what relation she was to you?
+A No.</p>
+<p>Q And when Fukuye took you to Sugiura and introduced you what did 
+you tell Sugiura, didn't you then tell Sugiura that your wife had
+run away from you with Saito before, that you were up here hunting
+her and that you wanted him to help you get her?
+A I didn't say that she was my wife, she was not my wife, I don't 
+remember having told Sugiura she was my wife.</p>
+<p>Q What did you tell Sugiura? A Just mentioned the girl's name
+Hana.</p>
+<p>Q Was that all you told Sugiura? A It was over a year ago I 
+can't remember exactly.</p>
+<p>Q Why did you testify a few minuted aho that you told Sugiura that
+she was a prostitute? A Yes, that was prior to the time I had
+anything to do with the woman, I told them that.</p>
+<p>Q Did you not also tell Okajima that Hana was your wife? A I
+told Okahima that she was a woman that was to be my wife and that she
+had fooled me and left me and that I wanted to see if I could get the
+woman and have her arrested.</p>
+<p>Q Was that the same story you told Mr. Thayer? A That was what I 
+asked the interpreter Okajima to say.</p>
+<p>Q And you paid the detective for his services didn't you? Paid him
+$10 didn't you? A I paid him something. I don't remember what,</p>
+<p>Q And you paid Okajima for his services didn't you.
+<fw>18</fw>
+<pb/>
+A Yes, but I don't remember the amount that I paid him.</p>
+<p>Q Now in the first trial against Young and Sugiura you were one of
+the defendants weren't you? A Yes</p>
+<p>In that trial <del><unclear/></del> you defendants were all charged with the consumated
+acts of having transported Hana from Seattle to San Francisco
+for purposes of prostitution alone? A Yes</p>
+<p>Q And you had an attorney, Mr. Keên, didn't you? A yes.</p>
+<p>And in that trial you pleaded not guilty, didn't you? A No, yes
+I pleaded not guilty.</p>
+<p>Q That was at the first trial? A Yes</p>
+<p>Q And you testified in that trial didn't you? A yes.</p>
+<p>Testified in your own behalf? A yes</p>
+<p>And st that trial you testified that you told Fukuye and Sugiura
+and everybody that you talked with up here, that Hana was your wife
+didn't you, that was the way you testified? A Yes, Mr. Sugiura
+told me twenty or thirty times in jail that I must state always that
+Hana was my wife, otherwise I would be convicted.</p>
+<p>Q And when you were convicted you felt soure against Sugiura didn't 
+you, that was the way you testified? A Yes, <del><unclear/></del> 
+because I thought they had fooled me I testified that way they told
+me to testify and I didn't understand any English and got myself in
+bad.</p>
+<p>Q And when you have that testimony you gave it with the understanding
+and purpose of getting clear didn't you? A Yes, because they
+told me if I testified that way there wouldn't be any casue and they
+couldn't convict me.</p>
+<p>Q And that is the reason you testified? A They told me that all
+three were under the same indictment and if I was convicted they
+would be convicted, and if I testified the way they told me the three
+of us would be acquitted.</p>
+<p>Q And that was the story you told you attorney, Mr. Keene, wasn't
+it? A Yes.</p>
+<p>Q And at the second trial you pleaded guilty to the conspiracy and
+having entered into a conspiracy with Young, Siguria, and others to
+transport Hana to San Francisco didn't you? A Yes.</p>
+<p>Q And did you know that you were only to have thirty days punishment
+for pleading guilty? A No, I don't know anything of that.
+A I didn't know what punishment it would be.</p>
+<p>Q How did you happen to plead guilty at the second trial when you
+had pleaded not guilty at the first trial? A I knew I was guilty
+and felt sure I would be acquitted and decided to plead guilty.</p>
+<p>Q And you were also dissappointed in having been given thirty days
+punishment in the second trial were you? A When I pleaded guilty
+I didn't know what sentence I would get, I expected to get more than
+I did get.</p>
+<p>Q You said just a moment aho that you said you expected to be acquitted?
+A I knew I was guilty and expected that I would be convicted
+and pleaded guilty and htre myself on the mercy of the Court.</p>
+<p>Q Your entire talk then in regard to Hana was with Sugiura was it?
+A Yes.</p>
+<p>You had no talk with Young about it?
+<fw>19</fw>
+<pb/>
+A Only that Young just said, "Just leave it to us, leave the matter
+in our hands." I went to Young's room and had a talk with him in 
+his own room.</p>
+<p>Q When was that? A Just before we went to San Francisco.</p>
+<p>Q That was when you got him to help you exchange your railroad
+ticker wasn't it? A No, Sugiura took me to his room</p>
+<p>Q Well, That was the time you got him to exchange the ticket?
+A No, You came to me in the hotel and got the tickets.</p>
+<p>Q How did you but the first two tickets that you got to go back 
+to Frisco? A Mr. Suguria bought them.</p>
+<p>Q How is it that you didn't go on those tow tickets? A I heard
+that those tickets were not for the boat leaving from Seattle so I 
+decided not to go.</p>
+<p>Q Well then did you try to get it exchanged? A Yes, I got Mr.
+Young to change them.</p>
+<p>Q While you were in jail waiting for your first trial what tank were
+you kept in? A First in the north tank and then I went to the east 
+tank and then I went to the south tank.</p>
+<p>Q And what tank did they keep Sugiura in do you know? A Young
+and Suguira and I were all in the same room.</p>
+<p>Q When? A We moved in there about January, News Years sometime.</p>
+<p>Don't yopu know it to be a fact that Young and Sugiura were in the
+North tak all the time and you were in teh south tank, is it not a 
+fact that the Government authorities put you boys all in separate
+tanks to keep you apart? A When we first came to jail I was in the
+north tank, Young in the south tank and Sugiura in the South tank and
+afterwards they put all a federal prisoners in the south tank and
+we were together.</p>
+<p>Q How long were you in the south tank with Sugiura? A It was over
+a month, from about New Years when we moved there until Feburary at
+the time of the trial.</p>
+<p>Q When did you meet and make arrangements with your attorney, Mr.
+Keene, to defend you? A I saw him once shortly after my being put
+in jail.</p>
+<p>Q And who interpreted between you and Mr. Keen at that time?
+A Okayashi.</p>
+<p>Q How many conversations did you have with Mr. Keen your attorney?
+A He came here the first time at my request and I signed papers 
+appointing him as my attorney but I didn't see him again until my
+trial.</p>
+<p>Q Didn't you have a short conversation with Mr. Keen up here just a d
+say or two after your arrest as you testified a little while ago?
+A I never said I had a conversation with Mr. Keen up here just engaged 
+his services</p>
+<p>Q And you told him and the interpreter and others that you talked
+with that you wanted to have a separate attorney and that you didn't 
+want to be connected with Young and Sugiura didn't you?
+A I said I wanted a different attorney but I didn't say that I cared
+about a separate trial.</p>
+<p>Q Now in that first trial the woman Ito was <add>a</add> defendant wasn't she?
+A Yes.</p>
+<p>Q And don't you know it to be a fact that she at first had the court
+appoint me as her attorney also to defend her and then afterwards had
+me discharged? Claiming that she dissired to appear separate from
+Young and Sugiura? A I don't know.</p>
+<p>Q Don't you remember the day that you defendants were all arraigned
+in the Court and the court asked the woman Ito if she had an attorney
+and she said no and asked if she wanted McClelland to defend her
+that was the day you were first arraigned? A Yes.</p>
+<fw>20</fw>
+<pb/>
+<p>Q And you know that the prosecution was dismissed as to her afterwards
+and she testified as a witness in the case? A Yes</p>
+<p>Q Now what talk did you and she have together as to what your testimony
+would be? A I had no talk with her, never saw her in
+jail.</p>
+<p>Now you are certain in your memory that when you boys were first 
+put in jail that Young was put in the East tank and Sugiura in the
+North tank and you in the South tank, you are sure about that are you?
+A yes.</p>
+<p>Q And you stayed there until after New Years when you and Young were 
+put in the south tank together where you stayed up until the time of
+the trial? A Young adn I were both put in the south tank with
+Sugiura.</p>
+<p>Q That was after the New Years? A Yes</p>
+<p>Q So that whatever arrangements and conversations you had with your
+attorney and statements that you made to him when you first came to
+jail were made before you boys were put together, wasn't it?
+A. Yes, it was no conversation, just simply engaged the services of
+the attorney.</p>
+<p>Q hen did youhave a conference with your attorney?A I didn(t
+see him until we were in court and I had a little talk with him</p>
+<p>Q Do you mean to say that you being defended in a serious
+charged and hired an attorney and never had any conversations with him
+up until the time you appeared in court? A Yes, I had engaged the
+services of the attorney and I supposed he would look after my interest.</p>
+<p>Q Did you expect the attorney to guess what you were charged with and
+whether you were giulty or not? A I suppose that he would have me testify in court and know my story and they so when I went up to
+court I testified the way Young and Sugiura wanted me to</p>
+<p>Q Did you pay your attoney for his services? A Igave the money
+to the interpreter and let him pay the attorney. I haven't paid him 
+anything yet but the interpreter said he would arrange it.</p>
+<p>Q How long did you and Hana live together in San Francisco before
+she ran away from you? A About five month from January to about
+May, about four months, the 7th of May.</p>
+<p>Q Was that when she ran away, the 7th of May? A Yes.</p>
+<p>Q It was your intention to make her your wife at that time wasn't 
+it? A Yes.</p>
+<p>Q And you wrote back to Japan to the father for permission to marry
+her didn't you? A Yes.</p>
+<p>And when you came up here you had in your mind to take her back
+or intended to make her your wife didn't you? A Yes.</p>
+<p>Q It wasn't your intention to put her into prostitution then when
+you came up here? A My intention was to take her back and live
+with me as my wife but not to put her in a house of prostitution.</p>
+<p>Q And you hired Sugiura and Young to help you get her with that idea
+and that intention didn't you? A I asked them to bring her to Seattle.</p>
+<p>Q Where did you and Hana live together in San Francisco before she
+ran away? A At 1020 Stockton Street.</p>
+<p>Q And that was the house you took her back to when you and Young and
+Sugiura went down to San Francisco? A Yes. </p>
+<fw>21</fw>
+<pb/>
+<p>Did you rent a room for her or did she rent a room herself?
+A I didn't, I don't know whether the girl rented it or not, I didn't
+rent it.</p>
+<p>Q Do you know Nakada? A Yes.</p>
+<p>Q do you know about the incident when he telephoned to Ito and to
+Umeda to hide Saitom Hana, away that the officers were coming to get
+her,? A No, I don't know.</p>
+<p>Q When was Hana arrested by the officers and brought back up here
+after you and Young and Sugiura took her down? A I don't know.</p>
+<p>Q Well she had been down there a month or so, a month or six weeks,
+before she was brought back here hadn't she? A I guess it might
+have been about six weeks, I don't know whenshe was arrested.</p>
+<p>Q Didn't you know about Ito paying Nakada $40. for the purpose of
+protecting Hana against being brought up here? A No.</p>
+<p>Q How long did Young and Sugiura stay in San Francisco when they 
+helped you take Hana down there? A I don't know, I didn't see him
+after their arrival there.</p>
+<p>Q When did you see them last? <del>A I don't know, I didn't see him</del>
+A I saw them that night when we got down and I think, I am not sure,
+I saw them on a sidewalk.</p>
+<p>Q You never saw them again at the house at 120 Stockton Street after
+taking the woman there did you? A I don't remember whether I saw
+them in that house</p>
+<p>Q How much did you pay Young and Sugiura for taking Hana down there?
+A Didn't pay them.</p>
+<p>Q Who paid them? A Ito.</p>
+<p>Q Do you know whether or not they paid it to Young and Sugiura?
+A They say that when the money was paid Ito, Umeda, Young and
+Sugiura were at this Kimparo but I don't remember having been there,
+I might have been but I can't remember having been there.</p>
+<p>Q Do you know what hotel Young and Sugiura stopped at in San Francisco?
+A At the Imperial hotel one night.</p>
+<p>Q Didn't you know that Ito and Umeda paid them this $20. up at 
+their room in the Imperial Hotel? A. I don't know.</p>
+<p>Q You don't know whether the money was paid them? A Umeda and Ito
+say that I was there but I don't remember having seen it paid,</p>
+<p>Q Do you remember about going with them up to the Imperial Hotel
+to see Young and Sugiura? A No.</p>
+<p>Certified a true transcript</p>
+<ab>(signed) Walter P. Harris.
+Stenographer</ab>
+<fw>22</fw>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

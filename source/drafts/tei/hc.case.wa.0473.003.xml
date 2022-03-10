@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0473.002"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla" xml:id="mg">Mikayla Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0473.003</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry
+Mason, William
+Miller, John F.
+Nordstrom, Charles W.
+Lewis, James Hamilton
+Jacobs, Orange
+Spencer, W. C.
+McBride, W. P.
+Ellanerth, P. C.
+Hart, John B.
+Calhoun, C. V.
+Willard, Rufus S.
+Marion, A. B.
+Bories, Emil
+McElroy, James F.
+Ayres, A. Reeves 
+Walthew, H. M.
+Hanford, C. H.
+Ashley, M
+Moors, A. N.
+Van de Vanter, A. T.
+Van de Vanter, A. D.
+McKenney, James H.
+Owrigher, B.
+</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington
+Washington D.C.
+Seattle, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Nordstrom, Charles W.</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>State of Washington</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>James Hamilton Lewis .</persName>
+</person>
+<person role="attorney_defendant">
+<persName>John F. Miller</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jacobs, Orange</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States Circuit Court Northern Division</orgName> <!-- insert court name -->
+<placeName>King County, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.473.003"/> <!-- insert number from spreadhseet -->
+
+<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON FOR KING COUNTY.</p>
+
+<p>IN THE MATTER OF THE APPLICATION OF
+CHARLES W. NORDSTROM FOR RELIEF FROM
+CONDITION OF INSANITY</p>
+
+<p> State of Washington,</p>
+
+<p>Plaintiff, No.</p>
+
+<p>-vs- A F F I D A V I T.</p>
+
+<p>Charles W. Nordstrom</p>
+
+<p>Defendant.</p>
+
+<p>State of Washington, )</p>
+
+<p>: ss.</p>
+
+<p>County of King. )</p>
+
+<p> James Hamilton Lewis, being first duly sworn, on
+oath deposes and says: That for record of the preceeding in the said
+matter above named and for a record of the recitals of all the facts 
+connected therewith, the following is a true and absolute statement
+is a complete, full and true exemplification, exhibition, and
+statement of the whole record of transaction in connection with the
+proceeding. That all matter of every nature whatsoever that is now
+or has been a part of any record or of any proceeding in so far as 
+the same has been made known in anywise whatsoever is 
+herin stated, provided, except only such record as the trnacript of 
+the Clerk of the Superior Court of this County has disclosed anterior 
+to the datte of this affidavit. That on the day of A.D. 1899,
+at the City of Seattle, King County, Washington, Charles W. Nordstro,
+was duly charged upon affidavit by J. Henry Denning, a legally
+qualified dependent, and due suggestion and statement by motion based
+upon said affidavit was also propertly made and duly filed, duly
+reciting and regularly stated charged the said Nordstrom of being
+non compos mentis ; that said Nordstrom was of insane mind and un-
+able to appreciate his surroundings, had no knowledge sufficient to
+conduct his affairs, or understand or appreciate the extent or
+nature or consequence of any proceeding being had or taken against
+or for him or in which he was interested. That this deponent, as 
+counsel for the said Nordstrom, duly moved the Court for such proper
+proceeding looking to the ascertainment of the mental state of the
+said Nordstrom, based upon and supported by the said affidavit and
+charge of insanity, also that such other course be had and taken by
+which judgment appropriate to the proceeding and further proceedings
+consistent with the facts elicited to be had. That thereupon the Court,
+in the presece of the Counsel for the State, representing the County
+of King, and appearing as opposing the motion for inquiry into the
+lunacy of the said Nordstrom; and said Court stated that he would
+name a Commission to examine into the subject at a future day named,
+to-wit: the day of 18999; that thereupon this affiiant 
+as counsel for defendant arose and stated to the Court that, in so
+far as the selection of a Commission for a preliminary inquiry, the
+commissioners being scinentific men, was concerned, affiant favoured 
+proceedings to that extent, but must not be understood as consenting 
+to the intimation given out that said Commission could take upon
+themselves the right to pass upon the question, or to proceed for or 
+against the defendant of their own volition as a court or trial
+body That affiant felt it his duty to inform the Court then and
+there that nothing could be done carrying with it the idea that 
+affiant was waiving such rights as defedant would have, or was 
+sitting in acquiescence to the course of proceeding without taking
+the due course of informing the Court as to what he thought, as
+counsel for the defendant and an advuser of the Court, was proper and
+just in the premises, either as to the course of proceeding or the 
+course of procedure.
+</p>
+
+<p>That on the day of , 1899, affiant being present 
+as a friend of the defendant, Assistant Prosecuting Attorney, John B. 
+Hart, being present representing the State, Hon. Orange Jacobs, the
+presiding Judge in the presence of affiant and said Assistant
+</p>
+
+<p>Prosecuting Attorney, John B. Hart, stated that he had agreed
+upon a Commission of physicians consisting of five gentlemen, being
+medical men, to-wit: Drs. C.V. Calhoun, Rufus S. Willard, A.B. 
+Marion, Emil Bories, and the phsician attendin in the Insane
+Asylum at Steilacom; that he had concluded upon the commission 
+without taking the suggestions of either the said Nordstrom or his
+friend or any one in his behalf, or of the state or any one in its
+behalf. Affiant then publicly state that he presumed that he would be given 
+notice when the said commission would be returnable whereupon and at 
+which time he assured he would be given opportunity to present what
+ he thought and understood under the law were the rights of the
+said Nordstrom; That affiant then and there understoof the court
+specifically to say to the said Assistant Prosecuting Attorney that he 
+should prepare such proper order naming the day of the citation and
+serve the same upon affiant, and understood the said Assistant Pros-
+ecuting Attorney to assert that he would do such; and this affiant 
+then and there relying upon service of notice upon him of some kind
+or in some form of the meeting of said commission by which he
+would be given due opportunity of presenting the rights of the said
+Nordstrom, and such other motion or suggestions as to affiant would 
+appear right, just as proper in the premises. That subsequently,
+to-wit, on the day of 1899, the said Hon. John B. Hart, 
+Assistant Prosecuting Attorney in open court upon this affiant making public statement to the Court that
+upon that statement of the Court, he had been led to believe that he 
+was to have notice, by reason of said statements of the Court to the
+said Assistant Prosecuting Attorney, she said Hon. John B. Hart stated
+that he did not so understand the Court or that he did not hear the
+Court make such statement, and affiant states that in this opinion of
+the said Hon. John B. Hart, and the said Prosecuting Attorney's office
+representing the state in opposing the proceeding, were sincere in
+their statemet thaht they did not hear the court and did not so under-
+stand the court, and affiant begs to state that he under no consider-
+ation either directly or indirectly asserts that the said Assistant 
+Prosecuting Attorney, Hon? John B. Hart, the Prosecuting Attorney or
+any of his assistants or deputies, purpsely violated the order of the 
+Court or attempted to evade any duty to the Court that was incum-
+bent upon them. That from said date up to and including Saturday
+morning 10 o'clock of the 6th day of May, 1899, when this affiant
+made his oral protest against the proceedng which he had understoof
+had transpired there had been in nowise whatsoever, directly or indi-
+rectly, served upon the said Nordstrom, upon this said affiant, or
+J. Henry Denning, or any other person whomsoever, any notice of any
+proceeding, or the time fo any proceeding, or the occasion of any
+action, or the presence, or the citing of any commission, or of any
+proceeding whatsoever in anywise whatsoever connected with or con-
+cerning or relating to, the commission or alleged inquiry into the
+ condition of the said Nordstrom, or as to the proceedings or course of
+any alleged commission or body of persons, or of any proceeding of
+any nature whatsoever in anywise whatsoever. That affiant as a friend 
+of the said Nordstro observed from the public press, the only form
+of notice or information of any whatsoever; first appearing in 
+the Seattle Daily Times the following article:</p>
+
+<p>THE DOCTOR NAMED.</p>
+
+<p>Judge Jacobs Appoints the Commission to</p>
+
+<p>Examine into the Sanity of Nordstrom.</p>
+
+<p>udge Jacobs to day announced the names of the members of the
+medical commission appointed for the purpose of examining into the 
+sanity of Charles W. Nordstrom, the condemned murderer of Willie Mason
+The commission is composed of Dr. F. L. Godard, Superintendent of the
+Western Washington Insane Hospital for the Insane; Dr. C.V. Calhoun,
+Dr. A.N. Marion, Dr. Emil Bories and Dr. Rufus Willard.
+Court were instructed to resent in </p>
+
+<p> "We have made a very careful examination of the prisoner  and
+taken the testimony of the sheriffs and other officers in whose
+custody and under whose observation the said Charles W. Nordstrom 
+has been since his incarceration, and we are of the unanimous 
+opinion that he is now in such a condition of mind as to be able to
+distinguish between right and wrong. And as far as we have been 
+able to ascertain there has been no material change in his mental
+condition since his conviction."</p>
+
+<p>"G.V. Calhoun, Foreman,</p>
+
+<p>F.L. Goddard,</p>
+
+<p>Emil Bories</p>
+
+<p>A.N. Marion</p>
+
+<p>Rufus Willard"</p>
+
+<p>Nordstrom, in charge of a deputy sheriff, sat inside the rail
+when the fice commissioners, through their foreman, presented their
+report. Through the reading he listened with attention and appeared 
+to smile sardonically. Possibly it was only a nevous twitching of
+the muscels of his face. He refused to talk to any one in the court
+room or later in his cell down in the jail.
+</p>
+
+<p> the verdict of the commission was a suprise to many persons,
+even those familiar with Nordstrom's case. While most of the latter
+were not inclined to believe Nordstrom insane, they were equally
+unprepared to announce him thoroughly sane, and it was the general
+opinion among them that the commissioners would disagree or report
+Nordstrom mentally unballaced. </p>
+
+<p>The commissioner's verdict will be final with Judge Jacobs. as he
+publicly stated that he would abide by the result of the examination
+and sentence or not sentence the prisoner to death, according to
+whether the commission reported him sane or insane.</p>
+
+<p>That intermediate form the publication of one article to the 
+other affiant nor the said Nordstrom or this affiant, or any person or
+persons whomsoever acting in behalf of the said Nordstrom in any
+capacity whatsoever, received any notice whatsoever of any proceeding,
+or opportunity given in anywise whatsoever for the protection of the
+rights, interest, or cause of the said Nordstrom, or to bebeheard by
+witnesses or by counsel or by friend, or to be present to cross-examine
+or opporunity to protext the rights of the said Nordstrom against
+others whose interests are adverse to the claims of the said
+Nordstrom or the clients of his friends. And the said Hon. Orange 
+Jacobs, before whom this affiant made oral protest against the 
+proceedings and the treatment of the said Nordstrom in the premises,
+stated that he had chosen said commission and instructed them ti
+investigate the question of the sanity of the said Nordstrom, by look-
+ing exclusively and solely to the single standard of whether the 
+said Nordstrom was able to distinguish right from wrong, and if so,
+to report such fact to him. That he the said Judge prohibited the
+commission from being visited or attended by any one representing
+said Nordstrom either as counsel or friend, likewise prohibiting the 
+attendance on said commission by any one representing the state in 
+anywise whatsoever; affiant says that the said commission was authorized to take
+such procedure as they thought proper and in such maner as they
+chose, no person being allowed to suggest testmony in behalf of the 
+said Nordstrom, nor to aypear and cross-examine, or to elicit before
+the said commission either the prejudice, bias, competency, incom-
+petency, qualification or disqualificatio of any witess or their 
+interests who did so testify against the said Nordstrom and his 
+claims. Affiant states that it was his opinion and understanding
+gathered from the law and the doctrines therein announced that the
+office of the commission was to inquire and possess themselves of cert-
+tain facts and to qualify themselves as experts and that thereafter
+they were to appeard at such proper time and under such proper circum-
+stances to give their testimony either before the court in a judicial
+inquiry or a jury in a hearing or trial and their opinion, which
+opinio together with the testimony upon which it was based being 
+also before the court or a jury, and there submitted to the ordinary
+test permitted by the law, and ordinary cross-examination and inveti-
+gation under the rules and standards justified by the law, and said
+court or jury would have seached their conclusions under the ordin-
+ary procedure upon an ordinary tried or ordinary hearing in which the
+life or interests of a person were involved would have been conducted.
+That whatever testimony was had by the commission and the nature of it
+or the facts elicited, or the course of their procedure, or the con-
+uct of their inquiry being in nowise reported or preserved or know,
+it is impossible that the same could be the subject of review, or re-
+vision, investgation, or correction by any Judge or of any appellate
+court or tribunal, which according to the rights or interests of any
+person interested or involved in said proceeding should have been
+accessuble and of existence, affiant therefore is unable to state more fully the facts of
+any inquiry whatsoever or any proceeding whatsoever conducted by
+said commission or any part of the same, of which affiant will only
+state his opinion that the said commission understood that their duty
+was that, however, insane defendant might have appeared, however unfit
+for the excecution or the due discharge of any obligation, however
+wanting in moral senses and blunted intellegence, it was enough if
+by the inquiry they could ascertain if he knew right from wrong on
+any subject, that then and there such ascertain,ent ended their duty,
+and that alone became the subject of their recommendation. That the
+tests or course which said commission took in discharging their
+instructions and duties in order to ascertain whether the defendant
+knew right from wron, or what basis they used as a base of right, or 
+what basis they used as a base of wrong, whether one recognized by the
+law, or any recogized by modern science and the law, or whether one which
+would have been permissible had it been submitted to a judicial tri-
+bunal, and affiant is unable to state and is unable to inform the 
+court because of the utter failture and complete abscence of all
+record of the proceedings, and becase of the utter refusal neglect
+of the said commission to make any any proceeding of record in anywise
+whatsoever accessible to the said Nrdstrom or his friends or coun-
+sel. That thereafter, to-wt, on the 5 day of May, 1899, the 
+said commission assuing to act as such, returned into court a 
+certain alleged finding, commonly called a verdict, of their judgment
+as to the said Nordstrom, which is in words and language as follows.
+to-wit:
+To the Hon. Orange Jacobs, Judge of the Superior Court:
+</p>
+
+<p>Your commission, appointed to examine Charles W. Nordstrom, a
+prisoner now confined in the county jail under sentence of death, and
+report his mental condition to this honorable court, has performed
+that duty and beg to report as follows:</p>
+
+<p>We have made a very careful examination of the prisoner and
+taken the testimony of the sherrifs and other officers in whose
+custody and under whose observation the said Charles W. Nordstrom
+has been since his incarceration, and we are of the unanimous
+opinion that he is now is such a condition of mind as to be able to
+distinhuish between right and wrong. And as far as we have been
+able to ascertain there has been no material change in his mental
+condition since his conviction.</p>
+
+<p>G.V. Calhoun, Foreman,</p>
+
+<p>F.L. Goddard,</p>
+
+<p>Emil Bories,</p>
+
+<p>A.N. Marion,</p>
+
+<p>Rufus Willard.</p>
+
+<p>That the said alleged verdict and judgment in nowise finds any
+fact either of the sanity of insanity of the said Nordstrom, or any
+other fact whatsoeverwhich can be recognized or is in conformity to the
+law as a legal finding upon any issue which in law could be legally
+recognized by any tribunal recognized by the law. That there has never
+been at any time any hearing or inquiry upon the charge on non campos
+mentis or insanity only made against or in behalf of the said 
+Nordstrom in anywise whatsoever, and at this hour and at this time
+said charge so duly made remains undisposed of without investigation
+conclusion or judgment in anywise whatsoever.</p>
+
+<p>That this affidavit is made in order that some record of the
+proceeding while now on the memory of persons interested may be
+preserved, to the end that the rights of the said Nordstrom may be 
+duly protected by such proper legal course and procedure as under the
+Constitution and laws of the United States and the State of Washing-
+ton would be just in the premises. That affidavit particularly wishes
+to impose upon the court, or any appellate court, that speaking as
+the friend of said Nordstrom, he desires to conve unequivocally
+the impression and information that the said Hon. Orange Jacobs in
+whatsoever course or action he took in the premises was animated and
+influenced by what he belives to be the highest sense of his duty and
+was a justifyable proceeding, and one which he believed shuld be duly guarded by
+the law and proper notice in the premiss as was incumbent upon
+The State</p>
+
+<p>That affiant states it to be his opinion and belief that the
+mistake and injustices which has arisen to the said Nordstrom and
+which has grown out of this proceeding as theu now exist have
+been brought about by an unfortunate misunderstanding, in that the 
+court presumed that the Prosecuting Attorney would give due notice
+to the said Nordstrom and his friend and counsel in order that his
+right as understood by him, would be duly urged at the proper time,
+and that the said Prosecuting Attorney misunderstood, or not com-
+prehending the court in that direction, failed to understand that
+such was the desire of the court or that such was the duty of the
+Prosecuting Attorney, and no notice whatsoever of any proceeding, what-
+soever was given, and no notice of any proceeding whatsoever was
+permitted or allowed or in anywise transpitred by which the said 
+Nordstrom's interests could have been presented, guarded or protected.
+That affiant would have ventured ti appear before the court had he
+known at what time the commission itended to sit or have a hearing.
+That affiant had lately returned from the East and had great press of 
+business affairs upon him and did not have opportunity
+or occassion to go at all hours to the cour house and ascertain by
+investigation whether any proceedings have been taken or not, particu-
+larly, is this true in view of affiant's natural expectation that
+due and proper notice would be given the said Nordstrom or his friend
+and counsel.</p>
+
+<p>James Hamilton Lewis</p>
+
+<p>Subscribed and sworn to before me this 10th day of May, A.D. 1899.</p>
+
+<p>Notary Public in and for the State
+of Washington, residing at Seattle.</p>
+
+<p>Exhibit "A"</p>
+
+<p>IN THE BALANCE.</p>
+
+<p>Murderer Nordstrom Before an Insanity
+Commission</p>
+
+<p>"Their Finding will Determine whether he shall Die
+or go to the Asylum.</p>
+
+<p>The commission appointed by Judge Jacobs for the purpose of 
+determining whether or not Murderer Charles W. Nordstrom is insane
+began its itttings this afternoon. The commission is composed of
+Dr. F.L. Goddard, superintendent of that Western Washington Hospital
+for the insane: Dr. A.N. Marion, Dr. G.V. Calhoun, Dr. Emil
+Bories, Dr. Rufus Willard. Dr. Calhoun was appointed Foreman of the
+commission.</p>
+
+<p>Before the commission began its session Judge Jacobs delivered an
+impressive charge to its members. He recited the authority under
+the law by virtue of which the commission was appointed; defined
+insanity as contemplated by the law as being a condition of mind un-
+able to distinguish between right and wring, and charged the members
+of the commission to investigate ever particle obtainable
+evidence which would throw light on the question oe whether or not
+Nordstrom has become insane since his confinement in the County Jail.</p>
+
+<p>Judge Jacobs laid particular stress upon the responsibility
+ that devolved upon the members of the commission, stating that the
+destiny of the condemned man rested upon their finding in his case
+The law, he saidm did not contemplate the excecution of an idiot or
+maniac, but it was the duty of the commission to determine by every
+scientific test known to the medical profession whether or not the
+prisoner is in a state of mind to recognize his condition and his 
+impending doom.</p>
+
+<p>At a late hour this afternoon the commission had not yet bagan
+to examine witnesses, the time being occupied in discussing a mode
+of procedure. It is likely that one of the first witnesses will be
+Ex-county Jailer Munroe, who was in charge of the County Jail at the 
+time Nordstrom was first confined. He will testify to Nordstrom's
+consition at that time.</p>
+
+<p>The sessions of the commission will be held in Judge Jacobs'
+private office in his chambers, and every one is denied admittance to
+the room except the members of the commission and the prisoner.
+Even the deputy sheriff must remain in the ante-room within call."</p>
+
+<p>United States Circuit Court for the District of Washington.</p>
+
+
+<fw type="footer"> &amp;</fw>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

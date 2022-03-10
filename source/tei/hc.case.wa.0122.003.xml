@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0122.003"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>S. M. McFarland v. Territory of Washingon. Petition. Writ</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+                    
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Dunning-Ward, Cole" xml:id="cdw">Cole Dunning-Ward</name>
+                    
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+            
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0122.003</idno> <!-- replace with number from spreadsheet -->
+                
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">S. M. McFarland v. Territory of Washingon. Petition. Writ</title>
+<date when="1888-05-10">May 10, 1888</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+                
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+                
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+                
+<keywords scheme="original" n="term">
+<term><date when="1888-05">May 1888</date></term>
+</keywords>
+                
+<keywords scheme="lcsh" n="people">
+<term>Ellis, U. Z.</term>
+<term>Jessel, J. W.</term>
+<term>Marquiss, N. R.</term>
+</keywords>
+                
+<keywords scheme="lcsh" n="places"> 
+<term>Columbia County, Washington</term>
+<term>Walla Walla County, Washington</term>
+</keywords>
+                
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>McFarland, S. M.</persName>
+</person>
+<person role="defendant">
+<persName>Washington</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Langford, William G.</persName>
+</person>
+</listPerson>
+                
+<listOrg>
+<org>
+<orgName>District Court of Columbia County</orgName>
+<placeName>Dayton, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="#lkw">Review</change>
+<change when="2019" who="#cdw">encoded, edited transcription.</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+<text>
+        
+<body>  
+            
+<div1 type="case">
+                
+<pb facs="hc.case.wa.0122.003"/> <!-- insert number from spreadhseet -->
+                
+                
+<p>In the District Court of Columbia
+County, holding terms on
+Dayton</p>
+
+<p>In the matter of the
+application of S.M. McFarland
+for a Writ of Habeas Corpus</p>
+
+<p>Now on this 10th day
+of May 1888, this matter comes
+before Hon William G. Langford
+at <del>his</del> Chambers in the Court Room in Walla
+Walla, Wash. upon the writ &amp; return
+of Sheriff and demurrer to the
+said return, and after hearing argument
+of Counsel and being fully <unclear>atained</unclear>
+on the premises. <del></del>The
+<unclear>demurrer</unclear> in said return is sustained
+and that <del/> SM
+Farland is illegally restrained of liberty
+It is ordered that said N.R. Marquiss
+release from custody the said McFarland
+and that he <del>is hereby</del> be discharged –</p>
+
+<p>Dated May 10 1888</p>
+
+<p>William G. Langford<lb/>
+Judge</p>
+
+<pb/>
+
+<p>Filed<lb/>
+May 11 1888<lb/>
+JW Jessel Clerk<lb/>
+By U.J. Ellis Deputy</p>        
+                
+                
+</div1>
+            
+</body>
+</text>
+</TEI>
+
+

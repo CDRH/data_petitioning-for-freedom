@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0149.001.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lee Fong v. John Sullivan. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Silva, Salma J." xml:id="sjs">Salma J. Silva</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0149.001.xml</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Lee Fong v. John Sullivan. Petition</title>
+<date when="1902-09-02">September 2, 1902</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1902-09">September 1902</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bryant, F. E.</term>
+<term>Monroe, W. T.</term>
+<term>Coryell, G. K.</term>
+<term>Crighton, J. E.</term>
+<term>Mullin</term>
+<term>Murphy</term>
+<term>Rude</term>
+<term>Redward, J. C.</term>
+<term>Moore, A. N.</term>
+<term>Wiestling, J. M.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
+<term>China</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Fong, Lee</persName>
+</person>
+<person role="defendant">
+<persName>Sullivan, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wiestling, J. M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Buller, Ellis E.</persName>
+<persName>Sillian, Micheal</persName>
+</person>
+<person role="judge">
+<persName>Hanfod, C. H.</persName>
+<persName>George, R. R.</persName>
+<persName>Gilber, William B.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court for the District of Washington</orgName>
+<placeName>Northern Division</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021-11" who="#sjs">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+
+<ab>IN THE DISTRICT COURT OF THE UNITED STATES, IN AND FOR THE DISTRICT OF WASHINGTON. 
+NORTHERN DIVISION.</ab>
+
+<ab>In the Matter of the application
+of Lee Fong for a writ of 
+Habeas Corpus</ab>
+
+<ab>1036</ab>
+
+<p>To the Hon. C.H.Hanford, Judge of the above entitled Court. 
+The petition and complaint of Lee Fong respectfully shows; That he is of chinese
+birth and a resident of the City of Seattle in said District of Washington, where
+for seven (7) years last past he has been engaged in the occupation and business of
+a laundryman; that in the month of June last past, he leased the premises No.1410 east
+Fir Street, in the City of Seattle,State of Washington, for the purpose of coverting
+the same into a laundry, and therein carrying on the business of a laundry; that
+upon a building permit being issued by the proper authorized building inspector, in
+said City of Seattle, to whom had been submitted for inspection, and who approved of
+the specifications prepared for the conversion of said premises into a laundry, he
+incurred an expenditure of upwards of six hundred dollars ($600.) in making the
+necessary changes, additions and improvements in and on said premises required for
+the purpose of conducting said laundry business, all of which was done in accordance
+with said specifications for said laundry, approved and authorized as aforesaid by
+said building inspector in said City of Seattle. That after he had made said expenditures
+upon said authority, a petition from certain persons was addressed to
+the common Council of the City of Seattle, praying that said body should refuse its
+consent to, and prohibit the establishment of a laundry, designated in said
+petition as a "Chinese laundry", on said premises; that said Council, in compliance 
+with said petition granted the prayer thereof and witheld its consent
+to this petitioner to establish or carry on his proposed laundry upon said premises</p>
+
+<ab>1</ab>
+
+<pb/>
+
+<p>and that this petitioner had no hearing before said Council or their committee 
+having said petition in charge; that the said Laundry has been so constructed and arranged
+as to be in a good sanatory condition, of which the health officer in said
+City of Seattle has delivered a certificate; and that all proper precautions were
+taken by the petitioner in the preparation of said premises for his laundry
+business, for the protection of property <add>from</add> injury or destruction by fire.</p>
+
+<p>That notwithstanding the premises, your petitioner has been arrested upon a complaint,
+a copy of which is hereto attached, and made a part hereof, and that he is
+now unlawfully imprisoned, detained, confined and restrained of his liberty by
+John Sullivan, Chief of Police of said City of Seattle, at and in the City Jail of said
+City. That the said imprisonment, detention, confinement and restraint is illegal,
+and that the illegality thereof consists in this, to-wit; That said arrest and 
+imprisonment &amp; Sections six (6) and seven (7) of ordinance NO.710, of the City of
+Seattle, for the alleged violation of which this petitioner has been arrested,
+and is now imprisoned and restrained of his liberty as aforesaid, are in violation 
+of, and in conflict with the constitution of the United States, and especially
+of the fifth (5th) and fourteenth (14th) amendments thereto; And also that said
+arrest and imprisonment is in violation of the treaty made and existing between
+the Government of the United States, and that of the Empire of China, the chief objection
+and opposition to the petitioner's laundry being that it is to be conducted
+by a chinaman, and that said ordinance which petitioner is charged with having violated,
+and the whole thereof, isnull and void.</p>
+
+<p>WHEREFORE, your petitioner prays that a writ of Habeas
+Corpus may be granted directed to the said John Sullivan, Chief of police of the City
+of Seattle, commanding him to have the body of the said Lee Fong before your Honor at
+a time and place therein to be specified, to do and receive what shall then and
+there be considered right by your Honor concerning him, together with the time
+and cause of his said detention and said writ.</p>
+
+<p>Done on the 2nd day of September 1902</p>
+
+<ab>Lee Fong</ab>
+
+<pb/>
+
+<ab>State of Washington,
+County of King.</ab>
+
+<ab>ss.</ab>
+
+<p>Before me, a Notary Public in and for the State of Washington, residing in
+Seattle, said State, and duly qualified and commissioned, personally came Lee Fong
+the petitioner above named, being first duly sworn according to Law, did depose and
+say that he has had read to him the foregoing petition, knows the contents thereof
+and believe the same to be true</p>
+
+<ab>Lee Fong</ab>
+
+<p>Subscribed and sworn to before me this 2nd day of September, 1902.</p>
+
+<ab>Frank B. Wiestling
+Notary Public in and for the State of Washington,
+residing in Seattle in said State.</ab>
+
+<pb/>
+
+<ab>EXHIBIT
+
+Copy of Complaint.</ab>
+
+<ab>The City of Seattle,
+VS.
+Lee Fong.</ab>
+
+<ab>CRIMINAL COMPLAINT.</ab>
+
+<p>F.E. Bryant being sworn says; That on the twenty nineth (29) day of
+August 1902, said Lee Fong did commit a mis-demeanor as follows, to-wit-
+By carrying on a public laundry without any permit from City council, said Lee
+Fong did wilfully and unlawfully at number 1410 Fir Street, said City of Seattle,
+establish, maintain and carry on a laundry within the corporate limits of said
+City of Seattle, and at said place, without first obtaining the consent of the
+City of Council of said City, the said laundry not being located in a building
+constructed either of brick, stone nor covered with a metal roof, all of which
+is contrary to ordinance No. 710, sections 6 and 7 of the City of Seattle
+entitled "An ordinance regulating the establishment and maintenance of public 
+laundries and pulic was houses within the limits of the City of Seattle,
+approved February the sixth (6th,) 1886."</p>
+
+<ab>F. E. Bryant</ab>
+<ab>Sworn August 30th, 1902.</ab>
+
+<pb/>
+
+<ab>EXHIBIT "B"</ab>
+
+<ab>SEATTLE, JULY 14TH, 1902.</ab>
+
+<p>To the City Council of the City of Seattle,Washington.</p>
+
+<p>Whereas, the building at No.1410 East Fir Street is being remodeled, and by
+additions and extensions is being fitted up for a Chinese Wash house or Laundry,
+and said building is not constructed either of Brick or Stone, nor is there any sewer
+connection, and it is dangerously near private residences,</p>
+
+<p>THEREFORE, your petitioners, legal voters, tax payers or residents in the immediate
+vicinity respectfully and earnestly protest against having a Chinese
+Laundry established on the lot owned by Mr J. R. Miller at No. 1410 East Fir Street,
+and we ask you Honorable Body not to give your permit for the proposed Laundry, 
+which we believe to be a menace to health, property valuation and fire protection,
+as in duty bound we will ever pray</p>
+
+<ab>Mrs W. T. Monroe 1404 East Fir Street, and other.</ab>
+
+<ab>INDORSED.</ab>
+
+<p>Remonstrance against location of a Chinese Laundry at No. 1410 East Fir Street.
+Filed July 14, 1902, By G.K. Coryell, Deputy City Comptroller.
+Referred July 14. 1902 to H' &amp; S' N Com.
+Reported July 21, 1902. Report adopted July 21, 1902.</p>
+
+<p>Report that the Council refuse to grant the permit necessary.</p>
+
+<ab>J. E. Crighton, Chairman.
+Mullin.
+Murphy.
+Rude.
+J.C. Redward.</ab>
+
+<pb/>
+
+<ab>Tx</ab>
+
+<ab>No. 2333</ab>
+
+<ab>In the United States
+District Court
+FOR THE DISTRICT OF Washington
+Northern Division</ab>
+
+<ab>In the Matter of the
+Petition and Complaint of
+Lee Fong
+for a writ of 
+Habeas Corpus</ab>
+
+<ab>Petition</ab>
+
+<ab>FILED IN THE
+U. S. DISTRICT COURT,
+DIST. OF WASHINGTON.</ab>
+
+<ab>SEP 2 1902</ab>
+
+<ab>R. M. HOPKINS, Clerk</ab>
+
+<ab>A. N. Moore
+Deputy</ab>
+
+<ab>J. M. Wiestling
+Attorney for Petitioner</ab>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

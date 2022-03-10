@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.mo.0044.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Jones v. Robert F. Logan. Petition</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
+<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
+<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
+<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.mo.0044.002</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">John Jones v. Robert F. Logan. Petition</title>
+<date when="1857-12-24">December 24, 1857</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1857-12">December 1857</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Cloves, Henry A.</term>
+<term>Herkenrath, R. M.</term>
+<term>Montfort, Warren</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Pennsylvania</term> 
+<term>St. Louis, Missouri</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Jones, John</persName>
+</person>
+<person role="defendant">
+<persName>Logan, Robert F.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Merriam, J. R.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+<person role="judge">
+<persName>Dusenbury, Henry</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>St. Louis Commissioners' Court</orgName>
+<placeName>St. Louis, Missouri</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2018" who="nl">Transcribed.</change>
+<change when="2019" who="sab">Encoded, edited transcription.</change>
+<change when="2019" who="lkw"> Reviewed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.mo.0044.002"/>
+
+<p>To the Hon Henry Dusenbury 
+<del>Judge</del> Law Com. of the St Louis County</p>
+
+<p>Exparte 
+John Jones 
+otherwise called John Cook }</p>
+
+<p>State of Missouri, Saint Louis County, 
+and City of Saint Louis, Law Commissioners Court. now in session. 
+The petitioner states that he is a free 
+collored man, that he was born in 
+the state of Pennsylvania, and the has 
+always resided in said state, until on 
+or about the seventh day of June 1857, 
+when he came to said City of Saint 
+Louis and was, on said day arrested 
+and committed to the County Jail 
+of said County, and from there <unclear>hitherto</unclear> 
+has been, and still is, imprisoned and 
+detained in said Jail by Robert T Spogan, 
+the keeper of said Jail, on a charge of 
+being a run away slave, by virtue 
+of a warrant of commitment issued by 
+Berf Herkenrath Esqre a Justice of 
+the Peace for said City and County 
+of Saint Louis, a copy of which was 
+<unclear></unclear> of Commitment is not herewith 
+filed, because a copy of the same has 
+been demanded of the said Logan the 
+person by whom said petitioner is imp-
+risoned as aforesaid and a copy of said 
+warrant refused.</p>
+
+<p>And the petitioner further states that 
+he is unlawfully and wrongfully 
+imprisoned as aforesaid, because he 
+says that he is and always has been, 
+by law a free man, and is not, 
+and never has been by law a slave; 
+which he is ready to verify. Wherefore 
+the said John Jones otherwise called
+
+John Cook, prays <sic>said said</sic> Court 
+to issue a writ of Habeas Corpus, 
+and cause <del>the</del> him to be brought 
+before said Court and discharged from 
+his said imprisonment by 
+due course of law</p>
+
+<p>And by way of Amendment to the 
+foregoing petition, the petitioner 
+states the Hon. Henry A Cloves 
+the Judge of the Saint Louis County 
+Circuit Court is absent from 
+said County.</p>
+
+<p>Dated at Louis the 24th day of Dec 1857</p>
+<p>John Jones other-
+wise called John Cook 
+per J.R. Meraiams 
+his attorney</p>
+
+<p>Subscribed &amp; 
+sworn to before 
+me this 24h <del> 185 </del> 
+Dec 1857</p>
+<p>W. Montfoat</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
