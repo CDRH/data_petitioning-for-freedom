@@ -79,24 +79,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term>Angelique, M.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
+<term><date when="1903-03"></date>March 1903</term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
 <term>Koepflic, C.A.</term>
 <term>Breuster, J.M</term>
 <term>Lavin, James P.</term>
 <term>Avres, A. Reeves</term>
-<term>Statiherd, H.M.</term>
-<term>Steye, Jeser</term> 
-</keywords>
-    
-<keywords scheme="lcsh" n="people">
-<term></term>
+<term>Walthew, H.M.</term>
+<term>Frye, Jesse A.</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -104,33 +101,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
-<persName>Bell, W.R.</persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,24 +148,25 @@
 
 <p>In the Superior Court of the State of Washington
 -for the-
-OUNTY OF KING</p>
+COUNTY OF KING</p>
 
 <p>IN THE MATTER OF THE APPLICATION OF
-Yvonne Le Feon, Manie LeFeon Feon,
+Yvonne Le Fevre, Manie LeFevre,
 and Georgette Normand
-FOR A WRIT OF HABEAS CORPUS}
-NO.38028
+FOR A WRIT OF HABEAS CORPUS}</p>
+
+<p>NO.38028
 Writ of Habeas Corpus.</p>
 
-<p>THE STATE OF WAHINGTON TO Sister M. Augelique, Sister
+<p>THE STATE OF WASHINGTON TO Sister M. Angelique, Sister
 Superior of the House of the Good Shepard</p>
 
 <p>Greeting:
-We command you, that you have the body <add>is</add> of Yvonne Le Fevre, Marie Le Fevre, and
-Georgette Normand by you imrisoned and detained, as it is said, together with the time and cause of such
+We command you, that you have the bod<del>y</del> <add>ies</add> of Yvonne Le Fevre, Marie Le Fevre, and
+Georgette Normand by you imprisoned and detained, as it is said, together with the time and cause of such
 imprisonment and detention, by whatsoever name, said Yvonne Le Fevre, Marie Le Fevre, and 
 Georgette Normand shall be named or charged, before Hon.
-W.R. Bell Judge of the Superior Court of the
+N.R. Bell Judge of the Superior Court of the
 State of Washington for the County of King, at the court room of said Court in the Conunty of King, on the
 14th day of Febuary 1903, at 9:30 o'clock in the fore noon of that
 day, to do and receive what shall then and there be considered concerning the said Yvonne Le Fevre, Marie
@@ -172,9 +174,9 @@ Le Fevre, and Georgette Normand.</p>
 
 <p>And have you then and there this writ</p>
 
-<p>WITNESS, Hon. W.R. Bell
+<p>WITNESS, Hon. N.R. Bell
 Judge of the Superior Court of the State of Washington, for the 
-County of King, at the court room herof, in said county, this
+County of King, at the court room thereof, in said county, this
 13 day of July A.D. 1903
 ATTEST my hand and seal of said Superior Court the day and year
 last above written</p>
@@ -187,6 +189,8 @@ last above written</p>
 
 <pb/>
 
+<p>Tx</p>
+
 <p>No.1078</p>
 
 <p>In US Circuit Court 
@@ -194,12 +198,12 @@ Northern Division
 District of Washington</p>
 
 <p>In the Application of
-Jas. P. Larin Sister Pupsuin
+Jas. P. Lavin &amp; Sister Superior
 M. Angelique, for a 
-That of Cretorari</p>
+Writ of Cretorari</p>
 
-<p>Supplimental Retain &amp;
-Petition for whisng and 
+<p>Supplemental Return &amp;
+Petition for rehearing and 
 modification of order &amp;
 judgement</p>
 
@@ -208,9 +212,9 @@ U.S. Circuit Court,
 DIST. OF WASHINGTON
 MAR 5 1903
 A. REEVES AYRES, Clerk
-HMStatiherd Dep.</p>
+HM Walthew Dep.</p>
 
-<p>Jeser Steye
+<p>Jesse A Frye
 US Attorney</p>
 </div1>
     
