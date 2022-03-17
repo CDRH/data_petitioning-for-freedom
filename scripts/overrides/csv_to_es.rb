@@ -27,8 +27,8 @@ class CsvToEs
       # @json["person_sex_k"] = @row["Person Sex"]
       # @json["person_tags_k"] = @row["Person Tags"]
       # @json["person_notes_k"] = @row["Person Notes"]
-      @json["person_relationships_k"] = @row["Person Relationships"]
-      @json["person_related_to_k"] = @row["Person Relatees"]
+      # @json["person_relationships_k"] = @row["Person Relationships"]
+      # @json["person_related_to_k"] = @row["Person Relatees"]
 		end
 		
 		def id
@@ -170,17 +170,9 @@ class CsvToEs
       @row["Case Citation/Source"]
     end
   
-    # def subjects
-    #   @row["Petition Type"]
-    # end
-  
     def title
       @row["Title"]
     end
-  
-    # def topics
-    #   @row["Petition Type"]
-    # end
 
 		def spatial
 			place = { "city" => @row["Location city"], "county" => @row["Location county"], "state" => @row["Location state"], "place_name" => @row["Location name"]}

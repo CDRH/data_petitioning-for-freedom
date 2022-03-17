@@ -14,7 +14,7 @@ class FileType
           file_transformer = classname.new(subdoc, @options, file_xml, self.filename(false))
           if classname == TeiToEs
             case_id = file_transformer.source
-            document_id = file_transformer.id
+            document_id = file_transformer.json["identifier"]
             if new_case_docs[case_id]
               new_case_docs[case_id] << document_id
             else
