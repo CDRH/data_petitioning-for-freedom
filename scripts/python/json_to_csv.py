@@ -3,6 +3,7 @@ import pandas as pd
 from pathlib import Path
 import os
 from dotenv import load_dotenv, find_dotenv
+import json
 
 load_dotenv(find_dotenv())
 
@@ -30,9 +31,7 @@ people_frame = pd.read_json(people_path, orient="records")
 # case_role_frame = pd.read_json(case_role_path, orient="records")
 # relationships_frame = pd.read_json(relationships_path, orient="records")
 # clean frames of blank entries
-blank_rows = cases_frame["Case ID"].isna()
-cases_frame = cases_frame[~blank_rows]
-people_frame = people_frame.fillna("")
+
 # change "[id]" to "id"
 cases_frame["Location of Court"] = cases_frame["Location of Court"].str[0]
 # case_role_frame["Case"] = case_role_frame["Case"].str[0]
@@ -99,6 +98,14 @@ desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant St
 cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location of Court", "People", "Primary field", "airtable_createdTime", "airtable_id", "Relationships [join]", "Created", "Encoding Incomplete?"])
 cases_frame = cases_frame.rename(columns={"Additional Parties Named in Document: Last, First": "Additional Parties", "Record Type(s)": "Record Type"})
 people_frame = people_frame.drop(columns=["Created", "Last Modified", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2"])
+for label in ["Petition Type", "Record Type", "Repository", "Site(s) of Significance", "Tags"]:
+    cases_frame[label] = cases_frame[label].apply(json.dumps)
+for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex"]:
+    people_frame[label] = people_frame[label].apply(json.dumps)
+cases_frame = cases_frame.fillna('')
+cases_frame = cases_frame.replace('NaN', '')
+people_frame = people_frame.fillna('')
+people_frame = people_frame.replace('NaN', '')
 # write the cases frame to csv
 cases_frame.to_csv("source/csv/habeas_airtable.csv")
 people_frame.to_csv("source/csv/habeas_airtable_people.csv")
