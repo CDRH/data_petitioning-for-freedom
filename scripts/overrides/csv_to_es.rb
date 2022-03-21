@@ -13,10 +13,10 @@ class CsvToEs
 			@json["court_k"] = @row["Court Type"]
 			@json["outcome_k"] = @row["Petition Outcome"]
       if @row["Repository"]
-        @json["repository_k"] = eval(@row["Repository"])
+        @json["repository_k"] = JSON.parse(@row["Repository"])
       end
       if @row["Site(s) of Significance"]
-        @json["sites_of_significance_k"] = eval(@row["Site(s) of Significance"])
+        @json["sites_of_significance_k"] = JSON.parse(@row["Site(s) of Significance"])
       end
       @json["points_of_law_k"] = @row["Points of Law Cited"]
       # I am leaving all the extra person fields as arrays for now, and Orchid can match them up with the correct people.
@@ -41,7 +41,7 @@ class CsvToEs
   
     def subcategory
       if @row["Petition Type"]
-        eval(@row["Petition Type"])
+        JSON.parse(@row["Petition Type"])
       end
     end
   
@@ -79,7 +79,7 @@ class CsvToEs
   
     def format
       if @row["Record Type"]
-        eval(@row["Record Type"])
+        JSON.parse(@row["Record Type"])
       end
     end
   
@@ -95,7 +95,7 @@ class CsvToEs
     
     def keywords
       if @row["Tags"]
-        eval(@row["Tags"])
+        JSON.parse(@row["Tags"])
       end
     end
 

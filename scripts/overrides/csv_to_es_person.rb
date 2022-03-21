@@ -11,19 +11,19 @@ class CsvToEsPerson < CsvToEs
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
       if @row["Birth Place"]
-        @json["birthplace_k"] = eval(@row["Birth Place"])
+        @json["birthplace_k"] = JSON.parse(@row["Birth Place"])
       end
       if @row["Race or Ethnicity"]
-        @json["race_k"] = eval(@row["Race or Ethnicity"])
+        @json["race_k"] = JSON.parse(@row["Race or Ethnicity"])
       end
       if @row["Sex"]
-        @json["sex_k"] = eval(@row["Sex"])
+        @json["sex_k"] = JSON.parse(@row["Sex"])
       end
       @json["name_given_k"] = @row["name_given"]
       @json["name_last_k"] = @row["name_last"]
       @json["name_alternate_k"] = @row["name_alternate"]
       if @row["Indicated Age Category (from Case Data [join])"]
-        @json["age_k"] = eval(@row["Indicated Age Category (from Case Data [join])"])
+        @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])
       end
 	end
 		
