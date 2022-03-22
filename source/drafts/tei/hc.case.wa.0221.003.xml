@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0221.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chin Quock Wah vs. Henry M. White. Criminal.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0221.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Chin Quock Wah vs. Henry M. White. Criminal.</title>
+<date when="1915">1915</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1915-03">March 1915</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Beeler, Adam</term>
+<term>Chin, Quock Wah</term>
+<term>Chin, We Hue</term>
+<term>Crosby, Frank L.</term>
+<term>Densmore, J. B.</term>
+<term>Doyle, James H.</term>
+<term>Post, Louis</term>
+<term>Sullivan, John J.</term>
+<term>White, Henry M.</term>
+<term>Wilson, W. B.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>China</term>    
+<term>Boston, Massachusetts</term>    
+<term>Seattle, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Chin Quock Wah</persName>
+</person>
+<person role="defendant">
+<persName>Henry M. White</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Adam Beeler</persName>
+<persName>Sullivan, John J.</persName>    
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Western District Court of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-03" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN 
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>In the Matter of the 
+Application of CHIN QUOCK WAH, 
+for a Writ of Habeas Corpus. )
+No. <gap/>
+Further Amended Petition
+of CHIN QUOCK WAH, by and 
+through ADAM BEELER, of the 
+Law Firm of Beeler &amp; Sullivan,
+his Attorney.</p>
+
+<p>Comes now Adam Beeler, <add>of the firm of Beeler &amp; Sullivan,</add> as attorney for and in
+behalf of Chin Quock Wah, an alien, a subject of the Emperor of
+China, and a son of CHIN WE HUE, a Merchant of the City of 
+Boston, State of Massachutes, and respectfully makes this
+application for a Writ of Habeas Corpus, and alleges as follows:</p>
+<p>I.
+That said Chin Quock Wah is imprisoned and restrained
+of his liberty, by the United States Commissioner of Immigration,
+Henry M. White, or by some person or persons acting
+through, by or under him, and that said Chin Quock Wah, is 
+imprisoned at the Detention House at the Immigration Station
+in the City of Seattle, King County, State of Washington, and
+within the jurisdiction of the above entitled Court, under teh 
+charge that the said Chin Quock Wah, was found, and still is,
+unlawfully in the United States, and that he should be deported
+according to law, and your petitioner further informs the
+Honorable Court that said imprisonment, confinement andrestraint
+and Order of Deportation is illegal and arises from the following
+facts, to-wit: That the said Ching Quock Wah, was tried
+in the City of Boston, State of Massachutes, and in the United 
+S tates, and found not entitled to remain in the United States, 
+and that thereafter the said Chin Quock Wah gave notice of appeal
+and an appeal was taken from the Commissioner before whom he was
+tried, in the City of Boston, State of Massachutes, to the 
+<fw>-1-</fw>
+<pb/>
+Secretary of Labor, and the said Order of Deportation, and the
+said finding of the Commissioner of Immigration at said City
+of Boston, State of Massachusetts, was affirmed, and the said
+Chin Quock Wah, ordered deported.</p>
+<p>Your petitioner is informed and believes and so states
+the fact to be that said Commissioner of Immigration, Henry 
+M. White, of Seattle, King County, in charge of the District 
+of Washington, or his agent or agents, official or officials,
+acting by, under or through him, or for the United States
+Government, is about to deport and return the said Chin Quock
+Wah to China, in violation of the treaty relations between 
+the United S tates and China, and in violation of the laws and 
+statutes of the United States relation to teh acts and 
+powers of the Secretary of Labor and the Assistant Secretary of 
+Labor, in that said Chin Quock Wah is being deprived of his 
+liberty without due process of law and without being given a fiar
+hearing by said Commissioner of Immigration, Henry M. White, 
+or his agents or officials actions by and under or through him, 
+or for the United States Government.</p>
+<p>Your petitioner further alleges that the right of appeal
+from said Finding of Commissioner of Immigration, Henry M. White,
+or his agents or officials acting by, under or through him, or 
+for the United States Government in and for the District of 
+Washington, by the statutes in such cases made and provided for in 
+relation to the Chinese Exclusion Laws, has been violated and 
+that his full rights have not been accorded to your Petitioner
+Chin Quock Wah in this: that W. B. Wilson is the Secretary of 
+and that Louis Post is his only Assistant Secretary of Labor;
+Labor <del>;</del> that both of said officials, as your petitioner alleges
+upon information and belief, and believes the fact to be, were
+at their respective offices in the capitol at Washington, doing
+the duties imposed upon them on the day that the said appeal
+of Chin Quock Wah was considered, and that upon said day and at
+said time that the appeal of the said Chin Quock Wah, to the
+<fw>-2-</fw>
+<pb/>
+Secretary of Labor, from the decision denying the right to
+remain in the United S tates of Chin Quock Wah, came up for
+hearing and consideration, that said Secretary of Labor and the
+Assistant Secretary of Labor were then and there present in
+their respective offices, and that the said Secretary of Labor 
+or Assistant Secretary of Labor, under the statutes, should 
+have considered and determined the said appeal of Chin Quock
+Qah from the said adverse decision of the said Commissioner of 
+Immigration, but that said Secretary of Labor and Assistant
+Secretary of Labor failed, neglected or refused so todo, and
+hence the said Chin Quock Wah has been denied his right of
+appeal, according to law.</p>
+<p>Your Petitioner further alleges that one J. B. Densmore
+is the Solicitor of the Department of Labor, and further alleges
+that said J. B. Densmore attempted to perform the duties of the
+Secretary of Labor or Assistant Secretary of Labor while they
+were present in their respective offices, and the order of the 
+President of the United States, with due respect thereto, does
+not authorize said J. B. Denmore, or such Solicitor of the
+Department of Labor to perform the duties of the Secretary of
+Labor or the Assistant Secretary of Labor, save and except in
+their absence, and therefore the action of said J. B. Denmore
+in claiming to be the acting Secretary of Labor during the 
+presence of said officials then and there, is a usurption of the
+duties imposed upon the said Secretary of the Department of 
+Labor and the said Assistant Secretary of Labor, by Congress,
+and the said J. B. Densmore, in assuming the duties of the 
+said Secretary of Labor and the Assistant Secretary of Labor
+and affirming the Finding of the Commissioner of Immigration
+at Boston Massachusetts, in relation to the ease of Chin Quock
+Wah, exceeded the statute, and his action in sustaining the 
+adverse decision in relation to the right to remain of Chin
+Quock Wah in the United States, is null and the said Chin Quock
+Wah has been denied the right of appeal as provided by the 
+<fw>-3-</fw>
+<pb/>
+statutes in such cases.</p>
+<p>Your Petitioner on information and belief, further
+states that the said Chin Quock Qah, has not had a fair and
+impartial trial before the said Commissioner of Immigration at
+Boston, Massachusetts; that there is no evidence in the records 
+to sustain the Department's Exclusion and Deporation had
+illegally ordered his exclusion from entry to the United States
+and his deportation therefrom without any authority or law, 
+to-wit, by the illegal act of said Solicitor J. B. Densmore, who 
+had no authority to order said deportation, was denied a fair
+and impartial trial in accordance with law, and that said Chin
+Quock Wah was denied the right of having his counsel, appear
+before the Commissioner of Immigration, or the lawful
+acting Secretary of Labor after said Chin Quok Wah, had appealed
+from the said illegal act of said Solicitor J.  B. Densmore
+and after said appeal had reached the Department of Labor, in 
+order that said counsel might present the case to the said
+Commissioner General of Immigration, or the lawfully acting
+Secretary of Labor, and bring to the attention of said officials
+the said illegal act of said Solicitor J. B. Densmore, and place
+certain evidence before said officials which would warrant a 
+reversal of said order of exclusion and deportation, or would
+warrant their consideration of the appeal of the said Ching Quock 
+Wah.</p>
+<p>WHEREFORE, your Petitioner prays that this Court find
+that the said Ching Quock Qah has not been accorded to the rights
+and privileges allowed by the Constitution of the United States, 
+and by the treaty between the United States and China, and that
+he be discharged and allowed to join his father who is a merchant
+in Boston, Massachusetts.</p>
+<p>Dated this 3rd day of March, 1915.</p>
+<ab>Beeler, Sullivan
+Attorney for Chin Quock Wah.</ab>
+<fw>4</fw>
+<pb/>
+<p>STATE OF WASHINGTON,
+COUNTY OF KING. ) SS</p>
+
+<p>ADAM BEELER, being first duly sworn
+on oath deposes and says: that he is one of the Attorneys for
+the said Chin Quock Wah; that he has read the foregoing Further 
+Amended P etition, knows the contents thereof, and that the
+same is true of his own knowledge; that those facts which he
+does not know of his own knowledge, he alleges upon information
+and belief to be true.</p>
+<ab>Adam Beeler</ab>
+<p>Subscribed and sworn to before me this 3rd day of March, 1915.</p>
+<ab>James H Doyle
+Notary Public in and for the State 
+of Washington, residing at Seattle.</ab>
+<pb/>
+<p><del>COPY</del> <add>Original</add>
+No. <gap/></p>
+
+<p>IN THE 
+<del>SUPERIOR</del> <add>UNITED STATES DISTRICT</add> COURT
+<del>STATE</del> <add>WESTERN DISTRICT</add> OF WASHINGTON
+<del>KING COUNTY</del> <add>NORTHERN DIVISION</add></p>
+
+<p>UNITED STATES GOVERNMENT 
+OF AMERICA
+Plaintiff
+VS.
+CHIN QUOCK WAH.
+Defendant</p>
+
+<p>PETITION</p>
+
+<p>BEELER &amp; SULLIVAN
+Attorneys for Defendant
+510-11 WHITE BUILDING
+SEATTLE, WASH.</p>
+
+<p>2x
+FILED IN THE
+U. S. District Court, 
+Western Dist. of Washington,
+NORTHERN DIVISION
+MAR 4 1915</p>
+<ab>FRANK L. CROSBY, Clerk
+By EML Deputy</ab>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
