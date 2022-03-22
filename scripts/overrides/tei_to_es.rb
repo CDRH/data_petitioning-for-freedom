@@ -72,11 +72,14 @@ class TeiToEs
   def person
     eles = @xml.xpath(@xpaths["person"])
     people = eles.map do |p|
-      {
-        "id" => "",
-        "name" => get_text("persName", xml: p),
-        "role" => get_text("@role", xml: p)
-      }
+      name = get_text("persName", xml: p)
+      if name && name.length > 0
+        {
+          "id" => "",
+          "name" => name,
+          "role" => get_text("@role", xml: p)
+        }
+      end
     end
     return people
   end
