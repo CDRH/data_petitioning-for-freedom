@@ -100,7 +100,7 @@ cases_frame = cases_frame.rename(columns={"Additional Parties Named in Document:
 people_frame = people_frame.drop(columns=["Created", "Last Modified", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2"])
 for label in ["Petition Type", "Record Type", "Repository", "Site(s) of Significance", "Tags"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
-for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex"]:
+for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags"]:
     people_frame[label] = people_frame[label].apply(json.dumps)
 cases_frame = cases_frame.fillna('')
 cases_frame = cases_frame.replace('NaN', '')
