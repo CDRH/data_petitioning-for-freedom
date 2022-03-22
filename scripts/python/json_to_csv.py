@@ -107,5 +107,5 @@ cases_frame = cases_frame.replace('NaN', '')
 people_frame = people_frame.fillna('')
 people_frame = people_frame.replace('NaN', '')
 # write the cases frame to csv
-cases_frame.to_csv("source/csv/habeas_airtable.csv")
+cases_frame.to_csv("source/csv/habeas_airtable_cases.csv")
 people_frame.to_csv("source/csv/habeas_airtable_people.csv")
