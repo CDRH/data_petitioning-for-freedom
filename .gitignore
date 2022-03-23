@@ -10,3 +10,8 @@ config/private.yml
 !/output/production/
 !/output/text/
 
+/bin
+/lib
+pyvenv.cfg
+.byebug_history
+.env

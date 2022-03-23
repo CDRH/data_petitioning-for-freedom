@@ -4,24 +4,6 @@ class FileCsv < FileType
 
     def initialize(file_location, options)
         super(file_location, options)
-        #read the spreadsheet from external source
-        key = "1UjklbuQwN3uyEbi2wzoOJunC4a-h58RJ2hxa2whFxWI"
-        # sheets = {
-        #     "iowa.csv" => "18278945",
-        #     "kansas.csv" => "1493529418",
-        #     "missouri.csv" => "161023288",
-        #     "nebraska.csv" => "0",
-        #     "us.csv" => "1342876964",
-        #     "washington.csv" => "1217279103"
-        # }
-        name = file_location.split("/")[-1]
-        gid = "161023288"
-        url = "https://docs.google.com/spreadsheets/d/#{key}/export?format=csv&id=#{key}&gid=#{gid}"
-        spreadsheet = open(url)
-        IO.copy_stream(spreadsheet, file_location)
-        
-        #pick out the sheet I want
-        #save it to source/csv as habeas.csv (or whatever, maybe we need multiple files)
         @csv = read_csv(file_location, options["csv_encoding"])
       end
 
@@ -31,9 +13,10 @@ class FileCsv < FileType
         # than its FileCsv.transform_es, so copying latter's code for now
         puts "transforming #{self.filename}"
         es_doc = []
+        table = table_type
         @csv.each do |row|
-            if !row.header_row? && row["Case ID"] && row["Case ID"].start_with?("hc")
-                es_doc << row_to_es(@csv.headers, row)
+            if !row.header_row?
+                es_doc << row_to_es(@csv.headers, row, table)
             end
         end
         if @options["output"]
@@ -48,6 +31,24 @@ class FileCsv < FileType
           encoding: encoding,
           headers: true
         })
+    end
+
+    def row_to_es(headers, row, table)
+        if table == "cases"
+            puts "processing " + row["Case ID"]
+            CsvToEs.new(row, options, @csv, self.filename(false)).json
+        elsif table == "people"
+            puts "processing " + row["unique_id"]
+            CsvToEsPerson.new(row, options, @csv, self.filename(false)).json
+        end
+    end
+
+    def table_type
+        if self.filename.include? "people"
+            "people"
+        else
+            "cases"
+        end
     end
 
 end
