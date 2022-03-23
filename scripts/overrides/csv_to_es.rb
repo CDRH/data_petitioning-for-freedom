@@ -29,6 +29,9 @@ class CsvToEs
       # @json["person_notes_k"] = @row["Person Notes"]
       # @json["person_relationships_k"] = @row["Person Relationships"]
       # @json["person_related_to_k"] = @row["Person Relatees"]
+      if @row["Petitioners"]
+        @json["petitioners_k"] = JSON.parse(@row["Petitioners"])
+      end
 		end
 		
 		def id
@@ -100,10 +103,7 @@ class CsvToEs
     end
 
     def person
-      # only includes name and case role, due to limitations of API
-      if @row["Petitioners"]
-        JSON.parse(@row["Petitioners"])
-      end
+      # TODO waiting for a finalized airtable setup
     end
   
   
