@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0128.010"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sterling P. White v. John Cody. Cost Bill</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
+<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
+<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
+<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0128.010</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sterling P. White v. John Cody. Cost Bill</title><!-- replace with name of case; type of document -->
+<date when="1885-03-05">March 5, 1885</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-03</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-03">March 1885</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Beardon, H. L.</term>
+<term>Warren, H. F.</term>
+<term>Blackfan, C. T.</term>
+<term>Black, J. S.</term>
+<term>Robinson, N.</term>
+<term>Brindell, C. T.</term>
+<term>Short, S. L.</term>
+<term>Portch, H. </term>
+<term>Portch, E. A.</term>
+<term>Welch, R. C.</term>
+<term>Rogers, O. J.</term>
+<term>Beardon, Frank J.</term>
+<term>Beardon, Henry S.</term>
+<term>Lyle, M. A.</term>
+<term>Friedlander, J. N.</term>
+<term>Feauerbach, Kate W.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName>Cody, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth District Court</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>      
+<change when="2021-02" who="lh">transcribed and encoded.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0128.010"/> <!-- insert number from spreadhseet -->
+
+
+<p>Cost Bill of Coroners inquest held this
+25th day December A.D. 1884 over the remains
+of H.L. Beardon.</p>
+
+<p>J. W. Carpenter acting coroner</p>
+
+<p>Holding inquest $10.00<lb/>
+To writing 2843 words 5.80<lb/>
+" insuring <unclear></unclear> 1.00<lb/>
+" mileage 14 miles 1.40   $18.20</p>
+
+<p>H. F. Warren<lb/>
+One (1) day attendance on jury 2.00<lb/>
+mileage 6 miles .60  $2.60</p>
+
+<p>C. T. Blackfan <lb/>
+one (1) day attendance on jury 2.00<lb/>
+mileage 10 miles 1.00  $3.00</p>
+
+<p>J. S. Black<lb/>
+one (1) day on jury 2.00<lb/>
+mileage 4 miles .40  2.40</p>
+
+<p>N. Robinson <lb/>
+one (1) day on jury 2.00<lb/>
+mileage 6 miles .60  2.60</p>
+
+<p>C. T. Brindell<lb/>
+one (1) day on jury 2.00<lb/>
+mileage 10 miles 1.00  3.00</p>
+
+<p>S. L. Short<lb/>
+one (1) day on jury 2.00<lb/>
+mileage $.20  2.20</p>
+
+<pb/>
+
+<p>H. Porteh<lb/>
+Witness one (1) day 2.00<lb/>
+mileage 2 miles .20  2.20</p>
+
+<p>E. A. Porteh<lb/>
+Witness one day 2.00<lb/>
+mileage .20  2.20</p>
+
+<p>R. C. Welch<lb/>
+Witness one (1) day 2.00<lb/>
+mileage 6 miles .60  2.60</p>
+
+<p>O.J. Rogers<lb/>
+Witness one (1) day 2.00<lb/>
+mileage 2 miles .20  2.20</p>
+
+<p>Frank J. Beardon<lb/>
+Witness one (1) day 2.00<lb/>
+mileage .20  2.20</p>
+
+<p>Henry S. Beardon<lb/>
+witness one (1) day 2.00<lb/>
+mileage .20  2.20</p>
+
+<p>M. A. Lyle<lb/>
+witness one (1) day 2.00<lb/>
+mileage 8 miles .80  2.80</p>
+
+<p>J. Friedlander Deputy Sheriff<lb/>
+one (1) day attendance $3.00<lb/>
+mileage on subpoena 34 miles 3.40<lb/>
+serving warrant 1.00<lb/>
+mileage 12 miles 1.20<lb/>
+serving subpoena 6 persons 2.40<lb/>
+To summoning 6 persons 1.50 </p>
+
+<p>Filed March 5 85<lb/>
+Kate Feuerbach<lb/>
+Clerk</p>
+
+<pb/>
+
+
+<p>To mileage summoning jury 36 miles 3.60<lb/>
+" calling jury .25<lb/>
+" " 6 witness .60<lb/>
+" mileage going to attend inquest and
+return 14 miles 1.40<lb/>
+" team for conveying prisoner to place of
+confinement 4.00 <unclear>2135</unclear></p>
+
+<p>I hereby certify that the above is a true 
+and correct bill as allow for the Statute 
+of Washington Ter.</p>
+
+<p>J. W. Carpenter<lb/>
+Justice of the Peace<lb/>
+Acting Coroner</p>
+
+<pb/>
+
+<p>Cost Bill<lb/>
+Filed Mch. 5th 1885<lb/>
+Kate Feuerbach<lb/>
+Clerk</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

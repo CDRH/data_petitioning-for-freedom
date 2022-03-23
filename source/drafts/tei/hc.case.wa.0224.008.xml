@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0224.008">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lewis Johnson v. Defendant. Witness Testimony, Detective McLachlin.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0224.008</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Lewis Johnson v. Defendant. Witness Testimony, Detective McLachlin.</title>
+<date when="1915">1915</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1915-06">June 19, 1915</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>McLachlin</term>
+<term>McLaughlin</term>
+</keywords> 
+
+<keywords scheme="lcsh" n="places"> 
+<term>Vancouver, Vancouver, British Columbia</term> 
+
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-02" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>DETECTIVE MCLACHLIN called as a witness, being first 
+sworn, testified as follows:</p>
+<p>QUESTIONS by MR KENNEDY:</p> 
+<p>114 Q. Mr McLachlin you are a detective in the City of Vancouver
+A. Yes</p> 
+<p>115 Q. What do you know about this case? A. Well I know this
+man Johnston for the last year</p> 
+<p>116 Q. That is his photograph Exhibit "A" A. Yes Exhibit "A"
+The first time I met him I arrested him for Vagrancy. At
+that time he was carrying opium</p> 
+<p>117 Q. Opium? A. No cocaine; and he threw the opium outfit out of 
+the window. He was trying to escape from the house on Union 
+Street. That time he got six months in his absence. He went
+to North Vancouver and since that time I have held him up on
+about four different occasions. I have ordered him out of
+town three times and each time he never had any money</p>  
+<p>118 Q. One of the constituents of the charge of vagrancy was that
+he didn't have any money? A. Yes</p> 
+<p>119 Q. He would not have been convicted if he had had any money
+at that time? A. No, he pleaded guilty to Vagrancy at that
+time.</p> 
+<p>120 Q. That was the section of Vagrancy that charges him with 
+not having any visible means of subsistence and wandering
+abroad and not giving a satisfactory account of himself? 
+A. Yes.</p> 
+<p>121 Q. How long ago was it that you last searched him for money? 
+A. Well about a week or ten days previous to his missing.....</p> 
+<p>122 Q. A week or ten days previous to the 4th of June? A. Yes</p>
+<p>ADJOURNED to June 17th to 19th</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

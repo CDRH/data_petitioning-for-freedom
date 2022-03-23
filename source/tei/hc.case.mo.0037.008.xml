@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -106,7 +107,7 @@
 <persName>Logan, R.F.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Decker, John</persName>
+<persName>Decker</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -129,6 +130,7 @@
 <change when="2018" who="djr">Transcribed.</change>
 <change when="2019" who="sab">Encoded, edited transcription.</change>
 <change when="2019" who="lkw"> Reviewed</change>
+<change when="2022" who="cjy">Edited encoding</change>
 </revisionDesc>
 
 </teiHeader>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Genevive Wilds v. Territory of Washington. Writ</title>
+<title>Genevive Wilds v. Territory of Washington. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Genevive Wilds v. Territory of Washington. Writ</title>
+<title level="m" type="main">Genevive Wilds v. Territory of Washington. Order</title>
 <date when="1918"> Febuary 16, 1918</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,7 +83,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Wilds, Genevive</term>
 <term>McBride, J.S.</term> 
 </keywords>
 
@@ -96,13 +95,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wilds, Genevive</persName>
+<persName>Wilds, Genevieve</persName>
 </person>
 <person role="defendant">
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Childe, Eugene A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -114,15 +113,16 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States District Court for the Western District of Washington, Northern Division</orgName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,19 +141,19 @@
 DISTRICT OF WASHINGTON, NORTHERN DIVISION</p>
 
 <p>IN THE MATTER OF THE APPLICATION OF 
-GENEVIVE WILDS FOR A WRIT OF 
+GENEVIEVE WILDS FOR A WRIT OF 
 HABEAS CORPUS} 
-No.39895
+No.3895
 ORDER</p>
 
-<p>Upon reading the petition of Genevive Wilds on 
+<p>Upon reading the petition of Genevieve Wilds on 
 file herein and the court being fully advised in the premises,
 now therefore,</p>
 
 <p>IT IS HERBY ORDERED that J.S. McBride, Health Officer
 of the City of Seattle be and he is hereby directed and ordered 
 to appear in this court on the 18th day of Febuary, 1918, at the 
-hour of <del>10</del><add>2</add> O'Clock <del>A.M.</del><add>A.M.</add>, and then and there show cause, if any 
+hour of <del>10</del><add>2</add> O'Clock <del>A.</del>M.<add>P.</add>, and then and there show cause, if any 
 there be, why a writ of habeas corpus should not be issued herein
 as prayed for in said petition</p>
 

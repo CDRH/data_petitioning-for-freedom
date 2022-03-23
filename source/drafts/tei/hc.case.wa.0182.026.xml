@@ -1,127 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.026">
     
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
-<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
-<respStmt>
-<resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
-</respStmt>
-<sponsor>University of Nebraska-Lincoln</sponsor>
-<sponsor>William Nelson Cromwell Foundation</sponsor>
-</titleStmt>
-    
-<editionStmt>
-<edition>
-<date>2021</date>
-</edition>
-</editionStmt>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
             
-<publicationStmt>
-<authority>Produce the Body</authority>
-<publisher>University of Nebraska-Lincoln</publisher>
-<distributor>
-<name>Center for Digital Research in the Humanities</name>
-<address>
-<addrLine>319 Love Library</addrLine>
-<addrLine>University of Nebraska–Lincoln</addrLine>
-<addrLine>Lincoln, NE 68588-4100</addrLine>
-<addrLine>cdrh@unl.edu</addrLine>
-</address>
-</distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
-
-<availability>
-<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
-</availability>
-</publicationStmt>
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
             
-<sourceDesc>
-<bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
-</bibl>
-<msDesc>
-<msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
-</msIdentifier>
-</msDesc>
-</sourceDesc>
-</fileDesc>
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.026</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
         
-<profileDesc>
-<textClass>
-<keywords scheme="original" n="category">
-<term>Case Papers</term>
-</keywords>
-    
-<keywords scheme="original" n="subcategory">
-<term></term>
-</keywords>
-
-<keywords scheme="original" n="type">
-<term></term>
-</keywords>
-
-<keywords scheme="original" n="subtype">
-<term></term>
-</keywords>
-
-<keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
-</keywords>
-    
-<keywords scheme="lcsh" n="people">
-<term></term>
-</keywords>
-
-<keywords scheme="lcsh" n="places"> 
-<term></term>
-</keywords>
-
-</textClass>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
             
-<particDesc>   
-<listPerson>            
-<person role="petitioner">
-<persName></persName>
-</person>
-<person role="defendant">
-<persName></persName>
-</person>
-<person role="attorney_petitioner">
-<persName></persName>
-</person>
-<person role="attorney_defendant">
-<persName></persName>
-</person>
-<person role="judge">
-<persName></persName>
-</person>
-</listPerson>
-            
-<listOrg>
-<org>
-<orgName></orgName>
-<placeName></placeName>
-</org>
-</listOrg>   
-</particDesc> 
-</profileDesc>
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
         
-<revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
-</revisionDesc>
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
 
 </teiHeader>
     
@@ -141,9 +166,38 @@ Twenty (120) feet of the South Sixty (60) feed of the North ONe Hundred and twen
 Tract 39 of esler's Donation Claim to the Cicty of Seattle, and that the present fair value of
 Depolots at 119-121 60th Street and the present fair value of Deponennt's interest is One Thousand
 Dollars ($1000.0 ); and personal property consisting of a ladies tailoring establishment at 406
-Union St., Seattle Washington, consisting of Fixtures in the value of over $1000.00, and </p>
-
-
+Union St., Seattle Washington, consisting of Fixtures in the value of over $1000.00, and raxxgoods,
+and one half interst of raw goods, the same amounting to over $2000.00, that he is now liable upon
+no other bond, obligation, ricognizance, either as principal or surety except as hereinafter stated.
+eponent further states that he is of full age and under no disability to execute the foregoing bond.</p>
+<p>Samuel H Weber</p>
+<p>subscribed and sworn to before  me this 
+24 day of February, 1914</p>
+<p><unclear></unclear></p>
+<p>Notary Public in and for the State of Washington residing at Seattle.</p>
+<p>STATE OF WASHINGTON ss</p>
+<p>COUNTY OF KING.</p>
+<p>Samuel Cohen ExxHekFaxd being first duly sworn on oath, deposes and says; taht he is one of the
+signers of the bond in the case of the Alien L. Orliff that he resides at No. 2205 E. Spruce St.
+Seattle, Wash, and that the value of his property over and above all debts and liabilities incurred
+by him and exclusive of property exempt from levy and sale upon execution is over $1000.00 to wit
+one half interes "North-Western Cloack and suit Mfg. CO., at 1329- 1st Ave., Seattle, Wash, and that
+the value of said business is over $8000.00; that he is now liable upon no other bond, obligation,
+or recognizance, either as principal or surety except as herinafter stated. Deponent further says;
+that he is of full age and under no legal disability to execute the foregoing bond.</p>
+<p>Samuel Cohen</p>
+<p>Subscribed and sworn to before me this 24 day of February, 1914</p>
+<p>Jonah <unclear></unclear></p>
+<p>Notary Public in and for the State of Washington residing at Seattle.</p>
+<p>DEPARTMENT OF JUSTICE
+OFFICE OF
+UNITED STATES DISTRICT ATTORNEY.</p>
+<p>February 24th 1914</p>
+<p>Examined and approved as to form and execution</p>
+<p><unclear></unclear> Fishbourne
+Assistant U.S. Attorney</p>
+<p>Jeremiah <unclear></unclear>
+U.S. District Judge</p>
 
 <div1 type="case">
 

@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Order</title>
-<date when="1903">Febuary 19, 1903</date>
+<date when="1903-02-19">Febuary 19, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,23 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-02"></date>February 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Lavin, James P.</term>
-<term>Angelique, M.</term>
-<term>Cushman, Edward E.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
-<term>Gill, H.C.</term>
 <term>Hapkins, P. M.</term>
 <term>Avres, A. Reeves</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Victoria, British Columbia</term>
 </keywords>
 
 </textClass>
@@ -103,32 +98,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,17 +147,17 @@
 NORTHERN DIVISION</p>
 
 <p>In the Matter of the Application 
-of James P. Levin and Sister
+of James P. Lavin and Sister
 Superior M. Angelique for a writ 
 of certiorari}
 No.1078
 Order</p>
 
 <p>This matter coming on upon the petition by Yvonne Le Fevre, Marie 
-Le Fevre and Georgete Normand for a writ of habeas corpus, and the return
+Le Fevre and Georgette Normand for a writ of habeas corpus, and the return
 of James P. Lavin and Sister Superior M. Angelique, and said petitioners
 appearing by their attorney, H. Gill, and respondents appearing
-by Edard E. Cushman, Assistant United States Attorney, and the Court
+by Edward E. Cushman, Assistant United States Attorney, and the Court
 being fully advised, and finding the facts and causes of the detention
 of the petitioners by the respondents to be as set forth in the return,
 and further findings as a matter of law that the only action warranted
@@ -166,9 +166,9 @@ of the petitioners to Victoria, British Columbia, at the expense of the
 ship which brought them to this country;</p>
 
 <p>It is therefore ordered, adjudged and decreed that the petitioners,
-and each pf them, be and are hereby remanded to thecustody of James P.
+and each pf them, be and are hereby remanded to the custody of James P.
 Lavin, Immigrant Inspector, to be by him placed and returned upon the
-Steamship Rosalie, to be by said vessel and at its own exprense returned
+Steamship Rosalie, to be by said vessel and at its own expense returned
 to Victoria, British Columbia.</p>
 
 <p>Done in open Court this 19th day of Febuary, 1903.</p>
@@ -178,7 +178,9 @@ Judge</p>
 
 <pb/>
 
-<p>WOB-7-319</p>
+<p>Tx</p>
+
+<p>GOB-7-319</p>
 
 <p>NO. 1078</p>
 
@@ -187,17 +189,16 @@ OF THE UNITED STATES
 FOR THE 
 DISTRICT OF WASHOINTON</p>
 
-<p>In the Application
+<p>In re Application
 of Jas. 
-vs.
-P Savin et al
-for writ of curtivsani</p>
+P Lavin et al
+for writ of certiorari</p>
 
 <p>Order</p>
 
 <p>Filed Feby 19 1903
-A. Reeves Avres Clerk
-By PM Hapkins Deputy</p>
+A. Reeves Ayres Clerk
+By RM Hopkins Deputy</p>
 </div1>
     
 </body>

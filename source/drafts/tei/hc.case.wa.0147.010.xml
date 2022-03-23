@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Habeas Corpus</title>
+<title>Gladys Fredrika Fuson v. Territory of Washington. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Habeas Corpus</title>
-<date when="1916">October 26, 1916</date>
+<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Petition</title>
+<date when="1916-10-26">October 26, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,15 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-10"></date>October 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Boyle, John M.</term>
+<term>McMaster, Lona</term>
+<term>Mason,Blanche H.</term>
+<term>Fuson, Harold W.</term>
+<term>Merrill, Lilburn</term>
 <term>Williams, Edward</term>
-<term>Fuson, Gladys Fredrika</term>
+<term>Sheldon, M.E.</term>
 <term>Crosby, Frank L.</term>
-<term>Laxew, Edin</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,25 +107,32 @@
 <person role="defendant">
 <persName>Territory of Washington</persName>
 </person>
+<person role="attorney_petitioner">
+<persName>Wilson, P.H.</persName>
+</person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
 <persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,58 +147,127 @@
 
 <pb facs="hc.case.wa.0147.010"/>
 
-<p>FORM NO.282RETUN ON SERVICE OF WRIT</p>
+<p>IN THE UNITED STATE DISTRICT COURT, WESTERN DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>United States of America 
-Western Dristict of Washington,} ss:</p>
+<p>IN THE MATTER OF THE APPLICATION 
+OF MRS. GLADYS FREDRIKA FUSON,
+FOR WRIT OF HABEAS CORPUS.}</p>
 
-<p>I hereby certify and return that I served the annexed Hebeas Corpus,
-on the therin-named King Dykeman, Judge,
-Seattle Washington,
-by handing to and leaving a true and correct copy therof with King Dykeman
-personally
-at SeattleWash, in said District on the 26th, day of 
-October, A.D. 1916</p>
+<p>NO.3451
+PETITION.</p>
 
-<p>Marshal's fees $2.12</p>
+<p>Comes now Mrs. Gladys Fredrika Fuson, by her next friend-
+Lona McMasters, and petitions this Honorable Court for a Writ of 
+Habeas Corpus herein, and alleges as follows:-</p>
 
-<p>John M. Boyle
-U.S. Marshals</p>
+<p>That heretofore, on Friday, October 20th, 1916, the said
+Mrs. Gladys Fredrika Fuson, was a resident of Port Townsend, in the 
+County of Jefferson, in the State of Washington, and in the employ
+of the affiant herein.</p>
 
-<p>By Edward Williams
-Deputy</p>
+<p>That on said date one M. Ruth Dahnken, claiming to be an
+Officer of the Seattle Police Department, appeared in Port Townsend
+and arrested the above named Mrs. Gladys Fredrika Fuson and trasported 
+her to Seattle against her will and without her consent,
+alleging as cause therefor that one King Dykeman had verbally instructed 
+her so to do.</p>
+
+<p>That the said King Dykeman and Blanche H. Mason and Harold 
+W. Fuson and Doctor Lilburn Merrill have confined the said Mrs. 
+Gladys Fredrika Fuson in a prison or jail at Broadway and Spruce
+Streets, in the City of Seattle.</p>
+
+<p>That said arrest, imprisonment and restrained were and are 
+illegal and contrary to the course of common law and of the guarantees
+of the Constitution of the United States concerning life,
+liberty and the pursuit of happiness.</p>
+
+<p>That it was not alleged that the said Mrs. Gladys Fredrika 
+Fuson had committed any offense against the laws at any time or any 
+place.</p>
+
+<p>That no warrant or information was issued</p>
+
+<p>That, as affiant belives, that said Mrs. Gladys Fredrika 
+Fuson is not being held by any sentence of any competent court.</p>
 
 <pb/>
 
-<p>Original</p>
+<p>That she has not been served with any kind of process and
+that when affiant asked for the reasons she could obtain no satisfaction
+from the said persons, or any of them.</p>
 
-<p>Unites States Dostict Court 
-Western
-DISTRICT OF WASHIINGTON
-NO.3451</p>
+<p>Affiant further says that the said Mrs. Gladys Fredrika
+Fuson is married woman who has been abandoned by her husband, the 
+above named Harold W. Fuson; and that the said Harold W. Fuson has 
+commenced suit for divorce against the said Mrs. Gladys Fredrika
+Fuson, to which she has filed an answer and cross complaint in the 
+Superior Court of King County, Washington.</p>
 
-<p>In the Mater of Application of 
-Mrs. Gladys Fredrika Fuson
-For Writ of Habeas corpus</p>
+<p>That affiant belives that said proceeding was begun for 
+the express purpose of preventing said Mrs. Gladys Fredrika Fuson
+from making her defense to said action and for the purpose of holding 
+her in involuntary imprisonment for the advantage of the said
+Harold W. Fuson in said action; and affiant belives and states the
+fact to be that the said Dykeman, Fuson, Mason and Merill have 
+illegally conspired to deprive the said Mrs. Gladys Fredrika Fuson
+of her rights of liberty guaranteed to all citizens of the United
+States. Affiant further says that the said Mrs. Gladys Fredrika 
+Fuson is a native born citizen of the United States and entitled to
+all of the privileges and immunities of such,</p>
 
-<p>Heabeas Corpus</p>
+<p>That the affiant and the said Mrs. Gladys Fredrika Fuson 
+are both poor persons, and ask to be permitted to prosecute this 
+action as such.</p>
 
-<p>Let the within Writ Issues 
-- - - - - - - - - - 
-U.S. District Judge</p>
+<p>STATE OF WASHINGTON
+COUNTY OF KING, } SS:</p>
 
-<p>Return and filed this 
-day of A.D. 189
-Clerk
-By Deputy Clerk</p>
+<p>LONA Mc MASTERS, being first fully sworn, deposes and
+says: that she is the person named in the foregoing Petition as the 
+next friend of the said Mrs. Gladys Fredika Fuson; that she has 
+read the forgong Petition for Habeas Corpus, knows the contents
+thereof and that the same is true; that the reason that affidavits
+of verification is made by affiant and not by the said Mrs. Gladys
+Fredrika Fuson is that the said Mrs. Gladys Fredrika Fuson is in 
+
+<pb/>
+
+duress and unale to sign the same,</p>
+
+<p>Mrs. Lona Mc Master</p>
+
+<p>Subscribed and sworn to before me this 25th day of October 
+1916.</p>
+
+<p>M E Sheldon 
+Notarary Public in and for the State 
+of Washington, residing at Seattle</p>
+
+<figure></figure>
+
+<pb/>
+
+<p>No.3451</p>
+
+<p>IN THE UNITED STATES DISTRICT
+COURT, WESTERN DISTRICT OF 
+WASHINGTON, NORTHERN DIVISION.</p>
+
+<p>IN THE MATTER OF THE APPLICATION 
+OF MRS. GLADYS FREDRIKA FUSON,
+FOR A WRIT OF HABEAS CORPUS</p>
+
+<p>PETITION.</p>
 
 <p>FILED IN THE 
-U.S. District Court
-WesternDist. of Washington,
+U.S. District Court, 
+Western Dist. of Washington,
 NORTHERN DIVISION
-OCT 261916
-FRANK L.CROSSBY, Clerk
-By Edm Lakim Deputy</p>
+OCT 26 1916
+FRANK L. CROSBY CLERK
+Edw Lakin Deputy</p>
 </div1>
     
 </body>

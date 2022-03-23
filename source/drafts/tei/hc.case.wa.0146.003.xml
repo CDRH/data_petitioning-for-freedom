@@ -85,7 +85,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Bragner, A.A.</term>
 <term>Boyle, John M.</term>
-<term>Morton</term>
+<term>Morton D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -97,13 +97,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Wilds, Genevive</persName>
+<persName>Wilds, Genevieve</persName>
 </person>
 <person role="defendant">
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Childe, Eugene A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -115,15 +115,16 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States District Court for the Western District of Washington, Northern Division</orgName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">Reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,6 +142,12 @@
 <p>Form No.282</p>
 
 <figure></figure>
+<p>FILED IN THE 
+<unclear></unclear> COURT,
+<supplied>District of Washington
+Northern Division</supplied>
+FEB 27 1918
+Frank L. Crosby, Clerk,</p>
 
 <p>RETURN ON SERVICE OF WRIT.</p>
 
@@ -154,11 +161,13 @@ by handing to and leaving a true and correct copy of therof with A.A.Bragner,
 at Seattle Washington, in said District the 16th day of 
 Feb, A.D. 1918</p>
 
-<p>John M. Boyle.</p>
+<p>John M. Boyle.
+U.S. Marshal</p>
 
 <p>Marshals Fees $2.12</p>
 
-<p>Morton D. <unclear></unclear></p>
+<p>Morton D. <unclear></unclear>
+Deputy</p>
 
 </div1>
     

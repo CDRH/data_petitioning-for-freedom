@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0156.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Fred S. Walton v. John G. Boyle. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
+<name n="Silva, Salma J" xml:id="sjs">Salma Silva</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0156.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Fred S. Walton v. John G. Boyle. Return</title>
+<date when="1901-09-09">September 9, 1901</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,24 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1901-09">September 1901</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Dilley, A. L.</term>
+<term>Fechter, O. A.</term>
+<term>Hough, George S.</term>
+<term>Lince, W. I.</term>
+<term>Taggard, J. A.</term>
+<term>Moore, A. N.</term>
+<term>Doust, H. B.</term>
+<term>Ayres, A. Reeves</term>
+<term>Hopkins, R. M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>North Yakima</term>
+<term>Portland Oregon</term>
 </keywords>
 
 </textClass>
@@ -94,33 +103,35 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Walton, Fred S.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Boyle, John G.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Snively, H. J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Whilson, Edward</persName>
+<persName>Snyder, Vestal</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, C. H.</persName>
+<persName>Fuller, Melville W.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court, Northern Division, State of Washington</orgName>
+<placeName>Northern Division, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -551,7 +562,359 @@ follows:</p>
 Ordinance relating to Licenses", approved April 5, 1898, is hereby
 amended to read as follows: Section 1. That it shall be unlawful
 for any person or the officers and employes of any firm, corporation
-or company, to engage in, prosecute or carry on any business, trade </p>
+or company, to engage in, prosecute or carry on any business, trade 
+profession or occupation within the corporate limits of the City of 
+North Yakima, for which a license is required without having firest
+procured a license therefor as hereafter provided and any person 
+and the officers and employes of any firm, corporation or company
+who shall violate any of the provisions of this ordinance shall be
+deemed guilty of a misdemeanor, and upon convinction thereof shall be
+fined not less than Five Dollars nor more than Three Hundred Dollars
+for each offense.</p>
+
+<p>Section 2. That section 10 of Ordinance No. 265, entitled "An 
+Ordinance relating to Licenses", approved April 5th, 1898, be amended
+to read as follows: "Section 10. The License fee for <del>which</del> each
+riding gallery commonly called a Merry-go-round, shall be fifteen 
+dollars per day, provided however that if a license for such riding
+gallery or merry-go-round is taken out for ten days or more, the
+license fee therefore shall ne ten dollars per day."</p>
+
+<p>Section 3. This Ordinance shall be in force and effect from and
+after Five days after its passage and publication.</p>
+
+<p>Passed the Council the 3rd day of September, 1900.</p>
+
+<p>Approved the 4th day of September, 1900.</p>
+
+<p>Attest:
+H. B. Doust,
+City Clerk.</p>
+
+<ab>(Seal)</ab>
+
+<p>Geo. S. Hough,
+Mayor Pro tem.</p>
+
+<pb/>
+
+<ab>"Ex, "C".</ab>
+
+<p>In the Police Court of the City of North Yakima, Washington, County
+of Yakima, and State of Washington, Before W. I. LInce, Police Justic</p>
+
+<ab>State of Washington,
+County of Yakima,
+
+ss:</ab>
+
+<ab>No. 40.</ab>
+
+<ab>People of the State of Washington,
+vs. 
+Fred S. Walton.</ab>
+
+<p>Vestal Snyder, being first duly sworn, on oath says,
+that at the City of North Yakima, Yakima County, State of Washington,
+on the 5th day of September, 1901, said Fred S. Walton, did violate
+section seven of ordinance number 265, entitled an ordinance in 
+relation to licenses" duly passed by the City Council of said City
+of North Yakima, on the 4th day of April, 1898, and approved by the
+Mayor of said City, numbered 298, duly passed by the City Council
+of said Mayor of said City, on the 4th day of September, 1900, <del>and 
+approved by the </del> entitled an ordinance to amend 1 and 10 of ordinance 
+number 265, entitled as follows; Then and there being the said Fred
+S. Walton did then and there hawk certain goods, wares and merchandise 
+to-wit: "Quaker herbs", by selling the same at public out cry, in
+a public place <del></del> within the City of North Yakima aforesaid,
+without first having otained a license so to do, in pursuance <unclear>of</unclear>
+the provisions of said ordinances. Said City of North Yakima, is <unclear>a</unclear>
+municipal corporation organized and existing under and by virtue <unclear>of</unclear>
+the laws of the State of Washington, and at all times herein mentioned 
+was such municipal corporation. </p>
+
+<p>Contrary to the forms of said ordinance of the City of North
+Yakima and the statute in such cases made and provided, and against
+the peace and dignity of the State of Washington.</p>
+
+<ab>Vestal Snyder.</ab>
+
+<p>Subscribed and sworn to before me this 5th day of September, 1901</p>
+
+<ab>W. I. Lince,
+Police Justice of the City of 
+Yakima, Washington.</ab>
+
+<pb/>
+
+<p>"Ex. "D,"</p>
+
+<ab>State of Wash.
+vs. 
+Fred S. Walton.
+
+Justice Docket.</ab>
+
+<ab>State of Washington,
+County of Yakima,
+
+ss:</ab>
+
+<ab>In Justice Peace Court before J. A. Taggard,
+Justice of the Peace.
+
+Action for violating City Ord.</ab>
+
+<ab>Officer, J. G. Boyle.
+Attys. Vestal Snyder, Plff.
+"H.J. Snively, Deft.</ab>
+
+<p>Be it remembered that on this 6th day of September, A.D. 1901,
+the papers in this case complaint warrant aff. for change of venue
+from City Police Judge, W. I. Lince were filed in this Court, the
+complaint against defendant is for violating ordinances of the City
+of North Yakima, Nos. 265 and 298 and verified by Vestal Snyder.
+The defendant in Court and represented by H. J. Snively and City
+atty. Vestal Snyder. Defendant plead not guilty. All papers and
+facts on record admitted and after hearing argument of respective 
+counsel, it is ordered and adjudged the defendant hereing Fred S.
+Walton, pay a fine of $5.00 and costs of this action, taxed at $1.70
+and in default of payment of said fine and costs, viz. $6.70 he be 
+confined in City Jail of the City of North Yakima, until paid or he 
+be otherwise discharged by due process of law.</p>
+
+<p>Dated Sept., 6, 1901</p>
+
+<p>J. A. Taggard
+Justice of the Peace.</p>
+
+<pb/>
+
+<ab>COMMITMENT UPON SENTENCE.</ab>
+
+<ab>In Justice Court North Yakima Precinct.</ab>
+
+<ab>State of Washington,
+County of Yakima,
+
+ss:</ab>
+
+<p>TO any city Marshal, Keeper of City Jail in City of North Yakima,
+Greeting:</p>
+
+<p>WHEREAS, at a Justice Court held at my office in said
+County, for the trial of Fred S. Walton, for the offense hereinafter
+stated, the said Fred S. Walton was convicted of having on the 5th 
+day of September, 1901, in said County, did violate ordinance Nos.
+265 and 298 of City of North Yakima and upon conviction the Court
+did adjudge <del>the</del> and determine that the said Fred S. Walton pay a 
+fine of Five Dollars and one and 70/100 dollars costs of suit and
+in default of payment of said fine and costs that he be imprisoned
+in the city jail, City of North Yakima, Yakima County, Washington,
+until such fine and costs are paid, at the rate of three dollars
+per day, not to exceed three days.</p>
+
+<p>THEREFORE, You, the said Marshal are commanded in the name of
+the people of the State of Washington, forthwith to convey and 
+deliver the said Fred S. Walton to the said Keeper, and you, the
+said Keeper, are hereby commanded to receive the said Fred S. Walton
+into your custody in said jail, and him there safely keep until said 
+judgment is fully satisfied as above set forth, or until he shall
+thence be discharged by due course of law.</p>
+
+<p>Dated this 4th day of September, 1901.</p>
+
+<ab>J. A. Taggard,
+Justice of the Peace. </ab>
+
+<pb/>
+
+<ab>Form No.1.</ab>
+
+<ab>1</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<ab>NUMBER W13</ab>
+<ab>SENT BY d</ab>
+<ab>CHECK 237 Paid East Rate</ab>
+
+<p>RECEIVED at North Yakima, Wn. 335 Pm Sept 7 1901</p>
+
+<ab>Dated Seattle W</ab>
+<ab>To Dilley Deputy Marshall</ab>
+
+<p>Serve the following writ of habeas 
+corpus on John G. Boyle City Marshall 
+United States of America "In the 
+Circuit Court of the United States 
+with <unclear>judicial Circuit</unclear> district</p>
+<pb/>
+
+<ab>2</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<p>To of Washington Northern
+division in the matter of F. S. Walton on habeas corpus, 
+the president of the United States 
+of America to John G Boyle -
+City Marshall North Yakima Washington
+<unclear>Greeting-</unclear> You are hereby</p>
+
+<pb/>
+
+<ab>3</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<p>Dated <unclear>September</unclear></p>
+
+<p>To Commanded that you have
+the body of F. S. Walton - by you
+imprisoned and detained as 
+it is said together with the 
+time and cause of such 
+imprisonment and detention
+by whatsoever cause he shall</p>
+
+<pb/>
+
+<ab>4</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<p>Dated be called or charged - Before 
+the honorable the Circuit 
+Court of the United States
+for the ninth judicial circuit 
+district of Washington at the 
+court room of said court
+in the city of Seattle on the 
+ninth day of Sep't 1901 at 2 oclock</p>
+
+<pb/>
+
+<ab>5</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<ab>Dated</ab>
+<ab>To</ab>
+
+<p>I'm to do and receive 
+waht shall than be 
+considered in the <unclear></unclear>
+and have you then and there 
+this writ <unclear></unclear> the honorable
+Melville W. Fuller Chief Justice 
+of the Supreme Court of the 
+United States and the <unclear></unclear></p>
+
+<pb/>
+
+<ab>6</ab>
+
+<ab>THE WESTERN UNION TELEGRAPH COMPANY
+INCORPORATED</ab>
+
+<ab>21,000 OFFICES IN AMERICA. CABLE SERVICE TO ALL THE WORLD.</ab>
+
+<p>This company TRANSMITS and DELIVERS messages only on conditions limiting its liability, which have been assented to by the sender of the following message
+Errors can be guarded against only by repeating a message back to the sending station for comparison and the Company will not hold itself liable for error or delays 
+in transmission or delivery of Unrepeated Messages, beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing within sixty days</p>
+
+<p>This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under th conditions named above.</p>
+
+<ab>Thos. T. Eckert, President and General Manager.</ab>
+
+<ab>Dated</ab>
+<ab>To</ab>
+
+<p>of said Circuit Court
+this 7th day of September 
+in the year of our Lord one 
+thousand nine hundred and 
+ninety one and of our independence
+the 126th. A. Reeves Ayres-
+Clerk, By R M Hopkins - deputy
+clerk - <unclear>Signed</unclear> <unclear>Lyle</unclear> Marshall</p>
+
+<pb/>
+
+<ab>Tx</ab>
+
+<ab>No. 957</ab>
+
+<ab>IN THE Circuit COURT
+OF THE UNITED STATES
+FOR THE 
+DISTRICT OF WASHINGTON</ab>
+
+<p>In re- 
+F. S. Walton
+Habeas Corpus</p>
+
+<ab>Return</ab>
+
+<ab>Filed Sept 9 1901
+A Reeves Ayres Clerk
+By A. N. Moore Deputy</ab>
 
 
 </div1>
