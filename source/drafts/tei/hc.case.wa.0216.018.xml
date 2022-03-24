@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0000.000</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName></persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+
+<div1 type="case">
+
+<pb/>
+<p>In the United States District Court, in and for the Western
+District of Washington, Northern Division.</p>
+<p>In the Matter of the Application
+of Ching Hing, for a 
+Writ of Habeas Corpus } No. 2857
+Motion</p>
+<p>Comes now John J. Sullivan, as attorney for petitioner
+Ching Hing, and respectfully prsents to this Hon. Court; that
+a petition was presented to this Hon. Court in the month of
+October, 1914, praying that a Writ of Habeas Corpus, be issued
+alleging that petitioner was confined and imprisoned and restrained
+of his liberty and that said restraint was illegal,
+and thereupon set out facts in said petition, to bear out his
+said statements, adn that said matter coming on for hearing
+on the 16th day of Octobfer, 1914, at which time a continuance
+was granted by this Hon. Court through Judge Neterer, ordering
+a commission to issue to Thomas G. Lewis, of Washington D.C.,
+authorizing him to take the depostition of Lewis F. Post, and
+Corry M. Stadden, both of Washington, D.C. That said Lewis
+F. Post refuses to answer the said interrogaories, wehereupon
+an order was directed by the District Court, in and for the
+District of Columbnia, commanding Lewis F. Post to show cause
+why he should not answer the said interrogatories; that this
+matter is now pending, and that petitioner can not present his
+case in proper form until this matter is determined, and whereupon
+a bond in the sum of Fifteen Hundred (1500) Dollars, to
+await any Judgment or Order of this Court upon and in relation
+to said application for Writ of Habeas Corpus, now pending in
+this Court. This motion is based upon the facts hereinabove 
+presented to this Court, and by the records and files in this
+Court.</p>
+<ab>John J. Sullivan</ab>
+<pb/>
+<p>State of Washington
+County of King } ss</p>
+<p>John J. Sullivan, being first duly
+sworn, on oath deposes and says: That he is the Attorney for
+the Petitioner Ching Hing; that he has read the foregoing 
+Motion, and believes the dame to be true and meritorious in
+law.</p>
+<ab>John J Sullivan</ab>
+<p>Subscribed and sworn to before me this 2 day of March, 1915.</p>
+<ab>Adam Beeler
+Notary Public in and for the State
+of Washington, residing at Seattle.</ab>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

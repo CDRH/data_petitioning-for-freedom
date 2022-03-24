@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0188.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Arthur B. Martin v. United States. Order Dismissing Petition.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Turner, Grace E." xml:id="GET">Grace Turner</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -19,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0188.004</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Albert B. Martin v. United States. Order Dismissing Petition.</title>
+<date when="1914-10-14">October 14, 1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2852ArthurMartin</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1914-10">October 1914</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>White, Henry M.</term>
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,35 +96,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Martin, Arthur B.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States of America</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Fishburne, George P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Moody, Albert</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western Washington District Court</orgName>
+<placeName>Washington State</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<change when="2022-01" who="#GET">transcribed and encoded</change>
 </revisionDesc>
-
 </teiHeader>
     
 <text>
@@ -160,18 +164,37 @@ premises:</p>
 the writ of habeas corpus be and the same hereby are forever
 discharge and dismissed, and that the petition and is
 hereby remanded to the custody of the Immigration Authorities;</p>
-<p><add>appearing that the petititioner has aid <unclear/> <unclear/> the Commissioner of
-Immigration.
-The term of fifty dollars, and that he has <unclear>attended</unclear> this proceeding in
-<unclear>forcause pauperis et al.</unclear></add>
+<p><add>appearing that the petitioner has on deposit with the commissioner of Immigration the sum of fifty dollars and that he has withheld this proceeding in forma pauperis it is</add></p>
 <p>And it is further ordered that the said Henry M. White,
 <add>Commissioner of Immigration</add> <del>respondent</del>, pay to the Clerk of the United States
 District
 <pb/>
-Court the said sum of $11,60; and that he pay to the United
+Court <add>the clerks costs in this proceeding</add> the said sum of $11.60 <add>his costs herein</add>; and that he pay to the United
 States Marshal said sum of $2.24; and that he pay the sum of
-$8.,<add> the necessary expense paid by the <unclear/> 
-and that the balance of the money <add> be paid to the petitioner.
+$8.,<add>The necessary expense paid by the U.S. for the maintenance of the petitioner pending hid hearing</add> <del>the cost of maintenance, to the parties entiled therebe;</del>
+and that the balance of the money <add>on deposit</add> be paid to the petitioner.</p>
+<p>Dated this 16th day of October, 1914.</p>
+<ab>Jeremiah Neterer
+United States District Judge.</ab>
+<pb/>
+<p>7x No. 2852</p>
+<p>In the District Court
+of the United States
+for the
+Western District of Washington
+LoB-5-120</p>
+<p>In the Matter of the Petition
+of Athur B. Martin for a
+Writ of Habeas Corpus.</p>
+<p>Order Dismissing Petition
+and Writ of Habeas Corpus.</p>
+<p>Filed in the U.S. 
+District Court
+Western Dist. of Washington,
+Northern Division
+Oct 16 1914
+Frank L. Crosby, Clerk.
+By EML Deputy.</p>
 
 </div1>
     

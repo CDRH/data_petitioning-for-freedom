@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.088">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sterling P. White v. John Cody. Bill of Costs</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0126.088</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sterling P. White v. John Cody. Bill of Costs</title>
+<date when="1885">1885-04</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-06</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-04">April 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Condin, S. W.</term>
+<term>Cole, Josiah</term>
+<term>Emerson, Allen</term>
+<term>Rhodes, William W.</term>
+<term>Rogers, O. J.</term>
+<term>Portch, J. Howard</term>
+<term>Beardon, Frank J.</term>
+<term>Beardon, Henry S.</term>
+<term>Beardon, J. T.</term>
+<term>Brindle, Charles T.</term>
+<term>Lyle, M. A.</term>
+<term>Harte, J. T.</term>
+<term>Short, S. L.</term>
+<term>Portch, E. A.</term>
+<term>Stephey, D. E.</term>
+<term>Stephey, Eva L.</term>
+<term>White, C. B.</term>
+<term>Mayer, John D.</term>
+<term>Tufts, Frank M.</term>
+<term>Jump, John H.</term>
+<term>Warren, Elmer H.</term>
+<term>Short, J. R.</term>
+<term>Sherman, George W.</term>
+<term>Welch, R. C.</term>
+<term>Trusel, Dayton</term>
+<term>Harold, C. Perry</term>
+<term>Wynhoff, Hubert</term>
+<term>Williams, W.</term>
+<term>Spencer, F. M.</term>
+<term>Stookey, Allan</term>
+<term>Stookey, A.</term>
+<term>Williams, J. E.</term>
+<term>Friedlander, J. N.</term>
+<term>Steigenwold, A. J.</term>
+<term>Warren, H. F.</term>
+<term>Blackfan, C. T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sherman, Washington</term>
+<term>Sprague, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName>Cody, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Smallwood, W. H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Benson, E. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hyde, S. C.</persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+<person role="judge">
+<persName>Carpenter, J. W.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0132.006"/>
+
+<p>Sheriffs Fees Jno Cody</p>
+
+<p>To serving 1 subpoena 1 name 2 miles .60<lb/>
+" " 1 " 2 " 4 " 1.20<lb/>
+" " 1 " 2 " 144 " 15.20<lb/>
+" " 1 " 3 " 174 " 18.60<lb/>
+" " 1 " 3 " 164 " 17.20<lb/>
+" " 1 " 2 " 176 18.40<lb/>
+" " 1 " - " 30 3.00<lb/>
+" " 1 " 1 " 48 5.20<lb/>
+" " 1 " 1 " 2 .60<lb/>
+" " 1 " 1 " 4 .80<lb/>
+" " 1 " 1 " 14 1.80<lb/>
+" " 1 " 1 " 2 .60<lb/>
+" " 1 " 1 " 2 .60<lb/>
+" " 1 " 1 " 164 16.80<lb/>
+" " 1 " 1 " 2 .60<lb/>
+" " 1 " 1 " 2 .60<lb/>
+" " 1 " 1 " 146 15.00<lb/>
+" " 1 " 1 - 162 16.20<lb/>
+" " 1 " 2 - 4 1.20<lb/>
+" " 1 " 1 " 12 1.60<lb/>
+" " 1 " 1 " 2 .60 136.40</p>
+
+<p>Witnesses in Dist. Court<lb/>
+S.W. Condin 8 days 150 miles 31.00<lb/>
+Josiah Cole 14 " - " 28.00<lb/>
+Allan Emerson 5 " 140 " 22.00<lb/>
+W.W. Rhodes 7 " 150 " 29.00<lb/>
+O.J. Rogers 4 " 50 " 13.00<lb/>
+J. H. Portch 14 " - " 28.00<lb/>
+Frank Beardon 14 " - " 28.00<lb/>
+Henry Beardon 14 " - " 28.00<lb/>
+C.T. Brindle 14 " - " 28.00<lb/>
+J.T. Beardon 14 " - " 28.00<lb/>
+Mrs. M.A. Lyle 7 " " " 14.00<lb/>
+J.T. Harte 1 " 146 16.60<lb/>
+293.60 136.40</p>
+
+<pb/>
+
+<p>
+Amt. Brght. Ford. 293.60 136.40<lb/>
+S.L. Short 9 days 150 miles 33.00<lb/>
+E.A. Portch 14 " 28.00<lb/>
+D.E. Stephey 9 " 150 " 33.00<lb/>
+Eva L. Stephey 9 " 150 " 33.00<lb/>
+C. B. White 11 " 150 " 37.00<lb/>
+J.D. Mayer 9 " 150 " 33.00<lb/>
+F.M. Tufts 9 " 150 " 33.00<lb/>
+John H. Januk 9 " 150 " 33.00<lb/>
+E. H. Warren 9 " 150 " 33.00<lb/>
+J. P. Short 9 " 150 " 33.00<lb/>
+G.W. Sherman 9 " 150 " 33.00<lb/>
+R.C. Welch 10 " " 20.00<lb/>
+D Trusell 9 " 150 " 33.00<lb/>
+C. P Harold 6 " 180 " 30.00<lb/>
+H. Wynhoff 7 " 150 " 29.00<lb/>
+W. Williams 10 " 160 " 36.00<lb/>
+F. M. Spencer 10 " 160 " 36.00<lb/>
+Allan Storkey 6 " 140 " 26.00<lb/>
+A. Storkey 6 " 140 " 26.00<lb/>
+J.C. Williams 9 " 150 " 33.00  924.60</p>
+
+<p>
+Cost in Justice Court
+Justice Fees J.W. Carpenter</p>
+<p>To issuing warrant 1.00<lb/>
+" committing to jail .50<lb/>
+" issuing subpoena .25<lb/>
+" 6 names after 1.50 .60<lb/>
+" swearing 9 witness 1.35<lb/>
+" taking affidavit .25  3.95</p>
+
+<p>
+Sheriffs Fees J Friedlander Depty.<lb/>
+To one day attendance 3.00<lb/>
+" serving i subpoena 9 names 38 miles 7.40<lb/>
+" calling 9 witnesses .90<lb/>
+" mileage to and from Justice Court 28 mi. 2.80<lb/>
+amt. fowd. 14.10  1079.05</p>
+
+<pb/>
+
+<p>Amt. Right ford. 14.10  1079.05</p>
+<p>committing to jail 1.00<lb/>
+Converying to and return 6 days 18.00<lb/>
+mileage " " " ' 140 miles 14.00<lb/>
+guarding prisoner at Sherman 13 days 26.00  73.10</p>
+
+<p>Witness in Justice Court</p>
+<p>O.J. Rogers 1 day 2.00<lb/>
+H Portch 1 " 2.00<lb/>
+R.C. Welch 1 " 2.00<lb/>
+H. Beardon 1 " 2.00<lb/>
+F. Beardon 1 " 2.00<lb/>
+John Jump 1 " 2.00<lb/>
+G.W. Sherman 1 " 2.00<lb/>
+W. Williams 1 " 2.00<lb/>
+E.A. Portch 1 " 2.00  18.00</p>
+
+<p>A.J. Steigenwait transporting
+witness who receive no mileage 8.00  8.00</p>
+
+<p>William Rohdes guard 13 days 2.00  26.00</p>
+
+<p>H.F. Warren conveying prisoner to 
+Jail at Spokane 25.00</p>
+
+<p>C.T. Blackfan guard conveying
+prisoner to Sprague 6 days 140 miles 26.00</p>
+
+<p>1255.15</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

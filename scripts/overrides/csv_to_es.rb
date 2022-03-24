@@ -104,8 +104,77 @@ class CsvToEs
 
     def person
       # TODO waiting for a finalized airtable setup
+#       # only includes name and case role, due to limitations of API
+#       list = []
+#       if @row["Person Participants"]
+#         @row["Person Participants"].split(/; */).each_with_index { |name, index|
+#           person = { 
+#             "name" => name 
+#             # "role" => @row["Person Case Roles"].split(/; */)[index], 
+#             # "race_or_ethnicity" => @row["Person Race or Ethnicity"].split(/; */)[index],
+#             # "sex" => @row["Person Sex"].split(/; */)[index],
+#             # "date_of_birth" => @row["Person Date of Birth"].split(/; */)[index],
+#             # "additional_information" => {
+#             #   "age_category" => @row["Person Age Category"].split(/; */)[index],
+#             #   "immigrant_status" => @row["Person Immigrant Status"].split(/; */)[index],
+#             #   "tags" => @row["Person Tags"].split(/; */)[index],
+#             #   "notes" => @row["Person Notes"].split(/; */)[index]
+#           }
+#             if @row["Person Case Roles"]
+#               person["role"] = @row["Person Case Roles"].split(/; */)[index]
+#             end
+#             if @row["Person Race or Ethnicity"]
+#               person["race_or_ethnicity"] = @row["Person Race or Ethnicity"].split(/; */)[index]
+#             end
+#             if @row["Person Sex"]
+#               person["sex"] = @row["Person Sex"].split(/; */)[index]
+#             end
+#             if @row["Person Date of Birth"]
+#               person["date_of_birth"] = @row["Person Date of Birth"].split(/; */)[index]
+#             end
+#             person["additional_information"] = {}
+#             if @row["Person Age Category"]
+#               person["additional_information"]["age_category"] = @row["Person Age Category"].split(/; */)[index]
+#             end
+#             if @row["Person Immigrant Status"]
+#               person["additional_information"]["immigrant_status"] = @row["Person Immigrant Status"].split(/; */)[index]
+#             end
+#             if @row["Person Tags"]
+#               person["additional_information"]["tags"] = @row["Person Tags"].split(/; */)[index]
+#             end
+#             if @row["Person Notes"]
+#               person["additional_information"]["notes"] = @row["Person Notes"].split(/; */)[index]
+#             end
+#           list << person 
+#         }
+#       end
+#       if @row["Additional Parties"]
+#         @row["Additional Parties"].split(/; */).each { |name|
+#           person = { "name" => name, "role" => "Additional Party" }
+#           list << person
+#         }
+
+#       end
+#       list
     end
   
+
+    def places
+      places = []
+      if @row["State/Territory"]
+        state = @row["State/Territory"]
+        places << state
+        if @row["County"]
+          county = @row["County"] + " County, " + @row["State/Territory"]
+          places << county
+        end
+        if @row["City"]
+          city = @row["City"] + ", " + @row["State/Territory"]
+          places << city
+        end
+      end
+      places
+    end
   
     def publisher
       "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
@@ -129,11 +198,11 @@ class CsvToEs
 
 		def spatial
 			place = { "city" => @row["Location city"], "county" => @row["Location county"], "state" => @row["Location state"], "place_name" => @row["Location name"]}
+
 			place
 		end
 
     def text
-      # TODO make any necessary modifications for 
       built_text = []
       @row.each do |column_name, value|
         built_text << value.to_s

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0182.059">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>K. Gregory et al. Type of document</title>
+                <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+                    <name n="Bruha, Ashley S" xml:id="asb">Ashley Bruha</name>
+                    
+                </respStmt>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <sponsor>William Nelson Cromwell Foundation</sponsor>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2022</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <authority>Produce the Body</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Center for Digital Research in the Humanities</name>
+                    <address>
+                        <addrLine>319 Love Library</addrLine>
+                        <addrLine>University of Nebraska–Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>cdrh@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <idno type="project">hc.case.wa.0182.059</idno>
+                
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="m" type="main">K. Gregory et al. Civil</title>
+                    <date when="1914-01">January 1914</date>
+                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+                        <collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+                        <idno>2646KGregoryEtAl</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term>Case Papers</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="type">
+                    <term>Civil</term>
+                </keywords>
+                
+                <keywords scheme="original" n="subtype">
+                    <term></term>
+                </keywords>
+                
+                <keywords scheme="original" n="term">
+                    <term><date when="1914-01">January 1914</date></term>
+                </keywords>
+                
+                <keywords scheme="lcsh" n="people">
+                    <term>Henry White</term>
+                    <term>Frank Crosby</term>
+                    <term>Clay Allen</term>
+                    <term>G.F. Fishburne</term>
+                    <term>Parker</term>
+                    <term>Kalina</term>
+                    <term>K. Gregory</term>
+                    <term>M. Aloshin</term>
+                    <term>I. Riaboff</term>
+                    <term>P. Neanlin</term>
+                    <term>I. Erelin</term>
+                    <term>L. Orloff</term>
+                    <term>G. Yakimoff</term>
+                    <term>P. Yakimoff</term>
+                    <term>Jeremiah Neterer</term>
+                    
+                </keywords>
+                
+                <keywords scheme="lcsh" n="places"> 
+                    <term>Seattle, Washington</term>
+                </keywords>
+                
+            </textClass>
+            
+            <particDesc>   
+                <listPerson>            
+                    <person role="petitioner">
+                        <persName>K. Gregory</persName>
+                        <persName>M. Aloshin</persName>
+                        <persName>I. Riaboff</persName>
+                        <persName>P. Neanlin</persName>
+                        <persName>I. Erelin</persName>
+                        <persName>L. Orloff</persName>
+                        <persName>K. Yakimoff</persName>
+                        <persName>P. Yakimoff</persName>
+                    </person>
+                    <person role="defendant">
+                        <persName>Henry White</persName>
+                    </person>
+                    <person role="attorney_petitioner">
+                        <persName>Parker</persName>
+                        <persName>Kalina</persName>
+                    </person>
+                    <person role="attorney_defendant">
+                        <persName>Clay Allen</persName>
+                        <persName>GF Fishburne</persName>
+                    </person>
+                    <person role="judge">
+                        <persName>Jeremiah Neterer</persName>
+                    </person>
+                </listPerson>
+                
+                <listOrg>
+                    <org>
+                        <orgName>Western District Court of Washington, Northern Division.</orgName>
+                        <placeName>Seattle, Washington</placeName>
+                    </org>
+                </listOrg>   
+            </particDesc> 
+        </profileDesc>
+        
+        <revisionDesc>         
+            <change when="2022-02" who="#asb">transcribed and encoded</change>
+        </revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+<p>IN THE DISTRICT COURT OF THE UNITED STATES, FOR THE WESTERN DISTRICT OF WASHINGTON NORTHERN
+DIVISION.</p>
+<p>IN THE MATTER OF THE PETITION
+OF K. GREGORY, et al.</p>
+<p>No. 2646
+BRIEF OF PETITIONERS.</p>
+<p>Sec. 10. Immigration Act of February 20, 1907 is as follows;</p>
+<p>Sec. 10. That the decision of the Board of Special Inquiry, herein provided for based upon the
+certificate of the examining medical officers shall be final as the the rejection of aliens
+afflicted with tuberculosis, or woth a loathsome or dangerous contagious diesease, or with any
+mental or physical disability which would bring such aliens within any of the classes excluded from
+admission to the United States under this Act.</p>
+<p>Sec. 29. of same act is as follows;</p>
+<p>Sec. 29- That the Circuit and District Courts of the United States, are hereby invested with full
+and concurrent jurisdiction of all causes, civil and criminal arising under the provisions of this
+act.</p>
+<p>An examination of Sec. 10. will show, that the decisions of teh examining board is final as to
+facts which would bring such aliens within any of teh classes excluded by the statue and of course
+the examining board could have no jurisdiction over any other facts. It is elementary that when the
+Statute prescribes certain essential facts all other facts are excluded. In other words if these
+petitioners are not excluded by the Statute they can not by lawfully excluded at all.</p>
+<p>It is also elementary that the courts will take jurisdiction in all cases where the Constitution,
+or the statuts are violated, and an act of Congress <add>excluding such jurisdiction</add> (if there
+would be such an act) would be unconstitutional and void.</p>
+<pb></pb>
+<p>It is also elementary, that an act of congress conferring arbitrary power upon the examining
+board, or upon any body would be unconstitutional and void. Congress itself has no such power, but
+all acts of congress are subject to the Constitution; arbitrary power cannot be lawfully exercized
+within the United States.</p>
+<p>Justice Matthew Slate of the Supreme Court of the United States says:</p>
+<p>"Any act of the legislature which confers arbitrary power is void."</p>
+<p>"The laws and principles upon which our Government rests; forbid the exercise of of arbitrary
+power", 
+"Acts conferring arbitrary powerr do not belong to the domain of law, <add>and are always
+<unclear></unclear> and void."</add></p>
+<p>Yick Hopkins, 118 U.S. 356.</p>
+<p>There are no lawful grounds for excluding these immigrants. If they can be excluded all
+immigrants may be excluded, and the Statute nullified.</p>
+<p>All actions outside of the Statute is unwarranted, arbitrary and unconstitutional, and if such
+things are permitted, our government ceases to be a government <add>of</add> law and becames a 
+government of men.</p>
+<p>1st. It appears upon the return that there are no Statutory grounds for excluding petitioners.</p>
+<p>2nd. The decision of the board is based upon grounds that are irrelevant, and immaterial, and
+outside of the jurisdiction of
+<pb></pb>
+of the board, and unsupported by evidence, and not true, and it may be added that the assumed facts
+are contrary to the knowledge of all well informed persons.</p>
+<p>As for instance the Statute does not exclude "because they are farm laborers and there is no work
+for them in the United States" This is absurd and foolish. it is a matter of common knowledge that
+there is a scarcity of farm laborers in the United States. And of like character is the second
+ground. "Because they have but a limited amount of money, insufficient to maintain them during the
+winter".</p>
+<p>This is an arbitrary assumtion not warranted by facts.</p>
+<p>And 3rd- and 4th, grounds are the same. "Because that 800, to a 1000 Russians are unemployed in
+Seattle, and thousands of other nationalities in the same conditions, and reports from the Interior
+are to the same effect that the supply of common labor is far in excess of demand".</p>
+<p>This is discriminating against the Russians, which is unconstitutional, and seeks to charge them
+with things they are not responsible. It is also a mistake to assume that farm laborers are common
+laborers. They are specialists much needed in the United States.</p>
+<p>This is discriminating against the Russians, which is unconstitutional, and seeks to charge them
+with things they are not responsible. It is also a mistake to assume that farm laborers are common
+laborers. They are specialists much needed in the United States.</p>
+<p>"That any addidtion to the unemployed should be guarded against, and alien laborers should not be
+permitted to enter the United States at these times".</p>
+<p>This is most extraordinary: It is userping all the powers and <add>Function</add> of our
+government. It is entirely outside the domain of law, and in the realm of the lawless. If statury
+officials are despots, we are in bad shape. The Immigration officers have made this a political
+question, and the alleged grounds for excluding the petitioners are politics and not law.</p>
+<p>The brief of the respondents contain no authority in conflict
+<pb></pb>
+with Sec. <add>10</add> of the Statut, Supra.</p>
+<p>Your Honor has very properly decided in the Mullah Sing case that, "The jurisdiction of the Court
+is limited to ascertaining whether the petitioners were denied a lawful hearing, and whether they
+were excluded upon Statutory grounds".</p>
+<p>And of like import are all the authorities cited, so far as they are in point. An examination
+will show that they conform to Sec. <add>10</add> of the Statute, Supra.</p>
+<p>Of course a "HEARING", means a lawful hearing upon statutory grounds.</p>
+<p>The contention of the learned counsel for respondents on page 2, and 3, of their brief "THAT IF
+PETITIONERS HAVE HAD A HEARING TAHT IS ALL THERE IS TO BE DONE, THAT IT MAKES NO DIFFFERENCE WHETERH
+THE HEARING WAS FAIR, OR UNFAIR, LAWFUL OR UNLAWFUL, AND THAT THE STATUTE AND CONSTITUTION ARE
+INOPERATIVE, AND DOES NOT CONTROL THE ACTS OF THE RESPONDENT, AND THE PETITIONERS HAVE NO RIGHT
+WHICH THE RESPONDENT IS BOUND TO RESPECT".</p>
+<p>In other words, the learned counsel content for anarcy lawless ness and uncontrolled action of
+Statutory officials.</p>
+<p>Sec. 25. of the Immigration act applies to case where the alien has been excluded from admission
+to the United States by any law or treaty. (Respondents' brief, page 4)</p>
+<p>The learned counsel ignores the provision of the Statute, that an alien must be excluded under
+some law of the United States, and he Seems to contend that an alien may be excluded by the
+arbitrary act of the examining board, or commissioner. The learned counsel fails to discriminate
+between the arbitrary and vicious acts of the Statutory officials, and the just and humane processes
+of the law, based
+<pb></pb>
+on natural justice and the constitution and the laws of the land.</p>
+<p>Such reasoning is not in point and not in harmony with the law-the petitioners must be excluded
+by the law, if at all and the proceedings prescribed by the immigration acts must be substancially
+followed.</p>
+<p>There can be no controversy as to the law governing, this case sec. <add>10</add> Supra, states
+the law concisely. If the petitionaries were excluded upon statutory grounds there would be no
+question about the law in this case; but we contend that they were not excluded upon statutory
+grounds. As appears from the return of the respondent, and if our contention is true thee can be no
+doubt about the law in the case, and the only issue in this case is as to validity of the grounds of
+exclusion as stated in the return of the respondent, and it seems to us that the law is so plain
+that citations are superflous.</p>
+<p>The learned counsel for respondents say on page 6 7 and 8 of their brief that it is admitted that
+petitioners had a lawful hearing before the examining board. This we deny most emphatically, and
+contend that the alleged hearing wa not within the law, but entirely outside of the law, and in
+contemplation of the law it was no hearing at all. The allege grounds of exclusion are not statutory
+nor lawful., Sec <add>10</add>, Supra and not amon the grounds specified by Statute, upon which
+aliens may be excluded.</p>
+<p>This is the vital issue in the case at bar-.</p>
+<p>When Statutory officials go outside of their authority, they cease to be officials, and are
+responsible for their acts to the same extend as though they were not officials, but the acts of
+wrong doers over which it is the duty of the Courts to exercize supervision
+<pb></pb>
+Sheriffs, Marshalls, and all persons acting under lawful authority must conform to their lawful
+authority., and they exceed their authority at their peril.</p>
+<p>ALWAYS IN OPERATION</p>
+<p>The constitution and the laws of the land are always in operation, They can not be suspended at
+all by <add>any known</add> individual. Niether the government itself-not congress, nor the courts,
+nor the Statutory officials, can suspend the law of the land for one instant. They are always in
+operation for the protection of all persons within the jurisdiction of the U.S. including aliens,
+and it is the duty of the courts first, to enforce the constitution and the laws <add><unclear>alien
+under the law</unclear></add> just as sacred as the rigts of others, and if they are excluded upon
+any but statutory grounds in the constitution and the laws of the land are violated.</p>
+<p>Respectfully submitted,
+Parker and Kalina
+Attorneys for Petitioners</p>
+
+<div1 type="case">
+
+<pb/>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
