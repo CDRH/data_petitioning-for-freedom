@@ -55,6 +55,7 @@ class TeiToEs
   # end
 
   def source
+    #regex to determine case_id from filename, just strip off last part
     caseid = @id[/hc.case.[a-z]{2}.\d{4}/]
     caseid
   end
@@ -71,10 +72,12 @@ class TeiToEs
 
   def person
     eles = @xml.xpath(@xpaths["person"])
+    # find people who actually exist, removing the blank templated ones
     people = eles.select do |p| 
       name = get_text("persName", xml: p)
       name && name.length > 0
     end
+    # create hash for ES
     people = people.map do |p|
       name = get_text("persName", xml: p)
         {

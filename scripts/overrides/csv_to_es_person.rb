@@ -25,9 +25,9 @@ class CsvToEsPerson < CsvToEs
       if @row["Indicated Age Category (from Case Data [join])"]
         @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])
       end
-	end
+	  end
 		
-	def id
+	  def id
       get_id
     end
   
@@ -47,9 +47,10 @@ class CsvToEsPerson < CsvToEs
 
     def person
       # only includes name and case role, due to limitations of API
-         { 
-            "name" => @row["Participants"]
-          }
+      # TODO add role
+      { 
+        "name" => @row["Participants"]
+      }
     end
   
     def publisher

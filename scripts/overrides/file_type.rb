@@ -13,6 +13,7 @@ class FileType
         subdocs.each do |subdoc|
           file_transformer = classname.new(subdoc, @options, file_xml, self.filename(false))
           if classname == TeiToEs
+            # build the associations of cases and documents here
             case_id = file_transformer.source
             document_id = file_transformer.json["identifier"]
             if new_case_docs[case_id]
