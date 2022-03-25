@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Lewis v. John M Boyle, United States Marshal. Order Directing Issuance Of
+<title>Lewis Johnson v. John M Boyle, United States Marshal. Order Directing Issuance Of
 Writ Of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
@@ -36,7 +36,7 @@ Writ Of Habeas Corpus.</title>
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0224.018</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +46,15 @@ Writ Of Habeas Corpus.</title>
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Lewis Johnson v. John M Boyle, United States Marshal. Order Directing Issuance Of
+Writ Of Habeas Corpus.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -71,7 +72,7 @@ Writ Of Habeas Corpus.</title>
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,15 +80,20 @@ Writ Of Habeas Corpus.</title>
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1915-07">June 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Lewis Johnson</term> 
+<term>John M. Boyle</term> 
+<term>John C. Whitlock</term>
+<term>George R. Tennant</term> 
+<term>Hammond</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term> 
+<term>Dominion of Canada, Province of Great Britain</term>
 </keywords>
 
 </textClass>
@@ -95,26 +101,27 @@ Writ Of Habeas Corpus.</title>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Lewis Johnson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>John M. Boyle</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hammond and Hammond</persName> 
+<persName>George R. Tennant</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Winter S. Martin</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, For the Western District of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 

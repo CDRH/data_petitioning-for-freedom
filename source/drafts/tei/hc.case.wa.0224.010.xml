@@ -51,8 +51,8 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -94,33 +94,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Lewis Johnson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>John M. Boyle</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hammond and Hammond</persName> 
+<persName>George R. Tennant</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Winter S. Martin</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, For the Western District of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-03" who="#xxx">transcribed and encoded</change>
+<change when="2022-03" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>

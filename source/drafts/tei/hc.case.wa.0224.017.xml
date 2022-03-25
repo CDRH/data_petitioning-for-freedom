@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Lewis v. John M Boyle, United States Marshal. Return.</title>
+<title>Lewis Johnson v. John M Boyle, United States Marshal. Return.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0224.017</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Lewis Johnson v. John M Boyle, United States Marshal. Return.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1915-07">June 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Lewis Johnson</term> 
+<term>George R. Tennant</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,33 +95,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Lewis Johnson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>John M. Boyle</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hammond and Hammond</persName> 
+<persName>George R. Tennant</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Winter S. Martin</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, For the Western District of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-03" who="#xxx">transcribed and encoded</change>
+<change when="2022-03" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -158,7 +160,25 @@ NORTHERN DIVISION
 JUL 22 1915
 FRANK L. CROSBY, Clerk, 
 By Emd Deputy
-2x</p>
+2x</p> 
+<pb></pb>
+<p>United States District Court for the Western District of Washington
+In the Matter of the 
+Application of Lewis Johnson
+for Writ of Habeas Corpus</p> 
+<p>No. 3077
+Appeareance</p> 
+<p>To the Clerk of the above Entitled Court:
+You will please enter our appearance as attorneys
+for Lewis Johnson in the above
+entitled cause, and service of all subsequent papers, except writs and process, may be made upon
+said Lewis Johnson, by leaving the
+same with</p> 
+<p>Geo R. Tennant 
+&amp; Hammond
+Office Address Mutual Life Bldg
+Seattle</p> 
+<p>NOTICE-Attorneys will please endorse their own Filings. Rule 11.</p>
 </div1>
     
 </body>
