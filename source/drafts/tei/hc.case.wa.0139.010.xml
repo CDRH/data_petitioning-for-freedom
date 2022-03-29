@@ -1,20 +1,316 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>Territory of Washington
-County of Lincoln}
-I hereby certify that I served the within 
-subpoena on the within named witness by reading 
-the same to him at Sprague Lincoln County W.T. 
-this 27th day of Feb. 1885
-Fees J.C. Burns
-Service .40 constable
-mileage .20
-.60
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Territory of 
-Washington
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0139.010">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. E. Romick. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0139.010</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. E. Romick. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1538-05</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">Month YYYY</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Romick, E.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-03" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0139.010"/>
+<p>Territory of Washington
 vs.
-E. Romick
-Subpoena
-Filed Feby 28 1885
-E. F. Pendleton
-Justice of the Peace</p>
+E. Romick} 
+Evidence of the <del>defendant</del>
+witnesses on the examination
+of E. Romick.
+C.F. Bassett
+Reside at Sprague and
+Agt. N.P.R.R.-attend to
+freights to serving bills need &amp; 
+checked know deft.- know
+5,000 cigars-several days agp
+unloading freight-noticed a
+case of cigars <del>missing</del> car
+was sealed &amp; missing-found
+with &amp; moving that soul had
+happened with- examined &amp;
+found this case <del>had been</del>
+was missing after examined
+&amp; sealed &amp; found seal had been
+cut discovered then the seal was
+perfect in evening-Goodson posi-
+tion of N.P. Better from
+Portland to G.W. Rich Cheney
+-saw bill-<del>box was kept</del>
+goods laid over from morning
+car laid over from morning
+to next morning-Found this
+out &amp; kept car over.
+Geo Meyer
+Reside at Spraque - warehouse
+was &amp; seal clerk for N.P.R.R. Co.
+Car freight marked G.W.
+Rich Cheney= Box marked G.W.
+Rich with brush-better from
+Portland to CHeney-saw it
+from Car No. 11302-Feb
+17- providing to resealing car
+sealed with rivet-pressed-
+together good seal 23-exam-
+ined next day-good= keep
+record-found seal drawn through
+the cachet &amp; car drawn through
+holes-lead the gone=I then
+looked in car &amp; witheld case
+of cigars gone- marked
+T.J. checks it over from
+was bill
+John Cody
+Sheriff of Lincoln Co. W.T.
+Day before yesterday-I 
+was informed cigars stolen
+&amp; asked look walls up - x
+investigated &amp; found there at
+an old cloth book of Nelson
+loving Smith-belongs to Kilton
+recite in left of <unclear> name &amp; if
+of pay out-97 or 99 boxes
+over above</unclear>
+branded "No Boxes"-Deft.
+told me where to find them.
+I have reason to believe
+that he knew where the cigars
+were= I asked him- He 
+said what cigars= How do 
+you know= I have sworn
+to believe it= what do about
+it= said again said if 
+I found cigars no arrest
+it left me I would go to
+get them= Mr. Maloney Depty.
+Sheriff arrested me= he said
+couldn't prove he broke into a
+car or took any cigars: but I 
+know where they are- Told
+him that all I wanted= to
+know where they were- Found
+in S. Kelton's stable-Deft.
+is sworn in law to S Kelton
+Cross:
+Weight about 200 lbs- couldn't
+carry about didn't deft
+said where they were but
+didn't tell me where they 
+were told him I had the
+word of Agt. that if they were
+dug up he would make no
+arrests. I intended to deft.
+that he deft. was suspected.
+By court:
+Found in stable- not all
+cigars=got work in Guering
+house
+Found no more of same brand
+M.J. Maloney
+I am Depty
+Sheriff Lincoln Co. W.T. I 
+saw Sheriff Feb 25 I said
+to help him move cigars
+I heard his testimony &amp;I thought
+about his testimony I never
+spoke deft. about the matter
+brand Albanese.
+M.T. Hardlaw
+I saw the cigars first
+in Mr. Cody's office about
+100 boxes=Albanese Deft
+said to me I didn't steal them
+but knew the person who did
+&amp; they wanted a place to put them
+then told them a good place- before
+they were stolen= he told them to put
+them in the barn or place where thye
+found= they were put there based 
+to conersation.
+But Hardlaw These cigars
+Cross
+<del>Jas N. Ryan</del> #
+are worth about Co to 70
+per thousand
+J.W. Ryan
+I deal in cigars
+thignors (here witness examined
+box) they are worth from-
+50.00 to 60.00 per box
+Cross
+1000 would weigh about-
+150 lbs
+Meyers recalled
+This carried on Sprague
+Lincoln Co. W.T.
+Cross
+Saw weight on way bill-
+170 lbs
+Defense
+Freidland
+Are acquained with deft.
+saw him in Dillons on Eve
+of 17th after dark- dont know
+when he left there.
+over
+Defense
+J.J. Maloney
+Know deft. saw him on
+eve 17th- I think_ saw him
+at Dillons- don't know
+how long he stayed- I left
+early- to go to enter trainmark
+He was there when I left
+W.R.S Kelton
+Know deft= Fold
+want to correct &amp; cause
+home 1 two o'clocl. He
+came in four minutes before
+&amp; made here &amp; then he and
+his wife went up to his
+room. He was at home
+so far as I know. - I think
+I should have known if he
+went out= He was there
+in morning when I got up.
+Came in about 9 o'clock-
+I know because his wife
+&amp; my wife want to converse
+J.C. Burns:
+Depty. Sheriff-know deft.
+Saw him at Dillons Salon
+on eve of 17th
+Where did you find him- next he
+try to get away
+saw him on train ex train
+going west</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
