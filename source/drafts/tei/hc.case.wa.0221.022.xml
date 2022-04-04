@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0221.020">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0221.022">
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0221.020</idno>
+<idno type="project">hc.case.wa.0221.022</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Chin Quock Wah vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,20 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-06">June 1915</date></term>
+<term><date></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Chin, Quock Wah</term>
-<term>Lane, J. Richard</term>
-<term>Moodie, Albert</term>
-<term>Neterer, Jeremiah</term>
-<term>Sullivan, John J.</term>
-<term>White, Henry M.</term>
+<term>Allen, Clay</term>
+<term>Fishburne, George P.</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -105,13 +101,14 @@
 <persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John J. Sullivan</persName>
-</person>
-<person role="attorney_defendant">
 <persName></persName>
 </person>
+<person role="attorney_defendant">
+<persName>Clay Allen</persName>
+<persName>George P. Fishburne</persName>    
+</person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -139,62 +136,23 @@
 <div1 type="case">
 
 <pb/>
-<p>UNITED STATES DISTRICT COURT
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION</p>
 
-<p>In the Matter of the Application
-of Chin Quock Wah for a Writ of 
-Habeas Corpus )
-NO. 2.971
-ORDER.</p>
+<p>United States District Court for the Western District of Washington</p>
 
-<p>Upon the motion of Albert Moodie, Assistant United
-States Attorney, for the Western District of Washington,
-it appearing that there has been deposited in the Registry 
-of this Court the sum of One Hundred Dollars, to cover 
-expense of maintenance of the petitioner in the above 
-entitled cause, same having been deposited by John J. 
-Sullivan, Esq., attorney for petitioner; and it further
-appearing from the affidavit of Henry M. White, 
-Commissioner of Immigration, hereto attached, that the attached
-bill in favor of J.Richard Lane in the sum of Fifty-nine 
-and 20/100 Dollars ($59.20) is a just bill, and the court
-being advised that J.Richard Lane mentioned in the 
-affidavit is the same party who funished meals to the 
-petitioner is the above entitled cause, and being fully 
-advised in the premises;</p>
-<p>IT IS HEREBY ORDERED that the Clerk of the Court
-pay to the said J.Richard Lane, the sum of Fifty-nine and 
-20/100 Dollards ($59.20), and deduct from the balance the 
-sum of One Dollar as one per cent commission on the
-original deposit of One Hundred Dollars, and that the
-final balance be <del>held pending final settlement of this 
-case</del> <add>paid to John J Sullivan - Atty for Petitioner</add></p>
-<p>Dated this 30 day of June, 1915.</p>
-<ab>Jeremiah Neterer
-United States District Judge</ab>
+<p>In the matter of the application of Chin 
+Quock Wah for Writ of Habeas Corpus. 
+vs. }
+No. 2971
+Præcipe</p>
 
-<ab>Wh. John J Sullivan
-Atty for Pet.</ab>
-<pb/>
-
-<p>SEATTLE, WASH., June 22 1915.</p>
-
-<ab>John J. Sullivan</ab>
-
-<p>Seattle Washington</p>
-
-<p>TO J.RICHARD LANE DR
-644 CENTRAL BUILDING</p>
-
-<p>For meals furnished at U.S. Immigration Station, Seattle, during
-the months of March, April, May and June, 1915.</p>
-
-<p>Chin Quock Wah March 4 before B to June 10 after Dinner
-296 meals @20¢ $59.20</p>
-
-<p>O.K. <unclear/></p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please make as an additional transcript of record at 
+request of Respondent, all of exhibit "A" that is marked "use".</p>
+<gap/>
+<ab>Clay Allen, U. S. Attorney.
+By G. P Fishburne
+Assistant U.S.
+Attorney.</ab>
 
 </div1>
     
