@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. E. Romick. Type of document</title>
+<title>Territory of Washington V. E. Romick. Subpoena for W. Freeman</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. E. Romick. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Territory of Washington V. E. Romick. Subpoena for W. Freeman</title>
+<date when="1885-02-27">February 27th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,15 +79,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1885-02">February 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Burns, J. C.</term>
+<term>Freeman, W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Sprague, Washington</term>
+<term>Lincoln County, Washington</term>
 </keywords>
 
 </textClass>
@@ -107,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Pendleton, E. G.</persName>
 </person>
 </listPerson>
             
@@ -121,7 +123,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-03" who="#brh">transcribed and encoded</change>
+<change when="2022-04" who="#brh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,19 +139,19 @@
 <pb facs="hc.case.wa.0139.005"/>
 <p>Subpoena
 Territory of Washington
-County of Lincoln}ss
-To W. Foreman
+County of Lincoln}ss.</p>
+<p>To W. Freeman
 In the name of the United States, You are hereby required to appear before
 the undersigned, one of the Justices of the Peace and for said County, on the
 forthwith <del>day of 188</del> o'clock
 <del>M</del>, at his office in Sprague W.T.
 to give evidence in a certain cause then and there to be tried between
 Territory of Washington Plaintiff and
-E. Romick Defendant, on the part of the
-Defendant
-Given under my hand this 27th day
+E Romick Defendant, on the part of the
+Defendant</p>
+<p>Given under my hand this 27th day
 of February 1885
-E. Pendleton
+E Pendleton
 Justice of the Peace</p>
 
 <pb/>
@@ -163,16 +165,19 @@ of Feb. 1885
 Fees J.C. Burns
 Service .40 constable
 mileage .20
-.60
+.60</p>
 
-Territory of 
+
+<p>Territory of 
 Washington
 vs.
 E. Romick
-Subpoena
+
+Subpoena.
+
 Filed Feby 28 1885
-E. F. Pendleton
-Justice of the Peace</p>
+E. G. Pendleton
+Justice of the Peace.</p>
 
 </div1>
     
