@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0222.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
+<title>Petitioner v. Defendant. Type of document</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0222.001</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
-<date when="1915">1915</date>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,18 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-06">June 1915</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward M.</term>
-<term>Lundin, Alfred H.</term>
-<term>Whitehead, Reah M.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -97,13 +94,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Francis Stephen Medcraf</persName>
+<persName></persName>
 </person>
 <person role="defendant">
-<persName>Frank T. Hodge.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Alfred H. Lundin</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -115,15 +112,15 @@
             
 <listOrg>
 <org>
-<orgName>Western District Court of Washington, Northern Division</orgName>
-<placeName>Seattle, Washington</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-03" who="#xxx">transcribed and encoded</change>
+<change when="2022-04" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,44 +129,13 @@
 
 <body>  
 
-
+<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN DIS-
+TRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
 <div1 type="case">
 
 <pb/>
 
-<p><gap/>
-2. 
-or until he shall thence be discharged by due course of law.</p>
-<p>Dated this 11th day of June, 1915.</p>
-<ab>Reah M. Whitehead
-Justice of teh Peace, in and for 
-Seattle Precinct, King County, Wash.</ab>
-
-<pb/>
-
-<p>Original. 3038</p>
-<p>IN THE UNITED STATES DISTRICT COURT
-FOR THE WESTERN DISTRICT OF WASHINGTON.
-NORTHERN DIVISIOn.</p>
-<p>IN THE MATTER OF THE PETITION OF 
-FRANCIS STEPHEN MEDCRAF FOR A WRIT 
-OF HABEAS CORPUS.</p>
-
-<p>RETURN OF RESPONDENT.</p>
-
-<p>FILED IN THE 
-U. S. District Court, 
-Western Dist. of Washington,
-NORTHERN DIVISION
-JUN141915</p>
-<ab>FRANK. L. CROSBY, Clerk,
-By EML Deputy</ab>
-
-<p>ALFRED H. LUNDIN
-PROSECUTING ATTORNEY,
-1116 Alaska Building, Seattle.
-Attorney for Respondent.</p>
 
 </div1>
     
