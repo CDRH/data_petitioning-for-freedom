@@ -82,11 +82,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Chin Sheung Wing</term> 
+<term>Albert P. Woodie</term>
+<term>Dan</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>United States District Court, Western District of Washington, Northern Division</term>
 </keywords>
 
 </textClass>
@@ -94,33 +96,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Chin Sheung Wing</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Albert P. Woodie</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, Western District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-04" who="#xxx">transcribed and encoded</change>
+<change when="2022-04" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
