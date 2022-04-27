@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0222.011">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0222.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,15 +78,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1915-09">September 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term></term>
+
+
+
+
+
+
+
+
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -94,26 +104,27 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Francis Stephen Medcraf</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Frank T. Hodge</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>George D. Emery</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Frank P. Helsell</persName>
+<persName>Alfred H. Lundin</persName>    
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Western District Court of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,6 +145,104 @@
 <div1 type="case">
 
 <pb/>
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+<p>IN RE APPLICATION OF 
+FRANCIS STEPHEN MEDCRAF 
+FOR WRIT OF HABEAS CORPUS )
+No. 3038.
+Filed September 23, 1915.</p>
+<p>George D. Emery, For Petitioner.</p>
+<p>Alfred H. Lundin, Prosecuting Atty. 
+Frank P. Helsell Asst. " " ) For State.</p>
+<p>NETERER, District Judge:</p>
+<p>The petitioner alleges that he is unlawfully detained
+and restrained of his liberty by the Sheriff of King County,
+Washington, upon a judgment of conviction for violation of the 
+provisions of Sections 8412-8425 Remington &amp; Ballinger's Codes
+and Statutes of Washington, he was being charged with practicing
+dentistry for a fee in the State of Washington, without having
+first filed for record and recorded in the office of the Auditor
+of the County wherein he then and there practiced, to-wit,
+King County, a certificate from the Board of Dental Examiners 
+of the State of Washington, authorizing him to so practice as 
+provided by law. He alleges that at the age of thirteen he 
+was regularly apprenticed to a practicing dentist in London,
+England, and served his apprenticeship the full term of five
+years; that he "worked as dental assistant" to a surgeon 
+dentist at Athens, Greece, for the term of two years, and as 
+dental mechanic in the regular study and practice of that profession; 
+that he returned to London "for further study and prosecuted
+such study in dental surgery for six months" under William
+Lombardi, under whom he served his apprenticeship; that in 1896
+he was engaged in the office of Dr. Waldo Royce, dentist at 
+Tunbridge Wells, England, a graduate of Harvard University, for 
+eight months, as general dental assistant; that thereafter he 
+was employed by Mr. James Shillcock, at Cannes, France, for five
+months; and afterward entered the office of William Lombardi,
+<fw>--1--</fw>
+<pb/>
+at London, and studied and practiced dental surfery for five 
+months, and then, at Nice, France, acted as general assistant
+and continued in that practice for the term of six months;
+and in 1898 served for four months as dental mechanic at Mile 
+End Road, London, and then returned to Nice, France, where he 
+was employed for seven months in the practice of general 
+dental work; and, in 1899, acted as general dental mechanic for 
+four months in the office of Isador Clifford, in London, who 
+treated "the then Prince of Wales, who is now the King of 
+England"; did further assistant dental work in 1900, at Nice,
+France, and in 1901 returned to London and opened an office
+where he continued the practice of dentistry for two years; and
+then, on account of ill health, removed to Alberta, Canada,
+where he practiced dentistry for five years, and in February,
+1908, removed to Seattle, Washington, "where he has continued
+the practice of dentistry undisturbed until the issu<del>e</del> <add>ance</add> of the
+warrant of arrest herein complained of." That before beginning
+the practice of dentistry in Seattle, Wash. for license 
+to practice, <add>he</add> "tendered the legal fee and offered himself for
+examination pursuant to law, and in all things complied with 
+the requirement of the statutes in such cases made and provided,
+save only that he did not present any diploma from any
+college of dentistry whatever for the reason that he did not 
+possess one and does not now possess any, having obtained his 
+profession, learning and skill at the places, by the practice
+and study, and in the manner hereinbefore set forth." That the 
+State Board of Dental Examiners refused to receive the application
+of petitioner, and refused to grant him any licesne; and 
+further states that he is qualified to practice dentistry and 
+is willing to pay the fees, and sets forth in the petition the
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div1>
