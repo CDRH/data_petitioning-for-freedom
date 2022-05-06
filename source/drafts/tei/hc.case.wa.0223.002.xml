@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0223.002">
     
@@ -104,7 +103,7 @@
 <persName>Henry M. White</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Dan Landes</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Albert P. Woodie</persName>
