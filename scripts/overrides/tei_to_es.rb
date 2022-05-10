@@ -71,17 +71,19 @@ class TeiToEs
 
   def person
     eles = @xml.xpath(@xpaths["person"])
-    people = eles.map do |p|
+    people = eles.select do |p| 
       name = get_text("persName", xml: p)
-      if name && name.length > 0
+      name && name.length > 0
+    end
+    people = people.map do |p|
+      name = get_text("persName", xml: p)
         {
           "id" => "",
           "name" => name,
           "role" => get_text("@role", xml: p)
         }
-      end
     end
-    return people
+    people
   end
 
   # TODO rights_uri, and rights_holder?
