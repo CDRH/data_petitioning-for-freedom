@@ -12,8 +12,12 @@ class CsvToEs
     def assemble_collection_specific
 			@json["court_k"] = @row["Court Type"]
 			@json["outcome_k"] = @row["Petition Outcome"]
-      @json["repository_k"] = @row["Repository"]
-      @json["sites_of_significance_k"] = @row["Site(s) of Significance"]
+      if @row["Repository"]
+        @json["repository_k"] = JSON.parse(@row["Repository"])
+      end
+      if @row["Site(s) of Significance"]
+        @json["sites_of_significance_k"] = JSON.parse(@row["Site(s) of Significance"])
+      end
       @json["points_of_law_k"] = @row["Points of Law Cited"]
       # I am leaving all the extra person fields as arrays for now, and Orchid can match them up with the correct people.
       # @json["person_age_k"] = @row["Person Age Category"]
@@ -36,7 +40,9 @@ class CsvToEs
     end
   
     def subcategory
-      @row["Petition Type"]
+      if @row["Petition Type"]
+        JSON.parse(@row["Petition Type"])
+      end
     end
   
     # def creator
@@ -72,7 +78,9 @@ class CsvToEs
     end
   
     def format
-      @row["Record Type"]
+      if @row["Record Type"]
+        JSON.parse(@row["Record Type"])
+      end
     end
   
     def get_id
@@ -86,7 +94,9 @@ class CsvToEs
     end
     
     def keywords
-      @row["Tags"]
+      if @row["Tags"]
+        JSON.parse(@row["Tags"])
+      end
     end
 
     def person
