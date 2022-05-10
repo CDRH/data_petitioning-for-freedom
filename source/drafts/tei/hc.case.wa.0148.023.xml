@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Certificate</title>
-<date when="1911">December 27, 1911</date>
+<date when="1911-12-27">December 27, 1911</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -79,13 +79,12 @@
 </keywords>
  
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1911-12"></date>December 1911</term>
 </keywords>
    
 <keywords scheme="lcsh" n="people">
 <term>Drake, James C.</term>
-<term>Lavin, James P.</term>
-<term>Meight, BD</term>
+<term>Wright, B. D. </term>
 </keywords>
  
 <keywords scheme="lcsh" n="places">
@@ -94,36 +93,42 @@
  
 </textClass>
            
-<particDesc>  
-<listPerson>           
+<particDesc>   
+<listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, James P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt, H. B.</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
-           
+            
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
-</listOrg>  
-</particDesc>
+</listOrg>   
+</particDesc> 
 </profileDesc>
-       
-<revisionDesc>        
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+        
+<revisionDesc>         
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
  
 </teiHeader>
@@ -144,21 +149,21 @@
 Western District of Washington}ss.</p>
  
 <p>I, JAMES C. DRAKE, Clerk of the Circuit Court of the United States, for the Western
-District of Washington, do hereby certify that the forgoing atached papers constiture the
-JUDGMENT ROLL in the foregoing entitled course, No.1078
-wherein In Re Petition James P. LAvin
+District of Washington, do hereby certify that the forgoing attached papers constitute the
+JUDGMENT ROLL in the foregoing entitled cause, No.1078
+wherein In Re Petition James P. Lavin
 Certiorari
-plaintif
+Plaintiff
 and
 Defendant</p>
  
 <p>In Testimony Whereof, I have hereto set my hand and
-afficed the Seal of said Circuit Court, this the
+affixed the Seal of said Circuit Court, this the
 27 day of Dec A.D. 1911</p>
  
 <p>JAMES C. DRAKE, Clerk</p>
  
-<p>By BD Meight
+<p>By BD Wright
 Deputy Clerk</p>
  
 <figure></figure>

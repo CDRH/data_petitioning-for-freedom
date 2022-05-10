@@ -4226,9 +4226,6 @@
         "Petition Type": [
             "Institutional: underage military enlistment"
         ],
-        "Petitioners": [
-            "hc.pers.000391|\"Moeller, Hartman\"|Male|Unindicated"
-        ],
         "Primary field": "By the Habeas Corpus Act in the matter of Philip Ahren",
         "Record Type(s)": [
             "Case File"
@@ -4249,6 +4246,62 @@
         "Title": "By the Habeas Corpus Act in the matter of Philip Ahren",
         "airtable_createdTime": "2022-02-02T20:17:57.000Z",
         "airtable_id": "recNAhLtYinHCxWKC"
+    },
+    {
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, June Term 1857, No. 97",
+        "Case ID": "hc.case.mo.0124",
+        "Case Role [join]": [
+            "recbI5AAaHEYf5G0V",
+            "rechpFOfYgxDlKHH6",
+            "rec4g5ypESpUcdvge",
+            "recaTwm7tfZaEY6xl",
+            "recPCMPDQUOma147y",
+            "recApolCw9XCdNKPw"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-08T21:42:14.000Z",
+        "Earliest Record Date": "1857-06-11",
+        "Last Modified": "2022-03-08T22:17:57.000Z",
+        "Latest Record Date": "1857-06-12",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "Andrew Rogers petitioned for a writ of habeas corpus to retrieve his young daughter, Lucy Rogers, from Francis Resser, which was granted. Rogers accused his wife of absconding with Lucy to Resser's home; Resser responded that Lucy and her mother were boarders and that he asserted no claim over the child. After hearing the evidence, Lucy was released into her father's custody.",
+        "People": [
+            "rec3fyPNFb3oy8U1t",
+            "recqotcDfxlS7BLY3",
+            "recvxEq1sDR4MHEUg",
+            "recQwGANcu5MkvJMS",
+            "recavkqA8WOgcQK5Y",
+            "recqFXINNsqEJD6dF"
+        ],
+        "Petition Date": "1857-06-11",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
+        "Petitioners": [
+            "hc.pers.000391|\"Moeller, Hartman\"|Male|Unindicated"
+        ],
+        "Primary field": "By the Habeas Corpus Act in the matter of Philip Ahren",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "rec1pnAGVxkKAMHO4",
+            "recNcii8rG33486kD",
+            "recePqDvAV36X9pEG",
+            "recVt6z9BqgqIn0lz"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of Lucy A Rogers",
+        "airtable_createdTime": "2022-03-08T21:42:14.000Z",
+        "airtable_id": "recNMxgL9Y3dwOI5h"
     },
     {
         "Case Citation/Source": "St. Louis Law Commissioners' Court, June Term 1857, No. 97",
@@ -6686,6 +6739,112 @@
         "Petition Type": [
             "Interpersonal: child custody"
         ],
+        "Primary field": "In the Matter of Application for Writ of Habeas Corpus for Clayton Musser, by John Musser, parent",
+        "Record Type(s)": [
+            "Judge's Docket"
+        ],
+        "Relationships [join]": [
+            "rec0FhuLvP9Hrghvo",
+            "recq44RD4fJBqhgff",
+            "rec1ltvEwOYQ1KpeR",
+            "recC7OVB7LgK644UQ",
+            "rec99fhalTyaPKE2h",
+            "reclcLwHPx60wWwdZ"
+        ],
+        "Repository": [
+            "History Nebraska"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "In the Matter of Application for Writ of Habeas Corpus for Clayton Musser, by John Musser, parent",
+        "airtable_createdTime": "2022-03-10T19:22:37.000Z",
+        "airtable_id": "recdYb6Hd2DoXYJ9o"
+    },
+    {
+        "Additional Parties Named in Document: Last, First": "Barsby, Vic.; Nelson, Colvin",
+        "Case Citation/Source": "RG213 Adams County Subgroup 7: Series 2 Adams County Judge's Docket, Vol 2: Jan 1891-June 1897, pp. 363-364",
+        "Case ID": "hc.case.ne.0506",
+        "Case Role [join]": [
+            "recLWazMFHQjGUBtx",
+            "recHRS9l3sjLIqWvq",
+            "recaW3ubK38vcgqpe",
+            "recHmdoGuF9D9vn9s",
+            "recq8fkIxbhxFNuHY"
+        ],
+        "Court Type": "County Court",
+        "Created": "2022-03-10T20:17:05.000Z",
+        "Earliest Record Date": "1895-08-31",
+        "Last Modified": "2022-03-11T18:20:14.000Z",
+        "Latest Record Date": "1895-09-03",
+        "Location of Court": [
+            "recDrunojMK68Tsq0"
+        ],
+        "Notes": "Frank Nelson was arrested and jailed for an unspecified reason. He petitioned for a writ of habeas corpus, which was granted. The respondent, Charles Wauzer, answered that Nelson had been removed from his custody by the sheriff of neighboring Webster County. The judge dismissed the case, acknowledging that it was now outside the court's jurisdiction. Nelson's fate is unknown.",
+        "People": [
+            "recvRaaPjBaBaTVCK",
+            "rec1nikn09S47iNnq",
+            "recpDgFU6pnGaaVCg",
+            "recsf5Y4j4mOYHqrv",
+            "recbCsa4LPqjXwcK6"
+        ],
+        "Petition Date": "1895-08-31",
+        "Petition Outcome": "Petition granted: bound party fate unknown",
+        "Petition Type": [
+            "Carceral: wrongful arrest"
+        ],
+        "Primary field": "In the Matter of the Application of Frank G. Nelson for a writ of Habeas Corpus",
+        "Record Type(s)": [
+            "Judge's Docket"
+        ],
+        "Relationships [join]": [
+            "recCpFvJCp3NBBXj8",
+            "recdKaNq3GXhcdlkL",
+            "recsSfjUV2I1DubLB",
+            "recWXuZVJgrxK363c",
+            "recKbcsGz1iAvINm7",
+            "recPu7s2gJFSuXzlF"
+        ],
+        "Repository": [
+            "History Nebraska"
+        ],
+        "Title": "In the Matter of the Application of Frank G. Nelson for a writ of Habeas Corpus",
+        "airtable_createdTime": "2022-03-10T20:17:05.000Z",
+        "airtable_id": "recdp1a9wb5UhTcU9"
+    },
+    {
+        "Case Citation/Source": "RG213 Adams County Subgroup 7: Series 2, Adams County Judge's Docket, Vol 1: August 1886-March 1892, p. 170",
+        "Case ID": "hc.case.ne.0504",
+        "Case Role [join]": [
+            "recwUymLiivL9I1Yf",
+            "recSAqJ8ogB50OvqP",
+            "recfiN0kG152HSmRC",
+            "recdygfg5JS2ylJuH",
+            "rec84ftghihNcL8KS",
+            "recXxPad79iwAi9Po"
+        ],
+        "Court Type": "County Court",
+        "Created": "2022-03-10T19:22:37.000Z",
+        "Earliest Record Date": "1888-03-13",
+        "Last Modified": "2022-03-10T19:52:05.000Z",
+        "Latest Record Date": "1888-03-14",
+        "Location of Court": [
+            "recDrunojMK68Tsq0"
+        ],
+        "Notes": "John Musser petitioned for a writ of habeas corpus to retrieve his young son, Clayton Musser, from Anna Musser, which was granted. Although not stated, it seems likely that Anna was the child's mother. Anna did not respond to the writ, and so after hearing the evidence, Clayton was released into his father's custody.",
+        "People": [
+            "reckUXy4ioq6jswqU",
+            "rec1NEH0cY70fJFt8",
+            "recd9WWfqRwtoor2D",
+            "rechanjKwEh0lv1tn",
+            "recoTdfuk7lPzuOqo",
+            "recYR9nIJS1rwkfmT"
+        ],
+        "Petition Date": "1888-03-13",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
         "Petitioners": [
             "hc.pers.000572|\"Musser, John\"|Male|Unindicated"
         ],
@@ -8681,6 +8840,126 @@
         "Title": "In the Matter of the application for a writ of Habeas Corpus for Lillian Lee, a minor",
         "airtable_createdTime": "2021-11-17T20:51:19.000Z",
         "airtable_id": "recqoE2CySDcBepyJ"
+    },
+    {
+        "Additional Parties Named in Document: Last, First": "Tully, Jane; Timberlake, William H.",
+        "Case Citation/Source": "St. Louis Law Commissioners' Court, April Term 1855, No. 97",
+        "Case ID": "hc.case.mo.0133",
+        "Case Role [join]": [
+            "recbT7s3rHcMPFo6J",
+            "reca7qcncArQiVAQV",
+            "recuVxxByuF22no5k",
+            "recV4A5p6ZnrNQIBi",
+            "rec4DixmUbLY6N5Wh",
+            "recLUgmAuc2mRH7Jh",
+            "recN55S6n3FGp7CjV",
+            "recSMiN1zMuVAKto4"
+        ],
+        "Court Type": "Commissioner's Court",
+        "Created": "2022-03-09T21:16:00.000Z",
+        "Earliest Record Date": "1855-04-28",
+        "Last Modified": "2022-03-09T21:44:24.000Z",
+        "Latest Record Date": "1855-05-01",
+        "Location of Court": [
+            "recLv8qWaPpNk5G0x"
+        ],
+        "Notes": "Percival Tully petitioned for a writ of habeas corpus to retrieve his thirteen-year-old daughter, Alice Tully, from George Fisher, which was granted. Percival accused George of illegally detaining Alice; George responded that Percival had given him custody, which Percival denied. After hearing the evidence, Alice was released into the custody of her father.",
+        "People": [
+            "recLU4xvHgQjgwUOB",
+            "rectRgoE2PJbqcX5N",
+            "recw4ZU14ZpG9xVfV",
+            "recdAyFwqXdGC827h",
+            "recavkqA8WOgcQK5Y",
+            "recwi4MNF10AgxG5A",
+            "recs5h5Wm27w1v2Ij",
+            "recLIBWvFWhVtpyfg"
+        ],
+        "Petition Date": "1855-04-28",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
+        "Points of Law Cited": "Ch. 73 \u00a71 of the 1845 Revised Statutes of the State of Missouri, p. 547",
+        "Primary field": "Habeas Corpus in the matter of Alice Tully",
+        "Record Type(s)": [
+            "Case File"
+        ],
+        "Relationships [join]": [
+            "recGE7r0vdODT4e78",
+            "recOqkh8jhoWu950r",
+            "recX9PvDVmDBsGBw5",
+            "recxBC84hDRj6zR1R",
+            "rec3BAl4tenAxikHo",
+            "recOWU3eIhNAJNTKy",
+            "recGbQRK6GWVVJuvd"
+        ],
+        "Repository": [
+            "Missouri State Archives-St. Louis"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "Habeas Corpus in the matter of Alice Tully",
+        "airtable_createdTime": "2022-03-09T21:16:00.000Z",
+        "airtable_id": "recqyTiDspCrf5F7T"
+    },
+    {
+        "Case Citation/Source": "RG213 Adams County Subgroup 7: Series 2 Adams County Judge's Docket, Vol 3: June 1897-Oct 1912, p. 468",
+        "Case ID": "hc.case.ne.0518",
+        "Case Role [join]": [
+            "reczykOvy3i76Qu44",
+            "recZ5zu5Crjylo8Yj",
+            "recCNEa4fMY8MX4Z5",
+            "rec4e4MFOdpDuFKRy",
+            "rec4rVgCWGkmTYu1g",
+            "recoWzYz5MjBkQMRF",
+            "recqvs5GdKfhJZoqd"
+        ],
+        "Court Type": "County Court",
+        "Created": "2022-03-11T22:47:19.000Z",
+        "Earliest Record Date": "1910-12-30",
+        "Last Modified": "2022-03-11T23:13:01.000Z",
+        "Latest Record Date": "1911-01-05",
+        "Location of Court": [
+            "recDrunojMK68Tsq0"
+        ],
+        "Notes": "Bessie Bochert, representing Henry Borchert, petitioned for a writ of habeas corpus to retrieve his son, Arthur Borchert, from the custody of William Durant. After hearing the evidence, Arthur was released into Henry's custody.",
+        "People": [
+            "recP1KXh6MdMNMw9C",
+            "reczyjyEOIznqVV7G",
+            "recaORF6rt2HBoaov",
+            "recRRAFe9zruZLS6H",
+            "recRU5jEup8IVQsz9",
+            "rechsuwSPbkNfEJ8o",
+            "recy5iZmGYlVviYiZ"
+        ],
+        "Petition Date": "1910-12-30",
+        "Petition Outcome": "Petition granted: bound party released",
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
+        "Primary field": "In the Matter of the Application of Arthur Adolph William Borchert for a writ of Habeas Corpus",
+        "Record Type(s)": [
+            "Judge's Docket"
+        ],
+        "Relationships [join]": [
+            "recj4qxcgiqXWXAqs",
+            "recN7LH1cIQfoeVPx",
+            "recfIOwU7NPfpUGCZ",
+            "recEDzuClluLrByFc",
+            "recJJ6nIbE0tl9Vhx",
+            "recuaZ1tfM2HaOoAu",
+            "recjUp795nPpoS9CX"
+        ],
+        "Repository": [
+            "History Nebraska"
+        ],
+        "Tags": [
+            "Children"
+        ],
+        "Title": "In the Matter of the Application of Arthur Adolph William Borchert for a writ of Habeas Corpus",
+        "airtable_createdTime": "2022-03-11T22:47:19.000Z",
+        "airtable_id": "recr01UC7Q5UXN447"
     },
     {
         "Additional Parties Named in Document: Last, First": "Tully, Jane; Timberlake, William H.",

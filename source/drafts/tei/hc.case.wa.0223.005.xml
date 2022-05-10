@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0223.005"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chin Sheung Wing v. Henry M. White. Order</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0223.005</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Chin Sheung Wing v. Henry M. White. Order</title><!-- replace with name of case; type of document -->
+<date when="1915">1915</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1915-09"></date>23 September 1915</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Chin Sheung Wing</term>
+<term>Jeremiah Neterer</term>
+<term>Daniel Landon</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court, Western District of Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Chin Sheung Wing</persName>
+</person>
+<person role="defendant">
+<persName>Henry M. White</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Daniel Landon</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Albert P. Woodie</persName>
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court, Western District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0223.005"/> <!-- insert number from spreadhseet -->
+<p>IN THE UNITED STATES DISTRICT COURT, WESTERN DISTRICT OF
+WASHINGTON: NORTHERN DIVISION.</p>
+<p>In the Matter of the Application
+of CHIN SHEUNG WING, for a 
+Writ of Habeas Corpus.</p> 
+<p>No. 3072
+ORDER.</p>
+<p>Upon motion of Daniel Landon, attorney for petitioner
+herein, to dismiss the Writ of Habeas Corpus heretofore issued,
+IT IS THEREFORE ORDERED that the said Writ be and
+the same is hereby dismissed and held for naught.</p>
+<p>Done in open Court this 23 day of Sept., 1915.</p>
+<p>Jeremiah Neterer
+Judge.</p> 
+<p>"OK" Dan Landon</p> 
+<pb></pb>
+<p>No. 3072</p> 
+<p>5013-5-390</p>
+<p>IN THE 
+DISTRICT COURT
+OF THE UNITED STATES
+For the Northern District
+of Washington
+Western Division</p> 
+<p>In the Matter of the Application
+of CHIN SHEUNG WING, for a Writ
+of HABEAS CORPUS.</p>
+<p>ORDER.</p> 
+<p>SERVICE OF PAPERS IN THIS CASE MAY BE MADE ON
+DANIEL LANDON
+ATTORNEY FOR
+PROCTER FOR
+Petitioner.</p> 
+<p>1054-5-6 EMPIRE BLDG.</p>
+<p>SEATTLE KING COUNTY, WASHINGTON
+PHONE MAIN 4802</p>
+</div1> 
+    
+</body>
+</text>
+</TEI>

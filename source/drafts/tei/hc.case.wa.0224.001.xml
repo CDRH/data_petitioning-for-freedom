@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Lewis v. Defendant. Certification.</title> <!-- replace with name of case; type of document -->
+<title>Lewis Johnson v. John M Boyle, United States Marshal. Certification.</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,7 +44,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Lewis v. Defendant. Certification.</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Lewis Johnson v. John M Boyle, United States Marshal. Certification.</title><!-- replace with name of case; type of document -->
 <date when="1915-06-08">August 6, 1915</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -100,26 +100,27 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>John Lewis</persName><!-- insert name of petitioner, if a person -->
+<persName>Lewis Johnson</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>John M. Boyle</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>Hammond and Hammond</persName> 
+<persName>George R. Tennant</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Winter S. Martin</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court, For the Western District of Washington, Northern Division</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 

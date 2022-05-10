@@ -29,9 +29,11 @@ class CsvToEs
       # @json["person_notes_k"] = @row["Person Notes"]
       # @json["person_relationships_k"] = @row["Person Relationships"]
       # @json["person_related_to_k"] = @row["Person Relatees"]
+
       if @row["Petitioners"]
         @json["petitioners_k"] = JSON.parse(@row["Petitioners"])
       end
+
 		end
 		
 		def id

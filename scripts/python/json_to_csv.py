@@ -98,6 +98,7 @@ desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant St
 cases_frame = cases_frame.drop(columns=["Case Role [join]", "Encoding Notes", "Last Modified", "Location of Court", "People", "Primary field", "airtable_createdTime", "airtable_id", "Relationships [join]", "Created", "Encoding Incomplete?"])
 cases_frame = cases_frame.rename(columns={"Additional Parties Named in Document: Last, First": "Additional Parties", "Record Type(s)": "Record Type"})
 people_frame = people_frame.drop(columns=["Created", "Last Modified", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2"])
+
 for label in ["Petition Type", "Record Type", "Repository", "Site(s) of Significance", "Tags", "Petitioners"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
 for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags"]:

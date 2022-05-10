@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Order</title>
-<date when="1904">June 30, 1904</date>
+<date when="1904-06-30">June 30, 1904</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,22 +79,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1904-06"></date>June 1904</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Angelique, M.</term>
-<term>Lavin, James P.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
-<term>Frye, Jesse A.</term>
-<term>Gill, H.C.</term>
 <term>Roche, M, Joujon</term>
+<term>Ayres, A. Reeves</term>
+<term>Moore, A. N.</term>
+<term>Gay, Wilson R.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
+<term>France</term>
 </keywords>
 
 </textClass>
@@ -102,33 +100,39 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, James P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt, H. B.</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName>Hanford, C.H.</persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -148,10 +152,11 @@ NORTHERN DIVISION.</p>
 
 <p>In the Matter of the Petition of James
 P. Lavin, Immigrant Inspector, and Sister
-M. Angelique, Sisiter Superior of the
+M. Angelique, Sister Superior of the
 House of Good Shepherd, for a Writ
-of Certiorari.}
-No.1078</p>
+of Certiorari.}</p>
+
+<p>No.1078</p>
 
 <p>James P. Lavin, Immigrant Inspector, and 
 Sister M. Angelique,
@@ -159,25 +164,60 @@ Appellants,
 -vs-
 Yvonne LeFevre, Georgette Normand and 
 Marie LeFevre,
-Respondednts.}
-No.1078</p>
+Respondednts.}</p>
+
+<p>No.1078</p>
 
 <p>It appearing to the Court that respondent, Georgette Normand,
 did on or about June 7th, 1904, appear and surrender herself to James P. 
 Lavin, Immigrant Inspector, and has been by said Lavin, acting under instructions
-of the United States Tresury Department, deported to France, 
+of the United States Treasury Department, deported to France, 
 and that the order of the United States Circuit Court of Appeals herein
 has been fully complied with in so far as said defendant, Georgette Normand 
-is concerned, it is now, on mortion of Jesse A. Frye, United States 
+is concerned, it is now, on motion of Jesse A. Frye, United States 
 Attorney, odered that the sum of five hundred dollars, bail deposited
 by H.C. Gill for said Georgette Normand, be paid by the Clerk of this
-Court to the said H.C. Gill, to be by his paid to M. Joujon Roche,
+Court to the said H.C. Gill, to be by him paid to M. Joujon Roche,
 United States French Consular Agent.</p>
 
 <p>Done in open Court this 30th day of June, 1904</p>
 
+<pb/>
+
 <p>C.H. Hanford
 Judge.</p>
+
+<p>TX</p>
+
+<p>GOB 8-126</p>
+
+<p>FORM NO. 499.</p>
+
+<p>No. 1078</p>
+
+<p>In the Circuit Court
+of the United States
+for the
+District of Washington,</p>
+
+<p><del>The United States
+vs.</del>
+In re. Petition of 
+J.P.Lavin for writ of 
+certiorari</p>
+
+<p>Order</p>
+
+<p>FILED IN THE
+U.S. Circuit Court,
+DIST. OF WASHINGTON.
+JUN 30 1904
+A. REEVES AYRES, Clerk
+A. N. Moore Deputy</p>
+
+<p>WILSON R. GAY,
+UNITED STATES ATTORNEY
+SEATTLE, WASHINGTON.</p>
 
 </div1>
     
