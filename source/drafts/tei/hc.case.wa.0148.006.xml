@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Allegations</title>
+<title>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Answer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Allegations</title>
-<date when="1903">Febuary 16, 1903</date>
+<title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M.
+Angelique. Answer</title>
+<date when="1903-02-16">Febuary 16, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,26 +80,23 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-02"></date>February 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Lavin, James P.</term>
-<term>Angelique, M.</term>
 <term>Cushman, Edward E.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
-<term>Pham, James</term>
-<term>Hapkins, P. M.</term>
-<term>Avres, A. Reeves</term> 
-<term>Frye, Jissle A.</term>
+<term>Hopkins, R. M.</term>
+<term>Ayres, A. Reeves</term> 
+<term>Frye, Jesse A.</term>
 <term>Gay, Wilson R.</term>
-<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
+<term>Republic of France</term>
+<term>Victoria, British Columbia</term>
 </keywords>
 
 </textClass>
@@ -106,33 +104,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,11 +149,11 @@
 
 <pb facs="hc.case.wa.0148.006"/>
 
-<p>IN THE UNITED STATES CIRCUIT FOR THE DISTRICT OF WASHINGTON
+<p>IN THE UNITED STATES CIRCUIT COURT FOR THE DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
 
 <p>In the Matter of the Petition
-of James P. Lavin, Immigrant INspector 
+of James P. Lavin, Immigrant Inspector 
 and Sister M. Angelique,
 Sister Superior of the House of 
 thex Good Shepard, for a Writ 
@@ -178,101 +180,107 @@ writ of habeas corpus herein you petitioner, James P. Lavin, was and
 still in a revenue officer of the Tresury Department, to-wit, Immigrant
 Inspector for the collection district of Puget Sound; that each said
 applicants for writ of habeas corpus, to-wit, Yvonne Le Fevre, Marie
-Le Fevre and Georgette Normand, is a native citisen of the Republic of 
+Le Fevre and Georgette Normand, is a native citizen of the Republic of 
 France: that your petitioner, James P.Lavin, heretofore, in the discharge 
-of his duties as such officer, on the 9th dy of Febuary, 1903,
+of his duties as such officer, on the 9th day of February, 1903,
 temporarily removed said applicats from the steamship Rosalie upon its
 arrival in Seattle from the foreign port of Victoria, British Columbia,
 from which port it has brought said applicats: that said removal was
-for the purpose of determining and investigating whether they wore immigrants
+for the purpose of determining and investigating whether they were immigrants
 
 <pb/>
 
 and properly entitled to enter the United States, and not for
-the purpose of landing them in the United States in any sence; that
-thereafter a board of special inquiry was concvened of the Tresury officials
+the purpose of landing them in the United States in any sense; that
+thereafter a board of special inquiry was convened of the Treasury officials
 and revenue officers, according to law and the regulations of the 
-Tresury Department, to determine the eligibility of the above named
+Treasury Department, to determine the eligibility of the above named
 applicats to land and enter the United States: that upon such investigation
-it was dound and determined that said immigrants had within one
+it was found and determined that said immigrants had within one
 year prior thereto been imported into the United States at the port of 
 New York from France for the purpose of prostitution: that it was further
-found and determined that eachone of them was <add>a pauper and</add> liable to become a
+found and determined that each one of them was <add>a pauper and</add> liable to become a
 public charge: that it was further found that immediatly prior to their 
 having been taken from said vessel from such purpose by your petiioner,
-James P. Levin, they had left the United States and gone to Victoria,
+James P. Lavin, they had left the United States and gone to Victoria,
 British Columbia, from which place they were returning to the United
-States when so tajen and removed; that upon this state of facts it was
+States when so taken and removed; that upon this state of facts it was
 found and determined that they were not lawfully entitled to be in or 
 enter the United States and that they should be deported and returned to 
 the county to which they belonged and from whence they came: that the
 question of whether they be deported to British Columbia of France was 
 and still is held under advisement and is in process of determination
 by the proper officials of the Treasury Department; that upon the conclusion
-of the facts and dinding in this case toc the Collector of 
+of the facts and findings in this case tox the Collector of 
 Customs at Port Townsend, and that said report and findings were forwarded
-by Collector of Customs upon the 13th day of Februart, 1903, to 
+by Collector of Customs upon the 13th day of February, 1903, to 
 the Secretary of the Tresury, by whom it will be determined to what
-country the applicats shuld be deported; that pending said final determination 
+country the applicants should be deported; that pending said final determination 
 by the Secretary of the Tresury your petioners, James P.
 Lavin and Sister M. Angelique, by his direction and authority as such 
 Immigrant Inspector, are for the purpose that these applicants may be 
 held to answer the disposition that is made of thier case by the Secretary
 
+-2-
+
 <pb/>
 
-of the Tresury, held and restrained of thier libery, and not 
+of the Treasury, held and restrained of their liberty, and not 
 otherwise; that they are so held and retrained at the express direction
-and by the express warrant of the Secretary of the Tresury.</p>
+and by the express warrant of the Secretary of the Treasury.</p>
 
 <p>Wherefore, your petitioners pray that the writ of habeas corpus be 
-denied, and that the applicats be remanded to their custdy.</p>
+denied, and that the applicants be remanded to their custody.</p>
 
-<p>Edward Cushman
+<p>Edward E Cushman
 Assistant United States Attorney</p>
 
-<p>United Statesof America
+<p>United States of America
 District of Washington} ss</p>
 
-<p>James Pham by facts does
-sown on wall day tu a own of the 
-petition whom unknown ind the
-how lead the <unclear></unclear> whom and 
-who knws the could views
-and the and the saw in the</p>
+<p>James P Lavin by facts does
+sworn on oath say he is one of the 
+petitioner above named and he
+has read the foregoing <unclear></unclear> and 
+<unclear></unclear> knows its contents <unclear>thereof</unclear>
+and that the same is true</p>
 
-<p>James P. Lawin</p>
+<p>James P. Lavin</p>
 
-<p>Subscribed to and sworn to before
-me the 115th of Feb 1903</p>
+<p>Subscribed and sworn to before
+me the 15th of Feb 1903</p>
 
-<p>P M Hapkins
+<p>R M Hopkins
 Clerk of the U.S. District Court,
 District of Washington</p>
 
 <figure></figure>
 
+<p>-3-</p>
+
 <pb/>
 
-<p>Due and full service of within
-acknowledge this day 
+<p>Due and full service of within <gap></gap>
+acknowledge this <gap></gap>day 
 of, 189
-Attorney for</p>
+Attorney for <gap></gap></p>
+
+<p>TX</p>
 
 <p>FORM NO.499
 NO.1078</p>
 
 <p>IN THE Circiut COURT
-OF THE UNITES STATES 
+OF THE UNITED STATES 
 FOR THE 
 DISTRICT OF WASHINGTON
 Northern Division.</p>
 
-<p>THE UNITED STATES
-VS.
+<p><del>THE UNITED STATES
+VS.</del>
 
-In the petition Lavin et al 
-for Certerari etc.</p>
+In re petition Lavin et al 
+for Certiorari etc.</p>
 
 <p>Anwer of US.</p>
 
@@ -280,11 +288,11 @@ for Certerari etc.</p>
 U.S.Circuit Court,
 DISTRICT OF WASHINGTON
 FEB 16 1903
-A. REVES AVRES Clerkf
-PM Hspkins Dep
-Jissle A. Frye</p>
+A. REVES AYRES Clerkf
+RM Hspkins Dep
+Jesse A. Frye</p>
 
-<p>WILSON R. GAY,
+<p><del>WILSON R. GAY,</del>
 UNITED STATES ATTORNEY,
 SEATTLE, WASHINGTON.</p>
 </div1>

@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Mandate</title>
-<date when="1903">December 4, 1903</date>
+<date when="1903-12-04">December 4, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,18 +79,13 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-12"></date>December 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Angelique, M.</term>
-<term>Lavin, James P.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
 <term>Monckton, Frank D.</term>
 <term>Avres, A. Reeves</term> 
-<term>Statiherd, H.M.</term>
+<term>Walthew, H.M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,33 +97,39 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, James P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt, H. B.</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName>Fuller, Melvin W.</persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -165,11 +166,11 @@ James P. Lavin, Immigrant Inspector, etc., and in the Matter of the
 Application of YVONNE LE FEVRE, GEORGETTE NORMAND, and MARIE LE FEVRE
 for a Writ of Habeas Corpus, an order or judgment was duly filed on the 
 5th day of March. 1903, denying the petition for a rehearing and for the 
-modification of the said order ir judgment entered on the 19th day of 
-February, 1904, and directing the said Immigrant Inspector to carry into 
-effect the said last mentioned order or judgment etc,: which said orderd
+modification of the said order or judgment entered on the 19th day of 
+February, 1903, and directing the said Immigrant Inspector to carry into 
+effect the said last mentioned order or judgment etc,: which said orders
 or judgments are of record in the said matters in the office of the clerk
-of the said Circuit Court; (to which record refrence is hereby made and
+of the said Circuit Court; (to which record reference is hereby made and
 the same is hereby expressly made a part hereof,)
 
 <pb/>
@@ -198,22 +199,22 @@ in such cases made and provided, fully and at large appears:</p>
 <p>And whereas, on the 6th day of May in the year
 of our Lord one thousand, nine hundred and three, the said cause
 came on the heard before the said Circuit Court of Appeals, on the said 
-transcript of record, and was argued by counsel:
+transcript of record, and was argued by counsel:</p>
 
 <figure></figure>
 
-<pb/></p>
+<pb/>
 
 <p>On consideration whereof, It is now here ordered and adjudged
 by this Court, that the judgment of the said Circuit Court in this cause 
 be, and the same is hereby, modified, with instructions to vacate its
 order of deportation, discharge the writ of habeas corpus, and remand the 
-appelles to the custody of the Immigrant Inspector.
+appellees to the custody of the Immigrant Inspector.
 (Nov. 2, 1903)</p>
 
 <p>You, therefore, are hereby commanded that such modification etc.,
 <add>and further</add> proceedings be had in said cause, in accordance with the opinion and judgment 
-of this Court and as according to right and justice and the laws if 
+of this Court and as according to right and justice and the laws of 
 the United States ought to be had, the said orders of judgments of said <add>Circuit Court</add>
 notwithstanding.</p>
 
@@ -230,11 +231,13 @@ Taxed at $</p>
 
 <p>Clerk,</p>
 
-<p>F.D. Monekton, 
+<p>F.D. Monckton, 
 Clerk of the United States Circuit Court
 of Appeals for the Ninth Circuit.</p>
 
 <pb/>
+
+<p>TX</p>
 
 <p>1078
 No. 948</p>
@@ -248,7 +251,7 @@ For the Ninth Circuit.</p>
 <p>James P. Lavin
 et al.
 vs.
-Yuome Le Fevre
+Yvonne Le Fevre
 et al.</p>
 
 <p>MANDATE.</p>
@@ -258,7 +261,7 @@ U.S. Circuit Court,
 DIST. OF WASHINGTON
 JAN 7 1904
 A.REEVES AYRES, Clerk
-HMSStatiherd Deputy</p>
+HM Walthew Deputy</p>
 
 </div1>
     

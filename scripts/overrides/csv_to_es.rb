@@ -139,10 +139,28 @@ class CsvToEs
           person = { "name" => name, "role" => "Additional Party" }
           list << person
         }
+
       end
       list
     end
   
+
+    def places
+      places = []
+      if @row["State/Territory"]
+        state = @row["State/Territory"]
+        places << state
+        if @row["County"]
+          county = @row["County"] + " County, " + @row["State/Territory"]
+          places << county
+        end
+        if @row["City"]
+          city = @row["City"] + ", " + @row["State/Territory"]
+          places << city
+        end
+      end
+      places
+    end
   
     def publisher
       "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
@@ -166,11 +184,11 @@ class CsvToEs
 
 		def spatial
 			place = { "city" => @row["Location city"], "county" => @row["Location county"], "state" => @row["Location state"], "place_name" => @row["Location name"]}
+
 			place
 		end
 
     def text
-      # TODO make any necessary modifications for 
       built_text = []
       @row.each do |column_name, value|
         built_text << value.to_s

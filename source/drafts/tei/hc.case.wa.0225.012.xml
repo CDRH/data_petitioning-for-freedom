@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0225.012">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Thomas L. Thurston v. O.P. Halligan. Writ Denied</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0225.012</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Thomas L. Thurston v. O.P. Halligan. Writ Denied</title>
+<date when="1916">1916</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916-01">January 6, 1916</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Thomas L. Thurston</term> 
+<term>Clay Allen</term> 
+<term>J. Henry Denning</term> 
+<term>Jeremiah Neterer</term> 
+<term>Frank L. Crosby</term> 
+<term>E. Lakin</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>United States District Court, Western District of Washington, Northern Division</term> 
+<term>Territory of Alaska</term> 
+<term>McNeil Island, Washington</term>
+</keywords>
+
+</textClass>
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Thomas L. Thurston</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>O.P. Halligan</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>J. Henry Denning</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName><!-- insert court name -->
+<placeName>Western District of Washington, Northern Division</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-02" who="#AS">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+<div1 type="case">
+
+<pb/>
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION</p> 
+<p>IN THE MATTER OF THE PETITION
+OF THOMAS L. THURSTON, 
+FOR A WRIT OF HABEAS CORPUS }</p>
+<p>No. 3128.
+Filed January 6, 1916.</p> 
+
+<p>WRIT DENIED.</p>  
+
+<p>J. Henry Denning, of Seattle, Washington,  For Petitioner.
+Clay Allen, U.S. District Attorney, For Government.
+NETERER, District Judge:</p> 
+<p>Petitioner was indicted in the District Court for the Dis-
+trict of the Territory of Alaska, Fourth Judicial District, for
+violation of Section 195 of the Criminal Code; was arraigned, 
+pleaded not guilty, and upon trial before a jury was found guilty
+as charged in the indictment. The defendant was sentenced to one
+year and three months imprisonment in the federal prison at McNeil 
+Island in this district. He has filed his petition for a writ 
+of habeas corpus, alleging that he is unlawfully restrained of
+his liberty by the warden of the prison, and prays that he be
+released and discharged. He claims, First, that no commitment
+was issued upon which he can be legally held, Section 1028 Rev-
+ised Statutes U.S; and Second, that no judgment was, entered upon
+which he could be legally sentenced.</p>
+<p>The first objection is answered by the Supreme Court, In Re
+Wilson, 114 U.S. 417, in which the court held that a certified
+copy of the record of sentence to imprisonment is sufficient to
+authorize the retention of the prisoner without any warrant or
+mittimus. In the instant case the United States Marshal was dir-
+ected in the order of sentence to take the prisoner in custody
+and deliver him to the United States penitentiary at McNeil Island
+in which he was sentenced to be confined for the time given, and
+a certified copy of the order and record of conviction was deliv-
+ered to the warden of the prison. The second objection is disposed
+<pb></pb> 
+by the Supreme Court in Pointer v. U.S., 151 U.S. 396, 
+which holding was followed in Sandy White v. U.S., 164 U.S.
+100. The specific objection of the petitioner is that the order
+of sentence does not state the offense of which he was convicted
+or that he was guilty of any crime. Judgment entered recites 
+as follows:</p>
+<p>"And the court having asked the defendants and each
+of them if there was any reason or cause why judgment
+should not be pronounced, and it appearing to the court
+that no reasonable cause exists why judgment should not
+be pronounced, NOW, THEREFORE, it is the judgment should not
+the law and the sentence of this court that the judgment of
+Thomas L. Thurston be confined in the United States Peni-
+tentiary at McNeil Island for a period of one year and 
+three months, and that he be committed to the United
+States Marshal for the Fourth Division, Territory of
+Alaska, for the execution of this sentence, and said mar-
+shal is hereby ordered to take said defendant Thomas L. 
+Thurston in custody and deliver him to the United States
+penitentiary at McNeil Island, State of Washington as in
+this judgment provided."</p> 
+<p>This judgment is certified by the Clerk of the Court.</p> 
+<p>From the facts as disclosed by the record in this case, 
+it is clear that the crime for which the prisoner was indicted
+and all the proceedings thereon through trial and verdict up to
+conviction and sentence, fully appear in the record, and all
+parts of the record must be considered together, and if a defi-
+ciency in one place can be made up by giving effect to other por-
+tions of the record, it must be done, 1st Bishop Criminal Procedure, 
+Sections 1347-1348, Pointer v; U.S., supra, and the failure in 
+the sentence to name the crime for which the prisoner is sentenced 
+is not fatal where this is supplied by reference to other parts 
+of the record of the trial, Pointer v. U.S. supra, and this mani-
+festly appears from the record in this case.</p> 
+<p>The petition for writ will be denied.</p>  
+<pb></pb>
+<p>No. 3128.</p> 
+<p>IN THE DISTRICT COURT 
+OF THE UNITED STATES 
+FOR THE 
+WESTERN DISTRICT OF WASHINGTON
+Northern Division.</p> 
+<p>FILED IN THE 
+U.S. District Court, 
+Western Dist. of Washington, 
+NORTHERN DIVISION 
+JAN 6 - 1916
+FRANK L. CROSBY, Clerk, 
+By Edm Deputy 
+2x</p>  
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

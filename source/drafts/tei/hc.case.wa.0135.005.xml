@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington V. Wilson D. Coyle. Type of document</title>
+<title>Territory of Washington V. Wilson D. Coyle. Sheriff Return </title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Type of document</title>
+<title level="m" type="main">Territory of Washington V. Wilson D. Coyle. Sheriff Return </title>
 <date when="1885-07-03">July 3rd, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -79,15 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1885-07">July 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Whittier, E. F.</term>
+<term>Clements, D. A.</term>
+<term>Johnston, Charles B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Spokane Falls, Washington</term>
+<term>Spokane County, Washington</term>
 </keywords>
 
 </textClass>
@@ -107,7 +110,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Turner, George</persName>
 </person>
 </listPerson>
             
@@ -135,36 +138,41 @@
 <div1 type="case">
 
 <pb facs="hc.case.wa.0135.005"/>
-<p>Territory of Washington}
-County of Spokane} </p>
+<p>1538</p>
+ 
+<p>Territory of Washington
+vs.
+Willis D. Coyle</p>
 
-<p>W.D. Coyle being 
-first duly sworn at
-oath says that he is
-the identified person named in the foregoing
-petition as petitioner.</p>
-<p>That he knows the contents of said petition
-and that the facts therein stated are true.</p>
-<p>Wilson D. Coyle</p>
+<p>Filed July 20 1885
+D.A. Clement
+Clerk
+By. Chas B. Johnston 
+Deputy</p>
 
-<p>Subscribed and sworn to before me this third
-day of July 1885</p>
-<p>H.W. Knox
-Notary Public</p>
 
-<p>To the clerk of the District
-Court</p>
-<p>Let the writ issue
-according to W Coyle of 
-the petition responsible before
-me at chambers in the city
-of Spokane Falls at one o'clock
-P.M. this day July 3 1885
-George Turner
-Judge</p>
+<p>Territory of Washington
+County of Spokane}ss</p>
+
+<p>I E.F. Whittier Sheriff
+of Spokane County, do hereby certify that
+the within writ of Habeas Corpus came into
+my hands on the third day of July 1885 
+and on the same day, I did convey the said
+Willis D Coyle to Spokane Falls, and then
+and there I did bring the said Willis
+D Coyle, before the Hon George Turner Judge
+of the fourth Judicial district holding
+court in Chambers in Spokane Falls
+Washington Territory and the within writ
+Commanded me to do.
+E.F. Whittier
+Sheriff of Spokane County W.T.</p>
+
 
 </div1>
     
 </body>
 </text>
 </TEI>
+

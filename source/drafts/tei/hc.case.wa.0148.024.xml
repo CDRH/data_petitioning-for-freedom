@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Triplicate</title>
-<date when="1904">June 30, 1904</date>
+<date when="1904-06-30">June 30, 1904</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note>
 </bibl>
 <msDesc>
@@ -79,52 +79,57 @@
 </keywords>
  
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1904-06"></date>June 1904</term>
 </keywords>
    
 <keywords scheme="lcsh" n="people">
 <term>Avres, A. Reeves</term>
-<term>Lavin, James P.</term>
-<term>Fevre, Yvonne Le</term>
-<term>Halker, KB</term>
+<term>Halker, K. B.</term>
 </keywords>
  
 <keywords scheme="lcsh" n="places">
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
  
 </textClass>
            
-<particDesc>  
-<listPerson>           
+<particDesc>   
+<listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, James P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt, H. B.</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
-           
+            
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
-</listOrg>  
-</particDesc>
+</listOrg>   
+</particDesc> 
 </profileDesc>
-       
-<revisionDesc>        
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+        
+<revisionDesc>         
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
  
 </teiHeader>
@@ -153,16 +158,16 @@ USE AND SECURITY.</p>
 <p>Seattle, Wash., AUG-2 1904, 190</p>
  
 <p>I certify that A. Reeves Ayres, Clerk US Circuit Court
-has this day deposited to the Credit of the TRESURY OF THE UNITED STATES
+has this day deposited to the Credit of the TRESURER OF THE UNITED STATES
 One Thousand Dollars,
 on account of Forfeited Bail Money Cause #1078 Jas P. Lavin
-Immigrant Inspector et al US Yuonne Le Fevre et al
+Immigrant Inspector et al vs. Yvonne Le Fevre et al
 for which I have signed triplicate receipts.</p>
  
 <p>KB Halker
 Cashier.</p>
  
-<p>$100.00</p>
+<p>$1000.00</p>
  
 <p>2-2702</p>
 </div1>

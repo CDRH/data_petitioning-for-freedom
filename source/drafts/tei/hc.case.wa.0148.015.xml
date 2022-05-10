@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Assignment of Errors</title>
-<date when="1903">March 5, 1903</date>
+<date when="1903-03-05">March 5, 1903</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,22 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1903-03"></date>March 1903</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Lavin, James P.</term>
-<term>Angelique, M.</term>
-<term>Fevre, Marie Le</term>
-<term>Fevre, Yvonne Le</term>
-<term>Normand, Georgette</term>
-<term>Cushman, Edward E.</term>
-<term>Avres, A. Reeves</term> 
-<term>Statiherd, H.M.</term>
+<term>Ayres, A. Reeves</term> 
+<term>Walthew, H.M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Victoria, British Columbia</term>
 </keywords>
 
 </textClass>
@@ -102,33 +98,38 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, Jampes P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,8 +150,9 @@ NORTHERN DIVISION.</p>
 <p>In the Matter of the Application 
 of James P. Lavin and Sister Superior
 M. Angelique, for a Writ 
-of Certiorari}
-No. 1078
+of Certiorari}</p>
+
+<p>No. 1078
 Assignment of Errors.</p>
 
 <p>In the matter of the Application 
@@ -158,34 +160,36 @@ of Yvonne Le Fevre, Georgette
 Normand and Marie Le Fevre for a 
 Writ of Habeas Corpus</p>
 
-<p>The petitioners in this action, James P. Lavin and Sisiter
-Superior M, Angelique in connection with their appeal by their 
+<p>The petitioners in this action, James P. Lavin and Sister
+Superior M. Angelique in connection with their appeal by their 
 Attorney, Edward E. Cushman, Assistant United States Attorney,
 make the following assignment of errors, which occupied upon the 
 trial and in this cause.</p>
 
-<p>1st. The court is its order and judgment of Februrary 
-19th erred in concluding as a matter of law, that the only ection
-warranted by the respondent your petitioners) and the goverment
-and its officers under the facts disclosed by the retun, was
+<p>1st. The court in its order and judgment of Februrary 
+19th erred in concluding as a matter of law, that the only action
+warranted by the respondent (your petitioners) and the goverment
+and its officers under the facts disclosed by the return, was
 the return of the applicats for habeas corpus to Victoria, B.C.</p>
 
 <p>2nd. The court erred in its said order and judgment in 
 attaching the condition to the order of remand directing your
-petitioner to what country to retun the applicats for habeas corpus.</p>
+petitioner to what country to return the applicats for habeas corpus.</p>
 
 <p>3rd. The court furhter erred after the showing made by 
-the supplementary return, that the Secretary of the Tresury had
+the supplementary return, that the Secretary of the Treasury had
 made and issued his warant of deportation of said applicats to 
 France in refusing to modify its judgment and order of February 
 19th, and simply made its judgment and order of February 
-applicats tothe custody of James P. Lavin</p>
+applicants tothe custody of James P. Lavin.</p>
+
+<p>-1-</p>
 
 <pb/>
 
 <p>4th. THe court further erred in assuming authority and
 jurisdiction to determine and adjudge to what country or countries
-the applicats should be depoted after the showing made in the 
+the applicats should be deported after the showing made in the 
 supplementary return; that the Secretary of the Tresury had 
 excercised his authority and jurisdiction on that question.</p>
 
@@ -200,16 +204,21 @@ Assistant United States Attorney.</p>
 
 <pb/>
 
-<p>HO 10778</p>
+<p>TX</p>
+
+<p>no 10778</p>
 
 <p>In the Circuit Court
-of the United States &amp;
-In District of Washington</p>
+of the United States for
+District of Washington</p>
 
-<p>James P. Lavin &amp; et all
-Suspends the <unclear></unclear>
+<p>James P. Lavin &amp; Sister
+Superior M Angelique
+
 Appeallents
+
 vs
+
 Yvonne Le Fevre et al
 Respondents</p>
 
@@ -220,10 +229,9 @@ U.S. Circuit Court
 DIST. OF WASHINGTON.
 MAR 5 1903
 A. REEVES AYRES, Clerk
-HM Statiherd Dep.</p>
+HM Walthew Dep.</p>
 </div1>
 
-</div1>
     
 </body>
 </text>

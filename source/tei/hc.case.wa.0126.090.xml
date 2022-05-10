@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0126.090">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sterling P. White v. John Cody. Sheriff Fees</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0126.090</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sterling P. White v. John Cody. Sheriff Fees</title>
+<date when="1885-04">April 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1537-08</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-04">April 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Hall, O.</term>
+<term>Howard, J. H.</term>
+<term>Peters, C. R.</term>
+<term>Chilton, Henry</term>
+<term>Wynfeld, Frank</term>
+<term>Taylor, Frank</term>
+<term>Tyler, J. J.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sprague, Washington</term>
+<term>Yakima, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, Sterling P.</persName>
+</person>
+<person role="defendant">
+<persName>Cody, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Smallwood, W. H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Benson, E. F.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hyde, S. C.</persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-01" who="lkw"> review</change>  
+<change when="2021-09" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0132.008"/>
+<p>Sheriffs Fees John Cody Sheriff</p>
+
+<p>To Board holding of prisoner at Sprague 4 days 8.00<lb/>
+" Fare from Sprague to Yakima 13.00<lb/>
+" guarding prisoner 4 days 12.00<lb/>
+" mileage from Sprague to Yakima return 440 miles 44.00  77.00<lb/>
+Sheriffs Fees J.J. Tyler Yakima County-<lb/>
+To board of prisoner 45 days @ 1.00 25.00  25.00</p>
+
+<p>Cost in Justice Court
+Justice Fees O. Hall</p>
+
+<p>To issuing warrant 1.00<lb/>
+" " 1 subpoena .25<lb/>
+" admministering to rates 15 each .90<lb/>
+" filing 3 papers 15 " .45<lb/>
+" taxing cost .50<lb/>
+" commitment .50<lb/>
+" approving bond of witness .50<lb/>
+" 8 1/2 folios certified copy preceedings 1.80  5.90</p>
+
+<p>Constable Fees J.S. Howard</p>
+
+<p>To serving warrant &amp; mileage 6.60<lb/>
+" mileage commitment mileage 4.00<lb/>
+" guard 3 days @ 2.00 6.00<lb/>
+" commitment 1.00<lb/>
+" Boarding prisoners 2 days 1.00 2.00<lb/>
+" team conveying prisoners property to justice 8.00<lb/>
+" " " " " to jail 4.00  31.60</p>
+
+<p>To amt brought fowd.</p>
+
+<pb/>
+
+<p>Amt. brot fowd</p>
+
+<p>C. R. Peters acting constable 4.00<lb/>
+To boarding prisoner one day @ 1.00 1.00<lb/>
+" witness fees one day 2.00  $7.00<lb/>
+Henry Chilton assisting constable four days 4.00<lb/>
+Witness fees one day 2.00<lb/>
+mileage 2 miles .20  6.20<lb/>
+Frank Wynfeld Witness 1 day 2 miles 2.20 2.20<lb/>
+Frank Taylor " " 10 " 3.00 3.00</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

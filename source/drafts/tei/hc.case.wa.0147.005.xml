@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. EXHIBIT B.</title>
+<title>Gladys Fredrika Fuson v. Territory of Washington. List of Deputies</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. EXHIBIT B.</title>
-<date></date>
+<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. List of Deputies</title>
+<date when="1916">October 27, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,13 +79,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1916-10"></date>October 1916</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fuson, Gladys Fredrika</term>
-<term>Mason, Blanche H.</term>
-<term>McDonald, Federika</term>
+<term>Brackett, S.M.</term>
+<term>Carmody, John D.</term>
+<term>Ewing, Edwin C.</term>
+<term>Barto, Joseph A.</term>
+<term>Ellis, Everett C.</term>
+<term>Summers, Lane</term>
+<term>Palmer. Erven H.</term>
+<term>Patterson, T.H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,27 +108,30 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wilson, P.H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Alfred H. Lundin,</persName>
+<persName>Frank P. Helsell</persName>
 </person>
 <person role="judge">
 <persName>Dykeman, King</persName>
+<persName>Cushman, Joseph</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The District Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,38 +146,45 @@
 
 <pb facs="hc.case.wa.0147.005"/>
 
-<p>EXHIBIT B.</p>
+<p>Prosecuting Attorney, King County Washington</p>
 
-<p>IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON FOR THE COUNTY OF 
-KING</p>
+<p>ALFRED H. LUNDIN
+DEPUTIES
+FRANK P. HELSELL
+S.M. BRACKETT
+JOHN D. CARMODY
+EDWIN C. EWING
 
-<p>JUVENILE COURT</p>
+JOSEPH A. BARTO
+ 
+EVERETT C. ELLIS
+LANE SUMMERS
+ERVEN H. PALMER
+T.H. PATTERSON</p>
 
-<p>IN THE WELFARE OF 
-GLADYS HAUCK-FUSEN
-Delinquent} NO.4385 
-ORDER MAKING WARD OF COURT 
-AND AUTHORIZING DETENTION.</p>
+<p>SEATTLE October 27, 1916.</p>
 
-<p>Now, on this 25th day of October, 1916, this matter
-coming on regularly for hearing upon petition of Blanche H. Mason
-in behalf of Gladys Hauck-Fusan, a child; the Courth after
-hearing the ecidence and being fully advised in the premises finds
-that the said Gladys Hauck-Fausan is a delinquent child whithin the 
-meaning of the law; and it appearing to the Court that her father
-is dead, and the whereabouts of her mother, Federika McDonald, are 
-unknown, and that the said child has been living about the community
-of Seattle without parental care and control and under social conditions 
-which jeopardise her moral welfare;</p>
+<p>Hon. E.E. Cushman. 
+Judge U.S. Dist. Court,
+Tacoms, Washington.</p>
 
-<p>IT IS THEREFORE ORDERED by the Court that the said Gladys 
-Hauck-Fusen be and remain a ward of the Court; and</p>
+<p>Dear Sir:
+In the matter of the application of Gladys Fuson 
+for writ of habeas corpus, we beg leave to submit to you
+list of authorities cited in Section 22 and 23 of Bailey
+on Habeas Corpus, as follows:</p>
 
-<p>IT IS FURTHER ORDERED that she remain in the custody of 
-the County Detention Home subject to the further order of the Court.</p>
+<p>Carfer vs. Caldwell. 200 U.S.,293; 30 Law ed.488
+Ex party Royal, 117 U.S., 254;
+In re Lincoln, 202 U.S., 178; 50 law Ed. 984;
+New York vs. Eno, 155 Wash., 89; 39 Law ed. 80.</p>
 
-<p>KING DYKEMAN
-Judge</p>
+<p>Respectfully,
+Frank P Helsell
+Chief Deputy Prosecuting Attorney</p>
+
+<p>FPH-EF</p>
+
 </div1>
     
 </body>
