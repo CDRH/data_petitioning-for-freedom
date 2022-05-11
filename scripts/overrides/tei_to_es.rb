@@ -54,11 +54,10 @@ class TeiToEs
   #   # TODO
   # end
 
-  def keywords
-    # for now, since not using keywords for other things
-    # adds the "case id" to this field for filtering purposes
-    caseid = @id[/hc.case.\d{4}/]
-    [ caseid ] if caseid
+  def source
+    #regex to determine case_id from filename, just strip off last part
+    caseid = @id[/hc.case.[a-z]{2}.\d{4}/]
+    caseid
   end
 
   def language
@@ -73,14 +72,21 @@ class TeiToEs
 
   def person
     eles = @xml.xpath(@xpaths["person"])
-    people = eles.map do |p|
-      {
-        "id" => "",
-        "name" => get_text("persName", xml: p),
-        "role" => get_text("@role", xml: p)
-      }
+    # find people who actually exist, removing the blank templated ones
+    people = eles.select do |p| 
+      name = get_text("persName", xml: p)
+      name && name.length > 0
     end
-    return people
+    # create hash for ES
+    people = people.map do |p|
+      name = get_text("persName", xml: p)
+        {
+          "id" => "",
+          "name" => name,
+          "role" => get_text("@role", xml: p)
+        }
+    end
+    people
   end
 
   # TODO rights_uri, and rights_holder?
