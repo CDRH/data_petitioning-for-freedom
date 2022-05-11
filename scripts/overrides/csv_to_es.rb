@@ -19,18 +19,9 @@ class CsvToEs
         @json["sites_of_significance_k"] = JSON.parse(@row["Site(s) of Significance"])
       end
       @json["points_of_law_k"] = @row["Points of Law Cited"]
-      # I am leaving all the extra person fields as arrays for now, and Orchid can match them up with the correct people.
-      # @json["person_age_k"] = @row["Person Age Category"]
-      # @json["person_date_k"] = @row["Person Date"]
-      # @json["person_immigrant_k"] = @row["Person Immigrant Status"]
-      # @json["person_race_k"] = @row["Person Race"]
-      # @json["person_sex_k"] = @row["Person Sex"]
-      # @json["person_tags_k"] = @row["Person Tags"]
-      # @json["person_notes_k"] = @row["Person Notes"]
-      # @json["person_relationships_k"] = @row["Person Relationships"]
-      # @json["person_related_to_k"] = @row["Person Relatees"]
 
       if @row["Petitioners"]
+        # using this for people for now. may add more fields later.
         @json["petitioners_k"] = JSON.parse(@row["Petitioners"])
       end
 
@@ -106,58 +97,6 @@ class CsvToEs
 
     def person
       # TODO waiting for a finalized airtable setup
-#       # only includes name and case role, due to limitations of API
-#       list = []
-#       if @row["Person Participants"]
-#         @row["Person Participants"].split(/; */).each_with_index { |name, index|
-#           person = { 
-#             "name" => name 
-#             # "role" => @row["Person Case Roles"].split(/; */)[index], 
-#             # "race_or_ethnicity" => @row["Person Race or Ethnicity"].split(/; */)[index],
-#             # "sex" => @row["Person Sex"].split(/; */)[index],
-#             # "date_of_birth" => @row["Person Date of Birth"].split(/; */)[index],
-#             # "additional_information" => {
-#             #   "age_category" => @row["Person Age Category"].split(/; */)[index],
-#             #   "immigrant_status" => @row["Person Immigrant Status"].split(/; */)[index],
-#             #   "tags" => @row["Person Tags"].split(/; */)[index],
-#             #   "notes" => @row["Person Notes"].split(/; */)[index]
-#           }
-#             if @row["Person Case Roles"]
-#               person["role"] = @row["Person Case Roles"].split(/; */)[index]
-#             end
-#             if @row["Person Race or Ethnicity"]
-#               person["race_or_ethnicity"] = @row["Person Race or Ethnicity"].split(/; */)[index]
-#             end
-#             if @row["Person Sex"]
-#               person["sex"] = @row["Person Sex"].split(/; */)[index]
-#             end
-#             if @row["Person Date of Birth"]
-#               person["date_of_birth"] = @row["Person Date of Birth"].split(/; */)[index]
-#             end
-#             person["additional_information"] = {}
-#             if @row["Person Age Category"]
-#               person["additional_information"]["age_category"] = @row["Person Age Category"].split(/; */)[index]
-#             end
-#             if @row["Person Immigrant Status"]
-#               person["additional_information"]["immigrant_status"] = @row["Person Immigrant Status"].split(/; */)[index]
-#             end
-#             if @row["Person Tags"]
-#               person["additional_information"]["tags"] = @row["Person Tags"].split(/; */)[index]
-#             end
-#             if @row["Person Notes"]
-#               person["additional_information"]["notes"] = @row["Person Notes"].split(/; */)[index]
-#             end
-#           list << person 
-#         }
-#       end
-#       if @row["Additional Parties"]
-#         @row["Additional Parties"].split(/; */).each { |name|
-#           person = { "name" => name, "role" => "Additional Party" }
-#           list << person
-#         }
-
-#       end
-#       list
     end
   
 
@@ -199,8 +138,8 @@ class CsvToEs
     end
 
 		def spatial
+      #TODO will the revised Airtable still pick up these fields?
 			place = { "city" => @row["Location city"], "county" => @row["Location county"], "state" => @row["Location state"], "place_name" => @row["Location name"]}
-
 			place
 		end
 

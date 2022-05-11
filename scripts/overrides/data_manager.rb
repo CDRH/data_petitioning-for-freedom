@@ -1,5 +1,8 @@
 class Datura::DataManager
   def pre_file_preparation
+    # inputting and outputting hashes with cases and associated docuemnts
+    # there are two hashes because it reads in one that was previously created, 
+    # and creates one as it reads in the data, which will be outputted as json
     @out_json = File.join(@options["collection_dir"], "source", "json")
     filepath = "#{@out_json}/case_documents.json"
     case_json = File.read(filepath)
@@ -10,8 +13,7 @@ class Datura::DataManager
     # elasticsearch
     if should_transform?("es")
       if @options["transform_only"]
-        # TODO transformation is not treated the same way here as in
-        # most post methods, so having to use try catch block
+        # For this project, need to send the hashes of cases and documents to transform
         begin
           res_es = file.transform_es(@old_case_documents, @new_case_documents)
         rescue => e

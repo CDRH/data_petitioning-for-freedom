@@ -35,9 +35,11 @@ class FileCsv < FileType
     end
 
     def row_to_es(headers, row, table, case_docs)
+      # process the cases and people tables with different overrides
       if table == "cases"
         puts "processing " + row["Case ID"]
         new_row = CsvToEs.new(row, options, @csv, self.filename(false)).json
+        # add document ids here, since it is difficult to pass data to the override
         new_row["document_ids_k"] = case_docs[new_row["identifier"]]
         new_row
       elsif table == "people"
