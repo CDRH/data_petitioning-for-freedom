@@ -1,17 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>Subpoena
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0139.011">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington V. E. Romick. Jury Verdict</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0139.011</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington V. E. Romick. Jury Verdict</title>
+<date when="1885-02-27">February 27th, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1538-05</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-02">February 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Bassett, C. F.</term>
+<term>Meyer, George H.</term>
+<term>Wardlow, C. J.</term>
+<term>Cody, John</term>
+<term>Maloney, M. J.</term>
+<term>Ryan, Jason W.</term>
+<term>Maloney, J. J.</term>
+<term>Skelton, W. R</term>
+
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Sprague, Washington</term>
+<term>Yakima City, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Romick, E.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Hyde, S. C.</persName>
+<persName>Smallwood, W. H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Sullivan, Caton</persName>
+<persName>Roadman, T. S.</persName>
+</person>
+<person role="judge">
+<persName>Pendleton, E. G.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District</orgName>
+<placeName>Spokane, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-04" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0139.011"/>
+<p>Docket entries-
+Feb. 26 
+1885
 Territory of Washington
-County of Lincoln}ss
-To Jerry Cavanaugh
-In the name of the United States, you are hereby required to appear before
-the undersigned, one of the Justices of the Peace in and for said County, on the 
-forthwith day of 188 at o'clock
-M., at his office in Sprague W.T.
-to give evidence in a certain cause then and there to be tried between the
-Territory of Washington PLaintiff and
-E. Romick Defendant, on the part of the
-Territory
-Given under my hand this 27th day
-of February 1885
-E.G. Pendleton
-Justice of the Peace</p>
+vs.
+E. Romick}</p> 
+<p>Criminal action</p>
+<p>Action brought upon affidavit
+J P Weymouth saying
+one E. Romick with the crime
+of stealing (5000.) Five thousand
+cigars, the property of one <unclear></unclear>
+complaint filed Feb 26 1885</p>
+<p>Warrant said: " " "
+W. H. Smallwood Pros. Atty.
+Case called at 4:30 P.M. Feb. 27th
+Personally appeared defendant
+also Pltff by Pros Atty for
+Dist. One motion of Pros.
+Atty connected by defendant
+council, case was continued
+until 7 PM same day.</p>
+<p>Case called at 7 PM.
+Personally offered defendant
+also council on both sides.
+S.C. Hyde &amp; W.H. Smallwood for
+Jury. and Cat Sullivan and
+T S Roadman for defendant
+following witnesses are
+sworn and testified in
+small of the Territory.</p>
+<p>C F Bassett. Geo H. Meyer</p>
+
+<pb/>
+
+<p>C J Wardlow, Jno Cody M.J.
+Maloney Jas W Ryan H.J. <unclear></unclear>
+Prosecution rests.</p>
+
+<p>Counsil for defendant had
+following witnesses sworn
+J.J. Maloney. W R Shelton
+J C Burns.</p>
+
+<p>After which the case was
+opened and submitted. The 
+court after due deliberation
+finds that there is justifiable 
+cause for guilt.</p>
+<p>Therefore it is ordered a
+and adjudged by the court 
+that the defendant E. Romick
+be held &amp; appear at the court
+at the District Court holding
+terms at Yakima City Yakima
+County W.T. in the sum of
+Five Hundred dollars for
+default of which he is com-
+mitted to the jail in
+Yakima County</p>
+<p>Given under my
+hand this 27 day of <del>March</del>
+February 1885. <unclear></unclear>E.G. Pendleton
+J.P.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>

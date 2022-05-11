@@ -47,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand v. M. Angelique. Order</title>
-<date when="1904">January 7, 1904</date>
+<date when="1904-01-07">January 7, 1904</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,15 +79,12 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1904-01"></date>January 1904</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Angelique, M.</term>
-<term>Lavin, James P.</term>
-<term>Avres, A. Reeves</term> 
-<term>Statiherd, H.M.</term>
-<term>Frye, Jesse A.</term>
+<term>Ayres, A. Reeves</term> 
+<term>Walthew, H.M.</term>
 <term>Gay, Wilson R.</term>
 </keywords>
 
@@ -100,33 +97,39 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Le Fevre, Yvonne Le Fevre, &amp; Georgette Normand</persName>
+<persName>LeFevre, Marie</persName>
+<persName>LeFevre, Yvonne,</persName>
+<persName>Normand, Georgette</persName>
 </person>
 <person role="defendant">
 <persName>M. Angelique</persName>
+<persName>Lavin, James P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gill, H. C.</persName>
+<persName>Hoyt, H. B.</persName>
+<persName>Frye, Herman S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Cushman, Edward E. </persName>
+<persName>Frye, Jesse A.</persName>
 </person>
 <person role="judge">
-<persName>Hanford, C.H.</persName>
+<persName>Hanford, Cornelius H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>The United States Circuit Court for the District of Washington</orgName>
+<placeName>District of Washington, Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,15 +149,16 @@ NORTHERN DIVISION.</p>
 
 <p>In the Matter of the Petition
 of James P. Lavin and Sister 
-Angelique for a Writ of Certiorari}
-No. 1078
+Angelique for a Writ of Certiorari}</p>
+
+<p>No. 1078
 Order</p>
 
 <p>On reading and filing the mandate of the United States Circuit
 Court of Appeals for the Ninth Circuit in this cause, bearing date the 
-4th day of December, 1903, and in obedience to say mandate, and in 
+4th day of December, 1903, and in obedience to said mandate, and in 
 organization with the opinion of the said United States Circuit Court of
-Appeals, it is hereby ordered, adjudgment and decreed that the order and
+Appeals, it is hereby ordered, adjudged and decreed that the order and
 judgment made in said cause on the 19th day of February, 1903, and the 
 order and judgment made in said cause on the 5th day of March, 1903, be 
 and each of them is hereby vacated and set aside.</p>
@@ -163,7 +167,7 @@ and each of them is hereby vacated and set aside.</p>
 corpus issued in this matter on the 13th day of February, 1903, be and 
 the same is hereby quashed.</p>
 
-<p>And it is further ordered and sdjudged that the appellees be, and 
+<p>And it is further ordered and adjudged that the appellees be, and 
 they are hereby remanded to the custody of James P. Lavin, Immigrant
 Inspector.</p>
 
@@ -179,6 +183,8 @@ acknowledged this day
 of, 189
 Attorney for</p>
 
+<p>TX</p>
+
 <p> Form No. 499
 No 1078</p>
 
@@ -188,24 +194,24 @@ No 1078</p>
 OF THE UNITED STATES
 FOR THE 
 DISTRICT OF WASHINGTON
-<unclear></unclear> Division.</p>
+Northern Division.</p>
 
 <p><del>THE UNITED STATES
 VS.</del>
-Jame Jas P. Larvin</p>
+Jame Jas P. Lavin</p>
 
 <p>Order</p>
 
 <p>FILED IN THE 
-U.S. CIRCUIT COURT
+U.S. CIRCUIT COURT,
 DIST. OF WASHINGTON.
 JAN 7 1904
-A. REEVES AVRES, Clerk
-HMSStatiherd Deputy</p>
+A. REEVES AYRES, Clerk
+HM Walthew Deputy</p>
 
-<p>Jresse A. Frye</p>
+<p>Jesse A. Frye</p>
 
-<p>Wilson R. Gay,
+<p><del>Wilson R. Gay,</del>
 UNITED STATES ATTORNEY,
 SEATTLE, WASHINGTON</p>
 </div1>

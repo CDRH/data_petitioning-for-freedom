@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0224.016">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>Lewis Johnson v. John M Boyle, United States Marshal. Exhibits.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0224.016</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">Lewis Johnson v. John M Boyle, United States Marshal. Exhibits.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,29 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1915-07">June 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>John K. Kennedy</term> 
+<term>Lewis Johnson</term>
+<term>Lewis Johnston</term> 
+<term>John Prichard</term> 
+<term>Lewis Prichard</term> 
+<term>William Cruikshank</term>
+<term>Robert Tate</term>  
+<term>Frankie Russel</term>
+<term>McLachlin</term> 
+<term>Garnett</term>  
+<term>John Whitlock</term>
+<term>William McRae</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Vancouver, British Columbia, Canada</term>
+<term>Great Britian</term> 
+<term>Seattle, Washington, United States</term> 
+<term>Washington, District of Columbia</term>
 </keywords>
 
 </textClass>
@@ -94,33 +108,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Lewis Johnson</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>John M. Boyle</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Hammond and Hammond</persName> 
+<persName>George R. Tennant</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Winter S. Martin</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court, For the Western District of Washington, Northern Division</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-03" who="#xxx">transcribed and encoded</change>
+<change when="2022-03" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,151 +149,6 @@
 <div1 type="case">
 
 <pb/>
-<p>UNITED STATES DISTRICT COURT
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION</p> 
-<p>In the Matter of the Application
-of LEWIS JOHNSON, for a Writ of
-Habeas Corpus. } No.3077.</p> 
-<p>RETURN.</p> 
-<p>Comes now John M. Boyle, United States Marshal for
-the Western District of Washington, and makes his return
-to the petition for a writ of habeas corpus in the above
-entitled cause by Winter S. Martin, Assistant United
-States Attorney for the said district, and thereupon
-your respondent replies, alleges and avers as follows:</p> 
-<p>-I-</p> 
-<p>That the respondent is without sufficient informa-
-tion to make answer to the allegation of citizenship of
-the said Lewis Johnson, and therefore requires the peti-
-tioner to prove the same, if the said fact be material
-to the issue raised herein.</p> 
-<p>-II-</p>
-<p>Respondent admits the second paragraph of the peti-
-tion.</p> 
-<p>-III-</p> 
-<p>Respondent admits all the matters and things charged
-in paragraph three of the petition concerning the cause
-of detention of the petitioner by the respondent, except
-that petitioner is held upon irregular, illegal and void
-process in said cause, and as to said fact of illegal
-<pb></pb> 
-detention denies the same.</p> 
-<p>-IV-</p> 
-<p>Respondent denies the last paragraph of the the petition.</p> 
-<p>AS AN AFFIRMATIVE DEFENSE SAID RESPONDENT ALLEGES:</p> 
-<p>-I-</p> 
-<p>That on the 22nd day of June, A.D. 1915, John K.
-Kennedy, Barrister at Law for the city of Vancouver,
-in the Province of British Columbia, and Crown Prosecutor
-for the said city, appeared before the Honorable John C.
-Whitlock, United States Commissioner in and for the said
-Western District of Washington, in the Northern Division
-thereof, at Seattle, and made oath to a complaint in
-affidavit form, a copy of which is attached hereto and
-marked exhibit "A" of this return. That immediately
-thereafter and in pursuance thereof, the said John C.
-Whitlock issued his warrant of arrest for the said defend-
-ant, who was then confined in the city jail in the city of
-Seattle, under process which had theretofore issued by
-the state of Washington, charging the defendant then and
-theretofore with having brought stolen property into the
-United States and into King County in said state. That
-said warrant of arrest was served upon the said defendant-
-petitioner, and thereafter he was brought before the said
-John C. Witlock, United States Commissioner, to answer
-the complaint of the said John K. Kennedy.</p> 
-<p>-II-</p> 
-<p>That during the hearing of the said cause before said
-Commissioner, John K. Kennedy was duly sworn as a witness
-and offered evidence under oath concerning his authority 
-<pb></pb>
-to represent the Dominion of Canada for the extradition
-and return of the petitioner to Vancouver, in the Province
-of British Columbia, in said Dominion, upon the charge of
-larceny committed at said Vancouver, as set forth in the
-complaint. That after evidence showing his authority to
-represent said Dominion of Canada had been offered, there
-was then introduced at said hearing depositions of certain
-witnesses whose testimony had been taken before a Police
-Magistrate in the city of Vancouver, which said depositions
-were in due form, under oath before the said Police Magis-
-trate, at said Vancouver, and thereafter duly authenticated
-and visaed by the proper consular officers, all as required
-by Section 5271 of the Revised Statutes of the United
-States. That thereafter testimony was offered by William
-McRae, Deputy Police Constable of said Vancouver, to
-identify the said Lewis Johnson, then and there before the
-Commissioner, as the Lewis Johnson mentioned in the depo-
-sitions taken at Vancouver aforesaid. That thereupon the
-demanding government rested its case, and the defendant
-having then and there the opportunity to produce evidence
-in his own behalf, and then and there being represented
-by counsel, failed to offer any evidence to refute or con-
-tradict the evidence offered by the said Dominion of Can-
-ada, and thereupon the said John C. Whitlock, United States
-Commissioner, found probable cause to hold the said Lewis
-Johnson to await the action of the Secretary of State of
-the United States, all as provided under Section 5270 of the
-Revised Statutes of the United States.</p>
-<p>-III-
-That thereafter the evidence taken before the said</p> 
-<pb></pb> 
-<p>Commissioner was transcribed and typewritten, and attached
-to the original depositions, duly authenticated as afore-
-said, and forwarded to the Secretary of State of the United
-States, under the hand and seal of the said United States
-Commissioner, duly certifying to the said Secretary of
-State that the said document contained all the evidence 
-submitted in said cause before him. That copies of the
-said United States Commissioner's certificates are hereto
-attached and marked exhibits "B" and "C" of this return.</p> 
-<p>-IV-</p> 
-<p>That a copy of the transcript of the oral testimony
-is available at this time for the purpose of this hearing, 
-but the duly authenticated despositions of the witnesses in
-British Columbia, concering the facts of the larceny, 
-have been forwarded to the Secretary of State, at Washing-
-ton, D.C., all as required by said Section 5270 of the
-Revised Statutes, and unless copies of these depositions 
-can be used in lieu of said originals, it will be necessary
-to await the decision of the Secretary of State, if this 
-Honorable Court deems it necessary to produce said original 
-documents upon the hearing of this petition.</p> 
-<p>-V-</p>
-<p>That immediately upon finding probable cause to hold
-the said Lewis Johnson, said John C. Whitlock, United
-States Commissioner, issued his final mittimus remanding 
-the prisoner, Lewis Johnson, to the King County Jail, to
-await the action of the Secretary of State of the United 
-States, all as required by said Section 5270 of the Revised
-Statutes, and respondent alleges that all and singular the
-proceedings in the matter of the detention of Lewis Johnson,</p>
-<pb></pb> 
-<p>a fugitive from justice from the city of Vancouver, charged
-with an extraditable crime committed at said Vancouver,
-were regular and proper, and the defendant lawfully com-
-mitted to custody thereunder.</p> 
-<p>WHEREFORE, your respondent having duly answered to 
-said writ, prays that the same may be dismissed, and that
-he have and recover his costs, fees and disbursements
-herein.</p> 
-<p>Winter S. Martin
-Attorney for Respondent.</p> 
-<p>THE UNITED STATES OF AMERICA
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION } ss.</p> 
-<p>Winter S. Martin being first duly sworn on oath, 
-deposes and says: That he is an Assistant United States
-Attorney for the Western District of Washington, and
-attorney for the respondent herein; that he has read the
-foregoing return, knows the contents thereof and that the
-same is true as he verily believes.</p> 
-<p>Winter S Martin</p> 
-<p>Subscribed and sworn to before me this 22nd day of 
-July, 1915.</p> 
-<p>Edm Lakin</p> 
-<pb></pb> 
 <p>Exhibit "A"</p> 
 <p>COMPLAINT IN EXTRADITION.</p>
 <p>THE UNITED STATES OF AMERICA
@@ -410,7 +280,7 @@ this 30th day of June, A.D. 1915.</p>
 for the Western District of
 Washington, at Seattle.</p> 
 <pb></pb> 
-<p>Exhibit "O"</p> 
+<p>Exhibit "C"</p> 
 <p>THE UNITED STATES OF AMERICA
 WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION} ss.</p> 
@@ -434,6 +304,7 @@ said enumerated documents, together with my certificate and
 finding, attached thereto, constitute the entire record in
 said cause.</p> 
 <p>Given under my hand and seal this 30th day of
+\
 June, 1915.</p> 
 <p>United States Commissioner for
 the Western District of Wash-

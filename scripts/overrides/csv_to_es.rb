@@ -19,10 +19,12 @@ class CsvToEs
         @json["sites_of_significance_k"] = JSON.parse(@row["Site(s) of Significance"])
       end
       @json["points_of_law_k"] = @row["Points of Law Cited"]
+
       if @row["Petitioners"]
         # using this for people for now. may add more fields later.
         @json["petitioners_k"] = JSON.parse(@row["Petitioners"])
       end
+
 		end
 		
 		def id
