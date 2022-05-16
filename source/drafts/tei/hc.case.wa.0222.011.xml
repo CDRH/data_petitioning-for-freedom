@@ -100,33 +100,34 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Francis Stephen Medcraf</persName><!-- insert name of petitioner, if a person -->
+<persName>Francis Stephen Medcraf</persName>
 </person>
 <person role="defendant">
-<persName>Frank T. Hodge</persName><!-- insert name of defendant, if a person -->
+<persName>Frank T. Hodge</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<person role="attorney_petitioner">
+<persName>George D. Emery</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Alfred H. Lundin</persName>
+<persName>Frank P. Helsell</persName>    
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Western District of Washington, Northern Division</orgName> 
+<placeName>Seattle, Washington</placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022-05" who="rp">transcribed and encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,7 +138,39 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div1>
