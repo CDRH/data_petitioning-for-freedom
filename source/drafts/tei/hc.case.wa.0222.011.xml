@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title>
+<title>Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+<name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.001</idno>
+<idno type="project">hc.case.wa.0222.011</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,8 +43,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title>
-<date when="1111-11-11">September 2, 2021</date>
+<title level="m" type="main">Francis Stephen Medcraf vs. Frank T. Hodge. Criminal.</title>
+<date when="1915">1915</date>
 <note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
@@ -76,15 +76,23 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term>
+<term><date when="1915-09"></date>September, 1915</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term>
+<term></term>
+
+
+
+
+
+
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -92,10 +100,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName>Francis Stephen Medcraf</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Frank T. Hodge</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
 <persName></persName>
@@ -104,7 +112,7 @@
 <persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             

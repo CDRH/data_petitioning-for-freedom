@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.001</idno>
+<idno type="project">hc.case.wa.0000.00</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petitioner v. Defendant. Type of Document.</title>
-<date when="1111-11-11">September 2, 2021</date>
+<date when="1111-11"></date>
 <note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
@@ -76,15 +76,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term>
+<term><date when="1111-11"></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -92,44 +92,44 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName></persName>
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName></persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName></persName>
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName></orgName> 
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022-05" who="#xxx">transcribed and encoded.</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>
+<text>  
 
 <body>  
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 
 
 </div1>
