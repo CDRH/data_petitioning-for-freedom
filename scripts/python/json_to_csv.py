@@ -11,29 +11,24 @@ AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
 API_KEY = os.environ.get("API_KEY")
 cwd = Path.cwd()
 # download the spreadsheets from command line using airtable_export
-command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Data [join]' 'Relationships [join]' Locations --key={API_KEY} --json"
+command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Data [join]' 'Relationships [join]' --key={API_KEY} --json"
 os.system(command)
 # Get all the spreadsheets' file paths
 cases_relative = "source/json/cases.json"
 # case_role_relative = "source/json/case role [join].json"
-# locations_relative = "source/json/locations.json"
 people_relative = "source/json/people.json"
 # relationships_relative = "source/json/relationships [join].json"
 cases_path = (cwd / cases_relative).resolve()
 # case_role_path = (cwd / case_role_relative).resolve()
-# locations_path = (cwd / locations_relative).resolve()
 people_path = (cwd / people_relative).resolve()
 # relationships_path = (cwd / relationships_relative).resolve()
 # create dataframes for each of the spreadsheets
 cases_frame = pd.read_json(cases_path, orient="records")
-# locations_frame = pd.read_json(locations_path, orient="records")
 people_frame = pd.read_json(people_path, orient="records")
 # case_role_frame = pd.read_json(case_role_path, orient="records")
 # relationships_frame = pd.read_json(relationships_path, orient="records")
 # clean frames of blank entries
 
-# change "[id]" to "id"
-cases_frame["Location of Court"] = cases_frame["Location of Court"].str[0]
 # case_role_frame["Case"] = case_role_frame["Case"].str[0]
 # case_role_frame["Person"] = case_role_frame["Person"].str[0]
 # relationships_frame["person 1"] = relationships_frame["person 1"].str[0]
