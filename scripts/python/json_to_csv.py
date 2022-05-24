@@ -45,7 +45,7 @@ people_frame = people_frame.set_index("airtable_id")
 # merge the frames, this is similar to a SQL join; specify the column names needed
 # cases_frame = cases_frame.merge(locations_frame[["Location", "Location name", "Location city", "Location county", "Location state"]], how = "left", on = "Location")
 # columns to take from the people array
-desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
+# desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
 # go through all these fields and fill them in
 # for field in desired_fields:
 #     # make sure the arrays are delimited by semicolons
@@ -90,7 +90,7 @@ desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant St
 #     cases_frame.loc[cases_frame["airtable_id"] == case_airtable_id, "Person Relatees"] = "; ".join(person_2_list)
 
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
-cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "People", "airtable_createdTime", "airtable_id", "Created", "Encoding Incomplete?"])
+cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "People", "airtable_createdTime", "airtable_id", "Created", "Created By" "Encoding Incomplete?"])
 cases_frame = cases_frame.rename(columns={"Court Type(s)": "Court Type", "Record Type(s)": "Record Type"})
 people_frame = people_frame.drop(columns=["Created", "Last Modified", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2"])
 
