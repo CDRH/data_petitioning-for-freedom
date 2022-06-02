@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>Edward Krause v. Robert W. McClelland. Judge Response to Petition for Habeas Corpus</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0228.003</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Edward Krause v. Robert W. McClelland. Judge Response to Petition for Habeas Corpus.</title><!-- replace with name of case; type of document -->
+<date when="1915">1915</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1915-11"></date>23 November 1915</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>Edward Krause</term>
+<term>J. Grattan O'Bryan</term>
+<term>Clay Allen</term>
+<term>Jeremiah Neterer</term>
+<term>Robert W. McClelland</term>
+<term>Cornelius Hanford</term>
+<term>Marshall Harlan</term>
+<term>Frank L. Crosby</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term>
+<term>Territory of Alaska</term>
+<term>Juneau, Alaska</term>
+<term>District of Columbia</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,35 +103,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName>Edward Krause</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Robert W. McClelland</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>F. Grattan O'Bryan</persName>
+<persName>Kazis Krauczunas</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>William Christie</persName>
+<persName>Winter S. Martin</persName>
+<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court, Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
-
 </teiHeader>
     
 <text>
@@ -130,9 +142,109 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-
-
+<pb facs="hc.case.wa.0228.003"/> <!-- insert number from spreadhseet -->
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON.
+NORTHERN DIVISION.</p> 
+<p>---oOo---</p> 
+<p>In the Matter of the Petition
+of EDWARD KRAUSE for a Writ
+of Habeas Corpus.</p> 
+<p>)()()(</p>
+<p>No. 3166
+Filed November 23, 1915.</p> 
+<p>---oOo---</p> 
+<p>J. Grattan O'Bryan, Seattle, Washington,
+Kazis Krauczunas, Seattle, Washington, )) For Petitioner.</p> 
+<p>Clay ALLEN, United States Attorney,
+Winter S. Martin, Assistant United
+States Attorney;
+Seattle, Washington. )) For Respondent.</p> 
+<p>NETERER, JUDGE:</p>
+<p>The petitioner alleges that he is restrained of his
+liberty by the United States Marshal, who holds him under an
+order of removal to the United States District Court for the
+Territory of Alaska;
+that he was arrested upon a warrant
+issued by Robert W. McClelland, United States Commissioner
+for the Western District of Washington, Northern Division
+upon complaint filed by the United States Distriсt Attorney
+charging the petitioner with the commission of a crime with-
+in the territory of Alaska in violation of Seation 1907 of
+the Compiled Laws of Territory of Alaska, Codified and
+Arranged by Act of Congress of August 84, 1912:that a pre-
+liminary hearing was had and petitioner bound over by the
+Commissioner to the grand jury at Juneau, Alaska; and further
+alleges that if a crime was committed that it was not an
+offense against the laws of the United States, but an offense
+against the laws of the territory of Alaska.</p>
+<p>On presentation of the petition an order was issued</p>
+<pb></pb> 
+<p>and the United States Marshal thereby directed to produce
+the petitioner before the court for such disposition as may
+be directed. Obedient to this order, the petitioner is pro-
+duced in court.</p> 
+<p>The issue presented is whether the petitioner shall
+be removed to the district court of Alaska pursuant to the
+provisions of Section 1014 of the Revised Statutes. Much
+was said upon the argument on both sides as to the applica-
+tion of the provisions of this section to the offense charg-
+ed, and several citations given by the respective parties
+claiming support for the positions assumed.</p> 
+<p>An examination of the complaint upon which the
+warrant was issued and the several provisions of the laws of
+the territory of Alaska, together with the general extradi-
+tion laws enacted by Congress, and expression of the courts
+upon similar issues, I think clarifies the situation.</p>
+<p>It is urged that Judge Hanford held a fugitive from
+Alaska to be removable under the provision of this section.
+This holding it was alleged was in the case of Tiberg v.
+Warren<add>which was appealed to the circuit court and is reported in</add>192 Fed. 458; but an examination of the case shows
+that this question was not an issue, the emphasis upon the
+suggestion is placed upon the argument in the brief of the
+United States District Attorney before the Circuit Court of
+Appeals, in which reference was made to the application of
+this section. The issue in that case was the right to extra-
+dite under the provisions of Section 5278 Revised Statutes.
+If Judge Hanford in that case said that an offender under
+the Alaska Criminal Code, being present in this district
+could be removed under Section 1014, supra., it was purely
+obiter dictum.</p> 
+<pb></pb> 
+<p>It is fundamental that the United States courts as
+such, can only entertain jurisdiction of offenses against
+the United States. If the offense charged is not an offense
+against the United States, this court would not have juris-
+diction to try the petitioner if it had been committed with-
+in this district, and that, I think, is the criterion by
+which this issue must be determined. The question is not,
+Has the district court of Alaska jurisdiction?, for that
+court acts in a dual capacity, one in administering the laws
+of the United States, and the other in administering the
+local laws of the territory. The Supreme Court of the
+United States, in the case of Coquitlam, 163 U.S. 346, held
+that the district court of Alaska is to be regarded as the
+supreme court of the territory, within the meaning of Sec-
+tion 15 of the Act of March 3, 1891, and because of such
+status and order of the supreme court, a decree of that court
+was subject to review by the Circuit Court of Appeals of the
+Ninth Circuit. Justice Harlan, in McAllister v. United
+States, 141 U.S. 174, 179, said,*</p>
+<p>"It is clear that the district court of Alaska 
+was invested with the power of a district and cir-
+cuit court of the United States, as well as with
+general jurisdictions to enforce in Alaska the laws
+of Oregon."</p> 
+<p>which, by Section 7 of the Act of May 17, 1884, 23 Statute,
+was declared to be law of Alaska so far as they were appli-
+cable and not in conflict with the provisions of that act,
+or of the laws of the United States, and held that a judge
+of the district court of Alaska is not a judge of a court
+of the United States within the generally accepted meaning
+of that term.</p> 
+<p>The cases cited by the Government do not appear to</p> 
+<pb></pb>
+<p></p>
 </div1>
     
 </body>
