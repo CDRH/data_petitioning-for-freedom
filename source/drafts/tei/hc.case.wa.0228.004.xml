@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0228.002"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0228.004"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edward Krause v. Robert W. McClelland. Demurrer to Petition For Writ of Habeas Corpus</title> <!-- replace with name of case; type of document -->
+<title>Edward Krause v. Robert W. McClelland. Petition of Edward Krause for Writ of Habeas Corpus</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0228.002</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0228.004</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,7 +44,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Edward Krause v. Robert W. McClelland. Demurrer to Petition For Writ of Habeas Corpus</title><!-- replace with name of case; type of document -->
+<title level="m" type="main">Edward Krause v. Robert W. McClelland. Petition of Edward Krause for Writ of Habeas Corpus</title><!-- replace with name of case; type of document -->
 <date when="1915">1915</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
@@ -77,17 +77,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-11"></date>20 November 1915</term><!-- insert date of court term -->
+<term><date when="1915-11-18"></date>18 November 1915</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Edward Krause</term>
-<term>Clay Allen</term>
-<term>Frank L. Crosby</term><!-- insert names of other people mentioned in document -->
+<term>Jeremiah Neterer</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Western District, Washington</term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term>
+<term>King County, Washington</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -107,8 +107,7 @@
 <person role="attorney_defendant">
 <persName>William Christie</persName>
 <persName>Winter S. Martin</persName>
-<persName>Clay Allen</persName>
-<!-- insert name of attorney, if known -->
+<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
 <persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
@@ -127,7 +126,6 @@
 <revisionDesc>         
 <change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
-
 </teiHeader>
     
 <text>
@@ -136,45 +134,41 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.002"/> <!-- insert number from spreadhseet -->
-<p>UNITED STATES DISTRICT COURT
-WESTERN DISTRICT OF WASHINGTON
-NORTHERN DIVISION.</p> 
-<p>In the Matter of the
-Application of EDWARD KRAUSE
-for a Writ of Habeas Corpus.}
-No. 3166.
-DEMURRER TO PETITION FOR
-WRIT OF HABEAS CORPUS.</p>
-<p>Comes now the respondent herein and demurs to the
-petition of the petitioner for the reason and on the
-ground that the same does not state facts sufficient
-to constitute a cause of action, or sufficient to en-
-title the petitioner to a writ of habeas corpus as pe-
-tioned for.</p> 
-<p>Dated this 20th day of November, 1915.</p> 
-<p>Clay Allen
-Attorney for Respondent.</p>
-<pb></pb>
-<p>No. 3166</p>
-<p>IN THE DISTRICT COURT
-OF THE UNITED STATES
-FOR THE
-WESTERN DISTRICT OF WASHINGTON.
-Northern DIVISION.</p> 
-<p>In the Matter of the
-Application of EDWARD KRAUSE 
-for a Writ of Habeas Corpus</p>
-<p>DEMURRER TO PETITION FOR
-WRIT OF HABEAS CORPUS</p> 
+<pb facs="hc.case.wa.0228.004"/> <!-- insert number from spreadhseet -->
+<p>IN THE UNITED STATES COURT FOR THE WESTERN DISTRICT OF
+WASHINGTON, NORTHERN DIVISION.</p>
+<p>PETITION FOR EDWARD KRAUSE
+FOR WRIT OF HABEAS CORPUS.) ) )</p> 
+<p>#3,66.00</p> 
+<p>To the Marshall of the United States for the Western
+District of Washington, and to his deputies or any or either
+of them:</p>
+<p>You are hereby commanded to have the body of
+Edward Krause, alleged to be imprisoned and detained by you,
+together with the time and cause of such imprisonment and
+detention, at the United States Court for the above District,
+in the Post Office Building in the City of Seattle, County of
+King, State of Washington, at the hour of 1:30 P.M. of November
+18th, 1915, to do and recieve what shall then and there be
+considered or ordered concerning the said prisoner and to
+have then and there, this Writ. <add></add> - 1915</p> 
+<p>Jeremiah Neterer 
+Judge.</p>
+<pb></pb> 
+<p>In U.S. District Court
+for Western District of Wash-
+ington, Northern division</p> 
+<p>In Matter of Application
+for Writ of Habeas Corpus of
+Edward Krause.</p> 
+<p>Writ Habeas Corpus.</p> 
 <p>FILED IN THE
 U.S. District Court,
 Western Dist. of Washington
 NORTHERN DIVISION
-NOV 20 1915
-FRANK L. CROSBY, Clerk
-By HC Deputy</p>
-
+NOV 18 1915 
+FRANK L. CROSBY, Clerk,
+By EML 2x Deputy</p>
 </div1>
     
 </body>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0228.003"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>Edward Krause v. Robert W. McClelland. Judge Response to Petition for Habeas Corpus</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0228.003</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Edward Krause v. Robert W. McClelland. Judge Response to Petition for Habeas Corpus.</title><!-- replace with name of case; type of document -->
+<date when="1915">1915</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1915-11"></date>23 November 1915</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>Edward Krause</term>
+<term>J. Grattan O'Bryan</term>
+<term>Clay Allen</term>
+<term>Jeremiah Neterer</term>
+<term>Robert W. McClelland</term>
+<term>Cornelius Hanford</term>
+<term>Marshall Harlan</term>
+<term>Frank L. Crosby</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Seattle, Washington</term>
+<term>Territory of Alaska</term>
+<term>Juneau, Alaska</term>
+<term>District of Columbia</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,35 +103,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName>Edward Krause</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Robert W. McClelland</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>F. Grattan O'Bryan</persName>
+<persName>Kazis Krauczunas</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>William Christie</persName>
+<persName>Winter S. Martin</persName>
+<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>United States District Court, Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
-
 </teiHeader>
     
 <text>
@@ -130,9 +142,221 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-
-
+<pb facs="hc.case.wa.0228.003"/> <!-- insert number from spreadhseet -->
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON.
+NORTHERN DIVISION.</p> 
+<p>---oOo---</p> 
+<p>In the Matter of the Petition
+of EDWARD KRAUSE for a Writ
+of Habeas Corpus.</p> 
+<p>)()()(</p>
+<p>No. 3166
+Filed November 23, 1915.</p> 
+<p>---oOo---</p> 
+<p>J. Grattan O'Bryan, Seattle, Washington,
+Kazis Krauczunas, Seattle, Washington, )) For Petitioner.</p> 
+<p>Clay ALLEN, United States Attorney,
+Winter S. Martin, Assistant United
+States Attorney;
+Seattle, Washington. )) For Respondent.</p> 
+<p>NETERER, JUDGE:</p>
+<p>The petitioner alleges that he is restrained of his
+liberty by the United States Marshal, who holds him under an
+order of removal to the United States District Court for the
+Territory of Alaska;
+that he was arrested upon a warrant
+issued by Robert W. McClelland, United States Commissioner
+for the Western District of Washington, Northern Division
+upon complaint filed by the United States Distriсt Attorney
+charging the petitioner with the commission of a crime with-
+in the territory of Alaska in violation of Seation 1907 of
+the Compiled Laws of Territory of Alaska, Codified and
+Arranged by Act of Congress of August 84, 1912:that a pre-
+liminary hearing was had and petitioner bound over by the
+Commissioner to the grand jury at Juneau, Alaska; and further
+alleges that if a crime was committed that it was not an
+offense against the laws of the United States, but an offense
+against the laws of the territory of Alaska.</p>
+<p>On presentation of the petition an order was issued</p>
+<pb></pb> 
+<p>and the United States Marshal thereby directed to produce
+the petitioner before the court for such disposition as may
+be directed. Obedient to this order, the petitioner is pro-
+duced in court.</p> 
+<p>The issue presented is whether the petitioner shall
+be removed to the district court of Alaska pursuant to the
+provisions of Section 1014 of the Revised Statutes. Much
+was said upon the argument on both sides as to the applica-
+tion of the provisions of this section to the offense charg-
+ed, and several citations given by the respective parties
+claiming support for the positions assumed.</p> 
+<p>An examination of the complaint upon which the
+warrant was issued and the several provisions of the laws of
+the territory of Alaska, together with the general extradi-
+tion laws enacted by Congress, and expression of the courts
+upon similar issues, I think clarifies the situation.</p>
+<p>It is urged that Judge Hanford held a fugitive from
+Alaska to be removable under the provision of this section.
+This holding it was alleged was in the case of Tiberg v.
+Warren<add>which was appealed to the circuit court and is reported in</add>192 Fed. 458; but an examination of the case shows
+that this question was not an issue, the emphasis upon the
+suggestion is placed upon the argument in the brief of the
+United States District Attorney before the Circuit Court of
+Appeals, in which reference was made to the application of
+this section. The issue in that case was the right to extra-
+dite under the provisions of Section 5278 Revised Statutes.
+If Judge Hanford in that case said that an offender under
+the Alaska Criminal Code, being present in this district
+could be removed under Section 1014, supra., it was purely
+obiter dictum.</p> 
+<pb></pb> 
+<p>It is fundamental that the United States courts as
+such, can only entertain jurisdiction of offenses against
+the United States. If the offense charged is not an offense
+against the United States, this court would not have juris-
+diction to try the petitioner if it had been committed with-
+in this district, and that, I think, is the criterion by
+which this issue must be determined. The question is not,
+Has the district court of Alaska jurisdiction?, for that
+court acts in a dual capacity, one in administering the laws
+of the United States, and the other in administering the
+local laws of the territory. The Supreme Court of the
+United States, in the case of Coquitlam, 163 U.S. 346, held
+that the district court of Alaska is to be regarded as the
+supreme court of the territory, within the meaning of Sec-
+tion 15 of the Act of March 3, 1891, and because of such
+status and order of the supreme court, a decree of that court
+was subject to review by the Circuit Court of Appeals of the
+Ninth Circuit. Justice Harlan, in McAllister v. United
+States, 141 U.S. 174, 179, said,*</p>
+<p>"It is clear that the district court of Alaska 
+was invested with the power of a district and cir-
+cuit court of the United States, as well as with
+general jurisdictions to enforce in Alaska the laws
+of Oregon."</p> 
+<p>which, by Section 7 of the Act of May 17, 1884, 23 Statute,
+was declared to be law of Alaska so far as they were appli-
+cable and not in conflict with the provisions of that act,
+or of the laws of the United States, and held that a judge
+of the district court of Alaska is not a judge of a court
+of the United States within the generally accepted meaning
+of that term.</p> 
+<p>The cases cited by the Government do not appear to</p> 
+<pb></pb>
+<p>me to be the issue. In United States v. Henkle, 198
+U.S.1, the supreme court of the District of Columbia is
+held to be a court of the United States within the meaning
+of Section 1014, supra., authorizing the removal of a per-
+son charged with an offense against the United States.</p> 
+<p>Much emphasis was placed by the Government upon
+United States v. Hasken, No. 15322 Federal Cases. In that
+case Judge Hillyer, at page 215 - 26 Federal Cases, says:</p> 
+<p>"The act of Congress respecting fugitives from justice,
+1 St. 302., in pursuance of Article 4 Section 2, Consti-
+tution U.S., provides a method by which offenders
+against state and territorial laws, who have fled from
+justice, may be delivered up to the state or terri-
+tory demanding them, but makes no provision for the
+case of those persons who have committed offenses
+against the United States in one district and have
+fled to another.</p> 
+<p>These cases do not, it seems to me, help the com-
+plainant. They are all predicated upon an offense against
+the United States, which is the express requirement of
+Section 1014, supra. If the offense here charged were an
+offense against the United States there would be no ques-
+tion as to the duty of this court to order the removal.
+By at of Congress the Territory of Alaska, under the Con-
+stitution and laws of the United States, became an inchoate
+state, not yet adminted, but organized, with separate
+legislature under a territorial governor and other officers
+appointed by the Preeident by consent of the Senate. The
+legislative power extended to all rightful subjects pertain-
+ing to local self-government not inconsistent with the laws
+and Constitution of the United States. That Congress had
+in mind the different relation of the local laws of the
+territory and national laws with relation to extradition or
+removal, I think is made manifest by the provisions of the</p>
+<pb></pb> 
+<p>Alaska Criminal Code and the general provisions of Congress.</p>
+<p>Section 5278 of Revised Statutes, relating to
+fugitives from juetice of a state or territory, makes pro-
+vision for extraditing offenders. The executive of a
+territory, under this Section, has the same rights and
+bears the same duties as the governor of a state. In re
+Morgan, 28 Fed. 298. Ex Perte Reggul, 114 U.S. 642,
+Section 2502 at Page 771 of the Laws of Alaske Code, make
+special provision for extraditing a person charged with a
+felony, thereby recognizing local application of the local
+laws of Alaska. Section 410 of the Act of August 24, 1912,
+37 St. 512, provides that all laws of the United States
+heretofore passed, establishing the executive and judicial
+departments in Alaska, shall continue in full force and
+effect until amended or repealed by act of Congress; that
+except as therein provided, all laws in force in Alaska
+shell continue in full force and effeet until altered,
+amended or repealed by Congress or by the territorial legis-
+lature; that the authority granted to the legislature to
+alter, amend, modify or repel lews in force in Alaska shall
+not extend to the customs, internal revenue, postal or other
+general laws of the United States.</p>
+<p>There is, by this provision, clearly a line of
+demarcation placed by Congress between the local laws af-
+ecting the territory and laws affecting generally all of
+the states and territories.</p> 
+<p>Section 2099 of the laws of Alaska, supra., provide:
+"That the common law of England, as adopted and
+understood in the United States, shall be in
+force in said district except as modified by
+this act."</p> 
+<pb></pb> 
+<p>This expression, I think, further emphasizes the line of
+demarcation suggested, as it is fundamental that federal
+courts have no jurisdiction of common law offenses, but
+are limited to acts made criminal by congress, and congress
+is charged with knowledge of this fact.The common law
+offenses by this provision are placed in the same category
+and relation as the offenses defined by the criminal code,
+and it would hardly be contended that this court would have
+jurisdiction to direct the removal of an offender against
+this common law of the territory.<add><unclear></unclear></add></p> 
+<p>The offense charged <add>(kidnapping)</add> is not an offense under any law
+of the United States to which my attention has been directed,
+or any cognizable by the Unites States courts as such.
+Congress, in passing this law, exercised its power as a local
+legislature rather than its power as a general government
+of the United States. Allen v. Meyer, 1 Alaska Rp. 114.
+The intention of Congress undoubtedly was to constitute the
+"Alaska Criminal Code", taken largely from the Oregon Crim-
+al Code, which was extended to Alaska in 1884, a territor-
+ial act as distinguished from the laws of the United States.
+United States v. Jackson, 102 Fed. 478; United States v. 
+Pridgeon, 153 U.S. 48.</p> 
+<p>The Compiled Laws of Alaska have no greater force
+than a law enacted by a territorial legislature, subject to
+congressional approval, and as such, its provisions are not
+laws of the United States and do not come within the cog-
+nizance of the United States courts. Maxwell v. Federal
+Gold &amp; Copper Co., 155 Fed. 111; In re Moran, 203 U.S.96;
+United States v. Jones, Adms., 236 U.S. 106. And Jackie
+Marshall, <unclear></unclear></p> 
+<pb></pb>
+<p>(COPY)</p>
+<p>The authorities of Alaska are not without remedy,
+full and complete provision being made by the extradition
+laws, which are open to all the state and territories.</p> 
+<p>I think that the court has not the power to order
+the petitioner removed to the district court of Alaska.</p>
+<p>JEREMIAH NETERER
+JUDGE.</p> 
+<p>FILED IN THE
+U.S. District Court 
+Western Dist. of Washington
+NORTHERN DIVISION
+NOV 23 1915
+FRANK L. CROSBY, Clerk.
+By Emy Deputy</p>
 </div1>
     
 </body>
