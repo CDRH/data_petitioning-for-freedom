@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0216.017">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0485.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chin Hing v. United States of America. Stipulation</title>
+<title>Petitioner v. Defendant</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
-<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+<name n="Pizzi, Annabella D." xml:id="adp">Annabella D. Pizzi</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
-<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -36,8 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0216.017</idno>
-
+<idno type="project">hc.case.wa.0485.005</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,9 +43,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Chin Hing v. United States of America. Stipulation</title>
-<date when="1915-04-10">April 10, 1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title>
+<date when="1916-07">July 1916</date>
+<note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -71,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Immigration</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,7 +76,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-04">April 1915</date></term>
+<term><date when="1916-07">July 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -93,21 +90,21 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Hing, Chin</persName>
+<persName>Chin, Doe Tung</persName>
 </person>
 <person role="defendant">
-<persName>Government, United States</persName>
+<persName>Sargent, John H. </persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Sullivan, John J.</persName>
+<persName>Todd, Hugh C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Allen, Clay</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Fishburne, GP</persName>
+<person role="attorney_defendant_assistant">
+<persName>Moodie, Albert</persName>
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName>
@@ -116,63 +113,49 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>United States District Court Western District of Washington Northern Division</orgName> 
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#edr">encoded</change>
+<change when="2022-06" who="#adp">transcribed and encoded.</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>
+<text>  
 
 <body>  
-
-
-
+               
 <div1 type="case">
 
-<pb/>
-<p>United States District Court
-Western District of Washington
-Northern Division</p>
-<p>In the Matter of the 
-Application of Chin
-Hing for a Writ of 
-Habeas Corpus } No.2857
-Stipulation.</p>
-<p>It is hereby stipulated and agreed between counsel
-for the petitioner and respondent in the above entitled
-cause, that the hearing in said cause may be continued
-until April 26th, 1915.</p>
-<p>Dated this 10th day of April, 1915.</p>
-<ab>John J Sullivan
-Attorney for Petitioner</ab>
-<ab>Clay Allen
-GP Fishburne
-Attorneys for Respondent</ab>
-<pb/>
-<p>In the District Court
-of the United States
-for the
-Western District of Washington</p>
-<p>In the Matter of the Application
-of Chin Hing for a Writ of 
-Habeas Corpus.</p>
-<p>Stipulation</p>
-<p>Filed in the
+<p>No. 3378</p>
+<p>IN THE
+UNITED STATES DISTRICT COURT
+FOR THE 
+Western District of Washington,
+Northern Division.</p>
+<p>IN THE MATTER OF THE 
+APPLICATION OF CHIN WAH HING
+for a
+WRIT OF HABEAS CORPUS.
+vs.
+APPEARANCE FOR PETITIONER.</p>
+<p>FILED IN THE
 U.S. District Court,
-Western Dist. of Washington
+Western Dist. of Washington,
 Northern Division
-APR 12 1915
-Frank L. Crosby, Clerk,
-By EML Deputy
-2x</p>
+JULY 7-1917
+By <unclear></unclear>Deputy</p>
+<p>Hugh C. Todd.
+WILLIAM MARTIN,
+POST OFFICE AND OFFICE ADDRESS:
+204 TO 210 COLLINS BUILDING
+SEATTLE, WASH.
+Attorney for Pet</p>
 
 </div1>
     
