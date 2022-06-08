@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0487.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0487.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,7 +44,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus. Type of Document.</title>
+<title level="m" type="main">In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus. </title>
 <date when="2022-06-07">June 7, 2022</date>
 <note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
@@ -77,12 +77,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1904-11"></date>8 October 1904</term>
+<term><date when="1904-11"></date>10 October 1904</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>Thomas M. Fisher</term>
-<term></term>
+<term>Ham Hung Wah</term>
+<term>Melville W. Fuller</term>
+<term>A. Reeves Ayres</term>
+<term>C.B. Hopkins</term>
+<term>John Stringer</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,10 +98,10 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Ham Hung Wah</persName>
+<persName>Tom Sing</persName>
 </person>
 <person role="defendant">
-<persName>Thomas M. Fisher</persName>
+<persName>Ham Hung Wah</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -112,7 +116,7 @@
             
 <listOrg>
 <org>
-<orgName>Ninth Judicial Circuit</orgName> 
+<orgName>Ninth Judicial Circuit Court</orgName> 
 <placeName>District of Washington</placeName> 
 </org>
 </listOrg>   
@@ -120,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="jy">transcribed.</change> 
+<change when="2022-06" who="#jy">transcribed and encoded.</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -146,9 +150,9 @@ To Thomas M. Fisher, Chinese Inspector in Charge, Fort Townsend, <unclear/>
 Greeting:</p>
 <p>You are Hereby Commanded, That you have the body of Ham Hung Wah by you imprisoned and detained, as it is said, together with the time and cause of such imprisonment and detention by whatsover name he shall be called or charged, before the Honorable the Circuit Court of the United States, for the Ninth Judicial Circuit, District of Washington, at the Court-room of said Court, in the City of <unclear/> on the 25th day of October 1904 at 9 o'clock 0 M., to do an receive what shall then me considered in the premiere, And have you then and there this Writ</p>
 <p>Witness, the Honorable MELVILLE W. FULLER. Chief Justice of the Supreme Court of the United States, and the seal of said Circuit Court, this 8th day of October is the year of our Lord one thousand <del>eight</del><add>nine</add> hundred and <del>ninety</del><add>four</add>, and of our Independence the <unclear>129th</unclear>
-A. Reeves. Ayres
+A. Reeves. Ayres<!--Signed-->
 Clerk
-By <unclear/>
+By <unclear/><!--Signed-->
 Deputy Clerk</p>
 
 <p>In obedience to the within Writ, I hereby <del>produce the body of></del><add>certify</add> I served this writ on Thomas M. Fisher <del>as within directed and return that, I hold in my custody, by virtue of</del><add>at <unclear/></add> October 11, 1904</p>
@@ -160,6 +164,27 @@ By John Stringer
 Deputy</p>
 
 <p><unclear/></p>
+
+<p>No. 1227</p>
+
+<p>Circuit Court of the United States,
+NINTH JUDICIAL CIRCUIT,
+DISTRICT OF WASHINGTON,
+Northern Division.</p>
+
+<p>IN THE MATTER OF
+Ham Hung Wah
+ON HABEAS CORPUS.</p>
+
+<p>WRIT OF HABEAS CORPUS
+AND RETURN THERETO.</p>
+
+<p>Filed on return, this 10th day
+of October 1904 <del>189</del>
+A. Reeves. Ayres <!--Signed-->
+Clerk.
+By <unclear/><!--Signed-->
+Deputy Clerk.</p>
 
 </div1>
     
