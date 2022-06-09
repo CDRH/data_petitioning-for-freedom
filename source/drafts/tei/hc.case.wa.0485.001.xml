@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0485.001.xml">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>In the Matter of the Application of Chin Doe Tung for a Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Pizzi, Annabella D." xml:id="adp">Annabella D. Pizzi</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>June 2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0485.001</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title>
+<date when="1916-07">July 1916</date>
+<note type="project">Our transcription is based on a digital image.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection>
+<idno>3378ChinDoeTung</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Immigration</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916-07">July 1916</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Chin, Doe Tung</persName>
+</person>
+<person role="defendant">
+<persName>U.S. Government </persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Todd, Hugh C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant_assistant">
+<persName>Moodie, Albert</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court Western District of Washington Northern Division</orgName> 
+<placeName>Washington State</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#ADP">transcribed and encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>  
+
+<body>  
+               
+<div1 type="case">
+
+<pb/><p>UNITED STATES DISTRICT COURT WESTERN DISTRICT OF WASHINGTON NORTHERN DIVISION</p>
+<p> IN THE MATTER OF THE APPLICATION OF CHIN DOE TUNG FOR A WRIT OF HABEAS CORPUS.} No. 3378. Filed Juny 27,1916. </p> 
+<p>Hugh C. Todd, For Petitioner. Clay Allen, U.S. Attorney. Albert Moodie, Asst. U.S. Attorney, For Government.</p>
+<p> Netherer, District Judge: I think the petition must be dismissed and the writ discharged
+This court, in Ex Parte Moola Signh et al, 207 Fed.
+780, at page 782, said:</p>
+<p> "The authority of the Immigration officers and the 
+jurisdiction of the courts depend upon power conferred
+by Congress. It is a matter of legislation. No discretion
+is vested in the courts. Congress has the right
+to legislate upon the subject, prescribe rules, fix 
+limits, and confer authority where it deems wise in legislating
+upon the subject at hand. The supreme authority 
+is conferred upon the Immigration officers. The jurisdiction
+of the court is limited to ascertaining whether
+the petitioners were denied a hearing."</p>
+<p>An examination of the record does not disclose the denial
+of any right of the petitioner. Ther contention that the conclusion 
+of the Immigration officers is not warranted by the
+testimont presented is not for the court of determine: nor
+can the court say that the contention of the petitioner that
+the Secretary of Labor determined the appeal upon a ground
+other than the charge upon which petitioner was ordered deported
+is well founded, as testimony was taken upon the
+paternity and minority of the applicant, also as to whether or not 
+the alleged father is a domiciled merchant, and also upon the
+marriage of the petitioner and the relation he bore to the household
+of the alleged father. The court's inquiry is limited as
+to whether the applicant was accorded an impartial hearing, and
+cannot inquire into the sufficiency of probative facts or consider
+reasons for the conclusions reached by the Immigration
+<pb/>
+officers. The question is not, would the court have come to 
+the same conclusion, but, was the petitioner accorded a fair
+hearing, Chin You v. U.S., 208 U.S. 8. The court cannot
+say that he was not.</p>
+<p> Jeremiah Neterer 
+JUDGE.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

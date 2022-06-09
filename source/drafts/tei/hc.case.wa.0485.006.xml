@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0485.001.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0485.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In the Matter of the Application of Chin Doe Tung for a Writ of Habeas Corpus</title>
+<title>Petitioner v. Defendant</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>June 2022</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0485.001</idno>
+<idno type="project">hc.case.wa.0485.006</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petitioner v. Defendant. Type of Document.</title>
-<date when="1111-11"></date>
+<date when="1916-07">July 1916</date>
 <note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
@@ -92,16 +92,17 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Chin, Doe Tung</persName>
+<persName>Chin, Wah Hing</persName>
 </person>
 <person role="defendant">
-<persName>White, Henry M.</persName>
+<persName>U.S. Government </persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Todd, Hugh C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Allen, Clay</persName>
+</person>
 <person role="attorney_defendant_assistant">
 <persName>Moodie, Albert</persName>
 </person>
@@ -113,14 +114,14 @@
 <listOrg>
 <org>
 <orgName>United States District Court Western District of Washington Northern Division</orgName> 
-<placeName>Washington State</placeName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#ADP">transcribed and encoded.</change>
+<change when="2022-06" who="#adp">transcribed and encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -131,44 +132,37 @@
                
 <div1 type="case">
 
-<pb/><p>UNITED STATES DISTRICT COURT WESTERN DISTRICT OF WASHINGTON NORTHERN DIVISION</p>
-<p> IN THE MATTER OF THE APPLICATION OF CHIN DOE TUNG FOR A WRIT OF HABEAS CORPUS.} No. 3378. Filed Juny 27,1916. </p> 
-<p>Hugh C. Todd, For Petitioner. Clay Allen, U.S. Attorney. Albert Moodie, Asst. U.S. Attorney, For Government.<p>
-<p> Netherer, District Judge: I think the petition must be dismissed and the writ discharged
-This court, in Ex Parte Moola Signh et al, 207 Fed.
-780, at page 782, said:</p>
-<p>"The authority of the Immigration officers and the 
-jurisdiction of the courts depend upon power conferred
-by Congress. It is a matter of legislation. No discretion
-is vested in the courts. Congress has the right
-to legislate upon the subject, prescribe rules, fix 
-limits, and confer authority where it deems wise in legislating
-upon the subject at hand. The supreme authority 
-is conferred upon the Immigration officers. The jurisdiction
-of the court is limited to ascertaining whether
-the petitioners were denied a hearing." </p>
-<p>An examination of the record does not disclose the denial
-of any right of the petitioner. Ther contention that the conclusion 
-of the Immigration officers is not warranted by the
-testimont presented is not for the court of determine: nor
-can the court say that the contention of the petitioner that
-the Secretary of Labor determined the appeal upon a ground
-other than the charge upon which petitioner was ordered deported
-is well founded, as testimony was taken upon the
-paternity and minority of the applicant, also as to whether or not 
-the alleged father is a domiciled merchant, and also upon the
-marriage of the petitioner and the relation he bore to the household
-of the alleged father. The court's inquiry is limited as
-to whether the applicant was accorded an impartial hearing, and
-cannot inquire into the sufficiency of probative facts or consider
-reasons for the conclusions reached by the Immigration
-<pb/>
-officers. The question is not, would the court have come to 
-the same conclusion, but, was the petitioner accorded a fair
-hearing, Chin You v. U.S., 208 U.S. 8. The court cannot
-say that he was not.<p/>
-<ab>Jeremiah Neterer JUDGE.<ab/>
-
+<p>Hugh C. Todd</p>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR WESTERN
+DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>In the Matter of the Application of
+CHIN WAH HING
+For a Writ of Habeas Corpus.| 
+No.3378
+ORDER FOR WRIT
+OF HABEAS CORPUS.</p>
+<p>On reading and filing the petition of Chin Wah 
+Hing, duly signed and verifies by him, whereby it appears that 
+one Chin Doe Tung is wrongfully and illegally imprisoned and
+restrained of his liberty by Hon. Henry M. White, Commissioner of
+Immigration, at the United States Immigration Station at 
+Seattle, Washington, and stating wherein the illegality exists,
+from which it appears that a Writ of Habeas Corpus ought to
+issue; now, therefore it is by this Court</p>
+<p>ORDERED. ADJUDGED AND DECREED that a Writ of
+Habeas Corpus issues out of and under the seal of this Court
+directed to the said Henry H. White, commanding him to have
+the body of the said Chin Doe Tung before me in the court room
+of said Court on the 17th day of July, A.D.,1916, at ten
+o'clock A.M. od said day, to do and receive what shall then
+and there be considered concerning the said Chin Doe Tung,
+together with the time and cause of his detention, and that he 
+then and there have the said Writ. Petition to <unclear>default</unclear> wich
+the <unclear>Clerk 50st</unclear> as <unclear></unclear><unclear></unclear>for <unclear></unclear> of public
+<unclear></unclear> this hearing
+Dates this 7 day of July, A.D., 1916.</p>
+<p>Jeremiah Neterer
+JUDGE</p>
 </div1>
     
 </body>

@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0486.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0216.038">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Harry Smith and Barney Slomen v. United States. Affidavit of Petitioner.</title>
+<title>Chin Hing v. United States of America. Cross-Interrogatory</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -35,7 +36,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0486.004</idno>
+<idno type="project">hc.case.wa.0216.038</idno>
+
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,9 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Harry Smith and Barney Slomen v. United States. Affidavit of Petitioner.</title>
-<date when="1916-07-01">July 1, 1916</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">Chin Hing v. United States of America. Cross-Interrogatory</title>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -69,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,11 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-07">July 1916</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Adam Beele</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -91,64 +92,89 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Slomen, Barney</persName>
+<persName>Hing, Chin</persName>
 </person>
 <person role="defendant">
-<persName>United States</persName>
+<persName>Government, United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Sullivan, John J.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName> 
-<placeName>Western District of Washingtn Northern Division</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#slb">transcribed and encoded.</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>  
+<text>
 
 <body>  
+
+
                
 <div1 type="case">
 
 <pb/>
-<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
-
-<p>UNITED STATES OF AMERICA, Plaintiff, vs. Barney Slomen, Defendant. No. Affidavit of Petitioner.</p>
-
-<p>STATE OF WASHINGTON COUNTY OF KING ss</p>
-
-<p>BARNEY SLOMEN, being first duly sworn, on oath deposes and says: That he is the above name petitioner; that he is without the means to pay the fees or necessary costs of court in this action; that your petitioner is a native born citizen of the United States and is entitled to all the rights accrued to him under the Forma Pauperie Act, accrued June 25, 1910, 36th Statute, 86.</p>
-
-<p>WHEREFORE, your petitioner prays for an Order of court that he may appear in this action in Forma Pauperis.</p>
-
-<p>That the necessary fees and costs of court be paid by the Government.</p>
-
-<p>That the court make any further Order that it may deem necessary to afford your petitioner full and adequate relief.</p>
-
-<p>Barney Slomen</p>
-
-<p>Subscribed and sworn to before me this 1 day of July, 1916. Adam Beele Notary Public in and for the State of Washington, residing at</p>
-
+<p>United States District Court,
+Western District of Washington,
+Northern Division.</p>
+<p>In the matter of the Application
+of Ching Hing for a 
+Writ of Habeas Corpus</p>
+<p>No.<gap></gap>
+Cross-Interrogatories to be
+propounded to Louis F. Post,
+Assistant Secretary of the Department
+of Labor, Washington,
+D. C.</p>
+<pb/>
+<p>1. Is it not a fact that when the Acting Secretary
+goes over the facts or comes to a decision in an
+appeal case when either youself or the Secretary of
+Labor is present, that either you or the Secretary
+of Labor is notified of the decision and have sufficiently
+accurate knowlegde of the subject of appeal
+to verify the decision of the Acting Secretary or to
+have such a decision modified if you think it is wrong?</p>
+<p>2. Is it not a fact that when J. B. Densmore reviews
+a decision of this character, on appeal, that either
+you or the Secretary of Labor checks over his ruling
+and makes it your own?</p>
+<p>3. Is it not a fact that in the above entitled action
+Secretary J. B. Densmore performed the labor or reviewing 
+the above decision, either in the absence of
+the Secretary of Labor, or yourself?</p>
+<p>4. If the Secretary of Labor or yourself was present at
+the time that J. B. Densmore decided the appeal in
+the above entitled action, is it not a fact that either
+you or the Secretary of Labor checked his work,
+verified the same and made his decision yours?</p>
+<p>5. Is it not a fact that in all cases when J. B. Densmore,
+the Acting Secretary, renders a decision on the
+appeal of any case of the same character as this one
+during the time of the presence of yourself or the 
+Secretary of Labor, either you or the Secretary of 
+Labor checks and verifies the work of said Acting
+Secretary and makes it your decision?</p>
 </div1>
     
 </body>
