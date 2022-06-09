@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0485.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Pizzi, Annabella D." xml:id="adp">Annabella D. Pizzi</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>NSF</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0485.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seattle</collection>
+<idno>3378ChinDoeTung</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Immigration</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916-07-08">July 8, 1916</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Chin, Wah Hing</persName>
+</person>
+<person role="defendant">
+<persName>U.S. Government </persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Todd, Hugh C.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant_assistant">
+<persName>Moodie, Albert</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States District Court Western District of Washington Northern Division</orgName> 
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#adp">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<p>Hugh C. Todd</p>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR WESTERN
+DISTRICT OF WASHINGTON, NORTHERN DIVISION</p>
+<p>In the Matter of the Application of
+CHIN WAH HING
+For a Writ of Habeas Corpus.|
+No. 3378
+WRIT OF HABEAS
+CORPUS.</p>
+<p>THE PRESIDENT OF THE UNITED STATES OF AMERICA, to 
+Henry M. White, Commissioner of Immigration at Seattle,
+Washington:</p>
+<p>WE COMMAND YOU, that you have the body of CHIN DOE
+TUNG by you imprisoned and detained, as it is said, together
+with the time and cause of such imprisonment and detention, by
+whatsoever name the said Chin Doe Tung shall be called or
+charged, before the Hon. Jeremiah Neterer, United States District
+Judge for the Western District of Washington, Northern Division,
+at the United States Court Room, Postoffice, Custom House
+and United States Court Building, in the City of Seattle, in the
+Northern Division of said Western District of Washington. on the
+17th day of July, A.D. 1916, at ten o'clock A.M., to do and
+receive what shall then and there concerning him, 
+the said Chin Doe Tung. And have you then and there this Writ. </p>
+<p>WITNESS the Hon. Jeremiah Neterer, Judge of the
+United States District Court for the Western District of
+Washington, Northern Division, this 8th day of July, in
+the year of our Lord one thousand nine hundred and sixteen.</p>
+<p>Frank L. Crosby, Clerk
+By Ed rm Lastern
+CLERK.</p>
+<figure></figure>
+<p>Let the Writ issue.</p>
+<p>____________
+JUDGE</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
