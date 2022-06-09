@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0487.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0494.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
+<title>In Re: Petition of H. C. Littooy for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -14,6 +14,7 @@
 <name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -34,7 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0487.007</idno>
+<idno type="project">hc.case.wa.0494.003</idno>
+
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
-<date when="2022-06-08">June 8, 2022</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">In Re: Petition of H. C. Littooy for Writ of Habeas Corpus</title>
+<date when="2022-06-09">June 9, 2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -68,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Immigration</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -76,45 +78,43 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1904-10"></date>October 1904</term>
+<term><date when="1904-06">June 1904</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ham Hung Wah</term>
-<term>I. D. MoCutcheon</term>
-<term>C.H. Hanford</term>
+<term>H. C. Littooy</term>
 <term>A. Reeves Ayres</term>
-<term>A.N. Moore</term>
+<term>A. N. Moore</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>Washingon</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Tom Sing</persName>
+<persName>H. C. Littooy</persName>
 </person>
 <person role="defendant">
-<persName>Ham Hung Wah</persName>
+<persName>H. C. Littooy</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>I. D. MoCutcheon</persName>
+<persName>Parker Brown</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>C.H. Hanford</persName>
+<persName>H. C. Hanford</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Ninth Judicial Circuit Court</orgName> 
+<orgName>Ninth Judicial Circuit Court</orgName>
 <placeName>District of Washington</placeName>
 </org>
 </listOrg>   
@@ -122,45 +122,40 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#jy">transcribed and encoded.</change>
+<change when="2022-06" who="#jy">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>  
+<text>
 
 <body>  
+
+
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0487.007"/>
+<pb facs="hc.case.wa.0494.002"/>
 
-<p>In the Circuit Court of the United States for the District of Washington, Northern Division.</p>
+<p>United States Circuit Court for the <add>WESTERN</add> District of Washington.</p>
+<p>In the matter of H.C. Littooy in Habeas Corpus, No. 1207 Praecipe.</p>
 
-<p>In re: Application of Ham Hung Wah for a Writ of Habeas Corpus.          No. 1227.</p>
+<p>To the Clerk of the above Entitled Court:</p>
+<p>You will please <unclear/></p>
+<p>Paul R., 
+Counsel for State<unclear/></p>
+<p>NOTICE-Attorneys will please endorse their own Filings. Rule 47.</p>
 
-<p>On this 25th day of October, 1904, on application and notion of I. D. MoCutcheon, Esq., attorney for the petitioner herein, it is ordered that the aove entitled cause and and petition be, and the same is hereby, dismissed.</p>
-
-<p>C.H. Hanford<!--Signed-->
-Judge.</p>
-
-<p>No. 1227</p>
-
-<p>IN THE Circuit COURT
-OF THE UNITED STATES
-FOR THE
-DISTRICT OF WASHINGTON</p>
-
-<p>In re-
-Ham Hung Wah
-vs.
+<p>No. 1207</p>
+<p>United States Circuit Court <add>WESTERN</add>District of Washington.</p>
+<p>In re 
+H. C. Littooy 
 Habeas Corpus</p>
 
-<p>Order of dismissal.</p>
-
-<p>Filed Oct 15, 1904</p>
-<p>A. Reeves Ayres Clerk</p>
-<p>By A. N. Moore Deputy</p>
+<p>Praecipe.</p>
+<p>Filed May 10 1905</p>
+<p> A. Reeves Ayres, Clerk</p>
+<p>A. N. Moore, Deputy Clerk.</p>
 
 </div1>
     
