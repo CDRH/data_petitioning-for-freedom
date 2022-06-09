@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0216.027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0216.038">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chin Hing v. United States of America. Order</title>
+<title>Chin Hing v. United States of America. Cross-Interrogatory</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K" xml:id="lkw">Laura Weakly</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0216.027</idno>
+<idno type="project">hc.case.wa.0216.038</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Chin Hing v. United States of America. Order</title>
-<date when="1915-03-02">March 2, 1915</date>
+<title level="m" type="main">Chin Hing v. United States of America. Cross-Interrogatory</title>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-03">March 1915</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -104,13 +103,10 @@
 <persName>Sullivan, John J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Allen, Clay</persName>
-</person>
-<person role="attorney_defendant">
-<persName>Fishburne, GP</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Cushman, Edward</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
@@ -124,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#edr">encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,34 +130,51 @@
 <body>  
 
 
-
+               
 <div1 type="case">
 
 <pb/>
-<p>In the United States District Court, In and For the Western
-District of Washington, Northern Division.</p>
-<p>In the Matter of the Application
-of Ching Hing, for a 
-Writ of Habeas Corpus. } No. 2857
-Order.</p>
-<p>This matter coming on regularly to be heard, and the
-Petitioner Ching Hing, appearing by and through his Attorney,
-John J. Sullivan, and the United States Government, appearing 
-by and through its attorney, Clay Allen, United States District
-Attorney, and George P. Fishburne, Assistant U.S. District 
-Attorney, and the Court being fully advised in the premises and
-it being deemed fit and proper, the Court does fix the bond
-in the sum of Fifteen Hundred (1500) Dollars, and upon the
-giving of same by said petitioner, and upon approval by the
-District Attorney, and by this Court, the Petitioner shall be
-released upon said bond to await the further Order or Judgment
-of this Court.</p>
-<p>Signed in open Court this 2nd day of March, 1915.</p>
-<ab>Edward E Cushman
-U.S. District Judge</ab>
-<ab>C.K. Allen
-US Atty</ab>
-
+<p>United States District Court,
+Western District of Washington,
+Northern Division.</p>
+<p>In the matter of the Application
+of Ching Hing for a 
+Writ of Habeas Corpus</p>
+<p>No.<gap></gap>
+Cross-Interrogatories to be
+propounded to Louis F. Post,
+Assistant Secretary of the Department
+of Labor, Washington,
+D. C.</p>
+<pb/>
+<p>1. Is it not a fact that when the Acting Secretary
+goes over the facts or comes to a decision in an
+appeal case when either youself or the Secretary of
+Labor is present, that either you or the Secretary
+of Labor is notified of the decision and have sufficiently
+accurate knowlegde of the subject of appeal
+to verify the decision of the Acting Secretary or to
+have such a decision modified if you think it is wrong?</p>
+<p>2. Is it not a fact that when J. B. Densmore reviews
+a decision of this character, on appeal, that either
+you or the Secretary of Labor checks over his ruling
+and makes it your own?</p>
+<p>3. Is it not a fact that in the above entitled action
+Secretary J. B. Densmore performed the labor or reviewing 
+the above decision, either in the absence of
+the Secretary of Labor, or yourself?</p>
+<p>4. If the Secretary of Labor or yourself was present at
+the time that J. B. Densmore decided the appeal in
+the above entitled action, is it not a fact that either
+you or the Secretary of Labor checked his work,
+verified the same and made his decision yours?</p>
+<p>5. Is it not a fact that in all cases when J. B. Densmore,
+the Acting Secretary, renders a decision on the
+appeal of any case of the same character as this one
+during the time of the presence of yourself or the 
+Secretary of Labor, either you or the Secretary of 
+Labor checks and verifies the work of said Acting
+Secretary and makes it your decision?</p>
 </div1>
     
 </body>
