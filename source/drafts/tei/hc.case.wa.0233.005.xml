@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0233.005"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sam Plastino v. Henry M. White. Response to Petition</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0233.005</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sam Plastino v. Henry M. White. Response to Petition.</title><!-- replace with name of case; type of document -->
+<date when="1916-09-20">September 20, 1916</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916-09"></date>September 1916</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sam Plastino</term>
+<term>Adam Beeler</term>
+<term>John J. Sullivan</term>
+<term>Jospeh M. Glasgow</term>
+<term>Tolman</term>
+<term>John King</term>
+<term>Goldie Cardiff</term>
+<term>Fisher</term>
+<term>Jeremiah Neterer</term>
+<term>Frank L. Crosby</term>
+<term>Edm Laken</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term> 
+<term>Spokane, Washington</term>
+<term></term><!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Sam Plastino</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Henry M. White</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known --> 
+<persName>Adam Beeler</persName>
+<persName>John J. Sullivan</persName>
+<persName>Jospeh M. Glasgow</persName>
+<persName>John King</persName>
+<persName>Tolman</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Clay Allen</persName>
+<persName>Albert Moodie</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of the United States for the Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0233.005"/> <!-- insert number from spreadhseet -->
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHINGTON
+NORTHERN DIVISION.</p>
+<p>IN THE MATTER OP THE PETITION
+OF SAM PLASTINO FOR A WRIT OF
+HABEAS CORPUS. 
+))))))) 
+No. 3393.
+Filed September 20, 1916.</p> 
+<p>PETITIONER DISCHARGED.</p> 
+<p>Beeler &amp; Sullivan ) of Seattle, Wash. 
+Joseph M. Glasglow )
+Tolman &amp; King ) of Spokane, Wash. 
+For Petitioner
+
+Clay Allen, U.S. District Attorney )
+ALbert Moodie, Asst. " " " ) 
+)
+For Government.
+</p>
+<p>NETERER, District Judge:</p> 
+<p>The petitioner, aged thirty years, whose father declared
+his intention to become a citizen of the United States in 1900,
+came to the United States In 1897, and has since been a resident
+therein. On the 12th of January, 1912, he was arrested under
+a warrant issued by the Acting Secretary of Labor, charging "that
+the said alien is unlawfully within the United States, in that
+he has been found receiving, sharing in or deriving benefits from
+the earnings of a prostitute or prostitutes", and thereafter
+ordered deported. An appeal taken to the Secretary of Commerce
+and Labor confirmed this order, and warrant of deportation was
+thereupon issued, execution of which was suspended pending dis-
+charge of the prisoner from the federal prison where he had been
+committed on conviction on an indictment under the Mann Act.
+Petitioner files this petition for writ of habeas corpus, alleg-
+ing that he is in custody and about to be deported, and that he
+did not have a fair trial, in that he was not permitted to in-
+spect the warrant of arrest or any of the evidence upon which it
+was issued, and that there is no evidence upon which to base a
+warrant of deportation.</p> 
+<p>The function of the court in a proceeding of this kind is
+to ascertain whether petitioner has been accorded a fair hearing,
+and, also, whether there is any evidence upon which to predicate</p>
+<pb></pb>
+<p>the dharge made. Under the rule of the Department of Commerce
+and Labor, and the law, the accused must be notified of the
+charge against him, and have opportunity to inspect the warrant
+of arrest and the evidence upon which it is issued, and be ad-
+vised of his right to have counsel, to the end that his interests
+may be properly safeguarded in the hearing by one specially con-
+cerned therewith, and in accordance with established, recognized
+rules of procedure. The order of deportation must be supported by
+the evidence at the hearing, and the charge must be established
+by legal testimony.</p> 
+<p>Upon this hearing, the petitioner testified that he was not
+advised of the charge against him; that he requested permission to
+consult counsel; that at the time he had been convicted of a felony
+and had counsel engaged, and that his counsel was in the City
+within a day or so. His testimony is supported by the brother
+of the accused, who stated that counsel had been employed, and
+also stated that he did not decline to employ counsel for the
+accused, and that he was abundantly able to do so. Much appears
+in this testimony which has no place there. The petitioner may
+be a moral degenerate, and from this record as it stands, is
+unfit to be a citizen of the United States, but the charge in the
+warrent is receiving, sharing in or deriving benefits from the
+earnings of a prostitute or prostitutes, and the testimony upon
+that is as follows:</p> 
+<p>"Q. You are convicted December 7, 1911, on the
+charge of having transported Goldie Cardiff from
+Seattle to San Francisco for the purpose of prosti-
+tution? A. Yes.*****Q. How long did you live with
+Goldie Cardiff? A. Never. She used to come around
+me and my place and show money. Q. Did you ever re-
+ceive earnings from her? A. No. Q. Did she ever give
+you money? A. No. Q. Do you know Ethel Richards?
+A. Yes. She never lived with me. Q. Did she pose
+as your wife in Seattle and Spokane? A. No. Q. Was
+she a prostitute? A. No. Q. Did you ever receive
+any of her earnings? A. No. I threw away money. I
+didn't care for their earnings. Q. Do you know
+Grace Howard? A. Yes. That is the same party.
+Q. You were living with another prostitute at Seattle,
+were you not? A. No. I had them in my rooms when
+I went out for a good time. Q. What is your business?
+A. A merchant in Seattle. In Spokane at 322 Main St.
+I had a pool room for about one year, me and my brother.
+Q. You heard the testimony of Goldie Cardiff in the
+<pb></pb>
+court in the trial of your case in which she testi-
+fied she turned money over to you? A. Yes. It
+wasn't true."</p>
+<p>Statement by Inspector Fisher:</p>
+<p>"I examined the naturalization records in the
+United States District Court for the Eastern Dis-
+trict of Washington, and find that the records show
+that Sam Plastino claimed he was born in Alteria,
+Italy, Sept. 7, 1886, and came from Naples, Italy,
+on the S.S. Abrumvra to the Port of New York about
+the 10th day of June, 1897, and declared his inten-
+tion to become a citizen of the United States before
+W.H. Hare, Clerk of the United States District Court,
+at Spokane, Washington, March 22, 1911. Sam Plastino
+was convicted after a hearing in the United States
+District Court at Tacoma, Washington, for violating
+the White Slave Traffic act, in that she assisted in
+the transportation of one Goldie Cardiff, from Seattle,
+Washington, to San Francisco, California, for pur-
+poses of prostitution. The evidence adduced at the
+hearing showed that Sam Plastino had received the
+earnings of Goldie Cardiff, prostitute, for several
+years; that he had also received the earnings of two
+other prostitutes prior and subsequent to his meeting
+Goldie Cardiff."</p> 
+<p>At the conclusion of the examination of the petitioner by the
+Inspector, appears the following:</p> 
+<p>"Q. You have a right to be represented by counsel if
+you desire. A. If my brother in Spokane will get a
+lawyer for me I want a lawyer. If he will not I
+don't care for any. Q. Then if your brother in
+Spokane does not see fit to retain a lawyer for you,
+do you waive your right to be represented by counsel?
+A. Yes sir. Q. By your brother, you mean Joe
+Plastino? A. Yes sir."</p>
+<p>This appears in different colored ribbon and prior to the cer-
+tificate of the party taking the testimony. This was, in my
+judgment, inserted after the testimony was completed, for if the
+ribbon had been changed just at the time that this statement com-
+menced, it would not have been changed back to the old ribbon
+for the certificate, but the record would have been in the same
+colored ribbon from the time the first change was made. The
+statement may -have been made and not inserted at the time, but
+the fact that it is in different colored ribbon indicates that
+it mas not inserted at the time, and would at least raise a doubt
+as to whether the statement was made. It was the right of the
+accused to be advised of the privilege of counsel before he was
+examined, and it is admitted that this information was not given
+until the examination was concluded. The statement of the in-</p>
+<pb></pb>
+<p>spector in this record, unsupported by oath, is not testimony.
+Even though it had been given under oath, it is not testimony
+which would be admitted in any court, as it is the inspector's
+conclusion as to certain testimony in another case. Eliminating
+this from the testimony, there is no evidence which supports
+the charge. All of the inquiries propounded to the petitioner
+bearing upon the receipt of earnings of prostitutes were answered
+in the negative, excepting the one with relation to the trans-
+portation, and the court, I think, must recognize that there are
+many convictions under the Mann Act where the earnings are not
+the motive for the transportation.</p> 
+<p>I am fully persuaded that the accused did not have a fair
+trial, and that the petitioner's conviction was not predicated
+upon testimony produced with relation to the charge made, but
+rather upon many other charges against the accused, and which
+show him to be a very undesirable person. But such fact does
+not take from him the rights which are guaranteed, and all of
+the facts with relation to this, or any other offense, should
+be presented in the manner which the law and justice requires.
+Justice never hesitates in according a fair hearing; on the con-
+trary, guarantees it to the worst criminal. I think, under the
+record in this case, the petitioner should be discharged.</p> 
+<p>The petitioner will be discharged unless the government
+appeals within twenty days, and if appeal is taken, may be re-
+leased on $1000.00 recognizance, pending the review by the
+appellate court.</p> 
+<p>Jeremiah Neterer
+JUDGE.</p> 
+<pb></pb>
+<p>No. 3393.</p> 
+<p>IN THE DISTRICT COURT
+OF THE UNITED STATES
+FOR THE
+WESTERN DISTRICT OF WASHINGTON</p> 
+<p>FILED IN THE
+U.S. District Court,
+Western District of Washington</p>
+<p>FILED IN THE
+U.S. District Court, 
+Western Dist. of Washington,
+NORTHERN DIVISION
+SEP 20 1916
+FRANK L. CROSBY, Clerk,
+By Edm Laken Deputy
+2x</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
