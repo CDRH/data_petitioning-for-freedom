@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0496.006">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0496.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles M. Helmore v. United States. Order.</title>
+<title>Charles M. Helmore v. United States. Final Record.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0496.006</idno>
+<idno type="project">hc.case.wa.0496.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Charles M. Helmore v. United States. Order.</title>
-<date when="1916-07-18">July 18, 1916</date>
+<title level="m" type="main">Charles M. Helmore v. United States. Final Record.</title>
+<date when="1916-10-31">October 31, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
+<repository></repository>
+<collection></collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-07">July 1916</date></term>
+<term><date when="1916-10">October 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -107,13 +107,13 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States District Court</orgName>
+<orgName>District Court of the United States</orgName>
 <placeName>Western District of Washington Northern Division</placeName>
 </org>
 </listOrg>   
@@ -135,29 +135,15 @@
 <div1 type="case">
 
 <pb/>
-<p>UNITED STATES DISTRICT COURT OF THE WESTER DISTRICTOF WASHINGTON, NORTHERN DIVISION.</p>
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>IN THE MATTER OF THE APPLICATION of CHARLES M. HELMORE FOR A WRIT OF HABEAS CORPUS. ORDER NO. 3385</p>
+<p>FINAL RECORD</p>
 
-<p>THIS MATTER coming on for hearing this _____ day of _____, 1916, and the court being fully advised in the premises; it is hereby ORDERED, ADJUDGED and DECREED, that a Writ of Habeas Corpus issue under the seal of this Court, directed to John Boyle, U.S.Marshall for the Western District of Washington, to produce the body of Charles M. Helmore, before this Court, on the 19th day of July, 1916, at the hour of 1:45 o'clock <add>pm</add> and then and there show by what author ity in law, he is holding the said Charles M. Helmore, and depriving him of his liberty.</p>
+<p>In re application Charles M. Helmore for Writ H. C. NO. 3385</p>
 
-<p>DONE IN OPEN COURT THIS 18 DAY OF JULY, 1916.</p>
+<p>Witness my hand and official seal this 31st day of October, 1916.</p>
 
-<p>Jeremiah Neterer JUDGE.</p>
-
-<pb/>
-
-<p>No. _____</p>
-
-<p>IN THE <del>Superior</del><add>District</add> COURT OF THE <del>STATE</del><add>Western District of Washington, North Devision</add></p>
-
-<p>In the Matter of the Application of Charles M. Helmore for a Writ of Habeas Corpus</p>
-
-<p>Order</p>
-
-<p>Welch &amp; Dore Attorney for petitioner <unclear></unclear></p>
-
-<p>FILED IN THE U.S. District Court, Western Dist. of Washington, Northern Division JUL 18 1916 FRANK L. CROSBY, Clerk By <unclear></unclear> Deputy</p>
+<p>Frank L. Crosby CLERK U.S. DISTRIC COURT.</p>
 
 </div1>
     
