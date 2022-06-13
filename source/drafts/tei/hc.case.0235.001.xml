@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0268.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ernest Hutchinson v. State of Washington. Evidence. </title>
+<title>Leroy Smith v. O.P. Halligan. Order Granting Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Tecca, Lauryn" xml:id="lnt">Lauryn Tecca</name>
+<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2022-06</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -35,7 +36,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0268.002</idno>
+<idno type="project">hc.case.wa.0235.001</idno>
+
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Ernest Hutchinson v. State of Washington. Evidence.</title>
-
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">Leroy Smith v. O.P. Halligan. Order Granting Writ of Habeas Corpus</title>
+<date when="1916-10-24">October 24, 1916</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -69,16 +71,20 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term></term>
 </keywords>
 
+<keywords scheme="original" n="term">
+<term><date when="1916-10">October 1916</date></term>
+</keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -88,9 +94,9 @@
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Smith, Leroy</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -102,71 +108,61 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> 
-<placeName></placeName>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#lnt">transcribed and encoded.</change>
+<change when="2022-06" who="#slb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>  
+<text>
 
 <body>  
+
+
                
 <div1 type="case">
 
 <pb/>
-<p>Our Display Room Contains Hundreds of 
-High-Class and Standard Articles
-with which you can</p>
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHNGTON
+NORTHERN DISVISION</p>
 
-<p>Beautify Your Homes</p>
-<p>Richest Designs in</p>
-<p>Silverware</p>
-<p>Lamps</p>
-<p>Cut Glass</p>
-<p>Cameras</p>
-<p>Musical Instruments</p>
-<p>Furniture</p>
-<p>Opera Glasses</p>
-<p>Clocks</p>
-<p>Jardinieres Etc.</p>
-<p>And Numerous Other Articles
-can be secured</p>
-<p>In Exchnage for Red Buyers' Stamps</p>
-<p>We are Constantly Adding New Articles to Our Stock</p>
-<p>Everyone Invited to Call at Our Store.</p>
+<p>In the Matter of the Application of Leroy Smith for Writ of Habeas Corpus. No. 3445 ORDER GRANTING WRIT OF HABEAS CORPUS</p>
 
-<pb></pb>
+<p>This cause having come regularly on to be heard on the petition of Leroy Smith for a writ of habeas corpus and the court having duly considered the matters and things set forth therein and being duly advised in the premises;</p>
 
-<p>...RED...
-STAMP BOOK</p>
+<p>IT IS ORDERED that a writ of habeas corpus issue in the above entitled cause in favor of the said Leroy Smith, and the said Leroy Smith be hereby discharged from custody.</p>
 
-<p>"It's not what you earn, but what
-you save, that makes you rich."</p>
+<p>Done in open court this 24th day of October, 1916.</p>
 
-<p>Issued by</p>
-<p>National Stamp Co.,</p>
-<p>Petoskey, Mich.,</p>
-<p>Central Lake, Mich.,</p>
-<p>Bellaire, Mich.,</p>
-<p>Mancelona. Mich.</p>
-<p>Equity, Integrity, backed with ample Capital, are the
-strong points of the Red Buyers' Stamp.</p>
+<p>Edward E Cushman United States District Judge.</p>
 
-<pb></pb>
+<pb/>
+
+<p>No. 3445</p>
+
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF WASHINGTON NORTHERN DIVISION.</p>
+
+<p><add>g0B-6-y03</add></p>
+
+<p>In the Matter of the Application of Leroy Smith for Writ of Habeas Corpus.</p>
+
+<p>ORDER GRANTING WRIT OF HABEAS CORPUS</p>
+
+<p>FILED IN THE U.S. District Court, Western Dist. of Washington, Northern Division OCT 24  1916 FRANK L. Crosby, Clerk, By Ed M Lakin Deputy</p>
 
 </div1>
     
