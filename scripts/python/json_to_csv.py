@@ -11,39 +11,18 @@ AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
 API_KEY = os.environ.get("API_KEY")
 cwd = Path.cwd()
 # download the spreadsheets from command line using airtable_export
-command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People 'Case Data [join]' 'Relationships [join]' --key={API_KEY} --json"
+command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People --key={API_KEY} --json"
 os.system(command)
 # Get all the spreadsheets' file paths
 cases_relative = "source/json/cases.json"
-# case_role_relative = "source/json/case role [join].json"
 people_relative = "source/json/people.json"
-# relationships_relative = "source/json/relationships [join].json"
 cases_path = (cwd / cases_relative).resolve()
-# case_role_path = (cwd / case_role_relative).resolve()
 people_path = (cwd / people_relative).resolve()
-# relationships_path = (cwd / relationships_relative).resolve()
 # create dataframes for each of the spreadsheets
 cases_frame = pd.read_json(cases_path, orient="records")
 people_frame = pd.read_json(people_path, orient="records")
-# case_role_frame = pd.read_json(case_role_path, orient="records")
-# relationships_frame = pd.read_json(relationships_path, orient="records")
-# clean frames of blank entries
-
-# case_role_frame["Case"] = case_role_frame["Case"].str[0]
-# case_role_frame["Person"] = case_role_frame["Person"].str[0]
-# relationships_frame["person 1"] = relationships_frame["person 1"].str[0]
-# relationships_frame["Cases"] = relationships_frame["Cases"].str[0]
-# set indices so values can be retrieved in the proper order
-# group_by to combine persons with multiple roles and relationships (group_by also has the effect of setting the index)
-# case_role_frame = case_role_frame.groupby(["Person", "Case"]).agg({"Case Role": pd.Series.to_list})
-# case_role_frame["Case Role"] = case_role_frame["Case Role"].astype(str)
+# set index so values can be retrieved in the proper order
 people_frame = people_frame.set_index("airtable_id")
-# relationships_frame = relationships_frame.groupby(["person 1", "Cases"]).agg({"relationship type": pd.Series.to_list, "person 2": pd.Series.to_list})
-# relationships_frame["relationship type"] = relationships_frame["relationship type"].astype(str)
-# change locations column names to desired values (especially important: make sure join column has the same name)
-# locations_frame = locations_frame.rename(columns={"airtable_id": "Location", "Name": "Location name", "city": "Location city", "county": "Location county", "state/territory": "Location state"})
-# merge the frames, this is similar to a SQL join; specify the column names needed
-# cases_frame = cases_frame.merge(locations_frame[["Location", "Location name", "Location city", "Location county", "Location state"]], how = "left", on = "Location")
 # columns to take from the people array
 # desired_fields = ["Age Category", "Date of Birth", "Participants", "Immigrant Status", "Race or Ethnicity", "Sex", "Tags", "Notes"]
 # go through all these fields and fill them in
