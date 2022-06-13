@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0495.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant. Type of document</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Pizzi, Annabella D." xml:id="adp">Annabella D. Pizzi</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>NSF</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0495.001</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant.</title>
+<date when="1000">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Immigration</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916">1916</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Yo You Jam</persName>
+</person>
+<person role="defendant">
+<persName>U.S. Government</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Storey, James V. (Beeler &amp; Sullivan)</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant_assistant">
+<persName>Moodie, Albert</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+ 
+<listOrg>
+<org>           
+<orgName>United States District Court Western District of Washington Northern Division</orgName> 
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#adp">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN DISTRICT
+OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>UNITED STATES OF AMERICA,
+Plaintiff,
+Vs.
+YO YOU JAM,
+Defendant.} No. 3395
+APPEARANCE.</p>
+<p>To the Clerk of the above entitled Court:
+You will please enter our appearance as attorneys for
+Yo You Jam in the above entitled cause, and service of all subsequent
+papers, except writes and process, may be made upon said 
+Beeler &amp; Sullivan, by leaving the same with Beeler &amp; Sullivan, Office
+address 520 White Bldg., Seattle, Washington.
+Beeler Sullivan</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
