@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0493.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Harry Smith v. United States. Affidavit of Petitioner.</title>
+<title>Harry Smith v. United States. Order.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0493.005</idno>
+<idno type="project">hc.case.wa.0493.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Harry Smith v. United States. Affidavit of Petitioner.</title>
-<date when="1916-07-01">July 1, 1916</date>
+<title level="m" type="main">Harry Smith v. United States. Order.</title>
+<date when="1916">1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-07">July 1916</date></term>
+<term><date when="1916">1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -87,7 +87,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -135,27 +135,34 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>IN THE UNITED STATES DISTRICT OURT, IN AND FOR THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION</p>
 
-<p>UNITED STATES OF AMERICA, Plaintiff, vs. HARRY SMITH, Defendant. No. _______ AFFIDAVIT OF PETITIONER.</p>
+<p>UNITED STATES OF AMERICA, Plaintiff, vs. HARRY SMITH, Defendant. No. _______ ORDER.</p>
 
-<p>STATE OF WASHINGTON, COUNTY OF KING} ss</p>
+<p>Upon the reading of the verified Petition of the above named petitioner, and upon the reading of the Affidavit hereunto annexed, and good cause appearing therefor, it is hereby ORDERED, ADJUDGED and DECREED:</p>
 
-<p>HARRY SMITH, being first duly sworn, on oath deposes and says: That he is the above named petitioner; that he is without the means to pay the fees or necessary costs of court in this action; that your petitioner is a native born citizen of the United States and is entitled to all the rights accrued to him under the Forma Pauperis Act, accrued June 25, 1910, 36th Statute, 86.</p>
-
-<p>WHEREFORE, your petitioner prays for an Order of court that he may appear in this action in Forma Pauperis.</p>
+<p>1. That the petitioner may appearand prosecute this action in Forma Pauperis.</p>
 
 <p>That the necessary fees and costs of court be paid by the Government.</p>
 
-<p>That the court make any further Order that it may deem necessary to afford your petitioner full and adequate relief.</p>
+<p>Jeremiah Neterer JUDGE.</p>
 
-<p>Harry Smith</p>
+<pb/>
+<p><del>COPY</del><add>Original</add> NO. 3376</p>
 
-<p>Subscribed and sworn to before me this 1 day of July, 1916.</p>
+<p>IN THE U.S. DISTRICT COURT IN THE SUPERIOR COURT <del>STATE OF WASHINGTON <unclear></unclear></del> WESTERN DISTRICT, NORTHERN DEVISION</p>
 
-<p><unclear></unclear></p>
+<p>UNITED STATES OF AMERICA, Plaintiff vs. Harry Smith, Defendant</p>
 
-<p>Notary Public in and for the State of Washington, residing at</p>
+<p>PETITION, AFFIDAVIT and ORDER</p>
+
+<p>FILED IN THE U.S. DISTRICT COURT, Western Dist. of Washington, Northern Division JUL 1-1916</p>
+
+<p>FRANK L. CROSBY, Clerk, By _________ Deputy</p>
+
+<p>BEELER &amp; SULLIVAN Lawyers 210-11 White Building, Seattle, Wash. <unclear>Mals 367</unclear></p>
+
+<p>Copy of within _________ received and due service of same acknowledged this ______ day of _____ 19__ Attorney for ___________</p>
 
 </div1>
     
