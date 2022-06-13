@@ -104,11 +104,16 @@
 <person role="defendant">
 <persName>Henry M. White</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known --> 
+<persName>Adam Beeler</persName>
+<persName>John J. Sullivan</persName>
+<persName>Jospeh M. Glasgow</persName>
+<persName>John King</persName>
+<persName>Tolman</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Clay Allen</persName>
+<persName>Albert Moodie</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
 <persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->

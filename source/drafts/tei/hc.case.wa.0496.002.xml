@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0487.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0496.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
+<title>Charles M. Helmore v. United States. Oath.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
+<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +36,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0487.007</idno>
+<idno type="project">hc.case.wa.0496.002</idno>
+
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -45,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
-<date when="2022-06-08">June 8, 2022</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">Charles H. Helmore v. United States. Oath.</title>
+<date when="1916-07-18">July 18, 1916</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Immigration</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,92 +79,96 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1904-10"></date>October 1904</term>
+<term><date when="1916-07">July 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ham Hung Wah</term>
-<term>I. D. MoCutcheon</term>
-<term>C.H. Hanford</term>
-<term>A. Reeves Ayres</term>
-<term>A.N. Moore</term>
+<term>Welsh, Robert</term>
+<term>Crosby, Frank L.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Tom Sing</persName>
+<persName>Helmore, Charles M.</persName>
 </person>
 <person role="defendant">
-<persName>Ham Hung Wah</persName>
+<persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>I. D. MoCutcheon</persName>
+<persName>Dore, John F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>C.H. Hanford</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Ninth Judicial Circuit Court</orgName> 
-<placeName>District of Washington</placeName>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#jy">transcribed and encoded.</change>
+<change when="2022-06" who="#slb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>  
+<text>
 
 <body>  
+
+
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0487.007"/>
+<pb/>
+<p>STATE AND DISTRICT OF WASHINGTON, COUNTY OF KING.} ss.</p>
 
-<p>In the Circuit Court of the United States for the District of Washington, Northern Division.</p>
+<p>John F. Dore</p>
 
-<p>In re: Application of Ham Hung Wah for a Writ of Habeas Corpus.          No. 1227.</p>
+<p>being first duly sworn on oath says: That he is the one of the attorneys for Charles M Helmore, the petitioner herein in the above entitled action; that he has heard the foregoing petition read, knows the cntents thereof and believes the same to be true</p>
 
-<p>On this 25th day of October, 1904, on application and notion of I. D. MoCutcheon, Esq., attorney for the petitioner herein, it is ordered that the aove entitled cause and and petition be, and the same is hereby, dismissed.</p>
+<p>John F Dore</p>
 
-<p>C.H. Hanford<!--Signed-->
-Judge.</p>
+<p>Subscribed and sworn to before me this 18 day of July 1916</p>
 
-<p>No. 1227</p>
+<p>Robert Welsh</p>
 
-<p>IN THE Circuit COURT
-OF THE UNITED STATES
-FOR THE
-DISTRICT OF WASHINGTON</p>
+<p>Notary Public for the State of Washington, Residing at Seattle</p>
 
-<p>In re-
-Ham Hung Wah
-vs.
-Habeas Corpus</p>
+<figure></figure>
 
-<p>Order of dismissal.</p>
+<pb/>
 
-<p>Filed Oct 15, 1904</p>
-<p>A. Reeves Ayres Clerk</p>
-<p>By A. N. Moore Deputy</p>
+<p>No. _______</p>
 
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE <add>Western</add> DISTRICT OF WASHINGTON NORTHERN DIVISION <del></del></p>
+
+<p>In the matter of the application of Charles M. Helmore for a writ of Habeas Corpus <del>Libellant,</del> Respondent.</p>
+
+<p><del>James B. Metcalfe</del>Welch &amp; Dore</p>
+
+<p>ROOM 417, PACIFIC BLOCK, SEATTLE, WASH. <del>Proctor</del> <add>atty</add> for Petitioner</p>
+
+<p>FILED IN THE U.S. District Court, Western Dist. of Washington, NORTHERN DIVISION</p>
+
+<p> JUL 18 1916</p>
+
+<p> FRANK L. CROSBY, Clerk, By <unclear></unclear> Deputy</p>
 </div1>
     
 </body>

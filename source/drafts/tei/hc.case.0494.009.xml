@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0487.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0494.009">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
+<title>In Re: Petition of H. C. Littooy for Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0487.007</idno>
+<idno type="project">hc.case.wa.0494.009</idno>
+
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -45,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">In Re: Petition of Ham Hung Wah by Tom Sing for Writ of Habeas Corpus.</title>
-<date when="2022-06-08">June 8, 2022</date>
-<note type="project">Our transcription is based on a digital image.</note>
+<title level="m" type="main">In Re: Petition of H. C. Littooy for Writ of Habeas Corpus.</title>
+<date when="2022-06-10">June 10, 2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Immigration</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,45 +79,49 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1904-10"></date>October 1904</term>
+<term><date when="1904-07">July 1904</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ham Hung Wah</term>
-<term>I. D. MoCutcheon</term>
-<term>C.H. Hanford</term>
+<term>H. C. Littooy</term>
+<term>Parker &amp; Brown</term>
+<term>C. H. Hanford</term>
+<term>Edward Cudihee</term>
+<term>Samuel R. Stern</term>
+<term>R. M. Hopkins</term>
 <term>A. Reeves Ayres</term>
-<term>A.N. Moore</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Washington</term>
+<term>King County, Washington</term>
+<term>6304, "The Brooklyn Annex", Spokane, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Tom Sing</persName>
+<persName>H. C. Littooy</persName>
 </person>
 <person role="defendant">
-<persName>Ham Hung Wah</persName>
+<persName>Washington Board of Dental Examiners</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>I. D. MoCutcheon</persName>
+<persName>Parker &amp; Brown</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Samuel R. Stern</persName>
 </person>
 <person role="judge">
-<persName>C.H. Hanford</persName>
+<persName>H. C. Hanford</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Ninth Judicial Circuit Court</orgName> 
+<orgName>Ninth Judicial Circuit Court</orgName>
 <placeName>District of Washington</placeName>
 </org>
 </listOrg>   
@@ -124,45 +129,46 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#jy">transcribed and encoded.</change>
+<change when="2022-06" who="#jy">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text>  
+<text>
 
 <body>  
+
+
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0487.007"/>
+<pb facs="hc.case.wa.0494.009"/>
 
-<p>In the Circuit Court of the United States for the District of Washington, Northern Division.</p>
+<p>IN THE CIRCUIT COURT OF THE UNITED STATES, NINTH JUDICIAL DISTRICT, DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>In re: Application of Ham Hung Wah for a Writ of Habeas Corpus.          No. 1227.</p>
+<p>In the Matter of H. C. LITTOOY, On Habeas Corpus</p>
+<p>No. 1907.</p>
 
-<p>On this 25th day of October, 1904, on application and notion of I. D. MoCutcheon, Esq., attorney for the petitioner herein, it is ordered that the aove entitled cause and and petition be, and the same is hereby, dismissed.</p>
+<p>An application having been heretofore made upon the petition of the above named H. C. Littooy for a writ of habeas corpus herein, and the said matter having come on to be heard before me on June 27, 1904, and, after hearing Messrs. Parker &amp; Brown in behalf of said petitioner and Samuel R. Stern in opposition thereto,</p>
+<p>It is ORDERED, ADJUDGED and DECREED that said petition be and the same hereby is denied and dismissed, and taht Edward Cudihee, sheriff of King County, Washington, to whom asid writ issued have and recover from the said petitioner, H. C. Littooy, the sum of $10.60 as costs and disbursements and that he have execution therefor.</p>
+<p>Dated at Seattle, Washington, this 20th day of July, 1904.</p>
+<p>C. H. Hanford<!--signed--></p>
+<p>Judge.</p>
 
-<p>C.H. Hanford<!--Signed-->
-Judge.</p>
 
-<p>No. 1227</p>
+<p>No. 1207</p>
+<p>Circuit Court of the United States.</p>
+<p>In the Matter of H. C. Littooy on Habeas Corpus.</p>
 
-<p>IN THE Circuit COURT
-OF THE UNITED STATES
-FOR THE
-DISTRICT OF WASHINGTON</p>
+<p>Judgement. 
+Order of Dismissal.</p>
 
-<p>In re-
-Ham Hung Wah
-vs.
-Habeas Corpus</p>
+<p>Samuel R. Stern, Attorney for Defendant.</p>
+<p>Offices: 6304 (Sixth Floor) "The Brooklyn Annex," Spokane, Wash..</p>
 
-<p>Order of dismissal.</p>
-
-<p>Filed Oct 15, 1904</p>
-<p>A. Reeves Ayres Clerk</p>
-<p>By A. N. Moore Deputy</p>
+<p>Filed July 20, 1904</p>
+<p>A. Reeves Ayres, Clerk</p>
+<p>R. M. Hopkins, Deputy Clerk</p>
 
 </div1>
     
