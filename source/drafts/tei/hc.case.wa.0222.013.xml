@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0222.012">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0222.013">
     
 <teiHeader>
 <fileDesc>
@@ -20,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0222.012</idno>
+<idno type="project">hc.case.wa.0222.013</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -79,17 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1917-09">September 1917</date></term>
+<term><date when="1000-01">Month YYYY</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term></term>
-
-
-
-
-
-
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,13 +100,13 @@
 <persName>Frank T. Hodge</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Alfred H. Lundin</persName>
+<persName>George D. Emery</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Frank P. Helsell</persName>
+<persName></persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -127,7 +120,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-06" who="rp">transcribed and encoded</change>
+<change when="2022-06" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,46 +134,62 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR 
-THE WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
-<p>In the Matter of the Petition 
-of FRANCIS STEPHEN MEDCRAF for 
-a Writ of Habeas Corpus.</p>
+<p>IN THE UNITED STATES DISTRICT COURT FOR THE 
+WESTERN DISTRICT OF WASHINGTON-NORTHERN 
+DIVSION.</p>
 
-<p>No. 3038
-CERTIFICATE OF PROBABLE CAUSE.</p>
+<p>IN THE MATTER OF THE APPLICATION 
+OF FRANCIS STEPHEN MEDCRAF FOR A 
+WRIT OF HABEAS CORPUS.
+3038
+BAIL BOND.</p>
 
-<p>An order having been entered herein on September 30, 
-1915, allowing an apeal in the above entitled cause to the 
-Supreme Court of the United States adn no certificate of probable
-cause having been issued at said time, and counsel for the 
-respective parties having stipulted that said certificate may 
-now be issued and transmitted to the Supreme Court of the United 
-States, and the Court having considered said matter,</p>
-<p>NOW, THEREFORE, I, Jeremiah Neterer, Judge of the above 
-entitled Court, before whom said cause was tried and by whom a 
-decision therein was rendered on September 23, 1915, do hereby 
-certify in accordance with the Act of Congress of March 10, 1908,
-(35 Stat.L40) that there is probable cause for the allowance of 
-said appeal.</p>
-<p>DONE in open Court this 4th day of <del>August</del> <add>September</add> 1917, as of
-September 30, 1915, nunc pro tunc.</p>
+<p>KNOW ALL MEN BY THESE PRESENTS that we, Francis Stephen 
+Medcraf  as principal and M. M. Null and Nell J. Null, E Michael
+&amp; Leomie J Michael as sureties, <add>all of Seattle, Wash,</add> are held and firmly bound 
+unto THE UNITED STATESOF AMERICA for the use and benefit of any
+person entitled thereto, in the sum of FIVE HUNDRED DOLLARS ($500)
+lawful money of these United States, for the payment of which well 
+and truly to be made, we hereby bind ourselves, our each and of 
+our heirs, executors and administrators, jointly and severally, 
+firmly by these presents.</p>
+<p>Given under our hands this 11th day of June A. D. 1915.
+THE CONDITION of this obligation is such that, Whereas;</p>
+<p>The above bounden Francis Stephen Medcraf has been arrested upon
+a warrant issued by Reah M. Whitehead, a Justice of the Peach of 
+the State of Washington, charging him with practicing dentistry 
+without a license so to do, at Seattle, King County, Washington, 
+and was, on June 9th, 1915, convicted of said offense and 
+sentenced to pay a fine of $50.00 and costs amounting to $8.90 and 
+to stand committed to the county Jail of said county until such 
+fine and costs are paid at the rate of $3.00 per day for each day
+of such imprisonment; and whereas</p>
+<p>The said Francis Stephen Medcraf has applied to the United States
+District Court above named for a writ of Habeas Corpus to inquire
+into the matter aforesaid and the imprisonment of the said Francis 
+Stephen Medcraf under the commitement issued upon such judgment and
+conviction, alleging that his imprisonment thereunder is illegal 
+as being in contravention of the Constitution of the United States
+and of the State of Washington, and a Writ of Habeas Corpus has 
+been duly issued by said United States District Court upon said
+petition and the said applicant has been brought before the Court
+preliminary to the hearing of said Writ and is now before said Court
+and the hearing thereof has been fixed for Monday, June 14th
+1915 at 10 o'clock A. M. and the bail of said petitioner has been 
+by said court fixed at $500.00;</p>
 
-<ab>Jeremiah Neterer
-District Judge and the presiding Judge 
-before whom said cause was heard.</ab>
 
-<ab>OK.
-Alfred H. Lundin
-<unclear/> Caldwell
-Frank P. Helsell</ab>
 
-<p>LAW OFFICES
-CASSIUS E. GATES
-L. C. SMITH BUILDING, SEATTLE</p>
 
-<pb/>
+
+
+
+
+
+
+
+
 
 
 
