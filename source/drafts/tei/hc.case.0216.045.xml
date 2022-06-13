@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0216.045">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chin Hing v. United States of America. Certificate</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0216.045</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Chin Hing v. United States of America. Certificate</title>
+<date when="1914-11-20">November 20, 1914</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1914-11">November 1914</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Hing, Chin</persName>
+</person>
+<person role="defendant">
+<persName>Government, United States</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Sullivan, John J.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Fishburne, GP</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#edr">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>Incl. no. 7
+Department of Commerce and Labor</p>
+
+<p>Washington, November 20, 1914</p>
+
+<p>I <unclear>hereby</unclear> certify that the annexed is a true copy of the original
+memorandum <unclear></unclear> ompanying digest of evidence, which were attached to the appeal
+record in <unclear></unclear> Chin Hing, when said record was submitted to the Acting Secretary 
+of <unclear></unclear>er date of September 22, 1914, and also when the said record
+was submit<unclear>ted</unclear> the Secretary of Labor under date of November 13, 1914, bearing
+the no<unclear></unclear>approval of the Acting Secretary under date of September 25,
+<add>and of the secretary under date of November 13, 1914.</add>
+on file in <unclear></unclear>bureau of Immigration</p>
+<p>A. Caminetti
+Commissioner General of Immigration</p>
+
+<p>Office of the secretary
+<unclear>I heareby certify</unclear>that A Caminetti
+who signed the <unclear>following</unclear> certificate, is now, and was at the time of signing,
+Commissioner General of Immigration
+and that <unclear></unclear>credit should be given to his certification as such.
+In witness whereof, I have hereunto subscribed my
+name, and caused the seal of the Department
+of Commerce and Labor to be affixed 
+this 20th day of November
+one thousand ninehundred and fourteen.
+Louis F. Post
+Assisstant Secretaty of <del>Commerce and</del> Labor</p>
+
+<p><figure></figure></p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
