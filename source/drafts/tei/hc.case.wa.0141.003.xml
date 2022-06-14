@@ -1,25 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>The United States of America
-Territory of Washington
-To E.F. Whittier the Sheriff of Spokane
-County, Washington: Greeting
-This is to command
-you, that you have the body of Arthur
-Powell by you imprisoned and detained
-as it is said before the District Court of
-the Territory of Washington for the 4th
-in Spokane County on the 5th day of May
-A.D. 1885 then and there to do and receive what
-shall be ordered concerninghim and have
-you then and there this writ. Hereof
-fail not under penalty of the law.
-By order of the court.
-Witness the Hon. George Turner
-Jud. of the 4th Judicial District
-of the Territory of Washington
-with the seal of our said court
-hereunto attached.
-Kate W. Feauerbach
-Clerk
-By R. Strobach
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0141.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. Arthur Powell. Commitment</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0141.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. Arthur Powell. Commitment</title>
+<date when="1885-05-01">May 1, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1588-01</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-05">May 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Shuck, Ava</term>
+<term>Thomas, Newton</term>
+<term>Whittier, E. F.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Cheney, Washington</term>
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Powell, Arthur</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Peel, J. J. P.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District Court</orgName>
+<placeName>Spokane, Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0141.003"/>
+<p>Territory of Washington
+County of Spokane}ss
+
+In Justice Court
+of J. J. L. Peel JP</p>
+
+<p>To the Sheriff or constable and the Keeper
+of the jail of said county.
+
+Where as Asa Shuck and Arthur Powell
+have been brought before the undersigned
+one of the Justice of the Peace in and for
+said County charged on the Oath of
+Newton Thomas with having on or
+about the middle of October AD 1884
+in said County committed the offence
+of feloniously takeing stealing and
+giveing away a certain dark chestnut
+Sorrel Stallion then Now a gelding
+horse then and there being the Property of
+Newton Thomas and of the value of
+forty (40) Dollars with distrust then and
+there on the part of then the said
+Asa Shuck and Arthur Powell to 
+frandentully consent the said horse to
+their own use and upon examination
+had on the 30th (thirtieth day of April
+AD 1885 it appearing to the said Justice)
+and O F Weld was a Justice of the
+Peace asserted in the examination) that
+the offence charged in the complaint 
+had been commited and that there is probable
+cause to charge the said Asa Shuck and
+Arthur Powell to recognizance in the sum
+of two hundred and fifty $250 100/100 Dollars each</p>
+
+<pb/>
+
+<p>for their appearance to answer at the
+next term of the District Court to be
+holden in and for the county of Spokane
+and where as the said Asa Shuck and
+Arthur Powell the Defendants have failed
+to give bond in the said sum of two 
+hundred and fifty dollars each as By
+me Required therefore in the name
+of the United States of America you are
+commanded to receive the said
+Asa Shuck and Arthur Powell into
+your custody in the said Jail and
+him there safely keep until they be
+Discharged By due course of law
+Given under my hand this 1st day of
+May AD 1882
+
+J.J.L. Peel
+Justice of the Peace</p>
+
+<p>I hereby certify that the above and
+foregoing is a true and corect copy of
+the original comitment now in
+my hands under which I hold the
+said Prisoners
+dated at Cheney this 5th day of May 1882
+E.F. Whittier
+Sheriff of Spokane County
+By James S. Screw
 Deputy</p>
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
+
