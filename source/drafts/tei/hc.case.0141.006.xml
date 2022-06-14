@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0141.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0141.006">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. Arthur Powell. Clerk Certifcate</title>
+<title>Territory of Washington v. Arthur Powell. Subpoena</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0141.005</idno>
+<idno type="project">hc.case.wa.0141.006</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Arthur Powell. Clerk Certifcate</title>
-<date when="1885-05-04">May 4, 1885</date>
+<title level="m" type="main">Territory of Washington v. Arthur Powell. Subpoena</title>
+<date when="1885-05-01">May 1, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -83,11 +83,21 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Brophy, James G.</term>
+<term>Thomas, Newton</term>
+<term>Martin, William</term>
+<term>Lee, Louis</term>
+<term>Crenshaw, James</term>
+<term>Gardner, Newton</term>
+<term>Young, E. J.</term>
 <term>Feuerbach, Kate W.</term>
 <term>Strobach, R.</term>
+<term>Whittier, E. F.</term>
+<term>Hubbard, E. J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
+<term>Cheney, Washington</term>
 <term>Spokane County, Washington</term>
 </keywords>
 
@@ -135,20 +145,106 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0141.005"/>
-<p>CERTIFICATE.</p>
-<p>Territory of Washington
+<pb facs="hc.case.wa.0141.006"/>
+<p>Territory of Washington,
 County of Spokane}ss.</p>
-<p>I, Kate W. Feuerbach Clerk of the District Court of the Territory
-of Washington, and for the <del>First</del> <add>Fourth</add> Judicial District thereof, do hereby certify that 
-the above and foregoing is a true and correct copy of a writ of
-Habeas Corpus this day served on the Sheriff of Spokane in the above entitled cause, as the same now
-appears on fill in my office.</p>
-<p>In testimony whereof I have hereunto set my hand and affixed the seal
-of said Court, this 4th day of May, A.D. 1885
+
+<p>June Arthur Powell}
+in parts    Plaintiff.}
+vs.
+<gap></gap>Defendant.}</p>
+
+<p>In the District Court of the Territory
+of Washington and for the Fourth
+Judicial District thereof, holding
+ terms at Cheney, Spokane
+County, in said 
+Territory.</p>
+
+<p>To the sheriff of Spokane County, Greeting:
+In the name of the United States, You are hereby commanded to summon
+J.G. Brophy, N. Thomas, Wm Martin, 
+Louis Lee, John Crenshaw, <add>E. J. Young</add><add>E. J. <unclear></unclear></add> N. Gardner
+to be and appear before the District Court <del>E. J. Young</del>
+at the Court House, in Cheney, in said County, on the fifth day of
+May A.D. 1885, at 9 o'clock, A.M. to there give evi-
+dence in the above entitled cause <del>on the part of said</del> by command
+of the court.</p>
+<p>WITNESS the Hon. George Turner, Associate Justice of
+the Supreme Court of Washington Territory, and
+Judge of said Court, and the Seal thereof affixed,
+this 1st day of May A.D. 1885
 Kate W. Feuerbach Clerk.
 By R. Strobach Deputy.</p>
-<figure></figure>
+
+<pb/>
+
+<p>Territory of Washington
+County of Spokane}ss.</p>
+<p>I hereby certify that I served the within Subpoena on the within named witness
+by reading the same to E. J. <unclear>Hanford</unclear> in said County on this 4th
+day of May A.D. 1885
+E.G. Whittier Sheriff.
+By <gap></gap>Deputy.</p>
+
+<p>Fees
+1 Serv .40
+32 mile 3.20
+3.60</p>
+
+<p>Case No. 1588</p>
+
+<p>Subpoena.</p>
+<p>In the District Court of the Territory
+of Washington and for the Fourth
+Judicial District thereof, hold-
+ing terms at Cheney, Spo-
+kane County, in said 
+Territory
+<gap></gap>
+Plaintiff
+vs.
+<gap></gap>
+Defendant.</p>
+
+<p>Returned and filed this 5
+day of May A.D. 1885
+Kate W. Feuerbach Clerk.
+By R. Strobach Deputy.</p>
+
+<p>SHERIFF'S FEES.
+Serving 6 names at 40 240
+Mileage 98 miles at 10 980
+Total, - - - -$12.20</p>
+
+<p>Territory of Washington
+County of Spokane}ss.
+I hereby certify that 
+I served the within
+subpoena on the within
+named witnesses. J.G.
+Brophy - N Thomas,
+Louis Lee, James Crenshaw
+and E.J. Young by reading
+the same to each of
+them personally in
+Spokane County W.T. on
+this 4th day of May 1885
+after due and dilligence to
+seek the within named Wm
+Martin and N. Gardner
+could not be found in
+Spokane County W.T.
+Dated May 5 1885
+E.F. Whittier
+Sheriff
+By E.J. Hubbard
+Constable
+
+Fees
+5 serv 2.00
+66 miles 6.60
+$8.60</p>
 
 
 </div1>
@@ -156,4 +252,3 @@ By R. Strobach Deputy.</p>
 </body>
 </text>
 </TEI>
-
