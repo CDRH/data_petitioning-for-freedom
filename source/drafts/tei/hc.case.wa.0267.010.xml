@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0143.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0267.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>In the Matter of the Application of L.J. Urann for a Writ of Habeas Corpus. Certificate.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0143.002</idno>
+<idno type="project">hc.case.wa.0267.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. Frank J. Beardon. Petition for Writ of Habeas Corpus.</title>
-<date when="1885">1885</date>
+<title level="m" type="main">In the Matter of the Application of L.J. Urann for a Writ of Habeas Corpus. Certificate.</title>
+<date when="1905">1905</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts Western District of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -79,21 +79,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1885-10">October 1885</date></term>
+<term><date when="1911-12">Dec 1911</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Frank J. Beardon</term>
+<term>L.J. Urann</term>
+<term>Morris Wolf</term>
+<term>L.C. Smith</term>
+<term>Vince H. Faben</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County</term>
+<term>King County</term>
+<term>Seattle</term>
 <term>Washington</term>
-<term>Fourth Judicial District</term>
-<term>District Court of Washington Territory</term>
-<term>Lincoln County</term>
-<term>Douglass County</term>
-<term>Cheney County</term>
+<term>Western District of Washington</term>
+<term>US Circuit Court for the Ninth Circuit</term>
 </keywords>
 
 </textClass>
@@ -101,26 +102,29 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Territory of Washington</persName>
+<persName>L.J. Urann</persName>
 </person>
 <person role="defendant">
-<persName>Frank J. Beardon</persName>
+<persName>Morris Wolf</persName>
+</person>
+<person role="defendant">
+<persName>L.C. Smith</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>S.C. Hyde</persName>
+<persName>Vince H. Faben</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Kenneth Mackeeboh</persName>
 </person>
 <person role="judge">
-<persName>George Turner</persName>
+<persName>C.H. Hanford</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of Washington Territory</orgName>
-<placeName>Fourth Judicial District</placeName>
+<orgName>Ninth Circuit Court of the United States</orgName>
+<placeName>Western District of Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -141,66 +145,30 @@
 <div1 type="case">
 
 <pb/>
-    
-<p>In the District Court of Washington
-Territory within
-and for the 4th Judicial 
-District thereof, holding 
-terms at Cheney in Spokane
-County for the counties of 
-Cpokane Lincoln and
-Douglas</p>
-    
-<p>The Territory of Washington
-vs.
-Franklin Beardon}</p>
 
-<p>To the Honorable George
-Turner Associate Justice
-of the Supreme Court of
-Washington Territory-
-Your petitioner S.C.
-Hyde Prosecuting Attorney
-for the District composed
-of the counties of Spokane 
-Lincoln and Douglas
-respectfully represents
-and shows unto your
-honor that one Sterling
-P. White who is now con-
-fined in the Territorial
-Prison at Seates in Thurston</p>
-    
-<pb/>
-    
-<p>County under a sentence
-for the term of two
-years upon a conviction
-of the crime of Manslaughter 
-is and will be a material 
-witness for the Territory on
-the case of the Territory of
-Washington v. Franklin
-Beardon, now pending
-for trial in the District
-Court holding terms at
-Cheney for the counties
-of Spokane Lincoln and
-Douglas, at the October
-term of said Court to be
-held on the 2nd day of
-November next. Your
-petitioner further repre-
-sents and shows unto
-your honor that he can-
-not safely proceed to
-the trial of said court
-on the part of the Territory 
-without the testimony of
-said Sterling P. White
-as he verily believes.
-S.C. Hyde,
-Prosecuting Attorney</p>
+<p>CERTIFICATE</p>
+
+<p>United States of America
+Western District of Washington} ss.</p>
+
+<p>I, JAMES C DRAKE, Clerk of the Circuit Court of the United States, for the Western
+District of Washington, do hereby certify that the foregoing attached papers constitute the
+JUDGMENT ROLL in the foregoing entitled cause, No. <add>1313</add>
+wherein <add>In Re: Application of L.J.
+Urann, Habeas Corpus</add>
+Plaintiff
+and 
+
+Defendant</p>
+
+<p>In Testimony Whereof, I have hereunto set my hand and 
+affixed the Seal of said Circuit Court, this the 
+<add>22</add> day of <add>Dec</add> A.D. <add>1911</add></p>
+
+<p>JAMES C. DRAKE,
+Clerk.</p>
+<p>By B OWright
+Deputy Clerk.</p>
 
 
 </div1>
@@ -208,4 +176,3 @@ Prosecuting Attorney</p>
 </body>
 </text>
 </TEI>
-
