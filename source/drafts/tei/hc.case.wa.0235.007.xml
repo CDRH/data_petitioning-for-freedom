@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.012">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leroy Smith v. O.P. Halligan. Affidavit of Petitioner.</title>
+<title>Leroy Smith v. O.P. Halligan. Sentence and Judgment.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0235.012</idno>
+<idno type="project">hc.case.wa.0235.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leroy Smith v. O.P. Halligan. Affidavit of Petitioner.</title>
-<date when="1916-08-24">August 24, 1916</date>
+<title level="m" type="main">Leroy Smith v. O.P. Halligan. Sentence and Judgment.</title>
+<date when="1916-05-15">May 15, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,17 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-08">August 1916</date></term>
+<term><date when="1916-05">May 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Crosby, Frank L.</term>
-<term>Lakin, Edward M.</term>
+<term>Sawtelle, William H. </term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Western District of Washington Northern Division</term>
-<term>Seattle, Washington</term>
+<term>United States District Court For the District of Arizona</term>
+<term>State Penitentiary of the State of New Mexico at Santa Fe</term>
 </keywords>
 
 </textClass>
@@ -103,23 +102,20 @@
 <persName>Halligan, O.P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Sullivan, John J.</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Beeler, Adam</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Cushman, Edward E.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
 <orgName>District Court of the United States</orgName>
-<placeName>Western District of Washington Southern Division</placeName>
+<placeName>District of Arizona</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -140,40 +136,23 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE UNITED STATES DISTRICT COURT, IN AND FOR THE WESTERN DISTRICT OF THE STATE OF WASHINGTON, SOUTHERN DIVISION.</p>
+<p>IN THE DISTRICT COURT OF THE DISTRICT OF ARIZONA</p>
 
-<p>Ex Parte In the Matter of Leroy Smith for Writ of Habeas Corpus. AFFIDAVIT OF PETITIONER 3445</p>
+<p>UNITED STATES OF AMERICA, vs. Leroy Smith Defendant. } May Term, A.D., 1916. May 15th A.D., 1916. PRESENT: Honorable Wm. H. Sawtelle, Judge. <add>267 Tucson</add> No. C Convicted of the crime of violation of the Act of December 17, 1914.</p>
 
-<p>STATE OF WASHINGTON COUNTY OF PIERCE } ss.</p>
+<p>The defendant being present in open Court in person, and <del>by his counsel</del></p>
 
-<p>LEROY SMITH, being first duly sworn, on oath deposes and says: That he is the above named petitioner; that he is without the means to pay the fees or necessary costs of court in this action; that he is without means to pay for the printing of briefs in support of his petition for a writ of habeas corpus; that your petitioner is a native-born citizen of the United States and is entitled to all the rights accorded to him under the forma pauperis act of June 25th, 1910. (36th Stat. 86)</p>
+<p>The United States Attorney for Arizona present on the part of the United States. And this being the time heretofore fixed for passing Judgment on the defendant in this case, the defendant, Leroy Smith was duly informed by the Court of the nature of the Indictment found against him for the crime of violation of the act of December 17, 1914, committed on the 7th day of April, A.D., 1916; of his arraignment and plea of Guiltyas Charged in the Indictment on the 8th day of May, A.D. 1916.</p>
 
-<p>WHEREFORE, your petitioner prays: 
-1. For an order of court that he may appear in this action in forma pauperis.
-2. That he may file a typewritten etition and brief in support thereof; that the necessary fees and costs of court be paid by the Government.
-3. That the court make any further order that it may deem necessary to afford your petitioner full and adequate relief.</p>
+<p>The defendant was then asked if he had any legal cause to show why Judgment should not be pronounced against him; and no sufficient cause being shown or appearing to the Court, thereupon the Court renders its Judgment: That, whereas you LeRoy Smith having been duly convicted in this Court of the crime of violation of the act of December 17th, 1914, it is found by the Court that you are so guilty of said crime.</p>
 
-<p>Leroy Smith</p>
+<p>IT IS THEREFORE ORDERED, ADJUDGED AND DECREED,  and the judgment and sentence of the Court is, that you Leroy Smith be punished by imprisonment in the State Penitentiary of the State of New Mexico at Santa Fe, New Mexico, for a term of One Year and One Day to dat from May 15th, 1916, and, <del>and time you pay a fee of Hundred Dollars ($____) and in default of the payment of said fee</del> that you stand committed.</p>
 
-<p>Subscribed and sworn to before me this 24th day of August, 1916.
-Neel G. Heuly
-Notary Public in and for the State of Washington, residing at U.S. Pen</p>
+<p>The defendant was then remanded to the custody of the United States Marshal for said District, to be by him delivered into the custody of the proper officer of said State Penitentiary of the State of New Mexico, at Santa Fe, Ne Mexico.</p>
 
-<figure><p>Seal</p></figure>
+<p>AND IT IS FURTHER ORDERED, that a certified copy of this judgment shall be sufficient Warrant for the said Marshal to take, keep and safely deliver the said Leroy Smith into the custody of the proper officers of said State Penitentiary of the State of New Mexico at Santa Fe, New Mexico, and a sufficient Warrant for the officers of said State Penitentiary of the State of New Mexico at Santa Fe, New Mexico. to keep and imprison the said Leroy Smith.</p>
 
-<pb/>
-
-<p>ORIGINAL NO. 3445</p>
-
-<p>IN THE <del>SUPERIOR COURT <unclear></unclear></del><add>U.S. DISTRICT COURT WESTERN DISTRICT, SOUTHERN DIVISION.</add></p>
-
-<p>EX PARTEIN THE MATTER OF LEORY SMITH FOR WRIT OF HABEAS CORPUS.</p>
-
-<p>Affidavit</p>
-
-<p>FILED IN THE U.S. District Court, Western Dist. of Washington, Northern Division OCT 16 1916 FRANK L. CROSBY, Clerk, By Ed M Lakin Deputy</p>
-
-<p>BEELER &amp; SULLIVAN Lawyers 310-11 White Building, Seattle, Wash. Main 907.</p>
+<p>WILLIAM H. SAWTELLE, Judge.</p>
 
 </div1>
     

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0142.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Territory of Washington v. William C. Swartz. Writ of Habeas Corpus</title>
+<title>Leroy Smith v. O.P. Halligan. Order Granting Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0142.002</idno>
+<idno type="project">hc.case.wa.0235.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Territory of Washington v. William C. Swartz. Writ of Habeas Corpus</title>
-<date when="1885-08-13">August 13th, 1885</date>
+<title level="m" type="main">Leroy Smith v. O.P. Halligan. Order Granting Writ of Habeas Corpus</title>
+<date when="1916-10-24">October 24, 1916</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
-<idno>SPO-1647-01</idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,20 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1885-08">August 1885</date></term>
+<term><date when="1916-10">October 1916</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Reading, A.</term>
-<term>Wood, O. F.</term>
-<term>Clement, D. A.</term>
-<term>Johnston, Charles B.</term>
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Cheney, Washington</term>
-<term>Spokane County, Washington</term>
-<term>Spokane Falls, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -100,7 +96,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Swartz, William C.</persName>
+<persName>Smith, Leroy</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -112,21 +108,21 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Turner, George</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Fourth Judicial District Court</orgName>
-<placeName>Spokane, Washington Territory</placeName>
+<orgName>United States District Court</orgName>
+<placeName>Western District of Washington Northern Division</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#brh">transcribed and encoded</change>
+<change when="2022-06" who="#slb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,58 +135,34 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0142.002"/>
-<p>In the District Court of Washington
-Territory and for the Fourth Judicial District 
-thereof holding terms at Cheney
-in Spokane County.</p>
+<pb/>
+<p>UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WASHNGTON
+NORTHERN DISVISION</p>
 
-<p>Territory of Washington
-County of Spokane}
+<p>In the Matter of the Application of Leroy Smith for Writ of Habeas Corpus. No. 3445 ORDER GRANTING WRIT OF HABEAS CORPUS</p>
 
-To E.F. Whittier Sheriff
-of Spokane County Greeting:
-Whereas on the Eighth
-day of July A.D. 1885 one William C.
-Swartz was arrested upon a Warrant
-made by O.F. Wood Esqr. a Justice 
-of the Peace in and for said County
-of Spokane, upon the complaint of
-one A. Reading charging the said
-William C. Swartz with the crime of
-Stealing a Cow that on the ninth
-day of July A.D. 1885 the said William 
-C. Swartz was committed to the jail
-of Spokane County and into your custody
-by virtue of a warrant of committment
-issued by said Justice of the Peace in
-default of Five hundred dollars bail.</p>
-<p>Now therefore in the name of
-the United States you are hereby 
-commanded to produce the body of the said
-William C. Swartz "by whatever means
-he is held by you" before the Honorable
-George Turner associate Justice of the
-Supreme Court of Washington Territory</p>
+<p>This cause having come regularly on to be heard on the petition of Leroy Smith for a writ of habeas corpus and the court having duly considered the matters and things set forth therein and being duly advised in the premises;</p>
+
+<p>IT IS ORDERED that a writ of habeas corpus issue in the above entitled cause in favor of the said Leroy Smith, and the said Leroy Smith be hereby discharged from custody.</p>
+
+<p>Done in open court this 24th day of October, 1916.</p>
+
+<p>Edward E Cushman United States District Judge.</p>
+
 <pb/>
 
-<p>Judge of said Fourth Judicial District
-Court, at his Chamber at Spokane Falls
-at 10 oclock AM on the 14th day 
-of August A.D. 1885.</p>
-<p>Herein fail not.
-Witness the Honorable George Turner
-Associate Justice of the Supreme
-Court of Washington Territory Judge 
-od the Fourth Judicial District Court
-and the seal of said Court, at 
-Cheney in said county this the 13th
-day of August A.D. 1885.
-D.A. Clement
-Clerk of the Fourth Jud. Dist Court
-By Chas. B. Johnston
-Deputy</p>
+<p>No. 3445</p>
 
+<p>IN THE DISTRICT COURT OF THE UNITED STATES FOR THE WESTERN DISTRICT OF WASHINGTON NORTHERN DIVISION.</p>
+
+<p><add>g0B-6-y03</add></p>
+
+<p>In the Matter of the Application of Leroy Smith for Writ of Habeas Corpus.</p>
+
+<p>ORDER GRANTING WRIT OF HABEAS CORPUS</p>
+
+<p>FILED IN THE U.S. District Court, Western Dist. of Washington, Northern Division OCT 24  1916 FRANK L. Crosby, Clerk, By Ed M Lakin Deputy</p>
 
 </div1>
     
