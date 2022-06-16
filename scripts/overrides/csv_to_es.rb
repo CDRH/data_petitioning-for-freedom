@@ -174,7 +174,7 @@ class CsvToEs
 			  place = { "title" => JSON.parse(@row["Court Location(s)"]), "type" => "court_location" }
       end
       if @row["Site(s) of Significance"]
-        place = { "title" => @row["Site(s) of Significance"], "type" => "site_of_significance" }
+        place = { "title" => JSON.parse(@row["Site(s) of Significance"]), "type" => "site_of_significance" }
       end
 			place
 		end
