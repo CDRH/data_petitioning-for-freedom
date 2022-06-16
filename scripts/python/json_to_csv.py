@@ -70,7 +70,6 @@ people_frame = people_frame.set_index("airtable_id")
 
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
 cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "Last Modified By", "People", "airtable_createdTime", "airtable_id", "Created", "Created By", "Encoding Incomplete?", "Relationships [join]", "Case Role [join]", "Petition Outcome Old"])
-cases_frame = cases_frame.rename(columns={"Court Type(s)": "Court Type", "Record Type(s)": "Record Type"})
 people_frame = people_frame.drop(columns=["Created", "Last Modified", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2"])
 
 for label in ["Petition Type", "Record Type", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])"]:
