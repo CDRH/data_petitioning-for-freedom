@@ -112,24 +112,6 @@ class CsvToEs
       people
     end
   
-
-    def places
-      places = []
-      if @row["State/Territory"]
-        state = @row["State/Territory"]
-        places << state
-        if @row["County"]
-          county = @row["County"] + " County, " + @row["State/Territory"]
-          places << county
-        end
-        if @row["City"]
-          city = @row["City"] + ", " + @row["State/Territory"]
-          places << city
-        end
-      end
-      places
-    end
-  
     def publisher
       "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
     end
