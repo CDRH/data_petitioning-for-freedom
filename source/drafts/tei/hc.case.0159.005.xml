@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0159.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>In Re: Application of N. T. B. Pentreath for a Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0159.005</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">In Re: Application of N. T. B. Pentreath for a Writ of Habeas Corpus.</title>
+<date when="2022-06-16">June 16, 2022</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington.</repository>
+<collection>RG 21 US Circuit Courts, Western Disctrict of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Unlawful Arrest</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1905-03">March 1905</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -120,7 +121,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#xxx">transcribed and encoded</change>
+<change when="2022-06" who="#jy">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,8 +134,34 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0159.005"/>
 
+<p>IN THE CIRCUIT, COURT OF THE UNITED STATES IN AND FOR THE WESTERN DISTRICT OF WASHINGTON.</p>
+<p>NORTHERN DIVISION.</p>
+
+<p>IN THE MATTER OF THE APPLICAITON OF N. T. B. PENTRTEATH, for A Writ of HABEAS CORPUS.</p>
+<p>ORDER GRANTING THE WRIT.</p>
+
+<p>Upon reaadin gth epetition of the petitioner, N. T. B. Pentreath, duly signed and verified by him, whereby it appears that he is illegally imprisoned and restrained of his liberty by Thomas Delaney, Chief of Police of the City of Seattle, State of Washington, at the city jail, in said city, and stating wherein the alleged illegality consists, from which it appears to me that a writ of Habeas Corpus ought to issue, it is ordered,<del>it is ordered</del> that a writ of Habeas Corpus issue out of and under the seal of this court, directed tot he said Thomas Delaney , chief of Police as aforesaid, commanding him to have the body of the said N. T. B. Pentreath before me in the court room of the said court, at 4th Ave., and Marion Street in said city of Seattle, on the 31st day of March 1905, at ten o'clock A. M. of that day, to do and receive what shall then and there be considered, concerning the said petitioner, N. T. B. Pentreath together with the time and cause of his detention, and that you have then and there the said writ.</p>
+
+<p>C. H. Hanford<!--signed--></p>
+<p>Judge of the U. S. Circuit Court.</p>
+
+<p>Dated this 30th day of March, 1905.</p>
+
+
+<p>No. 1274</p>
+<p>In the United States Circuit Court FOR THE<add>Western</add> DISTRICT OF WASHINGTON Northern Division</p>
+<p>In the Matter of the Petition of N. T. B. Pentreath for Writ of Habeas Corpus.</p>
+
+<p>FILED IN THE U. S. Circuit Court, Western Dist. of Washington.</p>
+<p>MAR 30 1905</p>
+<p>A. REEVES AYRES, Clerk</p>
+<p>A. N. Moore<!--signed-->, Dep.</p>
+<p>Order for Writ.</p>
+
+<p>J. L. Waller + Z. B. Rowan</p>
+<p>Attorney for petitioner</p>
 
 </div1>
     
