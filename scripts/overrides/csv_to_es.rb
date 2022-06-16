@@ -10,9 +10,15 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-			@json["outcome_k"] = JSON.parse(@row["Petition Outcome"])
-      @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
-      @json["fate_of_bound_party_k"] = JSON.parse(@row["Fate of Bound Party(s)"])
+      if @row["Petition Outcome"]
+			  @json["outcome_k"] = JSON.parse(@row["Petition Outcome"])
+      end
+      if @row["Point(s) of Law Cited"]
+        @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
+      end
+      if @row["Fate of Bound Party(s)"]
+        @json["fate_of_bound_party_k"] = JSON.parse(@row["Fate of Bound Party(s)"])
+      end
 		end
 		
 		def id
@@ -62,8 +68,8 @@ class CsvToEs
     end
   
     def format
-      if @row["Record Type"]
-        JSON.parse(@row["Record Type"])
+      if @row["Record Type(s)"]
+        JSON.parse(@row["Record Type(s)"])
       end
     end
   
@@ -175,8 +181,8 @@ class CsvToEs
     end
 
     def type
-      if @row["Court Type"]
-        JSON.parse(@row["Court Type"])
+      if @row["Court Type(s)"]
+        JSON.parse(@row["Court Type(s)"])
       end
     end
 
