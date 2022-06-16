@@ -1,10 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>No. 1647
-In the application
-of William C. Swartz
-for writ of Habeas
-Corpus
-Petition
-Filed Aug 11, 1885
-D.A. Clement
-Clerk</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0142.006">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Territory of Washington v. William C. Swartz. Subpoena</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0142.006</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Territory of Washington v. William C. Swartz. Subpoena</title>
+<date when="1885-08-12">August 12th, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno>SPO-1647-01</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-08">August 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Clement, D. A.</term>
+<term>Wilson, Charles</term>
+<term>Whittier, E. F.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane Falls, Washington</term>
+<term>Spokane County, Washington</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Swartz, William C.</persName>
+</person>
+<person role="defendant">
+<persName></persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Fourth Judicial District Court</orgName>
+<placeName>Spokane, Washington Territory</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#brh">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0142.006"/>
+<p>
+Territory of Washington
+County of Spokane}ss.</p>
+
+<p>Territory of Washington}
+Plaintiff.
+vs.
+William C. Swartz
+Defendant.}</p>
+
+<p>In the District Court of the Territory
+of Washington and for the Fourth
+Judicial District thereof, hold-
+ing terms at Cheney, Spo-
+kane County, in said
+Territory</p>
+
+<p>To the Sheriff of Spokane County, Greeting:
+In the name of the United States, You are hereby commanded to summon
+Chas Wilson
+to be and appear before the Hon. George Turner at chambers.
+<del>at the court house, in Cheney</del> in said County, on the instanter <del>day of</del>
+<gap></gap>A.D. 188<gap></gap> at <gap></gap> o'clock <gap></gap>.M. to there give evi-
+dence in the above entitled cause on the part of said defendant</p>
+
+<p>Witness the Hon. George Turner, Associate Justice of
+the Supreme Court of Washington Territory, and
+Judge of said Court, and the Seal thereof affixed,
+this 14th day of August A.D. 1885
+D.A. Clement Clerk
+By <gap></gap> Deputy
+</p>
+
+<figure><p>DISTRICT COURT WASHINGTON TERRITORY O</p><p>FOURTH JUD. DISTRICT</p> <p>SPOKANE COUNTY</p></figure>
+
+<pb/>
+
+<p>Territory of Washington
+County of Spokane}ss.
+
+I hereby certify that I <add>did not</add> served the within Subpoena on the within named witness
+<add>by the request of defendants atty</add>
+<del>by reading the same to</del>in said County on this 14th 
+day of August A.D. 1885.
+E.F. Whittier Sheriff
+By <gap></gap>Deputy</p>
+
+<p>Case No. 1647</p>
+
+<p>Subpoena</p>
+
+<p>In the District Court of the Territory 
+of Washington and for the Fourth
+Judicial District thereof, hold-
+ing terms at Cheney, Spo-
+kane County in said 
+Territory</p>
+
+<p>Territory of Washington
+Plaintiff.
+vs.
+Wm C. Swartz
+Defendant.</p>
+
+<p>Returned and Filed 14th
+day of August A.D. 1885
+D.A. Clement Clerk.
+By <gap></gap>Deputy</p>
+
+<p>Sheriffs Fees
+no services
+Serving <gap></gap>names at 40 
+Mileage <gap></gap>miles at 10 
+Total, - - - - $ <gap></gap></p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
