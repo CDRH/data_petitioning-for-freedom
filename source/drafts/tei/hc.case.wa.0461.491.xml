@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leroy Smith v. O.P. Halligan. Certification.</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Judgement Roll</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0235.009</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leroy Smith v. O.P. Halligan. Certification.</title>
-<date when="1916-08-23">August 23, 1916</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Judgement Roll</title>
+<date when="1893-06-22">June 22, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -79,12 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-08">August 1916</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Drachman, Mose</term>
-<term>Batts, Effie D.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,10 +95,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Smith, Leroy</persName>
+<persName>Coovert, M.L.</persName>
 </person>
 <person role="defendant">
-<persName>Halligan, O.P.</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -110,19 +109,25 @@
 <person role="judge">
 <persName></persName>
 </person>
+<person role="clerk">
+<persName>Ayres, A Reeves</persName>
+</person>
+<person role="deputy clerk">
+<persName>Hopkins, R.M.</persName>
+</person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States</orgName>
-<placeName>District of Arizona</placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#slb">transcribed and encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,22 +141,24 @@
 <div1 type="case">
 
 <pb/>
-<p>IN THE DISTRICT COURT OF THE UNITED STATES IN AND FOR THE DISTRICT OF ARIZONA.</p>
+<p>No. 282</p>
+<p>In the 
+Circuit Court
+of the United States
+Ninth Judicial Circuit,
+District of Washington.</p>
 
-<p>United States of America, vs. Leroy Smith, Defendant. C-287 Tucson.</p>
-
-<p>United States of America, District of Arizona. ss:</p>
-
-<p>I, Mose Brachman, Clerk of the United States District Court for the District of Arizona, do hereby certify the foregoing three pages to be true and complete copies of the Indictment, Committment and Order changing place of Confinement, entered in the above entitled action, as the same appears from the records of this office.</p>
-
-<p>Witness my hand and the seal of said Court affixed hereto this 23rd day of August, A.D., 1916.</p>
-
-<p>Mose Drachman, Clerk.</p>
-
-<p>By Effie D Batts Deputy.</p>
-
-<figure><p>Seal</p></figure>
-
+<p>Ex parte
+vs.
+M.L. Coovert</p>
+<p>Judgement Roll.</p>
+<p>Filed June 22 1893
+A. Reeves Ayres
+Clerk
+By RM Hopkins
+Deputy Clerk</p>
+<p>Attorney for <gap></gap></p>
+<p>Recorded Judgement Register Book No. <gap></gap> page <gap></gap></p>
 </div1>
     
 </body>

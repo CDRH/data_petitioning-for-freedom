@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0235.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Leroy Smith v. O.P. Halligan. Certification.</title>
+<title>M. L. Coovert v. Clarke County. Attorney for Petitioner's Praecipe for Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0235.009</idno>
+<idno type="project">hc.case.wa.0461.007</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Leroy Smith v. O.P. Halligan. Certification.</title>
-<date when="1916-08-23">August 23, 1916</date>
+<title level="m" type="main">M. L. Coovert v. Clarke County. Praecipe for Appearance</title>
+<date when="1893-06">June 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
-<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
-<idno></idno>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
+<idno>Case No 275</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Civil</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,16 +78,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1916-08">August 1916</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Drachman, Mose</term>
-<term>Batts, Effie D.</term>
+<term>MacDonald, C. L.</term>
+<term>Stapleton, G. A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Clarke, Washington</term>
 </keywords>
 
 </textClass>
@@ -96,33 +95,45 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Smith, Leroy</persName>
+<persName>M. L. Coovert</persName>
 </person>
 <person role="defendant">
-<persName>Halligan, O.P.</persName>
+<persName>Nerton, George</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wood, Charles Erskine Scott</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Bowles, Charles D.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Wiswall, E. A.</persName>
+</person>
+<person role="clerk">
+<persName>Ayres, A. Reeves</persName>
+</person>
+<person role="deputy_clerk">
+<persName>Hopkins, Robert M.</persName>
+</person>
+<person role="Commissioner">
+<persName>Mason, John W.</persName>
+</person>
+<person role="county_clerk">
+<persName>Caples, H. R.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States</orgName>
-<placeName>District of Arizona</placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#slb">transcribed and encoded</change>
+<change when="2022-06" who="#mmd">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,28 +141,58 @@
 <text>
 
 <body>  
-
-
                
 <div1 type="case">
 
-<pb/>
-<p>IN THE DISTRICT COURT OF THE UNITED STATES IN AND FOR THE DISTRICT OF ARIZONA.</p>
+<pb facs="hc.case.wa.0461.007"/>
 
-<p>United States of America, vs. Leroy Smith, Defendant. C-287 Tucson.</p>
+<p>
+In re.
+M. L. Coovert
+<del>vs.</del>
+Habeas Corpus
 
-<p>United States of America, District of Arizona. ss:</p>
+No. 275
+Praecipe for Appearance
+Notice: -- Attorneys will please endorse 
+their own filings. Rule 47.
 
-<p>I, Mose Brachman, Clerk of the United States District Court for the District of Arizona, do hereby certify the foregoing three pages to be true and complete copies of the Indictment, Committment and Order changing place of Confinement, entered in the above entitled action, as the same appears from the records of this office.</p>
+To the Clerk of the above entitled Court:
+You will please enter my appearance as solicitor
+for petitioner
+in the above entitled ccause.
 
-<p>Witness my hand and the seal of said Court affixed hereto this 23rd day of August, A.D., 1916.</p>
+<signatures>C. E. S. Wood</signatures>
+Solicitor
+of Williams &amp; Wood
+Attorneys
+</p>
+<pb></pb>
 
-<p>Mose Drachman, Clerk.</p>
+<p>
+No. 275
+United States
+Circuit Court,
+District of Washington
 
-<p>By Effie D Batts Deputy.</p>
+In re
+M. L. Coovert
+<del>vs.</del>
+Habeas Corpus
 
-<figure><p>Seal</p></figure>
+Praecipe for Appearance
 
+Filed June 12 1893
+<signatures>A. Reeves Ayres</signatures> Clerk.
+<signatures>R. M. Hopkins</signatures>
+Deputy Clerk.
+
+C. E. S. Wood
+For petitioner
+
+Lowman &amp; Hanford S. &amp; P. Co.'s Blank No. 90.
+Praecipe - U. S. Court.
+</p>
 </div1>
     
 </body>
