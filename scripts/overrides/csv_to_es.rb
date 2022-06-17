@@ -169,14 +169,16 @@ class CsvToEs
     end
 
 		def spatial
-      place = []
+      places = []
       if @row["Court Location(s)"]
 			  place = { "title" => JSON.parse(@row["Court Location(s)"]), "type" => "court_location" }
+        places << place
       end
       if @row["Site(s) of Significance"]
         place = { "title" => JSON.parse(@row["Site(s) of Significance"]), "type" => "site_of_significance" }
+        places << place
       end
-			place
+			places
 		end
 
     def text
