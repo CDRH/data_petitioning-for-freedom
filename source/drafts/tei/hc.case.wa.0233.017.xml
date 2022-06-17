@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0233.017"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>Sam Plastino v. Henry M. White. Petition for Habeas Corpus, Stipulation.</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0233.017</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,14 +44,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Sam Plastino v. Henry M. White. Petition for Habeas Corpus, Stipulation.</title><!-- replace with name of case; type of document -->
+<date when="1916-03-08">August 3, 1916</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository><!-- insert name of repository -->
-<collection></collection><!-- insert name of collection -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
 <idno></idno><!-- insert name of repository's identifier -->
 </msIdentifier>
 </msDesc>
@@ -77,15 +77,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+<term><date when="1916-07"></date>July 1916</term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term>Edm Laken</term>
+<term>Sam Plastino</term>
+<term>Henry M. White</term>
+<term>John King</term>
+<term>Tolman</term>
+<term>Frank L. Crosby</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Spokane, Washington</term> 
+<term>Seattle, Washington</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,33 +99,38 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName>Sam Plastino</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Henry M. White</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known --> 
+<persName>Adam Beeler</persName>
+<persName>John J. Sullivan</persName>
+<persName>Jospeh M. Glasgow</persName>
+<persName>John King</persName>
+<persName>Tolman</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Clay Allen</persName>
+<persName>Albert Moodie</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
-            
+
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of the United States for the Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -130,9 +141,9 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-
-
+<pb facs="hc.case.wa.0233.017"/> <!-- insert number from spreadhseet -->
+<p>No.</p>
+<p>3393</p>
 </div1>
     
 </body>
