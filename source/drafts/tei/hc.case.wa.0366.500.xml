@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.500"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fletcher Decker v. State of Washington. Brief Opposing Petition for Writ of Habeas Corpus</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.500</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington. Brief Opposing Petition for Writ of Habeas Corpus</title><!-- replace with name of case; type of document -->
+<date when="1921-09-15">September 15, 1921</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1921-09"></date>September 1921</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Fletcher Decker</term>
+<term>Beeler</term>
+<term>Sullivan</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Western District of Washington</term> 
+<term>United States</term>
+<term>Great Britain</term><!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Fletcher Decker</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Beeler</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0366.500"/> <!-- insert number from spreadhseet -->
+<p>IN THE DISTRICT OF THE UNITED STATES
+WESTERN DISTRICT NORTHERN DIVISION</p>
+<p>IN THE MATTER OF THE EXTRADITION
+of 
+FLETCHER DECKER.) ( )</p> 
+<p>No.</p> 
+<p>B R I E F
+opposing petition for
+WRIT OF HABEAS CORPUS</p> 
+<p>The proceedings before the commissioner were pursuant
+to the Extradition Treaties between U.S. and Great Britian 
+of 1842 and 1889. For these treaties, see Malloy's Treaties,
+Vol.1, page 655 and 740.</p> 
+<p>The present hearing being one on Habeas Corpus before
+the District Court, the first inquiry is as to the scope of
+review of the District Court: on a habeas corpus hearing:</p> 
+<p>POWER OF DISTRICT COURT OF HABEAS CORPUS PROCEEDINGS TO REVIEW
+PROCEEDINGS OF THE COMMISSIONER IS LIMITED TO DETERMINING
+WHETHER THERE WAS ANY LEGAL EVIDENCE UPON WHICH COMMISSIONER
+COULD EXERCISE HIS JUDGMENT AND WHETHER ANY PROBABLE CAUSE
+EXISTED FOR COMMISSIONER BELIEVING PRIONER GUILTY.</p> 
+<p>In re Count De Touluse Lautrec, 102 Fed 879.
+Matter of Wahl, 15 Blatch. 334.
+Matter of Wiegand, 14 Blatch. 370.
+Ex p. Van Aernam 3 Blatch 160.
+Ex p. Van Hoven, 4 Dill 415.
+Terlinden vs Ames 184 U.S. 270.
+Bryant v. U.S. 167 U.S. 104.
+Ornelas vs. Ruiz 161 U.S 502.
+Fong Yue Ting vs U.S. 149 U.S. 698.
+In re Cortes, 136 U.S. 330.
+Benson vs. McMahon, 127 U.S. 457.
+Sternaman vs. Peck 80 Fed. 883.
+In re Fowler 4 Fed. 303.
+In re Veremaitre, 3 Am. L. J. N. S, 438
+28 Fed. Cases No. 16,915.
+In re McDonell, 11 Blatch. 170,
+16 Fed. Cas. No. 8772.
+In re Kaine, 10 N.Y. Leg. Obs. 257,
+14 Fed. Cas. 7598.
+In re Stupp 12 Blatch. 501.
+Matter of Vandervelpen 14 Blatch. 137.
+In re Krojanker, 44 Fed. 482.
+In re Behrendt 22 Fed. 699.</p> 
+<p>Fed Case 16409</p>  
+<pb></pb> 
+<p>In re Wadge 16 Fed. 332
+Grin vs Shine 187 U.S. 191
+In re Herskovitz 136 Fed. 713.
+Ex parte Charlton 185 Fed. 880.
+Powell vs U.S. 206 Fed. 400. 
+Ex parte Schorer 197 Fed. 78.</p> 
+<p>In re Herskovitz, 136 Fed. 713.</p>
+<p>On petition for Habeas Corpus after proceedings
+before the Commissioner.</p> 
+<p>"By section 5270, already referred to, concurrent
+jurisdiction is given to the serveral officers
+named in the statute to issue warrants, hear exam-
+inations, and to commit in extradition proceedings.
+This, the, is a collateral attack upon the judg-
+ment of a concurrent court. It is too well settled
+to require the citation of authority that the writ
+of habeas corpus cannot be used as a method or fe-
+viewing proceedings as if upon error, and that judg-
+ments or findings of courts of competent jurisdic-
+tion cannot be set aside or avoided by this pro-
+cedure because of error. Under the provisions of
+the statute the commissioner had full jurisdiction
+of the subject-matter, and there is no question
+but what he had jurisdiction of the person of the
+petitioner. I think the disclosures made at the
+examination have, however, cured any defect in the
+complaint."</p>
+<p>Powell vs. U.S. 206 Fed. 400</p> 
+<p>Defense attempted to prove absence from the foreign
+country at the time of the offense charged by the way
+of alibi, and alleged as error the refusal of the
+commissioner to entertain the defense.</p> 
+<p>"The commissioner also said orally upon the hearing,
+and in his return to the writ issued from the Dis-
+trict Court, that he did not disregard the testi-
+mony tending to show an alib, but gave it due con-
+sideration and did not believe it, and from the
+whole testimony drew the conclusion that there was
+probable cause to believe Powell guilty."</p> 
+<p>Ex parte Charlton 185 Fed. 880.</p> 
+<p>"The duty of the committing magistrate is confined 
+to determining: First, whether such warrant or cer-
+tificate has been issued; second, whether the of-
+fense charged against the accused is extraditable un-
+der the treaty; third, whether the person brought be-
+fore him is the one accused of such crime; and, four-
+th, whether there is probably cause for holding the
+accused for trial, the evidence in that respect to
+be such as, according to the law of the state in
+which the accused is apprehended, would be sufficient
+to commit him for trial."</p> 
+<pb></pb> 
+<p>Sternam vs Peck  80 Fed. 883.</p>
+<p>"A writ of habeas corpus cannot perform the office
+of a writ of error in reviewing the proceedings in
+extradition before an officer authorized to enter-
+tain such proceddings. It is efficent only to
+reach error which is fatal to the jurisdiction of
+the officer over the person of the accused, or
+over the subject-matter of the accusation......
+.....The evidence was not very satisfactory, and
+was far from being convincing. Nevertheless, the
+facts and circumstances proved authorized conflict-
+ing presumptions and probabilities as to her guilt 
+or innocence, and it was the province of the com-
+missioner to determine theri import, and whether
+they were such as to justify him in exercising
+his power to commit her to custody pending the
+action of the department of state."</p> 
+<p>In re Stupp. 12 Blatch. 501</p> 
+<p>The court issuing the writ of habeas corpus
+"is not to inquire whether the legal evidence of
+facts before the commissioner was sufficient or in-
+sufficient to warrant his conclusion; nor, if there
+was legal and competent evidence of facts before the
+commissioner, for him to consider in making up his
+decsion as to the criminality of the accused, is the
+court, on habeas corpus, to hold the proceedings il
+legal, and to discharge the prisoner, because some
+other evidence was introduced which was not legal
+or competent, but was held to be so by the commis-
+ioner, and was considered by him on the question of
+fact, or, because the court, on a consideration of
+all the evidence which the commissioner considered,
+would have come to a different conclusion, or be-
+cause the court on an exclusion of such of the
+evidence as it may think was not legal or competent,
+would come on the rest of the evidence, to a dif-
+erent conclusion of facts from that at which the
+commissioner arrived."</p> 
+<p>Grin vs Shine. 187 U.S. 181.</p> 
+<p>the sufficiency of the evidence cannotbe reviewed
+on habeas corpus.</p> 
+<pb></pb> 
+<p>Ex parte Schorer 197 Fed. 67.</p> 
+<p>The court, after discussing the lack of proof of
+intent, said:</p> 
+<p>"It is always possible to conceive that the accused
+might be an innocent victim of circumstances; but,
+if an extradition commissioner has drawn the per-
+missable inferences of guilt, it is beyond the prov-
+ince of the court on habeas corpus to reject them.
+We may note that the testimony given by the accused
+before the commissioner, although it consisted of
+denials, called for nothing more than the exercise
+of the commissioner's discretion in believing it or
+disbelieving it. It could not render incompetent
+the other testimony, and whether it was worthy of
+belief, whether the accused fairly met the incul-
+pasing circumstances with which he was confronted,
+was within the peculiar province of the commissioner
+to determine; and such determination is not review-
+able on habeas corpus."</p> 
+<pb></pb>
+<p>TO JUSTIFY THE COMMISSIONER IN ISSUING THE CERTIFICATE HE
+NEED ONLY HAVE PROBABLE CAUSE FOR BELIEVING THE ACCUSED GUILTY.</p>
+<p>Ex p. Charlton   185 Fed. 880.
+U.S. vs Piaza   133 Fed. 998.
+Ex p. Zentner   188 Fed. 344.</p> 
+<p>U.S.<add>vs</add>Piaza   133 Fed. 998.</p>
+<p>"Authorities abound which hold that it is sufficient
+if the accused is held on competent legal evidence,
+and, further, if probable cause exists for believ-
+ing the defendant guilty of the offense charged.
+The evidence need not be conclusive, nor must the
+commissioner who hears the proceedings be absolute-
+ly convinced of the defendant's guilt, before exer-
+cising the power to commit him."</p>
+<pb></pb> 
+<p>THE LEGALITY OF THE EVIDENCE.</p> 
+<p>Section 5271 of the Act is superseded by
+SECTION 5 of the Act of 1882.</p> 
+<p>3 Fed. Stats. Anno. page 90.
+In re Behrendt 22 Fed. 699.
+In re McPhun   30 Fed.  57.</p> 
+<p>This section provides for DEPOSITIONS, WARRANTS, or
+OTHER PAPERS.</p> 
+<p>and makes ALL SUCH legal evidence if properly auth-
+enticated showing admissability in the foreign country</p>
+<p>In re Cortes.    42 Fed. 47.</p> 
+<p>The court may look to the warrant of arrest for
+a statement of the offense, and the prisoner can-
+not object if that sufficiently informs him of the
+offense.</p> 
+<p>In re Behrendt   22 Fed. 699.</p> 
+<p>"The certificate of the royal judge that the judicial
+proceeding certified to 'is valid evidence according
+to the laws existing in Prussia', reasonable inter-
+preted, can mean nothing less than that, according
+to the law of Prussia, such documents are valid
+evidence of criminality as regards the crime charged
+in the proceedings specified in the court where the
+proceedings purports to be had. This is all the
+evidence that is required under the first branch
+of the statute; since the proceedings appear upon
+the face to be acriminal one, in a criminal court."</p> 
+<p>In re Krojanker  44 Fed. 482.</p>
+<p>Following the Behrendt case.</p> 
+<p>Terlinden vs Ames. 184 U.S.S 270.     (184 U.S. 270)</p> 
+<p>In this case copies of the Penal Code of the
+German Empire were attached to the complaint.</p> 
+<p>In re Exeta 62 Fed. 972.     (984-5(</p> 
+<p>Here, statements, in the form of depositions,
+but not even appearing to have been sworn to,
+were submitted. It was held that their infor-
+mality was covered by the Act of Congress and
+the certificate.</p> 
+<p>Elias vs. Ramirez.   215 U.S. 398.</p> 
+<p>Unsworn statements were admitted by reason of 
+the Act and the fact that they created a probab-
+ility of guilt.</p> 
+<pb></pb> 
+<p>In re Luis Oteiz vs Cortes   136 U.S. 330.</p> 
+<p>Here informal papers, and ex parte depositions
+were offered by the defense under the Act and
+refused not because of their informality, but
+because of the fact that they were offered by
+the defense.</p> 
+<p>Ex parte Glaser      176 Fed. 702.</p> 
+<p>Following Elias vs. Ramirez. Supra.</p> 
+<p>Grin vs Shine        187  U.S. 191.</p>
+<p>ORAL PROOF MAY BE TAKEN IN AIDER OF
+IRREGULARITY OR INSUFFICIENCY.</p> 
+<p>In re Folwer     4 Fed. 303.</p> 
+<p>In re Wadge      15 Fed. 864.</p> 
+<p>THE CERTIFICATE OF THE DIPLOMATIC OR CONSULAR
+OFFICER OF THE UNITED STATES RESIDENT IN THE FOREIGN
+COUNTRY IS ABSOLUTE PROOF THAT THE PAPERS CERTIFIED
+ARE RECEIVABLE IN THE FOREIGN COUNTRY AS PROOF OF
+CRIMINALITY.</p> 
+<p>In re McPhun 30 Fed. 57</p> 
+<p>In re Wadge XXXXXX 15 Fed. 864.</p>
+<p>AND THE SIGNATURE OF THE UNITED STATES VICE
+CONSUL IS SUFFICIENT FOR THIS PURPOSE ALSO.</p> 
+<p>In re Herres     33 Fed. 165</p> 
+<p>In re Orpen      86 Fed. 760.</p> 
+<p>AND THE WORDING OF THE CERTIFICATE IS SUFFICIENT
+IF IT FOLLOWS THE LANGAUGES OF THE STATUTE.</p> 
+<p>Grin v. Shine 187 U.S. 181.</p> 
+<pb></pb>
+<p>THEREFORE THE PETITIONER'S CONTENTION THAT THERE IS NO EVIDENCE
+OF THE COMMISSION OF A CRIME MUST FAIL BECAUSE THERE WAS COMPETENT
+LEGAL EVIDENCE BEFORE THE COMMISSIONER WHICH THE COMMISSIONER
+FOUND TO CREATE PROBABALE CAUSE OF THE COMMISSION OF A CRIME BY
+THE PRISONER AND HIS DECISION ON THIS POINT IS NOT OPEN TO REVIEW
+BY THE DISTRICT COURT IN THIS PROCEEDING.</p> 
+<p>It is next contended by the Petitioner that
+THE COMMISSIONER DID NOT HAVE JURISDICTION.</p> 
+<p>This contention cannot stand for the simple reason
+that the Comissioner did have jurisdiction, and reference to the
+papers will show that affirmatively, although it is the duty of
+this court to TAKE JUDICIAL NOTICE OF THE COMMISSIONER'S AUTHORITY
+AND JURISDICTION.</p>
+<p>Ex parte Lane.   6 Fed. 34.</p> 
+<pb></pb> 
+<p>It is next contended by the Petitioner that
+the warrant is void and illegal.</p> 
+<p>This contention is unsound.</p> 
+<p>THE WARRANT MUST NOT NECESSARILY SHOW ON ITS FACE THE AUTHORITY
+OF THE COMMISSIONER.</p> 
+<p>This was decided in Ex parte Lane.   6 Fed. 34.
+(1881, Michigan, Dist. Ct. <del>6</del></p> 
+<p>In this case both the complaint and the warrant
+failed to show the power of the commissioner to act in extra-
+dition cases. After the close of the proceedings and without
+the knowledge or consent of the petitioner the complaint was
+amended by interlining "extradition" to show the authority.</p> 
+<p>The District Court Judge doubted the right of the
+amendment and determined the case as though unamended. Then,
+after reviewing the cases holding to the contrary, said:</p>
+<p>"Hence, I think it should appear that the person
+taking the complaint and issuing the warrant is
+not only a commissioner of the court, but is one
+authorized to act iin extradition cases. <del>I</del> should
+be loth, however, to hold that the proceedings
+were void upon this account, since I am by no means
+certain but that the court, upon an application
+for discharge upon a writ of habeas corpus, would
+be bound to take judicial notice of the fact that
+the commissioner had been <del></del> appointed for
+this purpose. If a third person had been indicted
+for resisting amarshal in the execution of this
+warrant, I should have no doubt that the decision
+of Justice Curtis would apply, and that it would 
+be necessary to make a more particular averment
+in the indictment."</p> 
+<p>The reasonable and logical inference from this
+opinion is that if the commissioner had seen fit to let the
+accused go by reason of the defect in the warrant he might
+have done so, but actually having the authority, and the
+proceedings being otherwise regular, and there being evidence
+of guilt, he acted properly; and the District Court will ig-
+nore mere technicalities and take judicial notice of the fact
+that the commissioner actually had authority and acted within
+it by issuing the warrant.</p> 
+<p>This brings it exactly within the case at bar, on 
+that point.</p> 
+<p>In the Lane case the Judge doubted the authority
+of the Commissioner to amend. But there the amendment was
+made after the close of the proceedings and without the know-
+ledge of the petitioner. But in the case at bar the warrant
+was amended at the opening of the proceedings and in the
+presence of counsel of both parties.</p> 
+<pb></pb> 
+<p>Inasmuch as there is a conflict of authority on
+this question, but has not been decided in this District or assed
+upon by the Supreme Court both the question as to the validity of
+the warrant and the power to amend must be open questions.</p> 
+<p>The first consideration is that the Act only <del></del>
+requires the Commissioner to be authorised by any of the courts
+of the United States. It does not require the warrant to show
+the authority its face. (Sec. 5270).</p> 
+<p>The second consideration is that technicalities
+will be ignored and good faith will be kept with the foreign
+country.</p>
+<p>In re Neely      103 Fed. 626.</p>
+<p>In re Herres     33 Fed. 165 
+reversing 32 Fed. 583</p> 
+<p>46 ten 267</p> 
+<p>In re Roth 15 Fed. 506.</p>
+<p>In re Henrich 5 Blatch 414.</p> 
+<p>In re Behrendt 22 Fed. 699</p> 
+<p>In re Krojanker 44 Fed. 482.</p> 
+<p>Grin vs Shine 187 U.S. 184.</p> 
+<p>"In the construction and carrying out of
+such treaties the ordinary technicalities of crim-
+inal proceedings are applicable only to a limited
+extent. Foreign powers are not expected to be
+versed in the niceties of our criminal laws, and
+proceedings for a surrender are not such as put
+in issue the life or liberty of the accused. They
+simply demand of him that he shall do what all 
+gpod citizens are required, and ought to be will-
+ing to do, viz, submit themselves to the laws of 
+their country. Care should doubtless be taken
+that the treaty be not made a pretext for collect-
+ing private debts, wreaking individual malice, or
+forcing the surrender of policitcal offenders; but
+where the proceeding is manifestly taken in good
+faith, a technical noncompliance with some for-
+mality of criminal procedure should not be allowed
+to stand in the way of a faithful discharge of our
+obligations. Presumably, at least, no injustice
+is contemplated, and a proceeding which may have
+the effect of relieving the country from the
+presence of one who is likely to threaten the peace
+and good order of the community, is rather to be
+welcomed than discouraged."</p> 
+<p>The above case has been followed and quoted
+extensively on this point.</p> 
+<p>U.S. vs Piaza 133 Fed. 998.</p> 
+<p>Gluckman vs Henkel 221 U.S. 508 
+55 U.S. (L. Ed.) 830.</p> 
+<p>"It is common in extradition cases to
+<pb></pb>
+attempt to bring to bear all the factitious nice-
+ties of a criminal trial at common law. But it
+it a waste of time. For while of course a man
+is not to be sent from the country merely upon
+demand or surmise, yet if there is presented,
+even in somewhat untechnical form according to
+our ideas, such reasonable ground to suppose
+him guilty as to make it proper that he should
+be tried, good faith to the demanding govern
+ment requires his surrender. 2</p> 
+<p>In re Herskovitz. 136 Fed. 713.</p>
+<p>Ed p. Zentner 188 Fed. 344.</p>
+<p>Lincoln vs Power 228 Fed. 70</p>
+<p>Lincoln vs Power 241 U.S. 651.
+60 L. Md. 1222.</p> 
+<p>Rice vs Ames 180 U.S. 371.</p> 
+<p>Yordi vs Nolte 215 U.S. 227.</p> 
+<p>"A writ of habeas corpus is not like an
+action to recover damages for an unlawful arrest
+or commitment, but its object is to ascertain
+whether the prisoner can lawfully be detained
+in custody; and if sufficient ground for his
+detention by by the Government is shown, he is
+not to be discharged for defects in the
+original arrest or commitment."</p> 
+<p>U.S. vs Green  146 Fed. 766</p>
+<p>AND UPON SIMILAR GROUNDS IT IS HELD THAT THE WARRANTS AND ORDERS
+OF ARREST OF IMMIGRATION OFFICIALS EVEN THOUGH IRREGULAR WILL
+NOT BE REVIEWED IF THE PRISONER HAD A FAIR HEARING.</p>
+<p>U.S. vs Williams.  200 Fed. 538.</p> 
+<p>FURTHER MORE ERRORS OF LAW CANNOT BE REVIEWED UPON HABEAS CORPUS</p> 
+<p>Frank vs Mangum  237 U.S. 309
+59 L. Ed. 969.</p>
+<p>Ex parte Williams  138 S.W. 985
+Lewis vs Nelson  56 So. 436.</p> 
+<pb></pb> 
+<p>AS TO POWER TO AMEND  SEE</p>
+<p>Ex parte Lane    6 Fed. 34.</p> 
+<p>In re Fergus     30 Fed. 607.</p> 
+<p>IN EXTRADITION TO THIS COUNTRY THE MEANS OF OBTAINING THE
+PERSON OF THE FUGITIVE ARE IMMATERIAL.</p> 
+<p>Ker vs Illinois  119 U.S. 436.</p> 
+<p>State vs Brewster 7 Vt. 118.</p> 
+<p>Matter of LaGrave  45 How. Pr. (N.Y.) 301.</p>
+<p>People vs Rowe   4 Park Crim. N.Y. 253.</p> 
+<p>Hall vs Patterson    45 Fed. 352.</p> 
+<p>People vs Pratt  78 Cal. 345.</p>
+<pb></pb> 
+<p>IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF WASHINGTON.
+NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE APPLICATION OF
+FLETCHER DECKER
+FOR A WRIT OF HABEAS CORPUS.)()(()()(</p> 
+<p>NO. 
+Authorities Cited on
+Behalf of Petitioner.</p> 
+<p>E X T R A D I T I O N.</p> 
+<p>Sufficiency of Warrant of Arrest.</p>
+<p>What warrant must show upon its face.</p>
+<p>In re Ferez, 8 Fed.Case.4644-</p>
+<p>In re Kelley, 25 Fed. 268</p> 
+<p>In re McDonnell. 16 Fed.Cas.8711.-</p> 
+<p>U.S.-vs-Stowell.27.Fed.Cas.16409-</p> 
+<p>Ex parte Lane.5 Fed.34-</p>
+<p>Byrne's Fed.Crim.Proc.page 26.</p>
+<p>19 Cyc. page 68.</p>
+<p>Bishop's New Crim.Proc. Sec.187.</p>
+<p>1 Cooley on Torts.page 302.</p>
+<p>Anderson on Jud.Writs&amp;Process.page36
+" 112</p> 
+<p>COM.-vs-FAY,112 Mass.235.-<figure><p>checkmark</p></figure></p>
+<p>Beeler &amp; Sullivan,
+Attorneys for Petitioner.</p>
+</div1> 
+    
+</body>
+</text>
+</TEI>

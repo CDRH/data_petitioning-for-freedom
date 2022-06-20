@@ -1,46 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>United States of America
-Territory of Washington
-County of Spokane} In Justice's Court before
-J.J.L. Paul J.P.
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-The City of Spokane Falls
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0144.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Frankie Sutsinger v. City of Spokane Falls. Warrant.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0144.007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Frankie Sutsinger v. City of Spokane Falls. Warrant.</title>
+<date when="1885-11-23">November 23, 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-11-23">November 23, 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Peel, J. J. L.</term>
+<term>Rusk, R. J.</term>
+<term>Glispen, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane Falls</term>
+<term>Washington Territory</term>
+<term>Spokane County</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Sutsinger, Frankie</persName>
+</person>
+<person role="defendant">
+<persName>City of Spokane Falls</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Graves, F. H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Murray, W. M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Turner, George M.</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of Washington Territory</orgName>
+<placeName>Fourth Judicial District</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#slb">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>WARRANT. Chronicle Job Print Spokane Falls Wash. T.</p>
+
+<p>Territory of Washington
+County of Spokane}ss</p>
+
+<p>City of Spokane Falls</p>
+
+<p>To the Sheriff or any constable of said County: or the Marshall of Said City</p>
+
+<p>Whereas, R.J. Rusk
+has this day complained in writing under oath, to the undersigned, one of the Justices 
+of the Peace, in and for said county, that on the 20th day of
+November 1885 in said county and Territory. One Frankie Sutsinger
+did wilfully unlawfully &amp; maliciously keep a house wihtin the
+limits of the City of Spokane Falls in which other persons smoke
+or inhale opium contrary to the provisions and in violation
+of an ordinance of said City entitled "an ordinance prohibiting
+the smoking or inhaling of opium" passed by the City Council
+September 9th 1885.</p>
+
+<p>Therefore, In the name of the United States, you are hereby commanded forthwith
+to apprehend the said Frankie Sutsinger
+and bring him before me to be dealt with according to law.</p>
+
+<p>Given under my hand, this 23 day of November 1885
+J.J.L. Peel Justice of the Peace</p>
+
+<pb/>
+
+<p>Territory of Washington
+County of Spokane}ss</p>
+
+<p>I hereby certify that on
+the 23rd day of Nov. 1885
+in said County by <unclear></unclear>
+of the within writ I arrested
+the within named defendant
+and have her <unclear>now in east</unclear>
+in custody.</p>
+
+<p>Dated Nov. 28 1885
+J.A. Glispen
+City Marshall</p>
+
+<p>Fees
+Making arrest 1.00
+serving paper 1.00
+mileage .20</p>
+
+<p>City of Spokane Falls
 vs.
-Frankie Sutsinger deft.
-To the city marshall of Spokane Falls
-or any Constable and the keeper of the County hail of said
-County.
-Whereas, at the Justices court, hold at my office in the
-City of Spokane Falls in said county and Territory for
-an trial of Frankie Futsinger for the offense thereinafter
-stated, the said Frankie Sutsinger was convicted on trial
-(defending to plead) on the testimony of witnesses under aoth
-for the offense of wilfully unlawfully and maliciously keep-
-ing a house, within the city limits, of the city of Spokane
-Falls, in which other persons, smoke or inhale opium,
-contrary to the provisions and in violation of an ordinance
-of said city entitled an ordinance prohibiting the smoking
-or inhaling of opium passed by the city council Sep-
-tember 9th 1885, and upon said testimony the said
-court did adjudge and determine that the said
-Frankie Sutsinger should pay a fine of Twenty five
-dollars, and the costs of said sentence, amounting to
-Twenty nine and 65/100 dollars, making a total of
-Fifty Four and 65/100 dollars, and said Frankie Sut-
-singer having failed to pay said fine and costs, you 
-the said marshall or constable are commanded in
-the name of the United States forthwith to convey
-the said Frankie Sutsinger to the keeper of the 
-county jail at Cheney, said county and territory,
-and you the said keeper are hereby commanded to
-receive the said Frankir Sutsinger into your cus-
-tody, in said jail, snf be there safely keep, until
-she shall then be discharged, by due course of
-law.
-Dated this 19th day of December 1885
-J.J.L. Paul
-Justice of the Peace
+Frankie Sutsinger</p>
 
-The City of Spokane Falls
-Frankie Sutsinger
-Committment</p>
+<p>Warrant</p>
+
+<p>Filed November 23rd 1885
+J.J.L. Peel J.P.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
