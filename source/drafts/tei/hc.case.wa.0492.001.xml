@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0144.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0492.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Frankie Sutsinger v. City of Spokane Falls. Motion to Discharge.</title>
+<title>Petitioner v. Defendant</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Khattak, Janana" xml:id="jk">Janana Khattak</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
-<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -36,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0144.005</idno>
+    <idno type="project">hc.case.wa.0492.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +45,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Frankie Sutsinger v. City of Spokane Falls. Motion to Discharge.</title>
-<date when="1885-12">December 1885</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">IntheMatterofthePetitionofFrancisStephenMedcrafforWritofHabeasCorpus</title>
+<date when="1915-06-28">June 28,1915</date>
+<note type="project">Our transcription is based on a digital image.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives, Eastern Regional Branch</repository>
-<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US District Court Western Division of Washington, Seattle</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -71,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,105 +78,72 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1885-12">December 1885</date></term>
+<term><date when="1915-07">June 1915</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Peel. J. J. L.</term>
+<term>Francis Stephen Medcraft</term>
+<term>Robert T. Hodge</term>
+<term>Jeremia Neterer</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane Falls</term>
-<term>Washington Territory</term>
+<term>United States District Court For the Western District of Washington, Northern Division</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
-<person role="petitioner">
-<persName>Sutsinger, Frankie</persName>
+<listPerson>           
+    <person role="petitioner">
+<persName>Medcraf, Francis Stephen</persName>
 </person>
 <person role="defendant">
-<persName>City of Spokane Falls</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Graves, F. H.</persName>
+<persName>Ludin, Alfred H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Murray, W. M.</persName>
+<persName>Helsell, Frank P.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Turner, George M.</persName>
+<persName>Neterer, Jeremia</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of Washington Territory</orgName>
-<placeName>Fourth Judicial District</placeName>
+<orgName>The District Court of The United States For THe Western District of Washington, Northern Division</orgName> 
+<placeName>/Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#slb">transcribed and encoded</change>
+<change when="2022-07" who="#jk">transcribed and encoded.</change> 
 </revisionDesc>
 
 </teiHeader>
     
-<text>
+<text>  
 
 <body>  
-
-
                
 <div1 type="case">
-
-<pb/>
-<p>Territory of Washington
-County of Spokane}ss</p>
-
-<p>In Justice Court before
-J.J.L. Peel, J.P.</p>
-
-<p>In matter of arrest of Frankie
-Sutsinger on warrant issued
-out of this court on the 23rd day
-of November A.D. 1885 on the
-complaint by affidavit of one R.J.Rush.</p>
-
-<p>Now comes said Frankie Sutsinger as
-by her attorneys W.M. Murray and F.H.
-Graves, and moves the court:</p>
-
-<p>1- To quash said warrant.
-2- To discharge said Frankie Sutsinger
-for the reasons that said Justice
-of the Peace had no jurisdiction to
-issue said warrant; and has no 
-jurisdiction to hold said Frankie 
-Sutsinger this proceeding.
-W.M. Murray amd
-F.H. Graves,
-Attys. for Sutsinger</p>
-
-<pb/>
-
-<p>In matter of
-arrest of Frankie
-Sutsinger <unclear></unclear></p>
-
-<p>Motion to Discharge
-Filed Dec. 10th 1885
-J.J.L. Peel J.P.</p>
-
-</div1>
     
-</body>
+<pb/>
+<p>2.</p>
+
+<p> or until he shall thence be discharged by due course of law. <gap></gap>Dated this 11th day of June, 1915. 
+Reach M. Whitehead 
+Justice of the Peace, in and for 
+Seattle Precint, King County, Washington</p>
+
+</div1></body>
 </text>
 </TEI>
