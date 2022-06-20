@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0233.018"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Sam Plastino v. Henry M. White. Recognizance and Bail Bond</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0233.018</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Sam Plastino v. Henry M. White. Recognizance and Bail Bond</title><!-- replace with name of case; type of document -->
+<date when="1916-08-03">August 3, 1916</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1916-08"></date>August 1916</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Sam Plastino</term>
+<term>Henry M. White</term>
+<term>Antonio Scarpelli</term>
+<term>Jeremiah Neterer</term>
+<term>LeRoy B. Hay</term>
+<term>Francis A. Garrecht</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Sam Plastino</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName>Henry M. White</persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known --> 
+<persName>Adam Beeler</persName>
+<persName>John J. Sullivan</persName>
+<persName>Jospeh M. Glasgow</persName>
+<persName>John King</persName>
+<persName>Tolman</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Clay Allen</persName>
+<persName>Albert Moodie</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>District Court of the United States for the Western District of Washington</orgName> <!-- insert court name -->
+<placeName>Seattle, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0233.018"/> <!-- insert number from spreadhseet -->
+<p>IN THE DISTRICT COURT OF THE UNITED STATES
+FOR THE WESTERN DISTRICT OF WASHINGTON.</p>
+<p>SAM PLASTINO,-- Plaintiff,
+vs.
+HENRY M. WHITE, United States Commissioner
+of Immigration, at Seattle, Washington.</p> 
+<p>#3393</p> 
+<p>RECOGNIZANCE and
+BAIL BOND.</p> 
+<p>UNITED STATES OF AMERICA
+EASTERN DISTRICT OF WASHINGTON )) SS.</p> 
+<p>We, SAM PLASTINO, of Spokane, as
+principal, and ANTONIO SCARPEIII, of Spokane, and JOSEPH PLASTINO, of
+Spokane, as sureties, jointly and severally acknowledge ourselves to be
+indebted unto the United States of America in the sum of $1000.00 lawful
+money of the United States to be levied of our goods, chattels, lands, and
+tenements, upon this condition, that-</p> 
+<p>WHEREAS, The said Sam Plastino has filed in the United States
+District Court, Western District of Washington, his petition for writ of
+habeas corpus, and in said cause order has been made by Honorable Jeremiah
+Neterer, Judge of said court, that writ of habeas corpus issue, directed to
+the said Henry M. White, United States Commissioner of Immigration, at Seat-
+tle, Washington, and that the said Sam Plastino be admitted to bail in the
+sum of $1000.00 pending proceedings thereon;</p>
+<p>NOW, THEREFORE, If the said Sam Plastino shall personally be and
+appear before the District Court of the United states for the Western District
+of Washington, at the court house of the said United states, in the city of</p>
+<pb></pb>  
+<p>Seattle, in the said District, at the time or times of hearing upon said
+petition, and from day to day, as directed by the court, and shall abide
+all orders of and the judgment of said court in said action or proceeding,
+and shall, if he be remanded to custody, surrender himself into the custody
+of the said Henry M. White, United States Commissioner as aforesaid, and
+not depart from the said district nor the said court without leave there-
+of, then this recognizance to be void, otherwise to remain in full force
+and virtue.</p>  
+<p>Sam Plastino (L.S.)</p>
+<p>Antonio Scarpelli (L.S.)</p> 
+<p>Joseph Plastino (L.S.)</p> 
+<p>SUBSCRIBED AND SWORN TO before me by the said ANTONIO SCARPELLI and the
+the said Joseph Plastino this 3rd day of August, 1916.</p> 
+<p>LeRoy B. Hay
+Notary Public for the state of
+Washington, residing at Spokane,
+Washington.</p> 
+<p>SUBSCRIBED AND SWORN TO Before me by the said SAM PLASTINO this <gap></gap>
+day of August, 1916.</p> 
+<p><gap></gap>
+Notary Public for the state of
+Washington, residing at Seattle,
+Washington.</p> 
+<p>Clay Allen
+Atty</p> 
+<p><unclear></unclear>
+Jeremiah Neterer
+Judge</p> 
+<p>I, ANTONIO SCARPEILI, a resident of the city of Spokane, state of
+Washington, do solemnly swear that after paying my just debts and lia-
+bilities, I am worth $40,000.00 in real estate within the Eastern District
+of Washington, and subject to execution, levy, and sale, as follows:
+Lot 8, Block 105, Third Railroad Addition to Spokane, Washington,
+in the city of Spokane, Spokane County, Washington:
+The Southeast Quarter of Section 25, Township 25, North, Range
+44，E.W.M., in Spokane County, Washington.</p>
+<p>Antonio Scarpelli</p> 
+<p>SUBSCRIBED AND SWORN TO Before me
+this 3rd day of August, 1916.</p> 
+<p>LeRoy B. Hay
+Notary Public for the state of Washington, residing at Spokane.</p>
+<pb></pb> 
+<p>I, JOSEPH PLASTINO, a resident of the city of Spokane, state of
+Washington, do solemnly swear that after paying my just debts and liabili-
+ties, I am worth $40,000.00 in real estate within the Eastern District of Washington, and subject to execution, leavy, and sale, as follows:
+Lot 8, and the West Half of Lot 9, in Block 24, Browne's Addi-
+tion to Spokane Falls, Spokane County, Washington; also-
+Lot 1, Block 9, Resurvey &amp; Addition to Spokane Falls, Spokane
+County, Washington.
+<add>and over 20,000 in seasonal property</add></p>
+<p>Joseph Plastino</p>
+<p>SUBSCRIBED AND SWORN TO Before me
+this 3rd day of August, 1916.</p> 
+<p>LeRoy B. Hay
+Notary Public for the state of Washington, residing at Spokane.</p>
+<p>The said sureties herein, each for himself and not one for the
+other, does further swear that he is a married man; that he is possessed
+of separate estate within the state of Washington <add>over $5000.00</add> other than community
+estate, over and above all debts and liabilities subject to, and not for
+any reason in law exempt from execution.</p> 
+<p>Antonio Scarpelli</p> 
+<p>Joseph Plastino</p> 
+<p>SUBSCRIBED AND SWORN To Before me this 3rd day of August, 1916.</p>
+<p>LeRoy B Hay
+Notary Public for the state of
+Washington, residing at Spokane,
+Washington.</p> 
+<p>CERTIFICATE OF SOLVENCY</p> 
+<p>I CERTIFY That I have made due and diligent personal inquiry
+as to the financial responsibility of the signers of the foregoing bond,
+and am satisfied that their representations as to their financial resources
+are true in every respect,<add>except in my opinion all of Joseph Plastino's property in community property</add> and that they are good and sufficient, and fully
+responsible to insure the payment of the entire amount named in the bond.
+WITNESSMy hand and seal this 3rd day of August, 1916.</p> 
+<p>Francis A. Garrecht (L.S.)
+United States District Attorney for the
+Eastern District of Washington.</p> 
+<pb></pb> 
+<p>No.</p> 
+<p>13599-7-205</p> 
+<p>IN THE District COURT
+OF THE <unclear></unclear>
+In and for W. Dist of Washington</p> 
+<p>Sam Plastino 
+Plaintiff
+vs. 
+Henry M. White
+Comm. Im.
+Defendant.</p> 
+<p>Recognizance 
+W. Habeas Corpus</p>
+<p>Service for the within <gap></gap>
+accepted and receipt of copy acknowledged this
+<gap></gap>day of <gap></gap> 191<gap></gap>
+Attorney for<gap></gap></p> 
+<p>TOLMAN &amp; KING
+ATTORNEYS AT LAW
+1112 OLD NATIONAL BANK BLDG.
+SPOKANE, WASHINGTON</p> 
+<p>FILED IN THE
+U.S. District Court,
+Western Dist. of Washington,
+NORTHERN DIVISION
+AUG 3 1916
+FRANK L. CROSBY, Clerk,
+By Edm Laken Deputy
+2x</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

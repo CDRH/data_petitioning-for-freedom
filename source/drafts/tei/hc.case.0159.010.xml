@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.wa.0159.010</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1000</date>
+<title level="m" type="main">In Re: Application of N. T. B. Pentreath for a Writ of Habeas Corpus.</title>
+<date when="2022-06-16">June 16, 2022</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington.</repository>
+<collection>RG 21 US Circuit Courts, Western Disctrict of Washington, Seattle; Law Register Northern Division, 1899-1906, vol 2</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -70,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Unlawful Arrest</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +79,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1905-03">March 1905</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>P. V. Davis</term>
+<term>D. Scott</term>
+<term>Norborne T. B. Pentreath</term>
+<term>Thomas Crawford</term>
+<term>D. Serti</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, King County, Washington</term>
+<term>Vancouver, British Columbia, Canada</term>
 </keywords>
 
 </textClass>
@@ -94,33 +100,33 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Norborne T. B. Pentreath</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Thomas Delaney</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>J. L. Waller + Z. B. Rowan</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>C. H. Hanford</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Circuit Court of the United States in the Western District of Washington, Northern Division.</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#xxx">transcribed and encoded</change>
+<change when="2022-06" who="#jy">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,8 +139,21 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0159.010"/>
 
+<p>IN THE JUSTICE COURT BEFORE P. V. DAVIS, JUSTICE OF THE PEACE, Seattle precinct, King County, Washington.</p>
+<p>STATE OF WASHINGOTN, COUNTY OF KING.</p>
+
+<p>D. Scott, being first duly sworn deposes and states, that one N. T. B. Pentreath now in the City of Seattle, King County, Washington, is charged with the crime of unlawfully and fraudulently uttering a forged document as if it were genuine, knowing it was forged and with intent to defraud at the City of Vancouver, County of Vancouver, Province of British Columbia, Canada, on or about the 15th day of Jan. 1905, and is now a fugitive from the justice of the said Province of British Columbia, Canada. That heretofore, to-wit, on or about the 30th day of January, 1905, an information and complaint for an indictable offence was filed with and before one Thomas Crawford one of his Magesties Justices of the peace in and for said City of Vancouver said Province, wherein and whereby the above named N. T. B. Pentreath is charged with having in said Province on or about the 15th day of January, 1905, committed the crime of unlawfully and fraudulently uttering a forged document as if ti were genuine, knowing it was forged and with intent to defraud and that thereafter and upon the same day and date a warrant in the first instance to apprehend a person charged with an indictable offence was issued by said Justice of the peace for and against the said N. T. B. Pentreath for his arrest, all in due form of law and suitable to the form, law and criminal procedure of said Province of British Columbia, that said warrant was placed in the hands of due peace officers of said City and Province for service upon the said N. T. B. Pentreath, but before service of the same was made and before the said N. T. B. Pentreath could be or was taken into custody by virtue of said warrant, said Pentreath fled form the justice of said City and Province and escaped therefrom, and that he the said N. T. B. Pentreath is now in the City of Seattle, King County, Washington, and is now a fugitive from the justice of said British Columbia, Canada; that said crime with which and by which said N. T. B. Pentreath is so charged as aforesaid is an extraditable offence under the exiswting laws and treaties between said Dominion of Canada and the United States of America, and said N. T. B. Pentreath is liable by virtue of the constitution and laws of the United States to be delivered on the demanad of the Executive of said Province and Dominion to the proper officials and agents of said province and Dominion.</p>
+<p>WHEREFORE this affiant doth charge said N. T. B. Pentreath with being a fugitive from the jsutice of the City of Vancouver, County of Vancouver, Province of British Columbia, Canada, in the manner and form aforesaid.</p>
+<p>Contrary to the form of the statute in such case made and provided aginst the peace and dignity of the State of Washington.</p>
+
+<p><unclear>D. Serti</unclear></p>
+
+<p>Subscribed and sword to before me this 30th day of March, 1905.</p>
+
+<p>P. V. Davis</p>
+<p>Justice of the Peace, Seattle Precinct, King County, Washington.</p>
 
 </div1>
     
