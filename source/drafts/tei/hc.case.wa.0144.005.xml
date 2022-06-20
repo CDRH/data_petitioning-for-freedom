@@ -1,27 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p>An ordinance prohibiting the
-Smoking or inhaling of opium.
-Be it ordained by the City of Spokane Falls.
-Sec. 1 No person or persons shall keep a house
-cellar or place within the limits of the city
-of SPokane Falls, as which such person
-or persons or any other person or persons
-smoke or inhale opium
-Sec. 2 No person shall smoke or inhale
-opium in any such house cellar or place
-or visit such house cellar or place for the
-purpose of smoking or inhaling opium.
-Sec. 3 Any person or persons violating any 
-of the provisions of this ordinance shall
-be deemed guilty of a misdemeanor and
-upon conviction thereof shall be penalized
-by fine in any seem not exceeding one hundred 
-dollars.
-Sec. 4 I be this ordinance shall take ef-
-fect and be in force from and
-after its passage and publication
-Passed the city council Sept. 9th 1885
-Approved Sept. 9th 1885
-Attend J.C. Nama
-City Clerk  A.M. Cannons
-Mayor</p>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0144.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Frankie Sutsinger v. City of Spokane Falls. Motion to Discharge.</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Byrd, Samantha." xml:id="slb">Samantha Byrd</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0144.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Frankie Sutsinger v. City of Spokane Falls. Motion to Discharge.</title>
+<date when="1885-12">December 1885</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Washington State Archives, Eastern Regional Branch</repository>
+<collection>Spokane County Government; Clerk, Territorial Case Files, 1879-1889</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1885-12">December 1885</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Peel. J. J. L.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Spokane Falls</term>
+<term>Washington Territory</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Sutsinger, Frankie</persName>
+</person>
+<person role="defendant">
+<persName>City of Spokane Falls</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Graves, F. H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Murray, W. M.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>District Court of Washington Territory</orgName>
+<placeName>Fourth Judicial District</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#slb">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+               
+<div1 type="case">
+
+<pb/>
+<p>Territory of Washington
+County of Spokane}ss</p>
+
+<p>In Justice Court before
+J.J.L. Peel, J.P.</p>
+
+<p>In matter of arrest of Frankie
+Sutsinger on warrant issued
+out of this court on the 23rd day
+of November A.D. 1885 on the
+complaint by affidavit of one R.J.Rush.</p>
+
+<p>Now comes said Frankie Sutsinger as
+by her attorneys W.M. Murray and F.H.
+Graves, and moves the court:</p>
+
+<p>1- To quash said warrant.
+2- To discharge said Frankie Sutsinger
+for the reasons that said Justice
+of the Peace had no jurisdiction to
+issue said warrant; and has no 
+jurisdiction to hold said Frankie 
+Sutsinger this proceeding.
+W.M. Murray amd
+F.H. Graves,
+Attys. for Sutsinger</p>
+
+<pb/>
+
+<p>In matter of
+arrest of Frankie
+Sutsinger <unclear></unclear></p>
+
+<p>Motion to Discharge
+Filed Dec. 10th 1885
+J.J.L. Peel J.P.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
