@@ -93,16 +93,25 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
+<persName>Smith, Harry</persName>
+</person>
+<person role="petitioner">
 <persName>Slomen, Barney</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>United States</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Beeler, J. G.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Sullivan, J. J.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Martin, Winter S.</persName>
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName>
