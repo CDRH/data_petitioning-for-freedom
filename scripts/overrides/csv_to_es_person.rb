@@ -62,7 +62,7 @@ class CsvToEsPerson < CsvToEs
     end
   
     def title
-      @row["Primary Field"]
+      @row["Primary field"]
     end
 
     def relation
@@ -81,6 +81,9 @@ class CsvToEsPerson < CsvToEs
 
     def keywords
       @row["Tags"]
+    end
+
+    def person
     end
 
     def rdf
