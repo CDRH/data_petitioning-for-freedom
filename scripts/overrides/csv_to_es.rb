@@ -19,6 +19,9 @@ class CsvToEs
       if @row["Fate of Bound Party(s)"]
         @json["fate_of_bound_party_k"] = JSON.parse(@row["Fate of Bound Party(s)"])
       end
+      if @row["Item Type(s)"]
+        @json["document_types_k"] = JSON.parse(@row["Item Type(s)"])
+      end
 		end
 		
 		def id
@@ -64,7 +67,7 @@ class CsvToEs
 		end
   
     def description
-      @row["Notes"]
+      @row["Summary of Proceedings"]
     end
   
     def format
@@ -172,6 +175,9 @@ class CsvToEs
       places = []
       if @row["Court Location(s)"]
 			  place = { "title" => JSON.parse(@row["Court Location(s)"]), "type" => "court_location" }
+        if @row["Court Name(s)"]
+          place["place_name"] = JSON.parse(@row["Court Name(s)"])
+        end
         places << place
       end
       if @row["Site(s) of Significance"]
