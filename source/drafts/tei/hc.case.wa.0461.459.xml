@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0440.007">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. H. Smith v. William Cochrane. Copy of Original Commitment </title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Demurrer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
-<name n="Stapleton-Deno, Zoe L" xml:id="zlsd">Zoe L Stapleton-Deno</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -21,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0440.007</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. H. Smith v. William Cochrane. Copy of Commitment</title>
-<date when="1888-10-08">October 8th, 1888</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus.</title>
+<date when="1893-06-22">June 22, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Washington State Archives</repository>
-<collection>King Frontier Justice</collection>
-<idno>Case No 6550</idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -72,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,15 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-10">October 1888</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Anderson, Alexander</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Slaughter, Washington</term>
+<term></term>
 </keywords>
 
 </textClass>
@@ -96,25 +95,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Smith, C. H.</persName>
+<persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wood, C. E. S.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Williams</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Bowles, C. D.</persName>
 </person>
-<person role="judge">
-<persName>Hart, James</persName>
+<person role="sheriff">
+<persName>Nerton, George</persName>
+</person>
+<person role="clerk">
+<persName>Ayres, A. Reeves</persName>
+</person>
+<person role="deputy_clerk">
+<persName>Hopkins, R. M.</persName>
 </person>
 </listPerson>
-            
+                  
 <listOrg>
 <org>
-<orgName>King County</orgName>
+<orgName>Clarke County</orgName>
 <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
@@ -122,7 +130,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#brh">transcribed and encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,33 +138,58 @@
 <text>
 
 <body>  
-
-
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0440.007"/>
-<p>
-To any Constable and the Keeper of the County Jail of said County:
-</p>
-<p>
-Whereas as a Justice Court held at Slaughter in said County for the tiral of L. H. Smith for the offense hereinafter stated the said L. H. Smith was convicted of having on Sunday evening the 7th day of Octover 1888 in the said County committed a theft and feloniously stolen and taken away from the person of Alexander Anderson a silver watch together with $28 00 in this said County and upon connection the said Court did adjudge and determine that the said I. H. Smith should be imprisoned in the County Jail o this said Count ofr the term of one year.
-</p>
-<p>
-Therefore you the said Constable are commanded in the name of the United States forthwith to convey and deliever the said I. H. Smith to the said Keeper and you the said Keeper are hereby commanded to receive the said I. H. Smith into your custody in this said Jail and him there safely Keep until the experation of said term of one year or until he shall be discharged by due course of law
-Dated this 8 Oct 1888
-</p>
-<p>James Hart
-Justice of the peace for Slaughter Precinct of King County W. T.
+<p><add>TX</add></p>
+<p>No. 281</p>
+<p>In the United States
+Circuit Court
+For the District of Washington</p>
 
-Prisoner gives notice of appeal that can fine no bonds here</p>
+<p>Ex parte M. L. Coovert.
+vs.
+<gap></gap></p>
+<p>Demurrer</p>
+<p>Filed June 13 1893
+A. Reeves Ayres
+Clerk
+By R. M. Hopkins
+Deputy.</p>
 
+<p>CD Bowles
+Attorney for Geo Nerton Sheriff</p>
 
+<pb facs="hc.case.wa.0461.000"/> 
+<p>In the Circuit Court of the United States, Ninth Circuit,
+District of Washington, Northern Division.</p>
+<p>Ex parte
+M. L. Coovert</p>
+<p>Petition for Writ of Habeas
+Corpus.</p>
 
+<p>Now comes Geo. Nerton, Sheriff of the County of
+Clarke, State of Washington, by his attorney C.D. Bowles,
+and demurs to the petition filed in the above entitled
+cause for the following reason, to-wit:</p>
+<p>That the facts set forth in said petition do not
+state facts sufficient to <sic>sonstitute</sic>a cause for the
+<del>writ</del>relief prayed for, to-wit; the issuance of a writ of habeas
+corpus.</p>
+<p>CD Bowles
+Attorney for Geo. Nerton, and prosecuting Attorney of the State
+of Washington, for the County of
+Clarke.</p>
 
-
-
-
+<p>United States of America, :
+SS
+District of Washington. :</p>
+<p>I, C. D. Bowles, do hereby certify that I am a regularly
+admitted and practicing attorney in the Circuit Court
+of the United States for the District of Washington, and
+I have examined the demurrer herein set forth and that
+the same is well founded in point of law.
+CD Bowles</p>
 </div1>
     
 </body>
