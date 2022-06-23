@@ -81,11 +81,22 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fletcher Decker</term><!-- insert names of other people mentioned in document -->
+<term>Fletcher Decker</term>
+<term>Charlotte Kolmitz</term>
+<term>Beeler</term>
+<term>Sullivan</term>
+<term>Robert C. Sanders</term>
+<term>Tucker</term>
+<term>Hyland</term>
+<term>Jeremiah Neterer</term>
+<term>Harshberger</term>
+<term>Leitch</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Dominion of Canada</term> 
+<term>United States of America</term>
+<term>Kingdom of Great Britain and Ireland</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -103,7 +114,10 @@
 <persName>Sullivan</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName><!-- insert name of attorney, if known -->
+<persName>Charlotte Kolmitz</persName>
+<persName>Robert C. Saunders</persName>
+<persName>Tucker</persName>
+<persName>Hyland</persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
 <persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
