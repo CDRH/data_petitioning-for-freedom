@@ -15,9 +15,9 @@ class FileCsv < FileType
         es_doc = []
         table = table_type
         @csv.each do |row|
-            if !row.header_row?
-                new_row = row_to_es(@csv.headers, row, table, old_case_docs)
-                es_doc << new_row
+            if !row.header_row? && row["Case ID"] 
+              new_row = row_to_es(@csv.headers, row, table, old_case_docs)
+              es_doc << new_row
             end
         end
         if @options["output"]
