@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.490"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fletcher Decker v. State of Washington. Letter.</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.490</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington. Letter.</title><!-- replace with name of case; type of document -->
+<date when="1922-01-27">January 27, 1921</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1922-01">January, 1921</date></term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Beeler</term>
+<term>Sullivan</term>
+<term>Fletcher Decker</term>
+<term>Claude Ficklin</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Dominion of Canada</term> 
+<term>Ottawa, Canada</term>
+<term>Ontario, Canada</term>
+<term>Saskatchewan Province</term>
+<term>Seattle, Washington</term><!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>Fletcher Decker</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Beeler</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Charlotte Kolmitz</persName>
+<persName>Robert C. Saunders</persName>
+<persName>Tucker</persName>
+<persName>Hyland</persName>
+<persName>F.C. Reagan</persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName>Jeremiah Neterer</persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0366.490"/> <!-- insert number from spreadhseet -->
+<p>GOVERNMENT OF THE PROVINCE OF SASKATCHEWAN
+DEPARTMENT OF THE ATTORNEY-GENERAL</p>
+<p>ADDRESS YOUR REPLY TO
+THE DEPUTY ATTORNEY-GENERAL
+REGINA, SASK.
+AND REFER TO OUR FILE NUMBER
+DO NOT WRITE ABOUT MORE THAN 
+ONE SUBJECT IN ANY LETTER</p>
+<figure><p>stamp</p></figure>
+<p>D/B</p>
+<p>REFER TO FILE C 6506</p>
+<p>REGINA, March 9th, 1922</p>
+<p>Sirs:-</p>
+<p>Rex v. Fletcher Decker.</p>
+<p>I have the honour to acknowledge receipt
+of your favour of the 27th ultimo requesting that I
+give you some official statement showing that Fletcher
+Decker against whom extradition proceedings were taken
+at Seattle for his return to Canada for trial upon a
+charge of theft of about three hundred bushels of flax,
+the property of Claude Ficklin, alleged to have been
+committed near Wiwa Hill Post-office, in the Province
+of Saskatchewan, on or about the 15th day of November,
+1915, has surrendered himself into the custody of the
+Police Authorities of the Dominion of Canada.</p>
+<p>I note that you refer to a letter which
+you state you wrote to this Department on January
+27th, 1922, to which you state you received no reply.
+It appears also that you enclose a copy of a letter
+dated February 20th, 1922, from the Deputy Minister
+of Justice, Ottawa, Ontario, to whom you state you
+wrote in the first instance, who it appears advised
+you to communicate directly with me. It appears that
+you desire the official statement above referred to
+for the purpose of obtaining an order from the Court
+at Seattle cancelling the bond which was given when
+Fletcher Decker was released, pending the hearing of
+his appeal.</p>
+<p>In reply I have the honour to state that
+the man</p>
+<p>Messrs. Beeler and Sullivan
+Lawyers, 
+1807 L.C. Smith Building,
+Seattle, Washington, U.S.A.</p>
+<pb></pb>
+<p>the man representing that he ws Fletcher Decker who
+surrended himself to the Saskatchewan Provincial
+Police on or about February 2nd, 1922, at the City of
+Regina, has had a preliminary hearing at which he was
+confronted by the witnesses for the prosecution who were
+able to identify him, and after the evidence for the
+prosecution had been given before the Magistrate he was
+duly committed for trial, and I am informed that the
+said accused is the Fletcher Decker against whom the ex-
+tradition proceedings above referred to were instituted
+by this Department.</p>
+<p>With regard to the letter which you state
+you wrote to this Department on January 27th, 1922, I 
+may state that your letter of February 27th, 1922, is 
+the first communication in this case which appears to
+have been received from you in this Department, and
+your previous letter does not appear to have been
+received by this Department.</p>
+<p>I have the honour to be,
+Sirs, 
+Your obedient servent,
+<unclear></unclear>
+Deputy Attorney-General.</p>
+<p>Messrs. Beeler and Sullivan
+Lawyers, 
+1807 L.C. Smith Building,
+Seattle, Washington, U.S.A.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
