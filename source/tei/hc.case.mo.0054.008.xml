@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George W. Turley v. James Castello. Letter</title> 
+<title>In the matter of George W. Turley upon a writ of Habeas Corpus. Testimony</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -17,6 +17,8 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Banse, AD" xml:id="ab">AD Banse</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
@@ -49,7 +51,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">George W. Turley v. James Castello. Letter</title>
+<title level="m" type="main">In the matter of George W. Turley upon a writ of Habeas Corpus. Testimony</title>
 <date when="1853-06-07">June 7, 1853</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -134,27 +136,25 @@
 </teiHeader>
     
 <text>
-
 <body>  
                
 <div1 type="case">
 
 <pb facs="hc.case.mo.0054.008"/> 
 
-<p>Cincinnati, June 7th 1853</p>
+<figure><p>SAINT LOUIS Mo. JUN 25</p></figure>
 
-<p>To Jas M Martin Esqr</p>
+<p>Mr Simon P. Turley</p>
 
-<p>Sir,</p>
-<p>Should any further testimony be 
-required, you will please inform me &amp; 
-it shall be furnished as early as possibly</p>
+<p>to the care of Frederick <unclear>Turley</unclear>
+waiter Broadway hotel</p>
 
-<p>Very Respectfully</p>
-<p>Jerome Mudd</p>
+<p>Cincinnati, 
+Ohio</p>
+
 
 </div1>
-    
+
 </body>
 </text>
 </TEI>
