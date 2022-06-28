@@ -92,17 +92,19 @@ class CsvToEsPerson < CsvToEs
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
           data = person_info.split("|")
           name_and_id = data[0]
-          role = data[1]
+          role_list = data[1].split(", ")
           case_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
           person_name = /\["(.*)"\]/.match(name_and_id)[1]
           person_id = /\((.*)\)/.match(name_and_id)[1]
           case_name = /\[(.*)\]/.match(case_and_id)[1]
           case_id = /\((.*)\)/.match(case_and_id)[1]
-          subject = "#{person_name} {#{person_id}}"
-          object = "#{case_name} {#{case_id}}"
-          roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
-          case_roles << roles
+          role_list.each do |role|
+            subject = "#{person_name} {#{person_id}}"
+            object = "#{case_name} {#{case_id}}"
+            roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
+            case_roles << roles
+          end
         end
       end
       if @row["RDF - person relationship person (from Relationships [join])"]
