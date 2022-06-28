@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>In Re: Ex Parte - Donald Kerracher - Writ of Habeas Corpus</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Banse, AD" xml:id="ab">AD Banse</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0270.005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">In Re: Ex Parte - Donald Kerracher - Writ of Habeas Corpus</title>
+<date when="2022-06-13">1000</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1000-01">2022-06-21</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName> Donald MC Kerracher</persName>
+</person>
+<person role="defendant">
+<persName> C.B. Hopkins</persName>
+</person>
+<person role="attorney_petitioner">
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>C.H. Hanford</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName>
+<placeName></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#xxx">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+
+
+<div1 type="case">
+
+<pb/>
+
+  <p> In Re. Ex Parte: Donald MC Kerracher, Petitioner.  No. 1328. </p> 
+
+<p> Petitioner for Appeal to the United States Circuit Court of Appeals for the Ninth Circuit, and Order allowing same. </p>
+
+<p> To the Honorable Cornelius H. Hanford,  </p>
+<p> Judge of the above entitled Court:</p>
+<p>  Comes now Charles B. Hopkins, United States Marshal for the Western District of Washington  and United States of America, respondents in the above entitled matter, by theri attorney, Jesse A Frye, United States Attorney for the Western Distrcit of Washington, and feeling and deeming thesmevles aggrieved by the order and judgement of discharge made, entered and filed in the above enetield proceeding on the 20th day of September 1905, do hereby appeal from the said order and judgement of discharge, to the United States Circuit Court of Appeals for the  Ninth Circuit, and pray that their appeal may be allowed and that a transcript of the record and all proceedings and paper upon which said order and judgement was made and entered, duly authenticated may be sent to the United States Circuit Court of Appeals for the Ninth Circuit:  </p>
+<p>  Petitioners respectfully pray that on account thereof, their appeal be allowed, to correct the errors complained of, and to reverse, annul and set aside the said order and judgemetn. </p>
+<pb/>
+
+<p> Your petitioners further say that they have this day filed herein their assignment of errors committed by the above entitled court in this proceeding, and intented to be urged by your petitoners as appelants in the prosecution of this suit upon appeal: </p>
+<p>  Your petitoners further show that this appeal is prosecuted by and under the direction and the authority of the Attorney general of the United States of America, and on behalf of the United States of America, and said Charles B. Hopkins, United States Marshal for the Western District of Washington: and they respectfully pray that the said appeal may be allowed without bond. </p>
+<p>  Dated at Seattle, Washington, this 20th day of September 1905. </p>
+
+<p>  Jesse A. Fraye</p>
+<p> United States Attorney for the Western District of Washington.</p>
+
+<pb/>
+
+<p> Due and timely service of teh within motion, and the receipt of a true copy thereof, acknowledged this 20th day of September 1905.  </p>
+<p> Metcalfe and Jurey</p>
+<p> Attorney for Petitioner </p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
