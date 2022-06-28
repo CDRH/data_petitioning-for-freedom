@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.ks.0116.003"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Moses Keokuk v. Albert Wiley. Opinion</title> 
+<title>M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Battaglia, Zoe C." xml:id="zcb">Zoe C. Battaglia</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -40,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.ks.0116.003</idno> 
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Moses Keokuk v. Albert Wiley. Opinion</title>
-<date/>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
+<date when="1893-06-22">June 12, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -75,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -83,51 +79,55 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1870-05">May 1870</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fowler, E. B.</term>
-<term>Valentine, Daniel Mulford</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> 
+<term></term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>           
+<listPerson>            
 <person role="petitioner">
-<persName>Keokuk, Moses</persName>
+<persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
-<persName>Wiley, Albert</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Christian, James</persName>
-</person>
-<person role="attorney_defendant">
 <persName></persName>
 </person>
-<person role="judge">
-<persName>Kingman, Samuel Austin</persName>
+<person role="sheriff">
+<persName>Nerton, George</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Wood, C. E. S.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Bowles, C. D.</persName>
+</person>
+<person role="clerk">
+<persName>Ayres, A. Reeves</persName>
+</person>
+<person role="deputy_clerk">
+<persName>Hopkins, R. M.</persName>
 </person>
 </listPerson>
-            
+                  
 <listOrg>
 <org>
-<orgName>Supreme Court</orgName> 
-<placeName>Kansas</placeName> 
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2020-11" who="#lkw">transcribed, encoded</change>    
-<change when="2019" who="#sab">transcribed, encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,23 +137,47 @@
 <body>  
                
 <div1 type="case">
+<!-- <note>G.O.B. 1-530.</note> -->
+<p><add>TX</add></p>
+<p>No. 281</p>
+<p>United States
+Circuit Court,
+District of Wsahington</p>
+<p>Ex Parte
+M. L. Coovert
+vs. 
+<gap></gap></p>
+<p>Praecipe for Appearance</p>
+<p>Filed June 12 1893
+A Reeves Ayres Clerk.
+RM Hopkins
+Deputy Clerk.</p>
+<p>CD Bowles
+Attorney for Geo
+For Nerton Sheriff</p>
+<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90
+Praecipe - U. S. Court.</p>
 
-<pb facs="hc.case.ks.0116.003"/> 
-
-<p>Valentine J. I agree with the Court upon all questions of law, and of fact, in this case, except, that I do not think that the answer of the defendant Wiley in the Court below bears the construction put upon it by this court. </p>
-
-<p>1,10 501</p>
-
-<p>Albert Wyley <lb/>
-v<lb/>
- Keokuk</p>
-
-<p>Opinion</p>
-
-<p>Filed May 10th 1870<lb/>
-E.B. Fowler<lb/>
-clerk</p>
-
+<pb facs="hc.case.wa.0461.000"/>
+<p>Ex Parte
+M. L. Coovert
+vs.
+<gap></gap></p>
+<p>No. <gap></gap>
+Praecipe for appearance.</p>
+<p>Notice:-- Attorneys will please endorse
+their own filings. Rule 47.</p>
+<p>To the Clerk of the above entitled Court:
+You will please enter my appearance as attorney
+for Geo Nerton Sheriff
+in the above entitled cause.</p>
+<p>CD Bowles
+Presecuting attorney for Clarke
+County state of Washington
+and attorney for Geo Nerton
+sheriff</p>
+<p>Notice:-- Attorney will please endorse
+their own filings. Rule 47.</p>
 </div1>
     
 </body>
