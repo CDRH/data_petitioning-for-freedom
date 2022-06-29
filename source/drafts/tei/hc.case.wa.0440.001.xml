@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Stapleton-Deno, Zoe L." xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -83,7 +84,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Alix Anderson</term>
+<term>Alex Anderson</term>
+<term>James Hart</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -98,7 +100,11 @@
 <persName>Smith, C. H.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<<<<<<< Updated upstream
+<persName>William Cochrane</persName>
+=======
+<persName>Cochrane, William</persName>
+>>>>>>> Stashed changes
 </person>
 <person role="attorney_petitioner">
 <persName>Richard Osborn</persName>
