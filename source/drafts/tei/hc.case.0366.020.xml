@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.020">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.020</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington</title>
+<date when="2022-06-28">October 30, 1918</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1918-10-30">October 30, 1918</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Decker, Fletcher</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Beeler, Adam</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+                  
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#jy">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0000.000"/>
+
+<p>INCORPORATION OF AGRICULTURAL CO-OPERATIVE ASSOCIATIONS.</p>
+
+<p>No. 210-620</p>
+<p>The West Lawn Horizon Grain Growers' Association, Limited, having filed a duly executed memorandum of association, is registered under The Agricultural Co-operative Associations Act this thirtieth day of October, 1918.</p>
+<p>The association is limited. Registered office: Horizon. Secretary: Wm. Wagner.</p>
+<p>W. W. Thomson,</p>
+<p>Registrary Agricultural Co-operative Associations.</p>
+<p>7655 22-23</p>
+
+<p>____</p>
+
+<p>No. 210-621</p>
+<p>The Bergfield Grain Growers' Association, Limited, having filed a duly executed memorandum of association is registered under The Agricultural Co-operative Associations Act this thirtieth day of October, 1918.</p>
+<p>The association is limited. Registered office: Regina. Secretary: Matt. Kaip.</p>
+<p>W. W. Thomson,</p>
+<p>Registrar Agricultural Co-operative Associations.</p>
+<p>7656 22-23</p>
+
+<p>____________</p>
+
+<p>ADVERTISEMENTS.</p>
+
+<p>NOTICE TO ADVERTISERS IN THE GAZETTE.</p>
+
+<p>Parties sending advertisements to be inserted in <!--italics-->The Saskatchewan Gazette<!--italics--> will please observe the following rules:</p>
+<p>1.   <!--italics-->The Saskatchewan Gazette<!--italics--> is issued on the fifteenth and the last day of each month.</p>
+<p>2.   Address "The Saskatchewan Gazette, Regina, Saskatchewan, Canada."</p><p>3.  Advertisements should reach this office not later than the tenth and twenty-fifth of the month, if for publication in the following issue.</p>
+<p>4.   Indicate the number of insertions required.</p>
+<p>5.   Invariably remit the fees for such advertisements, together with the price of one gazette as below. Otherwise they will not be inserted. The rates are 10 cents for each six words, each figure and contraction counting as one word. No advetisement is inserted for a less charge than one dollar. Where payment is made by cheque amount of exchange must be added: one-eighth of one per cent., minimum 15 cents.</p>
+<p>Poundkeepers' notices - Extract from The Stray Animals Act: "The poundkeeper shall forward to the King's printer for publication a notice, accompanied by a fee of $2 for each animal impounded: Provided that the fees payable to the King's printer in connection with each impoundment shall not exceed $5."</p>
+<p>Subscribers will also notice that the subscription, $2 per annum, is invariably payable in advance and that the gazette will be stopped from them at the end of the period paid for. Single numbers will be charged 10 cents each, and when more than one are required by advertisers, must be remitted for likewise.</p>
+<p>J. W. Reid,</p>
+<p>King's Printer.</p>
+
+<p>____________</p>
+
+<p>LEGISLATIVE ASSEMBLY OF THE PROVINCE OF SASKATCHEWAN.</p>
+
+<p>EXTRACTS FROM RULES RELATING TO PRIVATE BILLS.</p>
+
+<p>PETITIONS.</p>
+
+<p>79.  All petitions for Private Bills shall be in duplicate, and shall be delivered to the Clerk of the Assembly not later than the tenth day before the opening day of the session. No petition for any Private Bill shall be received by the Assembly if presented after the first ten sitting days of each session; nor may any Private Bill be presented to the Assembly after the first fifteen sitting days of each session; nor may any Report of any Standing or Special Committee on a Private Bill be received after twenty sitting days of each session, except as provided for under Rule 104.</p>
+<p>It shall be the duty of any Committee to which any Private Bill is referred to consider and report the same to the Assembly with all convenient speed.</p>
+
+<p>EXPENSES.</p>
+
+<p>80.  The expenses and costs attending on Private Bills giving any exclusive privilege, or for any object or profit or private, corporate or individual advantage; or for amending, extending or enlarging any former Acts, in such manner as to confer additional powers, shall be borne by the parties seeking to obtain the same, who shall be required to pay the sums provided by Rule 85.</p>
+
+<p>APPLICATIONS AND PUBLICATION OF NOTICES.</p>
+
+<p>82.  All applications for Private Bills, properly the subject of legislation by the Legislative Assembly of Saskatchewan, within the purview of "The British North America Act 1867," whether for the erection of a bridge, the making of a railroad, tramway, turnpike road, telegraph or telephone line, the construction or improvement of a harbour, canal, lock, dam, slide, or other like work; the granting of a right of ferry; the incorporation of any particular trade or calling or of any joint stock company; or otherwise for granting to an individual or individuals, any exclusive or peculiar rights of privileges whatever, or for doing any matter or thing, which in its operation would affect the rights or property of other parties or relate to any particular class of the community; or for making any amendment of a like nature to any former Act or Ordinance, shall require a notice, clearly and distinctly specifying the nature and object of the application, and where the application referes to any proposed work, indicating generally the location of the work and signed by or on behalf of the applicants. Such notice shall be published, during two months between the close of the next preceeding session and the time of the consideration of the petition, in two consecutive issues of <!--italics-->The Saskatchewan Gazette<!--italics--> and four consecutive issues of one other newspaper, published in English.</p>
+<p>Within two weeks from the first appearance of such notice in <!--italics-->The Saskatchewan Gazette<!--italics--> and not later than ten days before the opening day of the session, two copies of the said Bill, with the marginal notes inserted, shall be placed by the applicant in the hands of the Law Clerk, of the Assembly, whose duty it shall be to get the said Bill printed forthwith.</p>
+<p>83.  A copy of the notice with a statutory declaration of the several publication of advertisement, shall be sent by the parties inserting such notice to the Clerk of the Assembly, not alter than ten days before the opening day of the session, which shall be filed in the office of the Clerk of the Assembly.</p>
+<p>84.  No motion for the suspension of this Rule shall be entertained by the Assembly until the same has been favourably reported upon by the Committee on Standing Orders in accordance with Rules 79, 82, and 83, and if the Committee do report favourably, the specific reasons for so reporting shall be fully reported to the Assembly.</p>
+
+<p>FEES AND DEPOSITS.</p>
+
+<p>85.  Every applicant for a Private Bill shall deposit with the Clerk of the Assembly ten days prior to the meeting of the Assembly, the sum of one hundred and fifty dollars, if the said Bill does not exceed ten pages, and ten dollars additional for each page over that number, for the purpose of this Rule four hundred and fifty words shall be held to constitute a page.</p>
+<p>In case of a Bill incorporating a company a receipt form the Registrar of Joint Stock Companies for fees as fixed by law for the registration of Joint Stock Companies shall also be deposited with the Clerk of the Assembly as aforesaid.</p>
+<p>Accepted cheques in paymenet of fees should be made payable to the Provincial Treasurer and forwarded to the Clerk of the Assembly along with the copies of the Bill.</p>
+
+<p>REMITTANCE OF FEES.</p>
+
+<p>86.  No remittance of a deposit on account of a Private Bill or of any portion thereof shall be ordered by the Assembly unless the same has been recommended by the Committee charged with the consideration of such Bill, or unless the Bill has been withdrawn, rejected or not reported upon, in which cases the actual expenses incurred shall be deducted form the deposit received.</p>
+
+<p>FORM OF BILLS.</p>
+
+<p>87.  All Private Bills for Acts of incorporation shall be so framed as to incorporate by reference to the clauses of the general Acts relating to the details to be provided for by such Bills. Special grounds shall be established for any roposed departure from this principle, or for the introduction of other provisions as to such details and a note shall be appended to the Bill, indicating the provisions thereof, in which the general Act is proposed to be departed from. Bills which are not framed in accordance with this rule shall be recast by the promoters and reprinted at their expense before any Committee passes upon the clauses.</p>
+
+<p>MODEL BILLS.</p>
+
+<p>88.  All Private Bills for Acts of incorporation or in amendment of Acts, where a form of a Model Bill has been adopted, shall be drawn in accordance with the Model Bill, copies of which may be obtained form the Clerk of the Assembly.</p>
+<p>    (a) The provisions contained in any Bill which are not in accord with the Model Bill shall be inserted between brackets, and when revised by the proper officer shall be so printed, and Bill which are not in accordance with their rule shall be returned to the promoters to be recast before being revised and printed.</p>
+<p>    (b) Any sections of existing Acts or Ordinances which are proposed to be amended shall be reprinted in full with the amendments inserted in their proper places and between brackets.</p>
+<p>    (c) Any exceptional provisions that may be proposed to insert in any Bill shall be clearly specified in the notice of application for the same.</p>
+
+<p>MAPS, PLANS AND EXHIBITS WITH PETITIONS.</p>
+
+<p>89.  Before any petition praying for leave to bring in a Billf or the constitution of a railway or for the changing of the route of the railway of any company already incorporated, tramways or canals is received by the Assembly, the person or persons petitioning for such Bills shall deposit with the Clerk of the Assembly the following documents:</p>
+<p>    (1) A map or plan upon a scale of not less than one inch to three miles; showing the location upon which it intended to construct the proposed work , and showing also the lines of existing or authorised works of a similar charactyer within or in any way affecting the district or any pat thereof, which the proposed work is intended to serve. Such map or plan to be signed by the engineer or other parties making the same.</p>
+<p>    (2) A Book of Reference, in which shall be clearly set out the following information in separate schedules, namely:</p>
+<p>Schedule A. - A general description of the nature, extent and proposed character of the contemplated works and an estimate of the probable cost thereof, distinguishing the general items of construction and the costs thereof respectively, as well as the nature, extent and probable cost of all engine and car stock or other outfit or equipment necessary to the use and operation of the proposed undertaking, such schedule to be signed by the engineer or other person preparing the same.</p>
+<p>Schedule B. - An exhibit showing the total amount of capital proposed to be raised for teh purpose of their undertaking and the manner in which it is proposed to raise teh same, whethe rby ordinary shares, bonds, debentures or other securities and the amount of each respectively.</p>
+
+<p>SUSPENSION OF RULES.</p>
+
+<p>104. Except in cases of urgent and pressing necessity no motion for the suspension or modification of any rule applying to Private Bills or petitions for Private Bills shall be entertained by the Assembly until after reference is made to the Committee on Standing Orders, or to one of the Committees charged with the consideration of Private Bills, and a report made thereon by one or more of such Committees, who shall state in such report the grounds for recommending such suspension.</p>
+<p>G. A. Mantle.</p>
+<p>Clerk Legislative Assembly.pg 56</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
