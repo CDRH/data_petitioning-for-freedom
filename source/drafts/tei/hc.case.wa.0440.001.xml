@@ -100,11 +100,8 @@
 <persName>Smith, C. H.</persName>
 </person>
 <person role="defendant">
-<<<<<<< Updated upstream
 <persName>William Cochrane</persName>
-=======
 <persName>Cochrane, William</persName>
->>>>>>> Stashed changes
 </person>
 <person role="attorney_petitioner">
 <persName>Richard Osborn</persName>
@@ -128,6 +125,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#brh">transcribed and encoded</change>
+<change when="2022-06" who="#zlsd">edited</change>
 </revisionDesc>
 
 </teiHeader>
