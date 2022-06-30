@@ -116,11 +116,11 @@ class CsvToEsPerson < CsvToEs
           #get names and id's out of brackets, quotes, and parentheses
           if name1_and_id != "[]()"
             person1_name = /\["(.*)"\]/.match(name1_and_id)[1]
-            person1_id = /\((.*)\)/.match(name1_and_id)[1]
+            person1_id = /\]\((.*)\)/.match(name1_and_id)[1]
           end
           if name2_and_id != "[]()"
             person2_name = /\["(.*)"\]/.match(name2_and_id)[1]
-            person2_id = /\((.*)\)/.match(name2_and_id)[1]
+            person2_id = /\]\((.*)\)/.match(name2_and_id)[1]
           end
           subject = "#{person1_name} {#{person1_id}}"
           object = "#{person2_name} {#{person2_id}}"
@@ -138,10 +138,10 @@ class CsvToEsPerson < CsvToEs
           #get names and id's out of brackets, quotes, and parentheses
           if name1_and_id != "[]()"
             person1_name = /\["(.*)"\]/.match(name1_and_id)[1]
-            person1_id = /\((.*)\)/.match(name1_and_id)[1]
+            person1_id = /\]\((.*)\)/.match(name1_and_id)[1]
           end
           person2_name = /\["(.*)"\]/.match(name2_and_id)[1]
-          person2_id = /\((.*)\)/.match(name2_and_id)[1]
+          person2_id = /\]\((.*)\)/.match(name2_and_id)[1]
           subject = "#{person1_name} {#{person1_id}}"
           object = "#{person2_name} {#{person2_id}}"
           roles = { "type" => "person_relationship", "subject" => subject, "predicate" => relationship, "object" => object }
