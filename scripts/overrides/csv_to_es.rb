@@ -47,7 +47,7 @@ class CsvToEs
     # end
   
     def date(before=false)
-      Datura::Helpers.date_standardize(@row["Petition Date"], before)
+      Datura::Helpers.date_standardize(@row["Earliest Record Date"], before)
     end
 
     def date_not_before
