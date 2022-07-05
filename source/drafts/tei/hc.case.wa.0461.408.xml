@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Demurrer</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant.</title>
-<date when="1000">1000</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Demurrer</title>
+<date when="1893-06-22">June 13, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11">Month, Year</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -95,7 +95,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -104,27 +104,27 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Bowles, C. D.</persName>
 </person>
-<person role="attorney_defendant">
-<persName></persName>
+<person role="clerk">
+<persName>Ayres, A. Reeves</persName>
 </person>
-<person role="judge">
-<persName></persName>
+<person role="deputy_clerk">
+<persName>Hopkins, R. M.</persName>
 </person>
 </listPerson>
                   
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-07" who="#xxx">transcribed and encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,9 +134,53 @@
 <body>  
                
 <div1 type="case">
+<pb/>
+<p>TX</p>
+<p>No. 279</p>
+<p>In the United States
+Circuit Court
+For the District of Washington</p>
+<p>Ex parte M. L. Coovert
+vs.
+<gap></gap></p>
+<p>Demurrer.</p>
+<p>Filed June 13 1893</p>
+<p>A. Reeves Ayres
+Clerk.
+By R. M. Hopkins
+Deputy.</p>
+<p>CD Bowles
+Attorney for Geo Nerton Sheriff</p>
 
 <pb/>
-
+<p>In the Circuit Court of the United States, Ninth Circuit,
+District of Washington, Northern Division.</p>
+<p>Ex parte
+M. L. Coovert</p>
+<p>Petition for Writ of Habeas 
+Corpus.</p>
+<p>Now comes Geo. Nerton, Sheriff of the County of
+Clarke, Stte of Washington, by his attorney, C. D. Bowles,
+and demurs to the petition filed in the above entitled
+cause for the following reason, to-wit:</p>
+<p>that the facts set forth in said petition do not
+state facts sufficeient to constitute a cause for the
+relief prayed for, to-wit; theissuance of a writ of habeas
+corpus.</p>
+<p>CD Bowles
+Attorney for Geo. Nerton, and
+Prosecuting Attorney for the 
+State of Washington for the
+County of Clarke.</p>
+<p>United States of America
+District of Washington.
+: SS</p>
+<p>I, C. D. Bowles, do hereby certify that I am a regularly
+admitted and practicing attorney in the Circuit Court
+of the United States for the District of Washington, and
+I have examined the demurrer herein set forth and that
+the same is well founded in point of law.
+CD Bowles</p>
 </div1>
     
 </body>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.022">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fletcher Decker v. State of Washington</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.022</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington</title>
+<date when="2022-07-05">July 5, 2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1921-08">August, 1921</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Malcolm Dingwall</term>
+<term>Fletcher Decker</term>
+<term>Frederick A. McEwan</term>
+<term>William James Henry Vigors</term>
+<term>Cassius M. Clay Robinson</term>
+<term>Charles Burdette Robinson</term>
+<term>Alexander Joseph Gordon MacEchen, Esquire</term>
+<term>Frederick John Charles Edwards</term>
+<term>John William McLeod</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Regina, Saskatchewan, Canada</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Decker, Fletcher</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Beeler, Adam</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+                  
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-06" who="#jy">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0366.022"/>
+
+<p>COURT OF THE KING'S BENCH OF SASKATCHEWAN.</p>
+
+<p>BETWEEN:</p>
+
+<p>HIS MAJESTY THE KING</p>
+<p>Plaintiff.</p>
+<p>- and -</p>
+<p>FLETCHER DECKER</p>
+<p>Defendant.</p>
+
+<p>________</p>
+
+<p>I, Malcolm Dingwall, Acting Deputy Attorney-General in and for the Province of Saskatchewan, at the City of Regina in the said Province, do hereby certify that the copy of the Information and Complaint, the copies of the Warrants to Apprehend, and the copy of the depositions have been examined and compared with the originals thereof, and I find them to be true copies of the original Information and Complaint, the original Warrants to Apprehend, and the original Depositions, as aforesaid.</p>
+<p>I further hereby certify that the depositions of Frederick A. McEwan, William James Henry Vigors, Cassius M. Clay Robinson and Charles Burdette Robinson, taken before Alexander Joseph Gordon MacEchen, Esquire, a Justice of the Peace in and for the Province of Saskatchewan, have been examined by me and taken in conjunction with the Delcarations of Frederick John Charles Edwards, Esquire, Acting Deputy Provincial Secretary of the said Province of Saskatchewan, and the Declaration of John William McLeod, Esquire, Clerk of the Executive Council of the said Province of Saskatchewan, and my own affidavits as to the law in form in this Province, herewith enclosed, would be acceptable as evidence in Extradition matters in the Province of Saskatchewan.</p>
+<p>IN WITNESS WHEREOF I hereunto sign my name this twelfth day of August in the year of Our Lord One Thousand Nine Hundred and Twenty-One.</p>
+
+<p>(Signed) M. DINGWALL</p>
+<p>Acting Deputy Attorney-General for the Province of Saskatchewan Dominion of Canada.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

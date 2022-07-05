@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant.</title>
-<date when="1000">1000</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
+<date when="1893-06-22">June 12, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11">Month, Year</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -95,36 +95,36 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
 <persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wood, C. E. S.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
-<person role="attorney_defendant">
-<persName></persName>
+<person role="clerk">
+<persName>Ayres, A. Reeves</persName>
 </person>
-<person role="judge">
-<persName></persName>
+<person role="deputy_clerk">
+<persName>Hopkins, R. M.</persName>
 </person>
 </listPerson>
                   
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-07" who="#xxx">transcribed and encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,9 +134,44 @@
 <body>  
                
 <div1 type="case">
+<pb/>
+<!-- <note>G.O.B. 1- 529</note> -->
+<p><add>TX</add></p>
+<p>No. 279</p>
+<p>United States
+Circuit Court,
+District of Washington</p>
+<p>In re
+M. L. Coovert
+<del>vs.</del>
+Habeas Corpus</p>
+<p>Praecipe for Appearance</p>
+<p>Filed June 12 1893
+A Reeves Ayres Clerk.
+R.M. Hopkins Deputy Clerk.</p>
+<p>C. E. S. Wood
+For petitioner</p>
+<p>Lowman &amp; Hanford S.&amp;P. Co's Blank No. 90.
+Praecipe - U. S. Court.</p>
 
 <pb/>
-
+<p>In red
+M. L. Coovert
+<del>vs.</del>
+Habeas Corpus</p>
+<p>No. 279
+Praecipe for Appearance.</p>
+<p>Notice:-- Arrotneys will please endorse 
+their own filings. Rule 47.</p>
+<p>To the Clerk of the above entitled Court:
+you will please enter my appearance as solicitor
+for petitioner
+in the above entitled cause.</p>
+<p>CES Wood
+Solicitor
+of Williams &amp; Wood attys.</p>
+<p>Notice:-- Attorneys will please endorse
+their own filings. Rule 47.</p>
 </div1>
     
 </body>
