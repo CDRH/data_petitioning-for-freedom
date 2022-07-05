@@ -25,7 +25,7 @@ class CsvToEsPerson < CsvToEs
         @json["name_alternate_k"] = @row["name_alternate"]
       end
       if @row["Indicated Age Category (from Case Data [join])"]
-        @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])
+        @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])[0]
       end
 	  end
 		
