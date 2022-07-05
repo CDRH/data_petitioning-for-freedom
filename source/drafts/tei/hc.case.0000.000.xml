@@ -109,7 +109,7 @@
 <person role="attorney_defendant">
 <persName></persName>
 </person>
-<person role="justice_of_the_peace">
+<person role="judge">
 <persName></persName>
 </person>
 </listPerson>
@@ -124,7 +124,7 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#xxx">transcribed and encoded</change>
+<change when="2022-07" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,7 +135,7 @@
                
 <div1 type="case">
 
-<p></p>
+<pb/>
 
 </div1>
     
