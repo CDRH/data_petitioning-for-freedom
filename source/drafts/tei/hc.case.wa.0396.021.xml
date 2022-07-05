@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0396.021">
     
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Martin Lawson vs. King County Writ of Habeaus Corpus</title>
+                <title>Martin Lawson vs. King County. Court Receipt.</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -26,7 +26,7 @@
             
             <editionStmt>
                 <edition>
-                    <date>2020</date>
+                    <date>2022</date>
                 </edition>
             </editionStmt>
             
@@ -42,7 +42,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0396.021</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -52,8 +52,8 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">Martin Lawson vs. King County Writ of Habeaus Corpuss</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">Martin Lawson vs. King County. Court Receipt.</title>
+                    <date when="1876">1876</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -77,7 +77,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="type">
-                    <term></term>
+                    <term>Criminal</term>
                 </keywords>
                 
                 <keywords scheme="original" n="subtype">
@@ -85,87 +85,95 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1876">1876</date></term>
                 </keywords>
-                
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
+<term>Lawson Martin</term>
+<term>D. S. Smith</term>
+          </keywords>
                 
-                <keywords scheme="lcsh" n="places"> 
-                    <term>King County, Washington</term>
-                </keywords>
+<keywords scheme="lcsh" n="places"> 
+<term>Seattle, King County, Washington Territory</term>
+              
+</keywords>
                 
-            </textClass>
+</textClass>
             
-            <particDesc>   
-                <listPerson>            
-                    <person role="petitioner">
-                        <persName>Lawson Martin</persName>
-                    </person>
-                    <person role="defendant">
-                        <persName></persName>
-                    </person>
-                    <person role="attorney_petitioner">
-                        <persName></persName>
-                    </person>
-                    <person role="attorney_defendant">
-                        <persName></persName>
-                    </person>
-                    <person role="judge">
-                        <persName>J. R. Lewis</persName>
-                    </person>
-                </listPerson>
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Lawson Martin</persName>
+<persName>John Strom</persName>
+<persName>Christ Anderson</persName>
+<persName>Thomas Steward</persName>
+<persName>Ellias Krebs</persName>
+<persName>John Nickels</persName>
+<persName>Peter Nelson</persName>
+<persName>Victor Martinson</persName>
+</person>
+<person role="defendant">
+<persName>L. V. Wyckoff</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>W. H. White</persName>
+<persName>L. B. Nash</persName>
+<persName>N. R. Andrews</persName>
+</person>                    
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Joseph R. Lewis</persName>
+<persName>D.S. Smith</persName>
+</person>
+</listPerson>
                 
-                <listOrg>
-                    <org>
-                        <orgName></orgName>
-                        <placeName></placeName>
-                    </org>
-                </listOrg>   
-            </particDesc> 
-        </profileDesc>
+<listOrg>                    
+<org>
+<orgName>Third Judicial District of Washington Territory</orgName>
+<placeName>King County, Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
         
-        <revisionDesc>         
-            <change when="2018-01" who="#ini">reviewed; edited</change>
-            <change when="2020-09" who="#lkw">transcribed and encoded</change>
-        </revisionDesc>
-        
-    </teiHeader>
+<revisionDesc>         
+<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2022-07" who="#AS">reviewed; edited</change>
+</revisionDesc>
+            
+</teiHeader>
     
-    <text>
+<text>
         
-        <body>  
+        <body> 
             
             <div1 type="case">
-<p>Seattle due 16-1876
-Marshal Court in the case
-United States
-R. D.</p>
-<p>Martin Lawson John Strom Charles
-Anderson Thomas Henwood Elias Krebs
-Edward Haquer John Nickels Peter
-Nelson Victor Martinson</p>
-<p>1816
-Dec 9</p>
-<p>To avestry and serving nine warrants
-at $2.08</p>
-<p>$18.00</p>
-<p>So attendance on court and
-custody of Prisoners five days $3.00 15.00
-So Boarding nine persons eight 
-days at <unclear></unclear> 72.00</p>
-<p>16 to serving <unclear></unclear> 2.00
-to serving complaints
-one days attendance on suit 2.00
-court at <unclear></unclear></p>
+<p>In the District Court Third Judicial District of
+Washington Territory, holding terms at Seattle
+United States 
+Martin Lawson et al</p>
+<p>For <unclear></unclear></p>
+<p>Cash Bail</p>
+<p>Before D. S. Smith Justice of the Peace.
+Justice Court.</p>
+<p>Affidants $2.28</p>
+<p>9 Warrants 9.00</p>
+<p>Swearing 12 witnesses 1.80</p>
+<p>Filing 11 habeas 1.65</p>
+<p>Commitment .50</p>
+<p>$15.20</p>
+<p>>In District Court, on Habeas Corpus
+Clerk fees</p>
+<p>Issuing mores 1.00</p>
+<p>Adjourning 32 oaths 3.20</p>
+<p>Marking Docket etc. 3.00</p>
+<p>Excuting Order .60</p>
+<p>Certified City of Order 1.60</p>
+<p>$9.40</p>
+<p>$24.60</p>
 
-<p>3.00
-$11.20</p>
-<p>
-L. V. Wyckoff
-Deputy W. D. Marshal 
-W. D.</p>
             </div1>
             
         </body>
