@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.021">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fletcher Decker v. State of Washington</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.021</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington</title>
+<date when="2022-07-05">June 5, 2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1921-08">August, 1921</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Malcolm Dingwall</term>
+<term>Fletcher Decker</term>
+<term>W. F. Windeall</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Regina, Saskatchewan, Canada</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Decker, Fletcher</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Beeler, Adam</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+                  
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-07" who="#jy">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0366.021"/>
+
+<p>THE KING VERSUS FLETCHER DECKER.</p>
+
+<p>CANADA</p>
+<p>PROVINCE OF SASKATCHEWAN</p>
+
+<p>I, Malcolm Dingwall of the City of Regina, in the Province of Saskatchewan, Dominion of Canada, Acting Deputy Attorney-General for the Province of Saskatchewan, Canada, make oath and say as follows:-</p>
+
+<p>1.   THAT I am the Acting Deputy Attorney-General for the Province of Saskatchewan.</p>
+<p>2.   THAT the Criminal Code of Canada is now in force in the Province of Saskatchewan and has been in force here during the last nine years and more.</p>
+<p>3.   THAT hereinbelow set forth is section 347 of the said Criminal Code.</p>
+
+<p>     "347. Theft or staeling is the act of fraudulently and without color of right taking, or fraudulently and withouyt color of rih converting to the use of any person, anything capable of being stolen, with intent,-</p>
+<p>(a)  to deprive the owner, or any person having any special property or interest therein, temporarily, or absolutely, of such thing, or of such property or interest; or,</p>
+<p>(b)  to pledge the same or deposit it as security; or,</p>
+<p>(c)  to part with it under a condition as to its return which the person parting with it may be unable to perform; or,</p>
+<p>(d)  to deal with it in such a manner that it cannot be restored in the condition in which it was at the time of such taking and conversion.</p>
+
+<p>     2. Theft is committed when the offender moves the thing or causes it to move or to be moved, or begins to cause it to become movable, with intent to steal it.</p>
+<p>     3. The taking or conversion may be fraudulent, although effected without secrecy or attempt at concealment.</p>
+<p>     4. It is immaterial whether the thing converted was taken for the purpose of conversion, or whethe rit was, at the time of the conversion, in the lawful possession of the person converting."</p>
+
+<p>SWORN before me at Regina in the Province of Saskatchewan, Canada, this twelfth day of August, A. D. 1921.</p>
+
+<p>(Signed) M. DINGWALL</p>
+<p>Acting Deputy Attorney-General.</p>
+
+<p>(signed)(seal) W. F. Windeall<!--signed and written--></p>
+<p>A Notary Public duly authorized and commissioned, residing and practising as such at Regina, aforesaid.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
