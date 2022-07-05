@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.023">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fletcher Decker v. State of Washington</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Yu, Jingming" xml:id="jy">Jingming Yu</name>
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0366.023</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Fletcher Decker v. State of Washington</title>
+<date when="2022-07-05">July 5, 2022</date>
+<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District Of Washington, Seattle; Law Register Northern Division, 1899-1906, vol2.</collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1921-08">August, 1921</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Jesse Hilderbran Johnson</term>
+<term>Frederick A. McEwan</term>
+<term>William James Henry Vigors</term>
+<term>Cassius M. Clay Robinson</term>
+<term>Charles Burdette Robinson</term>
+<term>Frederick John Charles Edwards</term>
+<term>Alexander Joseph Gordon MacEchen</term>
+<term>William Fabyan Windeatt</term>
+<term>John Wiliam McLeod</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Regina, Saskatchewan, Canada</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Decker, Fletcher</persName>
+</person>
+<person role="defendant">
+<persName>White, Henry M.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Beeler, Adam</persName>
+<persName>Sullivan</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Saunders, Robert C.</persName>
+</person>
+<person role="judge">
+<persName>Neterer, Jeremiah</persName>
+</person>
+</listPerson>
+                  
+<listOrg>
+<org>
+<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName>Western District of Washington</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2022-07" who="#jy">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb facs="hc.case.wa.0366.023"/>
+
+<p>CERTIFICATE TO BE ATTACHED TO DOCUMENTARY EVIDENCE ACCOMPANYING REQUISITIONS IN THE UNITED STATES OF AMERICA FOR EXTRADITION.</p>
+<p>____________</p>
+
+<p>AMERICAN CONSULAAR SREVICE,</p>
+<p>Regina, Saskatchewan. August 12th, 1921.</p>
+
+<p>I, Jesse Hilderbran Johnson, Consul of the United States of America at Regina, Province of Saskatchewan, Dominion of Canada, hereby certify that the annexed papers, being;</p>
+<p>     Certified copy of the Information and Complaint.</p>
+<p>     Certified copies of the Warrants to Apprehend.</p>
+<p>Copy of the certified depositions of Frederick A. McEwan, William James Henry Vigors, Cassius M. Clay Robinson and Charles Burdette Robinson.</p>
+<p>Declaration of Frederick John Charles Edwards as to his official character, (Acting Deputy Provincial Secretary of the Province of Saskatchewan) as to the appointments of Notaries Public and Justices of the Peace, as to the appointment and continuance in office of Alexander Joseph Gordon MacEchen, Justice of the Peace.</p>
+<p>Declaration of Frederick John Charles Edwards as to his official character, (Acting Deputy Provincial Secretary of the Province of Saskatchewan) as to the appointments of Notaries Public, as to the appointment and continuance in office of William Fabyan Windeatt, Notary Public.</p>
+<p>Declaration of John William McLeod as to his official character, (Clerk of the Executive Council of the Province of Saskatchewan) as to the appointment of the Acting Deputy Attorney-General in the said Province, as to the appointment and continuance in office of Malcolm Dingwall, Acting Deputy Attorney-General in and for the Province of Saskatchewan , and Exhibits "A" and "B" to the said Declaration of the said John William McLeod respectively thereto annexed.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the alw in force in the Province of Saskatchewan, relating to the offence of 'theft' and as to the powers of a Justice of the Peace relating to the receiving of a Complaint or Information and the hearing of the evidence at a preliminary enquiry.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the alw in force in theh Province of Saskatchewan, relating ot the offence of "theft" as defined by section 347 of the Criminal Code of Canada.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the law in force in the Province of Saskatchewan, relating particularly to 'things capable of being stolen' as defined by section 344 of the Criminal Code of Canada.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the law in force in the Province of Saskatchewan, realting particularly to the offence of 'theft' as defined by section 386 of the Criminal Code of Canada, and to the term of imprisonment for the said offence, as provided for by the said section.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the law in force in the Province of Saskatchewan, relating to the parties to an offence as provided for by section 69 of the Criminal Code of Canada.</p>
+<p>Affidavit of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan, as to his official character, as to the law inn force in the Province of Saskatchewan, relating to the definition of "every one", "person", "owner" and other expressions of the same kind as defined by sub-section (13) of section 2 of the Criminal Code.</p>
+<p>Certificate of Frederick John Charles Edwards, as to the appoitment of Alexander Joseph Gordon MacEchen to be a Justice of the Peace in and for teh Province of Saskatchewan.</p>
+<p>Certificate of Frederick John Charles Edwards, as to the appoitment of William Fabyan Windeatt to be a Notary Public in and for the Province of Saskatchewan.</p>
+<p>Certificate of Malcolm Dingwall, Acting Deputy Attorney-General for the Province of Saskatchewan that the copy of the Information and Complaint, the copies of the Warrants to Apprehend, and the copy of the depositions, have been examined and compared with the originals thereof, etc.</p>
+
+<p>proposed to be used upon an application for the extradition form the United States of America of Fletcher Decker, charged with the crime of 'theft', alleged to have been committed near Wiwa Hill Post Office, in the Province of Saskatchewan, in the Dominion of Canada, on or about the 15th day of November, A. D. 1915, set forth in the said Information and Complaint are properly and legally authenticated so as to enable them to be received in evidence for similar purposes by the tribunals of the Province of Saskatchewan, in the Dominion of Canada, as required by Act of Congress of August 3, 1882.</p>
+<p>IN WITNESS WHEREOF I hereunto sign my name and cause my seal of office to be affixed this twelfth day of August, A. D. 1921.</p>
+
+<p>(seal)       (signed) Jesse. H. Johnson<!--signature,written--></p>
+<p>Consul of the United States of America.</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
