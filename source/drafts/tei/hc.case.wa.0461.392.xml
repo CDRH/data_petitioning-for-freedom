@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In Re: Ex Parte - Donald Kerracher - Writ of Habeas Corpus</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Banse, AD" xml:id="ab">AD Banse</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -35,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0270.002</idno>
+<idno type="project">hc.case.wa.0000.000</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,14 +46,14 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">In Re: Ex Parte - Donald Kerracher - Writ of Habeas Corpus</title>
-<date when="2022-06-13">1000</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
+<date when="1893-07-23">July 23, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21 US Circuit Courts, Western District of Washington, Seattle; Law Register Northern Division, 1890-1901, vol 1</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -78,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1893-07">July 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -94,7 +95,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
 <persName></persName>
@@ -105,22 +106,25 @@
 <person role="attorney_defendant">
 <persName></persName>
 </person>
-<person role="judge">
-<persName></persName>
+<person role="clerk">
+<persName>Kenney, James H. M.</persName>
+</person>
+<person role="deputy_clerk">
+<persName>Walker, H. M.</persName>
 </person>
 </listPerson>
-            
+                  
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#xxx">transcribed and encoded</change>
+<change when="2022-06" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -128,47 +132,39 @@
 <text>
 
 <body>  
-
-
                
 <div1 type="case">
-
-
 <pb/>
-
-<p>  In the United States Circuit Court, For the Ninth
-    Judicial Circuit, Western District of 
-    the State of Washington, 
-    Northern Division. </p>
-
-<p> In Re. Ex Parte: 
-    Donald MC Kerracher,
-    Petitioner. Petition for a Writ of Habeas Corpus</p>
-
-<p>  The United States of America, 
-    To C.B. Hopkins, United States Marshal,  GREETING: </p>
-<p>  We hereby command you that the body of Donald McKerracher, in 
-    your custody detained, as it is said, by whatever name he may charged, 
-    together with the date and cause of his detention, you have before the
-    United States Circuit Court for the Ninth Judicial District holding
-    terms at Seattle, Washington, in the City of Seattle, County of King 
-    and State of Washington, on the 20th day of September, next at ten 
-    o'clock in the forenoon of that day, then and there to receive and sub-
-    mit to all and singular whatsover the said Court shall consider con-
-    cerning him in this behalf, and that you have then and there this writ, 
-    with your doings in the premises. 
-    
-    Witness the Honorable C.H. Hanford, Judge of said Court, 
-    this 18th day of September, A.D. 1905.   </p>
-
-<p>  C.H. Hanford, Judge</p>
- 
-<p>  C.H. Hanford, Judge</p>
-<p> Attest: A. Reeves Ayres 
-    Clerk of said Court, 
-    by Rm. H. Briker
-    Deputy </p>
-
+<!-- <note>G.O.B. 5-258</note> -->
+<p><add>#281
+TX</add></p>
+<p>Supreme Court of the United States.
+No. 96, October term 1896.</p>
+<p>The State of Washington
+vs.
+M. L. Coovert</p>
+<p>Mandate.</p>
+<p>Filed July 23 1898
+In the U. S. Circuit Court.
+A. Reeves Ayres
+Clerk
+HM Walker
+Deputy</p>
+<p>You, therefore, are hereby commanded that such execution and further
+proceedings be had in said cause, in conformity with the opinion and
+decree of this Court as according to right and justice, and the laws
+of the United States, ought to be had, the said appeal
+notwithstanding.</p>
+<p>Witness the Honorable Melwille W. Fuller, Chief Justice of the
+United States, the 22nd day of July, in the year
+of our Lord one thousand eight hundred and ninety-seven.</p>
+<p>Costs of The State of Washington
+Clerk $26.00
+Printing record $16.50
+Attorney $20.00
+$62.50</p>
+<p>James H. M. Kenney
+Clerk of the Supreme Court of the United States</p>
 </div1>
     
 </body>
