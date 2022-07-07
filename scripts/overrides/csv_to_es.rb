@@ -195,7 +195,7 @@ class CsvToEs
     # end
   
     def source
-      @row["Case Citation"]
+      @row["Case Citation(s)"]
     end
 
     def subcategory
