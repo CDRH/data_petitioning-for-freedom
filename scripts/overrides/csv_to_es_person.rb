@@ -30,6 +30,9 @@ class CsvToEsPerson < CsvToEs
       if @row["person_case_year"]
         @json["case_year_k"] = JSON.parse(@row["person_case_year"]).select{|i| i.class == String}
       end
+      if @row["person_nationality"]
+        @json["nationality_k"] = JSON.parse(@row["person_nationality"]).collect {|i| i.split("|")[1] if i }[0]
+      end
 	  end
 		
 	  def id
