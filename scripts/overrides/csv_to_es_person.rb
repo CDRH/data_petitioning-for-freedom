@@ -27,6 +27,9 @@ class CsvToEsPerson < CsvToEs
       if @row["Indicated Age Category (from Case Data [join])"]
         @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])[0]
       end
+      if @row["person_case_year"]
+        @json["case_year_k"] = JSON.parse(@row["person_case_year"]).select{|i| i.class == String}
+      end
 	  end
 		
 	  def id
