@@ -29,7 +29,7 @@ people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modifie
 # make sure what is being written to CSV is proper JSON
 for label in ["Petition Type", "Document Type(s)", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])", "Court Location(s)", "Petition Outcome", "Fate of Bound Party(s)", "Court Type(s)", "Court Name(s)", "Record Type(s)", "bound_party_age", "bound_party_race", "bound_party_sex"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
-for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person role case (from Case Role [join])", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text"]:
+for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person role case (from Case Role [join])", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year"]:
     people_frame[label] = people_frame[label].apply(json.dumps)
 # replace bad values
 cases_frame = cases_frame.fillna('')
