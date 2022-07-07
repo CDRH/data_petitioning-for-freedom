@@ -66,8 +66,9 @@ class CsvToEsPerson < CsvToEs
     end
 
     def relation
-      #note this is still not a completed field
-      @row["Cases"]
+      if @row["Cases Text"]
+        JSON.parse(@row["Cases Text"])
+      end
     end
 
     def spatial
