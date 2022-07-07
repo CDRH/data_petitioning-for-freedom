@@ -4,6 +4,38 @@ class CsvToEs
     def array_to_string (array,sep)
       return array.map { |i| i.to_s }.join(sep)
     end
+
+    def make_rdf_field(row, type, predicate)
+      info = []
+      JSON.parse(row).each do |person_info|
+        if person_info
+          data = person_info.split("|")
+          #get name/id out of brackets/quotes/parentheses
+          name_and_id = data[0]
+          value_list = data[1].split(", ")
+          case_and_id = data[2]
+          name = /\["(.*)"\]/.match(data[0])[1]
+          person_name = /\["(.*)"\]/.match(name_and_id)[1]
+          person_id = /\((.*)\)/.match(name_and_id)[1]
+          case_name = /\[(.*)\]/.match(case_and_id)[1]
+          case_id = /\((.*)\)/.match(case_and_id)[1]
+          subject = "#{person_name} {#{person_id}}"
+          source = object = "#{case_name} {#{case_id}}"
+          id = /\((.*)\)/.match(name_and_id)[1]
+          value_list.each do |value|
+            age = { 
+              "type" => type, 
+              "subject" => subject, 
+              "predicate" => predicate,
+              "object" => value,
+              "source" => source
+            }
+            info << age
+          end
+        end
+      end
+      info
+    end
     ##########
     # FIELDS #
     ##########
@@ -47,7 +79,7 @@ class CsvToEs
     # end
   
     def date(before=false)
-      Datura::Helpers.date_standardize(@row["Earliest Record Date"], before)
+      Datura::Helpers.date_standardize(@row["Petition Date"], before)
     end
 
     def date_not_before
@@ -122,7 +154,7 @@ class CsvToEs
     end
 
     def rdf
-      case_roles = []
+      info = []
       if @row["RDF - person role case (from Case Role [join])"]
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
           data = person_info.split("|")
@@ -136,11 +168,20 @@ class CsvToEs
           case_id = /\((.*)\)/.match(case_and_id)[1]
           subject = "#{person_name} {#{person_id}}"
           object = "#{case_name} {#{case_id}}"
-          roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
-          case_roles << roles
+          case_roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
+          info << case_roles
         end
       end
-      case_roles
+      if @row["bound_party_age"]
+        info.concat(make_rdf_field(@row["bound_party_age"], "bound_party_age", "age"))
+      end
+      if @row["bound_party_race"]
+        info.concat(make_rdf_field(@row["bound_party_race"], "bound_party_race", "race"))
+      end
+      if @row["bound_party_sex"]
+        info.concat(make_rdf_field(@row["bound_party_sex"], "bound_party_sex", "sex"))
+      end
+      info
     end 
   
     def rights_holder
@@ -160,6 +201,12 @@ class CsvToEs
     def subcategory
       if @row["Petition Type"]
         JSON.parse(@row["Petition Type"])
+      end
+    end
+
+    def subjects
+      if @row["Document Type(s)"]
+        JSON.parse(@row["Document Type(s)"])
       end
     end
   
