@@ -8568,6 +8568,122 @@
         ]
     },
     {
+        "Additional People": "T.H. Cann (judge)",
+        "Case Citation(s)": "King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889. Case No. 4177",
+        "Case ID": "hc.case.wa.0071",
+        "Case Name and ID": "[In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus](hc.case.wa.0071)",
+        "Case Role [join]": [
+            "recEzSLA54319Wbmx",
+            "recwlUpJh0pzK2Qb1",
+            "recrR52LK1ecPoH0O",
+            "rec8huP7MQ1oYZ1Pi",
+            "recmyyhgC8HAKTJ2J",
+            "recZDqpXr76kHeLwU",
+            "recwvSaM975mNf8dv"
+        ],
+        "Court Location(s)": "Seattle, WA (King County)",
+        "Court Name(s)": [
+            "Third Judicial District Court for the Territory of Washington"
+        ],
+        "Court Type(s)": [
+            "federal district court"
+        ],
+        "Created": "2022-07-07T15:02:07.000Z",
+        "Created By": {
+            "email": "ltecca2@huskers.unl.edu",
+            "id": "usrOJVBiJaCT5pySa",
+            "name": "Lauryn Tecca"
+        },
+        "Document Type(s)": [
+            "Case File"
+        ],
+        "Earliest Record Date": "1884-10-24",
+        "Fate of Bound Party(s)": [
+            "unknown"
+        ],
+        "Last Modified": "2022-07-07T16:00:55.000Z",
+        "Last Modified By": {
+            "email": "ltecca2@huskers.unl.edu",
+            "id": "usrOJVBiJaCT5pySa",
+            "name": "Lauryn Tecca"
+        },
+        "Latest Record Date": "1884-11-24",
+        "People": [
+            "recuXzUsxFhpY01ra",
+            "recDWzZYx2f0BXYzp",
+            "rec99spH6zSWIcqGH",
+            "recPYVSS64RNy2UJY",
+            "recExtnIRjiL3cuSz",
+            "recpYC2o1QZXWfYE4",
+            "rech0TDnbUj1GG44p"
+        ],
+        "Petition Outcome": [
+            "petition granted"
+        ],
+        "Petition Type": [
+            "Carceral"
+        ],
+        "Petition or Case Title": "In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus",
+        "Petitioners": [
+            "hc.pers.001627|\", William (A Chinaman)\"|Male|Unindicated"
+        ],
+        "Primary field": "In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus",
+        "RDF - person role case (from Case Role [join])": [
+            "[\", William (A Chinaman)\"](hc.pers.001627)|petitioner|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"Greene, Roger S.\"](hc.pers.001567)|judge|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"McGraw, John Harte\"](hc.pers.001546)|holding party|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"McNaught, James\"](hc.pers.001628)|petitioner attorney|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"McNaught, Joseph G.\"](hc.pers.001629)|petitioner attorney|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"Mitchell, John H.\"](hc.pers.001630)|petitioner attorney|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)",
+            "[\"Ferry, Elisha P.\"](hc.pers.001631)|petitioner attorney|[\"In the Matter of the Application of William, A Chinaman, for a Writ of Habeas Corpus\"](hc.case.wa.0071)"
+        ],
+        "Record Type(s)": [
+            "habeas corpus petition"
+        ],
+        "Relationships [join]": [
+            "recVfQrfBSRwWOHL3",
+            "recjRgfVREAG50gpt",
+            "recjMQ1FDpoPVeCJi",
+            "reclhGLn8X2F5tFRH",
+            "recs29rQfqKjab7Rh",
+            "rec6GsWqnw8VyiJLS"
+        ],
+        "Repository": [
+            "Washington State Archives, Puget Sound Regional Branch"
+        ],
+        "Summary of Proceedings": "William was arrested for smoking opium in his home. They argued that the law in Washington was unconstitutional and therefore his trial had no basis in law. The outcome is unknown.",
+        "airtable_createdTime": "2022-07-07T15:02:07.000Z",
+        "airtable_id": "rec929cFp0ngpWqfw",
+        "bound_party_age": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_fate": "[unknown]",
+        "bound_party_race": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_sex": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
         "Additional People": "Mossberger, Lester (witness); Mossberger, Mary (witness)",
         "Case Citation(s)": "RG207 Lancaster County Subgroup 9: Series 3 Appearance Docket K, p. 208; RG207 Lancaster County Subgroup 9: Series 4 Daily Journal #66: Sept. 1914-June 1915, pp. 404, 568",
         "Case ID": "hc.case.ne.0682",
@@ -9200,7 +9316,7 @@
         "RDF - person role case (from Case Role [join])": [
             "[\"Million, E. C.\"](hc.pers.001539)|petitioner attorney|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
             "[\"Allen, Thomas\"](hc.pers.001538)|petitioner, bound party|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
-            "[\"McGraw, John Harte\"](hc.pers.001546)|respondent, jailer|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
+            "[\"McGraw, John Harte\"](hc.pers.001546)|respondent|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
             "[\"Hanford, Cornelius H.\"](hc.pers.001516)|judge|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
             "[\"Jones, H. F\"](hc.pers.001553)|authority ordering detention|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)",
             "[\"Newbin, W. W.\"](hc.pers.001551)|respondent attorney|[In the matter of the application of Thomas Allen for a writ of Habeas Corpus](hc.case.wa.0443)"
@@ -12967,6 +13083,7 @@
         ]
     },
     {
+        "Additional People": "C. C. Perkins (Judge), D. W. Seely (Judge), Beniah Brown (Deputy Clerk),  James Seary (Clerk), Charles Hopkins (Marshall) ",
         "Case ID": "hc.case.wa.0396",
         "Case Name and ID": "[In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"War-Hawk\" for a writ of Habeas Corpus](hc.case.wa.0396)",
         "Case Role [join]": [
@@ -12982,11 +13099,16 @@
             "recm8lY6HtZFD9Kxr",
             "recxeR6MvlJQdFGgA",
             "recF8QtHS6uZXt7Ls",
-            "rec8z7S5eZe6UY78P"
+            "rec8z7S5eZe6UY78P",
+            "reczJxCN8eDNbGlfW",
+            "rec7HyQtSocajp6Qn"
         ],
         "Court Location(s)": "Seattle, WA (King County)",
         "Court Name(s)": [
             "Third Judicial District Court for the Territory of Washington"
+        ],
+        "Court Type(s)": [
+            "federal district court"
         ],
         "Created": "2022-07-05T20:23:10.000Z",
         "Created By": {
@@ -12999,7 +13121,10 @@
         ],
         "Earliest Record Date": "1875-12-01",
         "Encoding Incomplete?": true,
-        "Last Modified": "2022-07-06T19:45:20.000Z",
+        "Fate of Bound Party(s)": [
+            "released on bail"
+        ],
+        "Last Modified": "2022-07-07T20:26:42.000Z",
         "Last Modified By": {
             "email": "asynya2@huskers.unl.edu",
             "id": "usrsxXrBoy7sdssaI",
@@ -13015,20 +13140,29 @@
             "recUgMYlUhcWidGlZ",
             "reczacFntDviNHlJa",
             "recK4uN8b6OA5QINY",
-            "reci1sm0yse6WiC10"
+            "reci1sm0yse6WiC10",
+            "rec7EvbOtUd7xpMA2",
+            "rec5RKldagqJPY1tV",
+            "recH2sqX7v6yE99qb",
+            "recx2aV7cyAWIFTvD",
+            "recEyfSJkCnA4sPgb",
+            "reccNIVT4IaxsB3wm"
         ],
         "Petition Date": "1875-12-01",
         "Petition Outcome": [
             "petition granted"
         ],
+        "Petition Type": [
+            "Carceral: desertion"
+        ],
         "Petition or Case Title": "In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"War-Hawk\" for a writ of Habeas Corpus",
         "Petitioners": [
-            "hc.pers.001591|\"Lawson, Martin\"||",
+            "hc.pers.001591|\"Lawson, Martin\"|Unindicated|Unindicated",
             "hc.pers.001592|\"Strom, John\"|Unindicated|Unindicated",
             "hc.pers.001593|\"Anderson, Christ\"|Unindicated|Unindicated",
             "hc.pers.001594|\"Steward, Thomas\"|Unindicated|Unindicated",
             "hc.pers.001595|\"Krebs, Ellias\"|Unindicated|Unindicated",
-            "hc.pers.001596|\"Haquar, Edward\"|Unindicated|Unindicated",
+            "hc.pers.001596|\"Haquer, Edward\"|Unindicated|Unindicated",
             "hc.pers.001598|\"Nickels, John\"|Unindicated|Unindicated",
             "hc.pers.001599|\"Nelson, Peter\"|Unindicated|Unindicated",
             "hc.pers.001602|\"Martinson, Victor\"|Unindicated|Unindicated"
@@ -13041,17 +13175,62 @@
             "[\"Anderson, Christ\"](hc.pers.001593)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Steward, Thomas\"](hc.pers.001594)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Krebs, Ellias\"](hc.pers.001595)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
-            "[\"Haquar, Edward\"](hc.pers.001596)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
+            "[\"Haquer, Edward\"](hc.pers.001596)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Nickels, John\"](hc.pers.001598)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Nelson, Peter\"](hc.pers.001599)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Martinson, Victor\"](hc.pers.001602)|petitioner|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"Smith, D.S.\"](hc.pers.001605)|justice of the peace|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
             "[\"White, William H.\"](hc.pers.001514)|petitioner attorney|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
-            "[\"Nash, L. B. \"](hc.pers.001608)|petitioner attorney|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)"
+            "[\"Nash, L. B. \"](hc.pers.001608)|petitioner attorney|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
+            "[\"Andrews, N. R. \"](hc.pers.001609)|petitioner attorney|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)",
+            "[\"Lewis, Joseph R. \"](hc.pers.001610)|judge|[\"In the matter of the complaint Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, Peter Nelson, and Victor Martinson. Marines on board the American ship or vessel \"\"War-Hawk\"\" for a writ of Habeas Corpus\"](hc.case.wa.0396)"
         ],
         "Record Type(s)": [
             "writ of habeas corpus"
         ],
+        "Relationships [join]": [
+            "recDk8Es0mH7X6CoY",
+            "recwnoIy9M3Aog9Fn",
+            "recHkVqjkXfKz9msU",
+            "recJEy6A9LlQwcvKY",
+            "recxbNgrEL5dF7Hew",
+            "rec9zD07ItFJs6ylI",
+            "recONQYayTg5yLZQV",
+            "rec9Oi2sxJMRvpkmN",
+            "recbylSzql95MNA3l",
+            "rec6R0yjxJxgK6WUs",
+            "recXrKvoHspIrW0io",
+            "recS2QuX9U1sfqJpu",
+            "recuiWRiN5UrvpvBu",
+            "recfnW1ubyjqOldxu",
+            "recagMdeiaOCSHJPU",
+            "recJqQl29f8HHNKgx",
+            "recBIiRXSa3M2Vaym",
+            "rec6sI4mM6ajIq0WL",
+            "recRRBe4hF7lTPNr5",
+            "recZAgqRw9r617h3U",
+            "recfxBDvjnawzVFcN",
+            "recJiveiG78HNYccu",
+            "recOV8rTJ98f11VBF",
+            "recRvXWNzwKhRZQ2c",
+            "recXiDv7D39DD5DIH",
+            "recacz0RRh9TZ3ADJ",
+            "recAFEery6RAUlEFD",
+            "rec2TRltRYJyzy5Uf",
+            "reck3C4a58O4wdQ0K",
+            "recQ6H6EF24R9XQuu",
+            "recoxXx4vOHh3KeOh",
+            "recYfKGRlHuPtIsqw",
+            "recsgjKLbnFUrUxkG",
+            "recPHsTTH7VjRFkiJ",
+            "rech4dOKEBgesi1Qf",
+            "reccL0xNpY5KGKp4M",
+            "rec0DBbZSdMX3Zy7t",
+            "reccBri4avPSeBGou",
+            "recMYTuC1t95u0ISf",
+            "recfiyI0XBPgdjf9z"
+        ],
+        "Summary of Proceedings": "Martin Lawson, John Strom, Christ Anderson, Thomas Henward, Ellias Krebs, Edward Haquer, John Nickels, and Victor Martinson are mariners. ",
         "airtable_createdTime": "2022-07-05T20:23:10.000Z",
         "airtable_id": "recEQo0SlW4lkIkf9",
         "bound_party_age": [
@@ -13067,10 +13246,14 @@
             null,
             null,
             null,
+            null,
+            null,
             null
         ],
-        "bound_party_fate": "[]",
+        "bound_party_fate": "[released on bail]",
         "bound_party_race": [
+            null,
+            null,
             null,
             null,
             null,
@@ -13086,6 +13269,8 @@
             null
         ],
         "bound_party_sex": [
+            null,
+            null,
             null,
             null,
             null,
@@ -17444,6 +17629,77 @@
             null,
             null,
             null
+        ]
+    },
+    {
+        "Case Citation(s)": "St. Louis Circuit Court, August Term, 1819, Case No. 20, St. Louis, Missouri, Washington University in St. Louis, University Libraries, 2011, \thttp://digital.wustl.edu/ccr1819.01886.020",
+        "Case Name and ID": "[Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose]()",
+        "Case Role [join]": [
+            "recOWoanpXr2haG64"
+        ],
+        "Court Location(s)": "St. Louis, MO (St. Louis County)",
+        "Court Name(s)": [
+            "St. Louis County Circuit Court"
+        ],
+        "Court Type(s)": [
+            "state circuit court"
+        ],
+        "Created": "2022-07-07T14:39:17.000Z",
+        "Created By": {
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
+        },
+        "Document Type(s)": [
+            "Case File"
+        ],
+        "Earliest Record Date": "1819-05-10",
+        "Fate of Bound Party(s)": [
+            "unknown"
+        ],
+        "Last Modified": "2022-07-07T19:16:44.000Z",
+        "Last Modified By": {
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
+        },
+        "People": [
+            "recaDNKot9zSWADkS",
+            "recwp5NuiQouQmjG7"
+        ],
+        "Petition Date": "1819-08-03",
+        "Petition Outcome": [
+            "unknown"
+        ],
+        "Petition Type": [
+            "Carceral: fugitive slavery"
+        ],
+        "Petition or Case Title": "Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose",
+        "Point(s) of Law Cited": "Act of the Legislature of 1807\n",
+        "Primary field": "Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose",
+        "RDF - person role case (from Case Role [join])": [
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|bound party|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)"
+        ],
+        "Repository": [
+            " Missouri State Archives "
+        ],
+        "Site(s) of Significance": [
+            "Territory of Missouri "
+        ],
+        "Tags": [
+            "Slavery"
+        ],
+        "airtable_createdTime": "2022-07-07T14:39:17.000Z",
+        "airtable_id": "recKjZ9bLErXKmm9Q",
+        "bound_party_age": [
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Unindicated|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)"
+        ],
+        "bound_party_fate": "[unknown]",
+        "bound_party_race": [
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Unindicated|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)"
+        ],
+        "bound_party_sex": [
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Female|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)"
         ]
     },
     {
@@ -25340,7 +25596,7 @@
         "Fate of Bound Party(s)": [
             "remained in custody"
         ],
-        "Last Modified": "2022-07-06T19:47:32.000Z",
+        "Last Modified": "2022-07-06T19:55:28.000Z",
         "Last Modified By": {
             "email": "apizzi2@huskers.unl.edu",
             "id": "usrYWvsHUNvH5ykcG",
@@ -25408,7 +25664,7 @@
             "McNeil Island Penitentiary (Puget Sound, WA)",
             "Circuit Court for the District of Oregon (Portland, OR)"
         ],
-        "Summary of Proceedings": "Columbia George was convicted of murdering Anna Edna, a Cayuse woman living on the George argued that because he had been granted citizenship his legal status changed from that of an Indian Ward to a U.S. Citizen. With this he did not believe the jurists had taken the proper steps in his trial. \nThe case initially went to the Supreme Court of Oregon. The judge denied his writ of Habeas Corpus and ruled that a state court did not have the authority to rule in the case. The case was then sent to a US circuit court. George argued that the Supreme Court jurists had judged him as an Indian word, and not a U.S. citizen who was subject to both federal and state law (whereas an Indian word of the gov was strictly subject to federal statute), and therefore should have granted his petition and heard the case. United States District Court where the jury convicted him guilty of murder and sentenced him to life imprisonment. George was reportedly tried again, and was once more convicted of murder. The archives lack these documents, but the case is referenced in Judge Hanford\u2019s denial and dismissal of George\u2019s petition for wrongful imprisonment by Charles E. Hopkins at the US Penitentiary at McNeil Island.   \n\n",
+        "Summary of Proceedings": "Columbia George was convicted of murdering Anna Edna, a Cayuse woman living on the Umatilla Indian Reservation in Oregon, and was sentenced to life imprisonment. First, he was sent to the Oregon State Penitentiary at Salem, Oregon. Then, he was transferred to the custody of C. B. Hopkins at the Federal Penitentiary on McNeil's Island in Puget Sound, Washington. George appealed the decision, and George argued that because he had faced injustice by the hands of the judge. The case initially went to the Supreme Court of Oregon. The judge denied his writ of Habeas Corpus and ruled that a state court did not have the authority to rule in the case. The case was then sent to a US circuit court. George argued that the Supreme Court jurists had judged him as an Indian ward, and not a U.S. citizen who subject to both federal and state law (whereas an Indian ward would have been strictly subject to federal statute), and therefore should have granted his petition and heard the case. The case went to the United States District Court where the jury convicted him guilty of murder and sentenced him to life imprisonment. George appealed, and was reportedly tried again, and was once more convicted of murder. The archives lack these documents, but the case is referenced in this case, no. 1390, in Judge Hanford\u2019s denial and dismissal of George\u2019s petition for wrongful imprisonment by Charles E. Hopkins at the US Penitentiary at McNeil Island. George appealed a fourth time and was dismissed.\n\n",
         "Tags": [
             "Native American"
         ],
@@ -25764,7 +26020,7 @@
             "[\"Kim, Seo\"](hc.pers.001530)|bound party|[In the matter of the application of Han Lee for a writ of Habeas Corpus](hc.case.wa.0066.xml)",
             "[\"Chow, Ah\"](hc.pers.001531)|enslaver, kidnapper|[In the matter of the application of Han Lee for a writ of Habeas Corpus](hc.case.wa.0066.xml)",
             "[\"Jacobs, Orange\"](hc.pers.001532)|judge|[In the matter of the application of Han Lee for a writ of Habeas Corpus](hc.case.wa.0066.xml)",
-            "[\"Higgins, D.\"](hc.pers.001533)|attorney|[In the matter of the application of Han Lee for a writ of Habeas Corpus](hc.case.wa.0066.xml)"
+            "[\"Higgins, D.\"](hc.pers.001533)|petitioner attorney|[In the matter of the application of Han Lee for a writ of Habeas Corpus](hc.case.wa.0066.xml)"
         ],
         "Record Type(s)": [
             "habeas corpus petition"
@@ -30263,12 +30519,13 @@
         ]
     },
     {
-        "Additional People": "Piles, S. H. (Notary Public);",
+        "Additional People": "Piles, S. H. (Notary Public); Osbourne, Richard (Notary Public);",
         "Case Citation(s)": "King County Case No 6776",
         "Case ID": "hc.case.wa.0445",
         "Case Name and ID": "[In the matter of the application of Howard McMillen for a Writ of Habeas Corpus](hc.case.wa.0445)",
         "Case Role [join]": [
-            "recFqFcAepEcJ3QIk"
+            "recFqFcAepEcJ3QIk",
+            "recUscpO06zO7zIKe"
         ],
         "Court Location(s)": "Seattle, WA (King County)",
         "Court Name(s)": [
@@ -30290,7 +30547,7 @@
         "Fate of Bound Party(s)": [
             "not in custody"
         ],
-        "Last Modified": "2022-07-06T19:05:44.000Z",
+        "Last Modified": "2022-07-07T15:11:29.000Z",
         "Last Modified By": {
             "email": "bham4@huskers.unl.edu",
             "id": "usrZEm3AZKJg2z0tF",
@@ -30312,7 +30569,8 @@
         "Petition or Case Title": "In the matter of the application of Howard McMillen for a Writ of Habeas Corpus",
         "Primary field": "In the matter of the application of Howard McMillen for a Writ of Habeas Corpus",
         "RDF - person role case (from Case Role [join])": [
-            "[\"Butterfield, O. D.\"](hc.pers.001566)|respondent|[In the matter of the application of Howard McMillen for a Writ of Habeas Corpus](hc.case.wa.0445)"
+            "[\"Butterfield, O. D.\"](hc.pers.001566)|respondent|[In the matter of the application of Howard McMillen for a Writ of Habeas Corpus](hc.case.wa.0445)",
+            "[\"Jones, H. F\"](hc.pers.001553)|petitioner attorney|[In the matter of the application of Howard McMillen for a Writ of Habeas Corpus](hc.case.wa.0445)"
         ],
         "Record Type(s)": [
             "response to writ of habeas corpus"
@@ -30323,13 +30581,16 @@
         "airtable_createdTime": "2022-07-05T16:12:11.000Z",
         "airtable_id": "recZzSjHew6Mcw36v",
         "bound_party_age": [
+            null,
             null
         ],
         "bound_party_fate": "[not in custody]",
         "bound_party_race": [
+            null,
             null
         ],
         "bound_party_sex": [
+            null,
             null
         ]
     },
@@ -33002,19 +33263,19 @@
         "Fate of Bound Party(s)": [
             "unknown"
         ],
-        "Last Modified": "2022-06-13T20:50:51.000Z",
+        "Last Modified": "2022-07-07T16:30:50.000Z",
         "Last Modified By": {
-            "email": "cyoung46@unl.edu",
-            "id": "usruK6Q7ifitzmUZM",
-            "name": "Cory Young"
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
         },
         "Latest Record Date": "1820-01-04",
         "People": [
-            "recaDNKot9zSWADkS",
             "recwp5NuiQouQmjG7",
             "recrqQSGsZ7q7AH3K",
             "reca6jlRujSi1IYIe",
-            "recf1YSS5AP0JbqqT"
+            "recf1YSS5AP0JbqqT",
+            "recaDNKot9zSWADkS"
         ],
         "Petition Outcome": [
             "petition granted"
@@ -33028,7 +33289,7 @@
         "Petition or Case Title": "United States vs. Mathias Rose",
         "Primary field": "United States vs. Mathias Rose",
         "RDF - person role case (from Case Role [join])": [
-            "[\", Milly\"](hc.pers.000302)|bound party|[United States vs. Mathias Rose](hc.case.mo.0029)",
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|bound party|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)",
             "[\"Rose, Mathias\"](hc.pers.000303)|enslaver, respondent|[United States vs. Mathias Rose](hc.case.mo.0029)",
             "[\"Gamble, Archibald\"](hc.pers.000404)|clerk|[United States vs. Mathias Rose](hc.case.mo.0029)",
             "[\"Rose, Elzy H.\"](hc.pers.000160)|interested party|[United States vs. Mathias Rose](hc.case.mo.0029)",
@@ -33049,7 +33310,7 @@
         "airtable_createdTime": "2022-02-01T19:53:34.000Z",
         "airtable_id": "recd86hE6IBcxmmLZ",
         "bound_party_age": [
-            "[\", Milly\"](hc.pers.000302)|Unindicated|[United States vs. Mathias Rose](hc.case.mo.0029)",
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Unindicated|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)",
             null,
             null,
             null,
@@ -33057,19 +33318,30 @@
         ],
         "bound_party_fate": "[unknown]",
         "bound_party_race": [
-            "[\", Milly\"](hc.pers.000302)|Unindicated|[United States vs. Mathias Rose](hc.case.mo.0029)",
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Unindicated|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)",
             null,
             null,
             null,
             null
         ],
         "bound_party_sex": [
-            "[\", Milly\"](hc.pers.000302)|Female|[United States vs. Mathias Rose](hc.case.mo.0029)",
+            "[\", Milly  \", \"Pettibone , Ruffus\"](hc.pers.000302hc.pers.001632)|Female|[United States vs. Mathias Rose, \"Milly, a black woman, for herself and her two infant children, Eliza and Bob v. Mathias Rose\"](hc.case.mo.0029)",
             null,
             null,
             null,
             null
         ]
+    },
+    {
+        "Created": "2022-07-07T16:12:00.000Z",
+        "Created By": {
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
+        },
+        "airtable_createdTime": "2022-07-07T16:12:00.000Z",
+        "airtable_id": "recdFezQU1uEG9MNA",
+        "bound_party_fate": "[]"
     },
     {
         "Case Citation(s)": "RG207 Lancaster County Subgroup 9: Series 3 Appearance Docket J, p. 255; RG207 Lancaster County Subgroup 9: Series 4 Daily Journal #62: Dec. 1912-Oct. 1913, pp. 521, 535",
@@ -37251,6 +37523,146 @@
         ]
     },
     {
+        "Additional People": "N/A",
+        "Case Citation(s)": "(Transcription From Original in Archive by K. Jagodinsky) ",
+        "Case ID": "hc.case.az.001",
+        "Case Name and ID": "[Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman ](hc.case.az.001)",
+        "Case Role [join]": [
+            "rec5KjyywYS38cP3f",
+            "recSBcNmUpYvAmiPK",
+            "reclUGwq8arYqwjz1",
+            "recFbJxSIjbuq6qIo",
+            "recspk7VQpvw3KTaR",
+            "recbnhULiXhmzeLa3",
+            "recUkreMsWO59tD5G",
+            "reccwMjHsUcQ2kwDc",
+            "recI2hJwpacySzevJ"
+        ],
+        "Court Location(s)": "Pheonix, AZ (Maricopa County)",
+        "Court Name(s)": [
+            "Maricopa County Superior Court"
+        ],
+        "Court Type(s)": [
+            "superior court"
+        ],
+        "Created": "2022-07-06T20:05:31.000Z",
+        "Created By": {
+            "email": "apizzi2@huskers.unl.edu",
+            "id": "usrYWvsHUNvH5ykcG",
+            "name": "Annabella Pizzi"
+        },
+        "Document Type(s)": [
+            "Case File"
+        ],
+        "Earliest Record Date": "1871-07-29",
+        "Fate of Bound Party(s)": [
+            "custody transferred to third party"
+        ],
+        "Last Modified": "2022-07-07T15:11:23.000Z",
+        "Last Modified By": {
+            "email": "apizzi2@huskers.unl.edu",
+            "id": "usrYWvsHUNvH5ykcG",
+            "name": "Annabella Pizzi"
+        },
+        "Latest Record Date": "1871-08-01",
+        "People": [
+            "recrDMkOBnY1adhez",
+            "rec6ap4f22Lx38Wxp",
+            "recZLNFUkB6KyOS9W",
+            "recCuiIAiR5svH0T9",
+            "recdahZOCsACzvrqr",
+            "recD4yYYP2HufXtrs",
+            "recljg9OfW2LtUOf7",
+            "rec1THnGiMhdBrmf0",
+            "recv8PNneW9krHzn7"
+        ],
+        "Petition Date": "1871-07-29",
+        "Petition Outcome": [
+            "cause dismissed by mutual agreement of parties",
+            "cause dismissed at later date"
+        ],
+        "Petition Type": [
+            "Interpersonal: child custody"
+        ],
+        "Petition or Case Title": "Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman ",
+        "Petitioners": [
+            "hc.pers.001615|\"Martinez, Lucia\"|Female|Unindicated"
+        ],
+        "Point(s) of Law Cited": "N/A",
+        "Primary field": "Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman ",
+        "RDF - person role case (from Case Role [join])": [
+            "[\"Martinez, Lucia\"](hc.pers.001615)|petitioner|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Martinez, Clara A.\"](hc.pers.001617)|bound party|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Martinez, Johana\"](hc.pers.001618)|bound party|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Barman, Thomas (Barrman)\"](hc.pers.001619)|defendant|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Woolsey, King S.\"](hc.pers.001621)|defendant|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Ammerman, John\"](hc.pers.001622)|defendant|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Emmerman, ? (Ammerman)\"](hc.pers.001624)|defendant|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Alsop, J. T.\"](hc.pers.001625)|judge|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Dobbins, M.D.\"](hc.pers.001626)|petitioner attorney|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)"
+        ],
+        "Record Type(s)": [
+            "probate bond"
+        ],
+        "Relationships [join]": [
+            "recxI1GF792IzM39w",
+            "recsv9bHXv933XB90",
+            "recqb1xVaKnB2l7fG",
+            "recAYXoIDm5MValWP",
+            "recm6xJ74m7w7ls5o",
+            "recNodZos1juqmF20",
+            "rec9uuar8cNDX32zD",
+            "recLUjenvioEl0KFu"
+        ],
+        "Repository": [
+            "Arizona State Library, Archives, and Public Records (Pheonix, AZ)"
+        ],
+        "Site(s) of Significance": [
+            "Maricopa County (AZ)"
+        ],
+        "Summary of Proceedings": "Lucia Martinez filed for a writ of habeas corpus on behalf of her two daughter, Clara A and Johana Martinez who were being held by one of the defendants, Thomas Barman. The hearing was postponed to August 30 1871 so the defendants had time to collect their evidence and witnesses. Before the hearing took place, Martinez approached the judge and requested the dismissal of the case, and both parties agreed to drop the case. By order of Judge Alsop Clara and Johana were to stay in the custody of the sheriff until the August hearing had ended. ",
+        "Tags": [
+            "Children",
+            "Native American"
+        ],
+        "airtable_createdTime": "2022-07-06T20:05:31.000Z",
+        "airtable_id": "recjnaRbf7t2spMAN",
+        "bound_party_age": [
+            null,
+            "[\"Martinez, Clara A.\"](hc.pers.001617)|Minor|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Martinez, Johana\"](hc.pers.001618)|Minor|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_fate": "[custody transferred to third party]",
+        "bound_party_race": [
+            null,
+            "[\"Martinez, Clara A.\"](hc.pers.001617)|Unindicated|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Martinez, Johana\"](hc.pers.001618)|Unindicated|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_sex": [
+            null,
+            "[\"Martinez, Clara A.\"](hc.pers.001617)|Female|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            "[\"Martinez, Johana\"](hc.pers.001618)|Female|[\"Lucia Martinez vs. Thomas Barrman, K. S. Woolsey, John Ammerman?, __ (Mrs?) Emmerman \"](hc.case.az.001)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    {
         "Additional People": "Herold, Christian G.",
         "Case Citation(s)": "RG207 Lancaster County Subgroup 9: Series 4 Daily Journal L: May 25, 1885-March 5, 1886, p.491; 512-513; RG207 Lancaster County Subgroup 9: Series 3 Appearance Docket O, p. 41; RG207 Lancaster County Subgroup 9: Series 5 Complete Record 13, p. 79-81",
         "Case ID": "hc.case.ne.0532",
@@ -37755,6 +38167,118 @@
             null,
             null,
             "[\"Decker, John F.\"](hc.pers.001422)|Male|[\"In re Application of John F. Decker, for a writ of habeas corpus\"](hc.case.ne.0598)",
+            null,
+            null
+        ]
+    },
+    {
+        "Additional People": "William H. Whittlesey (clerk); William E. Sedgerwood (clerk); Robert J. Stevens (U.S. Consul); Wong Quin; Liang Tiny Tsan (Chinese Consul); RM Hopkins (clerk); Ding Yen Chung (translator)",
+        "Case Citation(s)": "Case No. 1237",
+        "Case ID": "hc.case.wa.0061",
+        "Case Name and ID": "[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+        "Case Role [join]": [
+            "rec9dZpWlGNX5ii7H",
+            "rec8IJmSFEaweluIo",
+            "rechd8Zl5zFKYsFiu",
+            "recaHb9L2chbbCuuI",
+            "recCwZAR7XCJIOzm1",
+            "recWf3vrwpYCtF0KB"
+        ],
+        "Court Location(s)": "Seattle, WA (King County)",
+        "Court Name(s)": [
+            "Third Judicial District Court for the Territory of Washington"
+        ],
+        "Court Type(s)": [
+            "federal district court"
+        ],
+        "Created": "2022-07-07T13:17:50.000Z",
+        "Created By": {
+            "email": "ltecca2@huskers.unl.edu",
+            "id": "usrOJVBiJaCT5pySa",
+            "name": "Lauryn Tecca"
+        },
+        "Document Type(s)": [
+            "Case File"
+        ],
+        "Earliest Record Date": "1889-04-06",
+        "Fate of Bound Party(s)": [
+            "remained in custody"
+        ],
+        "Last Modified": "2022-07-07T14:44:52.000Z",
+        "Last Modified By": {
+            "email": "ltecca2@huskers.unl.edu",
+            "id": "usrOJVBiJaCT5pySa",
+            "name": "Lauryn Tecca"
+        },
+        "Latest Record Date": "1889-04-11",
+        "People": [
+            "recF8LeB7W4BAlbMJ",
+            "recLPa9Y6oEXeyfkQ",
+            "recGYA6I8YTi9vtgv",
+            "recGMAbMXH660kKQT",
+            "recg6m8Tah40NoShp",
+            "recK4uN8b6OA5QINY"
+        ],
+        "Petition Outcome": [
+            "petition denied"
+        ],
+        "Petition Type": [
+            "Carceral: immigration"
+        ],
+        "Petition or Case Title": "In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus",
+        "Petitioners": [
+            "hc.pers.001614|\"Wot, Lee Sing\"|Male|Unindicated"
+        ],
+        "Primary field": "In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus",
+        "RDF - person role case (from Case Role [join])": [
+            "[\"Wot, Lee Sing\"](hc.pers.001614)|petitioner|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            "[\"Wot, Mrs. Lee Sing\"](hc.pers.001616)|bound party|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            "[\"Hanford, Cornelius H.\"](hc.pers.001516)|judge|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            "[\"Bradshaw, Charles (Bradshaus)\"](hc.pers.001620)|holding party|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            "[\"Sachs, Morris B.\"](hc.pers.001623)|petitioner attorney|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            "[\"White, William H.\"](hc.pers.001514)|respondent attorney|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)"
+        ],
+        "Record Type(s)": [
+            "writ of habeas corpus",
+            "judge's decision",
+            "oaths of petitioners/ interested parties"
+        ],
+        "Relationships [join]": [
+            "recYg6BNS0WdS0W3W",
+            "recfX17GBITrcTKKZ",
+            "recvv4MJFrKfwytS8",
+            "recrT9RUhghRVdw5S",
+            "rec2FEcv575Nh3KJh",
+            "rec2MB7gKWNEaLOGg",
+            "recdBtsxu4OLjy8np",
+            "recqd53qtNRlNNi6t",
+            "recPgUZ6FTdvXHylz"
+        ],
+        "Summary of Proceedings": "Lee Sing Wot filed a petition on behalf of his wife, Mrs. Lee Sing Wot. He claimed that as a merchant, his wife should be allowed to enter the U.S. The petition was denied on the grounds that she was not actually his wife, but a prostitute attempting to enter the country.",
+        "airtable_createdTime": "2022-07-07T13:17:50.000Z",
+        "airtable_id": "reck1ZLkp6vFNuV5A",
+        "bound_party_age": [
+            null,
+            "[\"Wot, Mrs. Lee Sing\"](hc.pers.001616)|Unindicated|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_fate": "[remained in custody]",
+        "bound_party_race": [
+            null,
+            "[\"Wot, Mrs. Lee Sing\"](hc.pers.001616)|Unindicated|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            null,
+            null,
+            null,
+            null
+        ],
+        "bound_party_sex": [
+            null,
+            "[\"Wot, Mrs. Lee Sing\"](hc.pers.001616)|Female|[In the Matter of the Application of Mrs. Lee Sing Wot for a Writ of Habeas Corpus](hc.case.wa.0061)",
+            null,
+            null,
             null,
             null
         ]
@@ -40292,6 +40816,17 @@
             null,
             null
         ]
+    },
+    {
+        "Created": "2022-07-07T16:12:02.000Z",
+        "Created By": {
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
+        },
+        "airtable_createdTime": "2022-07-07T16:12:02.000Z",
+        "airtable_id": "recn9OfWaFTx5qTco",
+        "bound_party_fate": "[]"
     },
     {
         "Additional People": "Hager, G. E.",
@@ -47271,6 +47806,17 @@
         ]
     },
     {
+        "Created": "2022-07-07T16:04:03.000Z",
+        "Created By": {
+            "email": "abanse2@huskers.unl.edu",
+            "id": "usrVCC72w8QTnKe0G",
+            "name": "AD"
+        },
+        "airtable_createdTime": "2022-07-07T16:04:03.000Z",
+        "airtable_id": "recuskG95QnPW5rPV",
+        "bound_party_fate": "[]"
+    },
+    {
         "Case ID": "hc. case. wa. 0087",
         "Case Name and ID": "[In the matter of the application of Wong Sam et al. for a Writ of Habeas Corpus](hc. case. wa. 0087)",
         "Created": "2022-07-05T20:51:19.000Z",
@@ -48395,8 +48941,8 @@
             "[\"Tue, Lue\"](hc.pers.001574)|petitioner|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
             "[\"Quan, Ling\"](hc.pers.001573)|petitioner|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
             "[\"Lung, Lee\"](hc.pers.001575)|petitioner|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
-            "[\"Faben, Vince H.\"](hc.pers.001576)|attorney|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
-            "[\"Peterson, \"](hc.pers.001577)|attorney|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
+            "[\"Faben, Vince H.\"](hc.pers.001576)|petitioner attorney|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
+            "[\"Peterson, \"](hc.pers.001577)|petitioner attorney|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
             "[\"Jones, Richard A. \"](hc.pers.001545)|judge|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)",
             "[\"Brooks, Quincy A.\"](hc.pers.001578)|holding party|[\"In the matter of the Application of Ling Quan, Lue Tue and Lee Lung for a writ of habeas corpus\"](hc.case.wa.0089)"
         ],
