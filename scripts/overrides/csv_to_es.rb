@@ -133,7 +133,7 @@ class CsvToEs
           name_and_id = data[0]
           #get name/id out of brackets/quotes/parentheses
           name = /\["(.*)"\]/.match(name_and_id)[1]
-          id = /\((.*)\)/.match(name_and_id)[1]
+          id = /\]\((.*)\)/.match(name_and_id)[1]
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
             people << person
