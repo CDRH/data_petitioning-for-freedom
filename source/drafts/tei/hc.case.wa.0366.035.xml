@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.486"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0366.035"> <!-- replace with number from spreadsheet -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fletcher Decker v. State of Washington. Commitment</title> <!-- replace with name of case; type of document -->
+<title>Fletcher Decker v. State of Washington. Order to Show Cause</title> <!-- replace with name of case; type of document -->
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0366.486</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.wa.0366.035</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Fletcher Decker v. State of Washington. Commitment.</title><!-- replace with name of case; type of document -->
-<date when="1921-08-26">August 26, 1921</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Fletcher Decker v. State of Washington. Order to Show Cause.</title><!-- replace with name of case; type of document -->
+<date when="1921-09-06">September 9, 1921</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -77,21 +77,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1921-08">August, 1921</date></term><!-- insert date of court term -->
+<term><date when="1921-09"></date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Jeremiah Neterer</term>
 <term>Fletcher Decker</term>
-<term>Claude Ficklin</term>
-<term>George Frederick Ernest Albert</term>
+<term>Beeler</term>
+<term>Sullivan</term>
+<term>John M. Boyle</term>
 <term>Robert W. McClelland</term><!-- insert names of other people mentioned in document -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Dominion of Canada</term> 
-<term>Saskatchewan, Canada</term>
-<term>Western District of Washington, Northern Division</term>
-<term>United Kingdom of Great Britian and Ireland</term><!-- insert places mentioned -->
+<term>Washington, Northern Division</term> 
+<term>Seattle, Washington</term><!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -141,58 +141,50 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0366.486"/> <!-- insert number from spreadhseet -->
-<p>O.H. LAMOREUX
-COURT STENOGRAPHER
-NOME, ALASKA</p>
-<p>IN THE DISTRICT COURT OF THE UNITED STATES OF AMERICA,
-WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION,
-BEFORE Hon. ROBERT W. McCLELLAND, Esq.,
-COMMISSIONER OF THE UNITED STATES.</p>
-<p>IN RE: THE EXTRADITION OF
-FLETCHER DECKER.</p>
-<p>COMMITMENT:</p>
-<p>This cause having come on for hearing on the
-24th and 25th days of August, 1921, upon the application of
-George H. L. Murray, for the extradition from the Northern
-Division of the Western District of Washington, tomthe
-Province of Saskatchewan, in the Dominion of Canada, one of
-the Dominions of the United Kingdom of Great Britain and
-Ireland, ruled by His Majesty, George the V, its King, of
-one Fletcher Decker, and it appearing to the Court from the
-testimony introduced in said hearing that the said Fletcher
-Decker did, in the Province of Saskatchewan, in the Dominion
-of Canada aforesaid, on or about the 15th day of November,
-1915, near Wiwa Post Office, the said Fletcher Decker then and
-there being, did then and there steal about three hundred
-bushes of flax, the property of Claude Ficklin, and was
-thereby guilty of theft, contrary to the Criminal Code of 
-Canada, and that said crime in one of the crimes covered by 
-the extradition convention between the United States of
-America and the United Kingdom of Great Britain and Ireland,
-and proclaimed by the President of the United States of 
-America on the 25th day of March 1890, supplementary to the
-Tenth Article of the Treaty concluded between the same high
-contracting parties on the 9th day of August, 1842.</p>
+<pb facs="hc.case.wa.0366.035"/> <!-- insert number from spreadhseet -->
+<p>IN THE UNITED STATES DISTRICT COURT IN AND FOR THE
+WESTERN DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
+<p>IN THE MATTER OF THE APPLICATION 
+OF FLETCHER DECKER FOR A WRIT OF
+HABEAS CORPUS AND WRIT OF CERTI-
+ORARI.))))</p> 
+<p>No. 6215
+ORDER TO SHOW CAUSE.</p> 
+<p>.....</p> 
+<p>This matter coming on for hearing upon the petition of
+Fletcher Decker, by and through his attorneys, Beeler &amp; Sullivan,
+praying for a writ of habeas corpus and a writ of certiorari, and it
+appearing to the court from said petition, duly on file herein, that
+said Fletcher Decker is <del></del> imprisoned and restrained of his
+liberty by John M. Boyle, United States Marshal for the Western
+District of Washington, Northern Division, at the County Jail of King
+County, in the city of Seattle, in said State, the same being within
+the jurisdiction of this court, which imprisonment and restraint is
+under and by virtue of a pretended commitment issued by Robert W. 
+McClelland, Commissioner of the United States, in and for said
+Western District of Washington, Northern Division, in a proceeding
+then pending before said Commissioner entitled, "In the Matter of the
+extradition of Fletcher Decker", and in which it is alleged in said 
+Petition the said Commissioner was without lawful authority or
+jurisdiction, and said petitioner, by his said attorneys, having
+moved the court for an order directed to said Marshal commanding him
+to show cause, if any he has, why a writ of habeas corpus and a writ
+of certiorari should not be issued herein, and the court being fully
+advised as to the contents of said petition, and it appearing that
+said motion should be granted;</p> 
+<p>NOW, THEREFORE, IT IS HEREBY ORDERED and ADJUDGED, that John
+M. Boyle, United States Marshal for the Western District of
+Washington, Northern Division, be and he is hereby commanded to show
+cause, if any he has, before the above named Court on Friday, the
+9th day of September, A.D. 1921, at ten o'clock a.m., or as soon
 <pb></pb>
-<p>C.H. LAMOREUX 
-COURT STENOGRAPHER
-NOME, ALASKA</p>
-<p>That heretofore, I have certified the foregoing
-facts, together with a copy of all the testimony taken before
-me to the Secretary of State that a warrant may issue upon the
-requisition of the proper authorities of the said Province of
-Saskatchewan in the Dominion of Canada.</p>
-<p>NOW THEREFORE, the United States Marshal for the
-Western District of Washington, Northern Division, is hereby
-directed, and this is his warrant to commit thesaid Fletcher
-Decker to the King County Jail, there to remain until such
-surrender shall be made to the Province of Saskatchewan of the
-said Fletcher Decker.</p>
-<p>Done in open Court this 26th day of August, 1921.</p>
-<p>R.W. McClelland
-U.S. Commissioner.</p>
-<figure><p>seal</p></figure>
+thereafter as counsel can be heard, why a writ of habeas corpus and
+a writ of certiorari should not be issued by this court, as prayed
+for in said petiton.</p> 
+<p>Done in open court this 6th day of September, 1921.</p>
+<p>Jeremiah Neterer
+J U D G E.</p>
+
 </div1>
     
 </body>
