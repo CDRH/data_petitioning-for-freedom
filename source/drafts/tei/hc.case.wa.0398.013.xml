@@ -2,7 +2,7 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
-    
+
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,13 +24,13 @@
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <sponsor>William Nelson Cromwell Foundation</sponsor>
             </titleStmt>
-            
+
             <editionStmt>
                 <edition>
                     <date>2020</date>
                 </edition>
             </editionStmt>
-            
+
             <publicationStmt>
                 <authority>Produce the Body</authority>
                 <publisher>University of Nebraska-Lincoln</publisher>
@@ -44,194 +44,153 @@
                     </address>
                 </distributor>
                 <idno type="project">hc.case.wa.0000.000</idno>
-                
+
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+                    <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+                        Unported License. Derivatives must be credited to Bring Me the Body, made
+                        available non-commercially, and distributed under the same terms. Requests
+                        for permission for commercial publication or other use should be emailed to
+                        the project team.</p>
                 </availability>
             </publicationStmt>
-            
+
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">William Fox vs. Washington Territory Writ of Habeaus Corpuss</title>
+                    <title level="m" type="main">William Fox vs. Washington Territory Writ of
+                        Habeaus Corpuss</title>
                     <date when="1891">1891</date>
-                    <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+                    <note type="project">Our transcription is based on a digital image of the
+                        microfilmed original.</note>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
-                        <repository></repository>
-                        <collection></collection>
-                        <idno></idno>
+                        <repository/>
+                        <collection/>
+                        <idno/>
                     </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        
+
         <profileDesc>
             <textClass>
                 <keywords scheme="original" n="category">
                     <term>Case Papers</term>
                 </keywords>
-                
+
                 <keywords scheme="original" n="subcategory">
-                    <term></term>
+                    <term/>
                 </keywords>
-                
+
                 <keywords scheme="original" n="type">
-                    <term></term>
+                    <term/>
                 </keywords>
-                
+
                 <keywords scheme="original" n="subtype">
-                    <term></term>
+                    <term/>
                 </keywords>
-                
+
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term>
+                        <date when="1000-01">1875</date>
+                    </term>
                 </keywords>
-                
+
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term/>
                 </keywords>
-                
-                <keywords scheme="lcsh" n="places"> 
+
+                <keywords scheme="lcsh" n="places">
                     <term>King County, Washington</term>
                 </keywords>
-                
+
             </textClass>
-            
-            <particDesc>   
-                <listPerson>            
+
+            <particDesc>
+                <listPerson>
                     <person role="petitioner">
                         <persName>William Fox</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName/>
                     </person>
                     <person role="attorney_petitioner">
-                        <persName></persName>
+                        <persName/>
                     </person>
                     <person role="attorney_defendant">
-                        <persName></persName>
+                        <persName/>
                     </person>
                     <person role="judge">
                         <persName>J. R. Lewis</persName>
                     </person>
                 </listPerson>
-                
+
                 <listOrg>
                     <org>
-                        <orgName></orgName>
-                        <placeName></placeName>
+                        <orgName/>
+                        <placeName/>
                     </org>
-                </listOrg>   
-            </particDesc> 
+                </listOrg>
+            </particDesc>
         </profileDesc>
-        
-        <revisionDesc>         
+
+        <revisionDesc>
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
         </revisionDesc>
-        
+
     </teiHeader>
-    
+
     <text>
-        
-        <body>  
-            
+
+        <body>
+
             <div1 type="case">
-<p>United States of America</p>
-<p>Territory of Washington
-County of King } SS</p>
-<p><unclear></unclear>H.S. Thornton Constable L.V. Wyckoff
-Sheriff and Keeper of the jail of said King County
-W.J.</p>
-<p>Whereas at a Justice Court held
-at my office in said County for the brief
-of William S. Wiggin for the office
-of having fraudulently converted to
-his own <unclear></unclear> large shame of money
-left on deposit in the safe of the 
-"Occidental Hotel" during the last
-<unclear></unclear> months past and under the
-09th  day  of April A.D. 1978, in said
-county and upon said trial the
-said Court did adjudge and deliver
-mine that the complaint in the
-case was and is without probable cause
-that there was no reasonable grounds
-therfore that the costs herein he <unclear></unclear>
-against William Fox, the complamant
-herein, and that the said William
-S. Wiggins, the defendant hererin
-do here and weaven the judgment
-against him the said William
-Fox the said costs <unclear></unclear> A.D. 92/<unclear></unclear>
-Whereupon the said William Fox</p>
-<pb></pb>
-<p>hereby personally present is now
-here ordered to pay the said costs
-layed at $75/120 and stand committed
-<unclear></unclear> the same he paid and whereas,
-the said William Foc has made <unclear></unclear>
-in the payment of the same.</p>
-<p>Wherefore, you, the said H.S. Thornston 
-Constable, are hereby commanded
-in the name of the United States
-forthwith to convey and deliver
-the said William Fox to the said
-Keeper and apon the said Keeper, 
-are hereby commanded to <unclear></unclear> the
-said William Fox into your custody
-in said jail, and him there 
-safely keep as hard labor for
-the space of (41) forty-one days,
-unless said cash he paid <unclear></unclear>
-or he there be discharged
-by and cause of law.</p>
-<p>Sealed this May 16, 1878</p>
-<p>Albert M. Snyder
-Justice of the Peaace, Seattle
-Precenet King to W.S.</p>
-<p>I hereby certify that I witness</p>
-<pb></pb>
-<p>The matter named William
-Fox in to the custody of L. V. 
-Wyckoff Sheriff of King County
-and Judge of said county.
-Settled at Seattle on 1st day
-of June 1878</p>
-<p>H. S. Thornton
-Constantable Seattle
-Present King County</p>
-<p>Here
-County
-<unclear></unclear></p>
-<p>Hon 20</p>
-<p>L. V. Wyckoff Sheriff of 
-King County do hereby 
-certify that the above and 
-foregoing is a true and 
-and clear copy of me original
-commitment</p>
-<p>Seattle June 14 1878
-L. V. Wyckoff Sheriff</p>
-<p>Washington Territory
-vs.
-William S. Wiggin</p>
-<p>Documentation of
-the <unclear></unclear></p>
-<p>Costs</p>
-<p>Justice of the peace $14.35
-<unclear></unclear> 7.40
-Lyts 21.55
-Justices 37.80
-<unclear></unclear>
-Warrant and keeping 12.10
-sum $93.90
-P. Commitment
-filed $102</p>
+                <p>United States of America</p>
+                <p>Territory of Washington County of King } SS</p>
+                <p><unclear/>H.S. Thornton Constable L.V. Wyckoff Sheriff and Keeper of the jail of
+                    said King County W.J.</p>
+                <p>Whereas at a Justice Court held at my office in said County for the brief of
+                    William S. Wiggin for the office of having fraudulently converted to his own
+                    <unclear/> large shame of money left on deposit in the safe of the "Occidental
+                    Hotel" during the last <unclear/> months past and under the 09th day of April
+                    A.D. 1978, in said county and upon said trial the said Court did adjudge and
+                    deliver mine that the complaint in the case was and is without probable cause
+                    that there was no reasonable grounds therfore that the costs herein he
+                    <unclear/> against William Fox, the complamant herein, and that the said William
+                    S. Wiggins, the defendant hererin do here and weaven the judgment against him
+                    the said William Fox the said costs <unclear/> A.D. 92/<unclear/> Whereupon the
+                    said William Fox</p>
+                <pb/>
+                <p>hereby personally present is now here sentenced to pay the said costs layed at
+                    $92.75 and stand committed now be the same be paid and whereas, the said
+                    William Fox has made default in the payment of the same.</p>
+                <p>Therefore, you, the said H.S. Thornston Constable, are hereby commanded in the
+                    name of the United States forthwith to convey and deliver the said William Fox
+                    to the said Keeper and upon the said Keeper, are hereby commanded to recieve
+                    the said William Fox into your custody in said jail, and him there safely keep
+                    as hard labor for the space of (41) forty-one days, unless said cash he paid
+                    <unclear/> or he there be discharged by due cause of law.</p>
+                <p>Sealed this May 16, 1878</p>
+                <p>Albert M. Snyder Justice of the Peace, Seattle Precent King Co. to W.S.</p>
+                <p>I hereby certify that I witness</p>
+                <pb/>
+                <p>The matter named William Fox in to the custody of L. V. Wyckoff Sheriff of King
+                    County and Judge of said county. Settled at Seattle on 1st day of June 1878</p>
+                <p>H. S. Thornton Constantable Seattle Present King County</p>
+                <p>Here County <unclear/></p>
+                <p>Hon 20</p>
+                <p>L. V. Wyckoff Sheriff of King County do hereby certify that the above and
+                    foregoing is a true and and clear copy of me original commitment</p>
+                <p>Seattle June 14 1878 L. V. Wyckoff Sheriff</p>
+                <p>Washington Territory vs. William S. Wiggin</p>
+                <p>Documentation of the <unclear/></p>
+                <p>Costs</p>
+                <p>Justice of the peace $14.35 <unclear/> 7.40 Lyts 21.55 Justices 37.80 <unclear/>
+                    Warrant and keeping 12.10 sum $93.90 P. Commitment filed $102</p> 
             </div1>
-            
+
         </body>
     </text>
 </TEI>
