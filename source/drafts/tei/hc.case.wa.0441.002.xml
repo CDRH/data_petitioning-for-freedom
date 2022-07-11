@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Stapleton-Deno, Zoe L." xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -88,6 +89,7 @@
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle</term>
 </keywords>
 
 </textClass>
@@ -101,7 +103,13 @@
 <persName>Cochrane, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gleason, C.S.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Pallinson</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Glasgow, J.M.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -122,6 +130,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#brh">transcribed and encoded</change>
+<change when="2022-07" who="zlsd">edited</change>
 </revisionDesc>
 
 </teiHeader>
