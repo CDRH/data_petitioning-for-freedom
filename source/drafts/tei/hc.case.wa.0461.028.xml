@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.029">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.028">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
-<date when="1897-07-22">July 22, 1897</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Order</title>
+<date when="1896-11-09">November 9, 1896</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1897-07">July 1898</date></term>
+<term><date when="1896-10">October 1896</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -98,7 +98,7 @@
 <persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
-<persName>Nerton, George</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -107,17 +107,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
-</person>
-<person role="clerk">
-<persName>Kenney, James H. M.</persName>
+<persName>Wiswall, E. A.</persName>
 </person>
 </listPerson>
-                  
+            
 <listOrg>
 <org>
-<orgName>Supreme Court of the United States</orgName>
-<placeName>Washington D. C.</placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,39 +129,54 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
-<!-- <note>G.O.B. 5-243</note> -->
-<p><add>#275
-TX</add></p>
-<p>Supreme Court of the United States.
-No. 90, October term 1896.</p>
-<p>The State of Washington
-vs.
-M. L. Coovert</p>
-<p>Mandate.</p>
-<p>Filed July 23 1898
-In the U. S. Circuit Court.
-A. Reeves Ayres
-Clerk
-HM Walker
-Deputy</p>
-<p>You, therefore, are hereby commanded that such execution and further
-proceedings be had in said cause, in conformity with the opinion and
-decree of this Court as according to right and justice, and the laws
-of the United States, ought to be had, the said appeal
-notwithstanding.</p>
-<p>Witness the Honorable Melville W. Fuller, Chief Justice of the
-United States, the 22nd day of July, in the year
-of our Lord one thousand eight hundred and ninety-seven.</p>
-<p>Costs of The State of Washington
-Clerk $35.00
-Printing record $19.50
-Attorney $20.00
-$74.50</p>
-<p>James H. M. Kenney
-Clerk of the Supreme Court of the United States</p>
 
+<pb/>
+<p>United States of America, ss:</p>
+<p>The President of the United States of America,
+To the Honorable the Judges of the Circuit 
+Court of the United States for the <del><gap></gap></del>
+District of Washington</p>
+
+<p>Greeting:
+Whereas, lately in the Circuit Court of the United States
+for the <del><gap></gap></del> District of Washington, before you,
+or some of you, in a cause <del>between</del>entitled in the matter of
+the application of M. L. Coovert for a writ 
+of habeas corpus No. 275, wherein 
+the order of the said circuit court, entered in said cause on the 22d
+day of June, A.D. 1893, is in the following words, riz;</p>
+
+<pb/>
+<p>as by the inspection of the transcript of the record <del><gap></gap></del>
+of the said Circuit
+Court, which was brough into the Supreme Court of the United States by
+virtue of an appeal taken by the State of Washington
+<del><gap></gap></del>
+agreeably to the act of Congress, <del><gap></gap></del>
+in such case made and provided, fully and at large appears.</p>
+
+<p>And whereas, in the present term of October, in the year of our Lord
+one thousand eight hundred and ninety-six, the said cause came on to
+be heard before the said Supreme Court, on the said transcript of record, and
+was argued by counsel:</p>
+<p>On consideration whereof, It is now here ordered, <del><gap></gap></del> adjudged,
+&amp; decreed by this Court that the order <del><gap></gap></del> of the
+said Circuit Court in this cause be, and the same is hereby, reversed
+with costs; And that the said The State of 
+Washington recover against the said M. L.
+Coovert Sixty-two dollars and fifty
+cents for its costs herein expended and
+have execution therefor</p>
+<p>And it is further ordered that this 
+cause be, and the same is hereby rewarded
+to the said Circuit Court with directions
+to discharge the writ and dismiss the
+petition.</p>
+<p>November 9, 1896.</p>
 </div1>
     
 </body>

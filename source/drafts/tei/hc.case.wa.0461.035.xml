@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.029">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.035">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Petition for a Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Mandate</title>
-<date when="1897-07-22">July 22, 1897</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Petition for a Writ of Habeas Corpus</title>
+<date when="1893-06-22">June 12, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1897-07">July 1898</date></term>
+<term><date when="1893-06">June 1893</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -98,33 +98,36 @@
 <persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
-<persName>Nerton, George</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wood, C. E. S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
-</person>
-<person role="judge">
-<persName></persName>
+<persName>Bowles, C. D.</persName>
 </person>
 <person role="clerk">
-<persName>Kenney, James H. M.</persName>
+<persName>Ayres, A. Reeves</persName>
+</person>
+<person role="clerk">
+<persName>Caples, H. R.</persName>
+</person>
+<person role="deputy_clerk">
+<persName>Hopkins, R. M.</persName>
 </person>
 </listPerson>
                   
 <listOrg>
 <org>
-<orgName>Supreme Court of the United States</orgName>
-<placeName>Washington D. C.</placeName>
+<orgName>Clarke County</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-06" who="#edr">transcribed and encoded</change>
+<change when="2022-07" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,37 +137,50 @@
 <body>  
                
 <div1 type="case">
-<!-- <note>G.O.B. 5-243</note> -->
-<p><add>#275
-TX</add></p>
-<p>Supreme Court of the United States.
-No. 90, October term 1896.</p>
-<p>The State of Washington
-vs.
+<pb/>
+<p><add>276 TX</add></p>
+<p>In the
+Circuit Court of the United States
+for the District of Washington.</p>
+<p>Ex parte
 M. L. Coovert</p>
-<p>Mandate.</p>
-<p>Filed July 23 1898
-In the U. S. Circuit Court.
+<p>Petition for a Writ of
+Habeas Corpus.</p>
+<p>Cigarette Cases
+No. 2.</p>
+<p>Filed June 12 1893
+In the
+U. S. Circuit Court
 A. Reeves Ayres
 Clerk
-HM Walker
-Deputy</p>
-<p>You, therefore, are hereby commanded that such execution and further
-proceedings be had in said cause, in conformity with the opinion and
-decree of this Court as according to right and justice, and the laws
-of the United States, ought to be had, the said appeal
-notwithstanding.</p>
-<p>Witness the Honorable Melville W. Fuller, Chief Justice of the
-United States, the 22nd day of July, in the year
-of our Lord one thousand eight hundred and ninety-seven.</p>
-<p>Costs of The State of Washington
-Clerk $35.00
-Printing record $19.50
-Attorney $20.00
-$74.50</p>
-<p>James H. M. Kenney
-Clerk of the Supreme Court of the United States</p>
+By R. M. Hopkins
+Deputy.</p>
+<p>C. E. S. Wood
+Solicitor.</p>
+<p>Williams &amp;Wood.
+Attorneys</p>
 
+<p>State of Washington,
+County of Clarke.
+} SS.</p>
+<p>I, C. D. Bowles,first being duly sworn according to law, depose and say as follows:
+I accuse M. L. Coovert, of Vancouver, Clarke County, State of Washington, of the crime of
+selling and furnishing cigarettes, contrary to the statute in such cases made and provided, committed
+as follows: Said M. L. Coovert is a retail tobacco dealer doing buisness in Vancouver,
+County of Clarke, State of Washington, and on Friday, June the 9th, 1893, at his said place of
+business in said city of Vancouver, the said M. L. Coovert did sell and furnish to one C. L. 
+McDonald one package of cigarettes, more particularly described as follows:</p>
+<p>a slife pate board box containing
+ten paper wrapped cigarettes, on said
+box is the name of the manufacturer
+and brand of cigarettes, also the statutory
+caution notice, number of manufacturing
+district and state and the U. S. Revenue
+stamp cancelled.</p>
+<p>which said package of cigarettes was and is of the calue of ten cents
+Subscribed and sworn to before me this 9th day of June, 1893. C. D. Bowles</p>
+<p>H. R. Caples
+County Clerk.</p>
 </div1>
     
 </body>
