@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.141">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus.</title>
+<date when="1893-06-09">June 9, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -107,10 +107,7 @@
 <persName>Bowles, C. D.</persName>
 </person>
 <person role="clerk">
-<persName>Ayres, A. Reeves</persName>
-</person>
-<person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<persName>Caples, H. R.</persName>
 </person>
 </listPerson>
                   
@@ -134,49 +131,28 @@
 <body>  
                
 <div1 type="case">
-<pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
-Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
 
-<pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+<p>State of Washington,
+County of Clarke.
+} SS.</p>
+<p>I, C. D. Bowles, first being duly sworn according to law, depose and say as follows:
+I accuse M. L. Coovert, of Vancouver, Clarke County, State of Washington, of the crime of
+selling and durnishing cigarettes, contrary to the statute in such cases made and provided, committed
+as follows: Said M. L. Coovert is a retail tobecco dealer doing business in Vancouver,
+County of Clarke, State of Washington, and on Friday, June the 9th, 1893, at his said place of
+business in said city of Vancouver, the said M. L. Coovert did sell and furnish to one C. L,
+McDonald one package of cigarettes, more particularly described as follows:
+A slide pasteboard boc containing the 
+paper wrapped cigarettes. Said box being
+marked Dukes Cameo cigarettes and having
+upon it US Revenue Stamp. Caution
+notice and number of manufacturing
+district and state.</p>
+<p>which said package of cigarettes was and is of the value of five cents
+C. D. Bowles
+Subscribed and sworn to before me this 9th day of June, 1893.
+H. R. Caples.
+County Clerk.</p>
 </div1>
     
 </body>

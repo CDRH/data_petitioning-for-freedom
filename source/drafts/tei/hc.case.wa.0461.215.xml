@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.215">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Type of document</title>
+<date when="1893-06-22">June 22, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -104,16 +104,16 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Bowles, C. D.</persName>
+<persName></persName>
 </person>
-<person role="clerk">
-<persName>Ayres, A. Reeves</persName>
+<person role="judge">
+<persName>Hanford, C. H.</persName>
 </person>
-<person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<person role="sheriff">
+<persName>Nerton, George</persName>
 </person>
 </listPerson>
-                  
+            
 <listOrg>
 <org>
 <orgName>Clarke County</orgName>
@@ -132,51 +132,59 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
-<pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
-Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
 
 <pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+<p><add>"</add>Now, at this time, comes on this cause to be heard upon the petition
+of M. L. Coovert, duly filed in this court, praying for the issuance
+of the writ of habeas corpus.
+And upon the demurrer to said petition, duly filed by George 
+Nerton, sheriff of Clarke county, Washington, and upon the evidence
+and exhibits submitted with said petition, and upon the writ
+of habeas corpus issued out of this court on the 13th day of June,
+1893, and upon the return of Geroge Nerton, sheriff of Clarke
+county, State of Washington, to said writ; and the motion to discharge
+the petitioner and the body of M. L. Coovert in the foregoing
+writ of habeas corpus mentioned being brought before the
+court at the time and place in said writ named, and the return
+thereto being read, and the petitioner appearing by Mr. C. E. S.
+Wood, his soliciotor, and moving the court for his discharge, and the
+sheriff of Clarke county, George Nerton, appearing by C.D. Bowles,
+his solicitor, and the court having considered the said petition and
+demurrer thereto, the exhibits, the writ of habeas corpus and the
+return thereto, and the motion to discharge the petitioner, and having
+heard the argument in the remises and being fully advised,
+and it appearing to the court that the facts and circumstances are
+not sufficient to justify the imprisonment of the said M. L. Coovert
+and no sufficient cause for the detention of the said M. L. Coovert
+appearing, it is hereby-</p>
+<p><del>16</del></p>
+<p>Ordered, adjudged, and decreed that the said law of the
+State of Washington prohibiting the sale of cigarettes and
+referred to in the petition is in contravention of article I of
+section 8 of the Constitution of the United States and null and void
+in so far as it prohibits or attempts to prohibit the selling, giving,
+or furnishing to any one by the importer of a box of packages of
+paper-wrapped cigarettes, each package containing ten paper-
+wrapped cigarettes, each enclosed in paper and tin-fol wrappers,
+each bundle or package having the U. S. internal revenue stamp
+and the number of manufacturing district and State, which box was
+received by the importer packed in a wooden packing case or carton,
+and said carton packed with orthers in a common pine shipping
+case, and that the said M. L. Coovert be by said George Nerton,
+sheriff of Clarke county, forthwith discharged from imprisonment
+and detention for the cause as in said petition aforesaid.</p>
+<p>And it is further ordered, adjusted, and decreed that the said M.
+L. Coovert, petitioner, shall enter into a recognizance in the sum of 
+two hundred and fifty ($250.00) dollars with the clerk of this court,
+with one or more sureties, for his appearance to answer the judgement
+of the appellate court in the premises.</p>
+<p>C. H. Hanford, Judge.</p>
+<p>Dated this 22nd day of June, 1893. <add>"</add></p>
+
 </div1>
     
 </body>

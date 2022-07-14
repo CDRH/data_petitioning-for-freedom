@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.108">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Order</title>
+<date when="1896-11-09">November 9, 1896</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1893-06">June 1893</date></term>
+<term><date when="1896-10">October 1896</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -104,16 +104,13 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Bowles, C. D.</persName>
+<persName></persName>
 </person>
-<person role="clerk">
-<persName>Ayres, A. Reeves</persName>
-</person>
-<person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<person role="judge">
+<persName>Wiswall, E. A.</persName>
 </person>
 </listPerson>
-                  
+            
 <listOrg>
 <org>
 <orgName>Clarke County</orgName>
@@ -132,51 +129,53 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
-<pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
-Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
 
 <pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+<p>United States of America, ss:</p>
+<p>The President of the United States of America,
+To the Honorable the Judges of the Circuit 
+Court of the United States for the <del><gap></gap></del>
+District of Washington</p>
+
+<p>Greeting:
+Whereas, lately in the Circuit Court of the United States
+for the <del><gap></gap></del> District of Washington, before you,
+or some of you, in a cause <del>between</del>entitled in the matter of
+the application of M. L. Coovert for a writ 
+of habeas corpus <add>No. 282,</add> wherein the order of the said
+circuit court, entered in said cause on the 22d
+day of June, A.D. 1893, is in the following words, riz;</p>
+<p>as by the inspection of the transcript of the record <del><gap></gap></del>
+of the said Circuit
+Court, which was brough into the Supreme Court of the United States by
+virtue of an appeal taken by the State of Washington
+<del><gap></gap></del>
+agreeably to the act of Congress, <del><gap></gap></del>
+in such case made and provided, fully and at large appears.</p>
+
+<p>And whereas, in the present term of October, in the year of our Lord
+one thousand eight hundred and ninety-six, the said cause came on to
+be heard before the said Supreme Court, on the said transcript of record, and
+was argued by counsel:</p>
+
+<p>On consideration whereof, It is now here ordered, <del><gap></gap></del> adjudged,
+&amp; decreed by this Court that the order <del><gap></gap></del> of the
+said Circuit Court in this cause be, and the same is hereby, reversed
+with costs; And that the said The State of 
+Washington recover against the said M. L.
+Coovert Sixty-three dollars and fifteen
+cents for its costs herein expended and
+have execution therefor</p>
+<p>And it is further ordered that this 
+cause be, and the same is hereby rewarded
+to the said Circuit Court with directions
+to discharge the writ and dismiss the
+petition.</p>
+<p>November 9, 1896.</p>
 </div1>
     
 </body>

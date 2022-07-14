@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.198">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -98,22 +98,25 @@
 <persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Nerton, George</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Wood, C.E.S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Bowles, C. D.</persName>
+<persName></persName>
+</person>
+<person role="judge">
+<persName></persName>
 </person>
 <person role="clerk">
 <persName>Ayres, A. Reeves</persName>
 </person>
 <person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<persName>Hopkins, Robert</persName>
 </person>
 </listPerson>
-                  
+            
 <listOrg>
 <org>
 <orgName>Clarke County</orgName>
@@ -132,51 +135,44 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
+
 <pb/>
-<!-- <note>G. O. B. 1-528</note> -->
+<!-- <note>G.O.B. 1-V-30</note> -->
 <p>TX</p>
-<p>No. 278</p>
+<p>No. 282</p>
 <p>United States
 Circuit Court,
 District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
+<p>Pracipe for Appearance</p>
 <p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
+A Reeves Ayres Clerk.
+RM Hopkins
 Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
+<p>C.E.S. Wood
+for Petitioner</p>
+<p>Lowman &amp; Hanford S. &amp;P. Co's Blank No. 90.
+Praecipe - U.S. Court.</p>
 
-<pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
+<p>In re M. L. Coovert
+<del>vs.</del>
+Habeas Corpus</p>
+<p>No. 282
 Praecipe for Appearance.</p>
 <p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
+their own filiings. Rule 47.</p>
+<p>To the Cleark of the above entitled Court:
+You will please enter my apperance as solicitor for petitioner
 in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
+<p>C.E.S. Wood
+Solicitor</p>
+<p>Williams&amp;Wood
+Attys</p>
 <p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+their own fillings. Rule 47.</p>
 </div1>
     
 </body>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.115">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Deposition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Deposition</title>
+<date when="1893-06-09">June 9, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1893-06">June 1893</date></term>
+<term><date>1893-06</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -106,11 +106,8 @@
 <person role="attorney_defendant">
 <persName>Bowles, C. D.</persName>
 </person>
-<person role="clerk">
-<persName>Ayres, A. Reeves</persName>
-</person>
 <person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<persName>Caples, H. R.</persName>
 </person>
 </listPerson>
                   
@@ -135,48 +132,48 @@
                
 <div1 type="case">
 <pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
-Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
-
+<p>Whereas M. L. Coovert of Clarke County
+has been brought before <gap></gap> the Superior
+Court in and for said county, charged on the oath of C. D. Bowles
+with having on the 9th day of June, 1893, in said County,
+committed the offense of selling cigarettes
+and in the progress of the trial of said charge, it appearing to the Court that
+the said M. L. Coovert has been guilty of the offense of
+selling cigarettes committed at the
+time and place aforesaid, and whereas the said M. L. Coovert
+has failed to give bail in the sum of $250.00 dollars, for
+his appearence to answer at the next session of the Superior Court, as required by
+the Court; therefore, In the Name of the State of Washington, you, the said Sheriff
+are hereby commanded to receive the said M. L. Coovert
+into your custody and in the jail of your County and him there safely
+keep until he be discharged by due course of law.
+Witness my hand and seal this 9th day of June 1893
+H. R. Caples
+County Clerk and Clerk of the Superior Court.</p>
 <pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+<p>State of Washington,
+County of Clarke
+} SS.</p>
+<p>I, C. D. Bowles, first being duly sworn according to law, depose and say as follows:
+I accuse M. L. Coovert of Vancouver, Clarke County, State of Washington, of the crime of
+selling and furnishing cigarettes, contrary to the statute in such cases made and provided, committed
+as follows: Said M. L. Coovert is a retail tobacco dealer doing business in Vancouver,
+County of Clarke, State of Washington, and on Friday, June 9th, 1893, at his said place of
+business in said city of Vancouver, the said M. L. Coovert did sell and furnish to one C. L.
+McDonald one package of cigarettes, more particularly described as follows:</p>
+<p>A slde past brand box containing
+ten paper wrapped cigarettes and marked
+Dukes Canes cigarettes, and having upon
+in the statutory caution notice and
+U. S. Recenue Stamp, canceled, and
+number of the manufacturing District
+and state.</p>
+
+<p>which said package of cigarettes was and is of the value of five cents
+C. D. Bowles
+Subscribed and sworn to before me this 9th day of June, 1893.
+H. R. Caples
+County Clerk.</p>
 </div1>
     
 </body>
