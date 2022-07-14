@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> The Territory of Washington vs. Donald Fallon Frank Rogers</title>
+                <title>William Fox vs. Washington Territory. Commitment</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -53,8 +53,8 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">William Fox vs. Washington Territory Writ of Habeas Corpus</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">William Fox vs. Washington Territory. Application for a Writ of Habeas Corpus</title>
+                    <date when="1878-05-16">May 16, 1878</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -78,7 +78,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="type">
-                    <term></term>
+                    <term>Criminal</term>
                 </keywords>
                 
                 <keywords scheme="original" n="subtype">
@@ -86,15 +86,21 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1878-05-16">May 16, 1878</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term>M. G. Houston</term>
+<term>L. V. Wyckoff</term>
+<term>William Fox</term>
+<term>William S. Wiggin</term>
+<term>M. G. Trinton</term>
+<term>Albert M Snyder</term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="places"> 
-                    <term>King County, Washington</term>
+                    <term>Seattle, King County, Washington</term>
+<term>Occidental Hotel</term>
                 </keywords>
                 
             </textClass>
@@ -107,7 +113,7 @@
                     <person role="defendant">
                         <persName>William S. Wiggin</persName>
                     </person>
-                    <person role="attorney_petitioner">
+                    <person role="_petitioner">
                         <persName>Irving Ballard</persName>
 <persName>J. M. Hall</persName>
                     </person>
@@ -123,7 +129,7 @@
                 <listOrg>
                     <org>
                         <orgName></orgName>
-                        <placeName></placeName>
+                        <placeName>Territory of Washington, County of King</placeName>
                     </org>
                 </listOrg>   
             </particDesc> 
@@ -132,6 +138,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2022-08" who="#AS">reviewed; edited</change>
         </revisionDesc>
         
     </teiHeader>
