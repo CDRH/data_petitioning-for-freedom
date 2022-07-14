@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.159">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Proof of Payment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+<name n="Russell, Ellie." xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,8 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Proof of Payment</title>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1893-06">June 1893</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -98,22 +97,19 @@
 <persName>Coovert, M. L.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>State of Washington</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Bowles, C. D.</persName>
+<persName>Jones, W. C.</persName>
 </person>
-<person role="clerk">
-<persName>Ayres, A. Reeves</persName>
-</person>
-<person role="deputy_clerk">
-<persName>Hopkins, R. M.</persName>
+<person role="judge">
+<persName>Wiswall, E. A.</persName>
 </person>
 </listPerson>
-                  
+            
 <listOrg>
 <org>
 <orgName>Clarke County</orgName>
@@ -132,51 +128,33 @@
 <text>
 
 <body>  
+
+
                
 <div1 type="case">
-<pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
-Clerk.
-R. M. Hopkins
-Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
 
 <pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
+<p>United States of America : SS.</p>
+<p>In the Circuit Court of the United States,
+For the District of Washington.</p>
+<p>State of Washington,
+Appellant</p>
+<p>VS</p>
+<p>M. L. Coovert, Respondent</p>
+
+<p>I, W. C. Jones, attorney for the Appellant in the above
+entitled proceedings do hereby certify that that certain judgement
+rendered in the Supreme Court of the United States of <sic>Americam</sic>, as
+set forth in the mandate hereto attached, and the costs therein
+specified have been fully paid and discharged, and the Honorable
+the Clerk of the said Circuit Court of the United States for the 
+District of Washington is hereby authorized the judgement
+herein upon the docket of the said Court upon payment by the
+said Respondent, M. L. Coover, of the costs of said Circuit
+Court properly taxed therein.</p>
+
+<p>WC Jones
+Atty for Appellant</p>
 </div1>
     
 </body>

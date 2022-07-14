@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.090">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0461.099">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. L. Coovert for a Writ of Habeas Corpus. Pracipe for Appearance</title>
+<title>M. L. Coovert for a Writ of Habeas Corpus. Certificate</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Praecipe for Appearance</title>
-<date when="1893-06-12">June 12, 1893</date>
+<title level="m" type="main">M. L. Coovert for a Writ of Habeas Corpus. Certificate</title>
+<date when="1893-06-22">June 22, 1893</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -104,7 +104,7 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Bowles, C. D.</persName>
+<persName></persName>
 </person>
 <person role="clerk">
 <persName>Ayres, A. Reeves</persName>
@@ -135,48 +135,24 @@
                
 <div1 type="case">
 <pb/>
-<!-- <note>G. O. B. 1-528</note> -->
-<p>TX</p>
-<p>No. 278</p>
-<p>United States
-Circuit Court,
-District of Washington</p>
-<p>Ex Parte
-M. L. Coovert
-vs.
-<gap></gap></p>
-<p>Praecipe for Appearance</p>
-<p>Filed June 12 1893
-A Reeves Ayres
+<p>Certificate.</p>
+<p>United States of America
+State of Washington
+} SS.</p>
+<p>I, A. Reeves Ayres, Clerk of the Circuit Court of the United States, for
+the District of Washington, do hereby certify that the foregoing papers attached constitute
+the Judgement Roll in the foregoing entitled cause, No. 278
+<del>wherein</del>Ex parte M. L. Coovert
+Plaintiff,
+and <gap></gap>
+Defendant.</p>
+<p>In testimony whereof, I have hereunto set my hand
+and affixed the Seal of said Circuit Court, this the
+22nd day of June A. D. 1893
+A. Reeves Ayres
 Clerk.
-R. M. Hopkins
+By RM Hopkins
 Deputy Clerk.</p>
-<p>CD Bowles
-Atty for Geo Nerton
-For Sheriff</p>
-<p>Lowman &amp;Hanford S. &amp;P. Co.'s Blank No. 90.
-Praecipe - U. S. Court.</p>
-
-<pb/>
-<p>United States <unclear></unclear></p>
-<p>Ex Parte
-M. L. Coovert
-vs. 
-<gap></gap></p>
-<p>No. <gap></gap>
-Praecipe for Appearance.</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
-<p>To the Clerk of the above entitled Court:
-You will please enter my appearance as attorney
-for Geo Nerton Sheriff
-in the above entitled cause.</p>
-<p>CD Bowles
-Attorney for Geo Nerton
-Sheriff &amp; Prosecuting Attorney
-for Clarke Co. State of Washington</p>
-<p>Notice:-- Attorneys will please endorse
-their own filings. Rule 47.</p>
 </div1>
     
 </body>
