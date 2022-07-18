@@ -93,23 +93,25 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>M.T. Ward</persName>
+<persName>Ward, M.T.</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>L.V. Wycroff</persName>
+<persName>Wycroff, L.V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>O. Jacobs
-McGauge</persName>
+<persName>McGaugh, O. Jacobs</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Greene, Roger</persName>
+</person>
+<person role="notary_public">
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -125,6 +127,7 @@ McGauge</persName>
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-07" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,9 +152,9 @@ same to be true.</p>
 <ab>LV Wycroff</ab>
 <ab>Signed and subscribed before
 me this 18th day of July 1879</ab>
-<ab>G.H. Hanny ord
+<ab>C. H. Hanford
 Notary Public
-Ruiy County Ward</ab>
+King County Wash</ab>
 
 
 </div1>
