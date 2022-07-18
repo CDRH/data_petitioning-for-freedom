@@ -2,12 +2,12 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0397.001">
     
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> The territory of Washington vs. Donald Fallon Frank Rogers</title>
+                <title> The Territory of Washington vs. Donald Fallon and Frank Rogers. Return</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -21,6 +21,7 @@
                     <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
                     <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
                     <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+                    <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
                 </respStmt>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -40,11 +41,11 @@
                     <address>
                         <addrLine>319 Love Library</addrLine>
                         <addrLine>University of Nebraska–Lincoln</addrLine>
-                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>Lincoln, NE 68508-4100</addrLine>
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0397.001</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,14 +55,14 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">Martin Lawson vs. King County Writ of Habeaus Corpuss</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">The Territory of Washington vs. Donald Fallon and Frank Rogers. Return</title>
+                    <date when="1876-07-06">July 6, 1876</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
                     <msIdentifier>
-                        <repository></repository>
-                        <collection></collection>
+                        <repository>Washington State Archive, Puget Sound Regional Branch</repository>
+                        <collection>King County Government, Judicial Administration, Territorial District Court Case Files, 1867-1889</collection>
                         <idno></idno>
                     </msIdentifier>
                 </msDesc>
@@ -87,11 +88,11 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1876">1876</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term>Ewery, C. D.</term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="places"> 
@@ -103,10 +104,13 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>Donald Fallon, Frank Rogers</persName>
+                        <persName>Fallon, Donald</persName>
+                    </person>
+<person role="petitioner">
+                        <persName>Rogers, Frank</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Wyckoff, Louis V.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +119,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, J. R.</persName>
                     </person>
                 </listPerson>
                 
@@ -129,7 +133,8 @@
         </profileDesc>
         
         <revisionDesc>         
-            <change when="2018-01" who="#ini">reviewed; edited</change>
+                 <change when="2022-07" who="slb">reviewed</change>    
+   <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
         </revisionDesc>
         
@@ -146,25 +151,25 @@ Donald Fallan
 Frank Rogers Deputy
 In the city of Seattle
 To Hon. J. R. Lews C. J. Washington Territory
-I herby such return to the writ of Habeaus
-Corpus issued in the can, as follows
-the defendants are restrained of their 
-liberty under and by virture of the said
-commitment issued by D. S. Smith an
-deputy and duly commissioned Justice
+I herby make return to the writ of Habeaus
+Corpus issued in this case, as follows
+1. the defendants are restrained of their 
+liberty under and by virture of two said
+commitments issued by D. S. Smith an
+acting and duly commissioned Justice
 of the Peace in and for Washington Territory
-or by refuse to the neeed of the said
-Justice with more fully and at Corpus appear.
-The orginal commitment are herby
-attached by content of arrival and made a part of this
+or by refuse to the record of the said
+Justice with more fully and at large appear.
+2. The orginal commitment are herby
+attached by consent of counsel and made a part of this
 return
-I here produce the prison before my honor. 
+3. I here produce the prisoners before your honor. 
 L. V. Wyckoff U.S Deputy Marshal
 W. J.
-<unclear></unclear> to subscribed
-before in July 6 1876
+Sworn to &amp; subscribed
+before me July 6 1876
 C. D. Ewery 
-Notary 
+Notary Public
 Sheriff Wyckoff costs $1.20</p>
                 
             </div1>
