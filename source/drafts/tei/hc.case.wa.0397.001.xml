@@ -41,7 +41,7 @@
                     <address>
                         <addrLine>319 Love Library</addrLine>
                         <addrLine>University of Nebraska–Lincoln</addrLine>
-                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>Lincoln, NE 68508-4100</addrLine>
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
@@ -88,11 +88,11 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1876">1876</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term>Ewery, C. D.</term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="places"> 
@@ -110,7 +110,7 @@
                         <persName>Rogers, Frank</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Wyckoff, Louis V.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -119,7 +119,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, J. R.</persName>
                     </person>
                 </listPerson>
                 
@@ -133,7 +133,8 @@
         </profileDesc>
         
         <revisionDesc>         
-            <change when="2018-01" who="#ini">reviewed; edited</change>
+                 <change when="2022-07" who="slb">reviewed</change>    
+   <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
         </revisionDesc>
         
