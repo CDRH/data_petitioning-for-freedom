@@ -93,23 +93,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>M.T. Ward</persName>
+<persName>Ward, M.T.</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wycroff</persName>
+<persName>Wycroff, LV</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>O Jacobs
-McGaugh</persName>
+<persName>McGaugh, O Jacobs</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Greene, Roger</persName>
 </person>
 </listPerson>
             
@@ -125,6 +124,7 @@ McGaugh</persName>
 <revisionDesc>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-07" who="#edr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
