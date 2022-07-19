@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alice McKay v. John Kevan and Della Kevan. Application for Writ of Habeas Corpus</title>
+<title>Alice McKay v. John Kevan and Della Kevan. Petition for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Stapleton-Deno, Zoe L." xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -121,8 +122,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court of Washington Territory</orgName>
+<placeName>Seattle, WA (King County)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -130,6 +131,7 @@
         
 <revisionDesc><change when="2021-09" who="#cjy">edited</change>         
 <change when="2019-01" who="#lkw">transcribed and encoded</change>
+<change when="2022-07" who="#zlsd">edited</change>
 </revisionDesc>
 
 </teiHeader>
