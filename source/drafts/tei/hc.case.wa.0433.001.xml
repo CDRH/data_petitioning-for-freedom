@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -123,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,11 +132,13 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+<pb facs="hc.case.wa.0433.001"/>
 <p>FILE
 No. 6023</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.002"/>
 
 <p>To the
 Hon. Richard A. Jones
@@ -266,12 +270,8 @@ Seattle, W.T.</p>
 
 <p>R.A. Jones, Judge</p>
 
-<pb></pb>
-               
-<div1 type="case">
 
-<pb/>
-
+              
 
 </div1>
     
