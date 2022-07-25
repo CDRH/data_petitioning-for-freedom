@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas Kerr v. William Cochrane. Type of document</title>
+<title>Thomas Kerr v. William Cochrane. Sheriff Certification</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas Kerr v. William Cochrane. Type of document</title>
+<title level="m" type="main">Thomas Kerr v. William Cochrane. Sheriff Certification</title>
 <date when="1888-02-09">February 9, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -83,6 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Kerr, Thomas</term>
+<term>Cochrane, William</term>
 <term>Gadden, M.</term>
 </keywords>
 
@@ -126,6 +128,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -159,11 +162,11 @@ Sheriff of King County W.T.
 By M. Gadden
 Deputy</p>
 
-<p>Sheriffs Fees
-Taking up Prisoner 1.00
-Copy of Writ .40
-Travel 20+ Return 50+ .70
-$2.10</p>
+<p>Sheriffs Fees</p>
+<p>Taking up Prisoner</p> <p>1.00</p>
+<p>Copy of Writ</p> <p>.40</p>
+<p>Travel <add>20+ </add>Return <add>50+</add></p> <p>.70</p>
+<p>$2.10</p>
 
 <pb></pb>
                
