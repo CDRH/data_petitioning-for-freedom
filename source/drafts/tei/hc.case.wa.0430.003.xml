@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Henry Carlton v. William Cochrane. Type of document</title>
+<title>Henry Carlton v. William Cochrane. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Henry Carlton v. William Cochrane. Type of document</title>
+<title level="m" type="main">Henry Carlton v. William Cochrane. Writ of Habeas Corpus</title>
 <date when="1888-04-24">April 24, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -120,7 +120,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>     
+<change when="2022-07" who="#slb">reviewed</change>    
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
