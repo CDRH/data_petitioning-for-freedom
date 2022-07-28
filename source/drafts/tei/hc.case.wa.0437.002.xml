@@ -83,7 +83,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Quinn, M.C.</term>
+<term>Thornton, H.G.</term>
+<term>Henry</term>
+<term>Andrews</term>
+<term>Burke, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,7 +106,7 @@
 <persName>Thornton, H.G.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Humes</persName>
+<persName>Henry</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Andrews</persName>
@@ -126,6 +130,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#AS">reviewed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
