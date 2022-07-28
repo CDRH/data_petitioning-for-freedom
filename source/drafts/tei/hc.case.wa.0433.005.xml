@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Testimony</title>
+<title>James A. Balch v. J.W. Waughop. Physician's Certificate</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Testimony</title>
-<date when="1888-06-01">June 1, 1888</date>
+<title level="m" type="main">James A. Balch v. J.W. Waughop. Physician's Certificate</title>
+<date when="1888-06-20">June 20th, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,16 +79,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06-05">June 5, 1888</date></term>
+<term><date when="1888-06">June 1883</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Navarre, James A.</term>
+<term>Balch, Hattie M.</term>
+<term>Morrison, W. F.</term>
+<term>Clark, J. O.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
+<term>Yakima County, Washington</term>
+<term>Lyle, Washington</term>
+<term>Klickitat County, Washington</term>
 </keywords>
 
 </textClass>
@@ -103,12 +106,12 @@
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
-</person>
+</person>   
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName>Navarre, J. A.</persName>
 </person>
 </listPerson>
             
@@ -123,6 +126,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,41 +134,71 @@
 <text>
 
 <body>  
-
-<p>In the District Court of the Third Judicial District of Washington
-Territory, holding terms at Seattle.</p>
-
-<p>In the matter of the insanity of
-James A. Balch.</p>
-
-<p>To the Honorable Judge of the Third Judicial District Court:
-J.W. Waughop, having been duly sworn, deposes and says: That I
-am the superintendent of the Hospital of the insane
-at Fort. Steilacoom, Washington Territory, and am the person to whom
-the within writ is directed and I hereby certify: That the cause of
-the detention of said James A. Balch and warrant of commitment
-issued by the Hon. J.A. Navarre, probate Judge of Yakima County,
-Washington Territory, which said warrant is directed to me and copies
-of the said complaint and warrant of commitment are hereto annexed
-and marked respectively Exhibit "A" and "B" and made part hereof:
-The same were <add>issued</add> in the manner and under the circumstances and for the
-purposes set forth therein.</p>
-
-<p>The affiant further says that the said James A. Balch is not yet
-sufficiently recovered from his namis to be discharged from custody.</p>
-
-<p>J.W. Waughop</p>
-
-<p>Subscribed and sworn to before me this 5th day of June A.D. 1888
-<unclear></unclear>
-Notary Public in and for Washington Territory.</p>
-
-<pb></pb>
-               
+      
 <div1 type="case">
+<pb facs="hc.case.wa.0433.011"/>
 
-<pb/>
+<p>PHYSICIAN'S CERTIFICATE.
+[Form prescribed by the Superintendent of the Hospital]</p>
 
+<p>TERRITORY OF WASHINGTON
+County of Yakima  } ss</p>
+
+<p>W.F. Morrison and J.O. Clark being duly sworn,
+certifies each for himself, that he is a legally qualified physician; that at the request and in the presence of Hon J.A. Navarre, Probate Judge of Yakima County, he has heard the
+testimony of the witnesses, and carefully examined the said James A. Balch in reference to the charge
+of insanity, and <add>doth</add> find that .... he is insane. <del><unclear>This is not a case of imbecility or harmless, chronic mental unsoundness, or 
+accute manic</unclear></del>
+The further facts appertaining to said case, as nearly as can be ascertained, are set forth in the
+<del>following questions and</del> answers to the following questions- 
+W.F. Morrison M.D.
+J.O. Clark M.D.</p>
+
+<p>QUESTIONS.</p>
+
+<p>1. Name: James A. Balch     2. Age? about 57
+3. Place of birth? Indiana   4. Married or Single? Married
+5. If children, how many, and the age of the youngest? about 8 years
+6. If female and married, maiden name, and name of husband? <gap></gap>
+7. What State last from. and how long in W.T.? About 12 years in Territory
+8. What occupation. Farming &amp; Gardening
+9. What evidence have you of the presence of insanity? Halucinations regarding
+corporations and religion
+10. Is there homicidal, suicidal or incendiary diposition? <unclear></unclear>
+11. Is the case a recent one, having occured within twelve months last past? Yes according
+to his statements.
+12. When did this attack first appear? about three months ago
+13. Is this the first attack? If not, when did others occur, and what their duration? Do not know
+14. Is the disease increasing, decreasing or stationary? Stationary
+15. Are there rational intervals? if so, do they occur periodically? <gap></gap> 
+16. Is there any permanent hallucination? If so, what is it? Religion
+TF.
+<del>17. Is there any permanent delusions? If so, what is it?</del></p>
+
+<pb facs="hc.case.wa.0433.012"/>
+
+<p>17. In what way is the accused dangerous to be at large? Self Destruction
+18. Is there a disposition to injure others? If so, is it directed especially to relatives, and is it from sudden passion or premeditated? <gap></gap>
+19. If suicidal, is the propensity now active, and in what way? <gap></gap>
+20. Is there a disposition to filthy habits, destruction of clothing, furniture, etc? <gap></gap>
+21. Any relation, including grand-parents and cousins being insane? <gap></gap>
+22. Any peculiarities of temper, habits, disposition, or pursuits before the attack - any predominant passions or religious impressions? Yes --
+23. Been intemperate in the use of ardent spirits, wine, opium or tabacco in any form? <gap></gap>
+24. Suffered from epilepsy, suppressed secretions, eruptions, discharges, or sores, or injured on the head? No
+25. Any change in the physical health since the attack? <gap></gap>
+26. The supposed cause of insanity? <gap></gap>
+27. Of what class of insanity. Mania, melancholia or dementia? Dementia
+29. What treatment has been pursued, and with what effect? Don't know
+30. Name or post-office address, of relative or friend? Hattie M. Balch (wife)
+Lyle Klickitat Co W.T.</p>
+
+<p>W.F. Morrison M.D.
+J.O. Clark M.D.</p>
+
+<p>Subscribed and sworn to before me this 20th day
+of June A.D. 1883</p>
+
+<p>J.A. Navarre, Probate Judge</p>
 
 </div1>
     

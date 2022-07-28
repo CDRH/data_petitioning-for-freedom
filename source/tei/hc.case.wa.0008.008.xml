@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Stapleton-Deno, Zoe" xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -120,8 +121,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>First Judicial District Court of Washington Territory</orgName>
+<placeName>Walla Walla, Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -131,6 +132,7 @@
 <change when="2018-11" who="#lkw">reviewed; edited</change>        
 <change when="2018-06" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#djr">transcribed and encoded</change>
+<change when="2022-07" who="#zlsd">edited</change>
 </revisionDesc>
 
 </teiHeader>
