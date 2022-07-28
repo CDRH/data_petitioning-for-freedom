@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Smith v. John Coldwell. Type of document</title>
+<title>Charles Smith v. John Coldwell. Sworn Statement</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -124,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,10 +134,11 @@
 <body>  
 
 <p>Office of the Sheriff
-of King County          } ss
+of King County
+} ss
 Washington Territory</p>
 
-<p>I hereby certify that I served the writ
+<p>I hereby certify that I received the writ
 of Habeas Corpus of which the annexed is
 a true copy, on the 10th day of May 1888 and
 personally served the same on John

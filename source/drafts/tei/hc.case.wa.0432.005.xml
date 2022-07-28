@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Smith v. John Coldwell. Telegraph</title>
+<title>Charles Smith v. John Coldwell. Telegram</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -86,7 +86,7 @@
 <term>Eckert, Thomas T.</term>
 <term>Green, Norvin</term>
 <term>Cordray, Charles W.</term>
-<term>Julius Klinkers</term>
+<term>Klinkers, Julius</term>
 <term>Cochrane, William</term>
 </keywords>
 
@@ -127,6 +127,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,17 +146,20 @@ This is an UNREPEATED MESSAGE, and is delivered by request of the sender, under 
 THOS. T. ECKERT, General Manager.
 NORVIN GREEN, President.</p>
 
-<p>NUMBER      SENT BY     REC'D BY        CHECK
-            AR           A              136 08 36</p>
+<p>NUMBER<gap></gap>
+SENT BY AR
+REC'D BY A
+CHECK 136 08 36</p>
 
-<p>Received at SEATTLE, W.T.       May 9, 188_
+<p>Received at SEATTLE, W.T.
+May 9, 188<gap></gap>
 Dated Black Dannon WD 9
 To Wm Cochrane Sheriff</p>
 
 <p>Warrant United States of America
 in justices Court before Chas W. Cordray
 Justice of the Peace territory of Washington
-County of King s.s. Julius Klinker vs
+County of King s.s. Julius Klinker ss
 Chas Smith to the Sheriff or any
 constable of said King County greeting where
 as Julius Klinker has this day complained
