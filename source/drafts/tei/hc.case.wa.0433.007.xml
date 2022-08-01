@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Commitment</title>
+<title>In the matter of James A. Balch on Habeas Corpus Proceedings. Warrant of Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Commitment</title>
-<date when="1888-06">June, 1888</date>
+<title level="m" type="main">In the matter of James A. Balch on Habeas Corpus Proceedings. Warrant of Commitment</title>
+<date when="1888-06-02">June 2nd, 1883</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6023</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,18 +79,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06">June, 1888</date></term>
+<term><date when="1883-06">June 1883</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Guilland, David</term>
-<term>Navarre, James A.</term>
-<term>Balch, Hattie M.</term>
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle, Washington</term>
-<term>King County</term>
+<term>Yakima County, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,7 +98,7 @@
 <persName>Balch, James A.</persName>
 </person>
 <person role="defendant">
-<persName>Waughop, D.J</persName>
+<persName>Waughop, J. W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -110,7 +107,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName>Navarre, J. A.</persName>
 </person>
 </listPerson>
             
@@ -125,6 +122,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,82 +130,8 @@
 <text>
 
 <body>  
-
-<p>COMPLAINT. <add>AND COMMITMENT</add></p>
-
-<p>TERRITORY OF WASHINGTON,
-County of Yakima
-<del>In the matter of . . . . . an insane person</del></p>
-
-<p>David Guilland, being duly sworn, on oath, says there is in said county an
-insane <del>(idiotic)</del> person, whose name is James A. Balch, who, by reason of insanity <del>( )</del>, is
-unsafe to be at large (or is suffering under mental derangement) ; and affiant therefore asks that said person be arrested and taken
-before a Judge of Probate within said county for examination.</p>
-
-<p>Subscribed and sworn to before me this 20 day
-of June A.D. 1883</p>
-
-<p>J.A. Navarre, Probate Judge.</p>
-
-<p>D. Guilland</p>
-
-<p>COMMITMENT.</p>
-
-<p>James A. Balch the person named in the foregoing affidavit, being this day brought
-before me, Judge of the Probate Court Yakima county, for examination on a charge of
-insanity, and no jury being demanded either by him or by anyone in his behalf, and having heard the testimony of
-David Guilland witness  who has
-<add>in Yakima City</add>
-been acquinted with the accused during the time of the alleged insanity; and Drs. W.F. Morrison
-and J.O. Clark who <add>respectfully and</add> legally qualified physicians, after hearing the testimony of witnesses,
-after a personal examination of the accused, having made the certificate by law required; and being myself satisfied that the
-said James A. Balch is insane <del>(or idiotic)</del> and being further satisfied of the truth of all
-the matters set forth in the certificate of said Physicians, I do hereby order the said James A. Balch
-to be confined in the Hospital for the Insane at Fort Steilacoom, and
-the Sheriff of this county is charged with the execution of this order.</p>
-
-<p>The seal of the said <unclear></unclear>
-Witness my hand and seal this 20 day of June 1883
-James A. Navarre
-Probate Judge of Yakima County W.T.</p>
-
-<p>(Seal)
-Yakima County
-W.T.
-Probate Court</p>
-
-<p>After inquiry as by law required, I find the said James A. Balch, is unable to pay
-his expenses in the hospital at the sum of forty five 00/100 Dollars for over
-two months, he has relatives who - <unclear></unclear> (see code sec. 1632, 1655, 2697-8) have
-some property in Klickilat County and he has a wife Mrs. Hattie M. Balch
-in Syle Klickilat Co. W.T. Whereas my hand and seal this 20 day of June seal
-<unclear></unclear></p>
-
-<pb></pb>
-
-<p>No. 342</p>
-
-<p>Copy of order of
-COMMITMENT
-of James A Balch of
-Yakima County to the
-HOSPITAL + FOR + THE + INSANE,
-AT FORT STEILACOOM,
-Washington Territory</p>
-
-<p><del>To
-From..
-County.</del></p>
-
-<p>Date of admission June 8 1883</p>
-
-<p><del>I hereby certify that the within are true and correct copies of
-the original Complaint, Physicians Certificate and Commitment
-in the matter of . . . . .
-an insane (or idiotic) person, this day committed by me to the
-Hospital for the Insane of Washington Territory.</del></p>
-
-<pb></pb>
+<div1 type="case">
+<pb facs="hc.case.wa.0433.015"/>
 
 <p>Territory of Washington
 County of Yakima          } ss</p>
@@ -228,12 +152,12 @@ Guilland, and it appearing to the satisfaction of the said Judge
 that the said James A. Balch is insane and unsafe to be at large.
 Therefore, in the name of the United States, you are commanded
 forthwith to carry the said James A. Balch safely to the Hospital for
-the insane in Washington Territory, near Steillacoom, and place him in
+the insane in Washington Territory, near Steilacoom, and place him in
 charge of the proper officers of said hospital and make return of
 this writ with your donings thereon.</p>
 
-<p>(Seal of Probate Court
-of Yakima Co., W.T.)</p>
+<p>[Seal of Probate Court
+of Yakima Co., W.T.]</p>
 
 <p>WITNESS the Hon. J.A. Navarre, Judge of the
 Probate Court of Yakima County W.T. and the
@@ -243,7 +167,7 @@ day of June, 1883</p>
 <p>J.A. Navarre,
 Judge of the Ex-Officio Clerk Probate Court.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.015"/>
 
 <p>In RE
 James A. Balch,
@@ -252,13 +176,9 @@ Insane.</p>
 <p>Warrant of Commitment
 to Insane hospital.</p>
 
-               
-<div1 type="case">
-
-<pb/>
-
-
 </div1>
+
+
     
 </body>
 </text>
