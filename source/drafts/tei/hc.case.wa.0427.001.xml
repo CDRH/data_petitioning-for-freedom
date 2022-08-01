@@ -97,22 +97,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Thomas S. Brown, G. Geods, George 
-Dowing, Chas. Schubarb, Carl Jong
-Matson named in the process as
-C.J. Young and Peter J. Wegner</persName>
+<persName>Brown, Thomas S.</persName>
+</person>
+<person role="petitioner">
+<persName>Geods, G.</persName>
+</person>
+<person role="petitioner">
+<persName>Downing, George</persName>
+</person>
+<person role="petitioner">
+<persName>Schubard, Chas.</persName>
+</person>
+<person role="petitioner">
+<persName>Young, C.J.</persName>
+</person>
+<person role="petitioner">
+<persName>Wegener, Peter J.</persName>
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Hamilton, Thomas Jefferson</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>Junius Rochester</persName>
+<person role="attorney_petitioner">
+<persName>Rochester, Junius</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Metcalfe, James Bard</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Hon. C. D. Emery</persName><!-- insert name of attorney, if known -->
+<persName>Hunday, Charles F.</persName>
 </person>
 <person role="judge">
-<persName>Richard A. Jones</persName><!-- insert name of judge, if known -->
+<persName>Richard A. Jones</persName>
 </person>
 </listPerson>
             
