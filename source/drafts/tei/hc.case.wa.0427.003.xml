@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -84,8 +85,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Ledgerwood, W.E.</term>
-<term>Rochester, Junius</term>
 <term>Carter, D.A.</term>
+<term>Emery, Charles D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -114,13 +115,16 @@
 <persName>Young, C.J.</persName>
 </person>
 <person role="petitioner">
-<persName>Wegner, Peter J.</persName>
+<persName>Wegener, Peter J.</persName>
 </person>
 <person role="defendant">
 <persName>Hamilton, Thomas Jefferson</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Rochester, Junius</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Metcalfe, James Bard</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Hunday, Charles F.</persName>
@@ -139,7 +143,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc> 
+<change when="2022-08" who="#slb">reviewed</change>        
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -183,7 +188,7 @@ U.S. Commissioner.</p>
 
 <pb></pb>
 
-<p>In Re affliation of 
+<p>In Re application of 
 Thos S Brown etal
 for Habeas Corpus </p>
 
