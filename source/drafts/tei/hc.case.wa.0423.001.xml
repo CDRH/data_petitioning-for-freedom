@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -52,8 +53,8 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -98,13 +99,16 @@
 <persName>Gunderson, Gustave</persName>
 </person>
 <person role="defendant">
-<persName>Chochran, William</persName>
+<persName>Cochran, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Burke + Haller</persName>
+<persName>Haller, Granville Morris</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Burke, Thomas</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Ronald, J. T.</persName>
 </person>
 <person role="judge">
 <persName>Jones, Richard A.</persName>
@@ -120,7 +124,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>   
+<change when="2022-08" who="#slb">reviewed</change>      
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -145,7 +150,7 @@ Territor, and Judge of the Third Judicial District thereof.</p>
 <p>I.
 That Gustave Gunderson is unlawfully imprisoned, detained,
 confined and restrained of his liberty by William Cochrane, Sheriff of
-King County, Washington Territory, at the County Jail, in he said
+King County, Washington Territory, at the County Jail, in the said
 County of King and Territory of Washington.</p>
 
 <p>II.
@@ -159,7 +164,7 @@ That the said imprisonment, detention, confinement and restraint
 are illegal, and that the illegality consists in this, to-wit: that
 this applicant is imprisoned with out any process of the law, that no
 complaint of any sort has ever been made against him before any
-migistrate or other judicial officer, that no warrant has ever been
+magistrate or other judicial officer, that no warrant has ever been
 issued for his arrest, that he is held and confined, imprisoned,
 detained and restrained on the supposition that he is one Pete Olsen,
 person, to-wit: Gustave Gunderson.</p>
