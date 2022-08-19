@@ -12,18 +12,11 @@ class CsvToEs
     def assemble_collection_specific
 			@json["court_k"] = @row["Court Type"]
 			@json["outcome_k"] = @row["Petition Outcome"]
-      if @row["Repository"]
-        @json["repository_k"] = JSON.parse(@row["Repository"])
-      end
-      if @row["Site(s) of Significance"]
-        @json["sites_of_significance_k"] = JSON.parse(@row["Site(s) of Significance"])
-      end
+      @json["repository_k"] = check_and_parse("Repository")
+      @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
       @json["points_of_law_k"] = @row["Points of Law Cited"]
-
-      if @row["Petitioners"]
         # using this for people for now. may add more fields later.
-        @json["petitioners_k"] = JSON.parse(@row["Petitioners"])
-      end
+      @json["petitioners_k"] = check_and_parse("Petitioners")
 
 		end
 		
@@ -36,9 +29,7 @@ class CsvToEs
     end
   
     def subcategory
-      if @row["Petition Type"]
-        JSON.parse(@row["Petition Type"])
-      end
+      check_and_parse("Petition Type")
     end
   
     # def creator
@@ -74,9 +65,7 @@ class CsvToEs
     end
   
     def format
-      if @row["Record Type"]
-        JSON.parse(@row["Record Type"])
-      end
+      check_and_parse("Record Type")
     end
   
     def get_id
@@ -90,9 +79,7 @@ class CsvToEs
     end
     
     def keywords
-      if @row["Tags"]
-        JSON.parse(@row["Tags"])
-      end
+      check_and_parse("Tags")
     end
 
     def person
@@ -149,6 +136,12 @@ class CsvToEs
         built_text << value.to_s
       end
       return array_to_string(built_text, " ")
+    end
+
+    def check_and_parse(key)
+      if @row[key]
+        JSON.parse(@row[key])
+      end
     end
 
   end
