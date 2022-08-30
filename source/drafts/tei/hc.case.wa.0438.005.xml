@@ -92,35 +92,36 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>James McDevitt</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>William Cochrane</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner">
-<persName></persName>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Humes</persName>
+<persName>Andrews</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Thomas Burke</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judical District Court</orgName> <!-- insert court name -->
+<placeName>King County, Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2022-07" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
