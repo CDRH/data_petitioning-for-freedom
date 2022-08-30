@@ -47,17 +47,6 @@ class Datura::DataManager
       error_with_transform_and_post("#{e}", @error_iiif)
     end
 
-    # solr
-    if should_transform?("solr")
-      if @options["transform_only"]
-        res_solr = file.transform_solr
-      else
-        res_solr = file.post_solr(@solr_url)
-      end
-      if res_solr && res_solr.has_key?("error")
-        error_with_transform_and_post(res_solr["error"], @error_solr)
-      end
-    end
   end
   def post_batch_processing
     #output as json the hash associating cases and documents
