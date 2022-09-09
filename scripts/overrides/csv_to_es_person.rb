@@ -80,7 +80,7 @@ class CsvToEsPerson < CsvToEs
     def spatial
       places = []
       if @row["Birth Place"]
-        place = { "title" => JSON.parse(@row["Birth Place"]), "type" => "birth_place" }
+        place = { "name" => JSON.parse(@row["Birth Place"]), "type" => "birth_place" }
         places << place
       end
       places
