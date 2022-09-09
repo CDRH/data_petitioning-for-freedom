@@ -64,7 +64,7 @@ class CsvToEs
       "Cases"
     end
   
-    def subcategory
+    def category2
       if @row["Petition Type"]
         JSON.parse(@row["Petition Type"])
       end
@@ -196,12 +196,6 @@ class CsvToEs
   
     def source
       @row["Case Citation(s)"]
-    end
-
-    def subcategory
-      if @row["Petition Type"]
-        JSON.parse(@row["Petition Type"])
-      end
     end
 
     def subjects
