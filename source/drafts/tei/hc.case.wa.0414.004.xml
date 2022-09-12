@@ -53,9 +53,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4544</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -113,7 +113,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Greene, Roger S.</persName>
+<persName>Hill, G. A.</persName>
 </person>
 </listPerson>
             
@@ -128,14 +128,16 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
     
 <text>
+<body> 
+<div1 type="case">
 
-<body>  
-
+<pb facs="hc.case.wa.0414.013"/>
 <p>UNITED STATES OF AMERICA.</p>
 
 <p>Territory of Washington, } ss.
@@ -145,41 +147,44 @@ County of King.</p>
 and the keeper of the jail of said County</p>
 
 <p><del>at a Justice's Court hold at my office, in said county, for the trial of
-_____ for the offense hereinafter stated the said
-_____, in said county, committed
-_____
-and upon conviction, the said Court did adjudge and determine that said
-_____ should pay a fine of
-_____ dollars, and _____ dollars, costs, and stand committed until the
-same be paid: and, whereas, the said ___ has made
-default in the payment of the same. Therefore, you, the said
-are hereby commanded</del></p>
+<gap></gap> for the offense hereinafter stated the said
+<gap></gap> was convicted of having, on the
+<gap></gap>, 18 <gap></gap> in said county, committed
+<gap></gap>
+and upon conviction, the said Court did adjudge and determine that said <gap></gap>
+should pay a fine of <gap></gap>
+dollars, and <gap></gap> dollars, costs, and stand committed until the
+same be paid: and, whereas, the said <gap></gap> has made
+default in the payment of the same. </del>
 
-<p>WHEREAS, F.C. Heenan of  King Co W.T.
-has been brought this day before the undersigned, one of the Justices
-of the Peace in and for said County, charged on the oath of F.L. Baugs
-with having, on the 30th day of June 1885 in said County, committed
+<add>
+WHEREAS, F. C. Heenan of King Co. W. T.
+has been brought this da before the undersigned one of the Justices
+of the Peace in and for said County charged on the oath of F. L. Baugs
+with having, on the 30th day of June 1885 in said county, committed
 the offense of Grand Larceny, and in progress of the trial of said charge it
-appearing to the said Justice that the said F.C. Heenan has been guilty
-of the said offense, committed at the time and place aforesaid.
-And whereas the said F.C. Heenan has failed to give bail
-in the sum of Two Hundred and fifty dollars for his appearance to
-answer at the next term of the District Court, as required by me.</p>
+appearing to the said Justice that the said F. C. Heenan has been guilty 
+of the said offense committed at the time and place aforesaid:
+and whereas the said F. C. <add>Heenan</add> has failed to give bail
+in the sum of Two Hundren and fifty dollars for his appearance to
+answer at the next term of the District Court, as required by me.
+</add>
 
-<p>Therefore, you, the said Sheriff or Constable
-in the name of the United States
+Therefore, you, the said Sheriff or Constable
+<del>are hereby commanded</del> in the name of the United States
 forthwith to convey and deliver the said F.C. Heenan
 to the said keeper: and you, the said keeper, are hereby commanded to receive the said
 F.C. Heenan into your custody in said jail, and him
-there safely keep until the session of the District Court next following
-or until he shall be discharged by due course of law.</p>
+there <del>keep at labor for the space of <gap></gap>days, unless said
+fine and costs be sooner paid, or he shall thence be</del><add>safely keep until the session of the District Court next following
+or until he shall be </add> discharged by due course of law.</p>
 
 <p>Dated this 20th day of July 1885.
 G.A. Hill
 Justice of the Peace in and for
 King County W.T.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.014"/>
 
 <p>Territory of Washington } 
 County of King</p>
@@ -187,7 +192,7 @@ County of King</p>
 <p>I hereby certify that <del>I served the</del> <add>by virtue of the</add> within commitment I delivered the within named
 F.C. Heenan into the custody of <del>the Keeper of the Jail of</del> <add>J.H. McGraw,
 Sheriff of King County he being the Jailor of said King County</add>
-<del>Jail of ___ this ___ day of ___ 1888_</del>
+<del>Jail of <gap></gap> this <gap></gap>day of <gap></gap> 188<gap></gap></del>
 Dated July 20th 1885</p>
 
 <p>Committing to Jail + Mileage 20 $1.20</p>
@@ -208,13 +213,6 @@ J.H. McGraw
 Sheriff
 By D.R. McKinley
 Dep</p>
-
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
-
 
 </div1>
     
