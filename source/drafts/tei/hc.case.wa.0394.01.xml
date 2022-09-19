@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Frank Bugh vs. L. V. Wyckoff Writ of Habeaus Corpus</title>
+<title>Frank Burk vs. L. V. Wyckoff Writ of Habeaus Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -20,6 +20,7 @@
 <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
 <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
 <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Russell, Ellie" xml:id="edr">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -102,13 +103,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Frank Bugh</persName>
+<persName>Burk, Frank</persName>
 </person>
 <person role="defendant">
-<persName>L. V. Wyckoff</persName>
+<persName>Wyckoff, L. V.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>M. Naugbrodeay</persName>
+<persName>McNaught</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Leary</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
