@@ -17,6 +17,8 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -124,7 +126,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc><change when="2021-09" who="#cjy">edited</change>         
+<revisionDesc>
+<change when="2022-09" who="#brh">reviewed; edited</change>
+<change when="2021-09" who="#cjy">edited</change>         
 <change when="2019-01" who="#lkw">reviewed; edited</change>
 <change when="2018-01" who="#ka">reviewed; edited</change>
 <change when="2018-06" who="#djr">transcribed and encoded</change>
