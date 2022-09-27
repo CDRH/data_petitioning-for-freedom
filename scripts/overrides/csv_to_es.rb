@@ -103,8 +103,8 @@ class CsvToEs
     end
   
     def format
-      if @row["Record Type(s)"]
-        JSON.parse(@row["Record Type(s)"])
+      if @row["Source Material(s)"]
+        JSON.parse(@row["Source Material(s)"])
       end
     end
   
@@ -229,6 +229,12 @@ class CsvToEs
       end
 			places
 		end
+
+    def extent
+      if @json["document_types_k"]
+        @json["document_types_k"].count
+      end
+    end
 
     def text
       built_text = []
