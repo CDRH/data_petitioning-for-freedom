@@ -14,14 +14,14 @@ class CsvToEs
           name_and_id = data[0]
           value_list = data[1].split(", ")
           case_and_id = data[2]
-          name = /\["(.*)"\]/.match(data[0])[1]
-          person_name = /\["(.*)"\]/.match(name_and_id)[1]
-          person_id = /\((.*)\)/.match(name_and_id)[1]
-          case_name = /\[(.*)\]/.match(case_and_id)[1]
-          case_id = /\((.*)\)/.match(case_and_id)[1]
+          name = /\["(.*)"\]/.match(data[0])[1] if /\["(.*)"\]/.match(data[0])
+          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
+          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
+          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
+          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
           subject = "#{person_name} {#{person_id}}"
           source = object = "#{case_name} {#{case_id}}"
-          id = /\((.*)\)/.match(name_and_id)[1]
+          id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
           value_list.each do |value|
             age = { 
               "type" => type, 
@@ -128,12 +128,15 @@ class CsvToEs
       people = []
       if @row["RDF - person role case (from Case Role [join])"]
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
+          if !person_info
+            next
+          end
           data = person_info.split("|")
           role_list = data[1].split(", ")
           name_and_id = data[0]
           #get name/id out of brackets/quotes/parentheses
-          name = /\["(.*)"\]/.match(name_and_id)[1]
-          id = /\]\((.*)\)/.match(name_and_id)[1]
+          name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
+          id = /\]\((.*)\)/.match(name_and_id)[1] if /\]\((.*)\)/.match(name_and_id)
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
             people << person
@@ -157,15 +160,18 @@ class CsvToEs
       info = []
       if @row["RDF - person role case (from Case Role [join])"]
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
+          if !person_info
+            next
+          end
           data = person_info.split("|")
           name_and_id = data[0]
           role = data[1]
           case_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
-          person_name = /\["(.*)"\]/.match(name_and_id)[1]
-          person_id = /\((.*)\)/.match(name_and_id)[1]
-          case_name = /\[(.*)\]/.match(case_and_id)[1]
-          case_id = /\((.*)\)/.match(case_and_id)[1]
+          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
+          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
+          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
+          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
           subject = "#{person_name} {#{person_id}}"
           object = "#{case_name} {#{case_id}}"
           case_roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
