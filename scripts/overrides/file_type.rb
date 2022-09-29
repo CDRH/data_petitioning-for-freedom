@@ -40,7 +40,7 @@ class FileType
     begin
       transformed = transform_es(old_case_docs, new_case_docs)
     rescue => e
-      return { "error" => "Error transforming ES for #{self.filename(false)}: #{e}" }
+      return { "error" => "Error transforming ES for #{self.filename(false)}: #{e.full_message}" }
     end
     if transformed && transformed.length > 0
       transformed.each do |doc|
