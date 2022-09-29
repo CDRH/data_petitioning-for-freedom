@@ -2,16 +2,18 @@
 import pandas as pd
 from pathlib import Path
 import os
-from dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv
+load_dotenv()
+env_path = Path('.')/'.env'
+load_dotenv(dotenv_path=env_path)
 import json
 
-load_dotenv(find_dotenv())
 
-AIRTABLE_BASE_ID = os.environ.get("AIRTABLE_BASE_ID")
-API_KEY = os.environ.get("API_KEY")
+AIRTABLE_BASE_ID = os.getenv("AIRTABLE_BASE_ID")
+API_KEY = os.getenv("API_KEY")
 cwd = Path.cwd()
 # download the spreadsheets from command line using airtable_export
-command = f"bin/airtable-export source/json {AIRTABLE_BASE_ID} Cases People --key={API_KEY} --json"
+command = f"airtable-export source/json {AIRTABLE_BASE_ID} Cases People --key={API_KEY} --json"
 os.system(command)
 # Get all the spreadsheets' file paths
 cases_relative = "source/json/cases.json"
@@ -27,7 +29,7 @@ people_frame = people_frame.set_index("airtable_id")
 cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "Last Modified By", "People", "airtable_createdTime", "airtable_id", "Created", "Created By", "Encoding Incomplete?", "Relationships [join]", "Case Role [join]", "Petition Outcome Old"])
 people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modified", "Last Modified By", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2", "Case Role [join]"])
 # make sure what is being written to CSV is proper JSON
-for label in ["Petition Type", "Document Type(s)", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])", "Court Location(s)", "Petition Outcome", "Fate of Bound Party(s)", "Court Type(s)", "Court Name(s)", "Record Type(s)", "bound_party_age", "bound_party_race", "bound_party_sex"]:
+for label in ["Petition Type", "Document Type(s)", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])", "Court Location(s)", "Petition Outcome", "Fate of Bound Party(s)", "Court Type(s)", "Court Name(s)", "Source Material(s)", "bound_party_age", "bound_party_race", "bound_party_sex"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
 for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person role case (from Case Role [join])", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year", "person_nationality"]:
     people_frame[label] = people_frame[label].apply(json.dumps)
