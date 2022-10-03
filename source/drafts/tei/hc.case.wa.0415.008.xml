@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alfred Woods v. John H. McGraw. Testimony</title>
+<title>In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Doctor's Testimony</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alfred Woods v. John H. McGraw. Testimony</title>
-<date when="1885-10">October 1885</date>
+<title level="m" type="main">In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Doctor's Testimony</title>
+<date when="1885-10-27">October 27th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -106,13 +106,7 @@
 <persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Struve</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Haines</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McMicken</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -133,6 +127,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,7 +135,9 @@
 <text>
 
 <body>  
-
+<pb facs="hc.case.wa.0414.018"/>
+<div1 type="case">
+<p>IN THE DISTRICT COURT HOLDING TERMS AT SEATTLE</p>
 <p>IN RE A THE APPLICATION OF
 ALFRED WOODS FOR A WRIT
 OF HABEAS CORPUS</p>
@@ -169,7 +166,7 @@ CAN BE RELIEVED FROM SAID COUNTY JAIL HE WILL NOT GET WELL.</p>
 <p>Maurice McMicken
 NOTARY PUBLIC</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.020"/>
 
 <p>NO.4669</p>
 
@@ -197,14 +194,9 @@ By James Ludlow, Deputy.</p>
 <p>STRUVE, HAINES &amp; McMICKEN,
 ATTORNEYS for _____</p>
 
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
-
 
 </div1>
+
     
 </body>
 </text>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alfred Woods v. John H. McGraw. Affidavit of doctor</title>
+<title>In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Affidavit of doctor</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,8 +47,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alfred Woods v. John H. McGraw. Affidavit of doctor</title>
-<date when="1885-10">October 1885</date>
+<title level="m" type="main">In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Affidavit of doctor</title>
+<date when="1885-10-27">October 27th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -85,13 +85,13 @@
     
 <keywords scheme="lcsh" n="people">
 <term>McMicken, Maurice</term>
-<term>Smart, J.S.M.</term>
+<term>Smart, J. S. M.</term>
 <term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
-<term>King County</term>
+<term>King County, Washingtong</term>
 </keywords>
 
 </textClass>
@@ -105,13 +105,7 @@
 <persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Struve</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Haines</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McMicken</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -132,6 +126,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,7 +134,8 @@
 <text>
 
 <body>  
-
+<div1 type="case">
+<pb facs="hc.case.wa.0414.014"/>
 <p>In the District Court holding
 terms at Seattle.</p>
 
@@ -164,15 +160,14 @@ by the County Commissioner of
 said King County, and now
 since August of this year he
 has been City health officer
-of siad city of Seattle.</p>
-
+of said city of Seattle.</p>
 <p>That he is acquainted with
 the said Alfred Woods and that
 said Woods has been and is now
 under the medical care of
 this affiant.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.015"/>
 
 <p>That said Woods is now suffering
 from valvular disease
@@ -185,11 +180,11 @@ Woods will tend to aggravate
 the chronic bronchitis and
 thereby increase the danger
 of said Woods dying suddenly
-from the heart trouble. and
+from the heart trouble and
 that the location of said
-Woods is such <add>and</add> to aggravate
+Woods is such <add>as</add> to aggravate
 all his symptoms and hasten
-the disease, the furhter
+the disease, the further
 confinement of said Woods
 in said jail, where the atmosphere
 and surroundings are
@@ -197,22 +192,22 @@ cold and damp will
 greatly impair his nervous
 condition which will aggravate
 the said disease. That
-good <unclear>hygene</unclear> surroundings
-are made essential to his
+good hygenic surroundings
+are more essential to his
 recovery than medicine, and
 that he cannot recover if kept
 in confinement.</p>
 
 <p>J.S.M. Smart MD</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.016"/>
 
 <p>Subscribed and sworn to before me
 this 27th day of October 1885.
 Maurice McMicken
 Notary Public</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.017"/>
 
 <p>In District Court
 Seattle</p>
@@ -229,14 +224,12 @@ Dr. J.S.M. Smart</p>
 <p>FILED
 OCT 28 1885
 James Seavey, Clerk.
-By _____ Deputy Clerk.</p>
+By <gap></gap> Deputy Clerk.</p>
                
-<div1 type="case">
-
-<pb/>
 
 
 </div1>
+
     
 </body>
 </text>
