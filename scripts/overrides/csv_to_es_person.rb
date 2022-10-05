@@ -99,7 +99,7 @@ class CsvToEsPerson < CsvToEs
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
           if person_info
             data = person_info.split("|")
-            name_and_id = data[0]i
+            name_and_id = data[0]
             role_list = data[1].split(", ")
             case_and_id = data[2]
             #get names and id's out of brackets, quotes, and parentheses
