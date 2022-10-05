@@ -82,13 +82,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Ludlow</term>
+<term>Ludlow, James</term>
+<term>McNaught, Joseph</term>
+<term>McNaught, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle
-Alaska
-King County</term>
+<term>Seattle</term>
+<term>Alaska</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -96,22 +98,19 @@ King County</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Imhof</persName>
+<persName>Imhof, Henry</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wyckoff</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>Wyckoff, Lois V.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Hoyt, John Philo</persName>
 </person>
 </listPerson>
             
@@ -126,7 +125,7 @@ King County</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
-<change when="2022-09" who="#EDR">reviewed</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>

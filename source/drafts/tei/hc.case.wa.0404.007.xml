@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Henry Imhoff v. LV Wyckoff. Letter from 3rd District.</title>
-<date when="1881-11-10">November 11, 1881</date>
+<date when="1881-11-11">November 11, 1881</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -94,22 +95,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Imhoff</persName>
+<persName>Imhof, Henry</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wyckoff</persName>
-</person>
-<person role="attorney_petitioner">
-<persName></persName>
+<persName>Wyckoff, Lois V.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>John P. Hoyt</persName>
+<persName>Hoyt, John Philo</persName>
 </person>
 </listPerson>
             
@@ -124,6 +122,7 @@
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,14 +144,15 @@ the Application of
 Henry Imhoff to
 be discharged from 
 arrest</ab>
-<p>The <unclear></unclear> of 
+<p>The busienss of 
 the 2nd Judicial District requiring
 the immediate attendence of the
 Judge thereof in said district
 and making it impossible for
 him to hear the about matter
 it is asked that the same
-be and <add><unclear></unclear></add> hereby <del>is</del> continued till
+be on the above matter it is ordered that the same
+be and until hereby <del>is</del> continued till
 the 16th day of November A.D. 1881
 at <del>ten</del> <add>two</add> o'clock <del>A.M.</del> P.M.</p>
 <ab>Done at Chambers this 10th
