@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -94,7 +95,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Lars Brown</persName>
+<persName>Brown, Lars</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
@@ -124,6 +125,7 @@
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,17 +145,17 @@ County Type Date</ab>
 Case File Data Entry Form</ab>
 <ab>000|Control Number King _ _ _ _ _ / 3 | 120 | Access Code _ _ _ _ _ _ _
 140| Case Number 2886 | 200 | Date | 1882
-36x Name of Plaintiff(s) _____________
-37x Name of Defendant(s) _____________
-38x Probate Case Names _______________
-39x Subject(s) _______________________
-401| Sex of Defendant in Criminal Case ___ | 410| Type of Case Misc. | 420 | Decision of Court _____ |
-700 | County Code _ _ _ | 711 | Type _ _ _ (PRO, CIV, CRI, ADM, EQU)
+36x Name of Plaintiff(s) <gap></gap>
+37x Name of Defendant(s) <gap></gap>
+38x Probate Case Names <gap></gap>
+39x Subject(s) <gap></gap>
+401| Sex of Defendant in Criminal Case <gap></gap> | 410| Type of Case Misc. | 420 | Decision of Court<gap></gap>|
+700 | County Code <gap></gap>| 711 | Type<gap></gap> (PRO, CIV, CRI, ADM, EQU)
 90x | Description Application of hers Brown
 for a writ of Habeas Corpus
 Case File <del>missing</del> sent to Port
 Townsend Court
-910 | Location of 180x Number, Reel Number ________</ab>
+910 | Location of 180x Number, Reel Number <gap></gap></ab>
 
 
 </div1>

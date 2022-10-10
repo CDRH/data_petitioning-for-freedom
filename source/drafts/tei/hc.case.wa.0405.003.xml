@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,8 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Ludlow
-James Seavey</term>
+<term>Ludlow, James</term>
+<term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,7 +95,7 @@ James Seavey</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Lars Brown</persName>
+<persName>Brown, Lars</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
@@ -125,6 +125,7 @@ James Seavey</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,12 +139,12 @@ James Seavey</term>
 <div1 type="case">
 
 <pb/>
-<ab>Wells, Fargo amperstand Co's Express</ab>
+<ab>Wells, Fargo &amp; Co's Express</ab>
 <ab>Value, $5.00 Seattle, Wash. Ter. Aug 22 1882</ab>
 <ab>Recieved of J P Ludlow 
 Tax valued at Five Dollars 
 Addressed James Seavey
-H Tawuaind W.T.</ab>
+Port Townsend W.T.</ab>
 <p>Which we undertake to forward by usual conveyance, to the nearest point to destination reached by this Company, subject
 to the following conitions, namely: This Company is not to be liable for any loss or damage expect as forwarders only, nor for any loss or damage by fire by the
 dangers of navigation, stage or railway transportation (unless specially insured by this Company and so specified herein); nor by the act of God, nor of the enemies of the Government, 

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -82,8 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Ludlow
-James Seavey</term>
+<term>Ludlow, James</term>
+<term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,7 +97,7 @@ Port Townsend</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Lars Brown</persName>
+<persName>Brown, Lars</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
@@ -126,6 +127,7 @@ Port Townsend</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,9 +148,9 @@ Port Townsend</term>
 all papers in the Habeas Corpus Case of Lars Brown
 Filed in Dist Court at Seattle. Sent to Port Townsend
 Court, per order now of record in in this cause.</p>
-<ab><unclear></unclear>Aug 23rd 1882</ab>
+<ab><del>Port Townsend WT Aug 23rd 1882</del></ab>
 <ab>James Seavey 
-Clerk Dist Court
+<del>Attorney for</del>Clerk Dist Court
 Port Townsend</ab>
 
 
