@@ -53,9 +53,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4704</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -117,15 +117,16 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-10" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
