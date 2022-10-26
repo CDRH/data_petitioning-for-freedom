@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,13 +82,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Daniel Sprague</term>
+<term>Sprague, Daniel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle
-Portland
-Oregon</term>
+<term>Seattle</term>
+<term>Portland</term>
+<term>Oregon</term>
 </keywords>
 
 </textClass>
@@ -96,10 +96,10 @@ Oregon</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -108,7 +108,10 @@ Oregon</term>
 <persName></persName>
 </person>
 <person role="judge">
-<persName>T.H. Cann</persName>
+<persName>Green, Roger D.</persName>
+</person>
+<person role="authority_ordering_arrest">
+<persName>Cann, T. H.</persName>
 </person>
 </listPerson>
             
@@ -123,6 +126,7 @@ Oregon</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>

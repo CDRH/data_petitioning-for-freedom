@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,7 +82,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Seavey</term>
+<term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,25 +95,28 @@ Oregon</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>McNaught, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John. H. Mitchell</persName>
+<persName>McNaught, Joseph</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Mitchell, John H.</persName>
 </person>
 <person role="attorney_petitoner">
-<persName>Ferry</persName>
+<persName>Ferry, Elisha P.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Greene, Roger D.</persName>
 </person>
 </listPerson>
             
@@ -128,6 +131,7 @@ Oregon</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,13 +149,13 @@ Oregon</term>
 Territory.</ab>
 <ab>In the Matter of the Application
 of George R. Daly for Writ of
-Habe<del>u</del>as Corpus.</ab>
+Habe<del>u</del><add>a</add>s Corpus.</ab>
 <ab>Territory of Washington,
 County of King. | ss.</ab>
 <p>George R. Daly being first duly sworn upon oath deposes and says:
 that he has this day by petition in writing made application to the Hon.
 Roger S. Greene, <del><unclear></unclear></del> Judge of the above entitled court, for a writ
-of Habeas Corpus int he matter of his alleged illegal restraint of Liberty
+of Habeas Corpus in the matter of his alleged illegal restraint of Liberty
 by one J.H. McGraw, Sheriff of said County; that he is illegally
 held in custody in that he is not imprisoned under any commitment by
 any authority of law or court authorized to issue the same, or any mandate 
@@ -181,9 +185,9 @@ This 16th dat of March 1884.</ab>
 <ab>Notary Publicn in and for King County, W.T.</ab>
 <pb></pb>
 <ab>No. 3748
-In the District Court ___
+In the District Court <gap></gap>
 Judicial District, holding 
-terms at _____
+terms at <gap></gap>
 Washington Territory.</ab>
 <ab>In the matter of the application
 of George R Daly
@@ -196,8 +200,8 @@ Defendant</ab>
 Filed March 16th 1884
 James Seavey 
 Clerk.
-By _______ Deputy.</ab>
-<ab>McNaught, Ferry, McNaught amperstand Mitchell.
+By <gap></gap> Deputy.</ab>
+<ab>McNaught, Ferry, McNaught &amp; Mitchell.
 Attorneys for Petition</ab>
 
 </div1>
