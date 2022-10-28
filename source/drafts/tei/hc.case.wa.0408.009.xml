@@ -82,15 +82,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>L.T. Moody
-A. Newell
-Sprague Agust
-N.W. Owings</term>
+<term>Moody, L.T.</term>
+<term>Newell, A.</term>
+<term>Sprague, Daniel</term>
+<term>Agust</term>
+<term>Owings, N.W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Oregon
-Multinmah County</term>
+<term>Oregon</term>
+<term>Multinmah County</term>
 </keywords>
 
 </textClass>
@@ -98,10 +99,10 @@ Multinmah County</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -125,6 +126,7 @@ Multinmah County</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>

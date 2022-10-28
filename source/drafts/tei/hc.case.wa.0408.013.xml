@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,7 +82,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>A. Newell</term>
+<term>Newell, A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -94,22 +94,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Hart</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>McNaught, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ferry</persName>
+<persName>Ferry, Elisha P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John H. Mitchell</persName>
+<persName>Mitchell, John H.</persName>
 </person>
-<person role="attorney_defendant">
-<persName></persName>
+<person role="attorney_petitioner">
+<persName>McNaught, Joseph</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -127,6 +127,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,16 +148,16 @@ Wash. Terr.</ab>
 application of George
 R. Daly, for a writ
 of Habeas Corpus</ab>
-<p>Now comes George r. Daly the
+<p>Now comes George R. Daly the
 above named petitioner, by
-McNaught, Ferry, McNaught + Mitchell
+McNaught, Ferry, McNaught &amp; Mitchell
 <add>up the his <unclear></unclear> Corpus person</add>
-his attorney and <unclear></unclear> to the
+his attorney and <unclear>scripts</unclear> to the
 sufficency of the return made
 by J.H. McGraw, Sheriff of 
-King COunty, Wash. Terr.to
+King County, Wash. Terr.to
 the writ of Habwas Corpus herein
-this day, <unclear></unclear> say that the facts
+this day, and say that the facts
 set forth in the said return
 are not sufficent <add>lawful authority</add> to justify
 the imprisionment and detention
@@ -191,7 +192,7 @@ warrant show upon its face that it was duly issued according
 to law.</p>
 <ab>Geo R Daly</ab>
 <ab>McNaught Ferry McNaught
-+ Mitchell
+&amp; Mitchell
 Attorneys for Petitioner</ab>
 </div1>
     
