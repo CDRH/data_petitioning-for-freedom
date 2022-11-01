@@ -28,7 +28,7 @@ class FileCsv < FileType
     end
 
     def read_csv(file_location, encoding="utf-8")
-        CSV.read(file_location, {
+        CSV.read(file_location, **{
           encoding: encoding,
           headers: true
         })
