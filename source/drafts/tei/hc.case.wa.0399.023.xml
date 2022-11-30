@@ -2,7 +2,7 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0399.023">
     
     <teiHeader>
         <fileDesc>
@@ -21,6 +21,7 @@
                     <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
                     <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
                     <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+                <name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
                 </respStmt>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -44,7 +45,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0399.023</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,8 +55,8 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">John W. Harding Plantiff vs.G. W. L. Allion Sheriff Defendant</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">John W. Harding Plantiff vs.G. W. L. Allen Sheriff Defendant</title>
+                    <date when="1878">1878</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -103,10 +104,10 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>William Fox</persName>
+                        <persName>Hardan, John W.</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Allen, G. W. L.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +116,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, Joesph R.</persName>
                     </person>
                 </listPerson>
                 
@@ -131,6 +132,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        <change when="2022-11" who="#edr">reviewed</change>
         </revisionDesc>
         
     </teiHeader>
@@ -142,9 +144,9 @@
             <div1 type="case">
 <p> before ou hearing of allegations
 above it was Brown 
-for he here heard their
-works <unclear>faded and hard to read will make out what I can</unclear>
-wouldn;t <unclear></unclear> he
+for he here heard Brown
+works <unclear></unclear>
+wouldn't <unclear></unclear> he
 had no thoughts notable
 would do so. this was
 done differently
