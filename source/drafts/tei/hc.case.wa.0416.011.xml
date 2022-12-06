@@ -21,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -37,7 +37,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0416.010</idno>
+<idno type="project">hc.case.wa.0416.011</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,7 +48,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Execution</title>
-<date when="1885">January 23, 1885</date>
+<date when="1885-11-13">November 13th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,13 +80,10 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1885-11">November 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hutchinson, C. W.</term>
-<term>Harris, W.S.C.</term>
-<term>Greene, Roger S.</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
 </keywords>
@@ -103,7 +100,7 @@
 <persName>Hutchinson, C. W.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Harris, W. H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -112,7 +109,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Greene, Roger Sherman</persName>
 </person>
 </listPerson>
             
@@ -148,17 +145,17 @@
 Third Judicial District } ss. 
 No.4704</p>
 
-<p>To the Seriff of Pierce County, Greeting:</p>
+<p>To the Sheriff of Pierce County, Greeting:</p>
 
-<p>WHEREAS, C.H. Hutchinson 
-recovered judgment against W.H. Harris
+<p>WHEREAS, C. W. Hutchinson 
+recovered judgment against W. H. Harris,
 in the District Court for the Third Judicial District of Washington 
 Territory, holding terms at Seattle, on the 13th day of November 
-A.D. 1885 for the <del>sum of Dollars,
-with interest at the rate of until paid, 
-and</del> cost of suit, amounting to Seventeen and 40/100 ($17.40) Dollars.
-and Increased cost taxed at Jan and 75/100 ($10. 45/100) dollars.
-THEREFORE, in the name of the United States of America, you are hereby commanded forthwith to 
+A.D. 1885 for the <del>sum of</del> costs of Suit <del>Dollars,
+with interest at the rate of </del>until paid, 
+<del>and cost of suit,</del> amounting to Seventeen and 40/100 ($17.40) Dollars.
+</p>
+<p>THEREFORE, in the name of the United States of America, you are hereby commanded forthwith to 
 levy upon, seize and take into execution, the personal property of the said
 W.H. Harris
 in your County, sufficient subject to execution to satisfy said judgment, interest and increaed interest,
