@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Robina Grayson vs. Henry M. White. Criminal</title>
+<title>In re Marie Robina Grayson, Habeas Corpus. Order Withdrawing Exhibit</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Order Withdrawing Exhibit</title>
+<date when="1915-04-29">April 29, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2780MarieRobinaGrayson</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,9 +83,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Crosby, Frank L.</term>
-<term>Grayson, Marie Robina</term>
 <term>Lakin, Edward M.</term>    
-<term>Neterer, Jeremiah</term>
 <term>Thiel, C. M.</term>
 </keywords>
 
@@ -98,7 +96,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName>Grayson, Marie Robina</persName>
 </person>
 <person role="defendant">
 <persName>United States</persName>
@@ -110,21 +108,22 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2021-11" who="#xxx">transcribed and encoded</change>
+<revisionDesc>   
+<change when="2023-01" who="#lkw">review</change>      
+<change when="2021-11" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,7 +136,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.004"/>
 <p>UNITED STATES DISTRICT COURT
 WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION</p>
@@ -148,17 +147,17 @@ alias Marie Robina for
 a Writ of Habeas Corpus ) No. 2780
 ORDER WITHDRAWING EXHIBIT</p>
 
-<p>Upon the oral motion of the Unite States Attorney: 
+<p>Upon the oral motion of the United States Attorney: 
 IT IS HEREBY ORDERED that the government may 
-permanently withdraw respndent's exhibits introduced in 
+permanently withdraw respondent's exhibits introduced in 
 evidence in the above entitled cause, the same being the files 
 of the Bureau of Immigration.</p>
 <p>Dated this 29th day of April, 1915.</p>
-<ab>Jeremiah Neterer <lb/></ab>
+<ab>Jeremiah Neterer <lb/>United States District Judge</ab>
 <p>Received the above exhibits this 29th day of April,
 1915.</p>
 <ab>C M Thiel</ab>
-<pb/>
+<pb facs="hc.case.wa.0187.005"/>
 <p>No. 2780</p>
 <p>IN THE DISTRICT COURT
 OF THE UNITED STATES

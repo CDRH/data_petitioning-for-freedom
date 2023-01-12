@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Marie Robina Grayson v. Henry M. White. Criminal.</title>
+<title>In re Marie Robina Grayson, Habeas Corpus. Praecipe</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
+<title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Praecipe</title>
 <date when="1914">1914</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno>2780MarieRobinaGrayson</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -82,11 +82,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
 <term>Barbour, John L.</term>    
 <term>Cable, Ben J.</term>    
 <term>Crosby, Frank L.</term>
-<term>Dishbourne, G. P.</term>
 <term>Grayson, Marie Robine</term>
 <term>Hartman</term>
 <term>Leitch, S. E.</term>
@@ -114,8 +112,10 @@
 <persName></persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
-<persName>G. P. Disbourne</persName>
+<persName>Allen, Clay</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Dishbourne, G.  P.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -124,15 +124,16 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2021-12" who="#xxx">transcribed and encoded</change>
+<revisionDesc>  
+<change when="2023-01" who="#lkw">review</change>       
+<change when="2021-12" who="#pr">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,9 +146,9 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.013"/>
 <p>UNITED STATES DISTRICT COURT
-WESTERNDISTRCT OF WASHINGTON
+WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION</p>
 
 <p>In Re Marie Robina Grayson, 
@@ -168,7 +169,7 @@ Court of Appeals for the Ninth Circuit:</p>
 <p>Order that Writ of Habeas Corpus issue</p>
 <p>Stipulation and testimony filed July 6th,1914.</p>
 <p>Stipulation extending time of appeal filed Aug.7,1914.
-    <del>order extendding time of appeal</del></p>
+    <del>order extending time of appeal</del></p>
 <p>Order discharging petitioner</p>
 <p>Decision filed July 17,1914.</p>
 <p>8 1/2 Order extending time of appeal</p>
@@ -180,7 +181,9 @@ Court of Appeals for the Ninth Circuit:</p>
 <p>Order allowing Bill of Exceptions <add>Petitioner Bond
 on appeal x</add></p>
 <p>The following portions of exhibit No.1:</p>
-<pb/>
+
+<pb facs="hc.case.wa.0187.014"/>
+
 <p>1 Writ of Habeas Corpus</p>
 <p>2 Order of Deportation dated June 16, 1914.</p>
 <p>3 Letter dated June 4, 1914 transmitting record</p>
@@ -201,11 +204,13 @@ Acting Secretary</p>
 <p>14 Voluntary statement April 3, 1912</p>
 <p>15 Letter dated March 28, 1913.</p> 
 <p>16 Warrant of arrest dated Mar. 14, 1912.</p>    
-<p>17 Recommendatin that warant issue</p>
+<p>17 Recommendation that warant issue</p>
 <p>18 Transcript of testimony taken in longhand Feb. 5,1912.</p>
 <ab>Clay Allen <lb/> 
-U. S. Attorney
-G. P. Dishbourne</ab>
+U. S. Attorney<lb/>
+G. P. Dishbourne<lb/>
+Assistant U. S. Attorney
+</ab>
 <p>We waive the provisions of the Act approved February 
 13, 1911, and direct that you forward typewritten transcripts
 to the Circuit Court of Appeals for printing as 
@@ -214,7 +219,9 @@ provided under Rule 105 of this Court.</p>
 U. S. Attorney.</ab>
 <ab>G. P. Dishbourne <lb/>
 Assistant U. S. Attorney.</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0187.015"/>
+
 <p>2x</p>
 
 <p>No. 2780</p>
