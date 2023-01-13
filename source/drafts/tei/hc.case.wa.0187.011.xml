@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In re Marie Robina Grayson, Habeas Corpus</title>
+<title>In re Marie Robina Grayson, Habeas Corpus. Reply</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1914">1914</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Reply</title>
+<date when="1914-08">August 1914</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,13 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
 <term>Crosby, Frank L.</term>
-<term>Fishburn, George P.</term>
 <term>Lakin, Edward M.</term>
-<term>Merrick, Louis A.</term>
-<term>Shakespeare, Noah</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -101,18 +96,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName>Grayson, Marie Robina</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
-<persName>Louis A. Merrick</persName>
+<persName>Shakespeare, Noah</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Merrick, Louis A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
-<persName>George P. Fishburn</persName>
+<persName>Fishburn, George P.</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -121,7 +120,7 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
@@ -129,7 +128,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<change when="2023-01" who="#lkw">review</change>
+<change when="2022-01" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,7 +142,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.031"/>
 <p>UNITED STATES DISRICT COURT, WESTERN DISTRICT OF WASHINGTON, NORTHERN
 DIVISION.</p>
 
@@ -152,14 +152,14 @@ Robina, for a Writ of Habeas Corpus.</p>
 
 <p>No. 2780.
 REPLY.</p>
-<p><add>Front</add></p>
+<note><unclear>Iront</unclear></note>
 
 <p>Now comes Marie Robina Grayson the petitioner above named, and
 for Reply to the Return of Henry M. White, to the Writ of Habeas 
 Corpus, hereinbefore issued doth</p>
-<p>I.
-Deny each and every word, paragragh, sentence, and allegation 
-in that portion of the Reurn of the said Henry M. White, denominated
+<p>I.</p>
+<p>Deny each and every word, paragragh, sentence, and allegation 
+in that portion of the Return of the said Henry M. White, denominated
 "Affirmative Defense".</p>
 <p>WHEREFORE having fully answered the petitioner prays that she 
 may be discharged as hereinbefore she has prayed.</p>
@@ -182,13 +182,17 @@ petitioner in person.</p>
 <p>IT IS FURTHER STIPULATED AND AGREED by said attorneys that any 
 additional exhibits that were used upon the hearing may be made a 
 <fw>-1-</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0187.032"/>
+
 part of the record at any time before the Transcript of Record is 
 sent by the Clerk to the Circuit Court of Appeals.</p>
 <ab>Noah Shakespeare Louis A. Merrick <lb/>
 Attorneys for petitioner.</ab>
 <ab>Clay Allen G. P. Fishburn <lb/>
 Attorneys for respondent.</ab>
+
+<pb facs="hc.case.wa.0187.033"/>
 
 <p>2780</p>
 <p>UNITED STATES OF 

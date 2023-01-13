@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-    <title>In re Marie Robina Grayson, Habeas Corpus</title>
+    <title>In re Marie Robina Grayson, Habeas Corpus. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1914">1914</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+    <title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Order</title>
+<date when="1914-06">June 1914</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,15 +82,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
-<term>Crosby, Frank L.</term>
-<term>Grayson, Marie Robina</term>    
+<term>Crosby, Frank L.</term> 
 <term>Lakin, Edward M.</term>    
-<term>Merrick, Louis A.</term>
-<term>Neterer, Jeremiah</term>
-<term>Shakespeare, Noah</term>
 <term>Turner, Charles A.</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,34 +97,37 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName>Grayson, Marie Robina</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
-<persName>Louis A. Merrick</persName>
+<persName>Shakespeare, Noah</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Merrick, Louis A.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Jeremiah Neterer</persName>
+<persName>Neterer, Jeremiah</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<revisionDesc>      
+<change when="2023-01" who="#klw">review</change>   
+<change when="2022-01" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -143,7 +140,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.036"/>
 <p>UNITED STATES OF AMERICA. DISTRICT COURT FOR THE WESTERN DISTRICT OF
 WASHINGTON.</p>
 
@@ -179,14 +176,14 @@ Marie Robina Grayson, alias Marie Robina, to the end that such record
 having been inspected such order may be made therein as of right and 
 justice ought to be made.</p>
 <fw>-1-</fw>
-<pb/>
-    <p>6/27/14
-    S. E. L.</p>
+<pb facs="hc.case.wa.0187.037"/>
+    <note>6/27/14
+    S. E. L.</note>
 <p>IT IS FURTHER ORDERED that the said writ of habeas corpus contain
 a clause directing that the said Marie Robina Grayson, be enlarged
 and released from custody of the said Henry M. White, upon the filing 
 in the office of the Clerk of this Court, <add>in the sum of two thousand dollars</add> a bond, conditioned for the 
-obedience to any orders of this Court, in said matter made,by the said
+obedience to any orders of this Court, in said matter made, by the said
 Marie Robina Grayson, and in case of the discharge of said writ of 
 habeas corpus by this Court rendition by the said Marie Robina Grayson, 
 of her said body into the custody of the said Henry M. White, such bond
@@ -205,7 +202,7 @@ Allen <lb/>
 U.S. Atty.</ab>
 
 <fw>-2-</fw>
-<pb/>
+<pb facs="hc.case.wa.0187.038"/>
     <p>g O B - 5- 20 S X</p>
 <p>UNITED STATES OF 
 AMERICA
@@ -229,8 +226,8 @@ JUN 27, 1914</p>
 <ab>FRANK L. CROSBY, Clerk,
 By EML Deputy</ab>
 
-<p><add>Noah Shakespeare
-and</add> Louis A. Merrick
+<p>Noah Shakespeare
+and Louis A. Merrick
 Attorney for Marie Robina
 Everett, Washington</p>
 

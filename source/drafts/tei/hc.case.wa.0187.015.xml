@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-    <title>In re Marie Robina Grayson, Habeas Corpus</title>
+    <title>In re Marie Robina Grayson, Habeas Corpus. Stipulation</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-    <title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal</title>
-<date when="1914">1914</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+    <title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Stipulation</title>
+<date when="1914-08">August 1914</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,13 +82,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
 <term>Crosby, Frank L.</term>
 <term>Fishburne, George P.</term>
-<term>Grayson, Marie Robina</term>
 <term>Lakin, Edward M.</term>
-<term>Shakespeare, Noah</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -100,16 +96,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName>Grayson, Marie Robina</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
+<persName>Shakespeare, Noah</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -118,15 +114,16 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<revisionDesc> 
+<change when="2023-01" who="#lkw">review</change>        
+<change when="2022-01" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,11 +136,11 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.043"/>
 <p>UNITED STATES DISTRICT COURT
 WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION</p>
-<p>Front</p>
+<note>Iron</note>
 <p>In Re Marie Robina Grayson, 
 alias Marie Robina, for
 WRIT OF HABEAS CORPUS. )
@@ -161,12 +158,14 @@ herein is given to the date last mentioned <add>to</add> enter an appeal
 in this cause.</p>
 <p>And the bond heretofore given by the above named 
 petitioner is hereby extended to August 21, 1914.</p>
-<p>Signed in duplicate this day of August, 1914.</p>
+<p>Signed in duplicate this <gap/> day of August, 1914.</p>
 <ab>Noah Shakespeare <lb/>
 Attorney for Petitioner</ab>
 <ab>Clay Allen <lb/>
 Attorney for respondent.</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0187.044"/>
+
 <p>2X</p>
 <p>No. 2780</p>
 <p>IN THE DISTRICT COURT 
