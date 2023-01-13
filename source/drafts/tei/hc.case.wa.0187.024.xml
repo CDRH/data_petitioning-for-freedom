@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In re Marie Robina Grayson, Habeas Corpus</title>
+<title>In re Marie Robina Grayson, Habeas Corpus. Letter from Noah Shakespeare to Charles A. Turner</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Marie Robina Grayson vs. Henry M. White. Criminal.</title>
-<date when="1914">1914</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In re Marie Robina Grayson, Habeas Corpus. Letter from Noah Shakespeare to Charles A. Turner</title>
+<date when="1914-06-01">June 1, 1914</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,8 +82,6 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Grayson, Marie Robina</term>
-<term>Shakespeare, Noah</term>
 <term>Turner, Charles A.</term>
 </keywords>
 
@@ -100,13 +98,13 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Marie Robina Grayson</persName>
+<persName>Grayson, Marie Robina</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Noah Shakespeare</persName>
+<persName>Shakespeare, Noah</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -118,15 +116,16 @@
             
 <listOrg>
 <org>
-    <orgName>Western District Court of Washington, Northern Division.</orgName>
+    <orgName>Western District Court of Washington, Northern Division</orgName>
     <placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<revisionDesc>   
+<change when="2023-01" who="#lkw">review</change>      
+<change when="2022-01" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,16 +138,16 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0187.081"/>
 <p>4250-94</p>
 
-<p>NOAH SHAKESPEARE
+<p>NOAH SHAKESPEARE<lb/>
 ATTORNEY AND COUNSELLOR AT LAW</p>
 <p>Everett, Washington, June 1, 1914.</p>
-<p>n. g.</p>
+<note>n. g.</note>
 
-<p>Mr. C. A. Turner, 
-Immigrant Inspector, 
+<p>Mr. C. A. Turner, <lb/>
+Immigrant Inspector, <lb/>
 Everett, Wash.</p>
 
 <p>Dear Sir:</p>
