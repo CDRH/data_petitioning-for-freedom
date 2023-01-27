@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>In Re Petition of Rose Baker for a Writ of Habeas Corpus.</title>
+<title>In Re Petition of Rose Baker for a Writ of Habeas Corpus. Affidavit</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Paredes, Rosalia" xml:id="rp">Rosalia Paredes</name>
-
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1000">1912</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In Re Petition of Rose Baker for a Writ of Habeas Corpus. Affidavit</title>
+<date when="1912-06-06">June 6, 1912</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -78,13 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">June 1912</date></term>
+<term><date when="1912-06">June 1912</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Baker, Rose</term>
 <term>Engle, A. W.</term>    
-<term>Snook, Herbert E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -96,19 +94,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Rose Baker</persName>
+<persName>Baker, Rose</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Sullivan, John L.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Herbert E. Snook</persName>
+<persName>Snook, Herbert E.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>C. H. Hanford</persName>
+<persName>Hanford, C. H.</persName>
 </person>
 </listPerson>
             
@@ -121,8 +119,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<revisionDesc>  
+<change when="2023-01" who="#lkw">review</change>       
+<change when="2021-09" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,16 +134,16 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.cae.wa.0174.006"/>
 <p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT
 OF WASHINGTON NORTHERN DIVISION.</p>
 <p>In re Petition of Rose Baker 
 for a Writ of Habeas Corpus.</p>
-<p>No. 2185
+<p>No. 2185<lb/>
 Affidavit in Forma Pauperis.</p>
 
-<p>State of Washington.
-SS.
+<p>State of Washington.<lb/>
+SS.<lb/>
 County of King.</p>
 <p>Rose Baker being first duly sworn on 
 oath says: That she is the petitioner above named; that she
@@ -158,15 +157,16 @@ the United States Marshal to serve the Writ of Habeas Corpus
 without fees being first paid.</p>
 <ab>Rose Baker.</ab>
 <p>Subscribed and sworn to before me this 6th day of June, A.D.1912.</p>
-<ab>Herbert E. Snook
+<ab>Herbert E. Snook<lb/>
 Notary Public in and for the State of 
 Washington residing at Seattle.</ab>
 <p>Let the petition befiled and the Writ be served without fee as 
 above prayed for, returnable before me June <gap/> at <gap/>
 o'clock in the <gap/> noon.
 Here this 6th day of June, A.D.1912.</p>
-<ab>United States District Judge.</ab>
-<pb/>
+<ab><gap/> United States District Judge.</ab>
+
+<pb facs="hc.cae.wa.0174.007"/>
 <p>No 2185</p>
 <p>IN THE DISTRICT COURT 
 OF THE UNITED STATES 
@@ -181,12 +181,12 @@ for a Writ of Habeas Corpus.</p>
 <p>FILED IN THE 
 U. S.  District Court,
 Western Dist. of Washington.
-JUN 6f 1912</p>
+JUN 6 1912</p>
 <ab>A W Engle Clerk
-By <unclear/> Deputy.</ab>
-<p>HERBERT E. SNOOK
-Attorney for Petitioner.
-537-539 Burke Bldg.
+By <unclear>S</unclear> Deputy.</ab>
+<p>HERBERT E. SNOOK<lb/>
+Attorney for Petitioner.<lb/>
+537-539 Burke Bldg.<lb/>
 Seattle, King County, Washington</p>
 <p>Menning Publishing and Label Co. </p>
 </div1>
