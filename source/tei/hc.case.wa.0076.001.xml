@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Walker, John San Francisco and Pedro O'Brien v. George Finleyson. Application for Writ of Habeas Corpus</title>
+<title>In the matter of the application of George Walker, John San Francisco and Pedro O'Brien for a Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Russell, Ellie" xml:id="edr">Cory James Young</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -127,6 +128,7 @@
 <revisionDesc><change when="2021-09" who="#cjy">edited</change>         
 <change when="2018-01" who="#ini">reviewed; edited</change>
 <change when="2018-10" who="#lkw">transcribed and encoded</change>
+<change when="2023-01" who="edr"></change>
 </revisionDesc>
 
 </teiHeader>
