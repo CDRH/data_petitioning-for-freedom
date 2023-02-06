@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lee Kee v. James H. Woolery. Writ of Habeas Corpus</title>
+<title>In the Matter of the Application of Lee Kee for a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -18,6 +18,7 @@
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
 <name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -51,7 +52,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lee Kee v. James H. Woolery. Writ of Habeas Corpus</title>
+<title level="m" type="main">In the Matter of the Application of Lee Kee for a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <date when="1885-06-01">June 1, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -76,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -89,6 +90,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Ludlow, James P.</term>
+<term>Seavey, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -112,14 +114,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Greene, Roger S.</persName>
+<persName>Greene, Roger Sherman</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -129,6 +131,7 @@
 <change when="2020-05" who="#lkw">encoded</change>
 <change when="2018" who="#mn">transcribed</change>
 <change when="2023-01" who="#edr">reviewed</change>
+<change when="2023-02" who="#brh">reviewed and edited</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,7 +142,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0075.004"/>
 <p>IN THE DISTRICT COURT,
 Of the Third Judicial District of Washington Territory, hold-
 ing Terms at Seattle, for the Counties of King and Kitsap.</p>
@@ -150,7 +153,8 @@ ing Terms at Seattle, for the Counties of King and Kitsap.</p>
 of <del>King County</del> Police of said City, Greeting:</p>
 
 <p>We command you, that you have the body of Lee Kee
-by you imprisoned and detained as it is said, together with the time and cause of such impris-onment and detention, by whatsoever name said Lee Kee 
+by you imprisoned and detained as it is said, together with the time and cause of such impris-
+onment and detention, by whatsoever name said Lee Kee 
 shall be called or charged, before the HON. ROGER S. GREENE, Judge of the aforesaid Court at 
 Seattle in the Court House of said 
 City on the 1st day of June 1885, forthwith 
