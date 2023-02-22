@@ -47,7 +47,7 @@
 <bibl>
 <title level="m" type="main">In the Matter of the Application of Margaret Roy for a Writ of Habeas Corpus. Marshal's Return</title>
 <date when="1919-01-27">January 27, 1919</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -84,6 +84,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Sargent, John H.</term>
 <term>Boyle, John M.</term>
+<term>Tobey, Edwin R.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,10 +103,14 @@
 </person>
 <person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Moore, Ben L.</persName>
+</person>
+<person role="attorney_defendant">
 <persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
@@ -115,15 +120,15 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2023-01" who="#lkw">reviewed; edited</change>
 <change when="2019-11" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
@@ -135,11 +140,23 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.wa.0203.004"/>
+<pb facs="#hc.case.wa.0203.012"/>
+
+<p>Marshal's Return</p>
+
+<p>In obedience to the within writ, I served Henry M. White, U.S. Commissioner of Immigration, by leaving a true and correct copy of this writ with John H. Sargent, Assistant U.S. Commissioner of Labor, personally.</p>
+
+<p>Dated Seattle, Wash. January 27th, 1919.</p>
+
+<p>John M. Boyle,</p>
+<p>United States Marshal.</p>
+<p>By Edwin R. Tobey Deputy.</p>
+<p>Marshal's fees $2.12</p>
+
 
 <p>4515</p>
 
-<p>50B-7-237</p>
+<p>GOB-7-237</p>
 
 <p>Tx</p>
 
@@ -151,19 +168,6 @@
 
 <p>F.M. Harshberger, Clerk</p>
 <p>By S.E. Leitch Deputy</p>
-
-<p>Marshal's Return</p>
-
-<p>In obedience to the within writ, I served Henry M. White, U.S. Commissioner of Immigration, by leaving a true and correct copy of this writ with John H. Sargent, Assistant U.S. Commissioner of Labor, personally.</p>
-
-<p>Dated Seattle, Wash. January 27th, 1919.</p>
-
-<p>John M. Boyle,</p>
-<p>United States Marshal.</p>
-
-<p>Marshal's fees $2.12</p>
-
-<p>By <unclear></unclear> P. Tobey Deputy.</p>
 
 </div1>
     
