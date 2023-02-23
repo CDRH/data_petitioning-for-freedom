@@ -47,7 +47,7 @@
 <bibl>
 <title level="m" type="main">In the Matter of the Application of Janet Mackay for a Writ of Habeas Corpus. Certificate</title>
 <date when="1919-03-04">March 4, 1919</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -101,10 +101,14 @@
 </person>
 <person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Moore, Ben L.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
@@ -114,15 +118,15 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2023-01" who="#lkw">reviewed; edited</change>
 <change when="2019-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
@@ -134,7 +138,7 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.wa.0204.012"/>
+<pb facs="hc.case.wa.0204.033"/>
 
 <p>Certificate</p>
 
@@ -143,7 +147,7 @@
 
 <p>SS</p>
 
-<p>I, F.M. Harshberger, Clerk of the District Court of the United States for the Western District of Washington, do hereby certify that the foregoing attached papers constitute the judgement roll in the foregoing entitled cause, No. 4517</p>
+<p>I, F. M. Harshberger, Clerk of the District Court of the United States for the Western District of Washington, do hereby certify that the foregoing attached papers constitute the judgement roll in the foregoing entitled cause, No. 4517</p>
 
 <p><del>wherein</del> In re Janet Mackey for writ of Habeas Corpus.</p>
 
@@ -151,7 +155,7 @@
 
 <p>In testimony whereof, I have hereunto set my hand and affixed the seal of said District Court, this the 4th day of March, 1919</p>
 
-<p>F.M. Harshberger</p>
+<p>F. M. Harshberger</p>
 <p>Clerk.</p>
 
 </div1>
