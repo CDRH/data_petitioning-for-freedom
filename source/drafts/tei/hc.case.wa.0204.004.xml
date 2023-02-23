@@ -47,7 +47,7 @@
 <bibl>
 <title level="m" type="main">In the Matter of the Application of Janet Mackay for a Writ of Habeas Corpus. John H. Sargent Sworn</title>
 <date when="1919-02-03">February 3, 1919</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -101,10 +101,14 @@
 </person>
 <person role="attorney_petitioner">
 <persName>Pierce, Ralph S.</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Vanderveer, George F.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Moore, Ben L.</persName>
+</person>
+<person role="attorney_defendant">
 <persName>Saunders, Robert C.</persName>
 </person>
 <person role="judge">
@@ -114,15 +118,15 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2023-01" who="#lkw">reviewed; edited</change>
 <change when="2019-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
@@ -134,7 +138,7 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.wa.0204.004"/>
+<pb facs="hc.case.wa.0204.014"/>
 
 <p>The United States of America Western District of Washington</p>
 <p>Northern Division</p>
@@ -149,12 +153,12 @@ return and answer, is familiar with the contents thereof
 and that the matters and facts therein set forth and 
 alleged are true.</p>
 
-<p><signatures>John H Sargent</signatures></p>
+<p>John H Sargent</p>
 
 <p>Subscribed and sworn to before me this 3rd day of 
 February, 1919.</p>
 
-<p><signatures>S.E. Leitch</signatures></p>
+<p>S. E. Leitch</p>
 <p>Deputy Clerk, U.S. District Court,
  Western District of Washington</p>
 
