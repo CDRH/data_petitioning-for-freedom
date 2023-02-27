@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nora Sullivan v. Henry M. White. Return</title>
+<title>In the Matter of the Application of Nora Sullivan for a Writ of Habeas Corpus. Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Nora Sullivan v. Henry M. White. Return</title>
+<title level="m" type="main">In the Matter of the Application of Nora Sullivan for a Writ of Habeas Corpus. Return</title>
 <date when="1919-08-18">August 18, 1919</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -89,8 +89,8 @@
 <keywords scheme="lcsh" n="places"> 
 <term>Butte, Montana</term>
 <term>Seattle, Washington</term>
-<term>Warmsprings, Montana</term>
 <term>Ellis Island, New York</term>
+<term>Warmsprings, Montana</term>
 </keywords>
 
 </textClass>
@@ -104,11 +104,10 @@
 <persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Costello, M.J.</persName>
+<persName>Costello, M. J.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Saunders, Robert C.</persName>
-<persName>Unknown</persName>
 </person>
 <person role="judge">
 <persName>Neterer, Jeremiah</persName>
@@ -117,15 +116,15 @@
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States, Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>District Court of the United States, Western District of Washington, Northern Division</orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2018-01" who="#ini">reviewed; edited</change>
+<change when="2023-01" who="#lkw">reviewed; edited</change>
 <change when="2019-12" who="#sjs">transcribed and encoded</change>
 </revisionDesc>
 
@@ -137,41 +136,21 @@
                
 <div1 type="case">
 
-<pb facs="#hc.case.wa.0207.001"/>
+<pb facs="hc.case.wa.0207.001"/>
 
-<p>No. 4764</p>
-
-<p>In the District Court of the United States for the Western District of Washington.</p>
-<p>Northern Division</p>
-
-<p>In the matter of the Application of Nora Sullivan, for a Writ of Habeas Corpus.</p>
-
-<p>Return</p>
-
-<p>Tx</p>
-
-<p>Filed in the United States District Court</p>
-<p>Western District of Washington</p>
-<p>Northern Division</p>
-
-<p>Aug 17 1919</p>
-
-<p>F.M. Harshberger</p>
-<p>F.M. Harshberger, Clerk</p>
-
-<p>By <gap></gap> Deputy</p>
-
-<p>No. 4764</p>
-
-<p>Return</p>
-
+<p>In the District Court of the United States for the Western District of Washington Northern Division</p>
 <p>In the Matter of the Application of Nora Sullivan, for a Writ of Habeas Corpus.</p>
+<p>No. 4764</p>
 
-<p>Comes now Henry M. White, as Commissioner of Immigration at Seattle, Washington, and for return to the petition and order to show caue herein:</p>
+<p>Return</p>
+
+
+
+<p>Comes now Henry M. White, as Commissioner of Immigration at Seattle, Washington, and for return to the petition and order to show cause herein:</p>
 
 <p>I.</p>
 
-<p>Denies each and every allegation of the I., II., III., VI., IV., <add>VII.,</add> and VIII. paragraphs of said petition, except that the petitioner Nora Sullivan is an alien, and denies each and every allegation of paragraph V. of said petition, except that the petitioner at one time was an inmate of Warmsprings Hospital, near Butte, Montana.</p>
+<p>Denies each and every allegation of the I., II., III., VI., IV., VII., and VIII. paragraphs of said petition, except that the petitioner Nora Sullivan is an alien, and denies each and every allegation of paragraph V. of said petition, except that the petitioner at one time was an inmate of Warmsprings Hospital, near Butte, Montana.</p>
 
 <p>For a further return, the Commissioner of Immigration denies that he has any <del>further</del> knowledge or information sufficient to form a belief as to any of the allegations set forth in the affidavit of Mary Sullivan attached to the petition herein.</p>
 
@@ -181,18 +160,21 @@
 
 <p>That respondent Henry M. White is now and at all times herein mentioned and in the petition herein has been United States Commissioner of Immigration at Seattle, Washington.</p>
 
+<fw>-1-</fw>
+
+<pb facs="hc.case.wa.0207.002"/>
 <p>II.</p>
 
 <p>That he holds the said petitioner Nora Sullivan in custody by virtue of a certain warrant issued by the Secretary of Labor of the United States, a copy of which is hereto attached, marked Exhibit "A" and made a part hereof as if herein set forth at length.</p>
 
-<p>John H Sargent</p>
-<p>Asst. Commissioner of Immigration.</p>
+<p>John H Sargent<lb/>
+Asst. Commissioner of Immigration.</p>
 
-<p>Robt C Saunders</p>
-<p>United States Attorney</p>
+<p>Robt C Saunders<lb/>
+United States Attorney</p>
 
-<p>FR. Conway</p>
-<p>Assistant United States Attorney.</p>
+<p>F R. Conway<lb/>
+Assistant United States Attorney.</p>
 
 <p><gap></gap></p>
 <p>Attorneys for Respondent.</p>
@@ -212,7 +194,7 @@
 <p>F.M. Harshberger</p>
 <p>Clerk, U.S. Dist. Court, Western Dist. of Washington</p>
 
-<pb/>
+<pb facs="hc.case.wa.0207.003"/>
 
 <p>Exhibit A</p>
 
@@ -238,6 +220,31 @@
 
 <p>John W. Abercrombie,</p>
 <p>Acting Secretary of Labor.</p>
+
+<pb facs="hc.case.wa.0207.004"/>
+
+<p>No. 4764</p>
+
+<p>In the District Court of the United States for the Western District of Washington.</p>
+<p>Northern Division</p>
+
+<p>In the matter of the Application of Nora Sullivan, for a Writ of Habeas Corpus.</p>
+
+<p>Return</p>
+
+<p>Tx</p>
+
+<p>Filed in the United States District Court</p>
+<p>Western District of Washington</p>
+<p>Northern Division</p>
+
+<p>Aug 17 1919</p>
+
+<p>F. M. Harshberger</p>
+<p>F. M. Harshberger, Clerk</p>
+
+<p>By <gap></gap> Deputy</p>
+
 
 </div1>
     
