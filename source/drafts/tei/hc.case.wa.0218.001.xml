@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0218.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0218.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gussie Goldman Woods v. Henry M. White, Commissioner of Immigration</title> <!-- replace with name of case; type of document -->
+<title>In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus. Writ of Habeas Corpus</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,8 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0218.001</idno> <!-- replace with number from spreadsheet -->
-
+<idno type="project">hc.case.wa.0218.001</idno> 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,15 +43,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gussie Goldman Woods v. Henry M. White, Commissioner of Immigration. Writ of Habeas Corpus.</title><!-- replace with name of case; type of document -->
-<date when="1915-02-24">February 24, 1915</date><!-- replace with date in both sortable and human readable forms -->
-<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+<title level="m" type="main">In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
+<date when="1915-02-24">February 24, 1915</date>
+<note type="project">Our transcription is based on a digital image.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration, Seattle Branch, Washington</repository><!-- insert name of repository -->
-<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection><!-- insert name of collection -->
-<idno></idno><!-- insert name of repository's identifier -->
+<repository>National Archives and Records Administration, Seattle Branch, Washington</repository>
+<collection>RG 21: US District Court, Western Division of Washington, Seatle</collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -69,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -77,18 +76,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1915-02"></date>24 February 1915</term><!-- insert date of court term -->
+<term><date when="1915-02"></date>February 1915</term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gussie Goldman Woods</term>
-<term>Henry M. White</term>
-<term>Frank L. Crosby</term>
-<term>Edm Lakin</term><!-- insert names of other people mentioned in document -->
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>King County, Washington</term> 
 </keywords>
 
 </textClass>
@@ -96,34 +93,37 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>Gussie Goldman Woods</persName><!-- insert name of petitioner, if a person -->
+<persName>Woods, Gussie Goldman</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White, Commissioner of Immigration</persName><!-- insert name of defendant, if a person -->
+<persName>White, Henry M.</persName>
 </person>
-<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName>George Vanderveer</persName>
+<person role="attorney_petitioner">
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName><!-- insert name of attorney, if known -->
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward H. Cushman</persName><!-- insert name of judge, if known -->
+<persName>Cushman, Edward H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName> <!-- insert court name -->
-<placeName>Western District of Washington, Northern Division</placeName> <!-- insert court location -->
+<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName> 
+<placeName></placeName> 
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022" who="AS">transcribed.</change> <!-- change description, initials, and date -->
+<revisionDesc>  
+<change when="2023-02" who="lkw">review</change>        
+<change when="2022" who="AS">transcribed.</change> 
 </revisionDesc>
 
 </teiHeader>
@@ -134,7 +134,7 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0218.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.wa.0218.002"/> 
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON 
 NORTHERN DIVISION.</p>
@@ -142,7 +142,7 @@ NORTHERN DIVISION.</p>
 OF GUSSIE GOLDMAN WOODS, ALIAS
 GUSSIE GOLDMAN, for a WRIT OF 
 HABEAS CORPUS.</p>
-<p>No. 2960 
+<p>No. 2960 <lb/>
 WRIT OF HABEAS CORPUS.</p>
 <p>UNITED STATES OF AMERICA, to Henry M. White,
 Commissioner of Immigration:</p>
@@ -150,31 +150,27 @@ Commissioner of Immigration:</p>
 Court that you are unlawfully detaining and unlawfully depriving
 of her liberty one Gussie Goldman Woods, alias Gussie 
 Goldman, and we being willing that the cause of her detention
-should be inquired into the end that justice may be
+should be inquired into to the end that justice may be
 afforded her, -</p>
 <p>NOW, THEREFORE, you are COMMANDED and SOLEMNLY ENJOINED
-to produce before this court at a regular session there-
-of appointed to be holden at the Federal Building in the City
+to produce before this court at a regular session thereof appointed to be holden at the Federal Building in the City
 of Seattle, in said district, on the 24th day of February,
 1915, the body of the said Gussie Goldman Woods, alias Gussie
 Goldman, together with the cause of her detention fully and
 at large set forth, and that you then and there this Writ have.</p>
 <p>You are further Commanded that you do forthwith
-certify unto this court all of the records, documents and pro-
-ceedings had before you, or before any officer of the Immigra-
-tion Service in this district, or in your office, relating
+certify unto this court all of the records, documents and proceedings had before you, or before any officer of the Immigration Service in this district, or in your office, relating
 to the deportation of the said Gussie Goldman Woods, alias
-Gussie Goldman, to the end that such things having been ex-
-amined such order may be made therein as of right and justice
-<pb></pb>
+Gussie Goldman, to the end that such things having been examined such order may be made therein as of right and justice
+
+<pb facs="hc.case.wa.0218.003"/> 
+
 ought to be made.</p>
 <p>WITNESS The Honorable Edward E. Cushman, Judge of
 said court, and the seal thereof, at Seattle, in said district, 
 on the 17th day of February, 1915.</p>
-<p>FRANK L. CROSBY</p>
-<p>Clerk.</p>
-<p>By Edm Lakin</p>
-<p>Deputy.</p>
+<p>FRANK L. CROSBY<lb/>Clerk.</p>
+<p>By Edm Lakin<lb/>Deputy.</p>
 </div1>
     
 </body>

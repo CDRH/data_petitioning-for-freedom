@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gussie Goldman Woods v. Henry M. White, Stipulation.</title>
+<title>In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus, Stipulation</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gussie Goldman Woods v. Henry M. White, Stipulation.</title>
+<title level="m" type="main">In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus, Stipulation</title>
 <date when="1915-02-26">February 2, 1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,17 +82,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gussie Goldman Woods</term>
-<term>George Vanderveer</term>
-<term>Cummings</term>
-<term>Clay Allen</term>
-<term>Henry M. White</term>
-<term>Frank L. Crosby</term>
-<term>Edm Lakin</term>
+<term>Crosby, Frank L.</term>
+<term>Lakin, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>District Court of the United States for the Western District of Washington, Northern Division</term>
 <term>Seattle, Washington</term>
 <term></term>
 </keywords>
@@ -100,35 +94,38 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Gussie Goldman Woods</persName>
+<persName>Woods, Gussie Goldman</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White, Commissioner of Immigration</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>George Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward H. Cushman</persName>
+<persName>Cushman, Edward H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington, Northern Division</placeName>
+<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName> 
+<placeName></placeName> 
 </org>
 </listOrg>   
-</particDesc>
+</particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>       
+<change when="2023-02" who="lkw">review</change>          
 <change when="2022-01" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
@@ -142,7 +139,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0218.020"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
@@ -163,21 +160,18 @@ attorneys for the petitioner herein, and Clay Allen, United
 States District Attorney for the Western District of
 Washington, attorney for Henry M. White, Commissioner of
 Immigration, respondent herein, that the above named petitioner
-be discharged from further custody, and that the bond hereto-
-fore filed by her to secure her appearance in the above
+be discharged from further custody, and that the bond heretofore filed by her to secure her appearance in the above
 entitled proceeding be cancelled and discharged, and that an
-order to the foregoing effect may be entered by said petition-
-er without further notice.</p>
+order to the foregoing effect may be entered by said petitioner without further notice.</p>
 <p>Dated Seattle, Washington, February 26, 1915.</p>
-<p>Vanderveer &amp; Cummings</p>
-<p>Attorneys for Petitioner.</p>
-<p>Clay Allen</p>
-<p>U.S. District Attorney
+<p>Vanderveer &amp; Cummings<lb/>Attorneys for Petitioner.</p>
+<p>Clay Allen<lb/>U.S. District Attorney
 for the Western District of
 Washington, Attorney for Respondent.</p>
-<pb></pb>
 
-<p>ORIGINAl</p>
+<pb facs="hc.case.wa.0218.021"/>
+
+<p>ORIGINAL</p>
 <p>Cause No. 2960.</p>
 <p>IN THE 
 DISTRICT COURT 
@@ -200,7 +194,7 @@ Western Dist. of Washington
 NORTHERN DIVISION 
 MAR 2 - 1915 
 FRANK L. CROSBY, Clerk
-By Emy Deputy</p>
+By EML Deputy</p>
 </div1>
     
 </body>

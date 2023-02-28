@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gussie Goldman Woods v. Henry M. White, Bond</title>
+<title>In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus. Bond</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gussie Goldman Woods v. Henry M. White, Bond</title>
+<title level="m" type="main">In the Matter of the Application of Gussie Goldman Woods for a Writ of Habeas Corpus. Bond</title>
 <date when="1915-02-18">February 18, 1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,52 +82,52 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Edm Lakin</term>
-<term>Samuel Fox</term>
-<term>Henry M. White</term>
-<term>Gussie Goldman Woods</term>
-<term>Sadie Fox</term>
-<term>Max Esfeld</term>
-<term>Mrs. Esfeld</term>
+<term>Lakin, Edward M.</term>
+<term>Fox, Samuel</term>
+<term>Fox, Sadie</term>
+<term>Esfeld, Max</term>
+<term>Esfeld</term><!-- Mrs. -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, King County, Washington</term>
-<term>District Court of the United States for the Western District of Washington, Northern Division</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName>Gussie Goldman Woods</persName>
+<persName>Woods, Gussie Goldman</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White, Commissioner of Immigration</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>George Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward H. Cushman</persName>
+<persName>Cushman, Edward H.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName>
-<placeName>Western District of Washington, Northern Division</placeName>
+<orgName>District Court of the United States for the Western District of Washington, Northern Division</orgName> 
+<placeName></placeName> 
 </org>
 </listOrg>   
-</particDesc>
+</particDesc> 
 </profileDesc>
         
 <revisionDesc>         
+<change when="2023-02" who="lkw">review</change>        
 <change when="2022-01" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,7 +141,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0281.006"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES 
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
@@ -171,10 +171,13 @@ of Immigration, commanding and enjoining him to produce before
 said court on the 24th day of February, 1915, the body of said
 principal,</p>
 <p>NOW, THEREFORE, if the said Gussie Goldman Woods,
-alias Gussie Goldman, shall appear in said court upon the re-
-turn date of said writ or at such other dates as the same may
+alias Gussie Goldman, shall appear in said court upon the return date of said writ or at such other dates as the same may
 be continued to, and until the final order of said court in the
-<pb></pb> premises, and shall obey all the orders of said court in the
+
+
+<pb facs="hc.case.wa.0281.007"/>
+
+premises, and shall obey all the orders of said court in the
 premises, and shall render herself into the custody of said 
 Henry M. White, Commissioner of Immigration, in event such 
 Writ of Habeas Corpus is by said court discharged, then this 
@@ -187,14 +190,16 @@ in full force and virtue.</p>
 <p>Mrs. Esfeld</p>
 <p>OK 
 Allen 
-<unclear></unclear></p>
-<pb></pb>
+<unclear>USAtty</unclear></p>
+
+<pb facs="hc.case.wa.0281.008"/>
+
 <p>UNITED STATES OF AMERICA :</p>
 <p>WESTERN DISTRICT OF WASHINGTON : SS</p>
 <p>NORTHERN DIVISION :</p>
 <p>SAMUEL FOX, a surety on the annexed bond, being first
 duly sworn, upon oath deposes and says: That he is a surety 
-on the foregoing obligation, which h executed as his free
+on the foregoing obligation, which he executed as his free
 and voluntary act and deed for the uses and purposes therein
 mentioned; that he resides in Seattle, King County, Washington,
 and is worth in separate property the sum of two thousand
@@ -212,7 +217,10 @@ thousand dollars ($10,000).</p>
 this 18th day of February, A. D. 1915.
 Edm Lakin</p>
 <p>Deputy Clerk, U.S. Dist. Court, Western Dist. of Washington</p>
-<pb></pb>
+
+
+<pb facs="hc.case.wa.0281.009"/>
+
 <p>UNITED STATES OF AMERICA :</p>
 <p>WESTERN DISTRICT OF WASHINGTON : SS</p>
 <p>NORTHERN DIVISION :</p>
@@ -221,7 +229,7 @@ duly sworn, upon oath deposes and says: That he is a surety
 on the foregoing obligation, which he executed as his free 
 and voluntary act and deed for the uses and purposes therein
 mentioned; that he resides in Seattle, King County, Washington, 
-an is worth in seperate property the sum of two thousand 
+an is worth in separate property the sum of two thousand 
 dollars ($2000) over and above all his just debts and liabilites, 
 and exclusive of property exempt by law from 
 execution.</p>
@@ -234,7 +242,8 @@ $4000.00, and free from encumbrance.</p>
 this 18th day of February, A.D. 1915.</p>
 <p>Edm Lakin</p>
 <p>Deputy Clerk, U.S. Dist. Court, Western Dist. of Washington</p>
-<pb></pb>
+
+<pb facs="hc.case.wa.0281.010"/>
 <p>ORIGINAL</p>
 <p>Cause No. 2960 
 IN THE 
@@ -259,7 +268,7 @@ Western Dist. of Washington
 Northern Division 
 FEB 18 1915
 FRANK L. CROSBY, Clerk 
-By Emy Deputy</p>
+By EML Deputy</p>
 </div1>
     
 </body>
