@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order of Continuance</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order of Continuance</title>
+<date when="1915-02-23">February 23, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,8 +82,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Cushman, Edward E.</term>
-
+<term></term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,19 +94,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -121,7 +123,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#xxx">transcribed and encoded</change>
+<change when="2023-03" who="#lkw">review</change>  
+<change when="2022-02" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,15 +137,15 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.011"/>
 <p>IN THE UNITED STATES DISTRICT COURT FOR THE WESTERN 
 DISTRICT OF WASHINGTON, NORTHERN DIVISION.</p>
 
 <p>IN THE MATTER  OF 
-ELSIE MILLER DICKINSON.
-No. 2965.
+ELSIE MILLER DICKINSON. On Habeas Corpus.</p>
+<p>No. 2965.
 ORDER OF CONTINUANCE.
-On Habeas Corpus.</p>
+</p>
 
 <p>It appearing to the Court that the return day on 
 the Order show cause in the above entitled matter comes 

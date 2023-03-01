@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order Directing Issuance of Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order Directing Issuance of Writ of Habeas Corpus</title>
+<date when="1915-02-18">February 18, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -83,13 +83,9 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Crosby, Frank L.</term>
-<term>Cummings</term>    
-<term>Cushman, Edward E.</term>    
-<term>Dickinson, Elsie Miller</term>
 <term>Joy, Albert H.</term>
 <term>Lakin, Edward M.</term>
 <term>Lynch, Thomas W.</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -101,20 +97,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Cummings</persName>
-<persName>Vanderveer</persName>    
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -128,7 +126,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#xxx">transcribed and encoded</change>
+<change when="2023-03" who="#lkw">review</change>  
+<change when="2022-02" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -141,7 +140,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.017"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
@@ -179,7 +178,9 @@ the said Henry M. White, Commissioner of Immigration, do certify
 to this court all the proceeding had before Albert H. Joy
 and Thos. W. Lynch, as Immigration Inspectors, and before 
 <fw>1</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.018"/>
+
 the said Henry M. White, or any other official of the 
 Immigration Service in such district, subsequent to the 12th
 day of October, 1914, respecting the deportation of the said 
@@ -207,7 +208,9 @@ further order of the court in this proceeding.</p>
 <ab>Edward E. Cushman <lb/>
 Judge.</ab>
 <fw>2</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.019"/>
+
 <p>ORIGINAL
 <del>COPY</del></p>
 <p>GOB-5-243</p>
@@ -239,8 +242,8 @@ RAINIER PRINTING COMPANY, INC.</p>
 U. S. District Court, 
 Western Dist. of Washington,
 NORTHERN DIVISION
-FEB181915</p>
-<ab>FRANK L. CROSBY, Clerk, 
+FEB 18 1915</p>
+<ab>FRANK L. CROSBY, Clerk, <lb/>
 By EML Deputy</ab>
 
 </div1>

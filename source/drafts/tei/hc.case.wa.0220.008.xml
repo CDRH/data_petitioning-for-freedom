@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Petition</title>
+<date when="1915-02-18">February 18, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -84,15 +84,11 @@
 <keywords scheme="lcsh" n="people">
 <term>Billingsley, H. W. C.</term>
 <term>Crosby, Frank L.</term>
-<term>Cummings</term>
 <term>Densmore, J. B.</term>
-<term>Dickinson, Elise Miller</term>
 <term>Dickinson, Fred</term>
 <term>Joy, Albert H.</term>
 <term>Lakin, Edward M.</term>
 <term>Lynch, Thomas W.</term>
-<term>Vanderveer</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -107,20 +103,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -134,7 +132,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-02" who="#xxx">transcribed and encoded</change>
+<change when="2023-03" who="#lkw">review</change>  
+<change when="2022-02" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,7 +146,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.020"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES,
 FOR THE WESTERN DISTRICT OF WASHINGTON,
 NORTHERN DIVISION.</p>
@@ -163,16 +162,16 @@ PETITION FOR A WRIT OF HABEAS CORPUS.</p>
 court:</p>
 <p>Now comes Elsie Miller Dickinson, alias Elsie Miller, 
 and represents and shows unto Your Honors as follows:</p>
-<p>I.
-That she is a citizen of the United States of 
+<p>I.</p>
+<p>That she is a citizen of the United States of 
 America, over the age of twenty-one years, a resident and 
 citizen of the State of Washington and the district and
 division of the above entitled court above specified; that
 your petitioner is a native of the Empire of Russia, and came 
 to the United States of America in the year 1907 where your
 petitioner has since resided.</p>
-<p>II. 
-That your petitioner intermarried with one Fred
+<p>II. </p>
+<p>That your petitioner intermarried with one Fred
 Dickinson at Seattle, in the State of Washington, on the 11th 
 day of November, 1914, and that thereafter at all times has
 been, and still is, the lawful wife of the said Fred
@@ -183,10 +182,12 @@ Fred Dickinson was a natural born citizen of the United States
 having been born at the town of Brandon, in the State of 
 Minnesota, in the United States of America, and never having
 <fw>1</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.021"/>
+
 renounced the allegiance acquired by such birth.</p>
-<p>III.
-That on or about the 13th day of October, 1914, your 
+<p>III.</p>
+<p>That on or about the 13th day of October, 1914, your 
 petitioner was taken into custody at Skagway, Alaska, by one
 Albert H. Joy, Immigration Inspector of the United States, upon
 a warrant issued by one J. B. Densmore, Acting Secretary of 
@@ -207,33 +208,34 @@ and transported to the Empire of Russia for the reason as
 stated in said warrant, that your petitioner is an alien in 
 the United States and has been found practicing prostitution
 in the United States of America.</p>
-<p>IV.
-Your petitioner further avers that she is restrained
+<p>IV.</p>
+<p>Your petitioner further avers that she is restrained
 of her liberty by the said Henry M. White, as such Commissioner 
 of Immigration, under a claim that she is subject to deportation
 for a violation of the laws of the United States in that
 being an alien she was found practicing prostitution in the
 United States of America.</p>
 <fw>2</fw>
-<pb/>
-<p>V.
-Your petitioner further avers that she is held in 
+
+<pb facs="hc.case.wa.0220.022"/>
+<p>V.</p>
+<p>Your petitioner further avers that she is held in 
 custody under and by virtue of a claim that she has violated 
 the laws of the United States of America, and is being held 
 in such custody within the district and division aforesaid.</p>
-<p>VI.
-Your petitioner further avers that she is unable to 
+<p>VI.</p>
+<p>Your petitioner further avers that she is unable to 
 attach hereto a copy of the process under which she is held
 in custody and restrained of her liberty for the reason that
 she has no such copy in her possession, and for the reason that
 she has not been furnished with such copy.</p>
-<p>VII.
-Your petitioner, however, avers that she is being now
+<p>VII.</p>
+<p>Your petitioner, however, avers that she is being now
 restrained of her liberty and held in the custody of Henry M.
 White, Commissioner of Immigration, under a pretense of a law
 of the United States of America.</p>
-<p>VIII.
-Your petitioner further avers that at the said hearing
+<p>VIII.</p>
+<p>Your petitioner further avers that at the said hearing
 before the said Thos. W. Lynch, Examining Inspector, it
 appeared conclusively and without contradiction that your
 petitioner at all times since her said marriage with the said
@@ -241,22 +243,23 @@ Fred Dickinson has been a resident of the United States of
 America and a citizen thereof, and that the said warrant of 
 the Secretary of Labor is invalid and of now force and effect 
 in law for the reason that your petitioner is not an alien.</p>
-<p>IX.
-Your petitioner now complains that she is unlawfully 
+<p>IX.</p>
+<p>Your petitioner now complains that she is unlawfully 
 restrained of her liberty by the said Henry M. White under the 
 pretense that she has violated a law of the United States of 
 America, which pretense and claim is unfounded in fact and is 
 to the said Henry M. White and to the Secretary of Labor of
 the United States well known.</p>
 <fw>3</fw>
-<pb/>
-<p>X. 
-Your petitioner further avers that in her confinement 
+
+<pb facs="hc.case.wa.0220.023"/>
+<p>X. </p>
+<p>Your petitioner further avers that in her confinement 
 by the said Henry M. White her rights as an American citizen
 are infringed and she is deprived of her liberty without any 
 warrant of law and that such restraint is illegal and invalid.</p>
-<p>XI.
-Your petitioner further avers that in the hearing
+<p>XI.</p>
+<p>Your petitioner further avers that in the hearing
 before the officers of the Immigration Service of the United
 States, she was denied the right to cross-examine witnesses, 
 to meet the witnesses face to face, and that your petitioner 
@@ -283,13 +286,15 @@ deportation of your petitioner, and that upon the return to
 such Writ of Habeas Corpus and the return to such Writ of 
 Certiorari such order be made there by Your Honors as upon 
 <fw>4</fw>
-<pb/>    
+
+<pb facs="hc.case.wa.0220.024"/>
+
 due consideration is consonant with law under and pursuant to 
 the Constitution of the United States of America and as in
 duty bound your petitioner will ever pray.</p>
-<ab>ELSIE MILLER DICKINSON, 
-Petitioner,
-VANDERVEER &amp; CUMMINGS,
+<ab>ELSIE MILLER DICKINSON, <lb/>
+Petitioner,<lb/>
+VANDERVEER &amp; CUMMINGS,<lb/>
 Attorneys for Petitioner.</ab>
 
 <p>WESTERN DISTRICT OF WASHINGTON:
@@ -309,7 +314,9 @@ Notary Public in and for the State
 of Washington, residing at Seattle.</ab>
 
 <fw>5</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.025"/>
+
 <p>ORIGINAL
 <del>COPY</del></p>
 <p>Cause No. 2965</p>
@@ -342,8 +349,8 @@ RAINIER PRINTING COMPANY, INC.</p>
 U. S. District Court, 
 Western Dist. of Washington,
 NORTHERN DIVISION
-FEB181915</p>
-<ab>FRANK L. CROSBY, Clerk,
+FEB 18 1915</p>
+<ab>FRANK L. CROSBY, Clerk,<lb/>
 By EML Deputy</ab>
 
 </div1>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order Discharging Petitioner</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Order Discharging Petitioner</title>
+<date when="1915-03-02">March 2, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,14 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
 <term>Crosby, Frank L.</term>
-<term>Cummings</term>
-<term>Cushman, Edward E.</term>
-<term>Dickinson, Elsie Miller</term>
 <term>Lakin, Edward M.</term>    
-<term>Vanderveer</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -101,20 +95,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -127,7 +123,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>  
+<change when="2023-03" who="#lkw">review</change>         
 <change when="2022-02" who="#xxx">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,15 +138,15 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.007"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
 <p>IN THE MATTER OF THE APPLICATION
 OF ELSIE MILLER DICKINSON, alias
 ELSIE MILLER, FOR A WRIT OF 
-HABES CORPUS.:
-NO. 2965.
+HABES CORPUS.:</p>
+<p>NO. 2965.
 ORDER DISCHARGING
 PETITIONER ETC.</p>
 <p>Upon reading and filing the stipulation dated 
@@ -171,7 +168,9 @@ is, cancelled and discharged.</p>
 
 <ab>Edward E Cushman <lb/>
 Judge.</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0220.008"/>
+
     <p>2x</p>
 <p>GOB-5-248</p>
 <p><del>COPY</del> <add>ORIGINAL</add></p>
@@ -204,8 +203,8 @@ RAINIER PRINTING COMPANY, INC.</p>
 U. S. District Court, 
 Western Dist. of Washington,
 NORTHERN DIVISION
-MAR2-1915</p>
-<ab>FRANK L. CROSBY, Clerk, 
+MAR 2 - 1915</p>
+<ab>FRANK L. CROSBY, Clerk,<lb/> 
 By EML Deputy</ab>
 
 </div1>

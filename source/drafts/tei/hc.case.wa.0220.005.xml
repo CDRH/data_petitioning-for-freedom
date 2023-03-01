@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
+<date when="1915-02-18">February 18, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -84,13 +84,8 @@
 <keywords scheme="lcsh" n="people">
 <term>Boyle, John</term>    
 <term>Crosby, Frank L.</term>
-<term>Cummings</term>
-<term>Cushman, Edward E.</term>
-<term>Dickinson, Elsie Miller</term>
 <term>Lakin, Edward M.</term>
-<term>Vanderveer</term>    
 <term>Wainright, Morton D.</term>
-<term>White, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,20 +97,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -128,8 +125,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022-02" who="#xxx">transcribed and encoded</change>
+<revisionDesc>        
+<change when="2023-03" who="#lkw">review</change>   
+<change when="2022-02" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,15 +140,15 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.012"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
 <p>IN THE MATTER OF THE APPLICATION 
 OF ELSIE MILLER DICKINSON, ALIAS 
 ELSIE MILLER, for a WRIT OF 
-HABEAS CORPUS:
-NO. 2965
+HABEAS CORPUS:</p>
+<p>NO. 2965
 WRIT OF HABEAS CORPUS.</p>
 
 <p>UNITED STATES OF AMERICA, to Henry M. White, 
@@ -177,7 +175,9 @@ Elsie Miller, to the end that such things having been
 examined such order may be made therein as of right and justice
 ought to be made.</p>
 <fw>1</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.013"/>
+
 <p>It is further ORDERED that pending the hearing upon 
 the return date of this writ, or to such other dates as the 
 same may be continued, and until the final order of the court
@@ -195,29 +195,32 @@ sureties to him satisfactory.</p>
 said court, and the seal thereof, at Seattle, in said 
 district, on the 18th day of February, 1915.</p>
 <ab>FRANK L. CROSBY <lb/>
-Clerk
+Clerk<lb/>
 By Ed M Lakin <lb/>
 Deputy.</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0220.014"/>
+
 <p>FORM No. 282.</p>
 <p>RETURN ON SERVICE OF WRIT.</p>
 <p>United States of America, 
-Western DISTRICT OF Washington }ss:</p>
+Western DISTRICT OF Washington } ss:</p>
 <p>I hereby certify and return that I served the annexed Writ of Habeas Corpus
-<gap/> on the therein-named Henry M. White, Commissioner
+ on the therein-named Henry M. White, Commissioner
 of Immigration
-<gap/>
 by handing to and leaving a true and correct copy thereof with Henry M. White
-<gap/> personally
+ personally
 at Seattle, Wash. in said District on the 18th day of 
 February, A. D. 1915.</p>
 <ab>John M. Boyle <lb/>
-U. S. Marshall.
-By Morton D. Wainright
+U. S. Marshall.<lb/>
+By Morton D. Wainright<lb/>
 Deputy.</ab>
-<p>7--279
-<unclear/> 2 00</p>
-<pb/>
+<p>7--279</p>
+<p>Fees 2 00</p>
+
+<pb facs="hc.case.wa.0220.015"/>
+
     <p>2x</p>
 <p><del>COPY</del> ORIGINAL</p>
 <p>Cause No. 2965</p>
@@ -246,8 +249,8 @@ RAINIER PRINTING COMPANY, INC.</p>
 U. S. District Court, 
 Western Dist. of Washington, 
 NORTHERN DIVISION
-FEB191915</p>
-<ab>FRANK L. CROSBY, Clerk, 
+FEB 19 1915</p>
+<ab>FRANK L. CROSBY, Clerk, <lb/>
 By EML Deputy</ab>
 
 </div1>

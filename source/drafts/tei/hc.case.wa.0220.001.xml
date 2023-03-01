@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
+<title>In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Bond</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,9 +45,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Elsie Miller Dickinson vs. Henry M. White. Criminal.</title>
-<date when="1915">1915</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Application of Elsie Miller Dickinson for a Writ of Habeas Corpus. Bonc</title>
+<date when="1915-02-18">February 18, 1915</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -82,19 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, Clay</term>
 <term>Crosby, Frank L.</term>
-<term>Cummings</term>
-<term>Cushman, Edward E.</term>
-<term>Dickinson, Elsie Miller</term>
 <term>Esfeld, Max</term>
-<term>Esfeld,</term>
+<term>Esfeld</term><!-- Mrs. -->
 <term>Fox, Sadie</term>
 <term>Fox, Samuel</term>
-<term>Lakin, Edward M.</term>
-<term>Vanderveer</term>    
-<term>White, Henry M.</term>
-
+<term>Lakin, Edward M.</term>  
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -106,20 +99,22 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Elsie Miller Dickinson</persName>
+<persName>Dickinson, Elsie Miller</persName>
 </person>
 <person role="defendant">
-<persName>Henry M. White</persName>
+<persName>White, Henry M.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Vanderveer</persName>
+<persName>Vanderveer, George</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Cummings</persName>    
 </person>
 <person role="attorney_defendant">
-<persName>Clay Allen</persName>
+<persName>Allen, Clay</persName>
 </person>
 <person role="judge">
-<persName>Edward E. Cushman</persName>
+<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
@@ -132,8 +127,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
-<change when="2022-01" who="#xxx">transcribed and encoded</change>
+<revisionDesc>       
+<change when="2023-03" who="#lkw">review</change>  
+<change when="2022-01" who="#rp">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,7 +142,7 @@
 
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0220.002"/>
 <p>IN THE DISTRICT COURT OF THE UNITED STATES
 FOR THE WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION.</p>
@@ -176,11 +172,13 @@ of Immigration, commanding and enjoining him to produce before
 said court on the 24th day of February, 1915, the body of said
 principal,</p>
 <p>NOW, THEREFORE, if the said Elsie Miller Dickinson, 
-alias Elsie Miller, shall appear in said court upon teh 
+alias Elsie Miller, shall appear in said court upon the 
 return date of said writ or at such other dates as the same may
 be continued to, and until the final order said court in the
 <fw>1</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.003"/>
+
 premises, and shall obey all the orders of said court in the 
 premises, and shall render herself into the custody of said 
 Henry M. White, Commissioner of Immigration, in event such 
@@ -198,7 +196,9 @@ Allen
 US Atty</ab>
 
 <fw>2</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.004"/>
+
 <p>UNITED STATES OF AMERICA
 WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION : SS</p>
@@ -208,8 +208,8 @@ on the foregoing obligation, which he executed as his free
 and voluntary act and deed for the uses and purposes therein
 mentioned; that he resides in Seattle, King County, Washington, 
 and is worth in separate property the sum of two thousand
-dollars ($2000) over and above all his justs debts and 
-liabilities, and exclusives of property exempt by law from 
+dollars ($2000) over and above all his just debts and 
+liabilities, and exclusive of property exempt by law from 
 execution.</p>
 <p>That his property consists of Lot fourteen (14),
 Block ten (10), Lakeside Addition to Seattle, of the reasonable
@@ -227,7 +227,9 @@ Deputy Clerk, U. S. Dist. Court, Western Dist. of Washington</ab>
 <figure/>
 
 <fw>3</fw>
-<pb/>
+
+<pb facs="hc.case.wa.0220.005"/>
+
 <p>UNITED STATES OF AMERICA
 WESTERN DISTRICT OF WASHINGTON
 NORTHERN DIVISION : SS</p>
@@ -237,8 +239,8 @@ on the foregoing obligation, which he executed as his free
 and voluntary act and deed for the uses and purposes therein
 mentioned; that he resides in Seattle, King County, Washington, 
 and is worth in separate property the sum of two thousand
-dollars ($2000) over and above all his justs debts and 
-liabilities, and exclusives of property exempt by law from 
+dollars ($2000) over and above all his just debts and 
+liabilities, and exclusive of property exempt by law from 
 execution.</p>
 <p>That his property consists of house and lot at No.
 824 23d Avenue, South, Seattle, Washington, and property at 
@@ -252,7 +254,7 @@ this 18th day of February, A. D. 1915.</p>
 Deputy Clerk, U. S. Dist. Court, Western Dist. of Washington</ab>
 
 <figure/>
-<pb/>
+<pb facs="hc.case.wa.0220.006"/>
     <p>2x</p>
 <p>BS8g-6-48</p>
 <p>COPY</p>
