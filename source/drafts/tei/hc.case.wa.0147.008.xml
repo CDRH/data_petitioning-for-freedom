@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Gladys Fredrika Fuson v. Territory of Washington. Return on Service of Writ</title>
+<title>In the Matter of the Application of Mrs. Gladys Frerika Fuson for a Writ of Habeas Corpus. Return on Service of Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,9 +46,9 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Gladys Fredrika Fuson v. Territory of Washington. Return on Service of Writ</title>
+<title level="m" type="main">In the Matter of the Application of Mrs. Gladys Frerika Fuson for a Writ of Habeas Corpus. Return on Service of Writ</title>
 <date when="1916-10-26">October 26, 1916</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -86,7 +86,7 @@
 <term>Boyle, John M.</term>
 <term>Williams, Edward</term>
 <term>Crosby, Frank L.</term>
-<term>Laxew, Edin</term>
+<term>Laken, Edward M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -104,29 +104,33 @@
 <persName>Territory of Washington</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Wilson, P.H.</persName>
+<persName>Wilson, P. H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Alfred H. Lundin,</persName>
-<persName>Frank P. Helsell</persName>
+<persName>Lundin, Alfred H. </persName>
+</person>
+<person role="attorney_defendant">
+ <persName>Helsell, Frank P.</persName>
+</person>
+<person role="judge">
+<persName>Cushman, Edward E.</persName>
 </person>
 <person role="judge">
 <persName>Dykeman, King</persName>
-<persName>Cushman, Joseph</persName>
-<persName>Cushman, Edward E.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>The District Court of the United States</orgName>
-<placeName>Western District of Washington</placeName>
+<orgName>The District Court of the United States, Western District of Washington</orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>   
+<change when="2023-03" who="#lkw">reviewed</change>      
 <change when="2021-07" who="#eh">transcribed and encoded</change>
 <change when="2022-02" who="#sjs">reviewed</change>
 </revisionDesc>
@@ -141,61 +145,61 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0147.008"/>
+<pb facs="hc.case.wa.0147.019"/>
 
-<p>FORM NO.282
-RETURN ON SERVICE OF WRIT</p>
+<p>FORM NO.282</p>
+<p>RETURN ON SERVICE OF WRIT</p>
 
 <p>United States of America 
-Western Dristict of Washington,} ss:</p>
+Western District of Washington,} ss:</p>
 
-<p>I hereby certify and return that I served the annexed Hebeas Corpus,
-on the therin-named King Dykeman, Judge,
+<p>I hereby certify and return that I served the annexed Habeas Corpus,
+on the therein-named King Dykeman, Judge,
 Seattle Washington,
-by handing to and leaving a true and correct copy therof with King Dykeman
+by handing to and leaving a true and correct copy thereof with King Dykeman
 personally
-at SeattleWash, in said District on the 26th, day of 
+at Seattle Wash, in said District on the 26th, day of 
 October, A.D. 1916</p>
 
 <p>Marshal's fees $2.12</p>
 
-<p>John M. Boyle
+<p>John M. Boyle<lb/>
 U.S. Marshal.</p>
 
-<p>By Edward Williams
+<p>By Edward Williams<lb/>
 Deputy</p>
 
-<pb/>
+<pb facs="hc.case.wa.0147.020"/>
 
 <p>Original</p>
 
-<p>Unites States District Court 
+<p>United States District Court 
 Western
 DISTRICT OF WASHIINGTON
-NO.3451</p>
+NO. 3451</p>
 
 <p>In the Matter of Application of 
 Mrs. Gladys Fredrika Fuson
-For Writ of Habeas corpus</p>
+For Writ of Habeas Corpus</p>
 
 <p>Habeas Corpus</p>
 
-<p>Let the within Writ Issues 
-- - - - - - - - - - 
+<p>Let the within Writ Issue.<lb/> 
+- - - - - - - - - - <lb/>
 U.S. District Judge</p>
 
-<p>Return and filed this 
-day of A.D. 189
-Clerk
-By Deputy Clerk</p>
+<p>Returned and filed this <gap/>
+day of <gap/> A.D. 189
+<gap/>Clerk
+By <gap/> Deputy Clerk</p>
 
 <p>FILED IN THE 
 U.S. District Court
 Western Dist. of Washington,
-NORTHERN DIVISION
-OCT 26 1916
-FRANK L.CROSBY, Clerk
-By Edm Lakim Deputy</p>
+NORTHERN DIVISION<lb/>
+OCT 26 1916<lb/>
+FRANK L. CROSBY, Clerk<lb/>
+By Edm Lakin Deputy</p>
 </div1>
     
 </body>
