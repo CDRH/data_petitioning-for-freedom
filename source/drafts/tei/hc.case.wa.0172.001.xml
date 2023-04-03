@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 
 </respStmt>
@@ -124,7 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
+<change when="2023-04" who="#brh">reviewed and airtabled</change>
+    
 </revisionDesc>
 
 </teiHeader>
@@ -137,7 +140,8 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.002"/>
+
 <p>United States District Court for the Western District of Washington.</p>
 <p>In matter application of
 D.A. Hatfield for
@@ -153,8 +157,9 @@ Hugh W. Caldwell</ab>
 <p>Office Address 400 Wehlham Bldg
 Seattle</p>
 <p>Notice: - Attorneys will please endorse their own Filings. Rule II. </p>
-<pb/>
-<p>&amp;c
+
+<pb facs="hc.case.wa.0172.003"/>
+<p>&amp;
 no. 2082</p>
 <p>United States District Court
 Western District of Washington</p>

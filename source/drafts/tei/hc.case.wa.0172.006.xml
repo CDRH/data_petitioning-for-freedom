@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -148,6 +149,7 @@
         
 <revisionDesc>         
 <change when="2021-09" who="#GET">transcribed and encoded</change>
+    <change when="2023-04" who="#brh">reviewed and airtabled</change>
 </revisionDesc>
 
 </teiHeader>

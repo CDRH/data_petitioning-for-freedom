@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -86,7 +87,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -123,7 +124,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
+    <change when="2023-04" who="#brh">reviewed and airtabled</change>
 </revisionDesc>
 
 </teiHeader>
@@ -136,7 +138,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.004"/>
 <p>United States District Court for the Western District of Washington.</p>
 <p>In the matter of the application 
 of D.A. Hatfield for a writ of 
@@ -152,7 +154,7 @@ entitled cause, and service of all subsequent papers, except writs and process, 
 <p>Office Address 406 Eplar Block
 Tel. Main 2114. Seattle</p>
 <p>Notice: - Attorneys will please endorse their own filings. Rule 11.</p>
-<pb/>
+<pb facs="hc.case.wa.0172.005"/>
 <p>&amp;c
 no.2082</p>
 <p>United States District Court

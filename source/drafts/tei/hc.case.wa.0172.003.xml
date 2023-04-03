@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -131,7 +132,8 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
+<change when="2023-04" who="#brh">reviewed and airtabled</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,7 +146,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.006"/>
 <p>In the District Court of the United States for
 Northern District of Washington.</p>
 <p>In the Matter of the Application 
