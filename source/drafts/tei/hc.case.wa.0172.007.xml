@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>D.A. Hatfield v. Robert T. Hodge. Order Denying.</title>
+<title>In matter application of D.A. Hatfield for Writ of Habeas Corpus. Order Denying.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">D.A. Hatfield v. Robert T. Hodge. Order Denying.</title>
-<date when="1912-02-06">Feburary 6, 1912</date>
+<date when="1913-04-10">April 10th, 1913</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -78,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1912-02">Feburary 1912</date></term>
+<term><date when="1913-04">April 1913</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -119,8 +120,8 @@
             
 <listOrg>
 <org>
-<orgName>Western Washington District Court</orgName>
-<placeName>Washington State</placeName>
+<orgName>Northern Division District Court of Washington</orgName>
+<placeName>Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -128,6 +129,7 @@
         
 <revisionDesc>         
 <change when="2021-10" who="#GET">transcribed and encoded</change>
+<change when="2023-04" who="#brh">reviewed and airtabled</change>
 </revisionDesc>
 
 </teiHeader>
@@ -140,7 +142,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.017"/>
 <p>In the District Court of the United States
 for the District of Washington</p>
 <p>Northern Division</p>
@@ -159,7 +161,8 @@ seal this 10 day of May 1913</p>
 clerk.</ab>
 <ab>By Eden Larken
 Deputy.</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0172.018"/>
 <p>In the matter of D.A. Hatfield,
 for application for Writ of Habeas 
 Corpus.</p>
