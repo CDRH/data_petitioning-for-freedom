@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -105,10 +106,13 @@
 <persName>Hamilton, T.J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Lewis + Gilman</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Jones, Richard A.</persName>
@@ -125,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2022-08" who="#slb">reviewed</change>
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -140,7 +145,7 @@ of King County W.T.</p>
 <p>I William Cochrane Sheriff of King
 County do hereby certify that I received
 a Writ of Habeas Corpus of which the
-answer is a true + correct copy, on the
+answer is a true &amp; correct copy, on the
 13th day of July 1887 and personally served
 the same on the U.S. Marshal of
 Washington Territory on the 13th day of July

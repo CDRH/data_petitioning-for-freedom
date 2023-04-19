@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Henry Imhoff v. LV Wyckoff. Final Verdict</title>
-<date when="1881-11-10">November 10, 1881</date>
+<date when="1881-11-19">November 19, 1881</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -95,22 +96,19 @@ James P Ludlow</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Imhoff</persName>
+<persName>Imhof, Henry</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wyckoff</persName>
-</person>
-<person role="attorney_petitioner">
-<persName></persName>
+<persName>Wyckoff, Lois V.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger S Greene</persName>
+<persName>Hoyt, John Philo</persName>
 </person>
 </listPerson>
             
@@ -125,6 +123,7 @@ James P Ludlow</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -152,7 +151,7 @@ to the writ of habeas corpus herefore
 issued herein <add>by Hon. John P Hoyt Judge of the 2nd Judicial District</add> and the cause of the
 detention of said Imhoff having
 been duly made known to me
-by the <unclear></unclear> of LV Wyckoff Deputy
+by the return of LV Wyckoff Deputy
 Marshall of the <unclear>King County</unclear> for
 the Territory of Washington And by the 
 proof advanced by the hearing

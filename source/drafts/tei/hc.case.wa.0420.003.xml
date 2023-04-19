@@ -6,21 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Martin J. McDonough v. Territory of Washington King County. Writ of Habeas Corpus</title>
+<title>In the matter of the application of M. J. McDonough for a Writ of Habeas Corpus. Order of Court</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
-<name n="Leon-Flores, Jacky" xml:id="jlf">Lauren Hinton</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+<name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -54,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Martin J. McDonough v. Territory of Washington King County. Writ of Habeas Corpus</title>
+<title level="m" type="main">In the matter of the application of M. J. McDonough for a Writ of Habeas Corpus. Order of Court</title>
 <date when="1887-02-23">February 23, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 5197</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -87,17 +78,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-02-23">February 23, 1887</date></term>
+<term><date when="1887-02">February 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McGraw, John H.</term>
+<term>Hill, G. A.</term>
 <term>Newlin, A.A.</term>
 <term>Seavey, James</term>
+<term>Ludlow, James P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County</term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -108,7 +100,7 @@
 <persName>McDonough, Martin J.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -117,14 +109,14 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>McGraw, John H.</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court of Washington Territory and the Third Judicial District</orgName>
-<placeName>King County</placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2023-01" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,69 +132,67 @@
 <text>
 
 <body>  
-
-<p>Whenfore, your petitioner prays that a Writ of Habeas
-Corpus may be granted directed to the said John H.
-McGraw, commanding him to have the body of
-M.J. McDonough before your Honor at a time and
-place therein to be specified, to do and vain what
-shall then and there be considered by your Honor
-concerning him. Together with the time and cause
-of his detention, and said writ, and that he may
-be restored to his liberty.</p>
-
-<p>Valid this 21st day of February 1887</p>
-
-<p>Martin J. McDonough</p>
-
-<p>Territory of Washington } ss.
-County of King</p>
-
-<p>M.J. McDonough being first
-duly sworn on oath says that he is the petitioner
-in the foregoing petition for a writ of Habeas Corpus
-that he has heard the said petition and knows
-all the facts therein stated and believed the same
-to be true</p>
-
-<p>Martin J McDonough</p>
-
-<p>Subscribed and Sworn to before me
-this 21st day of February 1887.
-A.A. Newlin
-Notary Public</p>
-
-<pb></pb>
-
-<p>5197
-In the Dist. Court of Wash. by.
-and for the 3rd Judicial Dist. thereof
-holding terms at Seattle for the
-Counties of King + Kitsap</p>
-
-<p>Territory of Washington 
-Plaintiff.
-vs
-M.J. McDonough
-Defendant. </p>
-
-<p>Petition
-for 
-Writ of Habeas Corpus.</p>
-
-<p>(seal)
-FILED
-FEB 23 1887
-James Seavy, Clerk.
-By James Ludlow
-Deputy Clerk</p>
-
-<p>A.A. Newlin</p>
-
-               
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0420.010"/>
+<p>Feb 23</p>
+
+<p>In the District County of Washington Territory and for the third Judicial District
+thereof holding tems at Seattle for the Counties of King and Kilsap</p>
+
+<p>In the matter of the application of } Order of Court.
+M.J. McDonough for Writ of Habeas Corpus</p>
+
+<p>Now on this day the petition of M.J. McDonough for a Writ of Habeas
+Corpus and his discharge from imprisonment thereon, coming on for
+hearing and all the facts alleged in said petition being admitted by the
+Prosecuting Attorney of this Court and after argument of counsel, the
+Court being fully advised in the premises, and it appearing to the
+court that the said M.J. McDonough was, after trial had before G.A
+Hill. Justice of the Peace in and for Seattle District King County, Washington
+Territory, adjudged guilty of the crime of being in contempt of Court,
+by said Justice of the Peace and sentenced to pay a fine of five dollars
+and costs, ammounting to seventeen dollars and fifty cents and to
+M.J. McDonough to such imprisonment and that he is now
+imprisonment in the county jail of said King County for the space
+of three days, and that said Justice of the Peace as committed the
+said M. J. McDonough to such imprisonment and that he is now
+imprisoned in said jail by and is in the custody of John H. McGraw
+Sheriff of said King County in pursuance to said Judgement and
+commitment. And is further appearing to the Court that said
+<add>surface further as such in <unclear>requirement is concerned</unclear></add>
+judgement and commitment therein is said and the said imprisonment
+illegal. It is now ordered that the said M.J McDonough
+be forthwith discharged from custody. and that he have and 
+recover his costs and <unclear>disfinancials</unclear> in this proceeding of and
+against the said John H. McGraw, Respondant herein and that
+Execution issue therefor</p>
+
+<p>Enter Greene</p>
+
+
+<pb facs="hc.case.wa.0420.011"/>
+<p>5197
+In the Dist. Court of Wash.
+Ter. holding terms at Seattle</p>
+
+<p>Territory of Washington 
+Plff
+vs
+M.J. McDonough
+Deft</p>
+
+<p>Order of Court in
+the matter of application of
+Deft. for Writ of Habeas Corpus</p>
+
+<p>FILED
+FEB 23 1887
+James Seavey, Clerk.
+By James P. Ludlow
+
+Deputy Clerk
+A.A. Newlin</p>
 
 
 </div1>

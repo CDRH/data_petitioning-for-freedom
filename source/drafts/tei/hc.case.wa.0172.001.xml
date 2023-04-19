@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0000.000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0172.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>D.A. Hatfield v. Robert T. Hodge. Appearance.</title>
+<title>In matter application of D.A. Hatfield for Writ of Habeas Corpus. Appearance.</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
+
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -45,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">D. A. Hatfield v. Robert J. Fudge. Appearance.</title>
+<title level="m" type="main">In matter application of D.A. Hatfield for Writ of Habeas Corpus. Appearance.</title>
 <date when="1912-02-06">Feburary 6, 1912</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -123,7 +125,9 @@
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-09" who="#xxx">transcribed and encoded</change>
+<change when="2021-09" who="#GET">transcribed and encoded</change>
+<change when="2023-04" who="#brh">reviewed and airtabled</change>
+    
 </revisionDesc>
 
 </teiHeader>
@@ -136,7 +140,8 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.002"/>
+
 <p>United States District Court for the Western District of Washington.</p>
 <p>In matter application of
 D.A. Hatfield for
@@ -152,8 +157,9 @@ Hugh W. Caldwell</ab>
 <p>Office Address 400 Wehlham Bldg
 Seattle</p>
 <p>Notice: - Attorneys will please endorse their own Filings. Rule II. </p>
-<pb/>
-<p>&amp;c
+
+<pb facs="hc.case.wa.0172.003"/>
+<p>&amp;
 no. 2082</p>
 <p>United States District Court
 Western District of Washington</p>

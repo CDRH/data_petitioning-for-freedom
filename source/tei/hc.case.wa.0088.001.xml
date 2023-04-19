@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Stapleton-Deno, Zoe L." xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -57,7 +58,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Washington State Archives, Puget Sound Regional Branch</repository>
-<collection>King County Government, Judicial Administration. Territorial District Court Case Files, 1867-1889</collection>
+<collection>King County Government, Judicial Administration, Territorial District Court Case Files, 1867-1889</collection>
 <idno>Case No 5662</idno>
 </msIdentifier>
 </msDesc>
@@ -93,6 +94,8 @@
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
 <term>Tacoma, Washington</term>
+<term>King County</term>
+<term>Kitsap County</term>
 </keywords>
 
 </textClass>
@@ -107,6 +110,9 @@
 </person>
 <person role="defendant">
 <persName>Kevan, Della</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Evans, Elwood</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Ronald, J. P.</persName>
@@ -124,8 +130,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court of Washhington Territory</orgName>
+<placeName>Seattle, WA (King County)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -134,6 +140,7 @@
 <revisionDesc><change when="2021-09" who="#cjy">edited</change>         
 <change when="2020-05" who="#lkw">encoded</change>
 <change when="2018" who="#nl">transcribed</change>
+<change when="2022-07" who="zlsd">edited</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,13 +154,16 @@
 <pb/>
 
 
-<p>In the district court of the Third Judicial District of Washington Territory, holding terms at Seattle for the Counties of King &amp; Kitsap</p>
+<p>IN THE DISTRICT COURT OF THE THIRD JUDICIAL DISTRICT OF WASHINGTON
+TERRITORY, HOLDING TERMS AT SEATTLE FOR THE COUNTIES OF KING AND KITSAP.</p>
 
-<p>In the matter of the application of Alice Mc.kay for a writ of habeas corpus for the body of Mary Mc.kay her infant daughter, } no.---- petition for writ of habeas corpus</p>
+<p>IN THE MATTER OF THE APPLICATION OF ALICE MC.KAY                                 NO.____
+FOR A WRIT OF HABEAS CORPUS FOR THE BODY OF <del>MAY</del>              PETITION FOR
+MARY MC.KAY, HER INFANT DAUGHTER.                                                                   WRIT OF HABEAS CORPUS</p>
 
-<p>To the honorable Richard A. Jones, chief justice of Washington territory, and judge of the third judicial district thereof:</p>
+<p>To the honorable Richard A. Jones, Chief Justice of Washington Territory, and judge of the Third Judicial District thereof:</p>
 
-<p>The petition of Alice Mc.kay respectfully shows:</p>
+<p>The petition of Alice Mc.Kay respectfully shows:</p>
 
 <p>1</p>
 

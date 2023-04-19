@@ -6,20 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Martin J. McDonough v. Territory of Washington. Petition for Writ of Habeas Corpus</title>
+<title>In the matter of the application of M. J. McDonough for a Writ of Habeas Corpus. Petition for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Lauren Hinton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -54,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Martin J. McDonough v. Territory of Washington. Petition for Writ of Habeas Corpus</title>
-<date when="1887-02">February 1887</date>
+<title level="m" type="main">In the matter of the application of M. J. McDonough for a Writ of Habeas Corpus. Petition for Writ of Habeas Corpus</title>
+<date when="1887-02-21">February 21st, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 5197</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -91,12 +82,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McGraw, John H.</term>
 <term>Hill, G.A.</term>
+<term>Seavey, James</term>
+<term>Ludlow, James P.</term>
+<term>Newlin, A. A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -107,7 +100,7 @@
 <persName>McDonough, Martin J.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington King County</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -122,8 +115,8 @@
             
 <listOrg>
 <org>
-<orgName>District Court of Washington Territory and the Third Judicial District</orgName>
-<placeName>King County</placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -131,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-06" who="#jlf">transcribed and encoded</change>
+<change when="2023-01" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,13 +132,15 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+<pb facs="hc.case.wa.0420.003"/>
 <p>In the District Court of Washington Territory and for
 the Third Judicial District therof, holding terms at
 Seattle, for the counties of King and Kitsap
 Territory of Washington - Plaintiff }
 vs.
-M.J. McDonough L. - Defendant.</p>
+M.J. McDonough Defendant.</p>
 
 <p>In the matter of the application } Petition for
 of M.J. McDonough for a             Writ of Habeas Corpus
@@ -172,50 +168,50 @@ court, and that after having him so adjudged guilty, as
 aforesaid, he was sentenced by said Justice of the
 Peace to pay a fine of five dollars and $17.60 cents</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0420.004"/>
 
 <p>and that he stand committed until the same be paid,
 and before any process was issued out of the Court of said
 Justice of the Peace to collect said fine, and costs
 or any demand made on your petitioner to pay the same
-your petitioner was unlawfully arrested, committed, deatained,
+your petitioner was unlawfully arrested, committed, detained,
 confined and restrained of his liberty by virtue of an unlawful
-and illegal and <unclear></unclear> commitment issued by said Justice
+and illegal and said commitment issued by said Justice
 which commanded that your petitioner be so imprisoned and
 restrained of his liberty until such fine and costs be paid
 <del>and that your petitioner be allowed $2.50 per day
-<unclear></unclear> imprisonment</del></p>
+upon said imprisonment</del></p>
 
 <p>3rd</p>
 
 <p>That said imprisonment, detention, confinement and
-restraint an illegal and that the illegality thereof
-consists in this - to wit</p>
+restraint are illegal and that the illegality thereof consists 
+in this - to wit</p>
 
-<p>1st That your petitioner is not guily of the offense for
+<p>1st That your petitioner is not guilty of the offense for
 which he was illegally tried, convicted, sentenced and
 committed, as aforesaid.</p>
 
 <p>2nd That your petitoner is illegally and unlawfully imprisoned and
-restrained of his liberty, <unclear></unclear> and in this to wit, he has been
+restrained of his liberty, <unclear>herein</unclear> and in this to wit, he has been
 confined and committed by said Justice, as aforesaid, in
-<unclear></unclear> of the punishment provided in statements.</p>
+excess of the punishment provided in statements.</p>
 
 <p>3rd That the punishment presented for said alleged
-offense of which your petitoner was so adjudged to
+offense of which your petitioner was so adjudged to
 be guilty, to wit, resistance to the lawful order or
 process issued by said Justice of the Peace and which
 is alleged to have constituted the contempt of
-Court complained of and as your petitoner believes</p>
+Court complained of and as your petitoner believes -</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0420.005"/>
 
 <p>is, by section 1843 of the code of Washington-Territory
 as follows "Punishment for contempt may be by fine,
 not exceeding twenty-five dollars, or by imprisonment
 in the County Jail not exceeding two days, at the
-discretion of the Justice". The jurisdiction given to
-the Justiec of the Peace is carefully limited, at his
+discretion of the Justice " The jurisdiction given to
+the Justice of the Peace is carefully limited, at his
 discretion he may either fine or imprison but no
 authority is given him to do both.</p>
 
@@ -241,10 +237,11 @@ adjudged to pay a fine a process may be
 issued to collect the same" And no former
 or authority, either express or implied, is given</p>
 
-<pb></pb>
+
+<pb facs="hc.case.wa.0420.006"/>
 
 <p>said Justice to imprison until said fine and costs
-of the proceeding are paid. Your petitoner is illegally
+of the proceeding are paid. Your petitioner is illegally
 imprisoned, detained, confined and restained of his liberty
 because the said Justice exceeded his jurisdiction and
 the authority given him by statute in sentencing him
@@ -253,8 +250,7 @@ to imprisonment until the same he paid.</p>
 
 <p>4th That your petitoner has fees and is now illegaly committed
 and is now illegaly imprisoned and restrained of his liberty
-because the commitment issued by said Justice
-<add>as aforesaid</add> upon
+because the commitment issued by said Justice <add>as aforesaid</add> upon
 which the said Sheriff holds imprisons, confines and
 restrains of his liberty your petitoner, was unlawfully
 and illegaly issued, and said commitment was and is
@@ -271,16 +267,17 @@ and causing to be imprisoned and restrained of his libery,
 your petitoner as did without having authority in
 the premises to commit as aforesaid</p>
 
-<p>8th Because the said imprisonment is for <del></del>
+<p>8th Because the said imprisonment is for <del><unclear></unclear></del>
 for eleven days and time limited by the
-statute in each case made and provided <del>
+statute in each case made and provided <del>is
 only for</del> only allows an imprisonment for
 two days</p>
 
 <p>9th Because he is imprisoned and sentenced to hard labor
-and said Justice has no jurisdiction to so imprisonment and sentence him</p>
+and said Justice has no jurisdiction to so imprison and sentence him</p>
 
-<pb></pb>
+
+<pb facs="hc.case.wa.0420.007"/>
 
 <p>10th Because said imprisonment is for an indefinite
 time. There being no time but in the said
@@ -289,19 +286,71 @@ time of eleven days shall commence to <unclear></unclear></p>
 
 <p>11th Because the said petitioner was so committed and
 imprisoned before any return was made by the
-<unclear></unclear> of said court on the hereby issued by said
+Constable of said court on the hereby issued by said
 court for the collection go said fine and costs as to
-whether or no the said dine was or was not, or cruled
-or could be collected</p>
-
-<pb></pb>
+whether or no the said fine was or was not, or could
+or could not be collected</p>
 
 
+<pb facs="hc.case.wa.0420.008"/>
+<p>Whenfore, your petitioner prays that a Writ of Habeas
+Corpus may be granted directed to the said John H.
+McGraw, commanding him to have the body of
+M.J. McDonough before your Honor at a time and
+place therein to be specified, to do and vain what
+shall then and there be considered by your Honor
+concerning him. Together with the time and cause
+of his detention, and said writ, and that he may
+be restored to his liberty.</p>
 
-               
-<div1 type="case">
+<p>Valid this 21st day of February 1887</p>
 
-<pb/>
+<p>Martin J. McDonough</p>
+
+<p>Territory of Washington } ss.
+County of King</p>
+
+<p>M.J. McDonough being first
+duly sworn on oath says that he is the petitioner
+in the foregoing petition for a writ of Habeas Corpus
+that he has heard the said petition and knows
+all the facts therein stated and believed the same
+to be true</p>
+
+<p>Martin J McDonough</p>
+
+<p>Subscribed and Sworn to before me
+this 21st day of February 1887.
+A.A. Newlin
+Notary Public</p>
+
+<pb facs="hc.case.wa.0420.009"/>
+
+<p>5197
+In the Dist. Court of Wash. by.
+and for the 3rd Judicial Dist. thereof
+holding terms at Seattle for the
+Counties of King + Kitsap</p>
+
+<p>Territory of Washington 
+Plff.
+vs
+M.J. McDonough
+Deft. </p>
+
+<p>Petition
+for 
+Writ of Habeas Corpus.</p>
+
+<p>
+FILED
+FEB 23 1887
+James Seavey, Clerk.
+By James P. Ludlow
+Deputy Clerk</p>
+
+<p>A.A. Newlin
+Deft Atty.</p>
 
 
 </div1>

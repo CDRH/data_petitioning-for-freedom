@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0438.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0438.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>James McDevitt v. William Cochrane. Petition of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -19,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">James McDevitt v. William Cochrane. Petition of Habeas Corpus</title>
+<date when="1889">1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,15 +78,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889-02">February 1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>James McDevitt</term>
+<term>Humes</term>
+<term>Andrews</term>
+<term>James Harris</term>
+<term>William Cochrane</term>
+<term>James Essensey</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>King County, Territory of Washington</term>
 </keywords>
 
 </textClass>
@@ -94,33 +99,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>James McDevitt</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>William Cochrane</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Humes</persName>
+<persName>Andrews</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Thomas Burke</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court, Third Judical District</orgName>
+<placeName>King County, Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2022-07" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,8 +140,125 @@
 <div1 type="case">
 
 <pb/>
+<p>In the District Court, Third
+Judical District of Washington 
+Territory, holding terms at Seattle
+in King County</p>
+<p>In the matter of the application
+of James McDevitt, for a 
+Writ of Habeas Corpus</p>
+<p>To the Honorable Judge of
+the above entitled court-</p>
+<p>The petition of James McDevitt
+respectfully shows:</p>
+<p>That he said petitioner is
+restrained of his liberty, at the
+county jail of King County
+in the city of Seattle, by William
+Cochrane the Sheriff of said
+King County</p>
+<p>That the pretense of said
+restrainment, as a <unclear></unclear>commitment
+held by said sheriff 
+and which is in the words and
+figures following</p>
+<p>"Territory of Washington
+County of King} ss</p>
+<p>To William Cochrane, and
+the keeper of the County Jail of
+<unclear></unclear>King County, Whereas, at
+<pb></pb>
+a justices court held at my office
+in said county for the trial of
+James McDevitt <unclear></unclear>
+for the offense hereinafter
+stated the said James McDevitt
+was convicted of hearing, on the
+17th day of January 1889 in said
+County, committed petit larceny 
+by stealing one hog, property of
+Frank Dolan valued at twenty
+dollars, and upon conviction
+its said court did adjudge
+and determine that the said
+James McDevitt should pay a
+fine of sixty dollars and seventy
+eight &amp; 51/100 dollars costs, sixty
+days in County Jail, and placed
+committed until the same be 
+paid, and whereas the said 
+James McDevitt has made default
+in the payment of the same</p>
+<p>Therefore you the said James
+Essensey Constable, are commanded
+in the <unclear></unclear> of the United States
+to convey and deliver the said, James
+McDevitt to the said Keeper
+and you the said Keeper are hereby
+commanded to recieve this said
 
+<pb></pb>
 
+James McDevitt into your 
+custody in said jail and 
+keep him there at hard labor
+for the space of 105 (in all)
+days unless said fine and
+costs be sooner paid</p>
+<p>Dated this 6th day of February
+1889</p>
+
+<p>James Harris
+Justice of the Peace</p>
+
+<p>That said restraint is illegal
+in this -</p>
+<p>1. The <add>alleged</add> judgment recited in said
+commitment is in excess of the
+judgment and jurisdiction of the
+court, said Justice of it's peace</p>
+<p>2. The judgement recited in said
+commitment is void for <unclear></unclear></p>
+<p>3. The pretended judgment
+recited in said Commitment is void
+in this - The said justice of
+the peace had amended this
+petitioner a trial by jury, and
+yet in the absence of the petitioner
+and without his consent, and without
+previewing or examining any
+witness or empanelling any jury
+or in any other manner examining
+
+<pb></pb>
+
+into the facts or merits of
+the case the said justice of
+the peace <unclear></unclear> said the
+pretended judgment set <unclear></unclear>in
+said commitment, and issued
+said pretended commmitment</p>
+<p>Wherefore said petitioner prays
+that he may be brought before
+this Honorable Court, and then 
+dealt with according to law.</p>
+<p>He x James McDevitt Petitioner</p>
+<p>Humes &amp; Andrews
+Attys for Petitioner</p>
+
+<p>Territory of Washington
+County of King } ss</p>
+<p>James McDevitt being
+first duly sworn deposes and
+says; That he is the petitioner
+named in and making the foregoing
+petition - and the same is <unclear></unclear>
+as they <unclear></unclear> believes</p>
+<p>James McDevitt</p>
+<p>Subscribed and sworn to
+before me February 8th 1889</p>
+<p><unclear></unclear>
+Notary Public</p>
 </div1>
     
 </body>

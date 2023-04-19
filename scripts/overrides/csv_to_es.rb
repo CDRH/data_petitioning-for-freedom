@@ -54,6 +54,12 @@ class CsvToEs
       if @row["Item Type(s)"]
         @json["document_types_k"] = JSON.parse(@row["Item Type(s)"])
       end
+			@json["court_k"] = @row["Court Type"]
+      @json["repository_k"] = check_and_parse("Repository")
+      @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
+        # using this for people for now. may add more fields later.
+      @json["petitioners_k"] = check_and_parse("Petitioners")
+
 		end
 		
 		def id
@@ -65,9 +71,7 @@ class CsvToEs
     end
   
     def category2
-      if @row["Petition Type"]
-        JSON.parse(@row["Petition Type"])
-      end
+      check_and_parse("Petition Type")
     end
   
     # def creator
@@ -103,9 +107,7 @@ class CsvToEs
     end
   
     def format
-      if @row["Source Material(s)"]
-        JSON.parse(@row["Source Material(s)"])
-      end
+      check_and_parse("Source Material(s)")
     end
   
     def get_id
@@ -119,9 +121,7 @@ class CsvToEs
     end
     
     def keywords
-      if @row["Tags"]
-        JSON.parse(@row["Tags"])
-      end
+      check_and_parse("Tags")
     end
 
     def person
@@ -248,6 +248,12 @@ class CsvToEs
         built_text << value.to_s
       end
       return array_to_string(built_text, " ")
+    end
+
+    def check_and_parse(key)
+      if @row[key]
+        JSON.parse(@row[key])
+      end
     end
 
   end

@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -104,10 +105,13 @@
 <persName>Hamilton, T.J.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Lewis + Gilman</persName>
+<persName></persName>
 </person>
 <person role="judge">
 <persName>Jones, Richard A.</persName>
@@ -123,7 +127,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>  
+<change when="2022-08" who="#slb">reviewed</change>       
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -133,7 +138,9 @@
 
 <body>  
 
-<p>Before the Honorable R.A. Jones sitting in chamber</p>
+<p>Before the Honorable R.A. Jones sitting in chambers.</p>
+
+<p>N. 124</p>
 
 <p>IN THE MATTER OF THE APPLICATION
 OF CHARLES W. SAWYER FOR A WRIT

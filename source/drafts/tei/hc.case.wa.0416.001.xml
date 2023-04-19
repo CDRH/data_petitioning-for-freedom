@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. W. Hutchinson v. Territory of Washington. Order</title>
+<title>In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Order to see the cause in court</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Order</title>
-<date when="1885">November 12, 1885</date>
+<title level="m" type="main">In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Order to see the cause in court</title>
+<date when="1885-11-12">November 12, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4704</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,18 +80,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1885-11">November 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hutchinson, C. W.</term>
-<term>Harris, W.S.C.</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,30 +101,33 @@
 <persName>Hutchinson, C. W.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Harris, W. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gilman, L. C.</persName>
+<persName>Rasin, U. M.</persName>
+<persName>Lewis, James Hamilton</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Gueni</persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-10" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,42 +145,44 @@
 <p>FILE
 No. 4704</p>
 
-<pb/>
+<pb facs="hc.case.wa.0416.002"/>
 
 <p>In the District Court of the 
 third Judicial District of Washington
 Territory of Washington
 holding thems at Seattle for 
-the Countries of King &amp; Kitsep:</p>
+the Countries of King &amp; Kitsap:</p>
 
 <p>In the matter of 
 the application of 
 C. W. Hutchinson on 
 for Habeas Corpus} 
-Territory of Wahsington 
+</p>
+<p>
+Territory of Washington 
 County of King 
-ss
+ss.
 Order
-No4704</p>
+No 4704</p>
 
 <p>An now it appearing to me 
-by petition of C.W.Hutchinson
+by petition of C. W. Hutchinson
 that he is illegally restrained of 
-his liberty by one <del></del><add>W H Harris</add>
-<del>Pren</del> in this country of King
-withouhgt proper authority - now
+his liberty by one <del><unclear>Lewis Van</unclear></del><add>W H Harris</add>
+<del>Doren</del> in this county of King
+without proper authority - now
 this is to order that the said
-<del>Lewis now Doren</del><add></add> do appear before 
+<del>Lewis Van Doren</del><add>W H Harris</add> do appear before 
 me as the District Court house
 of King County in Seattle, where 
 I am holden open the day of 
 November AD 1885 at 2 1/2 O'Clock P.M.
 and then and there to have and 
 produce the body of the said 
-C.W.Hutchinson that &amp; may 
+C. W. Hutchinson that I may 
 inquire of and determine why  
  
-<pb/>
+<pb facs="hc.case.wa.0416.003"/>
 
 the said Hutchingson is so 
 illegally restrained and the 
@@ -186,23 +191,23 @@ Court is ordered to issue a
 writ in accordance with this 
 order,</p>
 
-<p>Ywen this 12th day of 
+<p>Given this 12th day of 
 November AD 1885</p>
 
-<p>Gueni
+<p>Greene
 Judge</p>
 
-<pb/>
+<pb facs="hc.case.wa.0416.004"/>
 
-<p>In the Dist, Ct.
-of the 3 &amp; gudicial Dist
+<p>In the Dist. Ct.
+of the 3rd Judicial Dist
 of Washington Territory</p>
 
 <p>#4704</p>
 
 <p>In re 
 petition of 
-CWHutchinson
+C W Hutchinson
 for 
 Habeas Corpus</p>
 
@@ -210,12 +215,12 @@ Habeas Corpus</p>
 
 <p>FILED
 NOV 12 1885
-James Seavey Clerk
+James Seavey Clerk.
 By James P. Ludlow
 Deputy Clerk</p>
 
-<p>Rasm &amp; Glimen
-<unclear></unclear></p>
+<p>Rasin &amp; Gilman
+<unclear>James H. Lewis</unclear></p>
 </div1>
     
 </body>

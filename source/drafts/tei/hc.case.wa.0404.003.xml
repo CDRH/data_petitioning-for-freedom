@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -44,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Letter of Wyckoff</title>
+<title level="m" type="main">Henry Imhof v. LV Wyckoff. Letter of Wyckoff</title>
 <date when="1881-11-05">November 5, 1881</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -94,22 +95,19 @@ King County</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Imhof</persName>
+<persName>Imhof, Henry</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wyckoff</persName>
-</person>
-<person role="attorney_petitioner">
-<persName></persName>
+<persName>Wyckoff, Lois V.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>John P Hoyt</persName>
+<persName>Hoyt, John Philo</persName>
 </person>
 </listPerson>
             
@@ -124,6 +122,7 @@ King County</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>

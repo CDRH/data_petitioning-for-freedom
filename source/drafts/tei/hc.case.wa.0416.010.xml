@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. W. Hutchinson v. Territory of Washington. Execution</title>
+<title>In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Sheriff's Return on Execution</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -20,7 +21,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Execution</title>
-<date when="1885">January 23, 1885</date>
+<title level="m" type="main">In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Sheriff's Return on Execution</title>
+<date when="1885-12-03">December 3, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4704</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Civil</term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,19 +80,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1885-11">November 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hutchinson, C. W.</term>
-<term>Harris, W.S.C.</term>
-<term>Greene, Roger S.</term>
-<term>Seavey, James</term>
-<term>Ludlow, James P.</term>
+<term>McGraw, John Harte</term>
+<term>Hutchinson, Lena</term>
+<term>McKinlay, D. R.</term>
+<term>Phillips, H. F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -102,7 +103,7 @@
 <persName>Hutchinson, C. W.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Harris, W. H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -111,21 +112,22 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Greene, Roger Sherman</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-12" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,88 +140,74 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0416.010"/>
+<pb facs="hc.case.wa.0416.026"/>
 
-<p>UNITED STATES OF AMERICA</p>
+<p>Office of the Sheriff
+of King County W.T.} ss.</p>
 
-<p>Territory of Washington 
-Third Judicial District } ss. 
-No.4704</p>
+<p>I J H McGraw,
+Sheriff of King County W.T. do hereby 
+certify that I receive the annexed 
+Execution on the 13th day of November,
+1885 and by virtue and in pursuance 
+thereof, I on the 14th day of Novemeber 
+1885 duly levy, upon seized and I took 
+into my custody in King County, W.T. 
+as the property of the defendant named
+in said writ the following described 
+personal property to wit:</p>
 
-<p>To the Seriff of Pierce County, Greeting:</p>
+<p>2 Small Horses, 1-3 Spring Wagon 
+and 1 Set Double Harness</p>
 
-<p>WHEREAS, C.H. Hutchinson 
-recovered judgment against W.H. Harris
-in the District Court for the Third Judicial District of Washington 
-Territory, holding terms at Seattle, on the 13th day of November 
-A.D. 1885 for the <del>sum of Dollars,
-with interest at the rate of until paid, 
-and</del> cost of suit, amounting to Seventeen and 40/100 ($17.40) Dollars.
-and Increased cost taxed at Jan and 75/100 ($10. 45/100) dollars.
-THEREFORE, in the name of the United States of America, you are hereby commanded forthwith to 
-levy upon, seize and take into execution, the personal property of the said
-W.H. Harris
-in your County, sufficient subject to execution to satisfy said judgment, interest and increaed interest,
-cost and increased cost, and make sale therof according to law; and if sufficient perosnal property 
-cannot be found, then you are further commanded to make the amount of saif judgment, interest and 
-increased interest, cost and increased cost, out of his real property, not exempt 
-by law, and make retun of this writ within sixty days drom the date herof.</p>
+<p>That I advertised said property 
+to be sold by me at the City Stables 
+in the City of Seattle, King County W.T. 
+on the 30th day of November 1885 by 
+posting written notices of said sale
+in there of the most public places 
+in said City.</p>
 
-<p>Hereiin fail not and have you then and there this writ</p>
+<p>That before the day fixed 
+for said sale, to wit: on the 28th day of 
+November, 1885, one Mrs Lena Hutchinson 
+claimed to be the owner of said property, 
+and having proved to my satisfaction 
+the validity of her said claim, I by 
+her order, left said property in the 
 
-<p>WITNESS the Hon. Roger S. Greene, Chief of Justice of the Supreme 
-Court, and Judge of the Third Judicial District of Washington Territory,
-and the Seal of said Court, this 3rd
-day of December A.D. 1885</p>
+<pb facs="hc.case.wa.0416.027"/>
 
-<p>JAMES SEAVEY, clerk.</p>
+custody of H. F. Phillips &amp;  Co in said 
+County, subject to the order of her the
+said Lena Hutchinson</p>
 
-<p>By James P. Ludlow Deputy Clerk.</p>
+<p>I hereby further certify that 
+I am unable to find any property 
+in my County on which to make the 
+ammount of the said execution or any 
+part thereof.</p>
 
-<figure></figure>
+<p>Dated at Seattle the 3rd day of 
+December, 1885</p>
 
-<pb/>
+<p>J. H. McGraw 
+Sheriff 
+By D. R. McKinlay
+Dep.</p>
 
-<p>Settled in full Jan, 22.00 1886
-Leve's Boyd, 
-Sheriff of Paves Co <unclear></unclear></p>
+<p>Sheriff's Fees
+Levy $1.00
+Copy Writ .80
+Travel .20
+Posting Notices 1.50
+Copies 2.40
+Travel .20
+Swearing Keeper .25
+Return of Writ 1.00
+$7.35</p>
 
-<p>Re &amp; Due with 1885
-Regerd Sheriff 
-perco Co. 
-<unclear></unclear>No.4704</p>
 
-<p>IN THE DISTRICT COURT, 
-THIRD JUDICIAL DISTRICT</p>
-
-<p>In Re, the petition
-of G.W. Hutchinson 
-VS.
-for Writ of Habeas 
-Corppus</p>
-
-<p>EXECUTION</p>
-
-<p>Judgment for $
-Interest at per cent, $
-Increased Interest, $
-Cost, $17.40
-Clerk's Incresed Cpst $ 3.40
-Sherif's Increased Costs <add>of King County</add> $7.35
-Service 1.00
-imlege 10.00 1.00
-<unclear></unclear> 30
-30.45</p>
-
-<p>Filed 188
-JAMES SEAVVEY, Clerk
-By Deputy</p>
-
-<p>FILED 
-JAN 25 1886
-James Seavey Clerk,
-By James P. Ludlow
-Deputy Clerk.</p>
 </div1>
     
 </body>

@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -94,10 +94,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -121,6 +121,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>

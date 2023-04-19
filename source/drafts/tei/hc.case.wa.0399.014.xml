@@ -2,7 +2,7 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0399.014">
     
     <teiHeader>
         <fileDesc>
@@ -44,7 +44,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0399.014</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -55,7 +55,7 @@
             <sourceDesc>
                 <bibl>
                     <title level="m" type="main">John W. Harding Plantiff vs.G. W. L. Allion Sheriff Defendant</title>
-                    <date when="1891">1891</date>
+                    <date when="1879">1879</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -87,7 +87,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1879-01-09">January 9, 1879</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
@@ -103,10 +103,10 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>William Fox</persName>
+                        <persName>Harding, John W.</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Allen, G. W. L.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +115,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, Joseph R.</persName>
                     </person>
                 </listPerson>
                 
@@ -131,6 +131,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        <change when="2022-11" who="#edr">reviewed</change>
         </revisionDesc>
         
     </teiHeader>
@@ -144,29 +145,31 @@
 $3.00
 $36.20
 Witnesses
-David E. Follett 1 day o attendance $2.00
+David E. Follett 1 day's attendance $2.00
 Milage and witnesses to Seattle 260 miles 26.00
 George Slate, 1 day's attendance 2.00
 Milage to Seattle from Whateurn and return 254 miles 25.40
 Charles McCrib 1 days attendance 2.00
 Milage to Seattle from Whateurn and return 260 miles 26.00
 $83.40
+<del>Attorney's Pet. W. H. White $10.00</del>
+Total $132.45
 Territory of Washingotn 
 County of king S. S. 
-w h White an oath says that he is the
+W. H. White, an oath says that he is the
 attorney for the plantiff in the above action
 and that the above court bill 
-in the same is just and cect as viely believes.
+in the same is just and correct as he verily believes.
 Subscribed and sworn to before me this
 9th day of January 1879
 Beniah Brown Jr.
-Noraty Public for King County W. J.
-the above bill <unclear></unclear> sruface
-start out its agreement
+Noraty Public for King County W. T.
+the above bill will suffice.
+Strike out is approved.
 J. R. Lewis Judge</p>
                 
             </div1>
             
         </body>
     </text>
-</TEI
+</TEI>

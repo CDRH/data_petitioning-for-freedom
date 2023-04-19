@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -94,10 +94,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -121,6 +121,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,14 +147,14 @@ King County W.T. duly certify
 that preconsists the receipt 
 by me of said writ, the 
 said George R. Daly, therein
-named was <unclear>admitted</unclear> to
+named was committed to
 my custody by virtue of a
 certain other wit, a true 
 copy of which is hereto
 annexed, and the orginial of which
 I herewith produce.</p>
 <ab>Nevertheless, I have the said
-George R Daly bow before
+George R Daly now before
 you as I am commanded.</ab>
 <ab>Dated at Seattle, this
 17th dat of March 1884,
@@ -164,7 +165,7 @@ County of King</ab>
 <ab>JH McGraw being first
 <pb></pb>
 duly sworn, on oath says, that the foregoing return by
-him signed, is ture and 
+him signed, is true and 
 correct in all particulars</ab>
 <ab>JH McGraw</ab>
 <ab>Subscribed and sworn to 

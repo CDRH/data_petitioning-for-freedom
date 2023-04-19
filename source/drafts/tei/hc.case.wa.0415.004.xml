@@ -6,13 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alfred Woods v. John H. McGraw. Type of document</title>
+<title>In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Return on Service of Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
-
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -47,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alfred Woods v. John H. McGraw. Type of document</title>
-<date when="1885">1885</date>
+<title level="m" type="main">In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Return on Service of Commitment</title>
+<date when="1885-08-22">August 22nd, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4669</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -72,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -80,7 +80,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1885">1885</date></term>
+<term><date when="1885-08">August 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
@@ -103,19 +103,13 @@
 <persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Struve</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Haines</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McMicken</persName>
+<persName></persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Greene, Roger S.</persName>
+<persName></persName>
 </person>
 </listPerson>
             
@@ -130,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,7 +132,9 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+<pb facs="hc.case.wa.0414.011"/> 
 <p>Territory of Washington } ss
 Third Judicial District</p>
 
@@ -151,14 +148,8 @@ in my custody by virtue of the
 annexed writ of commitment
 and not otherwise</p>
 
-<p>JW George
+<p>J W George
 US Marshal</p>
-
-               
-<div1 type="case">
-
-<pb/>
-
 
 </div1>
     

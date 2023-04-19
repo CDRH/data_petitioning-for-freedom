@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,12 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Daniel Sprague</term>
+<term>Sprague, Daniel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle
-Oregon</term>
+<term>Seattle</term>
+<term>Oregon</term>
 </keywords>
 
 </textClass>
@@ -95,10 +95,10 @@ Oregon</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -107,7 +107,7 @@ Oregon</term>
 <persName></persName>
 </person>
 <person role="judge">
-<persName>T.H. Cann</persName>
+<persName>Greene, Roger D.</persName>
 </person>
 </listPerson>
             
@@ -122,6 +122,7 @@ Oregon</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,7 +140,8 @@ Oregon</term>
 <ab>"B" In Justice's Court,
 Before T.H. Cann, Justice of the Peace in and for Seattle Precinct.</ab>
 <ab>Territory of Washington,
-County of King, |ss. State of Oregon 
+County of King, |ss.</ab>
+<ab>State of Oregon 
 vs
 George R Daly
 Deft.</ab>
@@ -154,7 +156,7 @@ of the value of $50 the property of
 one Wm Daily
 contrary to the form of the Statute in such case made and provided, an
 against the peace and dignity of the Territory of Washington.</p>
-<ab>I verify <unclear></unclear> the forgoing statements to be true
+<ab>I verily believe the forgoing statements to be true
 Daniel Sprague</ab>
 <ab>Subscribed and sworn to before me this, the 13th
 day of March 1884</ab>
@@ -165,8 +167,8 @@ Justice of the Peace Seattle Precinct.</ab>
 Territory of Washington
 vs. 
 G R Daly</ab>
-<ab>Compn</ab>
-<ab>filled March 1884
+<ab>Copy</ab>
+<ab>filed March 1884
 TH Cann
 Justice of the Peace, Seattle Precinct,
 King County, W.T.</ab>

@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,8 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Seavey
-James P Ludlow</term>
+<term>Seavey, James</term>
+<term>Ludlow, James P</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,19 +95,25 @@ James P Ludlow</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John H. Mitchell</persName>
+<persName>Mitchell, John H.</persName>
 </person>
-<person role="attorney_defendant">
-<persName></persName>
+<person role="attorney_petitioner">
+<persName>McNaught, James</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>McNaught, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Ferry, Elisha P.</persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Green, Roger D.</persName>
 </person>
 </listPerson>
             
@@ -122,6 +128,7 @@ James P Ludlow</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,10 +146,10 @@ James P Ludlow</term>
 County of King</ab>
 <p>George R. Daly
 being first duly sowrn upon 
-first deposes and says 
+oath deposes and says 
 that he is the petitioner
 name in the foregoing
-<del>petition</del> <add><unclear></unclear></add> that be <unclear></unclear>
+<del>petition</del> <add><unclear>execptions</unclear></add> that be <unclear></unclear>
 read the foregoing exceptions
 knows the contents hereof
 and believes the said

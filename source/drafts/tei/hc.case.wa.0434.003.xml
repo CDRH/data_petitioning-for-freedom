@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Bowler and Edward McCrinkle v. James H. Bennett. Complaint, Exhibit C</title>
+<title>John Bowler and Edward McCrinkle v. James H. Bennett. Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0434.003</idno>
+<idno type="project">hc.case.wa.0435.003</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">John Bowler and Edward McCrinkle v. James H. Bennett. Complaint, Exhibit C</title>
-<date when="1888-06-20">June 20, 1888</date>
+<title level="m" type="main">John Bowler and Edward McCrinkle v. James H. Bennett. Habeas Corpus</title>
+<date when="1888-06-28">June 28, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -79,18 +79,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1888-06-20">June 20, 1888</date></term>
+<term><date when="1888-06-28">June 28, 1888</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McCrink, Edward</term>
-<term>Davis, William</term>
-<term>Swanson, Fred</term>
-<term>Fernando, Antonio</term>
-<term>James, Charles</term>
+<term>Ledgerwood, W.E.</term>
+<term>Cannon</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
+<term>Seattle, Washington</term>
 <term>King County</term>
 </keywords>
 
@@ -108,20 +106,23 @@
 <persName>Bennett, James H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Jones, Richard A.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>District Court for the Third Judicial District of Washington</orgName>
-<placeName>King County</placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -129,6 +130,8 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#cjy">updated ID number</change>
+<change when="2022-07" who="#edr">review</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,55 +140,47 @@
 
 <body>  
 
-<p>COMPLAINT
-Before C.D. EMERY, United States Commissioner, Seattle, Wash.
-No.103</p>
+<p>IN THE DISTRICT COURT,</p>
 
-<p>"Exhibit C"</p>
+<p>Of the Third Judicial District of Washington Territory, holding Terms at Seattle,
+for the County of King</p>
 
-<p>United States of America,
-Territory of Washington,    } ss.
-City of Seattle</p>
+<p>HABEAS CORPUS.</p>
 
-<p>John Bowler of Seattle in the
-County of King and Territory of Washington, being duly sworn, deposes and says that
-James H. Bennett</p>
+<p>The People of the United States of America, to the <del>Sheriff of King County, Greeting:</del>
+<add>United States Marshal</add></p>
 
-<p>heretofore, to-wit, on the 15 day of June A.D. 1888 -----
-upon the high seas with then admiralty jurisdiction of the United
-States and out of the jurisdiction of any particular state being then and
-there master of the steam-ship Alki, the siad steamship being then and
-there owned by citizens of the United States, in and on board of said
-steamship Alki, with a dangerous weapon, towit, with brass knuckles in
-and upon the person of the said deponen did make an assault and him the
-said deponent did then and there bear wound and illtreat.</p>
+<p>We command you, that you have the body of John Bowler and Edward McCrinkle
+by you imprisoned and detained as it is said, together with the time and cause of such imprisonment and detention, by
+whatsoever name said Bowler and McCrinkle shall be called or charged,
+before the HON. RICHARD A. JONES, Judge of the aforesaid Court at the Court House in
+the City of Seattle W.T. at the hour of 4 o'clock P.M.
+of said day
+to do and receive what shall then and there be considered concerning the said John Bowler
+and Edward McCrinkle
+And have you then and there this writ.</p>
 
-<p>And deponent on oath further says that on the same day and
-year upon the high seas and on waters within the admiralty
-<add>and maritime</add>jurisdiction
-of the United States upon the said American steamship Alki of which steam
-ship he the said James H. Bennett was then adn there master he the said
-James H. Bennett from malice and hatred and without justifiable cause
-did and would the said John Bowler, this deponent, he the said deponent
-being then adn there a seaman duly shipped on board of and in
-the employ of said steamship</p>
-
-<p>contrary to the form of the statute in such case made and provided, and against the peace and dignity of the United
-States of America. Wherefore the said deponent prays  that the said James H. Bennett
-may be apprehended and dealth with according to law. And, furthermore, the said deponent prays that William
-Davis, Edward McCrink, Fred Swanson, Antonio Fernando + Charles James
-whom he has reason to believe, and does believe, are material witnesses
-to the subject matter of this Complaint, may be duly summoned to appear and give testimony thereto.</p>
-
-<p>(Signature) John Bowler
-Sworn to and subscribed before me this 20 day of June A.D. 1888
-C.D. Emery
-U.S. Commissioner</p>
-
-<p>(Seal
-of US Com)</p>
+<p>WITNESS THE HON. RICHARD A. JONES, Judge of said District
+Court, and the seal thereof this 28th day of
+June A.D. 1888
+W.E. Ledgerwood,
+Clerk.
+By H. T. Hannon Deputy Clerk.</p>
 
 <pb></pb>
+
+<p>No. 6086</p>
+
+<p>In the
+District Court,
+Third Judicial District,
+Holding Terms at Seattle, W.T.</p>
+
+<p>In the Matter of the Application of
+John Bowler et al.
+For Writ of Habeas Corpus
+HABEAS CORPUS
+</p>
                
 <div1 type="case">
 

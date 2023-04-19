@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Michael Henan v. John H. McGraw. Order</title>
+<title>In the matter of the application of Michael Henan for discharge on a Writ of Habeas Corpus. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Michael Henan v. John H. McGraw. Order</title>
-<date when="1885-08">August 1885</date>
+<title level="m" type="main">In the matter of the application of Michael Henan for discharge on a Writ of Habeas Corpus. Order</title>
+<date when="1885-08-21">August 21st, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4544</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,30 +84,42 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Pritehard, Elizabeth</term>
+<term>Pritchard, Elizabeth</term>
 <term>Levy, Jacob</term>
-<term>Harding, Chas. E.</term>
-<term>Bird, F.C.</term>
+<term>Harding, Charles E.</term>
+<term>Bird, F. C.</term>
 <term>Morse, Thomas</term>
-<term>Walsh, Helen</term>
-<term>Ricard, D.W.</term>
-<term>Woolery, J.H.</term>
+<term>Wash, Helen</term>
+<term>Ricard, D. W.</term>
+<term>Woolery, J. H.</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
-<term>King County</term>
+<term>King County, Washington</term>
 </keywords>
+
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-
-
+<persName>Henan, Michael</persName>
+</person>
+<person role="defendant">
+<persName>McGraw, John H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Lewis, James H.</persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName>
+</person>
+<person role="judge">
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
@@ -121,6 +134,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -128,18 +142,24 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+
+<pb facs="hc.case.wa.0414.008"/>
 <p>Territory of Washington
-County of King            } sl sl</p>
+County of King            } s! s!</p>
 
 <p>In the District Court for the third Judicial District of Washington
-Territory, holding terms at Seattle for the County of King:</p>
+Territory, holding terms at Seattle for the County of King:-</p>
 
-<p>IN CHAMBERS</p>
+<p>IN CHAMBERS:-</p>
 
 <p>In the matter of the application of
 Michael Heenan for a writ of Habeas }
-Corpus                                          ORDER.</p>
+Corpus                                          
+
+<del>PETITION.</del>
+ORDER.</p>
 
 <p>The above named cause coming on before me in chambers upon the
 petition of Michael Hennan complaining that he is illegaly restrained
@@ -153,18 +173,18 @@ restraint be illegal:</p>
 <p>NOW THEN this is to order that you J.H. McGraw
 Sheriff and jailer of the said county of King as aforesaid do
 produce at two o'clock of the afternoon of the 22d. day of August 1885
-before me at my chambers of the Court Hoise of said King County the
-bofy of the said Michael Henan and there you be to answer why and
+before me at my chambers of the Court House of said King County the
+body of the said Michael Henan and there you be to answer why and
 wherefore such Henan be restained and have you then and there -
 this writ and your return thereon; and you do summon to appear
 before me at the same time and place aforesaid directed Elizabeth 
-Pritehard, Jacob Levy, Chas E. Harding, F.C. Bird, Thos. Morse, Helen
-Walsh, D.W. Ricard and J.H. Woolery to testify and make known
+Pritehard, Jacob Levy, Chas E. Harding, F. C. Bird, Thos. Morse, Helen
+Walsh, D. W. Ricard and J. H. Woolery to testify and make known
 their cause against the said Heenan and why he is so restrained as
 aforesaid:-</p>
 
 <p>And I do order that a writ in compliance with this order
-do issue from the hand and seal of the clerk of the above named
+<sic>der</sic> issue from the hand and seal of the clerk of the above named
 Court commanding you as aforesaid to be and appear.</p>
 
 <p>Dated at Seattle King County
@@ -173,7 +193,7 @@ August A.D. 1885
 Roger S. Greene
 Judge of said Court.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.010"/>
 
 <p>No. 4544</p>
 
@@ -183,11 +203,14 @@ Seattle, Washington Territory.</p>
 
 <p>In re application of
 Michael Henan
-for
+for <del>Plaintiff.</del>
 a Writ of Habeas
-Corpus - JH McGraw</p>
+Corpus - JH McGraw
+Jailer <del>Defendant.</del></p>
 
-<p>Order</p>
+<p>
+<del>Copy of</del>
+Order</p>
 
 <p>FILED
 AUG 21 1885
@@ -197,12 +220,6 @@ Deputy Clerk.</p>
 
 <p>J.H. Lewis
 Attorneys for pett</p>
-
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
 
 
 </div1>

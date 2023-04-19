@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -81,13 +82,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Ludlow</term>
+<term>Ludlow, James</term>
+<term>McNaught, Joseph</term>
+<term>McNaught, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle
-Alaska
-King County</term>
+<term>Seattle</term>
+<term>Alaska</term>
+<term>King County</term>
 </keywords>
 
 </textClass>
@@ -95,22 +98,19 @@ King County</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Henry Imhof</persName>
+<persName>Imhof, Henry</persName>
 </person>
 <person role="petitioner">
 <persName></persName>
 </person>
 <person role="defendant">
-<persName>LV Wyckoff</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>Wyckoff, Lois V.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Hoyt, John Philo</persName>
 </person>
 </listPerson>
             
@@ -125,6 +125,7 @@ King County</term>
         
 <revisionDesc>         
 <change when="2021-06" who="#GT">transcribed and encoded</change>
+<change when="2022-09" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -162,7 +163,7 @@ issued by said James P. Ludlow
 in which complaintaint is charged with
 selling giving and disposing of beer
 <pb></pb>
-to certain Indians at Ditka in the
+to certain Indians at Sitka in the
 Territory of Alaska.</p>
 <ab>3rd.</ab>
 <p>That the said restraint is illegal and

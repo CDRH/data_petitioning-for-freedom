@@ -6,20 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Samuel O'Brien v. Nancy O'Brien. Type of document</title>
+<title>In Re Application of Samuel O'Brien for a Writ of Habeas Corpus for Harry O'Brien. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Lucas, Natalie" xml:id="nl">Natalie Lucas</name>
-<name n="Neuhaus, Madeline" xml:id="mn">Madeline Neuhaus</name>
-<name n="Rubi, Diana J." xml:id="djr">Diana J. Rubi</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
-<name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
-<name n="Rittscher, Grace A." xml:id="gar">Grace A. Rittscher</name>
-<name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
-<name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
-<name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -54,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Samuel O'Brien v. Nancy O'Brien. Type of document</title>
-<date when="1887-07-09">July 9th, 1887</date>
+<title level="m" type="main">In Re Application of Samuel O'Brien for a Writ of Habeas Corpus for Harry O'Brien. Order</title>
+<date when="1887-07-09">July 9, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -87,18 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1887-07-09">July 9th, 1887</date></term>
+<term><date when="1887-07-09">July 9, 1887</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
 <term>O'Brien, Harry</term>
-<term>Turner, George</term>
-<term>Clement, D.A.</term>
+<term>Clement, D. A.</term>
 <term>Glispin, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Spokane County</term>
+<term>Spokane County, Washington</term>
 </keywords>
 
 </textClass>
@@ -132,6 +122,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2023-01" who="#lkw">review</change>       
 <change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,8 +132,10 @@
 
 <body>  
 
-<p>Territory of Washington } SS.
-County of Spokane</p>
+<div1 type="case">
+<pb facs="hc.case.wa.0167.007"/>
+<p>Territory of Washington 
+County of Spokane} SS.</p>
 
 <p>In the District Court of the Territory of Washington, and for
 the Fourth Judicial District thereof Holding terms at Spokane
@@ -153,7 +146,7 @@ of Samuel O'Brien for
 a writ of habeas corpus
 for Harry O'Brien.</p>
 
-<p>To the Sheriff of Spokane County: -- Greeting:
+<p>To the Sheriff of Spokane County: -- Greeting:<lb/>
 You are hereby commanded to forthwith apprehend and take
 into your custody the body of Harry O'Brien, and that you have
 him the said Harry O'Brien before the Hon. George Turner on the
@@ -165,35 +158,26 @@ this writ with your return thereon.</p>
 Associate Justice of the Supreme
 Court, and Judge of said Court, and
 the seal thereof affixed, this 9th
-July A.D. 1887.
+July A.D. 1887.<lb/>
 D.A. Clement, Clerk.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0167.008"/>
 
-<p>Territory of Washington } SS.
-County of Spokane </p>
+<p>Territory of Washington 
+County of Spokane } SS.</p>
 
-<p>I James Glispin Sheriff of Spokane County WS.
+<p>I James Glispin Sheriff of Spokane County WT.
 I hereby certify that I have served the within writ
 on the within named Harry OBrien on this the 9. Day
-of July AD 1887 in Spokane County WS.
+of July AD 1887 in Spokane County WT.
 and now have him in court as directed.</p>
 
-<p>James Glispin
-Sheriff of Spokane County.
-By A.J. Duncan
+<p>James Glispin<lb/>
+Sheriff of Spokane County.<lb/>
+By A.J. Duncan<lb/>
 Deputy</p>
 
-<pb></pb>
-
-               
-<div1 type="case">
-
-<pb/>
-
-
 </div1>
-    
 </body>
 </text>
 </TEI>

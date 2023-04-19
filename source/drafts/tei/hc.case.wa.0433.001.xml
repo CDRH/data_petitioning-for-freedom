@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Petition for Writ</title>
+<title>In the matter of James A. Balch on Habeas Corpus Proceedings. Petition for Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Petition for Writ</title>
+<title level="m" type="main">In the matter of James A. Balch on Habeas Corpus Proceedings. Petition for Writ</title>
 <date when="1888-05">May 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6023</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -84,11 +85,15 @@
     
 <keywords scheme="lcsh" n="people">
 <term>Stevenson, James M.</term>
+<term>Harmon, H. T.</term>
+<term>Ledgerwood, W. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
-<term>King County</term>
+<term>Oregon</term>
+<term>Pierce County</term>
+<term>Yakima County, Washington</term>
 </keywords>
 
 </textClass>
@@ -99,7 +104,7 @@
 <persName>Balch, James A.</persName>
 </person>
 <person role="defendant">
-<persName>Waughop, D.J</persName>
+<persName>Waughop, J. W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -123,6 +128,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,33 +136,34 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+<pb facs="hc.case.wa.0433.001"/>
 <p>FILE
 No. 6023</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.002"/>
 
 <p>To the
 Hon. Richard A. Jones
 Chief Justice of
 Washington Territory</p>
 
-<p>Petitioner James A.
+<p>Your Petitioner James A.
 Balch respectfully
-represents unto your honor</p>
-
-<p>first that he is a citizen of the
+represents unto your honor
+First that he is a citizen of the
 United States of the age of 62
 years and was
 during the war of the Rebellion
 Second Lieutenant of company
-F of the First Rigment
+F of the First Regiment
 of Oregon Volunteer as of the state of
 Oregon that he is unlawfully
 restrained of his liberty by Dr. J
 W. Waughop the manager
-or director of the 
-asylum at <del></del>
+or director of the insane
+as<del>s</del>ylum at <del></del>
 Steillacoom <del></del>
 in the County of Pierce
 W.T.</p>
@@ -168,16 +175,16 @@ to the best of the knowledge
 and belief of your petitioner
 is an order of the probate</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.003"/>
 
 <p>Court of the County of
-Yacqma County Wash. Ter. made
+Yakima County Wash. Ter. made
 and dated on or about the
 twenty fifth day of May 1883
 on account of insanity or
-alleged insanity on the
+alleged insanity on the <del></del>
 subject of Religion and incorporation
-and homocidal tendinces</p>
+and homocidal tendencies</p>
 
 <p>Third.
 That if your petitioner
@@ -185,8 +192,8 @@ were insane at the times or date
 of said order he has succesfully
 recovered, and is
 now and for a long time
-has been <unclear></unclear> sane and
-of sound <unclear></unclear></p>
+has been purportly sane and
+of sound mind</p>
 
 <p>Your petitioner asks that
 a Writ of Habeas Corpus
@@ -199,15 +206,15 @@ mental condition inquired
 into and that such under
 may be made in the
 Honorable Court of Chief Justice Jones and further
-you <unclear>humble</unclear> pettione is very weary on this unecessary
+you Humble <sic>pettione</sic> is very weary on this unecessary
 restaint and incarceration and your petitoner
-carrestly hopes that your petitions case may have
-your careful and earnest attention <unclear></unclear></p>
+earnestly hopes that your petitions case may have
+your careful and earnest attention </p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.004"/>
 
-<p>I cannot believe that I am a proper object of
-charity my feelings rebell against it all the time
+<p>I cannot believe that I <del>am</del> am a proper object of
+charity my feelings Rebell against it all the time
 I have all my life tried to do my duty quietly
 and now I leave the matter with you.
 I shall await with great anxiety the summons to appear before
@@ -216,13 +223,12 @@ will do on the <unclear></unclear> as justice and
 equity may inquire, and
 your petitioner as in duty
 bound will ever pray &amp;
+<unclear>Stevenson Witness</unclear>
 James a Balch.</p>
 
-<p><unclear></unclear>
-Jm Stevenson Witness</p>
 
 <p>Territory of Washington
-County of Pierce</p>
+County of Pierce} ss.</p>
 
 <p>James A Balch
 being first duly sworn
@@ -230,11 +236,11 @@ deposes and says, he has
 made the foregoing petition
 signed by him and he knows
 the contents thereof and
-that the matters and
+that the same matters and
 things therein stated are
 true</p>
 
-<p>James Balch.</p>
+<p>James A Balch.</p>
 
 <p>Subscribed and
 sworn to before me
@@ -243,10 +249,10 @@ this 12th day of May 1888</p>
 <p>James M. Stevenson
 Justice of the Peace</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0433.005"/>
 
 <p>$5.00
-6023</p>
+No 6023</p>
 
 <p>Petition of
 J.A. Balch
@@ -258,7 +264,7 @@ Habeas Corpus
 issue on filing
 this petition
 - returnable
-July 5/1888 at
+June 5 1888 at
 1:30 o'clock p.m.
 of that day at
 my chambers in
@@ -266,12 +272,14 @@ Seattle, W.T.</p>
 
 <p>R.A. Jones, Judge</p>
 
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
-
+<p>FILED
+JUN 1 1888
+W E Ledgerwoood
+Clerk.
+By H T Harmon
+Deputy Clerk.</p>
+ 
+              
 
 </div1>
     

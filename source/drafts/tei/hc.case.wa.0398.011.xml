@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0398.011">
     
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> The territory of Washington vs. Donald Fallon Frank Rogers</title>
+                <title>Matter of the Application of William Fox for Writ of Habeas Corpus</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -43,7 +43,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0398.011</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -53,8 +53,8 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">William Fox vs. Washington Territory Writ of Habeaus Corpuss</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">Matter of the Application of William Fox for Writ of Habeas Corpus</title>
+                    <date when="1878-06-18">June 18, 1878</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -78,7 +78,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="type">
-                    <term></term>
+                    <term>Criminal</term>
                 </keywords>
                 
                 <keywords scheme="original" n="subtype">
@@ -86,15 +86,20 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1878-05-13">June 13, 1878</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term>William Fox</term>
+<term>J. M. Hall</term>
+<term>L. V. Wyckoff</term>
+<term>Joseph R. Lewis</term>
+<term>William Fox</term>
+<term>S. Wiggins</term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="places"> 
-                    <term>King County, Washington</term>
+                    <term>Seattle, King County, Washington</term>
                 </keywords>
                 
             </textClass>
@@ -105,23 +110,26 @@
                         <persName>William Fox</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>William S. Wiggin</persName>
                     </person>
                     <person role="attorney_petitioner">
-                        <persName></persName>
+                        <persName>Irving Ballard</persName>
+<persName>J. M. Hall</persName>
                     </person>
                     <person role="attorney_defendant">
-                        <persName></persName>
+                        <persName>C. D. Emery</persName>
                     </person>
                     <person role="judge">
                         <persName>J. R. Lewis</persName>
+<persName>Albert M. Snyder</persName>
                     </person>
                 </listPerson>
                 
                 <listOrg>
                     <org>
-                        <orgName></orgName>
-                        <placeName></placeName>
+<orgName>Territory of Washington 
+3rd Judicial District</orgName>
+                        <placeName>Seattle, King County, Washington</placeName>
                     </org>
                 </listOrg>   
             </particDesc> 
@@ -130,6 +138,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+<change when="2022-08" who="#AS">reviewed; edited</change>
         </revisionDesc>
         
     </teiHeader>
@@ -139,37 +148,52 @@
         <body>  
             
             <div1 type="case">
-<p>Territory of Washington 
-3rd Judicial District
-S.S.
-In the District Court holding terms
-at Seattle in King County.
-In the matter of the application of 
+
+<p>No 1779</p>
+<p>Matter of the Application of
 William Fox
-For a Writ of Habeaus Corpus
-Writ. of Habeaus Corpus
-The United States of American send greetings
-To L. V. Wyckooff Sheriff of King County in the 
-territory of Washington
-We command you that you have the body of 
-William Fox, by you imprisioned and detained as
-it is said together with the true and cause of such
-imprisionment and detention by whatsoever name
-said William Fox shall be called or charged
-before the Hon. Joseph R. Lewis Chief Justice of
-Washington Territory and Judge of the 3rd Judicial 
-District therein at his chambers in
-Seattle in said King County on the 14th day of
-June A. D. 1878 at nine o clock in the foremoon
+for Writ of Habeas Corpus</p>
+<p>Order Granting Writ</p>
+<p>Filed June 13th 1878
+Jas Seary Clerk</p>
+<p>By William Anderson
+Deputy</p>
+<p>Irving Ballard &amp;
+J. M. Hall
+for Pliff</p>
+<pb></pb>
+<p>Territory of Washington
+3rd Judical District } SS.</p>
+<p>In the District Court holding terms
+at Seattle in King County</p>
+<p>In the Matter of the Application of
+William Fox } Order Granting Writ.</p>
+<p>For a Writ of Habeas Corpus</p>
+<p>Upon reading and filing the petition of
+William Fox, duly signed and verified by him,
+whereby it appears that he is illegally imprisoned 
+and restrained of his liberty by L. V. Wyckoff,
+Sheriff of the County of Kings, at Seattle in
+the county of King in the Territory of Washington,
+and stating where in the alleged illegality consists
+from which it appears to me that a writ of
+Habeas Corpus ought to issue. It is ordered that 
+a writ of Habeas Corpus issue out of 
+and under the seal of the District Court for
+the 3rd Judicial District of Washington Territory
+holding terms at Seattle in King County, 
+directed to the said L. V. Wyckoff Sheriff as 
+aforesaid commanding him to have the
+body of the said William Fox before me in 
+my chambers in said Seattle on the 14th
+day of June A. D. 1878 at 9 o clock a. m.
 of that day to do and recieve what shall then
-and there be considered concerning the said
-William Fox and have you then and there this writ
-Witness the Hon. Joseph R. Lewis Cheif
-Judicial District therein this 13th day of June A. D. 1878
-Attest my hand and the seal of said 
-District Court the day and year last above written.
-Jas Seary Clerk
-By Wayne Andrews Deputy Clerk</p>
+and there be considered concerning the said William
+Fox together with the time and cause of his detention
+and have then and there the said writ.</p>
+<p>Dated June 13th, 1878</p>
+<p>J. R. Lewis
+Judge</p>
             </div1>
             
         </body>

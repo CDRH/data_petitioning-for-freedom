@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,8 +82,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>James Seavey
-James P Ludlow</term>
+<term>Seavey, James</term>
+<term>Ludlow, James P</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,25 +95,25 @@ James P Ludlow</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>McNaught, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ferry</persName>
+<persName>Ferry, Elisha P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John H. Mitchell</persName>
+<persName>Mitchell, John H.</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName>McNaught, Joseph</persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Greene, Roger D.</persName>
 </person>
 </listPerson>
             
@@ -128,6 +128,7 @@ James P Ludlow</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -158,8 +159,8 @@ District of the Territory of Washington holding terms at the city of
 Seattle in and for the County of King, directed to the said J.H. McGraw
 commanding him to have the body of the said George R. Daily before me
 at <del>my</del> <add>the</add> chambers of said court in the court hose in the said city of Seattle
-on the 17th dat of March 1884, at <unclear></unclear>
-o'clock, A.M. of that day to do and recieve what shall then and there 
+on the 17th dat of March 1884, at ten
+o'clock, 4 A.M. of that day to do and recieve what shall then and there 
 be considered and ordered concerning the said George R. Daily, together
 with the time and cause of his detention, and that he have then and 
 there the said Writ.</p>
@@ -177,12 +178,12 @@ granting of Plaintiff
 vs
 Habeas Corpus
 defendant</ab>
-<ab>Anders
+<ab>Order
 filed March 16 1884
 Jame Seavey
 clerk.
 By James P Ludlow Deputy.</ab>
-<ab>McNaught, Ferry, McNaught amperstand Mitchell</ab>
+<ab>McNaught, Ferry, McNaught &amp; Mitchell</ab>
 <ab>Attorneys for Petition</ab>
 
 </div1>

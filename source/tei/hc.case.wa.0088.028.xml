@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alice McKay v. John Kevan and Della Kevan. Type of document</title>
+<title>Alice McKay v. John Kevan and Della Kevan. Testimony</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -17,6 +17,7 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Stapleton-Deno, Zoe L." xml:id="zlsd">Zoe L. Stapleton-Deno</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -50,7 +51,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Type of document</title>
+<title level="m" type="main">Alice McKay v. John Kevan and Della Kevan. Testimony</title>
 <date when="1887">1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -110,7 +111,13 @@
 <persName>Kevan, Della</persName>
 </person>
 <person role="attorney_petitioner">
+<persName>Evans, Elwood</persName>
+</person>
+<person role="attorney_petitioner">
 <persName>Ronald, J. P.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Piles, L. H.</persName>
 </person>
 <person role="attorney_defendant">
 <persName>Gilman, L. C.</persName>

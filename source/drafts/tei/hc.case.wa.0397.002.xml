@@ -2,12 +2,12 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0397.002">
     
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> The territory of Washington vs. Donald Fallon Frank Rogers</title>
+                <title> The Territory of Washington vs. Donald Fallon and Frank Rogers. Return</title>
                 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
                 <respStmt>
                     <resp>transcription and encoding</resp>
@@ -21,6 +21,7 @@
                     <name n="Coronado Amaya, Melanie" xml:id="mca">Melanie Coronado Amaya</name>
                     <name n="Fougeron, Jillian" xml:id="jf">Jillian Fougeron</name>
                     <name n="Hinton, Lauren" xml:id="lh">Lauren Hinton</name>
+                    <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
                 </respStmt>
                 <sponsor>University of Nebraska-Lincoln</sponsor>
                 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -40,11 +41,11 @@
                     <address>
                         <addrLine>319 Love Library</addrLine>
                         <addrLine>University of Nebraska–Lincoln</addrLine>
-                        <addrLine>Lincoln, NE 68588-4100</addrLine>
+                        <addrLine>Lincoln, NE 68508-4100</addrLine>
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0397.002</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,14 +55,14 @@
             
             <sourceDesc>
                 <bibl>
-                    <title level="m" type="main">Martin Lawson vs. King County Writ of Habeaus Corpuss</title>
-                    <date when="1891">1891</date>
+                    <title level="m" type="main">The Territory of Washington vs. Donald Fallon and Frank Rogers. Return</title>
+                    <date when="1876">1876</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
                     <msIdentifier>
-                        <repository></repository>
-                        <collection></collection>
+                        <repository>Washington State Archive, Puget Sound Regional Branch</repository>
+                        <collection>King County Government, Judicial Administration, Territorial District Court Case Files, 1867-1889</collection>
                         <idno></idno>
                     </msIdentifier>
                 </msDesc>
@@ -87,7 +88,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1876">1876</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
@@ -102,11 +103,14 @@
             
             <particDesc>   
                 <listPerson>            
-                    <person role="petitioner">
-                        <persName>Donald Fallon, Frank Rogers</persName>
+                   <person role="petitioner">
+                        <persName>Fallon, Donald</persName>
+                    </person>
+<person role="petitioner">
+                        <persName>Rogers, Frank</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Wyckoff, Louis V.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +119,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, J. R.</persName>
                     </person>
                 </listPerson>
                 
@@ -128,7 +132,8 @@
             </particDesc> 
         </profileDesc>
         
-        <revisionDesc>         
+        <revisionDesc>     
+            <change when="2022-07" who="slb">reviewed</change> 
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
         </revisionDesc>
@@ -140,30 +145,99 @@
         <body>  
             
             <div1 type="case">
-<p>In the Justice's Court of the 3rd 
+<p>In the District Court of the 3rd 
 Judicial District of Washington
 Territory held at Seattle in and
 for the counties of King and Kitsah
-In the matter of the afflantion
+In the matter of the application
 of Donald Fallon and Frank Rogers
-for the charge <unclear></unclear> Habeaus Corpus
+for discharge <unclear></unclear> Habeaus Corpus
 And more comes the 
 said Donald Fallon and Frank Rogers
-and their attorneys <unclear></unclear>
-Burkam for answers
-to the return of S. V. Wyckoff
-he sheriff marshall  W. J. say
-that the sum rather is not 
+and their attorneys <unclear>C. J. Jury &amp; B. P. Eileen 
+and Bork ann</unclear> for answer
+to the return of L. V. Wyckoff
+the deputy marshall  <unclear>W. J. say</unclear>
+that the said return is not 
 sufficient and <unclear></unclear> in 
-this that the said of Habeaus 
-Corpus is issued and arrested to Lewis
-V. Wyckoff an Sherrif of the King County
+this that the writ of Habeaus 
+Corpus is issued and <unclear></unclear> to Louis
+V. Wyckoff as Sherrif of the King County
 and the <unclear></unclear> 
-L. V. Wyckoff the said deputy founded
-that as <unclear></unclear>
-affindants to said return
+L. V. Wyckoff the said deputy marshall.
+that as <unclear>appears by the commitments</unclear>
+attached to said return
 the said L. V. Wyckoff has
-no <unclear></unclear> to inform or </p>
+no <unclear>authority</unclear> to inform or </p>
+
+<pb/>
+
+<p>detain said Donald Fallon and 
+Frank Rogers or with of them
+in his custody.
+
+And for <unclear></unclear> answers to
+said return said Donald Fallon
+and Frank Rogers say that they
+share both <unclear></unclear> the
+<unclear></unclear> from
+Sand Fransico California to
+the part of the territory of Washington.
+That is as <unclear></unclear> still prisioners of
+their holding to same such
+<unclear></unclear> this day on
+<unclear></unclear> in truth am in first they an
+    put such <unclear></unclear> hours
+    worn on hand said <unclear></unclear>
+that before preceeding on the said voyage
+from San Fransico the <unclear></unclear>
+    as foreseen they <unclear></unclear>
+    they or others of them <unclear></unclear>
+with an agreement in </p>
+
+<pb/>
+
+<p>writing in <unclear></unclear> the
+master of said  <unclear>Burk Doug</unclear>
+Purth. That the article of of agreement
+signed by your petitioners are
+signed by them  after onward
+before the said Burk Doug Purth
+Ian <unclear></unclear> on has said <unclear></unclear>
+that said Donald Fallons is
+a minor under the age of 21.
+The said Donald Fallon and
+Frank Rogers <unclear></unclear>that
+the finding of the said Justice
+of the Court <unclear></unclear>Smith an <unclear></unclear>
+in accordance with the first <unclear></unclear>
+
+<unclear>C D Jury</unclear>
+<unclear></unclear>
+attys of petitioner</p>
+
+<pb/>
+
+<p>Territory of Washington
+County of King
+Donald Fallon and
+Frank Rogers on oath by each for 
+himself, state they swore <unclear></unclear> seal 
+the <unclear></unclear> 
+they <unclear></unclear> the sum is there.
+
+Subscribed  on the same day
+Donald Fallon
+Frank Burke
+on the 6th day of 
+July A.D 1876
+John J. McBihurn
+Marty Burke
+In the matter of the affliates of <unclear></unclear>
+Habeaus Corpus
+Return 
+<unclear></unclear>
+</p>
 
 </div1>
 

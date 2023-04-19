@@ -2,7 +2,7 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0399.005">
     
     <teiHeader>
         <fileDesc>
@@ -44,7 +44,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0399.005</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -55,7 +55,7 @@
             <sourceDesc>
                 <bibl>
                     <title level="m" type="main">John W. Harding Plantiff vs.G. W. L. Allion Sheriff Defendant</title>
-                    <date when="1891">1891</date>
+                    <date when="1891">1898</date>
                     <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
                 </bibl>
                 <msDesc>
@@ -87,7 +87,7 @@
                 </keywords>
                 
                 <keywords scheme="original" n="term">
-                    <term><date when="1000-01">1875</date></term>
+                    <term><date when="1000-01">1898</date></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
@@ -103,10 +103,10 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>William Fox</persName>
+                        <persName>Hardan, John W.</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Allion, G. W. L.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +115,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName></persName>
                     </person>
                 </listPerson>
                 
@@ -131,6 +131,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        <change when="2022-11" who="#edr">reviewed</change>
         </revisionDesc>
         
     </teiHeader>
@@ -140,31 +141,32 @@
         <body>  
             
             <div1 type="case">
+<pb facs="hc.case.wa.0399.013"></pb>
 <p>Territory of Washington S. S.
-Whateurn County
+Whatcom County
 To any contable and the keeper of the jail
 of said county whereas John Harding of the
-county of Whaterun Washington Territory has
+county of Whatcom Washington Territory has
 been brought this day before the <unclear></unclear>
 one of the Justices of the peace in and for said
 county charged on the oath of Thomas Murphy
 with having on the 4th day of June 1878 in
 said county heard John Harding say that
 he knew all about the murder of Peter
-Gallgar John Harding I will be it was done
+Gallgar John Harding I will bet it was done
 at my house I opposed this thing long
-ago and brwon killing him has priority
-above the troulbe. That he Thomas Murphy
+ago and Brown killing him has probably
+saved the troulbe. That he Thomas Murphy
 believes from the above listing.
-That the said John Harding was accepting
+That the said John Harding was accesory
 to the murder of Peter Gallagar and it
-being found on the trail that said john HArding was guilty of having with held
-inofrmation from the proper authority that
-would b=have presented the opinion of 
+being found on the trail that said John Harding was guilty of having with held
+information from the proper authority that
+would have prevented the <unclear>ommipion</unclear> of 
 the murder aforesaid which was committed
 on the 1 day of Dec 1878 at the house of
 said John Harden in said county and
-wehreas the said John Harding has failed to  give
+whereas the said John Harding has failed to  give
 bail in the sum of five hundred dollars for his 
 appearence at the said term of the district
 court <unclear></unclear> of me. Therfore in the

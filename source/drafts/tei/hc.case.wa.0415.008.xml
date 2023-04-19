@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Alfred Woods v. John H. McGraw. Testimony</title>
+<title>In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Doctor's Testimony</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Alfred Woods v. John H. McGraw. Testimony</title>
-<date when="1885-10">October 1885</date>
+<title level="m" type="main">In the matter of the application of Alfred Woods for a writ of Habeas Corpus. Doctor's Testimony</title>
+<date when="1885-10-27">October 27th, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4669</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -105,13 +106,9 @@
 <persName>McGraw, John H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Struve</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>Haines</persName>
-</person>
-<person role="attorney_petitioner">
-<persName>McMicken</persName>
+<persName>McMicken, Maurice</persName>
+<persName>Struve, H. G.</persName>
+<persName>Haines, J. C.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -132,6 +129,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,7 +137,9 @@
 <text>
 
 <body>  
-
+<pb facs="hc.case.wa.0414.018"/>
+<div1 type="case">
+<p>IN THE DISTRICT COURT HOLDING TERMS AT SEATTLE</p>
 <p>IN RE A THE APPLICATION OF
 ALFRED WOODS FOR A WRIT
 OF HABEAS CORPUS</p>
@@ -158,7 +158,7 @@ TWO WEEKS AGO, WHILE CONFINED IN THE COUNTY JAIL OF KING COUNTY, HE
 CONTRACTED A VERY SEVERE COLD WHICH SETTLED ON HIS LUNGS AND FROM WHICH
 HE EVER SINCE HAS BEEN SUFFERING, THAT HE HAS BEEN TAKING MEDICINCE
 PRESCRIBED BY THE PHYSICIAN ATTENDING THE COUNTY JAIL BUT THAT HE SEEMS
-TO GET NO RELIEF THEREFROM. THAT HE <del>DOES NOT</del> BELIEVES THAT UNLESS E
+TO GET NO RELIEF THEREFROM. THAT HE <del>DOES NOT</del> BELIEVES THAT UNLESS HE
 CAN BE RELIEVED FROM SAID COUNTY JAIL HE WILL NOT GET WELL.</p>
 
 <p>Alfred Woods</p>
@@ -168,7 +168,7 @@ CAN BE RELIEVED FROM SAID COUNTY JAIL HE WILL NOT GET WELL.</p>
 <p>Maurice McMicken
 NOTARY PUBLIC</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.020"/>
 
 <p>NO.4669</p>
 
@@ -194,16 +194,11 @@ James Seavey, Clerk.
 By James Ludlow, Deputy.</p>
 
 <p>STRUVE, HAINES &amp; McMICKEN,
-ATTORNEYS for _____</p>
-
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
+ATTORNEYS for <gap></gap></p>
 
 
 </div1>
+
     
 </body>
 </text>

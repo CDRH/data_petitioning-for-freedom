@@ -2,7 +2,7 @@
 
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0160.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0399.008">
     
     <teiHeader>
         <fileDesc>
@@ -44,7 +44,7 @@
                         <addrLine>cdrh@unl.edu</addrLine>
                     </address>
                 </distributor>
-                <idno type="project">hc.case.wa.0000.000</idno>
+                <idno type="project">hc.case.wa.0399.008</idno>
                 
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -103,10 +103,10 @@
             <particDesc>   
                 <listPerson>            
                     <person role="petitioner">
-                        <persName>William Fox</persName>
+                        <persName>Harding, John W.</persName>
                     </person>
                     <person role="defendant">
-                        <persName></persName>
+                        <persName>Allion, G. W. L.</persName>
                     </person>
                     <person role="attorney_petitioner">
                         <persName></persName>
@@ -115,7 +115,7 @@
                         <persName></persName>
                     </person>
                     <person role="judge">
-                        <persName>J. R. Lewis</persName>
+                        <persName>Lewis, J. R.</persName>
                     </person>
                 </listPerson>
                 
@@ -131,6 +131,7 @@
         <revisionDesc>         
             <change when="2018-01" who="#ini">reviewed; edited</change>
             <change when="2020-09" who="#lkw">transcribed and encoded</change>
+        <change when="2022-11" who="#edr">reviewed</change>
         </revisionDesc>
         
     </teiHeader>
@@ -140,11 +141,12 @@
         <body>  
             
             <div1 type="case">
+<pb facs="hc.case.wa.0399.021"/>
 <p>David E. Fallon 138
 Faoyn Stoler 130
 Charles MeCoub 125
 The demand says
-<unclear></unclear> on 9th of 
+<unclear>returnable</unclear> on 9th of 
 10 AM and for subpower
 for above witnesses for the 
 prosecution

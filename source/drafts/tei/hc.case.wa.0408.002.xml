@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -82,12 +82,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>J.H. Woolery</term>
+<term>Woolery, J. H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>Seattle
-Oregon</term>
+<term>Seattle</term>
+<term>Oregon</term>
 </keywords>
 
 </textClass>
@@ -95,10 +95,10 @@ Oregon</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -107,7 +107,10 @@ Oregon</term>
 <persName></persName>
 </person>
 <person role="judge">
-<persName>T.H. Cann</persName>
+<persName>Green, Roger D.</persName>
+</person>
+<person role="authority_ordering_arrest">
+<persName>Cann, T. H.</persName>
 </person>
 </listPerson>
             
@@ -141,8 +144,9 @@ Before T.H. Cann, Justice of the Peace in and for Seattle Precinct.</ab>
 <ab>Territory of Washington
 County of King, | ss.</ab>
 <p>J H Woolery being first duly sworn on oath
-says that <del>at</del> in the state of Oregon <del>in said King County on the</del> on ___
-day of _____ 1884 one George R Daly
+says that <del>at</del> in the state of Oregon <del>in said King County on
+the</del> on <gap></gap>
+day of <gap></gap> 1884 one George R Daly
 did commit the crime of Grand Larceny
 as follows:
 By then and there being the said George R Daly did 
@@ -150,9 +154,9 @@ commit the crime of Grand Larceny
 by felounsouly stealing a horse in
 the state of Oregon that said
 defendant did feloniously take
-<unclear></unclear> and ride away one horse of
+steal and ride away one horse of
 the value of $50 from one
-______ in said state of Oregon
+<gap></gap> in said state of Oregon
 contrary to the form of the Statute in such case made and provided, and
 against the peace and dignity of the Territory of Washington. This complaint
 is made from information recieved by telegram

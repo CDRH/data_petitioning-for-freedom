@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. W. Hutchinson v. Territory of Washington. Judicial Warrant</title>
+<title>In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Criminal Warrant</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Judicial Warrant</title>
-<date when="1885">November 12, 1885</date>
+<title level="m" type="main">In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Criminal Warrant</title>
+<date when="1885-11-11">November 11, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4704</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +72,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -79,12 +80,10 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term>Civil</term>
+<term><date when="1885-11">November 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hutchinson, C. W.</term>
-<term>Harris, W.S.C.</term>
 <term>Campbell, Alex</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
@@ -102,7 +101,7 @@
 <persName>Hutchinson, C. W.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Harris, W. H.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -111,21 +110,22 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Campbell, Alex</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-11" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,53 +138,53 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0416.007"/>
+<pb facs="hc.case.wa.0416.015"/>
 
 <p>Territory of Washington
 vs.
-C.H. Hutchingson } 
-Judicial Warrant</p>
+C. H. Hutchingson } 
+Criminal Warrant</p>
 
 <p>To the sheriff or any constable of said County
-theras N.H. Harris has this day 
+Whereas W. H. Harris has this day 
 complained in writing under oath 
-to the <unclear></unclear> me of the Justice of 
+to the undersigned one of the Justice of 
 the Peace in and for said County 
-that J.H. Hutchinson did on the 31st
+that C. H. Hutchinson did on the 31st
 day of October A.D. 1885 at said County 
-did Fradulent courent 18 his own 
-use two Hundred and fifty Dollars
-belonging to the said H.H. Harris.
-Therefore in the name of the United 
-States you are commanded Forthwith 
-to apprehend the said C.H. Hutchinson 
-and bring him before me to the deal 
+did Fradulent and feloniously embezzle
+and Fraudulently convert to his own 
+use two Hundred and forty Dollars
+belonging to the said W. H. Harris.</p>
+<p>Therefore in the name of the United 
+States you are commanded forthwith 
+to apprehend the said C. H. Hutchinson 
+and bring him before me to the dealt 
 with according to law.</p>
 
-<p>Given under my hand this 11th day of Nor.a.s.
+<p>Given under my hand this 11th day of Nov. A.D.
 1885</p>
 
 <p>Alex Campbell
 Justice of the Peace</p>
 
-<pb/>
+<pb facs="hc.case.wa.0416.016"/>
 
 <p>Justice Court</p>
 
 <p>Territory of Washington 
-Plaintif
-vs. 
+Plaintiff
+vs
 Hutchinson 
 Defendant</p>
 
-<p>Judicial Warrant</p>
+<p>Criminal Warrant</p>
 
 <p>Justice of the Peace
 hereby authorizing W.H
-is aspecial Crustti
-execute this</p>
-
-<p>Court 
+is a special <unclear>Constable</unclear>
+<unclear></unclear>to execute this
+<unclear></unclear>
 Alex Camblell
 Justice of the Peace</p>
 
@@ -192,7 +192,7 @@ Justice of the Peace</p>
 NOV 12 1885
 James Seavey, Clerk 
 By James P. Ludlow
-Deputy Clerk,</p>
+Deputy Clerk.</p>
 
 </div1>
     

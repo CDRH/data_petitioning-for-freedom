@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lee Kee v. James H. Woolery. Commitment</title>
+<title>In the Matter of the Application of Lee Kee for a Writ of Habeas Corpus. Commitment</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -17,6 +17,8 @@
 <name n="Appleton, Kasha" xml:id="ka">Kasha Appleton</name>
 <name n="Villota, Victoria" xml:id="vv">Victoria Villota</name>
 <name n="Young, Cory James" xml:id="cjy">Cory James Young</name>
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -50,7 +52,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Lee Kee v. James H. Woolery. Commitment</title>
+<title level="m" type="main">In the Matter of the Application of Lee Kee for a Writ of Habeas Corpus. Commitment</title>
 <date when="1885-05-22">May 22, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -75,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -117,8 +119,8 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -127,6 +129,8 @@
 <revisionDesc><change when="2021-09" who="#cjy">edited</change>         
 <change when="2020-05" who="#lkw">encoded</change>
 <change when="2018" who="#mn">transcribed</change>
+<change when="2023" who="#edr">reviewed</change>
+<change when="2023-02" who="#brh">reviewed and edited</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,7 +141,7 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0075.007"/>
 <p>UNITED STATES OF AMERICA.</p>
 
 <p>Territory of Washington, 

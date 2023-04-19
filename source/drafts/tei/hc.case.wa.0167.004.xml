@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Samuel O'Brien v. Nancy O'Brien. Type of document</title>
+<title>In Re Application of Samuel O'Brien for a Writ of Habeas Corpus for Harry O'Brien. Order</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -54,7 +54,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Samuel O'Brien v. Nancy O'Brien. Type of document</title>
+<title level="m" type="main">In Re Application of Samuel O'Brien for a Writ of Habeas Corpus for Harry O'Brien. Order</title>
 <date when="1887-07-12">July 12, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -92,9 +92,6 @@
     
 <keywords scheme="lcsh" n="people">
 <term>O'Brien, Harry</term>
-<term>O'Brien, Nancy</term>
-<term>McBrown, A.K.</term>
-<term>Turner, George</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -112,10 +109,13 @@
 <persName>O'Brien, Nancy</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Turner + Forster</persName>
+<persName>Turner, W. W. D.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Forster, George M.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>McBrown, A.K.</persName>
+<persName>McBrown, A. K.</persName>
 </person>
 <person role="judge">
 <persName>Turner, George</persName>
@@ -132,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2023-01" who="#lkw">review</change>       
 <change when="2021-06" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 
@@ -141,14 +142,17 @@
 
 <body>  
 
-<p>Territory of Washington }S.S.
-County of Spokane</p>
+<pb facs="hc.case.wa.0167.009"/>
+
+<div1 type="case">
+<p>Territory of Washington 
+County of Spokane} S.S.</p>
 
 <p>In the District Court
 of the Territory of Washington, and for the Fourth
 Judicial District thereof, holding terms at Spokane
-Falls in said County + Territory.
-In the matter of the application
+Falls in said County &amp; Territory.</p>
+<p>In the matter of the application
 of Samuel OBrien for a
 writ of Habeas Corpus for
 Harry OBrien.</p>
@@ -160,7 +164,7 @@ present and having in his custody the
 body of said Harry OBrien in accordance
 with the Commands of the writ herein, and
 the Plaintiff being present represented
-by Turner + Forster as his attorneys.
+by Turner &amp; Forster as his attorneys.
 And the said Nancy OBrien, being
 represented by A.K. McBrown as her
 attorney, and the Court being fully
@@ -171,31 +175,27 @@ OBrien be transfered from said Nancy
 OBrien to said Samuel OBrien as prayed for in
 the complaint herein.</p>
 
-<p>Dated the 12th day of July 1887
-George Turner
+<p>Dated the 12th day of July 1887<lb/>
+George Turner<lb/>
 Judge</p>
 
-<pb></pb>
 
-<p>In the Distric Court
+<pb facs="hc.case.wa.0167.010"/>
+
+<p>In the District Court
 4th Judicial District
 Spokane County</p>
 
-<p>In the application
-Habeas Corpus
---for--
+<p>In RE application
+Habeas Corpus<lb/>
+--for--<lb/>
 Harry OBrien</p>
 
 <p>Order of Court</p>
 
-<pb></pb>
-               
-<div1 type="case">
-
-<pb/>
-
-
 </div1>
+
+
     
 </body>
 </text>

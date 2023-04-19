@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>J.S. McGuire v Washington Territory. Order</title>
+<title>In the matter of the application of Habeas Corpus for J. S. McGuire. Order Granting Writ</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany" xml:id="brh">Bethany Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">J.S. McGuire v Washington Territory. Order</title>
-<date when="1885">June 5, 1885</date>
+<title level="m" type="main">In the matter of the application of Habeas Corpus for J. S. McGuire. Order</title>
+<date when="1885-05-05">June 5, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4446</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,21 +80,18 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1889-05">June 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Mcguide, J.S.</term>
-<term>Lewis, Jas H.</term>
-<term>Yuire, JSMc</term>
-<term>Graw, JHM</term>
-<term>Preston, Heard</term>
+<term>Preston, Harold</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington Territory</term>
+<term>King County, Washington</term>
+<term>Seattle, Washington</term>
 </keywords>
 
 </textClass>
@@ -101,33 +99,34 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>J.S. McGuire</persName>
+<persName>McGuire, J. S.</persName>
 </person>
 <person role="defendant">
-<persName>Washington Territory</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Lewis, James H.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Greene, Roger S.</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judicial District Court of Washington Territory</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-08" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,51 +144,57 @@
 <p>File 
 No. 4446</p>
 
-<pb/>
+<pb facs="hc.case.wa.0413.002"/>
 
 <p>In the matter of the 
 application of Habeas 
 Corpus for J.S.
-Mcguide} In the Dist Court at
+McGuire} 
+
+In the Dist Court at
 Seattle King Co. W.T.
 Order.</p>
 
 <p>Now comes Jas H. Lewis attorney for the 
-applicant JSMc Yuire who upon oath deposes 
-and says that the said JSMc Yuire is 
-restrained illegally of his liberty by JHM
-Graw Sheriff in and that he desires to 
-one out a suit of Habeas Corpus, that 
-the said JSMc Yuire is a pauper, that
+applicant J. S. McGuire who upon oath deposes 
+and says that the said J. S. McGuire is 
+restrained illegally of his liberty by J. H.
+McGraw Sheriff in and that he desires to 
+sue out a suit of Habeas Corpus, that 
+the said J. S. McGuire is a pauper, that
 he has no funds whereby to prosecute
 his said application, and most
 humbly prays that his honorable 
-court to grant him an order allocating 
+court to grant him an order allowing 
 him the right to sue in forma prayer 
-is in order to prosecute his court 
-of Habeas Corpus- Jas H Lewis atty for JSmething
-Sworn to the 
-<del></del> this 
-"June 1885
-Heard Preston 
+is in order to prosecute his writ 
+of Habeas Corpus - Jas H Lewis atty for J. S. McGuire
+</p>
+<p>sworn to before
+me this 
+<unclear>5</unclear> June 1885
+
+Harold Preston 
 Notary Public</p>
 
 <p>On reading the motion 
-to see un forma pauperis of JSMc
-Yuire that he is illegally restrained 
-of his liberty, &amp; desires to prosecute &amp;
-writ of Habeas Corpus and the 
-Court being abaised grants said motion 
-and permits said petitioner to sue in <del>paper
-</del> forma panperis. Greene G.</p>
+to see un forma pauperis of J. S.
+McGuire setting out by his attorney J. H.
+Lewis that he is restrained 
+of his liberty, &amp; desires to prosecute a
+writ of Habeas Corpus, and the 
+Court being advised grants said 
+motion and permits said petitioner to sue in <del>pauper
+formatits</del> forma pauperis. Greene J.</p>
 
-<pb/>
+<pb facs="hc.case.wa.0413.003"/>
 
 <p>4446
+
 FILED
 JUN 5 1885
-James Searey, Clerk 
-By James P Laudem Deputy Clerk.</p>
+James Seavey, Clerk 
+By James P Ludlow Deputy Clerk.</p>
 </div1>
     
 </body>

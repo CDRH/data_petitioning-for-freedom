@@ -10,23 +10,15 @@ class CsvToEsPerson < CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-      if @row["Birth Place"]
-        @json["birthplace_k"] = JSON.parse(@row["Birth Place"])
-      end
-      if @row["Race or Ethnicity"]
-        @json["race_k"] = JSON.parse(@row["Race or Ethnicity"])
-      end
-      if @row["Sex"]
-        @json["sex_k"] = JSON.parse(@row["Sex"])
-      end
+      @json["birthplace_k"] = check_and_parse(@row["Birth Place"])
+      @json["race_k"] = check_and_parse(@row["Race or Ethnicity"])
+      @json["sex_k"] = check_and_parse(@row["Sex"])
       @json["name_given_k"] = @row["name_given"]
       @json["name_last_k"] = @row["name_last"]
       if @row["name_alternate"]
         @json["name_alternate_k"] = @row["name_alternate"]
       end
-      if @row["Indicated Age Category (from Case Data [join])"]
-        @json["age_k"] = JSON.parse(@row["Indicated Age Category (from Case Data [join])"])[0]
-      end
+      @json["age_k"] = check_and_parse(@row["Indicated Age Category (from Case Data [join])"])
       if @row["person_case_year"]
         @json["case_year_k"] = JSON.parse(@row["person_case_year"]).select{|i| i.class == String}
       end

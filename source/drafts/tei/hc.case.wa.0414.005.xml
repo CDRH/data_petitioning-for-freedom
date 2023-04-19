@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Michael Henan v. John H. McGraw. Habeas Corpus</title>
+<title>In the matter of the application of Michael Henan for discharge on a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Michael Henan v. John H. McGraw. Habeas Corpus</title>
+<title level="m" type="main">In the matter of the application of Michael Henan for discharge on a Writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <date when="1885-08-21">August 21, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4544</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -85,12 +86,12 @@
 <keywords scheme="lcsh" n="people">
 <term>Leavey, James</term>
 <term>Ludlow, James P.</term>
-<term>Harris</term>
+<term>Harris, J. C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
 <term>Seattle, Washington</term>
-<term>King County</term>
+<term>King County, Washington</term>
 </keywords>
 
 </textClass>
@@ -125,6 +126,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-09" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,12 +134,15 @@
 <text>
 
 <body>  
+<div1 type="case">
 
+<pb facs="hc.case.wa.0414.015"/>
 <p>IN THE DISTRICT COURT,
 Of the Third Judicial District of Washington Territory, holding
-Terms at Seattle, for the Counties of King and Kitsap.</p>
+Terms at Seattle, for the Counties of King and Kitsap.
+<add>No. 4544</add></p>
 
-<p>HABEAS CORPUS</p>
+<p>HABEAS CORPUS.</p>
 
 <p>The People of the United States of America, to the Sheriff
 of King County Greeting:</p>
@@ -158,7 +163,7 @@ of August A.D. 1885
 JAMES LEAVEY, Clerk.
 By James P. Ludlow Deputy.</p>
 
-<pb></pb>
+<pb facs="hc.case.wa.0414.016"/>
 
 <p>I do hereby return to the Hon. Roger S. Greene,
 Chief Justice of Washington Territory and Judge
@@ -180,8 +185,8 @@ Sheriff</p>
 to before me this 22nd
 day of August 1885</p>
 
-<p><unclear>J.C. Harris</unclear>
-<unclear></unclear>
+<p>J. C. Harris
+Co. Auditor
 King County</p>
 
 <p>Sheriffs Fees
@@ -195,7 +200,7 @@ $5.50
 <p>No 4544</p>
 
 <p>District Court
-3d Judicial Dist</p>
+3d Judicial Dist.</p>
 
 <p>In Re
 Habeas Corpus,
@@ -208,11 +213,6 @@ AUG 22 1885
 James Seavey, Clerk.
 By James P. Ludlow,
 Deputy.</p>
-
-               
-<div1 type="case">
-
-<pb/>
 
 
 </div1>

@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James A. Balch v. J.W. Waughop. Type of document</title>
+<title>In the matter of James A. Balch on Habeas Corpus Proceedings. Defendant Return</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James A. Balch v. J.W. Waughop. Type of document</title>
+<title level="m" type="main">In the matter of James A. Balch on Habeas Corpus Proceedings. Defendant Return</title>
 <date when="1888-06-02">June 2, 1888</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 6023</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,8 +84,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ledgerwood, W.E.</term>
-<term>Nils, J.H.</term>
+<term>Metcalfe, James B.</term>
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,7 +104,7 @@
 <persName>Balch, James A.</persName>
 </person>
 <person role="defendant">
-<persName>Waughop, D.J</persName>
+<persName>Waughop, J. W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -111,7 +113,7 @@
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Jones, Richard A.</persName>
+<persName>Navarre, J. A.</persName>
 </person>
 </listPerson>
             
@@ -126,6 +128,7 @@
         
 <revisionDesc>         
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
+<change when="2022-07" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,43 +136,38 @@
 <text>
 
 <body>  
-
-
-<p>Office of the Sheriff
-of Pierce County W.T.</p>
-
-<p>I J.H. Nils Sheriff of Pierce County
-Washington Territory do hereby certify that on the
-2nd day of June A.D. 1888 I served the original
-Writ of Habeas Corpus of which the within
-is a true copy on J.W. Waughop the person
-therein named by delivering said original
-Writ of Habeas Corpus to the said J.W. Waughop
-at Fort Steilacoom in said Pierce County, W.T.</p>
-
-<p>Dated at Yacama W.T. June 2nd, 1888
-J.H. Nils
-Sheriff of Piece Co.
-Wash. Ter.</p>
-
-<p>Sheriffs Fees
-Copy of Writ .60
-Serving Original 1.00
-Mileage 24 miles 2.40
-$4.00</p>
-
-<p>6023</p>
-
-<p>FILED
-JUNE 5 1888
-W.E. Ledgerwood</p>
-
-<pb></pb>
                
 <div1 type="case">
+<pb facs="hc.case.wa.0433.010"/>
+<p>In the District Court of the Third Judicial District of Washington
+Territory, holding terms at Seattle.</p>
 
-<pb/>
+<p>In the matter of the insanity of
+James A. Balch.</p>
 
+<p>No. <gap></gap></p>
+
+<p>To the Honorable Judge of the Third Judicial District Court:
+J.W. Waughop, having been duly sworn, deposes and says: That I
+am the superintendent<del></del><add>of the</add> Hospital <del></del> <add>for</add> the insane
+at Fort. Steilacoom, Washington Territory, and am the person to whom
+the within writ is directed and I hereby certify: That the cause of
+the detention of said James A. Balch and warrant of commitment
+issued by the Hon. J. A. Navarre, probate Judge of Yakima County,
+Washington Territory, which said warrant is directed to me and copies
+of the said complaint and warrant of commitment are hereto annexed
+and <del></del>marked respectively Exhibit "A" and "B" and made part hereof:
+The same were <add>issued</add> in the manner and under the circumstances and for the
+purposes set forth therein.</p>
+
+<p>The Affiant further says that the said James A. Balch is not yet
+sufficiently recovered from his mania to be discharged from custody.</p>
+
+<p>J.W. Waughop</p>
+
+<p>Subscribed and sworn to before me this 5th day of June A.D. 1888
+Jas B Metcalfe
+Notary Public in and for Washington Territory.</p>
 
 </div1>
     

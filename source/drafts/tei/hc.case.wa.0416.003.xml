@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>C. W. Hutchinson v. Territory of Washington. Writ of Habeas Corpus</title>
+<title>In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Hidalgo, Emily" xml:id="eh">Emily Hidalgo</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,15 +47,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">C. W. Hutchinson v. Territory of Washington. Writ of Habeas Corpus</title>
-<date when="1885">November 13, 1885</date>
+<title level="m" type="main">In the matter of the application of C. W. Hutchinson for writ of Habeas Corpus. Writ of Habeas Corpus</title>
+<date when="1885">November 12, 1885</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Washington State Archives, Puget Sound Regional Branch</repository>
+<collection>King Frontier Justice</collection>
+<idno>Case No 4704</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,16 +80,13 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term></term>
+<term><date when="1885-11">November 1885</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Harris, W.S.C.</term>
-<term>Hutchinson, C. W.</term>
 <term>Seavey, James</term>
 <term>Ludlow, James P.</term>
-<term>Gilman, Rasin</term>
-<term>Lewis, James Hamilton</term>
+<term>McGraw, John Harte</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,10 +101,12 @@
 <persName>Hutchinson, C. W.</persName>
 </person>
 <person role="defendant">
-<persName>Territory of Washington</persName>
+<persName>Harris, W. H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Gilman, L. C.</persName>
+<persName>Rasin, U. M.</persName>
+<persName>Lewis, James Hamilton</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
@@ -118,15 +118,16 @@
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>District Court of the Third Judicial District of Washington</orgName>
+<placeName>Seattle, Washington</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2021-07" who="#eh">transcribed and encoded</change>
+<change when="2022-10" who="#brh">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,21 +140,21 @@
                
 <div1 type="case">
 
-<pb facs="hc.case.wa.0416.003"/>
+<pb facs="hc.case.wa.0416.007"/>
 
-<p>IN THE ISTRICT COURT</p>
+<p>IN THE DISTRICT COURT</p>
 
 <p>Of the Judicial District of Washington Territory, holding
 Terms at Seattle, for the Counties of King and Kitsap.</p>
 
 <p>Habeas Corpus</p>
 
-<p>The People of the United States of America, to <add>W.H. Harris</add> <del>the Sheriff</del>
+<p>The People of the United States of America, to <add>W. H. Harris</add> <del>the Sheriff</del>
 of King County Greeting:</p>
 
 <p>We command you, that you have the body of C.W. Hutchinson
 by you imprisoned and detained as it is said, together with the time and cause of such imprisonment 
-and detention, by whatsoever name said C.N. Hutchinson 
+and detention, by whatsoever name said C. W. Hutchinson 
 shall be called or charged, before the HON. ROGER S. GREENE, Judge of the aforesaid Court at
 the District Court house of King County on 
 the 13th day of November, 1885, at 2 O'Clock P.M
@@ -169,32 +170,31 @@ of November A.D. 1885</p>
 
 <p>By James P. Ladlow Deputy</p>
 
-<figure></figure>
+<figure><p>Court Seal</p></figure>
 
-<pb/>
+<pb facs="hc.case.wa.0416.008"/>
 
 <p>I hereby certify that I received a writ of 
 Habeas Corpus, of which the within is a true 
-copy on the  1st day of Novemebr 1885, and that
-I personaly served that the same on the same 
+copy on the 12th day of Novemeber 1885, and that
+I personally served that the same on the same 
 day on C.W. Hutchinson he bring the person
 to whom said writ is directed, by, delivering
 to and leaving with him, the said Hutchinson 
-husoully, in King County, W.T. said wit.</p>
+personally, in King County, W.T. said writ.</p>
 
 <p>Seattle Nov, 13th 1885,</p>
 
-<p>NHMc Graw
+<p>J H McGraw
 Sheriff</p>
 
 <p>Sheriff Fees
 Service 1.00
-<unclear></unclear> .80
-<unclear></unclear> . 20
+Copy .80
+Travel . 20
 Return .50
 $2.50</p>
 
-<pb/>
 
 <p>No.4704</p>
 
@@ -203,10 +203,10 @@ Judicial District</p>
 
 <p>In Re,
 Application of 
-C.H. Hutchingson
+C.H. Hutchinson
 for writ of Habeas
 Corpus
-<unclear></unclear></p>
+</p>
 
 <p>Habeas Corpus</p>
 
@@ -218,7 +218,8 @@ James Seavey, Clerk
 By James P. Ludlow</p>
 
 <p>Rasin &amp; Gilman 
-Jas Hamilton Lewis</p>
+Jas Hamilton Lewis
+<unclear>pett</unclear> atty</p>
 </div1>
     
 </body>

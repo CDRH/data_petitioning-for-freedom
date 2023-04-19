@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
+<title>Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Order Granting Petition</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Leon-Flores, Jacky" xml:id="jlf">Jacky Leon-Flores</name>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -46,7 +47,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Petition for Writ</title>
+<title level="m" type="main">Thomas S. Brown and et al v. Thomas Jefferson Hamilton. Order Granting Petition</title>
 <date when="1887-10-15">October 15, 1887</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
@@ -84,7 +85,6 @@
 
 <keywords scheme="lcsh" n="people">
 <term>Ledgerwood, W.E.</term>
-<term>Rochester, Junius</term>
 </keywords>
     
 <keywords scheme="lcsh" n="places"> 
@@ -113,16 +113,25 @@
 <persName>Young, C.J.</persName>
 </person>
 <person role="petitioner">
-<persName>Wegner, Peter J.</persName>
+<persName>Wegener, Peter J.</persName>
 </person>
 <person role="defendant">
 <persName>Hamilton, Thomas Jefferson</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Rochester, Junius</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Metcalfe, James Bard</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Lewis</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Gilman</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Hunday, Charles F.</persName>
+<persName>Munday, Charles F.</persName>
 </person>
 <person role="judge">
 <persName>Richard A. Jones</persName>
@@ -138,7 +147,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>     
+<change when="2022-08" who="#slb">reviewed</change>    
 <change when="2021-07" who="#jlf">transcribed and encoded</change>
 </revisionDesc>
 

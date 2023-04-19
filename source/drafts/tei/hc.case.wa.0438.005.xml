@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant. Type of document</title>
+<title>James McDevitt v. William Cochrane. Application for Writ of Habeas Corpus</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -19,7 +19,7 @@
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2022</date>
 </edition>
 </editionStmt>
             
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of document</title>
-<date when="1891">1891</date>
+<title level="m" type="main">James McDevitt v. William Cochrane. Application for Writ of Habeas Corpus</title>
+<date when="1889">1889</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
@@ -70,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term></term>
+<term>Criminal</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -78,11 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1000-01">Month YYYY</date></term>
+<term><date when="1889">1889</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>James McDevitt</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -92,35 +92,36 @@
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>           
 <person role="petitioner">
-<persName></persName>
+<persName>James McDevitt</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>William Cochrane</persName><!-- insert name of defendant, if a person -->
 </person>
-<person role="attorney_petitioner">
-<persName></persName>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName>Humes</persName>
+<persName>Andrews</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
+<persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName>
+<persName>Thomas Burke</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Third Judical District Court</orgName> <!-- insert court name -->
+<placeName>King County, Washington Territory</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021-07" who="#xxx">transcribed and encoded</change>
+<change when="2022-07" who="#AS">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,10 +133,33 @@
 
                
 <div1 type="case">
-
-<pb/>
-
-
+<p>6528</p>
+<p>In the Matter of The Application of
+James McDevitt for a 
+Writ of Habeas Corpus</p>
+<p>And now this cause
+coming on for having <unclear></unclear>
+its merits, the petitioner 
+being present in person and
+by his attorneys Humes 
+&amp; Andrews, and <unclear></unclear>  
+as Deputy District
+Attorney appearing on the
+part of the Territory to resist
+the <del>petition</del> application 
+<del>and having</del>
+and being fully advised
+in the premesis <del>it is</del>
+the court <unclear></unclear> that
+said petitioner is unlawfully
+restrained of his liberty</p>
+<p>Wherefor it is considered
+and adjudged that said
+James McDevitt by and
+he is hereby discharged from
+the custody of said William
+Cochrane <del>and is at liberty</del> and
+that he go hence without day -</p>
 </div1>
     
 </body>

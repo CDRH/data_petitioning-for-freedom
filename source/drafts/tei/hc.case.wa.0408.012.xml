@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace" xml:id="GT">Grace Turner</name>
-
+<name n="Russell, Ellie" xml:id="edr">Ellie Russell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -95,25 +95,25 @@ James P Ludlow</term>
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>George Daly</persName>
+<persName>Daly, George</persName>
 </person>
 <person role="defendant">
-<persName>J.H. McGraw</persName>
+<persName>McGraw, John Harte</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>McNaught</persName>
+<persName>McNaught, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Ferry</persName>
+<persName>Ferry, Elisha P.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>John H. Mitchell</persName>
+<persName>Mitchell, John H.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName>
 </person>
 <person role="judge">
-<persName>Roger Greene</persName>
+<persName>Greene, Roger D.</persName>
 </person>
 </listPerson>
             
@@ -128,6 +128,7 @@ James P Ludlow</term>
         
 <revisionDesc>         
 <change when="2021-07" who="#GT">transcribed and encoded</change>
+<change when="2022-10" who="#edr">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
@@ -183,7 +184,7 @@ Defendant</ab>
 Filed Mch 17 1884
 James Seavey Clerk.
 By James P Ludlow Deputy.</ab>
-<ab>McNaught, Ferry, McNaught amperstand Mitchell.</ab>
+<ab>McNaught, Ferry, McNaught &amp; Mitchell.</ab>
 <ab>Attorneys for Petition</ab>
 </div1>
     
