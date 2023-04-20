@@ -9,6 +9,7 @@ Issues go on the [Habeas Corpus Rails App Repo](https://github.com/CDRH/habeasco
 # Downloading the data
 
 Make sure you have your Airtable API key and the base_id for the spreadsheets. The base_id can be found in the API documentation of the sheet (under Help). Place them in a file `.env`. See the file `sample.env` for a template.
+Please note that the Airtable authentication is [being changed](https://community.airtable.com/t5/announcements/new-api-capabilities-now-in-ga-and-upcoming-api-keys-deprecation/ba-p/141824?utm_ID=recdXE5vJZZ5vR0mh&utm_ID=recdXE5vJZZ5vR0mh&utm_source=lifecycle_team&utm_source=lifecycle_team&utm_medium=email&utm_medium=email&utm_campaign=it_ss_ss_api_deprecation&utm_campaign=it_ss_ss_api_depreciation&utm_content=email-blast_api_1a&utm_content=email-blast_api_key_users), and API keys are being deprecated in favor of [personal access tokens](https://airtable.com/developers/web/guides/personal-access-tokens). Follow the instructions, grant read access in each case (no need for write access) and select the Petitioning for Freedom table. This change does not affect the server request, so after generating the token you can still include it in `.env` under `API_KEY`.
 A Python script downloads the Airtable files as JSON and transforms them into CSV files, a format that can be used by Datura. Run this script with `python3 scripts/python/json_to_csv.py`. Then the csv files will be reading for posting with Datura.
 
 # Posting to associate the cases and documents
