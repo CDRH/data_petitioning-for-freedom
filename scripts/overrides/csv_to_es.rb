@@ -250,9 +250,38 @@ class CsvToEs
       return array_to_string(built_text, " ")
     end
 
+    private
+
     def check_and_parse(key)
+      # given a string, check for the matching field, parse JSON, and remove nil values
       if @row[key]
-        JSON.parse(@row[key])
+        begin 
+          JSON.parse(@row[key]).compact
+        rescue
+          nil
+        end
+      end
+    end
+
+    def parse_md_brackets(query)
+      # given a markdown style link, parse the part in brackets
+      if /\[(.*?)\]/.match(query)
+        /\[(.*?)\]/.match(query)[1]
+      else
+        query
+      end
+    end
+  
+    def parse_md_parentheses(query)
+      # given a markdown style link, parse the part in parentheses
+      /\]\((.*?)\)/.match(query)[1] if /\]\((.*?)\)/.match(query)
+    end
+
+    def match_with_case(markdown_array, case_id)
+      # make sure there is actual data in the array and not just nil, before looking for the match
+      if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
+        # find field value (i.e. age) that matches the given case id
+        markdown_array.select{ |data| data &&data.include?(case_id)}[0].split("|")[1]
       end
     end
 
