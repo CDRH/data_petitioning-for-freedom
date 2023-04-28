@@ -10,21 +10,6 @@ class CsvToEsPerson < CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-      @json["birthplace_k"] = check_and_parse(@row["Birth Place"])
-      @json["race_k"] = check_and_parse(@row["Race or Ethnicity"])
-      @json["sex_k"] = check_and_parse(@row["Sex"])
-      @json["name_given_k"] = @row["name_given"]
-      @json["name_last_k"] = @row["name_last"]
-      if @row["name_alternate"]
-        @json["name_alternate_k"] = @row["name_alternate"]
-      end
-      @json["age_k"] = check_and_parse(@row["Indicated Age Category (from Case Data [join])"])
-      if @row["person_case_year"]
-        @json["case_year_k"] = JSON.parse(@row["person_case_year"]).select{|i| i.class == String}
-      end
-      if @row["person_nationality"]
-        @json["nationality_k"] = JSON.parse(@row["person_nationality"]).collect {|i| i.split("|")[1] if i }[0]
-      end
 	  end
 		
 	  def id
@@ -72,7 +57,7 @@ class CsvToEsPerson < CsvToEs
     def spatial
       places = []
       if @row["Birth Place"]
-        place = { "name" => JSON.parse(@row["Birth Place"]), "type" => "birth_place" }
+        place = { "name" => JSON.parse(@row["Birth Place"]), "role" => "birth_place" }
         places << place
       end
       places
@@ -83,6 +68,45 @@ class CsvToEsPerson < CsvToEs
     end
 
     def person
+      people = []
+      person_tags = check_and_parse("Tags")
+      people << {
+        "role" => "person",
+        "name_given" => @row["name_given"],
+        "name_last" => @row["name_last"],
+        "name_alternate" => check_and_parse("name_alternate"),
+        "sex" => check_and_parse("Sex"),
+        "race" => check_and_parse("Race or Ethnicity"),
+        "trait1" => person_tags
+      }
+      case_roles = check_and_parse("case_role")
+      case_sex = check_and_parse("person_sex")
+      case_age = check_and_parse("person_age")
+      case_race = check_and_parse("person_race")
+      case_nationality = check_and_parse("person_nationality")
+      case_note = check_and_parse("person_note")
+      case_years = check_and_parse("person_case_year")
+      case_tags = check_and_parse("person_tags")
+      if case_roles
+        case_roles.each_with_index do |case_role, index|
+          if !case_role
+            byebug
+          end
+          case_id = parse_md_parentheses(case_role.split("|")[2])
+          people << {
+            "id" => case_id,
+            "role" => match_with_case(case_roles, case_id),
+            "sex" => match_with_case(case_sex, case_id),
+            "age" => match_with_case(case_age, case_id),
+            "race" => match_with_case(case_race, case_id),
+            "nationality" => match_with_case(case_nationality, case_id),
+            "order" => case_years[index],
+            "note" => match_with_case(case_note, case_id),
+            "trait1" => match_with_case(case_tags, case_id)
+          }
+        end
+      end
+      people
     end
 
     def rdf
@@ -152,7 +176,7 @@ class CsvToEsPerson < CsvToEs
         end
       end
       case_roles
-    end 
+    end
 
   end
   
