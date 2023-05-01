@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Turner, Grace E." xml:id="GET">Grace E. Turner</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Ham, Bethany R." xml:id="brh">Bethany R. Ham</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
@@ -99,7 +100,7 @@
 <persName>Miller, Mari</persName>
 </person>
 <person role="defendant">
-<persName>United States of America</persName>
+<persName></persName>
 </person>
 <person role="attorney_petitioner">
 <persName></persName>
@@ -114,7 +115,7 @@
             
 <listOrg>
 <org>
-<orgName>Western Washington District Court</orgName>
+<orgName>Western Washington District Court Northern Division</orgName>
 <placeName>Washington</placeName>
 </org>
 </listOrg>   
@@ -122,6 +123,7 @@
 </profileDesc>
         
 <revisionDesc>     
+<change when="2023-05" who="#brh">reviewed, images added, and airtabled</change>
 <change when="2021-11" who="#lkw">review</change>    
 <change when="2021-10" who="#GET">transcribed and encoded</change>
 </revisionDesc>
@@ -136,14 +138,14 @@
                
 <div1 type="case">
 
-<pb/>
+<pb facs="hc.case.wa.0172.002"/>
 <p>United States District Court
 Western District of Washington
 Northern Division.</p>
 <p>In the Matter of the Application
-of Marie Miller
+of Marie Miler
 for a Writ of Habeas Corpus }No.2457.</p>
-<p>Order for Withdrawl of thh Transcript of the
+<p>Order for Withdrawl of the Transcript of the
 Bureau of Immigration.</p>
 <p>Upon the oral motion of the United States Attorney;
 It is Hereby Ordered, That the government may permanently 
@@ -156,7 +158,8 @@ Judge.</ab>
 <p>Recieved the above named Bureau of Immigration Transcript
 this 4th day of Feburary, 1914.</p>
 <ab>C.M. Thiel</ab>
-<pb/>
+
+<pb facs="hc.case.wa.0172.003"/>
 <ab>No. 2457
 GOB-4-393 2x</ab>
 <p>In the District Court
@@ -166,8 +169,9 @@ Western District of Washington</p>
 <p>In the matter of the Application
 of Marie Miler for
 a Writ of Habeas Corpus.</p>
-<p>Order for Withdrawl of the Transcript of the Bureau of
-Immigration</p>
+<p>Order for Withdrawal of the 
+Transcript of the Bureau of
+Immigration.</p>
 <p>Filed in the
 U.S. District Court,
 Western Dist. of Washington,
