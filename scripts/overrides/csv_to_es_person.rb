@@ -89,9 +89,6 @@ class CsvToEsPerson < CsvToEs
       case_tags = check_and_parse("person_tags")
       if case_roles
         case_roles.each_with_index do |case_role, index|
-          if !case_role
-            byebug
-          end
           case_id = parse_md_parentheses(case_role.split("|")[2])
           people << {
             "id" => case_id,
