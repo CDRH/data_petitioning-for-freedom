@@ -42,17 +42,13 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-      if @row["Petition Outcome"]
-			  @json["outcome_k"] = JSON.parse(@row["Petition Outcome"])
-      end
+			@json["outcome_k"] = check_and_parse("Petition Outcome")
       if @row["Point(s) of Law Cited"]
         @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
       end
-      if @row["Fate of Bound Party(s)"]
-        @json["fate_of_bound_party_k"] = JSON.parse(@row["Fate of Bound Party(s)"])
-      end
+      @json["fate_of_bound_party_k"] = check_and_parse("Fate of Bound Party(s)")
       if @row["Item Type(s)"]
-        @json["document_types_k"] = JSON.parse(@row["Item Type(s)"])
+        @json["document_types_k"] = check_and_parse("Item Type(s)")
       end
 			@json["court_k"] = @row["Court Type"]
       @json["repository_k"] = check_and_parse("Repository")
@@ -191,9 +187,7 @@ class CsvToEs
     end 
   
     def rights_holder
-      if @row["Repository"]
-        JSON.parse(@row["Repository"])
-      end
+      check_and_parse("Repository")
     end
   
     # def rights_uri
@@ -205,9 +199,7 @@ class CsvToEs
     end
 
     def subjects
-      if @row["Document Type(s)"]
-        JSON.parse(@row["Document Type(s)"])
-      end
+      check_and_parse("Document Type(s)")
     end
   
     def title
@@ -215,22 +207,18 @@ class CsvToEs
     end
 
     def type
-      if @row["Court Type(s)"]
-        JSON.parse(@row["Court Type(s)"])
-      end
+      check_and_parse("Court Type(s)")
     end
 
 		def spatial
       places = []
       if @row["Court Location(s)"]
-			  place = { "name" => JSON.parse(@row["Court Location(s)"]), "type" => "court_location" }
-        if @row["Court Name(s)"]
-          place["short_name"] = JSON.parse(@row["Court Name(s)"])
-        end
+			  place = { "name" => check_and_parse("Court Location(s)"), "type" => "court_location" }
+        place["short_name"] = check_and_parse("Court Name(s)")
         places << place
       end
       if @row["Site(s) of Significance"]
-        place = { "name" => JSON.parse(@row["Site(s) of Significance"]), "type" => "site_of_significance" }
+        place = { "name" => check_and_parse("Site(s) of Significance"), "type" => "site_of_significance" }
         places << place
       end
 			places

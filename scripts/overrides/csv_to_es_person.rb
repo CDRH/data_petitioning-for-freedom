@@ -50,14 +50,14 @@ class CsvToEsPerson < CsvToEs
 
     def relation
       if @row["Cases Text"]
-        JSON.parse(@row["Cases Text"])
+        check_and_parse("Cases Text")
       end
     end
 
     def spatial
       places = []
       if @row["Birth Place"]
-        place = { "name" => JSON.parse(@row["Birth Place"]), "role" => "birth_place" }
+        place = { "name" => check_and_parse("Birth Place"), "role" => "birth_place" }
         places << place
       end
       places
