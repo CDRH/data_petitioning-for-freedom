@@ -9,7 +9,7 @@ config/private.yml
 # increase specificity of this path if you wish to only track generated html
 !/output/production/
 !/output/text/
-
+/ENV
 /bin
 /lib
 pyvenv.cfg
