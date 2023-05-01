@@ -254,7 +254,7 @@ class CsvToEs
 
     def check_and_parse(key)
       # given a string, check for the matching field, parse JSON, and remove nil values
-      if @row[key]
+      if @row[key] && !@row[key].include?("#ERROR!")
         begin 
           JSON.parse(@row[key]).compact
         rescue
