@@ -97,7 +97,7 @@ class CsvToEsPerson < CsvToEs
             "age" => match_with_case(case_age, case_id),
             "race" => match_with_case(case_race, case_id),
             "nationality" => match_with_case(case_nationality, case_id),
-            "order" => case_years[index],
+            "order" => match_with_case(case_years, case_id),
             "note" => match_with_case(case_note, case_id),
             "trait1" => match_with_case(case_tags, case_id)
           }
@@ -117,12 +117,12 @@ class CsvToEsPerson < CsvToEs
             name2_and_id = data[2]
             #get names and id's out of brackets, quotes, and parentheses
             if name1_and_id != "[]()"
-              person1_name = /\["(.*)"\]/.match(name1_and_id)[1]
-              person1_id = /\((.*)\)/.match(name1_and_id)[1]
+              person1_name = parse_md_brackets(name1_and_id)
+              person1_id = parse_md_parentheses(name1_and_id)
             end
             if name2_and_id != "[]()"
-              person2_name = /\["(.*)"\]/.match(name2_and_id)[1]
-              person2_id = /\((.*)\)/.match(name2_and_id)[1]
+              person2_name = parse_md_brackets(name2_and_id)
+              person2_id = parse_md_parentheses(name2_and_id)
             end
             subject = "#{person1_name} {#{person1_id}}"
             object = "#{person2_name} {#{person2_id}}"
@@ -130,6 +130,7 @@ class CsvToEsPerson < CsvToEs
             case_roles << roles
           end
         end
+
       end
       # inverse relationships (i.e. mother of--daughter of)
       if @row["RDF - person relationship person (from Relationships [join] 2)"]
@@ -140,11 +141,11 @@ class CsvToEsPerson < CsvToEs
           name2_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
           if name1_and_id != "[]()"
-            person1_name = /\["(.*)"\]/.match(name1_and_id)[1]
-            person1_id = /\((.*)\)/.match(name1_and_id)[1]
+            person1_name = parse_md_brackets(name1_and_id)
+            person1_id = parse_md_parentheses(name1_and_id)
           end
-          person2_name = /\["(.*)"\]/.match(name2_and_id)[1]
-          person2_id = /\((.*)\)/.match(name2_and_id)[1]
+          person2_name = parse_md_brackets(name2_and_id)
+          person2_id = parse_md_parentheses(name2_and_id)
           subject = "#{person1_name} {#{person1_id}}"
           object = "#{person2_name} {#{person2_id}}"
           roles = { "type" => "person_relationship", "subject" => subject, "predicate" => relationship, "object" => object }
