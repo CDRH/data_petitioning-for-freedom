@@ -56,15 +56,13 @@ class CsvToEsPerson < CsvToEs
 
     def spatial
       places = []
-      if @row["Birth Place"]
-        place = { "name" => check_and_parse("Birth Place"), "role" => "birth_place" }
-        places << place
+      if check_and_parse("Birth Place")
+        check_and_parse("Birth Place").each do |birth_place|
+          place = { "name" => birth_place, "role" => "birth_place" }
+          places << place
+        end
       end
       places
-    end
-
-    def keywords
-      @row["Tags"]
     end
 
     def person
@@ -110,7 +108,10 @@ class CsvToEsPerson < CsvToEs
       case_roles = []
       if @row["RDF - person relationship person (from Relationships [join])"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join])"]).each do |person_info|
-          if person_info && !["", "nan", "None"].include?(person_info)
+          if person_info
+            if person_info.include?("nan")
+              next
+            end
             data = person_info.split("|")
             name1_and_id = data[0]
             relationship = data[1]
@@ -135,6 +136,9 @@ class CsvToEsPerson < CsvToEs
       # inverse relationships (i.e. mother of--daughter of)
       if @row["RDF - person relationship person (from Relationships [join] 2)"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join] 2)"]).each do |person_info|
+          if person_info.include?("nan")
+            next
+          end
           data = person_info.split("|")
           name1_and_id = data[0]
           relationship = data[1]
