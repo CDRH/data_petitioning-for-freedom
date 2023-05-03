@@ -7,30 +7,32 @@ class CsvToEs
 
     def make_rdf_field(row, type, predicate)
       info = []
-      JSON.parse(row).each do |person_info|
-        if person_info
-          data = person_info.split("|")
-          #get name/id out of brackets/quotes/parentheses
-          name_and_id = data[0]
-          value_list = data[1].split(", ")
-          case_and_id = data[2]
-          name = /\["(.*)"\]/.match(data[0])[1] if /\["(.*)"\]/.match(data[0])
-          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
-          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
-          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
-          subject = "#{person_name} {#{person_id}}"
-          source = object = "#{case_name} {#{case_id}}"
-          id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          value_list.each do |value|
-            age = { 
-              "type" => type, 
-              "subject" => subject, 
-              "predicate" => predicate,
-              "object" => value,
-              "source" => source
-            }
-            info << age
+      if row && JSON.parse(row) != ""
+        JSON.parse(row).each do |person_info|
+          if person_info && person_info != ""
+            data = person_info.split("|")
+            #get name/id out of brackets/quotes/parentheses
+            name_and_id = data[0]
+            value_list = data[1].split(", ")
+            case_and_id = data[2]
+            name = /\[(.*)\]/.match(data[0])[1] if /\[(.*)\]/.match(data[0])
+            person_name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
+            person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
+            case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
+            case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
+            subject = "#{person_name} {#{person_id}}"
+            source = object = "#{case_name} {#{case_id}}"
+            id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
+            value_list.each do |value|
+              age = { 
+                "type" => type, 
+                "subject" => subject, 
+                "predicate" => predicate,
+                "object" => value,
+                "source" => source
+              }
+              info << age
+            end
           end
         end
       end
@@ -122,16 +124,19 @@ class CsvToEs
 
     def person
       people = []
-      if @row["RDF - person role case (from Case Role [join])"]
+      if @row["RDF - person role case (from Case Role [join])"] && @row["RDF - person role case (from Case Role [join])"] != ""
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
-          if !person_info
+          if !person_info || ["", "nan", "None"].include?(person_info)
             next
           end
           data = person_info.split("|")
+          if data[1] == nil
+            byebug
+          end
           role_list = data[1].split(", ")
           name_and_id = data[0]
           #get name/id out of brackets/quotes/parentheses
-          name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
+          name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
           id = /\]\((.*)\)/.match(name_and_id)[1] if /\]\((.*)\)/.match(name_and_id)
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
@@ -164,7 +169,7 @@ class CsvToEs
           role = data[1]
           case_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
-          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
+          person_name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
           person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
           case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
           case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
@@ -231,11 +236,11 @@ class CsvToEs
     end
 
     def text
-      built_text = []
-      @row.each do |column_name, value|
-        built_text << value.to_s
-      end
-      return array_to_string(built_text, " ")
+      # built_text = []
+      # @row.each do |column_name, value|
+      #   built_text << value.to_s
+      # end
+      # return array_to_string(built_text, " ")
     end
 
     private
@@ -269,7 +274,7 @@ class CsvToEs
       # make sure there is actual data in the array and not just nil, before looking for the match
       if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
         # find field value (i.e. age) that matches the given case id
-        markdown_array.select{ |data| data &&data.include?(case_id)}[0].split("|")[1]
+        markdown_array.select{ |data| data && data.include?(case_id)}[0].split("|")[1]
       end
     end
 
