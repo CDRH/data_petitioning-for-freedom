@@ -7,7 +7,7 @@ load_dotenv()
 env_path = Path('.')/'.env'
 load_dotenv(dotenv_path=env_path)
 import json
-
+from helpers import remove_quotes
 
 AIRTABLE_BASE_ID = os.getenv("AIRTABLE_BASE_ID")
 API_KEY = os.getenv("API_KEY")
@@ -28,7 +28,14 @@ people_frame = people_frame.set_index("airtable_id")
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
 cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "Last Modified By", "People", "airtable_createdTime", "airtable_id", "Created", "Created By", "Encoding Incomplete?", "Relationships [join]", "Case Role [join]", "Petition Outcome Old"])
 people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modified", "Last Modified By", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2", "Case Role [join]"])
-# make sure what is being written to CSV is proper JSON
+people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join])')
+people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join] 2)')
+cases_frame = remove_quotes(cases_frame, "Petitioners")
+cases_frame = remove_quotes(cases_frame, "RDF - person role case (from Case Role [join])")
+cases_frame = cases_frame.fillna('')
+cases_frame = cases_frame.replace('NaN', '')
+people_frame = people_frame.fillna('')
+people_frame = people_frame.replace('NaN', '')
 for label in ["Petition Type", "Document Type(s)", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])", "Court Location(s)", "Petition Outcome", "Fate of Bound Party(s)", "Court Type(s)", "Court Name(s)", "Source Material(s)", "bound_party_age", "bound_party_race", "bound_party_sex"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
 for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person role case (from Case Role [join])", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year", "person_nationality", "case_role", "person_sex", "person_age", "person_race", "person_notes", "person_tags"]:
