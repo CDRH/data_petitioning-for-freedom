@@ -110,7 +110,7 @@ class CsvToEsPerson < CsvToEs
       case_roles = []
       if @row["RDF - person relationship person (from Relationships [join])"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join])"]).each do |person_info|
-          if person_info
+          if person_info && !["", "nan", "None"].include?(person_info)
             data = person_info.split("|")
             name1_and_id = data[0]
             relationship = data[1]
