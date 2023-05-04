@@ -88,6 +88,7 @@ class CsvToEsPerson < CsvToEs
       if case_roles
         case_roles.each_with_index do |case_role, index|
           case_id = parse_md_parentheses(case_role.split("|")[2])
+          case_name = parse_md_brackets(case_role.split("|")[2])
           people << {
             "id" => case_id,
             "role" => match_with_case(case_roles, case_id),
@@ -97,7 +98,8 @@ class CsvToEsPerson < CsvToEs
             "nationality" => match_with_case(case_nationality, case_id),
             "order" => match_with_case(case_years, case_id),
             "note" => match_with_case(case_note, case_id),
-            "trait1" => match_with_case(case_tags, case_id)
+            "trait1" => match_with_case(case_tags, case_id),
+            "trait2" => case_name
           }
         end
       end
