@@ -15,14 +15,12 @@ class CsvToEs
             name_and_id = data[0]
             value_list = data[1].split(", ")
             case_and_id = data[2]
-            name = /\[(.*)\]/.match(data[0])[1] if /\[(.*)\]/.match(data[0])
-            person_name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
-            person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-            case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
-            case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
+            person_name = parse_md_brackets(name_and_id)
+            person_id = parse_md_parentheses(name_and_id)
+            case_name = parse_md_brackets(case_and_id)
+            case_id = parse_md_parentheses(case_and_id)
             subject = "#{person_name} {#{person_id}}"
-            source = object = "#{case_name} {#{case_id}}"
-            id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
+            source = "#{case_name} {#{case_id}}"
             value_list.each do |value|
               age = { 
                 "type" => type, 
@@ -130,14 +128,11 @@ class CsvToEs
             next
           end
           data = person_info.split("|")
-          if data[1] == nil
-            byebug
-          end
           role_list = data[1].split(", ")
           name_and_id = data[0]
           #get name/id out of brackets/quotes/parentheses
-          name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
-          id = /\]\((.*)\)/.match(name_and_id)[1] if /\]\((.*)\)/.match(name_and_id)
+          name = parse_md_brackets(name_and_id)
+          id = parse_md_parentheses(name_and_id)
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
             people << person
