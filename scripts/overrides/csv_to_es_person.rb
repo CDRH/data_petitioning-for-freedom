@@ -72,7 +72,7 @@ class CsvToEsPerson < CsvToEs
         "role" => "person",
         "name_given" => @row["name_given"],
         "name_last" => @row["name_last"],
-        "name_alternate" => check_and_parse("name_alternate"),
+        "name_alternate" => @row["name_alternate"],
         "sex" => check_and_parse("Sex"),
         "race" => check_and_parse("Race or Ethnicity"),
         "trait1" => person_tags
