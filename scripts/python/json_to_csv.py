@@ -28,10 +28,12 @@ people_frame = people_frame.set_index("airtable_id")
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
 cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "Last Modified By", "People", "airtable_createdTime", "airtable_id", "Created", "Created By", "Encoding Incomplete?", "Relationships [join]", "Case Role [join]", "Petition Outcome Old"])
 people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modified", "Last Modified By", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2", "Case Role [join]"])
+# remove "" characters from within arrays, airtable creates them but they are unneeded
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join])')
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join] 2)')
 cases_frame = remove_quotes(cases_frame, "Petitioners")
 cases_frame = remove_quotes(cases_frame, "RDF - person role case (from Case Role [join])")
+# these methods sometimes result in nan values, replace with empty strings
 cases_frame = cases_frame.fillna('')
 cases_frame = cases_frame.replace('NaN', '')
 people_frame = people_frame.fillna('')
