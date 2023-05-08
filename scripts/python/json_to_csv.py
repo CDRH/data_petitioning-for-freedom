@@ -31,8 +31,15 @@ people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modifie
 # remove "" characters from within arrays, airtable creates them but they are unneeded
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join])')
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join] 2)')
+people_frame = remove_quotes(people_frame, 'case_role')
 cases_frame = remove_quotes(cases_frame, "Petitioners")
 cases_frame = remove_quotes(cases_frame, "RDF - person role case (from Case Role [join])")
+cases_frame = remove_quotes(cases_frame, "bound_party_age")
+cases_frame = remove_quotes(cases_frame, "bound_party_sex")
+cases_frame = remove_quotes(cases_frame, "bound_party_race")
+cases_frame = remove_quotes(cases_frame, "petitioner_age")
+cases_frame = remove_quotes(cases_frame, "petitioner_race")
+cases_frame = remove_quotes(cases_frame, "petitioner_sex")
 # these methods sometimes result in nan values, replace with empty strings
 cases_frame = cases_frame.fillna('')
 cases_frame = cases_frame.replace('NaN', '')
