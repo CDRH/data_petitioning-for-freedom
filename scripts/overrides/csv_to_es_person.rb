@@ -87,6 +87,9 @@ class CsvToEsPerson < CsvToEs
       case_tags = check_and_parse("person_tags")
       if case_roles
         case_roles.each_with_index do |case_role, index|
+          if ["", "nan", "None"].include?(case_role)
+            next
+          end
           case_id = parse_md_parentheses(case_role.split("|")[2])
           case_name = parse_md_brackets(case_role.split("|")[2])
           people << {
@@ -111,7 +114,7 @@ class CsvToEsPerson < CsvToEs
       if @row["RDF - person relationship person (from Relationships [join])"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join])"]).each do |person_info|
           if person_info
-            if person_info.include?("nan")
+            if ["", "nan", "None"].include?(person_info)
               next
             end
             data = person_info.split("|")
@@ -138,7 +141,7 @@ class CsvToEsPerson < CsvToEs
       # inverse relationships (i.e. mother of--daughter of)
       if @row["RDF - person relationship person (from Relationships [join] 2)"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join] 2)"]).each do |person_info|
-          if person_info.include?("nan")
+          if ["", "nan", "None"].include?(person_info)
             next
           end
           data = person_info.split("|")

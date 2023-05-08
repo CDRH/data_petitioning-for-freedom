@@ -9,7 +9,10 @@ class CsvToEs
       info = []
       if row && JSON.parse(row) != ""
         JSON.parse(row).each do |person_info|
-          if person_info && person_info != ""
+          if person_info
+            if ["", "nan", "None"].include?(person_info)
+              next
+            end
             data = person_info.split("|")
             #get name/id out of brackets/quotes/parentheses
             name_and_id = data[0]
