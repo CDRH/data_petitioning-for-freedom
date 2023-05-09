@@ -168,5 +168,16 @@ class CsvToEsPerson < CsvToEs
       case_roles
     end
 
+    def keywords
+      roles = []
+      case_roles = check_and_parse("case_role")
+      if case_roles
+        case_roles.each do |case_role|
+          roles << case_role.split("|")[1]
+        end
+      end
+      roles.uniq
+    end
+
   end
   
