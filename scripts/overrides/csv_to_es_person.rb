@@ -173,10 +173,12 @@ class CsvToEsPerson < CsvToEs
       case_roles = check_and_parse("case_role")
       if case_roles
         case_roles.each do |case_role|
-          roles << case_role.split("|")[1]
+          if case_role.split("|")[1]
+            roles << case_role.split("|")[1].split(", ")
+          end
         end
       end
-      roles.uniq
+      roles.flatten.uniq
     end
 
   end
