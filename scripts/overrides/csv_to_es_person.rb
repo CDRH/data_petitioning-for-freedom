@@ -68,13 +68,15 @@ class CsvToEsPerson < CsvToEs
     def person
       people = []
       person_tags = check_and_parse("Tags")
+      sex = check_and_parse("Sex")[0] if check_and_parse("Sex")
+      race = check_and_parse("Race or Ethnicity")[0] if check_and_parse("Race or Ethnicity")
       people << {
         "role" => "person",
         "name_given" => @row["name_given"],
         "name_last" => @row["name_last"],
         "name_alternate" => @row["name_alternate"],
-        "sex" => check_and_parse("Sex"),
-        "race" => check_and_parse("Race or Ethnicity"),
+        "sex" => sex,
+        "race" => race,
         "trait1" => person_tags
       }
       case_roles = check_and_parse("case_role")
