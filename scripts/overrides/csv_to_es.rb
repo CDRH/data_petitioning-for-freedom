@@ -272,7 +272,7 @@ class CsvToEs
       # make sure there is actual data in the array and not just nil, before looking for the match
       if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
         # find field value (i.e. age) that matches the given case id
-        markdown_array.select{ |data| data && data.include?(case_id)}[0].split("|")[1]
+        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| kase.split("|")[1] }.uniq.join(", ")
       end
     end
 
