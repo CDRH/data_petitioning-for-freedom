@@ -88,7 +88,7 @@ class CsvToEsPerson < CsvToEs
       case_years = check_and_parse("person_case_year")
       case_tags = check_and_parse("person_tags")
       if case_roles
-        case_roles.each_with_index do |case_role, index|
+        case_roles.each do |case_role|
           if ["", "nan", "None"].include?(case_role)
             next
           end
