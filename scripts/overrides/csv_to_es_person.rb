@@ -92,18 +92,20 @@ class CsvToEsPerson < CsvToEs
           end
           case_id = parse_md_parentheses(case_role.split("|")[2])
           case_name = parse_md_brackets(case_role.split("|")[2])
-          people << {
-            "id" => case_id,
-            "role" => match_with_case(case_roles, case_id),
-            "sex" => match_with_case(case_sex, case_id),
-            "age" => match_with_case(case_age, case_id),
-            "race" => match_with_case(case_race, case_id),
-            "nationality" => match_with_case(case_nationality, case_id),
-            "order" => match_with_case(case_years, case_id),
-            "note" => match_with_case(case_note, case_id),
-            "trait1" => match_with_case(case_tags, case_id),
-            "trait2" => case_name
-          }
+          if case_id && case_id.length > 0 && !people.find { |i| i["id"] == case_id }
+            people << {
+              "id" => case_id,
+              "role" => match_with_case(case_roles, case_id),
+              "sex" => match_with_case(case_sex, case_id),
+              "age" => match_with_case(case_age, case_id),
+              "race" => match_with_case(case_race, case_id),
+              "nationality" => match_with_case(case_nationality, case_id),
+              "order" => match_with_case(case_years, case_id),
+              "note" => match_with_case(case_note, case_id),
+              "trait1" => match_with_case(case_tags, case_id),
+              "trait2" => case_name
+            }
+          end
         end
       end
       people
