@@ -27,11 +27,18 @@ people_frame = pd.read_json(people_path, orient="records")
 people_frame = people_frame.set_index("airtable_id")
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
 cases_frame = cases_frame.drop(columns=["Encoding Notes", "Last Modified", "Last Modified By", "People", "airtable_createdTime", "airtable_id", "Created", "Created By", "Encoding Incomplete?", "Relationships [join]", "Case Role [join]", "Petition Outcome Old"])
-people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modified", "Last Modified By", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2", "Case Role [join]"])
+people_frame = people_frame.drop(columns=["Created", "Created By", "Last Modified", "Last Modified By", "airtable_createdTime", "auto_gen_id", "Encoding Notes", "Relationships [join]", "Relationships [join] 2", "Case Role [join]", "RDF - person role case (from Case Role [join])"])
 # remove "" characters from within arrays, airtable creates them but they are unneeded
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join])')
 people_frame = remove_quotes(people_frame, 'RDF - person relationship person (from Relationships [join] 2)')
 people_frame = remove_quotes(people_frame, 'case_role')
+people_frame = remove_quotes(people_frame, 'person_age')
+people_frame = remove_quotes(people_frame, 'person_case_year')
+people_frame = remove_quotes(people_frame, 'person_nationality')
+people_frame = remove_quotes(people_frame, 'person_notes')
+people_frame = remove_quotes(people_frame, 'person_race')
+people_frame = remove_quotes(people_frame, 'person_sex')
+people_frame = remove_quotes(people_frame, 'person_tags')
 cases_frame = remove_quotes(cases_frame, "Petitioners")
 cases_frame = remove_quotes(cases_frame, "RDF - person role case (from Case Role [join])")
 cases_frame = remove_quotes(cases_frame, "bound_party_age")
@@ -47,7 +54,7 @@ people_frame = people_frame.fillna('')
 people_frame = people_frame.replace('NaN', '')
 for label in ["Petition Type", "Document Type(s)", "Repository", "Site(s) of Significance", "Tags", "Petitioners", "RDF - person role case (from Case Role [join])", "Court Location(s)", "Petition Outcome", "Fate of Bound Party(s)", "Court Type(s)", "Court Name(s)", "Source Material(s)", "bound_party_age", "bound_party_race", "bound_party_sex"]:
     cases_frame[label] = cases_frame[label].apply(json.dumps)
-for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person role case (from Case Role [join])", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year", "person_nationality", "case_role", "person_sex", "person_age", "person_race", "person_notes", "person_tags"]:
+for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year", "person_nationality", "case_role", "person_sex", "person_age", "person_race", "person_notes", "person_tags"]:
     people_frame[label] = people_frame[label].apply(json.dumps)
 # replace bad values
 cases_frame = cases_frame.fillna('')
