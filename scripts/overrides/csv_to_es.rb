@@ -234,11 +234,11 @@ class CsvToEs
     end
 
     def text
-      # built_text = []
-      # @row.each do |column_name, value|
-      #   built_text << value.to_s
-      # end
-      # return array_to_string(built_text, " ")
+      built_text = []
+      @row.each do |column_name, value|
+        built_text << value.to_s
+      end
+      return array_to_string(built_text, " ")
     end
 
     private
