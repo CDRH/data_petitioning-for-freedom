@@ -54,7 +54,8 @@ class CsvToEs
         @json["document_types_k"] = check_and_parse("Item Type(s)")
       end
 			@json["court_k"] = @row["Court Type"]
-      @json["repository_k"] = check_and_parse("Repository(s)")
+      # TODO repopulate from the locations table, or associated columns
+      # @json["repository_k"] = check_and_parse("Repository(s)")
       @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
         # using this for people for now. may add more fields later.
       @json["petitioners_k"] = check_and_parse("Petitioners")
