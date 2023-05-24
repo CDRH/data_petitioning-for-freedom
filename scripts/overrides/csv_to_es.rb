@@ -50,9 +50,6 @@ class CsvToEs
         @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
       end
       @json["fate_of_bound_party_k"] = check_and_parse("Fate of Bound Party(s)")
-      if @row["Item Type(s)"]
-        @json["document_types_k"] = check_and_parse("Item Type(s)")
-      end
 			@json["court_k"] = @row["Court Type"]
       # TODO repopulate from the locations table, or associated columns
       # @json["repository_k"] = check_and_parse("Repository(s)")
@@ -232,9 +229,7 @@ class CsvToEs
 		end
 
     def extent
-      if @json["document_types_k"]
-        @json["document_types_k"].count
-      end
+      @row["Length of Case File"]
     end
 
     def text
