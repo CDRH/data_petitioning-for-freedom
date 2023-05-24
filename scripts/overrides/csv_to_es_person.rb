@@ -72,7 +72,7 @@ class CsvToEsPerson < CsvToEs
       race = check_and_parse("Race or Ethnicity")[0] if check_and_parse("Race or Ethnicity")
       people << {
         "role" => "person",
-        "name_given" => @row["name_given"],
+        "name_given" => @row["name_first"],
         "name_last" => @row["name_last"],
         "name_alternate" => @row["name_alternate"],
         "sex" => sex,

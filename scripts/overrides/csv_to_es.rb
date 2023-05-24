@@ -54,7 +54,7 @@ class CsvToEs
         @json["document_types_k"] = check_and_parse("Item Type(s)")
       end
 			@json["court_k"] = @row["Court Type"]
-      @json["repository_k"] = check_and_parse("Repository")
+      @json["repository_k"] = check_and_parse("Repository(s)")
       @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
         # using this for people for now. may add more fields later.
       @json["petitioners_k"] = check_and_parse("Petitioners")
@@ -202,7 +202,8 @@ class CsvToEs
     end
 
     def subjects
-      check_and_parse("Document Type(s)")
+      # TODO column has been deleted
+      # check_and_parse("Document Type(s)")
     end
   
     def title
@@ -210,16 +211,18 @@ class CsvToEs
     end
 
     def type
-      check_and_parse("Court Type(s)")
+      # REDO the below, columns have changed
+      # check_and_parse("Court Type(s)")
     end
 
 		def spatial
       places = []
-      if @row["Court Location(s)"]
-			  place = { "name" => check_and_parse("Court Location(s)"), "type" => "court_location" }
-        place["short_name"] = check_and_parse("Court Name(s)")
-        places << place
-      end
+      # REDO the below, columns have changed
+      # if @row["Court Location(s)"]
+			#   place = { "name" => check_and_parse("Court Location(s)"), "type" => "court_location" }
+      #   place["short_name"] = check_and_parse("Court Name(s)")
+      #   places << place
+      # end
       if @row["Site(s) of Significance"]
         place = { "name" => check_and_parse("Site(s) of Significance"), "type" => "site_of_significance" }
         places << place
