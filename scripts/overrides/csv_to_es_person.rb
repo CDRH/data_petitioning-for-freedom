@@ -99,7 +99,7 @@ class CsvToEsPerson < CsvToEs
               "id" => case_id,
               "role" => match_with_case(case_roles, case_id),
               "sex" => match_with_case(case_sex, case_id),
-              "age" => match_with_case(case_age, case_id),
+              "age_category" => match_with_case(case_age, case_id),
               "race" => match_with_case(case_race, case_id),
               "nationality" => match_with_case(case_nationality, case_id),
               "order" => match_with_case(case_years, case_id),
