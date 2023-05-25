@@ -15,7 +15,7 @@ class FileCsv < FileType
         es_doc = []
         table = table_type
         @csv.each do |row|
-            if !row.header_row? && (row["Case ID"] || row["unique_id"])
+            if !row.header_row? && (row["Case ID"] || row["unique_id"] || row["ID"])
               new_row = row_to_es(@csv.headers, row, table, old_case_docs)
               es_doc << new_row
             end
@@ -45,14 +45,18 @@ class FileCsv < FileType
       elsif table == "people"
         puts "processing " + row["unique_id"]
         CsvToEsPerson.new(row, options, @csv, self.filename(false)).json
+      elsif table == "locations"
+        CsvToEsLocation.new(row, options, @csv, self.filename(false)).json
       end
     end
 
     def table_type
         if self.filename.include? "people"
             "people"
+        elsif self.filename.include? "locations"
+          "locations"
         else
-            "cases"
+          "cases"
         end
     end
 
