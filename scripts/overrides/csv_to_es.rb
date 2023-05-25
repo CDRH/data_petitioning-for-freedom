@@ -216,14 +216,20 @@ class CsvToEs
 		def spatial
       places = []
       # REDO the below, columns have changed
-      # if @row["Court Location(s)"]
-			#   place = { "name" => check_and_parse("Court Location(s)"), "type" => "court_location" }
+      if check_and_parse("Repository")
+        repositories = check_and_parse("Repository")
+        repositories.each do |repository|
+	        place = { "name" => parse_md_brackets(repository), "id" => parse_md_parentheses(repository), "type" => "repository" }
       #   place["short_name"] = check_and_parse("Court Name(s)")
-      #   places << place
-      # end
-      if @row["Site(s) of Significance"]
-        place = { "name" => check_and_parse("Site(s) of Significance"), "type" => "site_of_significance" }
-        places << place
+          places << place
+        end
+      end
+      if check_and_parse("Site(s) of Significance")
+        sites = check_and_parse("Site(s) of Significance")
+        sites.each do |site|
+          place = { "name" => parse_md_brackets(site), "id" => parse_md_parentheses(site), "type" => "site_of_significance" }
+          places << place
+        end
       end
 			places
 		end
