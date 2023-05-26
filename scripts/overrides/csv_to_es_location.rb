@@ -20,4 +20,8 @@ class CsvToEsLocation < CsvToEs
   def rdf
   end
 
+  def category
+    "Locations"
+  end
+
 end
