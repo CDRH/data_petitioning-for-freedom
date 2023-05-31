@@ -40,7 +40,16 @@ class FileCsv < FileType
         puts "processing " + row["Case ID"]
         new_row = CsvToEs.new(row, options, @csv, self.filename(false)).json
         # add document ids here, since it is difficult to pass data to the override
-        new_row["document_ids_k"] = case_docs[new_row["identifier"]]
+        #new_row["document_ids_k"] = case_docs[new_row["identifier"]]
+        new_row["has_part"] = []
+        if case_docs[new_row["identifier"]]
+          case_docs[new_row["identifier"]].each do |case_id|
+            new_row["has_part"] << {
+              "role" => "case document",
+              "id" => case_id
+            }
+          end
+        end
         new_row
       elsif table == "people"
         puts "processing " + row["unique_id"]
