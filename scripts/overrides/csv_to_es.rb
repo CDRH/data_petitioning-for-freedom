@@ -51,12 +51,6 @@ class CsvToEs
       end
       @json["fate_of_bound_party_k"] = check_and_parse("Fate of Bound Party(s)")
 			@json["court_k"] = @row["Court Type"]
-      # TODO repopulate from the locations table, or associated columns
-      # @json["repository_k"] = check_and_parse("Repository(s)")
-      @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
-        # using this for people for now. may add more fields later.
-      @json["petitioners_k"] = check_and_parse("Petitioners")
-
 		end
 		
 		def id
@@ -215,12 +209,10 @@ class CsvToEs
 
 		def spatial
       places = []
-      # REDO the below, columns have changed
       if check_and_parse("Repository")
         repositories = check_and_parse("Repository")
         repositories.each do |repository|
 	        place = { "name" => parse_md_brackets(repository), "id" => parse_md_parentheses(repository), "type" => "repository" }
-      #   place["short_name"] = check_and_parse("Court Name(s)")
           places << place
         end
       end
@@ -230,6 +222,9 @@ class CsvToEs
           place = { "name" => parse_md_brackets(site), "id" => parse_md_parentheses(site), "type" => "site_of_significance" }
           places << place
         end
+      end
+      if check_and_parse("Court Name(s)")
+        # TODO need to add court names
       end
 			places
 		end
