@@ -6,21 +6,23 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title>
+<title>In the Matter of the Habeas Corpus Proceedings for Mollie A. Calhoun</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="McDermott, Luke M." xml:id="lmm">Luke M. McDermott</name>
 
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>William Nelson Cromwell Foundation</sponsor>
+<sponsor>National Science Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2022</date>
+<date>2023</date>
 </edition>
 </editionStmt>
             
@@ -36,7 +38,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno>
+<idno type="project">hc.case.or.0014.001</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,15 +48,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant.</title>
-<date when="1000">1000</date>
-<note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
+<title level="m" type="main">In the Matter of the Habeas Corpus Proceedings for Mollie A. Calhoun</title>
+<date when="1903-03-24">March 24, 1903</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
+<repository>Oregon State Archives</repository>
 <collection></collection>
-<idno></idno>
+<idno>Circuit Court Journal Dept. No. 2 Vol. 23 July 1901-Nov. 1903; p 551</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,11 +81,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11">Month, Year</date></term>
+<term><date when="1111-11">February, 1903</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Waters, F. W.</term>
+<term>Schlader, Caroline</term>
+<term>Calhoun, Mollie A.</term>
+<term>Miller, W. E.</term>
+<term>Miller, Mrs. W. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -95,19 +101,31 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName></persName>
+<persName>Schlador, Nettie A.</persName>
 </person>
 <person role="defendant">
-<persName></persName>
+<persName>Schlador, Lena</persName>
+</person>
+<person role="defendant">
+<persName>Schlador, Calvin</persName>
+</person>
+<person role="defendant">
+<persName>Schlador, Alta</persName>
+</person>
+<person role="defendant">
+<persName>Schlador, Archibald</persName>
+</person>
+<person role="defendant">
+<persName>Wolford, John</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName>Richardson</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Richardson</persName>
 </person>
 <person role="attorney_defendant">
-<persName></persName>
-</person>
-<person role="attorney_defendant">
-<persName></persName>
+<persName>Lennon, C. E.</persName>
 </person>
 <person role="judge">
 <persName></persName>
@@ -116,15 +134,15 @@
                   
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName></placeName>
+<orgName>Marion County Circuit Court</orgName>
+<placeName>Marion County, Oregon</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2022-07" who="#xxx">transcribed and encoded</change>
+<change when="2023-06" who="lmm">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -156,6 +174,20 @@ have been duly and regularly served with Summons herein as required by law and t
 have made no application for the appointment for a guardian at litem for them, and the
 time for making such application has expired and that said F, W. Water is a fit
 and suitable person to be appointed as such guardian ad litem.</p>
+
+<p>It is therefore ordered that F.W.Waters be and he is hereby appointed guardian
+ad litem for said Calven Schlader, Alta Schlader and Archibald Schlader, the defendants
+above named to appear for them in this suit.</p>
+
+<p>In the matter of the application
+for
+a Writ of Habeas Corpus for
+Mollie A.Calhoun, a minor.</p>
+
+<p>Now on this day this cause came on before this court at 2 o'clock P.M.
+of March 24, 1903, petitioner appearing by Richardson &amp; Richardson, his attorneys, and
+W. E. Miller and Mrs W.E.Miller in person as well as by their attorney C.E.Lennon and
+upon motion of petitioner this proceeding was ordered dismissed.</p>
 
 <pb/>
 
