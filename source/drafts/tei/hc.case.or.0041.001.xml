@@ -12,8 +12,10 @@
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Brooks, Molli A." xml:id="mab">Molli A. Brooks</name>
+<name n="Dunn, Ethan." xml:id="ed">Ethan Dunn</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Science Foundation</sponsor>
 </titleStmt>
     
 <editionStmt>
@@ -122,6 +124,7 @@
         
 <revisionDesc>         
 <change when="2023" who="mb">transcribed.</change> 
+<change when="2023" who="ed">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
