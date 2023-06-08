@@ -10,7 +10,6 @@
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="McDermott, Luke M." xml:id="lmm">Luke M. McDermott</name>
 
 
@@ -65,7 +64,7 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term>Case Papers</term>
+<term>Court Journal</term>
 </keywords>
     
 <keywords scheme="original" n="subcategory">
@@ -85,15 +84,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Waters, F. W.</term>
-<term>Schlader, Caroline</term>
 <term>Calhoun, Mollie A.</term>
-<term>Miller, W. E.</term>
-<term>Miller, Mrs. W. E.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term>
+<term>Marion County, Oregon</term>
 </keywords>
 
 </textClass>
@@ -101,25 +96,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Schlador, Nettie A.</persName>
+<persName>Smith, Frank</persName>
 </person>
 <person role="defendant">
-<persName>Schlador, Lena</persName>
+<persName>Miller, William E.</persName>
 </person>
 <person role="defendant">
-<persName>Schlador, Calvin</persName>
-</person>
-<person role="defendant">
-<persName>Schlador, Alta</persName>
-</person>
-<person role="defendant">
-<persName>Schlador, Archibald</persName>
-</person>
-<person role="defendant">
-<persName>Wolford, John</persName>
+<persName>Miller, Mrs. William E.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Richardson</persName>
+<persName>Richardson, S. T.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName>Richardson</persName>
@@ -152,6 +138,9 @@
 <body>  
                
 <div1 type="case">
+
+<!--
+
 <p>Circuit Court, February Term, 190<gap reason="Not filled in"/></p>
 <p>Thirteenth Judicial Day.</p>
 <p>Tuesday, March 24th 1903</p>
@@ -178,6 +167,10 @@ and suitable person to be appointed as such guardian ad litem.</p>
 <p>It is therefore ordered that F.W.Waters be and he is hereby appointed guardian
 ad litem for said Calven Schlader, Alta Schlader and Archibald Schlader, the defendants
 above named to appear for them in this suit.</p>
+
+-->
+
+<gap/>
 
 <p>In the matter of the application
 for

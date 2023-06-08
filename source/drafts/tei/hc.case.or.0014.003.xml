@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.or.0014.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Calhoun, Mary A. File # 2214</title>
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="McDermott, Luke M." xml:id="lmm">Luke M. McDermott</name>
+
+
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>William Nelson Cromwell Foundation</sponsor>
+<sponsor>National Science Foundation</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2023</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.or.0014.003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Calhoun, Mary A. File # 2214</title>
+<date when="1903-03-23">March 23, 1903</date>
+<note type="project">Our transcription is based on a digital image of the original.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Oregon State Archives</repository>
+<collection></collection>
+<idno>Probate Journal Index [also indexes Probate Case Files], vol. 1, ca.1843-ca.1907 (1 volume);</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Probate Journal Index</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1903-03">February, 1903</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Howe, Indian Territory</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Smith, Frank</persName>
+</person>
+<person role="defendant">
+<persName>Miller, William E.</persName>
+</person>
+<person role="defendant">
+<persName>Miller, Mrs. William E.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Richardson, S. T.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Richardson</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Lennon, C. E.</persName>
+</person>
+<person role="judge">
+<persName>Boise, R. P.</persName>
+</person>
+</listPerson>
+                  
+<listOrg>
+<org>
+<orgName>Marion County Probate Court</orgName>
+<placeName>Marion County, Oregon</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2023-06" who="lmm">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+<!--
+<p>citation in March 1902 because <gap reason="Photo cut off"/>
+Adoption of Frank had only consent of mother,<gap reason="Photo cut off"/></p>
+
+<p>BYLAND, D. C., File #1196. Intestate. Died 27 Jan 1890. Mary A. Byland <gap reason="Photo cut off"/>
+Adm 25 Feb 1890. Heirs: Mary A. Byland, widow, 32, [by Feb 1899 she is
+Mary Byland Wright]; Roderic D. Byland, son, 17; Lurena E. Byland, dtr, 15;
+Floyd Byland, son, 6; all of Woodburn. Estate included medical equipment.</p>
+
+<p>BYLAND, DONALD FLOYDE, File #1846. Guardianship of minor child, 15 years, of
+Woodburn. Mary A. Wright, mother, of Woodburn, named Gdn 06 Feb 1899.</p>
+
+<p>BYLAND, LAURENA E., Fiule #1215. Guardianship of minor child of D.C. Byland:
+Laurena E., 16. O. H. Byland, of Clackamas Co., brother of Laurena, named
+Gdn.</p>
+
+<p>BYRNE, JOHN F., File #804. Intestate. Rosanna Bryne named Adm. J. A.
+Applegate, named guardian at litem 05 Feb 1883. Heirs: Georgianna Byrne,
+15; Anna D. Byrne, 5; Matilda J., 9; Fred, 3.</p>
+
+<p>-C-</p>
+
+<p>CALDWELL, A., File #931. Guardianship of insane person. J. H. Bridges named
+Gdn 31 Oct 1884.</p>
+
+<p>CALDWELL, ALONZO C. &amp; A. VALENTINE, File #498. Guardianship of minor heirs of
+Felix E. Caldwell who died in 1866. Mother also deceased. Refers to other
+children. John M. Greenstreet, uncle of children, named Gdn in May 1874.
+Alonzo was 19 years on 07 Sept 1873. A. Valentine was 17 years on 16 Jan
+1874.</p>
+-->
+<gap/>
+<p>CALHOUN, MARY A., File #2214. Guardianship of minor. Mary A., 14 in Mar 1903,
+residing with William E. Miller, her guardian. Mother deceased. On 21 Oct
+1904, Miller asked to be released as guardian. Joseph Calhoun, father, had
+sent for Mary to come to Howe, Indian Territory [Oklahoma crossed out]
+where he resides and she wanted to go to help care for her younger brothers
+&amp; sisters [not named]. Mary was 16 by Oct 1904.</p>
+<gap/>
+<!--
+
+<p>CALLAHAN, JOHN, File #367. Intestate. Died 07 Aug 1865 in Clackamas Co., about
+67 years of age. John C. Davenport named Adm 01 Jan 1871. Heir: David
+Callahan, sons 55, Lafayette Co., MO; Clifton Callahan, son, 47, Clackamas
+Co.; Sidney Callahan, son, 36, Marion Co.</p>
+
+<p>CALVERT, JOHN, File #1473. Testate. Died 06 Sept 1893. Will written 11 Sept
+1890. Joseph L. Calvert, son, named executor 28 Oct 1893. Heirs: Harriet
+M. Calvert, wife, 53, Gervais [died 05 Nov 1927]; Joseph L. Calvert, 37,
+Hubbard; Laura I. James, dtr, 30, Marquam [Molalla in 1927]; Clara A.
+Dimick, dtr, 28, Hubbard [Woodburn in 1927]; Ulyssa E. Calvert, dtr, 25,
+Gervais; Mary E. Palmer, dtr, 23, Marquam [Hubbard in 1927]; Estella M.
+Calvert, dtr, 21, Gervais; Bessie J. Calvert, dtr, 19, Gervais [Bessie
+Campbell by 1899]; Dora M. Calvert, dtr, 17, Gervais [Dora Forbes of
+Medford in 1927]; Madge I. Calvert, dtr, 10, Gervais [Madge Woolery of
+Salem in 1927]; Nellie E. Calvert, dtr, 10, Gervais [Nellie Woolery of
+Salem by 1927]; S. C. Campbell, of Woodburn, in 1927 was sole heir of
+Bessie Campbell, deceased; Ulyssa Dodge, Salem, in 1927, granddaughter &amp;</p>
+-->
+<p>Page 34</p>
+
+<pb/>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
