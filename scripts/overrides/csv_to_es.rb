@@ -46,9 +46,6 @@ class CsvToEs
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
 			@json["outcome_k"] = check_and_parse("Petition Outcome")
-      if @row["Point(s) of Law Cited"]
-        @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
-      end
       @json["fate_of_bound_party_k"] = check_and_parse("Fate of Bound Party(s)")
 			@json["court_k"] = @row["Court Type"]
 		end
@@ -240,6 +237,18 @@ class CsvToEs
         built_text << value.to_s.gsub("\"", "")
       end
       return array_to_string(built_text, " ")
+    end
+
+    def event
+      events = []
+      if @row["Point(s) of Law Cited"]
+        points = @row["Point(s) of Law Cited"].split("; ")
+        points.each do |point|
+          point = { "factor" => point, "type" => "points_of_law_cited"}
+          events << point
+        end
+      end
+      events
     end
 
     private
