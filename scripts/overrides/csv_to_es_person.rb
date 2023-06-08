@@ -48,10 +48,21 @@ class CsvToEsPerson < CsvToEs
       @row["Primary field"]
     end
 
-    def relation
-      if @row["Cases Text"]
-        check_and_parse("Cases Text")
+    # def relation
+    #   if @row["Cases Text"]
+    #     check_and_parse("Cases Text")
+    #   end
+    # end
+
+    def has_relation
+      relations = []
+      if check_and_parse("Cases Text")
+        check_and_parse("Cases Text").each do |cases|
+          relation = { "role" => "cases", "title" => parse_md_brackets(cases), "id" => parse_md_parentheses(cases) }
+          relations << relation
+        end
       end
+      relations
     end
 
     def spatial
