@@ -97,7 +97,7 @@ class CsvToEs
       @row["Summary of Proceedings"]
     end
   
-    def format
+    def type
       check_and_parse("Source Material(s)")
     end
   
@@ -200,11 +200,6 @@ class CsvToEs
   
     def title
       @row["Petition or Case Title"]
-    end
-
-    def type
-      # REDO the below, columns have changed
-      # check_and_parse("Court Type(s)")
     end
 
 		def spatial
