@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>Produce the Body</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to Bring Me the Body, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository><!-- insert name of repository -->
+<collection></collection><!-- insert name of collection -->
+<idno></idno><!-- insert name of repository's identifier -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Criminal</term><!-- Civil or Criminal -->
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1111-11"></date>29 July 1899</term><!-- insert date of court term -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>King County, Washington</term> <!-- insert places mentioned -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>           
+<person role="petitioner">
+<persName>grace</persName><!-- insert name of petitioner, if a person -->
+</person>
+<person role="defendant">
+<persName></persName><!-- insert name of defendant, if a person -->
+</person>
+<person role="attorney_petitioner"><!-- insert name of attorney, if known -->
+<persName></persName>
+</person>
+<person role="attorney_defendant">
+<persName></persName><!-- insert name of attorney, if known -->
+</person>
+<person role="judge">
+<persName></persName><!-- insert name of judge, if known -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName></orgName> <!-- insert court name -->
+<placeName></placeName> <!-- insert court location -->
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+<p>Territory of Oregon, Polk County,} ss. </p>
+<p>The United States of America
+To Nathaniel Ford, Greeting</p>
+<p>You are hereby commanded that you have the bodies
+of Jenny of Mary Jane Holmes, Roxanna Holmes and
+James Holmes, by you unlawfully detained, as it is said,
+by whatsoever name they may be respectively known and
+called, before the District Court of said County, on the first day of the next term, together with the cause of
+their, and each of their, caption and detention, to receive
+what shall then there, by the said Court, be considered
+in the behalf. And this you shall in nowise
+omit under the penalty of the law.</p>
+<p>Witness John E. Lyle, Clerk of said
+court, at the Court house in said
+County, the 16th day of April A.D.
+1852, By order of the Court.</p>
+<p> Territory of Oregon ss:-</p>
+<p>Allowed in open Court this 16th day of April A.D.
+1852 on an agreement of facts between the father claiming
+the above persons as children and Nathaniel
+Ford who admits that he detained them at the date of
+this allowance.</p>
+<p>O.C. Pratt, Atty.</p>
+<p> Served this writ by permitting Nathaniel Ford to read 
+it and giving him a copy of the within this the 17th day
+of April A.D. 1852</p>
+<p>W.S. Gilliam, Sheriff.
+Sheriff's fees $2.00</p>
+<p>[ENDORSED]
+Ex Parte Jenny Holmes and Others
+A Writ of Habeas Corpus allowed the 16th day of April
+1852. Returnable before the Dist. Court of Polk County at the next term.
+O.C. Pratt,
+2. Jud Dist.
+O. Territory</p>
+<p>HABEAS CORPUS</p>
+<p>The Territory of Oregon
+on the relation of
+Robin Holmes
+vs.
+Nathaniel Ford} District Court of the United 
+States of America for
+the Territory of Oregon
+within and for the County
+of Polk.</p>
+<p>Polk County P.
+Nathaniel Ford the respondent in said writ makes
+the following return thereto, to-wit, That he has the
+bodies of said individuals describe in said writ in
+his care and prosession [sic] and under his control, to-wit
+Jenny or Mary Jane Holmes, Roxanna Holmes and James
+Holmes.</p>
+<p>That the father and mother of the said Jenny, Roxanna
+and James, are of the negro race and were the
+slaves of and owned by this Respondent for many years
+in the State of Missouri,-That the said Jenny, who is
+now about twelve years of age was born in said State
+of Missouri, and states the said father and mother were
+the property of this Respondent, and house, that the said
+Jenny was the property of this Respondent. That in the
+year 1844 this Respondent brought the said slaves,
+father, mother and child, to this territory as his servants
+and slaves.</p>
+<p> That the said james was born in this territory in
+February 1845, ad the said Roxanna somewhere about
+February 1847 and the parents fo the said children were
+till after the birth of the last child in the possession of
+this Respondent, as his servants and slaves, and so continued
+till in or about the year 1849. That about the
+spring of 1849 the said Robin Holmes the father of said
+children left this Territory and went to California, and
+the mother of said children reamined at the residence
+of this Respondent, till the spring of 1850, but not controlled
+as a slave.</p>
+<p>That about the first of March 1850 the said Robin
+having returned from California, and his said wife having
+given birth to another child, an agreent was entered</p>    
+<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<p>into between the said Robin and the Respondent to
+the effect following, to wit.</p>
+<p>That the said Robin and his wife were to be and
+remain henceforth free, that they were to take their
+youngest child and keep it, and that this Respondent
+were to keep all the rest of said children together with
+one which has since dies, and which was the oldest of
+the said fam of children, and to hold them until they
+respectively became of age, according to the laws of this
+Territory, to wit the males twenty years of age and the
+females eighteen years of age. To hold them not as
+slaves, but as wards.</p>
+<p>That this Respondent has kept the said children at a
+heavy expense when they were young and their services
+of very little or no value- and now since they have arrived
+at an age when their services will be of some consequence
+the Respondent insists that he has a righ to retain the said children during their <unclear> </unclear>as a part
+compensation and remuneration for the expenditures
+made in their behalf-</p>
+<p>That this Respondent was advised, after it become
+settled that [he] would not be permitted to be held in this
+Territory, to take the said Robin and his wife and said
+children back to Missouri and there seel them, and might
+have done so, but chose not to-and that from this fact
+together with the fact that said children have always
+live with this Respondent, he the Respondent had reason
+to believe, and did believe that the said Robin would have
+abided by his said agreement, and left said children with
+this respondent until they came of age as aforesaid. and
+the respondent insists that not only that he has a legal
+and equitable right to retain the said children in his
+possession, but above that it would be far better for said
+children to be retained by him than placed in the hands
+of the said Robin, who is poor and ignorant and unfit to
+have the care, custody and bringing up of said children.</p>
+<p>And that he holds said children by no other authority
+than that above set forth, and the laws of the land.</p>
+<p>NATHANIEL FORD.
+B.</p>
+<p>Territory of Oregon,
+Polk County, } ss.</p>
+<p>Nathaniel Ford the above name Respondent being</p>
+<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<p> duly sworn doth depose and say that the facts set forth
+in the foregoing sentence are true.</p>
+<p>NATHANIEL FORD.</p>
+<p>Subscribed and sworn to in open Court before me
+this 5th day of April A.D. 1853.</p>
+<p>J.E. LYLE, Clerk.</p>
+<p>HABEAS CORPUS</p>
+<p>Territory of Oregon,
+Polk County,}ss. District Court of the United
+States for the territory of
+Oregon within for the County
+of Polk</p>
+<p>Nathaniel Ford
+ads
+The Territory of Oregon
+on the relation of Robin Holmes}</p>
+<p>Nathaniel Ford the said Respondent being duly sworn
+doth depose and say that General Joseph Lane is a material 
+witness for him on the trial of the above entitled
+cause without whose testimony he cannot safely proceed
+to the trial thereof as he is advised by James Halabin his
+counsel to whom he has fully and freely stated his case
+which advice he truly believes to be true-that said
+Joseph Lane is a resident of Oregon as deponent believes, 
+and is delegate in Congress from this Territory and is
+now at or near the City of Washington D.C. as deponent
+believes, though he may now be on his way to Oregon.</p>
+<p>And this deponent further says that he expects to
+prove by said Lane that the said Robin made the agreement
+set forth in the witness to saidwrit-to wit, that
+the said Robin and his wife and youngest child were to
+go free and that his respondent was to keep the other
+children of said Robin until they become of age, to wit
+the females 18 and the males 21 years of age-and that
+deponent knows of no other witness or person by whom
+he can prove said facts-and that he expects said Lane
+will be in this Territory so that his testimony can be
+taken by the next term of said Court-and that this
+application is made, not for the purpose of delay merely
+but that justice may be done.</p>
+<p>NATHANIEL FORD</p>
+<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<p>Subscribed and sworn to before me this 16 day of
+April 1853</p>
+<p>J.E. Lyle, Clerk.</p>
+<p>[ENDORSED]
+Polk District Court
+Nathaniel Ford
+The Territory of Oregon
+Ex Parte Robin Holmes.
+D.</p>
+<p>Robin Holmes
+vs.
+Nathaniel Ford} District Court of the United States
+for the County of Polk vs.
+April 1853</p>
+<p>HABEAS CORPUS</p>
+<p>Robin Homes the petitioner in this case respectfully
+shows and states to the Court the following answer to
+said Respondents return to said writ of Habeas Corpus
+to wit. That some time in the year 1841, Said petitioner
+and his wife Polly were the slaves of Mayor Whitman a 
+Paymaster in the United States Army in Howard County
+Missouri and has been the slaves of said Whitman for
+the space of twelve years next proceeding said last mentioned
+date. That some time in the year 1841 said petitioner
+ and his wife Polly were taken on a writ of execution
+by said Respondents, who was then sheriff of said
+Howard County, and sold at public vender by said
+Respondent to satisfy certain debts of said Whitmans. That 
+said petitioner and his wife Polly were bid off and purchased
+at said sale by a merchant then resident of said
+Howard County whose name is not now rembered by
+your petitioner. That the next morning after said sale
+Respondent sent your petitioner to the house of said
+purchaser to procure a waggon to take your petitioner and
+his family to the residence of said purchaser. That 
+when your petitioner arrived at the house of said purchaser
+he was informed by the wife of said purchaser
+that he had gone away to purchase goods, and that she
+knew nothing about aforesaid purchase of your petitioner
+and wife Polly. Your petitioner then returned to the
+house of said Respondent, and informed him of what had
+transpired at the house of said purchaser, that said Respondent,
+replied to your petitioner that the respondent </p>
+<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<p>had made an arrangement to keep him and his wife Polly
+ and to remain with him. That your petitioner and his
+wife Polly remained in the service of said Respondent
+in Howard County aforesaid until the spring of 1844,
+but does not know positively whether he and his said
+wife were the property and slaves of the said Respondent
+or not, but believed at the time that he and his family
+were the property of Respondent, but now believes from
+what he has heard respondent say since that they were
+not the slaves of said Respondent.</p>
+<p>That in the spring of 1844, Respondent became very
+much embarrased in his pecuniary circumstances, and
+determined to emigrate to Oregon. That Respondent
+solicited your petitioner and his wife Polly to go with
+him to Oregon, and represented to your petitioner that
+Oregon was a free country, that slavery did not exist
+there, and he did not think it ever would. That Respondent
+would take your petitioner and his wife Polly
+to Oregon if your petitioner and his said wife would on
+Respondents arrival in Oregon, assist said Respondent
+to open a farm, and that when your petitioner and wife
+had assisted said Respondent as aforesaid your petitioner
+and wife Polly and family should be liberated and discharged
+absolutely from the service or control of said
+Respondent. That your petitioner agreed to proposal of
+Respondent as aforesaid and in pursuance of said agreement
+came with his wife and said Jenny to Oregon with
+said Respondent in the year 1844. That your petitioner
+and family continued in the service of Respondent until
+the spring of 1849 a period of five years, when your
+petitioner requested to be discharged from the service of
+said Respondent. That said Respondent desired your
+petitioner to go to the Gold mines in California and dig
+gold for Respondent, with Respondent's son, Mark Ford,
+who was then in California. And that upon the return
+of your petitioner, Respondent would comply with his
+agreement aforesaid as made in the State of Missouri
+and discharge and liberate your petitioner and family
+from the service and control of said Respondent, and
+further that said Respondent would give your petitioner
+a share of the gold that he might dig in California.</p>
+<p>That your petitioner desirous of obtaining his family
+without difficulty with Respondent, consented to the
+proposition of Respondent, and in pursuance of the same</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
