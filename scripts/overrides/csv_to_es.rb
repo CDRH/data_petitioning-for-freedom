@@ -60,8 +60,14 @@ class CsvToEs
     def category
       "Cases"
     end
-  
+
     def category2
+      if check_and_parse("Petition Type")
+        petition_types = check_and_parse("Petition Type").map{ |type| type.split(": ")[0].capitalize }.uniq
+      end
+    end
+  
+    def category3
       check_and_parse("Petition Type")
     end
   
