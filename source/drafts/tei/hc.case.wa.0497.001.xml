@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Regina v. Fleming. Affidavit from John R Fleming, Captain of the USM Steamship.</title>
+<title>Regina v. Fleming. Affidavit. Affidavid from John Fleming (captain on ship transporting Charles Mitchell from WA to BC) asking for return of Charles Mitchell</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Dunn, Ethan." xml:id="ed">Ethan Dunn</name>
+<name n="Brooks, Molli A." xml:id="mab">Molli A. Brooks</name> 
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -47,14 +48,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Regina v. Fleming. Affidavit from John R Fleming, Captain of the USM Steamship.</title>
+<title level="m" type="main">Regina v. Fleming. Affidavit. Affidavid from John Fleming (captain on ship transporting Charles Mitchell from WA to BC) asking for return of Charles Mitchell</title>
 <date when="1860-09-26">September 26th, 1860</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Archives of British Columbia</repository>
-<collection></collection>
+<repository>BC Archive</repository>
+<collection>MSS E-B-F62; Fleming, John R. 1827-1875 Correspondence Outward, Affadavit 1860
+</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -121,7 +123,7 @@
             
 <listOrg>
 <org>
-<orgName>Vancouver Island Supreme Court</orgName>
+<orgName>Vancouver Island Supreme Court of Civil Justice, British Columbia</orgName>
 <placeName>Vancouver Island</placeName>
 </org>
 </listOrg>   
@@ -130,6 +132,7 @@
         
 <revisionDesc>         
 <change when="2023-06" who="#ed">transcribed and encoded</change>
+<change when="2023-06" who="#mab">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
