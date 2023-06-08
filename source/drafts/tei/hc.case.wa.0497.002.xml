@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Regina v. Fleming. Habeas Corpus Ruling</title>
+<title>Regina v. Fleming, In re "Charles" a Slave</title>
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 <name n="Dunn, Ethan." xml:id="ed">Ethan Dunn</name>
+<name n="Brooks, Molli A." xml:id="mab">Molli A. Brooks</name>
 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -47,14 +48,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Regina v. Fleming. Supreme Court Minutes</title>
+<title level="m" type="main">Regina v. Fleming, In re "Charles" a Slave</title>
 <date when="1860-09-26">September 26th, 1860</date>
 <note type="project">Our transcription is based on a digital image of the microfilmed original.</note> 
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Archives of British Columbia</repository>
-<collection></collection>
+<repository>BC Archive</repository>
+<collection>C-AA-30.3P 5; Vancouver Island Supreme Ct Minutes, Oct 15, 1858-July 23, 1863; p 138 GR 1827 Box 9804; Vancouver Island Supreme Court of Civil Justice Cause Book, 1858-1861
+</collection>
 <idno></idno>
 </msIdentifier>
 </msDesc>
@@ -116,7 +118,7 @@
             
 <listOrg>
 <org>
-<orgName>Vancouver Island Supreme Court</orgName>
+<orgName>Vancouver Island Supreme Court of Civil Justice, British Columbia</orgName>
 <placeName>Vancouver Island</placeName>
 </org>
 </listOrg>   
@@ -125,6 +127,7 @@
         
 <revisionDesc>         
 <change when="2023-06" who="#ed">transcribed and encoded</change>
+<change when="2023-06" who="#mab">reviewed</change>
 </revisionDesc>
 
 </teiHeader>
