@@ -45,7 +45,7 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-			@json["outcome_k"] = check_and_parse("Petition Outcome")
+			# @json["outcome_k"] = check_and_parse("Petition Outcome")
 			@json["court_k"] = @row["Court Type"]
 		end
 		
@@ -252,6 +252,13 @@ class CsvToEs
         fates.each do |fate|
           fate_of_party = { "product" => fate, "type" => "fate_of_bound_partys" }
           events << fate_of_party
+        end
+      end
+      if check_and_parse("Petition Outcome")
+        outcomes = check_and_parse("Petition Outcome")
+        outcomes.each do |o|
+          outcome = { "product" => o, "type" => "outcome" }
+          events << outcome
         end
       end
       events
