@@ -222,6 +222,11 @@ class CsvToEs
       end
       if check_and_parse("Court Name(s)")
         # TODO need to add court names
+        courts = check_and_parse("Court Name(s)")
+        courts.each do |court|
+          place = { "name" => parse_md_brackets(court), "id" => parse_md_parentheses(court), "type" => "court_location"}
+          places << place
+        end
       end
 			places
 		end

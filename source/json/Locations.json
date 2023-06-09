@@ -23,6 +23,7 @@
         "county": "Adams",
         "latitude": "40.58774726386211",
         "locality": "Ingleside",
+        "locality_built": "Ingleside, Adams, Nebraska",
         "location subtype": [
             "insane asylum"
         ],
@@ -52,6 +53,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "hospital"
         ],
@@ -87,6 +89,7 @@
         "county": "Douglas",
         "latitude": "41.28881193042629",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -115,6 +118,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "federal district court"
         ],
@@ -143,6 +147,7 @@
         "county": "Kitsap",
         "latitude": "47.64089238242705",
         "locality": "Unspecified",
+        "locality_built": "Unspecified, Kitsap, Washington",
         "location subtype": [
             "hotel"
         ],
@@ -270,6 +275,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -298,6 +304,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal office"
         ],
@@ -351,6 +358,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "insane asylum"
         ],
@@ -1066,6 +1074,7 @@
         "county": "Douglas",
         "latitude": "41.257103404765104",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "state district court",
             "courthouse"
@@ -1775,6 +1784,7 @@
         "county": "Lancaster",
         "latitude": "40.81743258995434",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "state archive"
         ],
@@ -1803,6 +1813,7 @@
         "county": "Douglas",
         "latitude": "38.97255435220533",
         "locality": "Lawrence",
+        "locality_built": "Lawrence, Douglas, Kansas",
         "location subtype": [
             "state supreme court"
         ],
@@ -1831,6 +1842,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "welfare organization"
         ],
@@ -1863,6 +1875,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal office"
         ],
@@ -1915,6 +1928,7 @@
         "county": "Pierce",
         "latitude": "47.25333423566242",
         "locality": "Tacoma",
+        "locality_built": "Tacoma, Pierce, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -1963,6 +1977,7 @@
         "county": "Thurston",
         "latitude": "47.03698198384513",
         "locality": "Olympia",
+        "locality_built": "Olympia, Thurston, Washington",
         "location subtype": [
             "state archive"
         ],
@@ -1992,6 +2007,7 @@
         "county": "Sarpy",
         "latitude": "41.11682431452754",
         "locality": "Unspecified",
+        "locality_built": "Unspecified, Sarpy, Nebraska",
         "location subtype": [
             "military facility"
         ],
@@ -2020,6 +2036,7 @@
         "county": "Lincoln",
         "latitude": "41.14094863550464",
         "locality": "North Platte",
+        "locality_built": "North Platte, Lincoln, Nebraska",
         "location subtype": [
             "federal district court"
         ],
@@ -2048,6 +2065,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "federal office"
         ],
@@ -2076,6 +2094,7 @@
         "county": "San Francisco",
         "latitude": "37.774934017149484",
         "locality": "San Francisco",
+        "locality_built": "San Francisco, San Francisco, California",
         "location subtype": [
             "welfare organization"
         ],
@@ -2104,6 +2123,7 @@
         "county": "Douglas",
         "latitude": "41.29167183271719",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "temporary facility"
         ],
@@ -2128,6 +2148,7 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recBf010QUON3V6mX",
         "auto_gen_id": 36,
+        "locality_built": ", , Kansas",
         "location subtype": [
             "published court report"
         ],
@@ -2155,6 +2176,7 @@
         "county": "NA",
         "latitude": "58.33171128052053",
         "locality": "Juneau",
+        "locality_built": "Juneau, NA, Alaska",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -2184,6 +2206,7 @@
         "county": "Walla Walla",
         "latitude": "46.07818487649164",
         "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
         "location subtype": [
             "penitentiary"
         ],
@@ -2217,6 +2240,7 @@
         "county": "Douglas",
         "latitude": "41.305150702932416",
         "locality": "Unspecified",
+        "locality_built": "Unspecified, Douglas, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -2245,6 +2269,7 @@
         "county": "NA",
         "latitude": "49.28293713028381",
         "locality": "Vancouver",
+        "locality_built": "Vancouver, NA, British Columbia",
         "location subtype": [
             "hotel"
         ],
@@ -2312,6 +2337,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -2342,6 +2368,7 @@
         "county": "King",
         "latitude": "47.598265292098205",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "business"
         ],
@@ -2370,6 +2397,7 @@
         "county": "Nance",
         "latitude": "41.44877641949078",
         "locality": "Genoa",
+        "locality_built": "Genoa, Nance, Nebraska",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -2401,6 +2429,7 @@
         "county": "Thurston",
         "latitude": "42.10485021278375",
         "locality": "Omaha Reservation",
+        "locality_built": "Omaha Reservation, Thurston, Nebraska",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -2429,6 +2458,7 @@
         "county": "Polk",
         "latitude": "44.91964580945002",
         "locality": "Dallas",
+        "locality_built": "Dallas, Polk, Oregon",
         "location subtype": [
             "county court"
         ],
@@ -2458,6 +2488,7 @@
         "county": "Linn",
         "latitude": "41.97853969851893",
         "locality": "Cedar Rapids",
+        "locality_built": "Cedar Rapids, Linn, Iowa",
         "location subtype": [
             "federal circuit court"
         ],
@@ -2486,6 +2517,7 @@
         "county": "Buchanan",
         "latitude": "42.46888716080659",
         "locality": "Independence",
+        "locality_built": "Independence, Buchanan, Iowa",
         "location subtype": [
             "insane asylum"
         ],
@@ -2517,6 +2549,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal circuit court"
         ],
@@ -2547,6 +2580,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -2575,6 +2609,7 @@
         "county": "Pierce",
         "latitude": "47.17234218823997",
         "locality": "Lakewood",
+        "locality_built": "Lakewood, Pierce, Washington",
         "location subtype": [
             "insane asylum"
         ],
@@ -2641,6 +2676,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "state circuit court"
         ],
@@ -2675,6 +2711,7 @@
         "county": "Spokane",
         "latitude": "47.48798702423552",
         "locality": "Cheney",
+        "locality_built": "Cheney, Spokane, Washington",
         "location subtype": [
             "state archive"
         ],
@@ -2743,6 +2780,7 @@
         "county": "Marion",
         "latitude": "44.946059436396595",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "state archive"
         ],
@@ -2768,6 +2806,7 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recN4AvKts4b9LLlN",
         "auto_gen_id": 45,
+        "locality_built": ", , ",
         "location type": "site of significance",
         "name": "Samish in Skagit County, Washington Territory",
         "primary field": "Samish in Skagit County, Washington Territory (, )"
@@ -2793,6 +2832,7 @@
         "county": "Whitman",
         "latitude": "46.88052309508629",
         "locality": "Colfax",
+        "locality_built": "Colfax, Whitman, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -2824,6 +2864,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -2861,6 +2902,7 @@
         "county": "NA",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
+        "locality_built": "Steilacoom, NA, Washington",
         "location subtype": [
             "penitentiary"
         ],
@@ -2891,6 +2933,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "insane asylum"
         ],
@@ -2921,6 +2964,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -2950,6 +2994,7 @@
         "county": "Sheridan",
         "latitude": "42.85134247120452",
         "locality": "Unspecified",
+        "locality_built": "Unspecified, Sheridan, Nebraska",
         "location subtype": [
             "military facility"
         ],
@@ -2978,6 +3023,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -3013,6 +3059,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "insane asylum"
         ],
@@ -3140,6 +3187,7 @@
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
+        "locality_built": "Bellevue, King, Washington",
         "location subtype": [
             "state archive"
         ],
@@ -3168,6 +3216,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -3209,6 +3258,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "state supreme court"
         ],
@@ -3259,6 +3309,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "state circuit court"
         ],
@@ -3287,6 +3338,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -3316,6 +3368,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "carceral facility"
         ],
@@ -3344,6 +3397,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "ship"
         ],
@@ -3372,6 +3426,7 @@
         "county": "NA",
         "latitude": "49.28293713028381",
         "locality": "Vancouver",
+        "locality_built": "Vancouver, NA, British Columbia",
         "location subtype": [
             "bank"
         ],
@@ -3400,6 +3455,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "workhouse"
         ],
@@ -3433,6 +3489,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "federal district court"
         ],
@@ -3461,6 +3518,7 @@
         "county": "Marion",
         "latitude": "45.06783452296678",
         "locality": "Mt. Angel",
+        "locality_built": "Mt. Angel, Marion, Oregon",
         "location subtype": [
             "juvenile facility"
         ],
@@ -3491,6 +3549,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -3519,6 +3578,7 @@
         "county": "Maricopa",
         "latitude": "33.444565373133734",
         "locality": "Phoenix",
+        "locality_built": "Phoenix, Maricopa, Arizona",
         "location subtype": [
             "superior court"
         ],
@@ -3551,6 +3611,7 @@
         "county": "Thurston",
         "latitude": "42.233245980058484",
         "locality": "Winnebago Reservation",
+        "locality_built": "Winnebago Reservation, Thurston, Nebraska",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -3579,6 +3640,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "hospital"
         ],
@@ -3607,6 +3669,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "ship"
         ],
@@ -3636,6 +3699,7 @@
         "county": "Tama",
         "latitude": "41.99725653638457",
         "locality": "Toledo",
+        "locality_built": "Toledo, Tama, Iowa",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -3666,6 +3730,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "federal district court"
         ],
@@ -3694,6 +3759,7 @@
         "county": "Sarpy",
         "latitude": "41.15498703561528",
         "locality": "Papillion",
+        "locality_built": "Papillion, Sarpy, Nebraska",
         "location subtype": [
             "state district court"
         ],
@@ -3742,6 +3808,7 @@
         "county": "Adams",
         "latitude": "40.58566558595385",
         "locality": "Hastings",
+        "locality_built": "Hastings, Adams, Nebraska",
         "location subtype": [
             "county court"
         ],
@@ -3770,6 +3837,7 @@
         "county": "St. Louis",
         "latitude": "38.7206137726412",
         "locality": "Normandy",
+        "locality_built": "Normandy, St. Louis, Missouri",
         "location subtype": [
             "insane asylum"
         ],
@@ -3802,6 +3870,7 @@
         "county": "Bufallo",
         "latitude": "40.69973638490308",
         "locality": "Kearney",
+        "locality_built": "Kearney, Bufallo, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -3830,6 +3899,7 @@
         "county": "Multnomah",
         "latitude": "45.51649819397552",
         "locality": "Portland",
+        "locality_built": "Portland, Multnomah, Oregon",
         "location subtype": [
             "hospital"
         ],
@@ -3860,6 +3930,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "welfare organization"
         ],
@@ -3888,6 +3959,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -3917,6 +3989,7 @@
         "county": "NA",
         "latitude": "57.083653188587654",
         "locality": "Sitka",
+        "locality_built": "Sitka, NA, Alaska",
         "location subtype": [
             "federal district court"
         ],
@@ -3945,6 +4018,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "ship"
         ],
@@ -3974,6 +4048,7 @@
         "county": "Gage",
         "latitude": "40.27320070238985",
         "locality": "Beatrice",
+        "locality_built": "Beatrice, Gage, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -4004,6 +4079,7 @@
         "county": "NA",
         "latitude": "57.083653188587654",
         "locality": "Sitka",
+        "locality_built": "Sitka, NA, Alaska",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -4036,6 +4112,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "state supreme court"
         ],
@@ -4065,6 +4142,7 @@
         "county": "Dawes",
         "latitude": "42.718265873409216",
         "locality": "Unspecified",
+        "locality_built": "Unspecified, Dawes, Nebraska",
         "location subtype": [
             "military facility"
         ],
@@ -4093,6 +4171,7 @@
         "county": "Fillmore",
         "latitude": "40.52694728727041",
         "locality": "Geneva",
+        "locality_built": "Geneva, Fillmore, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -4121,6 +4200,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "military facility"
         ],
@@ -4150,6 +4230,7 @@
         "county": "Fillmore",
         "latitude": "40.52694728727041",
         "locality": "Geneva",
+        "locality_built": "Geneva, Fillmore, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -4179,6 +4260,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -4210,6 +4292,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal circuit court"
         ],
@@ -4240,6 +4323,7 @@
         "county": "Spokane",
         "latitude": "47.48760847901377",
         "locality": "Cheney",
+        "locality_built": "Cheney, Spokane, Washington",
         "location subtype": [
             "federal district court"
         ],
@@ -4291,6 +4375,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "military facility"
         ],
@@ -4423,6 +4508,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "commissioner's court"
         ],
@@ -4451,6 +4537,7 @@
         "county": "Pierce",
         "latitude": "47.17234218823997",
         "locality": "Lakewood",
+        "locality_built": "Lakewood, Pierce, Washington",
         "location subtype": [
             "military facility"
         ],
@@ -4479,6 +4566,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "welfare organization"
         ],
@@ -4635,6 +4723,7 @@
         "county": "St. Louis",
         "latitude": "38.62724528672096",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "state archive"
         ],
@@ -4664,6 +4753,7 @@
         "county": "New York",
         "latitude": "40.69970258724933",
         "locality": "New York",
+        "locality_built": "New York, New York, New York",
         "location subtype": [
             "port of entry"
         ],
@@ -4692,6 +4782,7 @@
         "county": "Henry",
         "latitude": "40.971976528632915",
         "locality": "Mt. Pleasant",
+        "locality_built": "Mt. Pleasant, Henry, Iowa",
         "location subtype": [
             "insane asylum"
         ],
@@ -4722,6 +4813,7 @@
         "county": "Maricopa",
         "latitude": "33.445959758496954",
         "locality": "Phoenix",
+        "locality_built": "Phoenix, Maricopa, Arizona",
         "location subtype": [
             "state archive"
         ],
@@ -4753,6 +4845,7 @@
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "juvenile facility"
         ],
@@ -4783,6 +4876,7 @@
         "county": "Laramie",
         "latitude": "41.147406377058225",
         "locality": "Cheyenne",
+        "locality_built": "Cheyenne, Laramie, Wyoming",
         "location subtype": [
             "military facility"
         ],
@@ -4812,6 +4906,7 @@
         "county": "Kitsap",
         "latitude": "47.60001662696626",
         "locality": "Port Blakely",
+        "locality_built": "Port Blakely, Kitsap, Washington",
         "location subtype": [
             "ship"
         ],
@@ -4843,6 +4938,7 @@
         "county": "NA",
         "latitude": "58.300314727293475",
         "locality": "Juneau",
+        "locality_built": "Juneau, NA, Alaska",
         "location subtype": [
             "state archive"
         ],
@@ -4875,6 +4971,7 @@
         "county": "Marion",
         "latitude": "44.94002372038744",
         "locality": "Salem",
+        "locality_built": "Salem, Marion, Oregon",
         "location subtype": [
             "courthouse"
         ],
@@ -4903,6 +5000,7 @@
         "county": "Douglas",
         "latitude": "38.97255435220533",
         "locality": "Lawrence",
+        "locality_built": "Lawrence, Douglas, Kansas",
         "location subtype": [
             "state district court"
         ],
@@ -4931,6 +5029,7 @@
         "county": "NA",
         "latitude": "47.60682112835133",
         "locality": "Puget Sound",
+        "locality_built": "Puget Sound, NA, Washington",
         "location subtype": [
             "ship"
         ],
@@ -4959,6 +5058,7 @@
         "county": "Umatilla",
         "latitude": "45.665208597224954",
         "locality": "Umatilla Reservation",
+        "locality_built": "Umatilla Reservation, Umatilla, Oregon",
         "location subtype": [
             "indigenous boarding school"
         ],
@@ -5015,6 +5115,7 @@
         "county": "Richards",
         "latitude": "40.06113673033338",
         "locality": "Falls City",
+        "locality_built": "Falls City, Richards, Nebraska",
         "location subtype": [
             "federal district court"
         ],
@@ -5043,6 +5144,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "ship"
         ],
@@ -5071,6 +5173,7 @@
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
         "location subtype": [
             "military facility"
         ],
@@ -5100,6 +5203,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "federal court of appeals"
         ],
@@ -5128,6 +5232,7 @@
         "county": "NA",
         "latitude": "58.33171128052053",
         "locality": "Juneau",
+        "locality_built": "Juneau, NA, Alaska",
         "location subtype": [
             "federal district court"
         ],
@@ -5156,6 +5261,7 @@
         "county": "Multnomah",
         "latitude": "45.51649819397552",
         "locality": "Portland",
+        "locality_built": "Portland, Multnomah, Oregon",
         "location subtype": [
             "juvenile facility"
         ],
@@ -5184,6 +5290,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "juvenile facility"
         ],
@@ -5441,6 +5548,7 @@
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "state district court"
         ],
@@ -5469,6 +5577,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "hospital"
         ],
@@ -5497,6 +5606,7 @@
         "county": "Thurston",
         "latitude": "47.0380465819904",
         "locality": "Olympia",
+        "locality_built": "Olympia, Thurston, Washington",
         "location subtype": [
             "federal office"
         ],
@@ -5542,6 +5652,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "federal circuit court"
         ],
@@ -5572,6 +5683,7 @@
         "county": "Lancaster",
         "latitude": "40.808177730924136",
         "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -5658,6 +5770,7 @@
         "county": "Jackson",
         "latitude": "39.087211541299496",
         "locality": "Kansas City",
+        "locality_built": "Kansas City, Jackson, Kansas",
         "location subtype": [
             "national archive"
         ],
@@ -5686,6 +5799,7 @@
         "county": "Pawnee",
         "latitude": "38.18102751420878",
         "locality": "Larned",
+        "locality_built": "Larned, Pawnee, Kansas",
         "location subtype": [
             "military facility"
         ],
@@ -5714,6 +5828,7 @@
         "county": "Leavenworth",
         "latitude": "39.311709216387065",
         "locality": "Leavenworth",
+        "locality_built": "Leavenworth, Leavenworth, Kansas",
         "location subtype": [
             "military facility"
         ],
@@ -5747,6 +5862,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "welfare organization"
         ],
@@ -5776,6 +5892,7 @@
         "county": "Whatcom",
         "latitude": "48.72622970867895",
         "locality": "Bellingham",
+        "locality_built": "Bellingham, Whatcom, Washington",
         "location subtype": [
             "state archive"
         ],
@@ -5846,6 +5963,7 @@
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "national archive"
         ],
@@ -5877,6 +5995,7 @@
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "federal court of appeals"
         ],
@@ -5906,6 +6025,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "welfare organization"
         ],
@@ -5934,6 +6054,7 @@
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
         "location subtype": [
             "juvenile facility"
         ],
