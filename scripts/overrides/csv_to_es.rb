@@ -246,7 +246,7 @@ class CsvToEs
     def event
       events = []
       if @row["Point(s) of Law Cited"]
-        points = @row["Point(s) of Law Cited"].split("; ")
+        points = @row["Point(s) of Law Cited"].split("; ").map { |point| point.strip }
         points.each do |point|
           point_of_law = { "factor" => point, "type" => "points_of_law_cited"}
           events << point_of_law
