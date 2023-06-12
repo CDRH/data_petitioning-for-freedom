@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.wa.0472.001"> <!-- replace with number from spreadsheet -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hc.case.or.0041.003"> 
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Petitioner v. Defendant</title> <!-- replace with name of case; type of document -->
+<title>Robin Holmes vs. Nathaniel Ford</title> 
 <principal n="Jagodinsky, Katrina" xml:id="kj">Katrina Jagodinsky</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Gross, Mikayla E." xml:id="meg">Mikayla E. Gross</name>
+<name n="Brooks, Molli A.." xml:id="mab">Molli A. Brooks</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Science Foundation</sponsor> 
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2021</date>
+<date>2023</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0472.001</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.or.0041.003</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11">September 2, 2021</date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">Robin Holmes vs. Nathaniel Ford. Type of Document.</title><!-- replace with name of case; type of document -->
+<date when="1852-04-16">April 1, 1852</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -69,7 +70,7 @@
 </keywords>
 
 <keywords scheme="original" n="type">
-<term>Criminal</term><!-- Civil or Criminal -->
+<term>Civil</term> 
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,11 +82,25 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Denning, J. Henry</term><!-- insert names of other people mentioned in document -->
+<term> Holmes, Jenny or Mary Jane</term>
+<term>Holmes, Roxanna</term>
+<term>Holmes, James</term>
+<term>Gilliam, W.S.</term>
+<term>Lyle, J.E.</term> 
+<term> Lane, Gen</term>
+<term>Lane, Joseph</term>
+<term>Halabin, James</term>
+<term> Holmes, Polly</term>
+<term>Whitman, Mayor</term>
+<term> Ford, Mark</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term>King County, Washington</term> <!-- insert places mentioned -->
+<term>Salem</term> <!-- insert places mentioned -->
+<term> Polk County, Oregon</term>
+<term>Missouri</term>
+<term>California</term>
+<term> Howard County, Missouri</term>
 </keywords>
 
 </textClass>
@@ -93,33 +108,33 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName>grace</persName><!-- insert name of petitioner, if a person -->
+<persName>Holmes, Robin</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
-<persName></persName><!-- insert name of defendant, if a person -->
+<persName>Ford, Nathaniel</persName><!-- insert name of defendant, if a person -->
 </person>
 <person role="attorney_petitioner"><!-- insert name of attorney, if known -->
-<persName></persName>
+<persName>Wood, A. G. P.</persName>
 </person>
 <person role="attorney_defendant">
 <persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName> Olney, Cyrus (there is more than one) Pratt, O.C. </persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>Polk District Court</orgName> 
+<placeName> Oregon</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2023" who="mab">transcribed.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -206,7 +221,7 @@ as a slave.</p>
 <p>That about the first of March 1850 the said Robin
 having returned from California, and his said wife having
 given birth to another child, an agreent was entered</p>    
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 <p>into between the said Robin and the Respondent to
 the effect following, to wit.</p>
 <p>That the said Robin and his wife were to be and
@@ -249,7 +264,7 @@ B.</p>
 <p>Territory of Oregon,
 Polk County, } ss.</p>
 <p>Nathaniel Ford the above name Respondent being</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 <p> duly sworn doth depose and say that the facts set forth
 in the foregoing sentence are true.</p>
 <p>NATHANIEL FORD.</p>
@@ -291,7 +306,7 @@ taken by the next term of said Court-and that this
 application is made, not for the purpose of delay merely
 but that justice may be done.</p>
 <p>NATHANIEL FORD</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 <p>Subscribed and sworn to before me this 16 day of
 April 1853</p>
 <p>J.E. Lyle, Clerk.</p>
@@ -335,7 +350,7 @@ and wife Polly. Your petitioner then returned to the
 house of said Respondent, and informed him of what had
 transpired at the house of said purchaser, that said Respondent,
 replied to your petitioner that the respondent </p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 <p>had made an arrangement to keep him and his wife Polly
  and to remain with him. That your petitioner and his
 wife Polly remained in the service of said Respondent
@@ -380,7 +395,7 @@ a share of the gold that he might dig in California.</p>
 <p>That your petitioner desirous of obtaining his family
 without difficulty with Respondent, consented to the
 proposition of Respondent, and in pursuance of the same</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb/>
 <p>did go to California in the spring of the year 1849 and
  worked in the Gold mines for said Respondent under the
  control and discretion of Mark Ford, aforesaid, until the
@@ -422,11 +437,10 @@ proposition of Respondent, and in pursuance of the same</p>
  character for honesty, society and industry is good, and
  this he prays may be inquired of by the Court.
  his
- Robin X Holmes
- mar</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-<p>Oregon Territory )
- Polk County p. )
+ Robin X Holmes</p>
+<pb/> 
+<p> Oregon Territory 
+ Polk County p. }
  On this 6th day of April A. D. 1853 Before the under
  signed personally appeared Robin Holmes and being by
  me first duly sworn says that the statements and facts
@@ -446,8 +460,7 @@ proposition of Respondent, and in pursuance of the same</p>
  unto Robin Holmes of Polk County Oregon Territory in
  the penal sum of three thousand dollars, to the payment
  of which will are truly to be made we bind ourselves our
- heirs executors and administrators firmly by these pres
- ents
+ heirs executors and administrators firmly by these presents
  The conditions of this Bond is such that, whereas a
  writ of Habeas Corpus, was sent out of the District
  Court of said County by said Holmes and issued to said
@@ -466,9 +479,9 @@ proposition of Respondent, and in pursuance of the same</p>
  and he the said Ford do deliver them up, and obey the
  order of the Court then this bond to be null and void,
  otherwise to remain in full force and virtue.
- NATHANIEL FORD Seal.</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-<p>LOCKLEY
+ NATHANIEL FORD Seal. </p>
+<pb/>
+<p>LOCKLEY 
  [ENDORSED]
  In the matter of the application of Robin Holmes for a
  writ of Habeas Corpus or Bond of N. Ford.
@@ -510,7 +523,7 @@ proposition of Respondent, and in pursuance of the same</p>
  member of his family shall forthwith and without re
  quest deliver to the said Robin the said child James. And
  at all reasonable times the parents brothers and sisters</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.or.0041.003"/> 
 <p>of the said Roxanna shall have free access to her ab
  staining from everything calculated to make her dis
  contented. And the said Robin and all others are for
@@ -535,11 +548,13 @@ proposition of Respondent, and in pursuance of the same</p>
  CYRUS OLNEY,
  Associate Justice of Oregon.
  Dated at Portland June 24th 1853.
- Territory of Oregon on the )
- Relation of Robin Holmes ) Supreme Court
- VS. ) HABEAS CORPUS
- Nathaniel Ford )
- Respondent )
+ Territory of Oregon on the 
+ Relation of Robin Holmes 
+vs.
+ Nathaniel Ford 
+ Respondent }
+Supreme Court
+HABEAS CORPUS
  Washington County ss. Nathaniel Ford the respon
  dent in said writ makes the following return thereto to
  wit, That he has the bodies of the said children described
@@ -550,7 +565,7 @@ proposition of Respondent, and in pursuance of the same</p>
  owned by the Respondent, for many years in the State
  of Missouri, where the right to hold slaves exists by the
  laws of that State. That the said Jenny, who is now</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.or.0041.003"/> 
 <p>about twelve years of age, was born in said State of
  Missouri, and whilst the said father and mother were
  the property of this Respondent, and hence the said
@@ -595,7 +610,7 @@ proposition of Respondent, and in pursuance of the same</p>
  their behalf.
  That this Respondent was advised after it became
  settled that the people would not be permitted to hold</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.or.0041.003"/> 
 <p>slaves in this territory, to take the said Robin and his
  wife and said children back to Missouri, and there sell
  them-and he might have done so, but chose not to-and
@@ -640,7 +655,7 @@ proposition of Respondent, and in pursuance of the same</p>
  and had the same together with other papers which he
  wanted to use at the Surveyor Generals office in his coat
  pocket, but in changing coats he forgot to take out the</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.or.0041.003"/> 
 <p> said papers and they were thus unintentionally all left at
  the Respondents residence in Polk County aforesaid
  But Respondent believes that the copy of said writ, be
@@ -680,10 +695,10 @@ proposition of Respondent, and in pursuance of the same</p>
  tion of Robin Holmes vs. Nathaniel Ford, Respon
  dent. Return to Writ of Habeas Corpus.
  Filed June 23, 1853. R. WILCOX, Clerk.</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
-<p>Robin Holmes, )
- vs. )
- Nathaniel Ford. )
+<pb facs="hc.case.or.0041.003"/> 
+<p>Robin Holmes,
+ vs. 
+ Nathaniel Ford. }
  In the matter of the Habeas Corpus for the children of
  Robin Holmes a negro.
  It is agreed by the parties that the depositions of
@@ -702,9 +717,9 @@ proposition of Respondent, and in pursuance of the same</p>
  Writ of Habeas Corpus vs. Nathaniel Ford. Notice
  to take Deposition. Filed June 26, 1853.
  J. E. LYLE, Clerk.
- Robin Holmes )
- vs. )
- Nathaniel Ford )
+ Robin Holmes 
+ vs.
+ Nathaniel Ford }
  The said Robin Holmes makes solemn oath and says,
  that at the April term of the U. S. District Court within
  and for the County of Polk and Territory of Oregon A.
@@ -722,7 +737,491 @@ proposition of Respondent, and in pursuance of the same</p>
  was heard before the Hon. Thos. Nelson, Judge of said
  Court. And deponent further says that the said Thos.
 Nelson, after having said cause fully tried refused to give</p>
-<pb facs="hc.case.wa.0469.001"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.or.0041.003"/> 
+<p> an opinion or make an order in the case, but said that
+ at some future day, not to exceed five weeks, he would
+ make an order in the case, which the parties agreed to
+ abide. And deponent further says that said order has
+ never been made and that the said Nelson has refused
+ to make the same. Deponent has been informed and
+ verrily believes that said Nelson sent word to deponents
+ attorney that he would make no order in the case, but
+ would turn it over to his successor to do. Deponent
+ further says that neither him nor his wife, the mother
+ of said children, are allowed to visit them or hold any
+ intercourse whatever with said children, and that al
+ though residing within five miles of said Ford, the
+ mother of said children has not exchanged a word with,
+ nor even seen them for the last two years. Deponent
+ further says that he has been informed and verrily be
+ lieves, that said For d ill treats Deponent's children, that
+ he does nlot furnish them with sufficient mneat, drink or
+ apparel and that Deponent is fearful that unless said
+ children are placed in a situation that they may be pro
+ vided for by their parents, that the treatment that they
+ now receive will materially injure their health, and even
+ tually cause their death, or be the cause of their enduring
+ great suffering. And Denonent further says that he has
+ good reasons for believing that it is the intention of said
+ Ford to leave this Territory, thalt it is his intention to
+ run said children out of the Territory and sell them into
+ perpetual slavery, and Deponent verrily believes that
+ the furthier detention of said children by said Ford will
+ put inn ieopardy their life, liberty and happiness. De
+ ponent flherefore asks that h-is said children be put in the
+ charg-e of t3he sheriff of Polk cou.ty, or of some other
+ proper person, untill judgment be given on the Writ.
+ Further deponent sayeth not.
+ his
+ Robin X Holmes
+ mark
+ Subscribed and sworn to before me this 9 day of
+ June 1853
+ J. E. LYLE, Clerk.</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>Territory of Oregon,
+ County of Polk} ss.
+ To the Honorable Cyrus Olney, Associate Justice of the
+ Supreme Court of Oregon Territory.
+ The petition of Robin Holmes of said County in the
+ aforesaid Territory, represents, that he is the father of
+ Mary Jane Holmes, James Holmes, and Roxanna Holmes,
+ minors, who are under the age of twenty one years, to
+ wit, Mary Jane being about the age of eleven years,
+ James about the age of nine years, and Roxanna about
+ the age of seven years; that said minors are now im
+ prisoned and restrained of their liberties in the county
+ of Polk and Territory aforesaid, by one Nathaniel Ford,
+ or by some other person, or persons, under the command
+ and controll and by the authority of the said Nathaniel
+ Ford, against the will and without the consent of the
+ said Mary Jane, James, and Roxanna Holmes, as well
+ as of your petitioner, that the restraint held over said
+ minors by the said Nathaniel Ford is illegal it being
+ without the authority of law or the process of any court.
+ That your petitioner believes said miinors are imprisoned
+ and restrained of their liberties under the pretence that
+ slavery is tolerated by the laws of this Territory, and
+ that they th;le said Ma,1ry Jane, James and Roxanna are
+ the slaves of the said Nathaniiel Ford. Tlhat th-e said
+ Nathaniel Ford has for a long series of years held said
+ minors under a maost galling and degrading servitude,
+ has, and still claims them as his chattles, and that your
+ petitioner has been informed and verrily believes that
+ the said Nathaniel Ford intends ere long to depart this
+ Territory, and your petitionier has reason to believe that
+ it is the intention of the said Nathaniel Ford to take
+ along with him the said minors for the purpose of selling
+ them into perpetual slavery in counties beyond the iuri's
+ diction of the Courts of this Territory thereby forever
+ debarring your petitioner from the pleasure of their so
+ ciety, and the benefit to be derived from their services,
+ which rightfully belong to him. That your petitioner
+ has often made application to the said Nathaniel Ford
+ to have the said Mary Jane, James and Roxanna give-n
+ up to him, which the said Nathaniel Ford has as o-ten
+ refused to do. Wherefore your petitioner prays that
+ a writ of Habeas Corpus may be issued to have the bodies</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>of the said Mary Jane, James and Roxanna Holmes be
+ fore your Hon. attention at chambers, and to summon
+ the said Nathaniel Ford to show cause, if any he may
+ have, why he has imprisoned and restrained of their
+ liberties the said Mary Jane, James and Roxanna
+ Holmes, so as aforesaid; and otherwise to do and receive
+ what to law and justice doth appertain, and that the
+ said Mary Jane, James and Roxanna Holmes may be
+ set at liberty; And as in duty bound your petitioner will
+ ever pray.
+ his
+ Robin X Holmes
+ mark
+ Territory of Oregon,
+ County of Polk} ss.
+ On this 9 day of June A. D. 1853. Before the under
+ signed personally appeared Robin Holmes the petitioner
+ in the foregoing petition, who being by me first duly
+ sworn, says that the facts set forth in the above petition,
+ as of his own knowledge, are true, and those set forth
+ uponi information are true as he verily believes, and that
+ there is no person residing in said county legally author
+ ized to grant the writ Drayed for in suit [sic] petition.
+ In testimony whereof I have hereunto set my hand
+ and affixed the Seal of the District Court of the United
+ States in and for Polk County Oregon at Dallas this 9th
+ day of June 1853.
+ J. E. LYLE,
+ Clerk of said Court.
+ [ENDORSED]
+ Robin Holmes vs. Nathaniel Ford. Return for Writ of
+ Habeas Corpus. Filed June 21, 1853.
+ R. WILCOX, Clerk.
+ It is oridered by the consent of the Attorney for the
+ within named children that the said children may be
+ placed by the said FordL in t-he custody of the Sheriff of
+ Polk County, to abide the further order of the Court, or
+ Jude) and the receipt of th]e Sheriff on his certificate,
+ on return, that he has the children in his custody, will
+ be taken by the Court instead of the actual production of
+ the children at Portland. And further that the said</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>Ford may take depositions on one day's notice, to be
+ used at the hearing, by allowing the other party the same
+ knowledge, and that the Judge may take the testimony
+ of Gen. Jos. Lane at any time and place without notice,
+ so as to prevent the loss of his testimony. June 13th
+ 1853.
+ CYRUS OLNEY, Judge.
+ Served the above order on the 14th day of June A.
+ D. 1853, by giving to Nathaniel Ford the original order.
+ B. F. NICHOLS,
+ Sheriff of Polk County.
+ The United States of America, to
+ NATHANIEL FORD.
+ You are hereby commanded to have the bodies of
+ Mary Jane, James and Roxanna, negro children by you
+ detained as it is said, together with the time and cause
+ of their caption and detention, by whatsoever names they
+ may be called, before the Supreme Court of the Territory
+ of Oregon, to be commanded and proven at Portland on
+ the Third Monday of June instant, to do and receive
+ what shall then and there by the said Court, or by one
+ of the Justices thereof, upon a hearing at chambers be
+ considered concerning them, And have you then there
+ this writ.
+ Witness Cyrus Olney one of
+ the Justices of said Court
+ the 13th day of June 1853
+ CYRUS OLNEY, Judge.
+ [ENDORSED]
+ Filed June 21, 1853. R. WILCOX, Clerk.
+ I hereby certify that I served the above writ on the
+ 14th day of June A. D. 1853 by giving the original writ
+ to Nathaniel Ford.
+ B. F. NICHOLS,
+ Sheriff of Polk County.
+ Robin Holmes 
+ vs. 
+ Nathaniel Ford }
+ The following interrogations and cross-interrogations
+ to be propounded to Joseph Lane and his answers thereto
+ to be used as evidene on the trail of the above case.
+The same being done by consent of Counsel.</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>First Interrogation
+ Do you know the parties in the above suit. Answer,
+ yes
+ Second
+ Had you ever any conversation with the said Holmes
+ touching the conditions under which his children viz.
+ Jenny, James and Roxanna were held by the said
+ Ford or under his control?
+ Third
+ If you answer affirmatively please state the time,
+ place and substance of that conversation
+ GEORGE K. SHElL
+ of Counsel for Deft.
+ Answer to Interrogatory 2nd
+ Recollect being at Col. Fords March 1850, heard a
+ connversation between Ford and Holmes which left the
+ impression on my mind that Holmes was to go where
+ he pleased, but that the children were to be left with
+ Ford, this however is only an impression as I do not
+ recollect the words which passed between them.
+ Third
+ The conversation took place at Col Fords in March
+ 1.850 Haad a conversation with Holmes about keeping
+ house fQor mn;e in Oregon City, that is I proposed to
+ ein-loy himr and his wife to work, her to cook and him
+ to work about the mills. My proposition to Holmes,
+ brought about the conversation betwveen the parties.
+ JOSEPH LANE
+ Sworn and subscribed before me this fi-th day of
+ July A. P. 2853
+ LEONARD WILLIAMS,
+ Justice of the Peace
+ Cross vnterrogatory 1.
+ Ifi you answer affirmatively, to interrogatory 2nd,
+ please state what led to such conversation; stato also
+ what was Robin's purpose in such conversation in your
+ opinion. Answer. By proposition to employ Robin and
+ his wife, do not recollect the words, impression as above
+ stated.
+ Cr. Int. 2nd.
+ If such conversation happened state as to which and
+ how many of the children specified, any admission was</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>made, and what if anything, was said concerning each.
+ JOS. C. WILSON
+ for Counsel for Pltff.
+ Answer to Cr. Int. second.
+ Do not recollect any one of the children being named,
+ nor do I recollect distinctly any word or words spoken;
+ further than that the conversation between the parties
+ left the impression on my mind that the children were
+ to remain with Ford.
+ JOSEPH LANE
+ Sworn and subscribed before me this fifth day of
+ July A. D. 1853
+ LEONARD WILLIAMS,
+ Justice of the Peace
+ [ENDORSED]
+ Robin Holmes vs Nath. Ford. Interrogatory. Filed
+ this 13 July 1853
+ J. E. LYLE, Clerk.
+ Robin Holmes
+ vs. 
+ Nathaniel Ford}
+In the matter of a writ of Habeas
+Corpus. District Court of the
+County of Polk at Chambers.
+ Robin Holmes the petitioner in this case respectfully
+ shows and states to the Court the following answer to
+ said Respondents return to said writ of Habeas Corpus,
+ to wit: That sometime in the year 1841, said petitioner
+ and his wife Polly were the slaves of Major Whitmore a
+ Paymaster as petitioner was informed, in the United
+ States Army in Howard County, Missouri, and had been
+ the slaves of said Whitmore for the space of twelve years,
+ next proceeding said last mentioned date. That some
+ time in the year 1841, said petitioner and his wife Polly
+ were taken on a writ of execution by said Respondent
+ who was then Sheriff of said Howard County, and sold
+ at public vender by said Respondent, to satisfy certain
+ debts of said Whitmores. That said petitioner and his
+ wife Polly were bid off and purchased at said sale by a
+ merchant, then resident of said Howard County, whose
+ name is not now remembered by your petitioner. That
+ the next morning after said sale, Respondent sent your
+ petitioner to the house of said purchaser to procure a</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>  wagon to take your petitioner and his family to the
+ residence of said purchaser. That when your petitioner
+ arrived at the house of said purchaser, he was informed
+ by the wife of said purchaser that he had gone away to
+ purchase goods, and that she knew nothing about the
+ aforesaid purchase of your petitioner and wife Polly,
+ your petitioner then returned to the house of said Re
+ spondent, and informed him of what had transpired at
+ the house of said purchaser. That said respondent re
+ plied to your petitionier that he, respo-ndent had made
+ arn arrangement to keep him and his wife Polly, and to
+ rematin with him. That your petitioner and his wife
+ Polly serving in the service of said Respondent in How
+ ard County aforesaid until the sprilng of 1844, but does
+ not know positively whether he and his said wife were
+ the property of and slaves of said Respondent or not, but
+ believing at the timre that he and his family were the
+ property of Respondent, but now believes from what he
+ has heard respondent say since, that they were not the
+ slaves of said Respondent. That in the spring of 1844,
+ Respondent becanme very much embarrased in his pecun
+ iary circhumstances aund determined to emigrate to Ore
+ gon, that respondent solicited your petitioner and his
+ wife Pol,y to go withl him to Oregon, an.d represented to
+ your petitioner that Oregon was a free country, that
+ slavery did not exist there, and he did not think it ever
+ would. That Respondent would take your petitioner
+ and his wife Polly to Oregon if your petitioner and his
+ said wife would on Respondent's arrival in Oregon assist
+ said Resnondent to open a farm and that when your
+ petito-ner and wife had assisted said Respo-ndent as
+ aforesaid your petitiorner and wifLe Polly and family
+ should be liberated and discharged absolutely from the
+ service and controll of said Respondent. That your
+ petitioner agreed to oroposal of Respondent as aforesaid,
+ and in pursuance of said agreement came with his wife
+ and said Mary Jane to Oregon, wirth said Respondent in
+ the year 1844. Thcat your petitioner and family con
+ tinued in the service of Respondent until the spring of
+ 1849, a period of five years, when your petitioner request
+ ed to be discharged from the service of said Respondent.
+ that said Respondent refused to let your petitioner and
+ family go Lree, but dlesired your petitioner to go to the
+ Gold mines in California and dig gold for Respondent</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>with Respondents son, Mark Ford, who was then in
+ California, and that upon the return of your petitioner,
+ Respondent would comply with his agreement aforesaid
+ as made in Missouri and discharge and liberate your
+ petitioner and family from the service and control of
+ said Respondent, and further that said respondent would
+ give your petitioner a portion of the gold that he might
+ dig in California. That your petitioner desirous of ob
+ taining his family without difficulty with Respondent
+ consented to the proposition of Respondent's and in pur
+ suance of the same did go to California in the spring of
+ the year 1849 and worked in the gold mines for said
+ Respondent under the control and authority, or direction,
+ of Mark Ford aforesaid until the spring of 1850, when
+ he returned to the house of Respondent in Oregon Ter
+ ritory, That during the time your petitioner was in
+ California aforesaid, he was informed by said Mark
+ Ford, that he your petitioner had dug and placed in his
+ Mark Ford's hands, for Respondent about the sum of
+ Nine hundred dollars in gold dust, besides cooking for
+ the mess to which he your petitioner belonged.
+ That when your petitioner returned in the spring of
+ 1850, as aforesaid, Respondent in violation of good con
+ science and the contract as afore said, refused to liberate
+ the said Mary Jane, Roxanna, and James, children of
+ your petitioner and his wife Polly, but permitted your
+ petitioner and his wife and one infant child of your
+ petitiorner to leave the service of said Respondent, that
+ your petitioner did not at that or any other time make
+ an agreement with said Responderit or any one for him,
+ by which said Respondent was to keep said minor chil
+ dren and be entitled to their service until they became of
+ age, or for any period of time, but on the contrary
+ claimed that they should be then liberated and delivered
+ to your petitionner, and has ever since sought to obtain
+ the custody and control of said children.
+ Your petitioner further answers and says. that said
+ Respondent, has no legal or equitable right to the service
+ or control of said minor children. That your petitioner
+ does not know whether said Respondent has ever been
+ advised to take your petitiorner and his family back to
+ Missouri and sell them into slavery or not, but he does
+ know and states the fact to be that Respondent has often
+ threatened to so do, for the purpose of detering your</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p>petitioner from seeking to obtain the custody and control
+ of said children, as your petitioner believes.
+ That your petitioner is as well able in a pecuniary
+ point of view to take care of and raise said children as
+ Respondent, and denies that he is unfit by reason of his
+ poverty and ignorance to have the care and custody of
+ his own children and further denies that he is harsh, or
+ that his wife Polly is cruel to their children, but on the
+ contrary avers that his and his wife's reputation for
+ kindness and parental care for their children is such
+ that he can safely ask the Court to enquire thereof, and
+ that his character for honesty sobriety and industry is
+ good as petitioner believes, and this he prays may be in
+ quired of by the Court.
+ his
+ Robin X Holmes
+ mark
+ Territory of Oregon, 
+ County of Polk } ss.
+ On this 13th day of July A. D. 1853, before the under
+ signed, personally appeared Robin Holmes, and being by
+ me first duly sworn, says that the statements and facts
+ in the f oregoing affidavit are true to the best of his
+ knowledge and belief.
+ J. E. LYLE, Clerk.
+ [ENDORSED]
+ Robin Holmes vs Nathaniel Ford. Replication to Re
+ spondents Return. Filed 13th July 1853.
+ J. E. LYLE, Clerk.
+ Territory of Oregon, 
+ County of Polk } ss.
+ To the Sheriff of said County Greeting:
+ Whereas in a certain matter of Habeas Corpus lately
+ prosecLuted before the judge of our District Court within
+ and for the said County of Polk wherein Robin Holmes
+ was complainent and Nathaniel Ford was defendant the
+ costs of said defendant were taxed at Twenty one dollars
+ ($21.00). These are therefore in the name of the United
+ States of America to command you that of the goods and
+ chattles lands and tenements of the said Nathaniel Ford
+ in your county you cause to be made the costs aforesaid,</p>
+<pb facs="hc.case.or.0041.003"/> 
+<p> and cost that may accrue. And if you shall levy and
+ make said costs do you have the same before the Judge
+ of your District Court within and for said County of
+ Polk on the first day of the next term of said Court, to
+ render unto the persons entitled to the same; and have
+ you then and there this writ.
+ Witness J. E. Lyle, Clerk of said
+ Dist. Court and the seal of said
+ court hereunto affixed Dallas,
+ this 15th day of July A. D. 1853
+ J. E. LYLE
+ Served the within execution by collecting of Nathaniel
+ Ford, the within amount ($21.50) on the 9th day of
+ November A. D. 1853.
+ B. F. NICHOLS
+ Sheriff Polk Co.
+ [ENDORSED]
+ Robin Holmes Habeas Corpus vs Nathaniel Ford.
+ Execution for costs.
+ Robin Holmes 
+ vs. 
+ Nathaniel Ford }
+ In the matter of a writ of Habeas
+ Corpus
+ Nathaniel Ford
+ You are hereby notified that I will be in attendance
+ at the office of John E. Lyle, Clerk of the U. S. District
+ Court for the County of Polk, on Thursday one o'clock
+ P. M. 16th June instant, before him to take such deposi
+ tions as may be required by either of said parties, to be
+ used on the hearing of said cause before the Supreme
+ Court of Oregon Territory, to be commenced and holden
+ at Portland, on the third Monday of June instant.
+ June 14th 1853.
+ ROBIN HOLMES
+ Per S. B. WOOD
+ His Atty.
+ Served the within notice on the within named Nathaniel
+ Ford by delivering to him a true copy of said notice,
+ June 14th A. D. 1853.
+ [ENDORSED]
+ Robin Holmes vs Nathaniel Ford. Notice to take Depo
+ sitior. Filed July 13, 1853.
+ J. E. LYLE, Clerk</p>
+<pb facs="hc.case.or.0041.003"/>
+<p>Robin Holmes 
+ vs. 
+ Nathaniel Ford }
+ Habeas Corpus
+ 12th District.
+ This day this case came on to be heard before the
+ said Judge at Dallas Polk Co. by the consent of parties,
+ upon the pleadings heretofore made in the case and said
+ Judge having heard the allegations and evidence of the
+ petitioner and Respondent orders and decrees that the
+ said children Jenny or Mary Jane, James and Roxanna
+ be and they are hereby awarded to the care and custody
+ of their parents Robin Holmes and his wife to be and
+ remain with them as their children as fully in all respects
+ as though they the said children had not been in the
+ custody of the said Ford, and it is ordered and adjudged
+ that the said Ford pay the costs of these proceedings
+ and execution therefor.
+ GEO. H. WILLIAMS,
+ Judge.
+ Robin Holmes 
+ vs. 
+ Nathaniel Ford }
+ Habeas Corpus heard before Judge
+ Williams at Chambers July 13th
+ 1853
+ CLERK'S FEES
+ For filing 10 papers in the cause -$ 1.00
+ Taking 4 affidavits at 50 -2.00
+ Swearing 10 witnesses on trial - 1.00
+ Taxing costs and drawing cost bill -1.00
+ Issuing execution -1.00
+ $ 6.00
+ SHERIFF'S FEES
+ For serving writ of Habeas Corpus -$ 1.00
+ For serving order of the judge -1.00
+ For serving copies of the above papers -.50
+ Milage for above service - 1.00
+ Serving notice to take depositions -</p>
+<pb facs="hc.case.or.0041.003"/> 
+ <p>Milage for same - .50
+ $ 5.50
+ Docket fee -10.00
+ Total -$21.50
+ Hereby certify that the above is truly taken and copied
+ from the book.
+ [ENDORSED]
+ Robin Holmes vs Nathaniel Ford. Habeas Corpus. Order
+ and Decree of Judge Williams. Filed 13th July 1853.
+ J. E. LYLE, Clerk.</p>
 </div1>
     
 </body>
