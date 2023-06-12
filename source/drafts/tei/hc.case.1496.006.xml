@@ -11,14 +11,14 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
-<name n="Brooks, Molli A." xml:id="mab">Mikayla E. Gross</name>
+<name n="Schwensen, Amelia L." xml:id="als">Amelia L. Schwensen</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2022</date>
+<date>2023</date>
 </edition>
 </editionStmt>
             
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">hc.case.wa.0000.000</idno> <!-- replace with number from spreadsheet -->
+<idno type="project">hc.case.ne.1496.006</idno> <!-- replace with number from spreadsheet -->
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petitioner v. Defendant. Type of Document.</title><!-- replace with name of case; type of document -->
-<date when="1111-11-11"></date><!-- replace with date in both sortable and human readable forms -->
+<title level="m" type="main">In the matter of the Habeas Corpus of "Till"  v. Milton Willerford. Case Papers.</title><!-- replace with name of case; type of document -->
+<date when="1111-11-11">1890-22-10</date><!-- replace with date in both sortable and human readable forms -->
 <note type="project">Our transcription is based on a digital image.</note> <!-- remove or change, if otherwise -->
 </bibl>
 <msDesc>
@@ -77,15 +77,16 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1111-11"></date></term><!-- insert date of court term -->
+<term><date when="1111-11">1890-10</date></term><!-- insert date of court term -->
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term></term><!-- insert names of other people mentioned in document -->
+<term>Till</term><!-- insert names of other people mentioned in document -->
+<term>Elnor S. Dundy Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
-<term></term> <!-- insert places mentioned -->
+<term>Nebraska</term> <!-- insert places mentioned -->
 </keywords>
 
 </textClass>
@@ -93,7 +94,7 @@
 <particDesc>   
 <listPerson>           
 <person role="petitioner">
-<persName></persName><!-- insert name of petitioner, if a person -->
+<persName>M.O. Ricketts</persName><!-- insert name of petitioner, if a person -->
 </person>
 <person role="defendant">
 <persName></persName><!-- insert name of defendant, if a person -->
@@ -105,21 +106,21 @@
 <persName></persName><!-- insert name of attorney, if known -->
 </person>
 <person role="judge">
-<persName></persName><!-- insert name of judge, if known -->
+<persName>Elnor S. Dundy</persName><!-- insert name of judge, if known -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName> <!-- insert court name -->
-<placeName></placeName> <!-- insert court location -->
+<orgName>District Court of the United States for the District of Nebraska</orgName> <!-- insert court name -->
+<placeName>Douglas County</placeName> <!-- insert court location -->
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>         
-<change when="2021" who="mg">transcribed.</change> <!-- change description, initials, and date -->
+<change when="2023" who="als">transcribed.</change> <!-- change description, initials, and date -->
 </revisionDesc>
 
 </teiHeader>
@@ -155,7 +156,7 @@ marshall of said District.</p>
 Judge of the United States District
 Court for the District of Nebraska</p>
 
-<pb facs="hc.case.wa.0000.000"/> <!-- insert number from spreadhseet -->
+<pb facs="hc.case.ne.1496.006"/> <!-- insert number from spreadhseet -->
 
 
 </div1>
