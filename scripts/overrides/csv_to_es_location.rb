@@ -24,4 +24,11 @@ class CsvToEsLocation < CsvToEs
     "Locations"
   end
 
+  def spatial
+    {
+      "role" => "location",
+      "trait1" => @row["locality_built"]
+    }
+  end
+
 end
