@@ -269,6 +269,18 @@ class CsvToEs
       events
     end
 
+    def has_source
+      sources = []
+      if check_and_parse("Source Material(s)")
+        materials = check_and_parse("Source Material(s)")
+        materials.each do |m|
+          source = { "title" => m, "role" => "source_materials" }
+          sources << source
+        end
+      end
+      sources
+    end
+
     private
 
     def check_and_parse(key)

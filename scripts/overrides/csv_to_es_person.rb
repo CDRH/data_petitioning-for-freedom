@@ -83,11 +83,13 @@ class CsvToEsPerson < CsvToEs
       race = check_and_parse("Race or Ethnicity")[0] if check_and_parse("Race or Ethnicity")
       people << {
         "role" => "person",
+        "name" => title,
         "name_given" => @row["name_first"],
         "name_last" => @row["name_last"],
         "name_alternate" => @row["name_alternate"],
         "sex" => sex,
         "race" => race,
+        "birth_date" => date,
         "trait1" => person_tags
       }
       case_roles = check_and_parse("case_role")
@@ -180,6 +182,20 @@ class CsvToEsPerson < CsvToEs
     end
 
     def keywords
+      tags = []
+      if check_and_parse("Tags")
+        tags << check_and_parse("Tags")
+      end
+      if check_and_parse("person_tags")
+        check_and_parse("person_tags").each do |data|
+          tag = data.split("|")[1]
+          tags << tag
+        end
+      end
+      tags.flatten.uniq
+    end
+
+    def keywords2
       roles = []
       case_roles = check_and_parse("case_role")
       if case_roles
