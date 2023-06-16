@@ -192,7 +192,7 @@ class CsvToEsPerson < CsvToEs
           tags << tag
         end
       end
-      tags.flatten.uniq
+      tags.flatten.uniq.compact
     end
 
     def keywords2
