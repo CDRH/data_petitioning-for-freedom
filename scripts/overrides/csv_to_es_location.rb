@@ -41,7 +41,8 @@ class CsvToEsLocation < CsvToEs
       "coordinates" => [lon, lat],
       "state" => @row["state"],
       "county" => @row["county"],
-      "city" => @row["locality"]
+      "city" => @row["locality"],
+      "trait1" => @row["coordinate specificity"]
     }
   end
 
