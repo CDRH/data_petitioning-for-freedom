@@ -59,6 +59,7 @@ for label in ["Petition Type", "Site(s) of Significance", "Tags", "Petitioners",
     cases_frame[label] = cases_frame[label].apply(json.dumps)
 for label in ["Birth Place", "Indicated Age Category (from Case Data [join])", "Race or Ethnicity", "Sex", "Tags", "RDF - person relationship person (from Relationships [join])", "RDF - person relationship person (from Relationships [join] 2)", "Cases Text", "person_case_year", "person_nationality", "case_role", "person_sex", "person_age", "person_race", "person_notes", "person_tags"]:
     people_frame[label] = people_frame[label].apply(json.dumps)
+locations_frame["location subtype"] = locations_frame["location subtype"].apply(json.dumps)
 # replace bad values
 cases_frame = cases_frame.fillna('')
 cases_frame = cases_frame.replace('NaN', '')

@@ -24,10 +24,24 @@ class CsvToEsLocation < CsvToEs
     "Locations"
   end
 
+  def category2
+    @row["location type"]
+  end
+
+  def category3
+    check_and_parse("location subtype")
+  end
+
   def spatial
+    lat = @row["latitude"].to_f
+    lon = @row["longitude"].to_f
     {
       "role" => "location",
-      "trait1" => @row["locality_built"]
+      "name" => @row["locality_built"],
+      "coordinates" => [lon, lat],
+      "state" => @row["state"],
+      "county" => @row["county"],
+      "city" => @row["locality"]
     }
   end
 
