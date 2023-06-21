@@ -29,12 +29,13 @@ class CsvToEsLocation < CsvToEs
   end
 
   def category3
-    check_and_parse("location subtype")
+    parse_json("location subtype")
   end
 
   def spatial
     lat = @row["latitude"].to_f
     lon = @row["longitude"].to_f
+    # note that coordinates is a geo_point field and elasticsearch requires [lon, lat] format.
     {
       "role" => "location",
       "name" => @row["locality_built"],

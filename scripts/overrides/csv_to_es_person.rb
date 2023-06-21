@@ -48,16 +48,11 @@ class CsvToEsPerson < CsvToEs
       @row["Primary field"]
     end
 
-    # def relation
-    #   if @row["Cases Text"]
-    #     check_and_parse("Cases Text")
-    #   end
-    # end
-
     def has_relation
       relations = []
-      if check_and_parse("Cases Text")
-        check_and_parse("Cases Text").each do |cases|
+      if parse_json("Cases Text")
+        parse_json("Cases Text").each do |cases|
+          # parse case from markdown entry: [case name](case id)
           relation = { "role" => "cases", "title" => parse_md_brackets(cases), "id" => parse_md_parentheses(cases) }
           relations << relation
         end
@@ -67,8 +62,8 @@ class CsvToEsPerson < CsvToEs
 
     def spatial
       places = []
-      if check_and_parse("Birth Place")
-        check_and_parse("Birth Place").each do |birth_place|
+      if parse_json("Birth Place")
+        parse_json("Birth Place").each do |birth_place|
           place = { "name" => birth_place, "role" => "birth_place" }
           places << place
         end
@@ -78,9 +73,9 @@ class CsvToEsPerson < CsvToEs
 
     def person
       people = []
-      person_tags = check_and_parse("Tags")
-      sex = check_and_parse("Sex")[0] if check_and_parse("Sex")
-      race = check_and_parse("Race or Ethnicity")[0] if check_and_parse("Race or Ethnicity")
+      person_tags = parse_json("Tags")
+      sex = parse_json("Sex")[0] if parse_json("Sex")
+      race = parse_json("Race or Ethnicity")[0] if parse_json("Race or Ethnicity")
       people << {
         "role" => "person",
         "name" => title,
@@ -92,19 +87,20 @@ class CsvToEsPerson < CsvToEs
         "birth_date" => date,
         "trait1" => person_tags
       }
-      case_roles = check_and_parse("case_role")
-      case_sex = check_and_parse("person_sex")
-      case_age = check_and_parse("person_age")
-      case_race = check_and_parse("person_race")
-      case_nationality = check_and_parse("person_nationality")
-      case_note = check_and_parse("person_note")
-      case_years = check_and_parse("person_case_year")
-      case_tags = check_and_parse("person_tags")
+      case_roles = parse_json("case_role")
+      case_sex = parse_json("person_sex")
+      case_age = parse_json("person_age")
+      case_race = parse_json("person_race")
+      case_nationality = parse_json("person_nationality")
+      case_note = parse_json("person_note")
+      case_years = parse_json("person_case_year")
+      case_tags = parse_json("person_tags")
       if case_roles
         case_roles.each do |case_role|
           if ["", "nan", "None"].include?(case_role)
             next
           end
+          # parse case from markdown entry: [case name](case id)
           case_id = parse_md_parentheses(case_role.split("|")[2])
           case_name = parse_md_brackets(case_role.split("|")[2])
           if case_id && case_id.length > 0 && !people.find { |i| i["id"] == case_id }
@@ -134,16 +130,19 @@ class CsvToEsPerson < CsvToEs
             if ["", "nan", "None"].include?(person_info)
               next
             end
+            # field will be in format [person name](person id)|relationship|[person name](person id)
             data = person_info.split("|")
             name1_and_id = data[0]
             relationship = data[1]
             name2_and_id = data[2]
             #get names and id's out of brackets, quotes, and parentheses
             if name1_and_id != "[]()"
+              # parse person from markdown entry: [person name](person id)
               person1_name = parse_md_brackets(name1_and_id)
               person1_id = parse_md_parentheses(name1_and_id)
             end
             if name2_and_id != "[]()"
+              # parse person from markdown entry: [person name](person id)
               person2_name = parse_md_brackets(name2_and_id)
               person2_id = parse_md_parentheses(name2_and_id)
             end
@@ -161,11 +160,13 @@ class CsvToEsPerson < CsvToEs
           if ["", "nan", "None"].include?(person_info)
             next
           end
+          # field will be in format [person name](person id)|relationship|[person name](person id)
           data = person_info.split("|")
           name1_and_id = data[0]
           relationship = data[1]
           name2_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
+          # parse each person from markdown entry: [person name](person id)
           if name1_and_id != "[]()"
             person1_name = parse_md_brackets(name1_and_id)
             person1_id = parse_md_parentheses(name1_and_id)
@@ -182,29 +183,34 @@ class CsvToEsPerson < CsvToEs
     end
 
     def keywords
+      # combines all tags, both those directly on the person and those tied to a specific case 
       tags = []
-      if check_and_parse("Tags")
-        tags << check_and_parse("Tags")
+      if parse_json("Tags")
+        tags << parse_json("Tags")
       end
-      if check_and_parse("person_tags")
-        check_and_parse("person_tags").each do |data|
+      # these are case specific
+      if parse_json("person_tags")
+        parse_json("person_tags").each do |data|
           tag = data.split("|")[1]
           tags << tag
         end
       end
+      # remove nils and duplicate values, return a single array
       tags.flatten.uniq.compact
     end
 
     def keywords2
       roles = []
-      case_roles = check_and_parse("case_role")
+      case_roles = parse_json("case_role")
       if case_roles
         case_roles.each do |case_role|
           if case_role.split("|")[1]
+            # roles in form like "bound party, petitioner" should be ingested separately
             roles << case_role.split("|")[1].split(", ")
           end
         end
       end
+      # remove duplicate roles
       roles.flatten.uniq
     end
 

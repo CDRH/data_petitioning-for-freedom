@@ -18,6 +18,7 @@ class CsvToEs
             name_and_id = data[0]
             value_list = data[1].split(", ")
             case_and_id = data[2]
+            #
             person_name = parse_md_brackets(name_and_id)
             person_id = parse_md_parentheses(name_and_id)
             case_name = parse_md_brackets(case_and_id)
@@ -45,8 +46,6 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-			# @json["outcome_k"] = check_and_parse("Petition Outcome")
-			@json["court_k"] = @row["Court Type"]
 		end
 		
 		def id
@@ -58,13 +57,13 @@ class CsvToEs
     end
 
     def category2
-      if check_and_parse("Petition Type")
-        petition_types = check_and_parse("Petition Type").map{ |type| type.split(": ")[0].capitalize }.uniq
+      if parse_json("Petition Type")
+        petition_types = parse_json("Petition Type").map{ |type| type.split(": ")[0].capitalize }.uniq
       end
     end
   
     def category3
-      check_and_parse("Petition Type")
+      parse_json("Petition Type")
     end
   
     # def creator
@@ -100,7 +99,7 @@ class CsvToEs
     end
   
     def type
-      check_and_parse("Source Material(s)")
+      parse_json("Source Material(s)")
     end
   
     def get_id
@@ -114,7 +113,7 @@ class CsvToEs
     end
     
     def keywords
-      check_and_parse("Tags")
+      parse_json("Tags")
     end
 
     def person
@@ -184,7 +183,7 @@ class CsvToEs
     end 
   
     def rights_holder
-      check_and_parse("Repository")
+      parse_json("Repository")
     end
   
     # def rights_uri
@@ -194,11 +193,6 @@ class CsvToEs
     def source
       @row["Case Citation(s)"]
     end
-
-    def subjects
-      # TODO column has been deleted
-      # check_and_parse("Document Type(s)")
-    end
   
     def title
       @row["Petition or Case Title"]
@@ -206,23 +200,23 @@ class CsvToEs
 
 		def spatial
       places = []
-      if check_and_parse("Repository")
-        repositories = check_and_parse("Repository")
+      # all entries are in markdown format: location_name(location_id)
+      if parse_json("Repository")
+        repositories = parse_json("Repository")
         repositories.each do |repository|
 	        place = { "name" => parse_md_brackets(repository), "id" => parse_md_parentheses(repository), "type" => "repository" }
           places << place
         end
       end
-      if check_and_parse("Site(s) of Significance")
-        sites = check_and_parse("Site(s) of Significance")
+      if parse_json("Site(s) of Significance")
+        sites = parse_json("Site(s) of Significance")
         sites.each do |site|
           place = { "name" => parse_md_brackets(site), "id" => parse_md_parentheses(site), "type" => "site_of_significance" }
           places << place
         end
       end
-      if check_and_parse("Court Name(s)")
-        # TODO need to add court names
-        courts = check_and_parse("Court Name(s)")
+      if parse_json("Court Name(s)")
+        courts = parse_json("Court Name(s)")
         courts.each do |court|
           place = { "name" => parse_md_brackets(court), "id" => parse_md_parentheses(court), "type" => "court_location"}
           places << place
@@ -252,15 +246,15 @@ class CsvToEs
           events << point_of_law
         end
       end
-      if check_and_parse("Fate of Bound Party(s)")
-        fates = check_and_parse("Fate of Bound Party(s)")
+      if parse_json("Fate of Bound Party(s)")
+        fates = parse_json("Fate of Bound Party(s)")
         fates.each do |fate|
           fate_of_party = { "product" => fate, "type" => "fate_of_bound_partys" }
           events << fate_of_party
         end
       end
-      if check_and_parse("Petition Outcome")
-        outcomes = check_and_parse("Petition Outcome")
+      if parse_json("Petition Outcome")
+        outcomes = parse_json("Petition Outcome")
         outcomes.each do |o|
           outcome = { "product" => o, "type" => "outcome" }
           events << outcome
@@ -271,8 +265,8 @@ class CsvToEs
 
     def has_source
       sources = []
-      if check_and_parse("Source Material(s)")
-        materials = check_and_parse("Source Material(s)")
+      if parse_json("Source Material(s)")
+        materials = parse_json("Source Material(s)")
         materials.each do |m|
           source = { "title" => m, "role" => "source_materials" }
           sources << source
@@ -283,8 +277,9 @@ class CsvToEs
 
     private
 
-    def check_and_parse(key)
+    def parse_json(key)
       # given a string, check for the matching field, parse JSON, and remove nil values
+      # will return nil is key is missing, or the field has an error value or is otherwise valid JSON
       if @row[key] && !@row[key].include?("#ERROR!")
         begin 
           JSON.parse(@row[key]).compact
