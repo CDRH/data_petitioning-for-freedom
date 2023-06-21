@@ -155,15 +155,17 @@ class CsvToEs
           if !person_info
             next
           end
+          # entries are in form [name](id)|role|(case)[id]
           data = person_info.split("|")
           name_and_id = data[0]
           role = data[1]
           case_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
-          person_name = /\[(.*)\]/.match(name_and_id)[1] if /\[(.*)\]/.match(name_and_id)
-          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
-          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
+          # below are markdown fields [name](id)
+          person_name = parse_md_brackets(name_and_id)
+          person_id = parse_md_parentheses(name_and_id)
+          case_name = parse_md_brackets(case_and_id)
+          case_id = parse_md_parentheses(case_and_id)
           subject = "#{person_name} {#{person_id}}"
           object = "#{case_name} {#{case_id}}"
           case_roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
