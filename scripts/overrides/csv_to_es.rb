@@ -7,30 +7,34 @@ class CsvToEs
 
     def make_rdf_field(row, type, predicate)
       info = []
-      JSON.parse(row).each do |person_info|
-        if person_info
-          data = person_info.split("|")
-          #get name/id out of brackets/quotes/parentheses
-          name_and_id = data[0]
-          value_list = data[1].split(", ")
-          case_and_id = data[2]
-          name = /\["(.*)"\]/.match(data[0])[1] if /\["(.*)"\]/.match(data[0])
-          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
-          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
-          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
-          subject = "#{person_name} {#{person_id}}"
-          source = object = "#{case_name} {#{case_id}}"
-          id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          value_list.each do |value|
-            age = { 
-              "type" => type, 
-              "subject" => subject, 
-              "predicate" => predicate,
-              "object" => value,
-              "source" => source
-            }
-            info << age
+      if row && JSON.parse(row) != ""
+        JSON.parse(row).each do |person_info|
+          if person_info
+            if ["", "nan", "None"].include?(person_info)
+              next
+            end
+            data = person_info.split("|")
+            #get name/id out of brackets/quotes/parentheses
+            name_and_id = data[0]
+            value_list = data[1].split(", ")
+            case_and_id = data[2]
+            #
+            person_name = parse_md_brackets(name_and_id)
+            person_id = parse_md_parentheses(name_and_id)
+            case_name = parse_md_brackets(case_and_id)
+            case_id = parse_md_parentheses(case_and_id)
+            subject = "#{person_name} {#{person_id}}"
+            source = "#{case_name} {#{case_id}}"
+            value_list.each do |value|
+              age = { 
+                "type" => type, 
+                "subject" => subject, 
+                "predicate" => predicate,
+                "object" => value,
+                "source" => source
+              }
+              info << age
+            end
           end
         end
       end
@@ -42,24 +46,6 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-      if @row["Petition Outcome"]
-			  @json["outcome_k"] = JSON.parse(@row["Petition Outcome"])
-      end
-      if @row["Point(s) of Law Cited"]
-        @json["points_of_law_k"] = @row["Point(s) of Law Cited"]
-      end
-      if @row["Fate of Bound Party(s)"]
-        @json["fate_of_bound_party_k"] = JSON.parse(@row["Fate of Bound Party(s)"])
-      end
-      if @row["Item Type(s)"]
-        @json["document_types_k"] = JSON.parse(@row["Item Type(s)"])
-      end
-			@json["court_k"] = @row["Court Type"]
-      @json["repository_k"] = check_and_parse("Repository")
-      @json["sites_of_significance_k"] = check_and_parse("Site(s) of Significance")
-        # using this for people for now. may add more fields later.
-      @json["petitioners_k"] = check_and_parse("Petitioners")
-
 		end
 		
 		def id
@@ -69,9 +55,15 @@ class CsvToEs
     def category
       "Cases"
     end
-  
+
     def category2
-      check_and_parse("Petition Type")
+      if parse_json("Petition Type")
+        petition_types = parse_json("Petition Type").map{ |type| type.split(": ")[0].capitalize }.uniq
+      end
+    end
+  
+    def category3
+      parse_json("Petition Type")
     end
   
     # def creator
@@ -106,8 +98,8 @@ class CsvToEs
       @row["Summary of Proceedings"]
     end
   
-    def format
-      check_and_parse("Source Material(s)")
+    def type
+      parse_json("Source Material(s)")
     end
   
     def get_id
@@ -121,22 +113,22 @@ class CsvToEs
     end
     
     def keywords
-      check_and_parse("Tags")
+      parse_json("Tags")
     end
 
     def person
       people = []
-      if @row["RDF - person role case (from Case Role [join])"]
+      if @row["RDF - person role case (from Case Role [join])"] && @row["RDF - person role case (from Case Role [join])"] != ""
         JSON.parse(@row["RDF - person role case (from Case Role [join])"]).each do |person_info|
-          if !person_info
+          if !person_info || ["", "nan", "None"].include?(person_info)
             next
           end
           data = person_info.split("|")
           role_list = data[1].split(", ")
           name_and_id = data[0]
           #get name/id out of brackets/quotes/parentheses
-          name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
-          id = /\]\((.*)\)/.match(name_and_id)[1] if /\]\((.*)\)/.match(name_and_id)
+          name = parse_md_brackets(name_and_id)
+          id = parse_md_parentheses(name_and_id)
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
             people << person
@@ -163,15 +155,17 @@ class CsvToEs
           if !person_info
             next
           end
+          # entries are in form [name](id)|role|(case)[id]
           data = person_info.split("|")
           name_and_id = data[0]
           role = data[1]
           case_and_id = data[2]
           #get names and id's out of brackets, quotes, and parentheses
-          person_name = /\["(.*)"\]/.match(name_and_id)[1] if /\["(.*)"\]/.match(name_and_id)
-          person_id = /\((.*)\)/.match(name_and_id)[1] if /\((.*)\)/.match(name_and_id)
-          case_name = /\[(.*)\]/.match(case_and_id)[1] if /\[(.*)\]/.match(case_and_id)
-          case_id = /\((.*)\)/.match(case_and_id)[1] if /\((.*)\)/.match(case_and_id)
+          # below are markdown fields [name](id)
+          person_name = parse_md_brackets(name_and_id)
+          person_id = parse_md_parentheses(name_and_id)
+          case_name = parse_md_brackets(case_and_id)
+          case_id = parse_md_parentheses(case_and_id)
           subject = "#{person_name} {#{person_id}}"
           object = "#{case_name} {#{case_id}}"
           case_roles = { "type" => "case_role", "subject" => subject, "predicate" => role, "object" => object }
@@ -191,9 +185,7 @@ class CsvToEs
     end 
   
     def rights_holder
-      if @row["Repository"]
-        JSON.parse(@row["Repository"])
-      end
+      parse_json("Repository")
     end
   
     # def rights_uri
@@ -203,56 +195,123 @@ class CsvToEs
     def source
       @row["Case Citation(s)"]
     end
-
-    def subjects
-      if @row["Document Type(s)"]
-        JSON.parse(@row["Document Type(s)"])
-      end
-    end
   
     def title
       @row["Petition or Case Title"]
     end
 
-    def type
-      if @row["Court Type(s)"]
-        JSON.parse(@row["Court Type(s)"])
-      end
-    end
-
 		def spatial
       places = []
-      if @row["Court Location(s)"]
-			  place = { "name" => JSON.parse(@row["Court Location(s)"]), "type" => "court_location" }
-        if @row["Court Name(s)"]
-          place["short_name"] = JSON.parse(@row["Court Name(s)"])
+      # all entries are in markdown format: location_name(location_id)
+      if parse_json("Repository")
+        repositories = parse_json("Repository")
+        repositories.each do |repository|
+	        place = { "name" => parse_md_brackets(repository), "id" => parse_md_parentheses(repository), "type" => "repository" }
+          places << place
         end
-        places << place
       end
-      if @row["Site(s) of Significance"]
-        place = { "name" => JSON.parse(@row["Site(s) of Significance"]), "type" => "site_of_significance" }
-        places << place
+      if parse_json("Site(s) of Significance")
+        sites = parse_json("Site(s) of Significance")
+        sites.each do |site|
+          place = { "name" => parse_md_brackets(site), "id" => parse_md_parentheses(site), "type" => "site_of_significance" }
+          places << place
+        end
+      end
+      if parse_json("Court Name(s)")
+        courts = parse_json("Court Name(s)")
+        courts.each do |court|
+          place = { "name" => parse_md_brackets(court), "id" => parse_md_parentheses(court), "type" => "court_location"}
+          places << place
+        end
       end
 			places
 		end
 
     def extent
-      if @json["document_types_k"]
-        @json["document_types_k"].count
-      end
+      @row["Length of Case File"]
     end
 
     def text
       built_text = []
       @row.each do |column_name, value|
-        built_text << value.to_s
+        built_text << value.to_s.gsub("\"", "")
       end
       return array_to_string(built_text, " ")
     end
 
-    def check_and_parse(key)
-      if @row[key]
-        JSON.parse(@row[key])
+    def event
+      events = []
+      if @row["Point(s) of Law Cited"]
+        points = @row["Point(s) of Law Cited"].split("; ").map { |point| point.strip }
+        points.each do |point|
+          point_of_law = { "factor" => point, "type" => "points_of_law_cited"}
+          events << point_of_law
+        end
+      end
+      if parse_json("Fate of Bound Party(s)")
+        fates = parse_json("Fate of Bound Party(s)")
+        fates.each do |fate|
+          fate_of_party = { "product" => fate, "type" => "fate_of_bound_partys" }
+          events << fate_of_party
+        end
+      end
+      if parse_json("Petition Outcome")
+        outcomes = parse_json("Petition Outcome")
+        outcomes.each do |o|
+          outcome = { "product" => o, "type" => "outcome" }
+          events << outcome
+        end
+      end
+      events
+    end
+
+    def has_source
+      sources = []
+      if parse_json("Source Material(s)")
+        materials = parse_json("Source Material(s)")
+        materials.each do |m|
+          source = { "title" => m, "role" => "source_materials" }
+          sources << source
+        end
+      end
+      sources
+    end
+
+    private
+
+    def parse_json(key)
+      # given a string, check for the matching field, parse JSON, and remove nil values
+      # will return nil is key is missing, or the field has an error value or is otherwise valid JSON
+      if @row[key] && !@row[key].include?("#ERROR!")
+        begin 
+          JSON.parse(@row[key]).compact
+        rescue
+          nil
+        end
+      end
+    end
+
+    def parse_md_brackets(query)
+      # given a markdown style link, parse the part in brackets
+      if /\[(.*?)\]/.match(query)
+        /\[(.*?)\]/.match(query)[1]
+      else
+        query
+      end
+    end
+  
+    def parse_md_parentheses(query)
+      # given a markdown style link, parse the part in parentheses
+      /\]\((.*?)\)/.match(query)[1] if /\]\((.*?)\)/.match(query)
+    end
+
+    def match_with_case(markdown_array, case_id)
+      # accepts an array of values in the format person_name(id)|desired_value|case_name(id)
+      # make sure there is actual data in the array and not just nil, before looking for the match
+      if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
+        # find field value (i.e. age) that matches the given case id. look only in the markdown corresponding to the case
+        # if there are multiple, return both joined by comma
+        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| kase.split("|")[1] }.uniq.join(", ")
       end
     end
 
