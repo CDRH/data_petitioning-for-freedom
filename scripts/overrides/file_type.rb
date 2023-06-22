@@ -40,7 +40,7 @@ class FileType
     begin
       transformed = transform_es(old_case_docs, new_case_docs)
     rescue => e
-      return { "error" => "Error transforming ES for #{self.filename(false)}: #{e}" }
+      return { "error" => "Error transforming ES for #{self.filename(false)}: #{e.full_message}" }
     end
     if transformed && transformed.length > 0
       transformed.each do |doc|
@@ -50,9 +50,9 @@ class FileType
         # NOTE: If you need to do partial updates rather than replacement of doc
         # you will need to add _update at the end of this URL
         begin
-          RestClient.put("#{url}/_doc/#{id}", doc.to_json, {:content_type => :json } )
+          RestClient.put("#{url}/_doc/#{id}", doc.to_json, @auth_header.merge({:content_type => :json }) )
         rescue => e
-          return { "error" => "Error transforming or posting to ES for #{self.filename(false)}: #{e.response}" }
+          return { "error" => "Error transforming or posting to ES for #{self.filename(false)}: #{e}" }
         end
       end
     else

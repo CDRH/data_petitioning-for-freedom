@@ -5,8 +5,9 @@ default:
   threads: 20
 
 development:
-  es_path: https://cdrhdev1.unl.edu/elastic
-  es_index: cdrhapidev-v1
+  api_version: '2.0'
+  es_path: https://whitman-dev.unl.edu/elastic
+  es_index: habeas
   site_url: https://cdrhdev1.unl.edu/habeascorpus
 production:
   es_path: https://cdrhapi.unl.edu/elastic
