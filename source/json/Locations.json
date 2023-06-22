@@ -7,6 +7,8 @@
             "recFK8ZKDAziM5ARO",
             "recpOMzFBeENxqp8j"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -19,7 +21,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec0inhNGsblj4h5v",
         "auto_gen_id": 91,
+        "case count3": 5,
         "coordinate specificity": "building",
+        "count total": 5,
         "county": "Adams",
         "latitude": "40.58774726386211",
         "locality": "Ingleside",
@@ -38,6 +42,8 @@
         "Cases 3": [
             "recam0cZj8rLfuYMX"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -49,7 +55,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec0pzpWd9FMizXk1",
         "auto_gen_id": 92,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -71,8 +79,11 @@
             "rec5GaidDaUho3LFV",
             "recD12E4WOOPfXumv",
             "recYKcLiS2N08RCoE",
-            "rec3WS1NZee2x9J9Z"
+            "rec3WS1NZee2x9J9Z",
+            "recTk0B4k2fJ8wa9Q"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -85,7 +96,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec1Kki18hZxYzQLM",
         "auto_gen_id": 93,
+        "case count3": 8,
         "coordinate specificity": "building",
+        "count total": 8,
         "county": "Douglas",
         "latitude": "41.28881193042629",
         "locality": "Omaha",
@@ -103,6 +116,8 @@
         "Cases": [
             "recNthQdJf1ewogo4"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -114,7 +129,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec1cmsdWMJqvqWKl",
         "auto_gen_id": 18,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -132,6 +149,8 @@
         "Cases 3": [
             "recX0LJZpjseaVjfw"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -143,7 +162,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec1xfZ0cOC89QcBz",
         "auto_gen_id": 94,
+        "case count3": 1,
         "coordinate specificity": "county",
+        "count total": 1,
         "county": "Kitsap",
         "latitude": "47.64089238242705",
         "locality": "Unspecified",
@@ -260,6 +281,8 @@
             "recw672dm1x9BkIEt",
             "receuqLRiAaAwnrqJ"
         ],
+        "Cases count1": 100,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -271,7 +294,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec2kC95FqUh5mHZY",
         "auto_gen_id": 19,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 100,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -289,6 +314,8 @@
         "Cases 3": [
             "recCVJ0CmTjsowvVp"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -300,7 +327,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec2wJEnb5BH3eFvK",
         "auto_gen_id": 95,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -313,6 +342,39 @@
         "name": "Bureau of Immigration",
         "primary field": "Bureau of Immigration (Seattle, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "rec98qJyEuLUjTzqk"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-29T16:00:33.000Z",
+        "ID": "hc.loc.000133",
+        "Name Markdown": "[Common Jail of Lancaster County (Lincoln, Nebraska)](hc.loc.000133)",
+        "airtable_createdTime": "2023-06-29T16:00:33.000Z",
+        "airtable_id": "rec2wjBzg9XvVILOc",
+        "auto_gen_id": 133,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Lancaster",
+        "latitude": "40.81344319564763",
+        "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-96.76423219277473",
+        "name": "Common Jail of Lancaster County",
+        "primary field": "Common Jail of Lancaster County (Lincoln, Nebraska)",
+        "state": "Nebraska"
     },
     {
         "Cases 3": [
@@ -341,8 +403,12 @@
             "recCxzQ7oRyc8QVbG",
             "recouyVfGGUmDpxbI",
             "recSdmhMnPHf5phRs",
-            "rec1r1gXNN15WfXs6"
+            "rec1r1gXNN15WfXs6",
+            "rec1cOAQbWM2vD8yF",
+            "recmwjWoF1KHnsq2w"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -354,7 +420,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec3ibf9U52qIzfHS",
         "auto_gen_id": 96,
+        "case count3": 28,
         "coordinate specificity": "locality",
+        "count total": 28,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -367,6 +435,36 @@
         "name": "Nebraska State Hospital for the Insane",
         "primary field": "Nebraska State Hospital for the Insane (Lincoln, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases": [
+            "reccoF9BXF4PxlUtc"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-07-06T18:46:35.000Z",
+        "ID": "hc.loc.000150",
+        "Name Markdown": "[Municipal Court of Chicago  (Chicago , Illinois)](hc.loc.000150)",
+        "airtable_createdTime": "2023-07-06T18:46:35.000Z",
+        "airtable_id": "rec4YyIU3iPa6ORP2",
+        "auto_gen_id": 150,
+        "case count3": 0,
+        "count total": 1,
+        "county": "Cook County ",
+        "locality": "Chicago ",
+        "locality_built": "Chicago , Cook County , Illinois",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "name": "Municipal Court of Chicago ",
+        "primary field": "Municipal Court of Chicago  (Chicago , Illinois)",
+        "state": "Illinois"
     },
     {
         "Cases": [
@@ -788,7 +886,6 @@
             "rec1d8FHMjtQzsOnw",
             "recd5AjLy2SGn6JQV",
             "recHe1SCJ5Lc7Qymx",
-            "recZGkSz8oZfSTgV7",
             "recb9e6BFDC98yVWy",
             "rec1r1gXNN15WfXs6",
             "recaxdh3RqiwgFi89",
@@ -808,7 +905,206 @@
             "recpx58E50ndPKzze",
             "recHQWTUhKPgg0XBp",
             "recLPwzoUOSh3IDqD",
-            "rec7C7Bl1PWkPLDLM"
+            "rec7C7Bl1PWkPLDLM",
+            "recmur0LVLnKRnk75",
+            "recc7yvlABPGFwQss",
+            "rec9Jd0NNDKBmxwyr",
+            "recoPDSxd2SEDpFRL",
+            "recSAuIuJ5ocXnlru",
+            "recJPjQRZ3eFGh42f",
+            "recPCvGmtzWEG4E3u",
+            "recWc93scHRdvea0e",
+            "rec5WZVhzJHyV1Tri",
+            "recgXpj4FCHAT6FRA",
+            "rec2z8CH3nGgAmkd3",
+            "recULqFwsUFyJoDcF",
+            "recKWnzKlA143htU8",
+            "recpZl6Gs3w4Z2WV8",
+            "recj2DPUZRvhtCIcO",
+            "recfmJUOLJYGgn0Xl",
+            "recBPWRxxmtPKIptO",
+            "rechkrBPAhPjUIANh",
+            "recnrxkZl6KkRxprH",
+            "rec2X0uUB8dzkznCf",
+            "reccy2kEu5UFozPpK",
+            "recm5se3XtHumzCbM",
+            "recsXE6Kkuo6EKVg2",
+            "rec3dZZQs6N9ZQ6pe",
+            "rec7e36FEwrHjoy9P",
+            "recRmNs5ZRmkLQzkM",
+            "recQW8msCgvBgJT2e",
+            "recHK7PrDNo35Jx2y",
+            "recXEXJnam8nbfGai",
+            "rect7vvil7wc9LUtZ",
+            "recq5SrUn5DPGPPX0",
+            "recc2PoZCEzsxjLEf",
+            "recs3tCZH1fcvLwVW",
+            "recIukKu0soziQqAj",
+            "recA0VcmipGKc7Pjf",
+            "recMPmkqT2W5TAscc",
+            "recmuLdmGB0LzXuJQ",
+            "recmOHYkMnMmhazVq",
+            "reczPdZoJUbBlNhIN",
+            "recEFvMLkQYGOymOG",
+            "rec1K0cDdxLMdMh4M",
+            "recxGkHBvthZjJdOs",
+            "recgu3iTgxvaoVOPI",
+            "rec53EOxEaL6JE38i",
+            "recooGmJhMbZiFihg",
+            "recn0aB0yZ4WO1aQT",
+            "recrycs51hhtwlGCd",
+            "recJ9Ev8CQLqSzi8r",
+            "recC6XYQLcb5i7N38",
+            "recKERfzK8zbKN8kt",
+            "recCpZTe4bTudSPEi",
+            "recF8l31UfLkjUon5",
+            "recYWb2ShfWzYYrdl",
+            "reczUCdEUtTHBjDWK",
+            "recTVNVVD5pH0ZjVa",
+            "recVV04WXDmRE9sLL",
+            "recdylKpWep053xYN",
+            "recXhLsvngfEGJBRd",
+            "rec9eW8sQlUM6XPkv",
+            "recS3ND3pBeurNUjt",
+            "recVpO9H7nN7VqgLw",
+            "recNzb4nro8z83Sfm",
+            "recqGvAPJ4wRBDt7B",
+            "recDxwQ2zenkX0VKc",
+            "recGIUGkreCgQTTUg",
+            "recaYYlSpVJnlAR4s",
+            "recPC4lVzfgXfgDKx",
+            "recUblObi82iRNWTp",
+            "recWuAK2N8vh7jjnx",
+            "recquokuhiqrL2z36",
+            "rec2EpKH9axKnXTUL",
+            "recL9kboQi41iHvBz",
+            "recUayNJLcQnTBZJ1",
+            "recbwv8IPofll7mWB",
+            "recISUB8DyHQrtBkm",
+            "recM8kSrNRQ7slXda",
+            "recWXxgmV4nISPOV6",
+            "recSkhqaMU93aG38n",
+            "rec3vQ04ujHsTWKXo",
+            "recjFTdW7WAxmP6Hq",
+            "rechLgcCLz7dzGMnk",
+            "rec86ss6U0XdoHjIU",
+            "reccH2TO1YbBOX7wi",
+            "recL1reyHRk2oSzBg",
+            "recQiGHQ7BIudd0Ky",
+            "recpIb2CIblEVk2YJ",
+            "recFB2PP56RpoNlYT",
+            "recpxwEt8n65U0fJu",
+            "recM3q5I1TGVBvsOX",
+            "rec68ZDF6wADGuRHc",
+            "rec8avmbXL9i4ulv2",
+            "recPxzrXe1EgdfH7h",
+            "recogBJqRY8AcWX9B",
+            "recZtqnH5prxLT1rO",
+            "rec6Hn0mE8WPVEkr8",
+            "recFlK1m3CuHYfK0q",
+            "recq8OpyVY1oYFsI5",
+            "recaD55YEJtRJD8Is",
+            "recINAFYtufREdzJ8",
+            "recztJ1BKaWIKVbS3",
+            "recxPHkgubsEcweO2",
+            "recnLCsIbKaQk2R8J",
+            "rec6wMhTFBXeXUuEt",
+            "recCBAx6itI4UmoIs",
+            "recggp14HuIN7DX4y",
+            "recE5olNoq96RkYgC",
+            "recNU8Kurn49uX9Hu",
+            "recMoUg8YxyEHexkF",
+            "recqldH174Y1kyoVd",
+            "rec0oeOxL4KQhLu4S",
+            "rec3FxkG6FlCceWsR",
+            "recOu13oS3cyhriOt",
+            "recaBq67hxHgxun15",
+            "recuZx3sjHiMuVT90",
+            "recnogsMnT3zhQoF8",
+            "recCUkzLtAO8tWopf",
+            "rec3abMsnhLFC0m1Y",
+            "rec3TuYrbyopamvIs",
+            "recvwyK6GXHKmf7mV",
+            "recdk2EoQlTNR2BZL",
+            "rec1cOAQbWM2vD8yF",
+            "recoDhp0bXaHch5ix",
+            "recGqJvMTK5qgDQvd",
+            "recb2K46xY7G9ClSm",
+            "recj7S9RyG6lcAuEE",
+            "reclJSh5q8T6yxlda",
+            "recS7PDZjMz9gxLPE",
+            "rec5y2mRRRMOZs00D",
+            "rec70csidU0EAYeR5",
+            "reciE6nNqrDpz3CIo",
+            "recORhKow8yOhYl9k",
+            "rec3oa60ezWYl3BsQ",
+            "recNkSCqvWoVBNjvV",
+            "rec11ea6MEOazzX6n",
+            "recb1GwTaws7qqm1J",
+            "recENQutN0oS88YMG",
+            "recLMwcrgMzQ7uLRH",
+            "rectkszvxeSkriCS8",
+            "recvOfpZYklp0UaQP",
+            "rec5lnofPE3JUmA8y",
+            "recfutg3pRwUIUanj",
+            "recjo2TgHQmwFGfiM",
+            "recMe0w1UFl6dvhj5",
+            "reckEjRVlRa4M9ceC",
+            "recZYndatp2TcijTJ",
+            "recZPd9ePMstQ9Iwq",
+            "recrxAI54hOslm2gH",
+            "recGIIIPa3kXxA0L0",
+            "recOENUZXoskq3DmS",
+            "recNgMQhkjgS9qcbl",
+            "reccrYWs2azpBmuTX",
+            "recEnPI0i5zOxFR5F",
+            "recmTyXDHY8IwNc26",
+            "recRA6d1XTKPvESLb",
+            "recKEpbYe0MNk7pxf",
+            "rec3UasAWvov2fxVT",
+            "recMHSfIKMMTqlad3",
+            "recM3rBF5pRwS1ojW",
+            "recWQfmpLbxRg7zcR",
+            "recpK3Pf0f7DbeO6o",
+            "recGg6elEiDGKMIoJ",
+            "recoyQ0J9U5iEjQ4X",
+            "recTBrUS93aMCpTF2",
+            "rec0rSojhCHIrqS3z",
+            "recN8V8jVwKfqu7AB",
+            "recLteSCrzhMSWMoG",
+            "rectYwHBWb0MvFD8f",
+            "rec30HY7pfY9BiYm2",
+            "reccoF9BXF4PxlUtc",
+            "recQdJjwxmlY4Axmh",
+            "recHt5MVl8FKQMa49",
+            "recxncqpQT3oUaLa0",
+            "rec0kv3QGKMtYSchA",
+            "recjHaM7fRd7u6JhT",
+            "rec5vWQuX9AqJcwr9",
+            "recVHHI64mBvHZO9q",
+            "rec16k9dPHclWVV9Z",
+            "recVQGTmFpKoGEznF",
+            "reczexUEx664nh5xR",
+            "rec3IrZSpKcct9cTn",
+            "recY8NAA7tUhJiX7F",
+            "recRJNADSuAQX8QqQ",
+            "recwnBYbKij7aAdyB",
+            "recTk0B4k2fJ8wa9Q",
+            "recs1eyywQ6GjowYX",
+            "recU6VBYuZ3jRofe5",
+            "recBDadO7JzgwvfS5",
+            "rec2i1MTOKBmeV9Jp",
+            "recw4QpPTknaF7tot",
+            "recwfyZEuCVqOLfyv",
+            "recwTaxp5y0ZN0k2K",
+            "recQPurJAlSTSqLjR",
+            "recZgeE9f9ZCmUC1t",
+            "recfQ182hVJvG6Z3S",
+            "recL3S14oK7IkeuLo",
+            "rechBoZOSlTf7qOLe",
+            "recUrfJZVFfmOVwER",
+            "recJ2YNRXc2QRcAad",
+            "recJdfmR0J56QsG3y"
         ],
         "Cases 2": [
             "recaxdh3RqiwgFi89",
@@ -1058,7 +1354,6 @@
             "rec1d8FHMjtQzsOnw",
             "recd5AjLy2SGn6JQV",
             "recHe1SCJ5Lc7Qymx",
-            "recZGkSz8oZfSTgV7",
             "recb9e6BFDC98yVWy",
             "rec1r1gXNN15WfXs6",
             "recZvnfAE2tzbiytU",
@@ -1076,8 +1371,214 @@
             "recpx58E50ndPKzze",
             "recHQWTUhKPgg0XBp",
             "recLPwzoUOSh3IDqD",
-            "rec7C7Bl1PWkPLDLM"
+            "rec7C7Bl1PWkPLDLM",
+            "recmur0LVLnKRnk75",
+            "recc7yvlABPGFwQss",
+            "rec9Jd0NNDKBmxwyr",
+            "recoPDSxd2SEDpFRL",
+            "recSAuIuJ5ocXnlru",
+            "recJPjQRZ3eFGh42f",
+            "recPCvGmtzWEG4E3u",
+            "recWc93scHRdvea0e",
+            "rec5WZVhzJHyV1Tri",
+            "recgXpj4FCHAT6FRA",
+            "rec2z8CH3nGgAmkd3",
+            "recULqFwsUFyJoDcF",
+            "recHK7PrDNo35Jx2y",
+            "recj2DPUZRvhtCIcO",
+            "rec2X0uUB8dzkznCf",
+            "recfmJUOLJYGgn0Xl",
+            "recnrxkZl6KkRxprH",
+            "rec7e36FEwrHjoy9P",
+            "recYWb2ShfWzYYrdl",
+            "recXEXJnam8nbfGai",
+            "recpZl6Gs3w4Z2WV8",
+            "recMPmkqT2W5TAscc",
+            "recBPWRxxmtPKIptO",
+            "recKWnzKlA143htU8",
+            "recsXE6Kkuo6EKVg2",
+            "rechkrBPAhPjUIANh",
+            "reccy2kEu5UFozPpK",
+            "recm5se3XtHumzCbM",
+            "rec3dZZQs6N9ZQ6pe",
+            "recRmNs5ZRmkLQzkM",
+            "rect7vvil7wc9LUtZ",
+            "recq5SrUn5DPGPPX0",
+            "recc2PoZCEzsxjLEf",
+            "recs3tCZH1fcvLwVW",
+            "recIukKu0soziQqAj",
+            "recA0VcmipGKc7Pjf",
+            "recEFvMLkQYGOymOG",
+            "recmuLdmGB0LzXuJQ",
+            "recmOHYkMnMmhazVq",
+            "reczPdZoJUbBlNhIN",
+            "rec1K0cDdxLMdMh4M",
+            "recxGkHBvthZjJdOs",
+            "recgu3iTgxvaoVOPI",
+            "rec53EOxEaL6JE38i",
+            "recooGmJhMbZiFihg",
+            "recrycs51hhtwlGCd",
+            "recJ9Ev8CQLqSzi8r",
+            "recKERfzK8zbKN8kt",
+            "recCpZTe4bTudSPEi",
+            "recF8l31UfLkjUon5",
+            "recC6XYQLcb5i7N38",
+            "reczUCdEUtTHBjDWK",
+            "recTVNVVD5pH0ZjVa",
+            "recVV04WXDmRE9sLL",
+            "recdylKpWep053xYN",
+            "recXhLsvngfEGJBRd",
+            "rec9eW8sQlUM6XPkv",
+            "recVpO9H7nN7VqgLw",
+            "recNzb4nro8z83Sfm",
+            "recqGvAPJ4wRBDt7B",
+            "recS3ND3pBeurNUjt",
+            "recDxwQ2zenkX0VKc",
+            "recGIUGkreCgQTTUg",
+            "recaYYlSpVJnlAR4s",
+            "recPC4lVzfgXfgDKx",
+            "recUblObi82iRNWTp",
+            "recWuAK2N8vh7jjnx",
+            "recquokuhiqrL2z36",
+            "rec2EpKH9axKnXTUL",
+            "recL9kboQi41iHvBz",
+            "recUayNJLcQnTBZJ1",
+            "recbwv8IPofll7mWB",
+            "recISUB8DyHQrtBkm",
+            "recM8kSrNRQ7slXda",
+            "recWXxgmV4nISPOV6",
+            "rec3vQ04ujHsTWKXo",
+            "recSkhqaMU93aG38n",
+            "recLrLfa9ANIsmwXO",
+            "recjFTdW7WAxmP6Hq",
+            "rechLgcCLz7dzGMnk",
+            "rec86ss6U0XdoHjIU",
+            "reccH2TO1YbBOX7wi",
+            "recL1reyHRk2oSzBg",
+            "recQiGHQ7BIudd0Ky",
+            "recpIb2CIblEVk2YJ",
+            "recpxwEt8n65U0fJu",
+            "recM3q5I1TGVBvsOX",
+            "rec68ZDF6wADGuRHc",
+            "recFB2PP56RpoNlYT",
+            "rec8avmbXL9i4ulv2",
+            "recPxzrXe1EgdfH7h",
+            "recogBJqRY8AcWX9B",
+            "recZtqnH5prxLT1rO",
+            "rec6Hn0mE8WPVEkr8",
+            "recFlK1m3CuHYfK0q",
+            "recq8OpyVY1oYFsI5",
+            "recaD55YEJtRJD8Is",
+            "recINAFYtufREdzJ8",
+            "recztJ1BKaWIKVbS3",
+            "recxPHkgubsEcweO2",
+            "rec6wMhTFBXeXUuEt",
+            "recnLCsIbKaQk2R8J",
+            "recCBAx6itI4UmoIs",
+            "recggp14HuIN7DX4y",
+            "recE5olNoq96RkYgC",
+            "recNU8Kurn49uX9Hu",
+            "recMoUg8YxyEHexkF",
+            "recQW8msCgvBgJT2e",
+            "recqldH174Y1kyoVd",
+            "rec0oeOxL4KQhLu4S",
+            "rec3FxkG6FlCceWsR",
+            "recOu13oS3cyhriOt",
+            "recaBq67hxHgxun15",
+            "recuZx3sjHiMuVT90",
+            "recnogsMnT3zhQoF8",
+            "recCUkzLtAO8tWopf",
+            "rec3abMsnhLFC0m1Y",
+            "rec3TuYrbyopamvIs",
+            "recvwyK6GXHKmf7mV",
+            "recdk2EoQlTNR2BZL",
+            "rec1cOAQbWM2vD8yF",
+            "recoDhp0bXaHch5ix",
+            "recGqJvMTK5qgDQvd",
+            "recb2K46xY7G9ClSm",
+            "recj7S9RyG6lcAuEE",
+            "reclJSh5q8T6yxlda",
+            "recS7PDZjMz9gxLPE",
+            "rec5y2mRRRMOZs00D",
+            "rec70csidU0EAYeR5",
+            "reciE6nNqrDpz3CIo",
+            "recORhKow8yOhYl9k",
+            "rec3oa60ezWYl3BsQ",
+            "recNkSCqvWoVBNjvV",
+            "rec11ea6MEOazzX6n",
+            "recb1GwTaws7qqm1J",
+            "recENQutN0oS88YMG",
+            "recLMwcrgMzQ7uLRH",
+            "rectkszvxeSkriCS8",
+            "recvOfpZYklp0UaQP",
+            "rec5lnofPE3JUmA8y",
+            "recfutg3pRwUIUanj",
+            "recjo2TgHQmwFGfiM",
+            "recMe0w1UFl6dvhj5",
+            "reckEjRVlRa4M9ceC",
+            "recZYndatp2TcijTJ",
+            "recZPd9ePMstQ9Iwq",
+            "recrxAI54hOslm2gH",
+            "recGIIIPa3kXxA0L0",
+            "recOENUZXoskq3DmS",
+            "recNgMQhkjgS9qcbl",
+            "reccrYWs2azpBmuTX",
+            "recuFTXTkgYlfkxNX",
+            "recEnPI0i5zOxFR5F",
+            "recmTyXDHY8IwNc26",
+            "recRA6d1XTKPvESLb",
+            "recKEpbYe0MNk7pxf",
+            "rec3UasAWvov2fxVT",
+            "recMHSfIKMMTqlad3",
+            "recM3rBF5pRwS1ojW",
+            "recWQfmpLbxRg7zcR",
+            "recpK3Pf0f7DbeO6o",
+            "recGg6elEiDGKMIoJ",
+            "recoyQ0J9U5iEjQ4X",
+            "recTBrUS93aMCpTF2",
+            "rec0rSojhCHIrqS3z",
+            "recN8V8jVwKfqu7AB",
+            "recLteSCrzhMSWMoG",
+            "rectYwHBWb0MvFD8f",
+            "rec30HY7pfY9BiYm2",
+            "reccoF9BXF4PxlUtc",
+            "recQdJjwxmlY4Axmh",
+            "recHt5MVl8FKQMa49",
+            "recxncqpQT3oUaLa0",
+            "rec0kv3QGKMtYSchA",
+            "rec2GSFmj0rvXbwAK",
+            "recjHaM7fRd7u6JhT",
+            "recVHHI64mBvHZO9q",
+            "rec16k9dPHclWVV9Z",
+            "rec5vWQuX9AqJcwr9",
+            "recVQGTmFpKoGEznF",
+            "reczexUEx664nh5xR",
+            "rec3IrZSpKcct9cTn",
+            "recY8NAA7tUhJiX7F",
+            "recRJNADSuAQX8QqQ",
+            "recwnBYbKij7aAdyB",
+            "recTk0B4k2fJ8wa9Q",
+            "recs1eyywQ6GjowYX",
+            "recU6VBYuZ3jRofe5",
+            "recBDadO7JzgwvfS5",
+            "rec2i1MTOKBmeV9Jp",
+            "recw4QpPTknaF7tot",
+            "recwfyZEuCVqOLfyv",
+            "recwTaxp5y0ZN0k2K",
+            "recQPurJAlSTSqLjR",
+            "recZgeE9f9ZCmUC1t",
+            "recfQ182hVJvG6Z3S",
+            "recL3S14oK7IkeuLo",
+            "rechBoZOSlTf7qOLe",
+            "recUrfJZVFfmOVwER",
+            "recJ2YNRXc2QRcAad",
+            "recJdfmR0J56QsG3y"
         ],
+        "Cases 3": [
+            "recA0VcmipGKc7Pjf"
+        ],
+        "Cases count1": 637,
+        "Count (Cases 2)": 466,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1090,7 +1591,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec51gTHDnFMpOUWP",
         "auto_gen_id": 20,
+        "case count3": 1,
         "coordinate specificity": "building",
+        "count total": 1104,
         "county": "Douglas",
         "latitude": "41.257103404765104",
         "locality": "Omaha",
@@ -1099,7 +1602,7 @@
             "state district court",
             "courthouse"
         ],
-        "location type": "court, repository",
+        "location type": "court, repository, site of significance",
         "longitude": "-95.93919578649023",
         "name": "Douglas County District Court",
         "primary field": "Douglas County District Court (Omaha, Nebraska)",
@@ -1777,7 +2280,6 @@
             "recB48vm2FtTiN748",
             "recd5AjLy2SGn6JQV",
             "recHe1SCJ5Lc7Qymx",
-            "recZGkSz8oZfSTgV7",
             "recb9e6BFDC98yVWy",
             "rec1r1gXNN15WfXs6",
             "recZvnfAE2tzbiytU",
@@ -1796,8 +2298,42 @@
             "recpx58E50ndPKzze",
             "recHQWTUhKPgg0XBp",
             "recLPwzoUOSh3IDqD",
-            "rec7C7Bl1PWkPLDLM"
+            "rec7C7Bl1PWkPLDLM",
+            "recmur0LVLnKRnk75",
+            "recc7yvlABPGFwQss",
+            "recoPDSxd2SEDpFRL",
+            "recSAuIuJ5ocXnlru",
+            "recJPjQRZ3eFGh42f",
+            "recPCvGmtzWEG4E3u",
+            "recWc93scHRdvea0e",
+            "rec5WZVhzJHyV1Tri",
+            "recgXpj4FCHAT6FRA",
+            "rec2z8CH3nGgAmkd3",
+            "recULqFwsUFyJoDcF",
+            "recm5se3XtHumzCbM",
+            "reczPdZoJUbBlNhIN",
+            "recVpO9H7nN7VqgLw",
+            "recNzb4nro8z83Sfm",
+            "rec3oa60ezWYl3BsQ",
+            "recNkSCqvWoVBNjvV",
+            "rec11ea6MEOazzX6n",
+            "recb1GwTaws7qqm1J",
+            "rec5lnofPE3JUmA8y",
+            "recZYndatp2TcijTJ",
+            "recZPd9ePMstQ9Iwq",
+            "recrxAI54hOslm2gH",
+            "recGIIIPa3kXxA0L0",
+            "recOENUZXoskq3DmS",
+            "recNgMQhkjgS9qcbl",
+            "reccrYWs2azpBmuTX",
+            "recoyQ0J9U5iEjQ4X",
+            "recwnBYbKij7aAdyB",
+            "recTk0B4k2fJ8wa9Q",
+            "recJ2YNRXc2QRcAad",
+            "recJdfmR0J56QsG3y"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 721,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1810,7 +2346,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "rec5KojyqtwlsGgZK",
         "auto_gen_id": 39,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 721,
         "county": "Lancaster",
         "latitude": "40.81743258995434",
         "locality": "Lincoln",
@@ -1826,8 +2364,88 @@
     },
     {
         "Cases": [
+            "rec8avmbXL9i4ulv2"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-06-29T16:07:27.000Z",
+        "ID": "hc.loc.000134",
+        "Name Markdown": "[Polk County District Court (Des Moines, Iowa)](hc.loc.000134)",
+        "airtable_createdTime": "2023-06-29T16:07:27.000Z",
+        "airtable_id": "rec5vCLqCOTcjjkml",
+        "auto_gen_id": 134,
+        "case count3": 0,
+        "coordinate specificity": "landmark",
+        "count total": 1,
+        "county": "Polk County",
+        "latitude": "41.5846164",
+        "locality": "Des Moines",
+        "locality_built": "Des Moines, Polk County, Iowa",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "longitude": "-93.6262721",
+        "name": "Polk County District Court",
+        "primary field": "Polk County District Court (Des Moines, Iowa)",
+        "state": "Iowa"
+    },
+    {
+        "Cases 3": [
+            "recfmJUOLJYGgn0Xl",
+            "recEFvMLkQYGOymOG",
+            "reczUCdEUtTHBjDWK",
+            "recPC4lVzfgXfgDKx",
+            "recmuLdmGB0LzXuJQ",
+            "recjFTdW7WAxmP6Hq",
+            "rec86ss6U0XdoHjIU",
+            "recpxwEt8n65U0fJu",
+            "recaD55YEJtRJD8Is",
+            "recKEpbYe0MNk7pxf",
+            "recVQGTmFpKoGEznF"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-27T15:26:05.000Z",
+        "ID": "hc.loc.000124",
+        "Name Markdown": "[Omaha Detention Hospital (Omaha, Nebraska)](hc.loc.000124)",
+        "address": "1915 Dodge St.",
+        "airtable_createdTime": "2023-06-27T15:26:05.000Z",
+        "airtable_id": "rec6DhqcGsvxC4TlS",
+        "alternative name": "Girls Detention Home; Omaha Detention Home; Women's Detention Home",
+        "auto_gen_id": 124,
+        "case count3": 11,
+        "coordinate specificity": "building",
+        "count total": 11,
+        "county": "Douglas",
+        "latitude": "41.25968683415395",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
+        "location subtype": [
+            "detention hospital"
+        ],
+        "location type": "site of significance",
+        "longitude": "-95.930527719518",
+        "name": "Omaha Detention Hospital",
+        "primary field": "Omaha Detention Hospital (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases": [
             "reclWII8xvfJ772Ed"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1839,7 +2457,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec6Lalt4EK8cOuty",
         "auto_gen_id": 21,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "38.97255435220533",
         "locality": "Lawrence",
@@ -1855,8 +2475,49 @@
     },
     {
         "Cases 3": [
+            "recM3q5I1TGVBvsOX",
+            "recaD55YEJtRJD8Is",
+            "recE5olNoq96RkYgC",
+            "rec68ZDF6wADGuRHc",
+            "recOu13oS3cyhriOt",
+            "recNU8Kurn49uX9Hu",
+            "recS7PDZjMz9gxLPE",
+            "recL3S14oK7IkeuLo"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "lmcdermott4@huskers.unl.edu",
+            "id": "usrybIbbbp5jn3ArW",
+            "name": "Luke McDermott"
+        },
+        "Created time": "2023-06-29T16:14:55.000Z",
+        "ID": "hc.loc.000135",
+        "Name Markdown": "[Omaha City Jail (Omaha, Nebraska)](hc.loc.000135)",
+        "address": "11th & Dodge",
+        "airtable_createdTime": "2023-06-29T16:14:55.000Z",
+        "airtable_id": "rec7VaZB4QxxP2hXR",
+        "auto_gen_id": 135,
+        "case count3": 8,
+        "coordinate specificity": "county",
+        "count total": 8,
+        "county": "Douglas",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "Omaha City Jail",
+        "primary field": "Omaha City Jail (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recN5f8VZioBDff9n"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1868,7 +2529,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec7k2hIsbAGkreKP",
         "auto_gen_id": 97,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -1890,6 +2553,8 @@
             "recDd6C7GtQKaX0h7",
             "rec7emztOzfgL7Fuy"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1901,7 +2566,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec86rqt01xAFDJ8s",
         "auto_gen_id": 98,
+        "case count3": 5,
         "coordinate specificity": "locality",
+        "count total": 5,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -1943,6 +2610,8 @@
             "recT66wMhczUgeT2w",
             "recxhmdfwnFmdfepm"
         ],
+        "Cases count1": 25,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1954,7 +2623,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec8NIkxgr551hqvX",
         "auto_gen_id": 22,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 25,
         "county": "Pierce",
         "latitude": "47.25333423566242",
         "locality": "Tacoma",
@@ -1991,6 +2662,8 @@
             "recT66wMhczUgeT2w",
             "recxhmdfwnFmdfepm"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 20,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2003,7 +2676,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "rec8qVrd4Ss87BQR7",
         "auto_gen_id": 40,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 20,
         "county": "Thurston",
         "latitude": "47.03698198384513",
         "locality": "Olympia",
@@ -2022,6 +2697,8 @@
             "recaXS5FOa6Mkp8VP",
             "recK9YewTyX9IGFED"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2033,7 +2710,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec95m6lXiFuN1PaX",
         "auto_gen_id": 99,
+        "case count3": 2,
         "coordinate specificity": "county",
+        "count total": 2,
         "county": "Sarpy",
         "latitude": "41.11682431452754",
         "locality": "Unspecified",
@@ -2049,8 +2728,46 @@
     },
     {
         "Cases": [
+            "rec98qJyEuLUjTzqk",
+            "recJgLHgQuH4e56o7",
+            "rec78NrKezboCRJkS",
+            "recM7ycwysZjXVshV"
+        ],
+        "Cases count1": 4,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-29T15:29:33.000Z",
+        "ID": "hc.loc.000132",
+        "Name Markdown": "[U.S. Circuit Court of Appeals for the Eighth Circuit (St. Paul, Minnesota)](hc.loc.000132)",
+        "airtable_createdTime": "2023-06-29T15:29:33.000Z",
+        "airtable_id": "rec9jDq7Ob1PRrZg5",
+        "auto_gen_id": 132,
+        "case count3": 0,
+        "coordinate specificity": "locality",
+        "count total": 4,
+        "county": "Ramsey",
+        "latitude": "44.946667",
+        "locality": "St. Paul",
+        "locality_built": "St. Paul, Ramsey, Minnesota",
+        "location subtype": [
+            "federal court of appeals"
+        ],
+        "location type": "court",
+        "longitude": "-93.089167",
+        "name": "U.S. Circuit Court of Appeals for the Eighth Circuit",
+        "primary field": "U.S. Circuit Court of Appeals for the Eighth Circuit (St. Paul, Minnesota)",
+        "state": "Minnesota"
+    },
+    {
+        "Cases": [
             "recRQO288fK0YEjF0"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2062,7 +2779,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "rec9sOsk8Pfhrr2RY",
         "auto_gen_id": 23,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lincoln",
         "latitude": "41.14094863550464",
         "locality": "North Platte",
@@ -2080,6 +2799,8 @@
         "Cases 3": [
             "recNthQdJf1ewogo4"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2091,7 +2812,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recAsXV3FGw8knnoy",
         "auto_gen_id": 74,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -2109,6 +2832,8 @@
         "Cases 3": [
             "rec0TCdJymyMvcwZ5"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2120,7 +2845,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBCXmOknlXiDttJ",
         "auto_gen_id": 77,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "San Francisco",
         "latitude": "37.774934017149484",
         "locality": "San Francisco",
@@ -2138,6 +2865,8 @@
         "Cases 3": [
             "rec0TCdJymyMvcwZ5"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2149,7 +2878,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBRNsG8BxivUgHA",
         "auto_gen_id": 78,
+        "case count3": 1,
         "coordinate specificity": "landmark",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "41.29167183271719",
         "locality": "Omaha",
@@ -2167,6 +2898,8 @@
         "Cases 2": [
             "reclWII8xvfJ772Ed"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 1,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2178,6 +2911,8 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recBf010QUON3V6mX",
         "auto_gen_id": 36,
+        "case count3": 0,
+        "count total": 1,
         "locality_built": ", , Kansas",
         "location subtype": [
             "published court report"
@@ -2189,8 +2924,41 @@
     },
     {
         "Cases 3": [
+            "recrxAI54hOslm2gH",
+            "recGIIIPa3kXxA0L0"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "bdevalk2@huskers.unl.edu",
+            "id": "usrKgP3uxM9XvnC1f",
+            "name": "Brianna DeValk"
+        },
+        "Created time": "2023-07-03T12:45:52.000Z",
+        "ID": "hc.loc.000148",
+        "Name Markdown": "[State Penitentiary of the State of Nebraska (Lincoln, Nebraska)](hc.loc.000148)",
+        "airtable_createdTime": "2023-07-03T12:45:52.000Z",
+        "airtable_id": "recBfIDBuGgY9Sto1",
+        "auto_gen_id": 148,
+        "case count3": 2,
+        "count total": 2,
+        "county": "Lancaster",
+        "locality": "Lincoln",
+        "locality_built": "Lincoln, Lancaster, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "State Penitentiary of the State of Nebraska",
+        "primary field": "State Penitentiary of the State of Nebraska (Lincoln, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "rectY73AkN8ppGHbP"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2202,7 +2970,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBqznM3EEgU7f1J",
         "auto_gen_id": 75,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "NA",
         "latitude": "58.33171128052053",
         "locality": "Juneau",
@@ -2220,6 +2990,8 @@
         "Cases 3": [
             "recCT72wjznIdIqou"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2232,7 +3004,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBtXAzDClj4dCcN",
         "auto_gen_id": 76,
+        "case count3": 1,
         "coordinate specificity": "building",
+        "count total": 1,
         "county": "Walla Walla",
         "latitude": "46.07818487649164",
         "locality": "Walla Walla",
@@ -2253,8 +3027,11 @@
             "recVj2GoyAXDXST9M",
             "rectnOiWftnCYHXUv",
             "recEgMtJxAk8UKK7j",
-            "rec9bAPk4K34pBUoK"
+            "rec9bAPk4K34pBUoK",
+            "recsXE6Kkuo6EKVg2"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2266,7 +3043,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recC6rDe37PndFcLk",
         "auto_gen_id": 80,
+        "case count3": 6,
         "coordinate specificity": "county",
+        "count total": 6,
         "county": "Douglas",
         "latitude": "41.305150702932416",
         "locality": "Unspecified",
@@ -2284,6 +3063,8 @@
         "Cases 3": [
             "recPmnjVEL7cTm3iB"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2295,7 +3076,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recCg1dAjIbL1iI9C",
         "auto_gen_id": 79,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "NA",
         "latitude": "49.28293713028381",
         "locality": "Vancouver",
@@ -2352,6 +3135,8 @@
             "recNP6WDkRbbFTSbh",
             "recw3BIAVE4lMZVfN"
         ],
+        "Cases count1": 40,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2363,7 +3148,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recDCl16XJnh6mBYU",
         "auto_gen_id": 12,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 40,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -2381,6 +3168,8 @@
         "Cases 3": [
             "recTNZ9fkBlhTWGx5"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2394,7 +3183,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recDRxccPBVbquV1k",
         "auto_gen_id": 81,
+        "case count3": 1,
         "coordinate specificity": "building",
+        "count total": 1,
         "county": "King",
         "latitude": "47.598265292098205",
         "locality": "Seattle",
@@ -2409,9 +3200,47 @@
         "state": "Washington"
     },
     {
+        "Cases": [
+            "recictDb08r8pJpvl",
+            "recjTekAXIPg7fErD",
+            "recr7YRPR2nNbFs5H"
+        ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-30T19:38:36.000Z",
+        "ID": "hc.loc.000146",
+        "Name Markdown": "[United States Circuit Court of Appeals for the Eighth Circuit  (St. Louis, Missouri)](hc.loc.000146)",
+        "address": "111 S 10th St # 22.300, St. Louis, MO 63102",
+        "airtable_createdTime": "2023-06-30T19:38:36.000Z",
+        "airtable_id": "recDjN1hMLyqrietN",
+        "auto_gen_id": 146,
+        "case count3": 0,
+        "coordinate specificity": "locality",
+        "count total": 3,
+        "county": "St. Louis",
+        "latitude": "38.62555411188975",
+        "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
+        "location subtype": [
+            "federal court of appeals"
+        ],
+        "location type": "court",
+        "longitude": "-90.19682161193232",
+        "name": "United States Circuit Court of Appeals for the Eighth Circuit ",
+        "primary field": "United States Circuit Court of Appeals for the Eighth Circuit  (St. Louis, Missouri)",
+        "state": "Missouri"
+    },
+    {
         "Cases 3": [
             "rec6nKUE7Q3G3NZvu"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2423,7 +3252,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recGVGqR6EYKKKhEv",
         "auto_gen_id": 82,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Nance",
         "latitude": "41.44877641949078",
         "locality": "Genoa",
@@ -2444,6 +3275,8 @@
             "recGnXp1PtQNfj9kz",
             "recIBjYrQ3vZdOlt0"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2455,7 +3288,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recGX1hBDwIpFlD2e",
         "auto_gen_id": 83,
+        "case count3": 4,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "Thurston",
         "latitude": "42.10485021278375",
         "locality": "Omaha Reservation",
@@ -2473,6 +3308,8 @@
         "Cases": [
             "recvvWmNr5XzTZgu2"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2484,7 +3321,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recHHZu5l9vkrLl85",
         "auto_gen_id": 13,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Polk",
         "latitude": "44.91964580945002",
         "locality": "Dallas",
@@ -2503,6 +3342,8 @@
             "recs5jp0Voi58nX6c",
             "recKtVtpHsU4R7flc"
         ],
+        "Cases count1": 2,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2514,7 +3355,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recHR1ltivL6ELo3c",
         "auto_gen_id": 14,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "Linn",
         "latitude": "41.97853969851893",
         "locality": "Cedar Rapids",
@@ -2532,6 +3375,8 @@
         "Cases 3": [
             "recARJqlYj9ni8iDr"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2543,7 +3388,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recIXmUkH0tQRi2q9",
         "auto_gen_id": 84,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Buchanan",
         "latitude": "42.46888716080659",
         "locality": "Independence",
@@ -2564,6 +3411,8 @@
             "recv7URLnfV9q2Adh",
             "recw3BIAVE4lMZVfN"
         ],
+        "Cases count1": 4,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2575,7 +3424,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recJJIKEpWXEoyYti",
         "auto_gen_id": 15,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -2591,10 +3442,113 @@
     },
     {
         "Cases 3": [
+            "rect7vvil7wc9LUtZ",
+            "recooGmJhMbZiFihg",
+            "rec1bS9iQ27RtMpZq",
+            "rec3vQ04ujHsTWKXo",
+            "recxPHkgubsEcweO2",
+            "recfutg3pRwUIUanj",
+            "recRJNADSuAQX8QqQ"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-06-27T16:36:07.000Z",
+        "ID": "hc.loc.000126",
+        "Name Markdown": "[Douglas County Jail (Omaha, Nebraska)](hc.loc.000126)",
+        "airtable_createdTime": "2023-06-27T16:36:07.000Z",
+        "airtable_id": "recJOCGiQkMFvnlfS",
+        "auto_gen_id": 126,
+        "case count3": 7,
+        "count total": 7,
+        "county": "Douglas County",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas County, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "Douglas County Jail",
+        "primary field": "Douglas County Jail (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "szuniga5@huskers.unl.edu",
+            "id": "usryL2aUoq2PVR4Ls",
+            "name": "Santiago Zuniga"
+        },
+        "Created time": "2023-06-29T19:15:14.000Z",
+        "ID": "hc.loc.000140",
+        "Name Markdown": "[Monona County District Court of Iowa (Onawa, Iowa)](hc.loc.000140)",
+        "address": "610 Iowa Ave, Onawa, IA 51040",
+        "airtable_createdTime": "2023-06-29T19:15:14.000Z",
+        "airtable_id": "recLABzTBpNMaBJai",
+        "auto_gen_id": 140,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 0,
+        "county": "Monona",
+        "latitude": "42.027916028208374",
+        "locality": "Onawa",
+        "locality_built": "Onawa, Monona, Iowa",
+        "location subtype": [
+            "state district court"
+        ],
+        "longitude": "-96.09161667134308",
+        "modern name": "Monona County Magistrate Court",
+        "name": "Monona County District Court of Iowa",
+        "primary field": "Monona County District Court of Iowa (Onawa, Iowa)",
+        "state": "Iowa"
+    },
+    {
+        "Cases": [
+            "recLrLfa9ANIsmwXO",
+            "rec2GSFmj0rvXbwAK"
+        ],
+        "Cases count1": 2,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aschwensen2@huskers.unl.edu",
+            "id": "usr2yKc4n9Dj481mY",
+            "name": "Amelia Schwensen"
+        },
+        "Created time": "2023-06-27T16:27:20.000Z",
+        "ID": "hc.loc.000125",
+        "Name Markdown": "[Fourth Judicial District of the State of Nebraska (Omaha, Nebraska)](hc.loc.000125)",
+        "airtable_createdTime": "2023-06-27T16:27:20.000Z",
+        "airtable_id": "recLJBKA4ZPlvpfF3",
+        "auto_gen_id": 125,
+        "case count3": 0,
+        "count total": 2,
+        "county": "Douglas",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "name": "Fourth Judicial District of the State of Nebraska",
+        "primary field": "Fourth Judicial District of the State of Nebraska (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "rec4P8VEfmiYsV0ne",
             "recnUroqriWRbNBQN",
-            "recrS8jGn8SigvIgD"
+            "recrS8jGn8SigvIgD",
+            "recWuAK2N8vh7jjnx",
+            "reccH2TO1YbBOX7wi",
+            "rechBoZOSlTf7qOLe"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2605,8 +3559,11 @@
         "Name Markdown": "[Child Saving Institute (Omaha, Nebraska)](hc.loc.000085)",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recLM6UQ0XwMqhgX5",
+        "alternative name": "Child's Saving Institute",
         "auto_gen_id": 85,
+        "case count3": 6,
         "coordinate specificity": "locality",
+        "count total": 6,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -2624,6 +3581,8 @@
         "Cases 3": [
             "recH2zFlLrk7QqaME"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2635,7 +3594,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recLYP4lURroZNBER",
         "auto_gen_id": 86,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Pierce",
         "latitude": "47.17234218823997",
         "locality": "Lakewood",
@@ -2648,6 +3609,25 @@
         "name": "Insane Asylum at Fort Steilacoom",
         "primary field": "Insane Asylum at Fort Steilacoom (Lakewood, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "echen6@huskers.unl.edu",
+            "id": "usrykFL2PlyORYeKc",
+            "name": "Ellis Chen"
+        },
+        "Created time": "2023-06-29T21:12:47.000Z",
+        "ID": "hc.loc.000143",
+        "Name Markdown": "[ (, )](hc.loc.000143)",
+        "airtable_createdTime": "2023-06-29T21:12:47.000Z",
+        "airtable_id": "recLcQ48Hq833O0lB",
+        "auto_gen_id": 143,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
     },
     {
         "Cases": [
@@ -2691,6 +3671,8 @@
             "recFmVzaTpr3l06FN",
             "rec9aUflJOZoowvj7"
         ],
+        "Cases count1": 39,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2702,7 +3684,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recLyqYi6lctrMwMA",
         "auto_gen_id": 16,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 39,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -2725,6 +3709,8 @@
             "recl0pxHhTTHsZxsZ",
             "recwB0ArAF6k4tnqg"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 6,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2737,7 +3723,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recM2xAGAuOCzef3J",
         "auto_gen_id": 38,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 6,
         "county": "Spokane",
         "latitude": "47.48798702423552",
         "locality": "Cheney",
@@ -2794,6 +3782,8 @@
             "recFmVzaTpr3l06FN",
             "rec9aUflJOZoowvj7"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 40,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2806,7 +3796,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recMtatCzHod8eib7",
         "auto_gen_id": 37,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 40,
         "county": "Marion",
         "latitude": "44.946059436396595",
         "locality": "Salem",
@@ -2824,6 +3816,8 @@
         "Cases 3": [
             "rec5V0RTtPsAvh4pE"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2836,6 +3830,8 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recN4AvKts4b9LLlN",
         "auto_gen_id": 45,
+        "case count3": 1,
+        "count total": 1,
         "locality_built": ", , ",
         "location type": "site of significance",
         "name": "Samish in Skagit County, Washington Territory",
@@ -2847,6 +3843,8 @@
             "recR6kskdgG8XQoyi",
             "rec4IbxEAh7l1wV6O"
         ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2858,7 +3856,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recNvBxF1tYGqTlbG",
         "auto_gen_id": 1,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Whitman",
         "latitude": "46.88052309508629",
         "locality": "Colfax",
@@ -2879,6 +3879,8 @@
             "recif5vFYZC0J9qmC",
             "recOeAiYocMHSE6Mx"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2890,7 +3892,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recOXYLR4r5aNzf9a",
         "auto_gen_id": 46,
+        "case count3": 4,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -2916,6 +3920,8 @@
             "recqvOBSbAxSUJXJv",
             "reczuaEcyS772V2Pv"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2928,7 +3934,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
+        "case count3": 9,
         "coordinate specificity": "building",
+        "count total": 9,
         "county": "NA",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
@@ -2947,6 +3955,8 @@
         "Cases 3": [
             "recboq7or12HeQe3Q"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2959,7 +3969,9 @@
         "airtable_id": "recPfpIKwY1n9FY3f",
         "alternative name": "Green Gables Sanitarium",
         "auto_gen_id": 47,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -2979,6 +3991,8 @@
             "recy6oLLpnIDfhsoA",
             "recmSytCZeWUrOqNn"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2990,7 +4004,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recPiA5ZsqHrG5hqV",
         "auto_gen_id": 48,
+        "case count3": 3,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -3006,8 +4022,44 @@
     },
     {
         "Cases 3": [
+            "recwfyZEuCVqOLfyv"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-07T20:16:26.000Z",
+        "ID": "hc.loc.000151",
+        "Name Markdown": "[Douglas County Hospital (Omaha, Nebraska)](hc.loc.000151)",
+        "address": "40th and Poppleton",
+        "airtable_createdTime": "2023-07-07T20:16:26.000Z",
+        "airtable_id": "recPnDZaalXoxIl2x",
+        "auto_gen_id": 151,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Douglas County",
+        "latitude": "41.2484958",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas County, Nebraska",
+        "location subtype": [
+            "hospital"
+        ],
+        "location type": "site of significance",
+        "longitude": "-95.9745671",
+        "name": "Douglas County Hospital",
+        "primary field": "Douglas County Hospital (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "rechVS4ypInSRD2SD"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3020,7 +4072,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recQVnFdm5mj7gqky",
         "auto_gen_id": 50,
+        "case count3": 1,
         "coordinate specificity": "landmark",
+        "count total": 1,
         "county": "Sheridan",
         "latitude": "42.85134247120452",
         "locality": "Unspecified",
@@ -3038,6 +4092,8 @@
         "Cases 3": [
             "recplZrYNhf2TAUa5"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3049,7 +4105,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recQeVK8O1GNb99mW",
         "auto_gen_id": 51,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -3064,6 +4122,25 @@
         "state": "Nebraska"
     },
     {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-27T21:10:55.000Z",
+        "ID": "hc.loc.000128",
+        "Name Markdown": "[ (, )](hc.loc.000128)",
+        "airtable_createdTime": "2023-06-27T21:10:55.000Z",
+        "airtable_id": "recR6RXHnZjCim1Z9",
+        "auto_gen_id": 128,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
+    },
+    {
         "Cases 3": [
             "recNaeLCn94b41jLt",
             "rech18Vdk0rqq15RU",
@@ -3073,6 +4150,8 @@
             "recjF8csJWCzoXJy7",
             "rec4JJsXbt5fQYrIf"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3085,7 +4164,9 @@
         "airtable_id": "recRDJAUcbSjLoP7L",
         "alternative name": "Oregon State Hospital",
         "auto_gen_id": 52,
+        "case count3": 7,
         "coordinate specificity": "locality",
+        "count total": 7,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -3201,6 +4282,8 @@
             "receuqLRiAaAwnrqJ",
             "recohtcVT3Q7iA4do"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 99,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3213,7 +4296,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recRiH7K9r3pGvSeL",
         "auto_gen_id": 32,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 99,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -3228,9 +4313,48 @@
         "state": "Washington"
     },
     {
-        "Cases 3": [
-            "recSBTctozzAYzkMF"
+        "Cases": [
+            "recpxwEt8n65U0fJu",
+            "reckEjRVlRa4M9ceC",
+            "recVQGTmFpKoGEznF",
+            "recRJNADSuAQX8QqQ"
         ],
+        "Cases 2": [
+            "recfutg3pRwUIUanj"
+        ],
+        "Cases count1": 4,
+        "Count (Cases 2)": 1,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-06-27T17:39:09.000Z",
+        "ID": "hc.loc.000127",
+        "Name Markdown": "[The Police Court of the City of Omaha (Omaha, Nebraska)](hc.loc.000127)",
+        "airtable_createdTime": "2023-06-27T17:39:09.000Z",
+        "airtable_id": "recRlv1SeUVEKcGd5",
+        "auto_gen_id": 127,
+        "case count3": 0,
+        "count total": 5,
+        "county": "Douglas County",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas County, Nebraska",
+        "location subtype": [
+            "police court"
+        ],
+        "location type": "court, repository",
+        "name": "The Police Court of the City of Omaha",
+        "primary field": "The Police Court of the City of Omaha (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recSBTctozzAYzkMF",
+            "recztJ1BKaWIKVbS3"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3242,7 +4366,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recSdSjt7e4cBBvMA",
         "auto_gen_id": 53,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -3271,8 +4397,19 @@
             "rec8NmMGQbyn5P51R",
             "recQxIVKP09ZFOZ2m",
             "rec3oYowpYM5GCMY7",
-            "recogYsTZYVZf2uGv"
+            "recogYsTZYVZf2uGv",
+            "recs3tCZH1fcvLwVW",
+            "recNU8Kurn49uX9Hu",
+            "recggp14HuIN7DX4y",
+            "reccoF9BXF4PxlUtc",
+            "rec2GSFmj0rvXbwAK"
         ],
+        "Cases 2": [
+            "recs3tCZH1fcvLwVW",
+            "reccoF9BXF4PxlUtc"
+        ],
+        "Cases count1": 19,
+        "Count (Cases 2)": 2,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3284,7 +4421,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recT3uQLqJjmfkb2a",
         "auto_gen_id": 3,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 21,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -3292,7 +4431,7 @@
         "location subtype": [
             "state supreme court"
         ],
-        "location type": "court",
+        "location type": "court, repository",
         "longitude": "-96.70166950546762",
         "name": "Nebraska Supreme Court",
         "primary field": "Nebraska Supreme Court (Lincoln, Nebraska)",
@@ -3324,6 +4463,8 @@
             "recwRcEiG4l3zoAOU",
             "recMshB4O2aLuTVhs"
         ],
+        "Cases count1": 23,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3335,7 +4476,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recTQnJEK2pJOSsR4",
         "auto_gen_id": 2,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 23,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -3353,6 +4496,8 @@
         "Cases 3": [
             "recvwsSr3tW9UZw1j"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3364,7 +4509,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recU5ocTebCBsI5Ss",
         "auto_gen_id": 55,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -3381,8 +4528,13 @@
     {
         "Cases 3": [
             "rec8k2hjsq9hrLhOW",
-            "recnI4kv3AZrcRUVE"
+            "recnI4kv3AZrcRUVE",
+            "recpIb2CIblEVk2YJ",
+            "recPxzrXe1EgdfH7h",
+            "recztJ1BKaWIKVbS3"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3394,7 +4546,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recUCqKvoOzPGyXrJ",
         "auto_gen_id": 54,
+        "case count3": 5,
         "coordinate specificity": "locality",
+        "count total": 5,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -3412,6 +4566,8 @@
         "Cases 3": [
             "recQiZQXyCnFG1tsl"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3423,7 +4579,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recVHq7QbLCo33gLb",
         "auto_gen_id": 56,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3441,6 +4599,8 @@
         "Cases 3": [
             "recPmnjVEL7cTm3iB"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3452,7 +4612,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recVclujhMN41wYNg",
         "auto_gen_id": 58,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "NA",
         "latitude": "49.28293713028381",
         "locality": "Vancouver",
@@ -3470,6 +4632,8 @@
         "Cases 3": [
             "recF37se7DOamh6wB"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3481,7 +4645,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recVykSAwRQEt5aB3",
         "auto_gen_id": 57,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -3504,6 +4670,8 @@
             "recgbu1EGncgS8m3S",
             "recVdtmFrBpFyvbm8"
         ],
+        "Cases count1": 6,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3515,7 +4683,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recW3pjLTkbGMfQhp",
         "auto_gen_id": 5,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 6,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -3533,6 +4703,8 @@
         "Cases 3": [
             "reckWpFW1CH9UoVn6"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3544,7 +4716,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recWggt7ydQIp4Iuy",
         "auto_gen_id": 59,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Marion",
         "latitude": "45.06783452296678",
         "locality": "Mt. Angel",
@@ -3564,6 +4738,8 @@
             "recI3n8OOt3uDEipr",
             "recCT72wjznIdIqou"
         ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3575,7 +4751,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recWlOgsWIQSl8Dil",
         "auto_gen_id": 4,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3593,6 +4771,8 @@
         "Cases": [
             "recjnaRbf7t2spMAN"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3604,7 +4784,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recX7E2DRujpn8y3y",
         "auto_gen_id": 17,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Maricopa",
         "latitude": "33.444565373133734",
         "locality": "Phoenix",
@@ -3626,6 +4808,8 @@
             "recUy5fwfu5PBaQJf",
             "recRfliBBQdkqLmmA"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3637,7 +4821,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recXWkazw4cjDsSDV",
         "auto_gen_id": 87,
+        "case count3": 5,
         "coordinate specificity": "locality",
+        "count total": 5,
         "county": "Thurston",
         "latitude": "42.233245980058484",
         "locality": "Winnebago Reservation",
@@ -3653,8 +4839,44 @@
     },
     {
         "Cases 3": [
+            "recTq65ACuMMMEXce"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-30T19:01:05.000Z",
+        "ID": "hc.loc.000145",
+        "Name Markdown": "[Madison County Jail (Madison, Nebraska)](hc.loc.000145)",
+        "address": "1313 N Main St, Madison, NE 68748",
+        "airtable_createdTime": "2023-06-30T19:01:05.000Z",
+        "airtable_id": "recYBM5yqrsNOJQST",
+        "auto_gen_id": 145,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Madison",
+        "latitude": "41.84370209089068",
+        "locality": "Madison",
+        "locality_built": "Madison, Madison, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-97.45583653323159",
+        "name": "Madison County Jail",
+        "primary field": "Madison County Jail (Madison, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "rec0nqDkGpklee7dJ"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3666,7 +4888,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recYNaozuQmCQj481",
         "auto_gen_id": 88,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3684,6 +4908,8 @@
         "Cases 3": [
             "recw672dm1x9BkIEt"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3695,7 +4921,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recYQP9xDFtHGKAP9",
         "auto_gen_id": 90,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3711,9 +4939,45 @@
     },
     {
         "Cases 3": [
+            "recdylKpWep053xYN",
+            "recVggTJMmAbOyMAC"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "lmcdermott4@huskers.unl.edu",
+            "id": "usrybIbbbp5jn3ArW",
+            "name": "Luke McDermott"
+        },
+        "Created time": "2023-06-28T19:13:30.000Z",
+        "ID": "hc.loc.000130",
+        "Name Markdown": "[St. Joseph Hospital (Omaha, Nebraska)](hc.loc.000130)",
+        "address": "12th & Mason Streets",
+        "airtable_createdTime": "2023-06-28T19:13:30.000Z",
+        "airtable_id": "recYaHV06bE2TLP3t",
+        "auto_gen_id": 130,
+        "case count3": 2,
+        "coordinate specificity": "building",
+        "count total": 2,
+        "county": "Douglas County",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas County, Nebraska",
+        "location subtype": [
+            "hospital"
+        ],
+        "location type": "site of significance",
+        "modern name": "Creighton University Medical Center - Bergan Mercy",
+        "name": "St. Joseph Hospital",
+        "primary field": "St. Joseph Hospital (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recs5jp0Voi58nX6c",
             "recKtVtpHsU4R7flc"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3725,7 +4989,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recYm7wgIMdB0IX5m",
         "auto_gen_id": 89,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "Tama",
         "latitude": "41.99725653638457",
         "locality": "Toledo",
@@ -3745,6 +5011,8 @@
             "recVbljWWnq2cSngr",
             "recbHDq9CTXnW9xOA"
         ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3756,7 +5024,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "reca91FKWq4BTnAfH",
         "auto_gen_id": 24,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -3771,9 +5041,14 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "recM8kSrNRQ7slXda"
+        ],
         "Cases 3": [
             "recd2NFSaOJ3ndC0u"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3785,7 +5060,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recaAeh6wfp0ju25a",
         "auto_gen_id": 102,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "Sarpy",
         "latitude": "41.15498703561528",
         "locality": "Papillion",
@@ -3793,11 +5070,47 @@
         "location subtype": [
             "state district court"
         ],
-        "location type": "site of significance",
+        "location type": "court, site of significance",
         "longitude": "-96.04366946019992",
         "name": "Sarpy County District Court",
         "primary field": "Sarpy County District Court (Papillion, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recL9kboQi41iHvBz"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "szuniga5@huskers.unl.edu",
+            "id": "usryL2aUoq2PVR4Ls",
+            "name": "Santiago Zuniga"
+        },
+        "Created time": "2023-06-28T19:51:47.000Z",
+        "ID": "hc.loc.000131",
+        "Name Markdown": "[The District Court of the Fourth Judicial District County of Hennepin and State of Minnesota (Minneapolis, Minnesota)](hc.loc.000131)",
+        "address": "Hennepin County Government Center, 300 South 6th St, Minneapolis, MN 55487",
+        "airtable_createdTime": "2023-06-28T19:51:47.000Z",
+        "airtable_id": "recaHK1UaQxsLZmpw",
+        "alternative name": "Hennepin County District Court",
+        "auto_gen_id": 131,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Hennepin",
+        "latitude": "44.97569344408326",
+        "locality": "Minneapolis",
+        "locality_built": "Minneapolis, Hennepin, Minnesota",
+        "location subtype": [
+            "state district court"
+        ],
+        "location type": "site of significance",
+        "longitude": "-93.2663885291095",
+        "modern name": "Hennepin County District Court",
+        "name": "The District Court of the Fourth Judicial District County of Hennepin and State of Minnesota",
+        "primary field": "The District Court of the Fourth Judicial District County of Hennepin and State of Minnesota (Minneapolis, Minnesota)",
+        "state": "Minnesota"
     },
     {
         "Cases": [
@@ -3823,6 +5136,8 @@
             "recueMvH0fujDSOOm",
             "recpOMzFBeENxqp8j"
         ],
+        "Cases count1": 21,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3834,7 +5149,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recadkXX4dj2WbMGS",
         "auto_gen_id": 25,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 21,
         "county": "Adams",
         "latitude": "40.58566558595385",
         "locality": "Hastings",
@@ -3852,6 +5169,8 @@
         "Cases 3": [
             "recS2wcuDwPt8fBIy"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3863,7 +5182,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recafVRgwcj81T9Cc",
         "auto_gen_id": 100,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "St. Louis",
         "latitude": "38.7206137726412",
         "locality": "Normandy",
@@ -3882,8 +5203,12 @@
             "recKke5Zod5fF19XJ",
             "rec92TnNbUaCCo6Qr",
             "recFONwsmm8NRjcCr",
-            "recDb6mBFMrSg5dvW"
+            "recDb6mBFMrSg5dvW",
+            "recMe0w1UFl6dvhj5",
+            "recZYndatp2TcijTJ"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3896,7 +5221,9 @@
         "airtable_id": "recanI5tOghLGWtVz",
         "alternative name": "State Industrial School",
         "auto_gen_id": 101,
+        "case count3": 6,
         "coordinate specificity": "locality",
+        "count total": 6,
         "county": "Bufallo",
         "latitude": "40.69973638490308",
         "locality": "Kearney",
@@ -3914,6 +5241,8 @@
         "Cases 3": [
             "recZ2gBoU3PjSMvre"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3925,7 +5254,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recbEtnFM6ucUvyIp",
         "auto_gen_id": 105,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Multnomah",
         "latitude": "45.51649819397552",
         "locality": "Portland",
@@ -3945,6 +5276,8 @@
             "recdrm7tTmm22mcVx",
             "rec9aUflJOZoowvj7"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3956,7 +5289,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recblOxxm6J0j28GS",
         "auto_gen_id": 103,
+        "case count3": 3,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -3974,6 +5309,8 @@
         "Cases 3": [
             "recD4vt2HhieOhMt6"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3985,7 +5322,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recblyYddAP8PmNEZ",
         "auto_gen_id": 104,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -4004,6 +5343,8 @@
             "recrPvpFIhNy7LAZ7",
             "recwV5STKhk9SlrLQ"
         ],
+        "Cases count1": 2,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4015,7 +5356,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recbrpp77IICDKOHl",
         "auto_gen_id": 26,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "NA",
         "latitude": "57.083653188587654",
         "locality": "Sitka",
@@ -4031,8 +5374,43 @@
     },
     {
         "Cases 3": [
+            "rec4lxbkjuoUkk7LC"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-29T17:34:29.000Z",
+        "ID": "hc.loc.000137",
+        "Name Markdown": "[Common Jail of Dodge County (Fremont, Nebraska)](hc.loc.000137)",
+        "airtable_createdTime": "2023-06-29T17:34:29.000Z",
+        "airtable_id": "recbspAI5hIDQoaMb",
+        "auto_gen_id": 137,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Dodge",
+        "latitude": "41.433513873530735",
+        "locality": "Fremont",
+        "locality_built": "Fremont, Dodge, Nebraska",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-96.49835481539272",
+        "name": "Common Jail of Dodge County",
+        "primary field": "Common Jail of Dodge County (Fremont, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recEQo0SlW4lkIkf9"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4044,7 +5422,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "reccTjldO5aj8qXeJ",
         "auto_gen_id": 106,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -4060,8 +5440,11 @@
     },
     {
         "Cases 3": [
-            "recDABmBkvUOpcVYa"
+            "recDABmBkvUOpcVYa",
+            "rec6Hn0mE8WPVEkr8"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4074,7 +5457,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recdkn884GNP4zER7",
         "auto_gen_id": 107,
+        "case count3": 2,
         "coordinate specificity": "building",
+        "count total": 2,
         "county": "Gage",
         "latitude": "40.27320070238985",
         "locality": "Beatrice",
@@ -4094,6 +5479,8 @@
             "recrPvpFIhNy7LAZ7",
             "recwV5STKhk9SlrLQ"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4105,7 +5492,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recdpY89I5F50iW0T",
         "auto_gen_id": 108,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "NA",
         "latitude": "57.083653188587654",
         "locality": "Sitka",
@@ -4127,6 +5516,8 @@
             "recMaIUVWSdyHwSD7",
             "recFmVzaTpr3l06FN"
         ],
+        "Cases count1": 5,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4138,7 +5529,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "receAKTH6y8XnG8rx",
         "auto_gen_id": 27,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 5,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -4157,6 +5550,8 @@
             "recrNW7I33MdKsEQM",
             "recVjFVDVTawuJ3ls"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4168,7 +5563,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "receCKffkLMw8tGlR",
         "auto_gen_id": 111,
+        "case count3": 2,
         "coordinate specificity": "county",
+        "count total": 2,
         "county": "Dawes",
         "latitude": "42.718265873409216",
         "locality": "Unspecified",
@@ -4184,8 +5581,13 @@
     },
     {
         "Cases 3": [
-            "recfVdyOcsWnWuuEo"
+            "recfVdyOcsWnWuuEo",
+            "recThSkAnYYMOHf8T",
+            "recbeWSZFDxGa8PCn",
+            "rec6Hn0mE8WPVEkr8"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4196,8 +5598,11 @@
         "Name Markdown": "[The Nebraska Girls' Industrial School (Geneva, Nebraska)](hc.loc.000109)",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "receHKc04EsnP1Hko",
+        "alternative name": "Girls Industrial School",
         "auto_gen_id": 109,
+        "case count3": 4,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "Fillmore",
         "latitude": "40.52694728727041",
         "locality": "Geneva",
@@ -4215,6 +5620,8 @@
         "Cases 3": [
             "recUZnwTchHAw9erS"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4226,7 +5633,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recel2iUkrS3ygbsc",
         "auto_gen_id": 110,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -4242,32 +5651,38 @@
     },
     {
         "Cases 3": [
-            "recThSkAnYYMOHf8T",
-            "recbeWSZFDxGa8PCn"
+            "recibuYUNip9U3nY5",
+            "recJgLHgQuH4e56o7",
+            "recictDb08r8pJpvl"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
-            "email": "cyoung46@unl.edu",
-            "id": "usruK6Q7ifitzmUZM",
-            "name": "Cory Young"
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
         },
-        "Created time": "2023-05-16T18:03:08.000Z",
-        "ID": "hc.loc.000113",
-        "Name Markdown": "[Girls Industrial School (Geneva, Nebraska)](hc.loc.000113)",
-        "airtable_createdTime": "2023-05-16T18:03:08.000Z",
-        "airtable_id": "recf51M95Jazgh80v",
-        "auto_gen_id": 113,
+        "Created time": "2023-06-29T19:08:44.000Z",
+        "ID": "hc.loc.000139",
+        "Name Markdown": "[Lincoln County Jail (North Platte, Nebraska)](hc.loc.000139)",
+        "address": "302 N Jeffers St, North Platte, NE 69101",
+        "airtable_createdTime": "2023-06-29T19:08:44.000Z",
+        "airtable_id": "recf6PgVP3IcqUBXH",
+        "auto_gen_id": 139,
+        "case count3": 3,
         "coordinate specificity": "locality",
-        "county": "Fillmore",
-        "latitude": "40.52694728727041",
-        "locality": "Geneva",
-        "locality_built": "Geneva, Fillmore, Nebraska",
+        "count total": 3,
+        "county": "Lincoln",
+        "latitude": "41.135771575006686",
+        "locality": "North Platte",
+        "locality_built": "North Platte, Lincoln, Nebraska",
         "location subtype": [
-            "juvenile facility"
+            "carceral facility"
         ],
         "location type": "site of significance",
-        "longitude": "-97.59592425067324",
-        "name": "Girls Industrial School",
-        "primary field": "Girls Industrial School (Geneva, Nebraska)",
+        "longitude": "-100.76387885397084",
+        "name": "Lincoln County Jail",
+        "primary field": "Lincoln County Jail (North Platte, Nebraska)",
         "state": "Nebraska"
     },
     {
@@ -4275,6 +5690,8 @@
             "recSaTEvhL4UNyzpz",
             "rec2FiBB43zXpgrNj"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4286,7 +5703,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recfIyaVayXX7AYS6",
         "auto_gen_id": 112,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -4307,6 +5726,8 @@
             "reczuaEcyS772V2Pv",
             "recKMDe7HMgF6aHoB"
         ],
+        "Cases count1": 4,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4318,7 +5739,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recfSqfYaCMEri46F",
         "auto_gen_id": 28,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -4338,6 +5761,8 @@
             "recl0pxHhTTHsZxsZ",
             "recwB0ArAF6k4tnqg"
         ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4349,7 +5774,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recgiPm6YWodawffm",
         "auto_gen_id": 29,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Spokane",
         "latitude": "47.48760847901377",
         "locality": "Cheney",
@@ -4390,6 +5817,8 @@
             "rectzTRdrVibYmjsc",
             "recEDc7jojFUiGm4B"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4401,7 +5830,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rech43J6ZwJxzBkSB",
         "auto_gen_id": 114,
+        "case count3": 24,
         "coordinate specificity": "locality",
+        "count total": 24,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -4414,6 +5845,25 @@
         "name": "Jefferson Barracks",
         "primary field": "Jefferson Barracks (St. Louis, Missouri)",
         "state": "Missouri"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-06-29T18:26:17.000Z",
+        "ID": "hc.loc.000138",
+        "Name Markdown": "[ (, )](hc.loc.000138)",
+        "airtable_createdTime": "2023-06-29T18:26:17.000Z",
+        "airtable_id": "rech6GibzcqlvqMxv",
+        "auto_gen_id": 138,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
     },
     {
         "Cases": [
@@ -4523,6 +5973,8 @@
             "recrzL0PEXusiE9mY",
             "rec3MbDnBtK2nAM4b"
         ],
+        "Cases count1": 105,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4534,7 +5986,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "reci5bDHxcars5Art",
         "auto_gen_id": 30,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 105,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -4552,6 +6006,8 @@
         "Cases 3": [
             "recH2zFlLrk7QqaME"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4563,7 +6019,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recijqqC9jXBeUas9",
         "auto_gen_id": 115,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Pierce",
         "latitude": "47.17234218823997",
         "locality": "Lakewood",
@@ -4581,6 +6039,8 @@
         "Cases 3": [
             "rec2IZ7I5uWUHSW0Q"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4592,7 +6052,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recjHmtTaj5YVaSGK",
         "auto_gen_id": 116,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -4737,6 +6199,8 @@
             "recwRcEiG4l3zoAOU",
             "recMshB4O2aLuTVhs"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 128,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4749,7 +6213,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recjWSYLwuwa14PjC",
         "auto_gen_id": 41,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 128,
         "county": "St. Louis",
         "latitude": "38.62724528672096",
         "locality": "St. Louis",
@@ -4768,6 +6234,8 @@
             "recAIQZyOS3SLkIcK",
             "recsrU68lRgn3qTJ0"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4779,7 +6247,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "reckGITqap2TctcO2",
         "auto_gen_id": 117,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "New York",
         "latitude": "40.69970258724933",
         "locality": "New York",
@@ -4797,6 +6267,8 @@
         "Cases 3": [
             "recrzzDo1jmFtbH3u"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4808,7 +6280,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "reckHRLYJqDn5tXXN",
         "auto_gen_id": 118,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Henry",
         "latitude": "40.971976528632915",
         "locality": "Mt. Pleasant",
@@ -4827,6 +6301,8 @@
             "recjnaRbf7t2spMAN",
             "recqvOBSbAxSUJXJv"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 2,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4839,7 +6315,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "reckXxo6qScsjord2",
         "auto_gen_id": 42,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 2,
         "county": "Maricopa",
         "latitude": "33.445959758496954",
         "locality": "Phoenix",
@@ -4860,6 +6338,8 @@
             "recV7MOe8tSShWQZ2",
             "recFmVzaTpr3l06FN"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4871,7 +6351,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recke2U956x00j81N",
         "auto_gen_id": 120,
+        "case count3": 4,
         "coordinate specificity": "locality",
+        "count total": 4,
         "county": "Marion",
         "latitude": "44.942591106594755",
         "locality": "Salem",
@@ -4889,6 +6371,8 @@
         "Cases 3": [
             "recjrLFuCqpLTsHMK"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4902,7 +6386,9 @@
         "airtable_id": "reckwn3JrbuhTcF64",
         "alternative name": "Fort David Allen Russell",
         "auto_gen_id": 119,
+        "case count3": 1,
         "coordinate specificity": "building",
+        "count total": 1,
         "county": "Laramie",
         "latitude": "41.147406377058225",
         "locality": "Cheyenne",
@@ -4921,6 +6407,8 @@
         "Cases 3": [
             "recaSa6nbm6d39bBw"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4932,7 +6420,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recly8bjOFryL22Mq",
         "auto_gen_id": 121,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Kitsap",
         "latitude": "47.60001662696626",
         "locality": "Port Blakely",
@@ -4952,6 +6442,8 @@
             "recrPvpFIhNy7LAZ7",
             "recwV5STKhk9SlrLQ"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 3,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4964,7 +6456,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recmIF58wnK6ZmTZw",
         "auto_gen_id": 43,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 3,
         "county": "NA",
         "latitude": "58.300314727293475",
         "locality": "Juneau",
@@ -4985,6 +6479,8 @@
             "recdrm7tTmm22mcVx",
             "recFmVzaTpr3l06FN"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 4,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4997,7 +6493,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recmwiDuecg8hT0ug",
         "auto_gen_id": 44,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 4,
         "county": "Marion",
         "latitude": "44.94002372038744",
         "locality": "Salem",
@@ -5015,6 +6513,8 @@
         "Cases": [
             "reclWII8xvfJ772Ed"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5026,7 +6526,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recmxka6SRu2qYK3C",
         "auto_gen_id": 31,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "38.97255435220533",
         "locality": "Lawrence",
@@ -5044,6 +6546,8 @@
         "Cases 3": [
             "rec4YiWJTy41CAyWH"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5055,7 +6559,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recnIEyZHNlO89ToI",
         "auto_gen_id": 60,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "NA",
         "latitude": "47.60682112835133",
         "locality": "Puget Sound",
@@ -5073,6 +6579,8 @@
         "Cases 3": [
             "recTzZPFIS9gYy5t4"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5084,7 +6592,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recnYxAmefdz2OzoM",
         "auto_gen_id": 61,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Umatilla",
         "latitude": "45.665208597224954",
         "locality": "Umatilla Reservation",
@@ -5128,8 +6638,27 @@
             "recgIGomDNNtKVwAF",
             "rec8ItJx8L61OPx3O",
             "rec74LkVhPwTLEfLL",
-            "recnXgWaffZtlE4XA"
+            "recnXgWaffZtlE4XA",
+            "rec1bS9iQ27RtMpZq",
+            "recZuCEPaw5UXjslg",
+            "rect2pt2iz3iqMTJA",
+            "rec4lxbkjuoUkk7LC",
+            "recdEX5ksdGCrubmG",
+            "recibuYUNip9U3nY5",
+            "recuWQU8d6caXfdAV",
+            "recJgLHgQuH4e56o7",
+            "recTq65ACuMMMEXce",
+            "recictDb08r8pJpvl",
+            "recHAOy8sWwHLJwZp",
+            "recjTekAXIPg7fErD",
+            "rec78NrKezboCRJkS",
+            "recr7YRPR2nNbFs5H",
+            "recM7ycwysZjXVshV",
+            "recpV51rwXWKj0lad",
+            "recUalKQAzildHRdM"
         ],
+        "Cases count1": 46,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5137,28 +6666,32 @@
         },
         "Created time": "2023-05-16T17:55:21.000Z",
         "ID": "hc.loc.000006",
-        "Name Markdown": "[US District Court for the Omaha Division of the District of Nebraska (Falls City, Nebraska)](hc.loc.000006)",
+        "Name Markdown": "[US District Court for the Omaha Division of the District of Nebraska (Omaha, Nebraska)](hc.loc.000006)",
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recnrRoyJEDwUjyC2",
         "auto_gen_id": 6,
+        "case count3": 0,
         "coordinate specificity": "locality",
-        "county": "Richards",
-        "latitude": "40.06113673033338",
-        "locality": "Falls City",
-        "locality_built": "Falls City, Richards, Nebraska",
+        "count total": 46,
+        "county": "Douglas",
+        "latitude": "41.258611",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
         "location subtype": [
             "federal district court"
         ],
         "location type": "court",
-        "longitude": "-95.60216505558714",
+        "longitude": "-95.9375",
         "name": "US District Court for the Omaha Division of the District of Nebraska",
-        "primary field": "US District Court for the Omaha Division of the District of Nebraska (Falls City, Nebraska)",
+        "primary field": "US District Court for the Omaha Division of the District of Nebraska (Omaha, Nebraska)",
         "state": "Nebraska"
     },
     {
         "Cases 3": [
             "recaosjse68wXgs2q"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5170,7 +6703,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recoDhpsMuzcgYFsQ",
         "auto_gen_id": 63,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5188,6 +6723,8 @@
         "Cases 3": [
             "recZyMA8Cm8BNbNaG"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5199,7 +6736,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recowFNNVuZ0F8F3M",
         "auto_gen_id": 62,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -5218,6 +6757,8 @@
             "recnQ2uYmAczZrvhd",
             "recge6BJKrBnoVDX6"
         ],
+        "Cases count1": 2,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5229,7 +6770,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recpKt5pMHQjHyQkB",
         "auto_gen_id": 7,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5247,6 +6790,8 @@
         "Cases": [
             "rectY73AkN8ppGHbP"
         ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5258,7 +6803,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recpSNXUVPQmanhY4",
         "auto_gen_id": 8,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "NA",
         "latitude": "58.33171128052053",
         "locality": "Juneau",
@@ -5276,6 +6823,8 @@
         "Cases 3": [
             "recdrm7tTmm22mcVx"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5287,7 +6836,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recpUOiBkcj5UzIEd",
         "auto_gen_id": 65,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Multnomah",
         "latitude": "45.51649819397552",
         "locality": "Portland",
@@ -5305,6 +6856,8 @@
         "Cases 3": [
             "recGLtHiq1cCrdkav"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5316,7 +6869,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recpwDyy09kksYHSW",
         "auto_gen_id": 64,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -5328,6 +6883,47 @@
         "longitude": "-95.93911292745457",
         "name": "School For Girls",
         "primary field": "School For Girls (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recb2K46xY7G9ClSm",
+            "recdylKpWep053xYN",
+            "recpK3Pf0f7DbeO6o",
+            "rec2z8CH3nGgAmkd3",
+            "recpx58E50ndPKzze",
+            "recuFTXTkgYlfkxNX",
+            "recLHkDJ1EVGtlZyz",
+            "recZvnfAE2tzbiytU"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aschwensen2@huskers.unl.edu",
+            "id": "usr2yKc4n9Dj481mY",
+            "name": "Amelia Schwensen"
+        },
+        "Created time": "2023-06-29T20:30:44.000Z",
+        "ID": "hc.loc.000141",
+        "Name Markdown": "[Detention Home (Omaha, Nebraska)](hc.loc.000141)",
+        "address": "22nd and St. Mary's Ave.",
+        "airtable_createdTime": "2023-06-29T20:30:44.000Z",
+        "airtable_id": "recqVk3yto2FoBUon",
+        "auto_gen_id": 141,
+        "case count3": 8,
+        "coordinate specificity": "building",
+        "count total": 8,
+        "county": "Douglas",
+        "latitude": "41.254142731582505",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas, Nebraska",
+        "location subtype": [
+            "detention hospital"
+        ],
+        "location type": "site of significance",
+        "longitude": "-95.94472670363574",
+        "name": "Detention Home",
+        "primary field": "Detention Home (Omaha, Nebraska)",
         "state": "Nebraska"
     },
     {
@@ -5563,6 +7159,8 @@
             "recbNdNKhmhmuiK3i",
             "recouyVfGGUmDpxbI"
         ],
+        "Cases count1": 230,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5574,7 +7172,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recrPKDn4vk39xFLZ",
         "auto_gen_id": 9,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 230,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -5590,8 +7190,12 @@
     },
     {
         "Cases 3": [
-            "recGeHRdqEvUqSAD8"
+            "recGeHRdqEvUqSAD8",
+            "rec0kv3QGKMtYSchA",
+            "recBDadO7JzgwvfS5"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5603,7 +7207,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recs1BbN9ebdDSMu1",
         "auto_gen_id": 66,
+        "case count3": 3,
         "coordinate specificity": "locality",
+        "count total": 3,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -5621,6 +7227,8 @@
         "Cases 3": [
             "recRlo9R1QNbGKlvl"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5632,7 +7240,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rectyPa1envhh0WOv",
         "auto_gen_id": 67,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Thurston",
         "latitude": "47.0380465819904",
         "locality": "Olympia",
@@ -5667,6 +7277,8 @@
             "recnbCyThhKd2Tg05",
             "recV0yFlwJmSc645O"
         ],
+        "Cases count1": 18,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5678,7 +7290,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recug2yqFO0AY5MXE",
         "auto_gen_id": 10,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 18,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -5697,6 +7311,8 @@
             "rec4VVnEhfYtS99Ry",
             "recb1LHIKtfnpqJCu"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5709,7 +7325,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recug3lXgmj8WkQAO",
         "auto_gen_id": 68,
+        "case count3": 2,
         "coordinate specificity": "building",
+        "count total": 2,
         "county": "Lancaster",
         "latitude": "40.808177730924136",
         "locality": "Lincoln",
@@ -5782,8 +7400,28 @@
             "recgIGomDNNtKVwAF",
             "rec8ItJx8L61OPx3O",
             "rec74LkVhPwTLEfLL",
-            "recnXgWaffZtlE4XA"
+            "recnXgWaffZtlE4XA",
+            "rec1bS9iQ27RtMpZq",
+            "rec98qJyEuLUjTzqk",
+            "rec4lxbkjuoUkk7LC",
+            "recZuCEPaw5UXjslg",
+            "rect2pt2iz3iqMTJA",
+            "recdEX5ksdGCrubmG",
+            "recibuYUNip9U3nY5",
+            "recuWQU8d6caXfdAV",
+            "recJgLHgQuH4e56o7",
+            "recTq65ACuMMMEXce",
+            "recictDb08r8pJpvl",
+            "recHAOy8sWwHLJwZp",
+            "recjTekAXIPg7fErD",
+            "rec78NrKezboCRJkS",
+            "recr7YRPR2nNbFs5H",
+            "recM7ycwysZjXVshV",
+            "recpV51rwXWKj0lad",
+            "recUalKQAzildHRdM"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 75,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5796,7 +7434,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recwWO8xXH2s0rmzZ",
         "auto_gen_id": 33,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 75,
         "county": "Jackson",
         "latitude": "39.087211541299496",
         "locality": "Kansas City",
@@ -5814,6 +7454,8 @@
         "Cases 3": [
             "recVbljWWnq2cSngr"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5825,7 +7467,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recx58rsjsuQ6Tlxh",
         "auto_gen_id": 70,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Pawnee",
         "latitude": "38.18102751420878",
         "locality": "Larned",
@@ -5843,6 +7487,8 @@
         "Cases 3": [
             "recUZnwTchHAw9erS"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5854,7 +7500,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recxwkrDuQUnkzdDI",
         "auto_gen_id": 69,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "Leavenworth",
         "latitude": "39.311709216387065",
         "locality": "Leavenworth",
@@ -5875,8 +7523,13 @@
             "recD6EvK4ni1nsjii",
             "recKamh5GnmRxQZq7",
             "recew4YEKx93uKQM0",
-            "recWcl7WyohzYG3Sv"
+            "recWcl7WyohzYG3Sv",
+            "recqGvAPJ4wRBDt7B",
+            "rec8avmbXL9i4ulv2",
+            "rec3FxkG6FlCceWsR"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5885,10 +7538,14 @@
         "Created time": "2023-05-16T18:03:08.000Z",
         "ID": "hc.loc.000071",
         "Name Markdown": "[Home of the Good Shepherd (Omaha, Nebraska)](hc.loc.000071)",
+        "address": "653 South 40th St.",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recy2yBJAkWqKrOss",
+        "alternative name": "House of the Good Shepherd",
         "auto_gen_id": 71,
+        "case count3": 9,
         "coordinate specificity": "locality",
+        "count total": 9,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -5906,6 +7563,8 @@
         "Cases 2": [
             "reck1ZLkp6vFNuV5A"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 1,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5918,7 +7577,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recyMkf0k1ADwKT1o",
         "auto_gen_id": 34,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 1,
         "county": "Whatcom",
         "latitude": "48.72622970867895",
         "locality": "Bellingham",
@@ -5977,6 +7638,8 @@
             "recNP6WDkRbbFTSbh",
             "recw3BIAVE4lMZVfN"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 42,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5989,7 +7652,9 @@
         "airtable_createdTime": "2023-05-16T18:02:22.000Z",
         "airtable_id": "recyVqwXzpqhbJiW6",
         "auto_gen_id": 35,
+        "case count3": 0,
         "coordinate specificity": "building",
+        "count total": 42,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
@@ -6008,8 +7673,14 @@
             "recUy5fwfu5PBaQJf",
             "recaQ91Er71g28Rhh",
             "rec4YiWJTy41CAyWH",
-            "recIya5JfiS9xZyBF"
+            "recIya5JfiS9xZyBF",
+            "recZuCEPaw5UXjslg",
+            "rec4lxbkjuoUkk7LC",
+            "recuWQU8d6caXfdAV",
+            "recHAOy8sWwHLJwZp"
         ],
+        "Cases count1": 8,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -6021,7 +7692,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recyrm0g5ApeSczJ5",
         "auto_gen_id": 11,
+        "case count3": 0,
         "coordinate specificity": "locality",
+        "count total": 8,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -6037,9 +7710,41 @@
     },
     {
         "Cases 3": [
+            "rec3UasAWvov2fxVT"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-07-05T19:15:16.000Z",
+        "ID": "hc.loc.000149",
+        "Name Markdown": "[Nebraska Eastern Star Home (Fremont, Nebraska)](hc.loc.000149)",
+        "airtable_createdTime": "2023-07-05T19:15:16.000Z",
+        "airtable_id": "recz0dXb7mSIoCTuE",
+        "auto_gen_id": 149,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Dodge",
+        "locality": "Fremont",
+        "locality_built": "Fremont, Dodge, Nebraska",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Nebraska Eastern Star Home",
+        "primary field": "Nebraska Eastern Star Home (Fremont, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recALysKJLAGkauTj",
             "reckcL0tbojfrgGr4"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -6051,7 +7756,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recz3m6taaRXzsjac",
         "auto_gen_id": 73,
+        "case count3": 2,
         "coordinate specificity": "locality",
+        "count total": 2,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -6067,8 +7774,39 @@
     },
     {
         "Cases 3": [
+            "recztJ1BKaWIKVbS3"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "gkevin-aligah2@huskers.unl.edu",
+            "id": "usrpxZVz7f4wtkfiX",
+            "name": "Grace Kevin-Aligah"
+        },
+        "Created time": "2023-06-29T16:51:45.000Z",
+        "ID": "hc.loc.000136",
+        "Name Markdown": "[State Reformatory for Women (York, Nebraska)](hc.loc.000136)",
+        "airtable_createdTime": "2023-06-29T16:51:45.000Z",
+        "airtable_id": "recz7g7Ce9aPysf21",
+        "alternative name": "Women and Girls Reformatory",
+        "auto_gen_id": 136,
+        "case count3": 1,
+        "count total": 1,
+        "county": "York",
+        "locality": "York",
+        "locality_built": "York, York, Nebraska",
+        "location type": "site of significance",
+        "modern name": "Nebraska Correctional Center for Women",
+        "name": "State Reformatory for Women",
+        "primary field": "State Reformatory for Women (York, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recnmSdGn6uWw4GMM"
         ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -6080,7 +7818,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "reczx7yg1ogTeUucN",
         "auto_gen_id": 72,
+        "case count3": 1,
         "coordinate specificity": "locality",
+        "count total": 1,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
