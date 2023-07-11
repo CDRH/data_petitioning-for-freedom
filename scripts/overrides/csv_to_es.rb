@@ -192,8 +192,10 @@ class CsvToEs
       # TODO
     # end
   
-    def source
-      @row["Case Citation(s)"]
+    def citation
+      if @row["Case Citation(s)"]
+        { "title" => @row["Case Citation(s)"], "role" => "case citation" }
+      end
     end
   
     def title
