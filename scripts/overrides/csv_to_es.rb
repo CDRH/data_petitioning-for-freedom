@@ -185,7 +185,14 @@ class CsvToEs
     end 
   
     def rights_holder
-      parse_json("Repository")
+      repositories = []
+      if parse_json("Repository")
+        parse_json("Repository").each do |repository|
+          # all of these are in MD format [title](id) we only want title
+          repositories << parse_md_brackets(repository)
+        end
+      end
+      repositories
     end
   
     # def rights_uri
