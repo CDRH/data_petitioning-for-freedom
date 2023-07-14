@@ -38,9 +38,9 @@ class CsvToEsPerson < CsvToEs
       "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
     end
 
-    def source
+    def citation
       if @row["Demographic Source(s)"]
-        @row["Demographic Source(s)"]
+        { "title" => @row["Demographic Source(s)"], "role" => "demographic source" }
       end
     end
   
