@@ -116,6 +116,10 @@ class CsvToEs
       parse_json("Tags")
     end
 
+    def keywords3
+      parse_json("Case State")
+    end
+
     def person
       people = []
       if @row["RDF - person role case (from Case Role [join])"] && @row["RDF - person role case (from Case Role [join])"] != ""
