@@ -1,6 +1,40 @@
 [
     {
         "Cases 3": [
+            "recHK3ad1o7iM3Rn6"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-17T20:02:34.000Z",
+        "ID": "hc.loc.000156",
+        "Name Markdown": "[Whitman County Jail (Colfax, Washington)](hc.loc.000156)",
+        "address": "411 N Mill St, Colfax, WA 99111",
+        "airtable_createdTime": "2023-07-17T20:02:34.000Z",
+        "airtable_id": "rec0VT1BEFi3oEcPG",
+        "auto_gen_id": 156,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Whitman County",
+        "latitude": "46.8842418739456",
+        "locality": "Colfax",
+        "locality_built": "Colfax, Whitman County, Washington",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-117.36364493862202",
+        "name": "Whitman County Jail",
+        "primary field": "Whitman County Jail (Colfax, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recMMy2dx9NA7tZcD",
             "recKh2PFeAfU8IAsI",
             "recgXP4LfKjHn6fIh",
@@ -279,9 +313,12 @@
             "reckBsGFoYL9Dgy82",
             "recqBSlwW26PLi5vO",
             "recw672dm1x9BkIEt",
-            "receuqLRiAaAwnrqJ"
+            "receuqLRiAaAwnrqJ",
+            "recozrcBRJIAeJGSc",
+            "reco79kRJkjfHSqb3",
+            "reccHkRjZyBQPFvYW"
         ],
-        "Cases count1": 100,
+        "Cases count1": 103,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -296,7 +333,7 @@
         "auto_gen_id": 19,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 100,
+        "count total": 103,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -405,7 +442,8 @@
             "recSdmhMnPHf5phRs",
             "rec1r1gXNN15WfXs6",
             "rec1cOAQbWM2vD8yF",
-            "recmwjWoF1KHnsq2w"
+            "recmwjWoF1KHnsq2w",
+            "recmoCRHFbPfLeWJD"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -420,9 +458,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec3ibf9U52qIzfHS",
         "auto_gen_id": 96,
-        "case count3": 28,
+        "case count3": 29,
         "coordinate specificity": "locality",
-        "count total": 28,
+        "count total": 29,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -1104,7 +1142,67 @@
             "rechBoZOSlTf7qOLe",
             "recUrfJZVFfmOVwER",
             "recJ2YNRXc2QRcAad",
-            "recJdfmR0J56QsG3y"
+            "recJdfmR0J56QsG3y",
+            "rec8icBHX8ZDXvg1n",
+            "recAuu6LbFENtzSQF",
+            "recBYATsdFi8b1C69",
+            "recD8rDKrVrB2WLQI",
+            "recOvVB43vOOsYVKY",
+            "rec0uT9urUFdABHjp",
+            "rec2aJX9MkihAG1of",
+            "recbFSTsd0YR2fGHg",
+            "recx8XfQpC7vhZ983",
+            "recl4lsCKiE36C38z",
+            "recDGGfGgA9qHvWJe",
+            "recKxyfWOTIrA6kv3",
+            "recwki2PWzdVMdNhM",
+            "recwgjkMgMh4Nz7bE",
+            "recjcbhr97jtXEoiU",
+            "rec3ARFTIwiJh84H9",
+            "rec4qQ4CsrNiDSOZn",
+            "recPKFqSs0rtuKtEa",
+            "recwdzNmeHECkAwCt",
+            "recfLNgk9g9qOwjmp",
+            "recyIHT0wlipMjnWl",
+            "recBzf72r2VXAkAAK",
+            "rec6a0jPqtNZdfv2k",
+            "recLOnyYTdgIBbq1S",
+            "recgQM6Sw3bMizxM2",
+            "recDTgRq1gqjXboEb",
+            "recV3FvFz5rqjArTW",
+            "rec4LuOSttUDMifV0",
+            "rec8POpgXyYtg9GhI",
+            "recObbV5h8gQGEcEh",
+            "recSjfzHR7EmjRpOE",
+            "recnm6EccCopgyjE4",
+            "rec9SqfDtirqBucTQ",
+            "recFsEtgHQv5xw0TO",
+            "rec9ftDUVDq0OuCED",
+            "recskIiXRhjNHKzEn",
+            "recnDK6Xvs2ppXlEb",
+            "recfY5GufYKU6rIx1",
+            "recUgtBa5p0AbcCaQ",
+            "recFToNIgPCwrurNq",
+            "recJIwnS1xJhZOkw3",
+            "recNThwubSLujfIvH",
+            "recVxAdxdaNu5O9j4",
+            "recbMfFp2GiDEVVTF",
+            "rec1XVjRzTFjR7mAj",
+            "recVbXhrMeWbayK0h",
+            "recCqJonwrGVU1fRK",
+            "reczORkPTstS2OSa4",
+            "recNLXs8tUqsvmIVL",
+            "recB6Xgsc3iCwSnpu",
+            "recatqINCRj4nvDQs",
+            "recy6hAF7Q7KBl10l",
+            "recxF0GFej1K4Oq7q",
+            "recO5AFokyjrQfAbj",
+            "recyndNT37gS6QABq",
+            "recmfeJmpzaWcdGH6",
+            "recn8KfTL9Jr58sTy",
+            "recd3DjDhDZ1FAi4M",
+            "rec5wzfuGunHTLyNI",
+            "recmoCRHFbPfLeWJD"
         ],
         "Cases 2": [
             "recaxdh3RqiwgFi89",
@@ -1572,13 +1670,73 @@
             "rechBoZOSlTf7qOLe",
             "recUrfJZVFfmOVwER",
             "recJ2YNRXc2QRcAad",
-            "recJdfmR0J56QsG3y"
+            "recJdfmR0J56QsG3y",
+            "rec8icBHX8ZDXvg1n",
+            "recAuu6LbFENtzSQF",
+            "recBYATsdFi8b1C69",
+            "recD8rDKrVrB2WLQI",
+            "recOvVB43vOOsYVKY",
+            "rec0uT9urUFdABHjp",
+            "rec2aJX9MkihAG1of",
+            "recx8XfQpC7vhZ983",
+            "recbFSTsd0YR2fGHg",
+            "recKxyfWOTIrA6kv3",
+            "recl4lsCKiE36C38z",
+            "recDGGfGgA9qHvWJe",
+            "recwki2PWzdVMdNhM",
+            "recwgjkMgMh4Nz7bE",
+            "recjcbhr97jtXEoiU",
+            "rec4qQ4CsrNiDSOZn",
+            "recPKFqSs0rtuKtEa",
+            "recwdzNmeHECkAwCt",
+            "rec3ARFTIwiJh84H9",
+            "recfLNgk9g9qOwjmp",
+            "recyIHT0wlipMjnWl",
+            "recBzf72r2VXAkAAK",
+            "rec6a0jPqtNZdfv2k",
+            "recLOnyYTdgIBbq1S",
+            "recgQM6Sw3bMizxM2",
+            "recDTgRq1gqjXboEb",
+            "recV3FvFz5rqjArTW",
+            "rec4LuOSttUDMifV0",
+            "recnm6EccCopgyjE4",
+            "rec8POpgXyYtg9GhI",
+            "recObbV5h8gQGEcEh",
+            "recSjfzHR7EmjRpOE",
+            "rec9SqfDtirqBucTQ",
+            "recFsEtgHQv5xw0TO",
+            "rec9ftDUVDq0OuCED",
+            "recskIiXRhjNHKzEn",
+            "recnDK6Xvs2ppXlEb",
+            "recJIwnS1xJhZOkw3",
+            "recfY5GufYKU6rIx1",
+            "recUgtBa5p0AbcCaQ",
+            "recFToNIgPCwrurNq",
+            "recNThwubSLujfIvH",
+            "recVxAdxdaNu5O9j4",
+            "recbMfFp2GiDEVVTF",
+            "rec1XVjRzTFjR7mAj",
+            "recVbXhrMeWbayK0h",
+            "recCqJonwrGVU1fRK",
+            "reczORkPTstS2OSa4",
+            "recNLXs8tUqsvmIVL",
+            "recB6Xgsc3iCwSnpu",
+            "recy6hAF7Q7KBl10l",
+            "recxF0GFej1K4Oq7q",
+            "recO5AFokyjrQfAbj",
+            "recyndNT37gS6QABq",
+            "recmfeJmpzaWcdGH6",
+            "recn8KfTL9Jr58sTy",
+            "recd3DjDhDZ1FAi4M",
+            "rec5wzfuGunHTLyNI",
+            "recmoCRHFbPfLeWJD",
+            "recatqINCRj4nvDQs"
         ],
         "Cases 3": [
             "recA0VcmipGKc7Pjf"
         ],
-        "Cases count1": 637,
-        "Count (Cases 2)": 466,
+        "Cases count1": 697,
+        "Count (Cases 2)": 526,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1593,7 +1751,7 @@
         "auto_gen_id": 20,
         "case count3": 1,
         "coordinate specificity": "building",
-        "count total": 1104,
+        "count total": 1224,
         "county": "Douglas",
         "latitude": "41.257103404765104",
         "locality": "Omaha",
@@ -2330,10 +2488,12 @@
             "recwnBYbKij7aAdyB",
             "recTk0B4k2fJ8wa9Q",
             "recJ2YNRXc2QRcAad",
-            "recJdfmR0J56QsG3y"
+            "recJdfmR0J56QsG3y",
+            "recd3DjDhDZ1FAi4M",
+            "rec5wzfuGunHTLyNI"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 721,
+        "Count (Cases 2)": 723,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -2348,7 +2508,7 @@
         "auto_gen_id": 39,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 721,
+        "count total": 723,
         "county": "Lancaster",
         "latitude": "40.81743258995434",
         "locality": "Lincoln",
@@ -2694,6 +2854,37 @@
     },
     {
         "Cases 3": [
+            "recwdzNmeHECkAwCt"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "szuniga5@huskers.unl.edu",
+            "id": "usryL2aUoq2PVR4Ls",
+            "name": "Santiago Zuniga"
+        },
+        "Created time": "2023-07-11T15:31:53.000Z",
+        "ID": "hc.loc.000152",
+        "Name Markdown": "[Riverview Detention Home for Juveniles (Omaha, Nebraska)](hc.loc.000152)",
+        "Notes": "No current information about the modern condition of this institution",
+        "airtable_createdTime": "2023-07-11T15:31:53.000Z",
+        "airtable_id": "rec90LuLO3hJMO9dg",
+        "auto_gen_id": 152,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Douglas County",
+        "locality": "Omaha",
+        "locality_built": "Omaha, Douglas County, Nebraska",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Riverview Detention Home for Juveniles",
+        "primary field": "Riverview Detention Home for Juveniles (Omaha, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
             "recaXS5FOa6Mkp8VP",
             "recK9YewTyX9IGFED"
         ],
@@ -3028,7 +3219,8 @@
             "rectnOiWftnCYHXUv",
             "recEgMtJxAk8UKK7j",
             "rec9bAPk4K34pBUoK",
-            "recsXE6Kkuo6EKVg2"
+            "recsXE6Kkuo6EKVg2",
+            "recD8rDKrVrB2WLQI"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3043,9 +3235,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recC6rDe37PndFcLk",
         "auto_gen_id": 80,
-        "case count3": 6,
+        "case count3": 7,
         "coordinate specificity": "county",
-        "count total": 6,
+        "count total": 7,
         "county": "Douglas",
         "latitude": "41.305150702932416",
         "locality": "Unspecified",
@@ -3237,6 +3429,31 @@
     },
     {
         "Cases 3": [
+            "rec0IxvyaozlN5KqA"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "bdevalk2@huskers.unl.edu",
+            "id": "usrKgP3uxM9XvnC1f",
+            "name": "Brianna DeValk"
+        },
+        "Created time": "2023-07-14T17:59:04.000Z",
+        "ID": "hc.loc.000154",
+        "Name Markdown": "[Lummi Reservation (, Washington)](hc.loc.000154)",
+        "airtable_createdTime": "2023-07-14T17:59:04.000Z",
+        "airtable_id": "recE7GQiNZPCjNZQh",
+        "auto_gen_id": 154,
+        "case count3": 1,
+        "count total": 1,
+        "locality_built": ", , Washington",
+        "location type": "site of significance",
+        "name": "Lummi Reservation",
+        "primary field": "Lummi Reservation (, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "rec6nKUE7Q3G3NZvu"
         ],
         "Cases count1": 0,
@@ -3302,6 +3519,48 @@
         "longitude": "-96.5174407173083",
         "name": "Omaha Indian Reservation",
         "primary field": "Omaha Indian Reservation (Omaha Reservation, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
+        "Cases": [
+            "recRyvIVzEYULHwzm",
+            "rec1JBBZDerPxAhyt",
+            "recX0WTjRj06LGMXq"
+        ],
+        "Cases 2": [
+            "recRyvIVzEYULHwzm",
+            "rec1JBBZDerPxAhyt",
+            "recX0WTjRj06LGMXq"
+        ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 3,
+        "Created by": {
+            "email": "shayes15@huskers.unl.edu",
+            "id": "usr05qDhnpC0S1ouE",
+            "name": "Sophia Hayes"
+        },
+        "Created time": "2023-07-17T19:18:27.000Z",
+        "ID": "hc.loc.000155",
+        "Name Markdown": "[Gage County District Court (Beatrice, Nebraska)](hc.loc.000155)",
+        "address": "612 Grant St, Beatrice, NE 68310",
+        "airtable_createdTime": "2023-07-17T19:18:27.000Z",
+        "airtable_id": "recGhtYfpQ9ug2P1v",
+        "auto_gen_id": 155,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 6,
+        "county": "Gage",
+        "latitude": "40.271111",
+        "locality": "Beatrice",
+        "locality_built": "Beatrice, Gage, Nebraska",
+        "location subtype": [
+            "county court",
+            "state district court"
+        ],
+        "location type": "court, repository",
+        "longitude": "-96.745833",
+        "name": "Gage County District Court",
+        "primary field": "Gage County District Court (Beatrice, Nebraska)",
         "state": "Nebraska"
     },
     {
@@ -3409,9 +3668,10 @@
             "recQiZQXyCnFG1tsl",
             "recI3n8OOt3uDEipr",
             "recv7URLnfV9q2Adh",
-            "recw3BIAVE4lMZVfN"
+            "recw3BIAVE4lMZVfN",
+            "rec34aIdfepM4htqq"
         ],
-        "Cases count1": 4,
+        "Cases count1": 5,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -3426,7 +3686,7 @@
         "auto_gen_id": 15,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 4,
+        "count total": 5,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3448,7 +3708,9 @@
             "rec3vQ04ujHsTWKXo",
             "recxPHkgubsEcweO2",
             "recfutg3pRwUIUanj",
-            "recRJNADSuAQX8QqQ"
+            "recRJNADSuAQX8QqQ",
+            "rec8icBHX8ZDXvg1n",
+            "rec1XVjRzTFjR7mAj"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3463,8 +3725,8 @@
         "airtable_createdTime": "2023-06-27T16:36:07.000Z",
         "airtable_id": "recJOCGiQkMFvnlfS",
         "auto_gen_id": 126,
-        "case count3": 7,
-        "count total": 7,
+        "case count3": 9,
+        "count total": 9,
         "county": "Douglas County",
         "locality": "Omaha",
         "locality_built": "Omaha, Douglas County, Nebraska",
@@ -3475,6 +3737,38 @@
         "name": "Douglas County Jail",
         "primary field": "Douglas County Jail (Omaha, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases": [
+            "recxF0GFej1K4Oq7q"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-07-13T17:39:30.000Z",
+        "ID": "hc.loc.000153",
+        "Name Markdown": "[Atchison County District Court (Atchison, Kansas)](hc.loc.000153)",
+        "address": "https://www.bing.com/maps?&mepi=0~~Unknown~Address_Link&ty=18&q=Atchison%20District%20Court&ss=ypid.YN873x14843886606465091337&ppois=39.56591796875_-95.11943817138672_Atchison%20District%20Court_YN873x14843886606465091337~&cp=39.565918~-95.119438&v=2&sV=1",
+        "airtable_createdTime": "2023-07-13T17:39:30.000Z",
+        "airtable_id": "recJiMRDAeCUw1urq",
+        "auto_gen_id": 153,
+        "case count3": 0,
+        "count total": 1,
+        "county": "Atchison",
+        "locality": "Atchison",
+        "locality_built": "Atchison, Atchison, Kansas",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "modern name": "Atchison District Court",
+        "name": "Atchison County District Court",
+        "primary field": "Atchison County District Court (Atchison, Kansas)",
+        "state": "Kansas"
     },
     {
         "Cases count1": 0,
@@ -3707,10 +4001,16 @@
             "recR6kskdgG8XQoyi",
             "rec4IbxEAh7l1wV6O",
             "recl0pxHhTTHsZxsZ",
-            "recwB0ArAF6k4tnqg"
+            "recwB0ArAF6k4tnqg",
+            "rec9DZvH72X1QUZjS",
+            "recH554FJh9K2kHlT",
+            "recHK3ad1o7iM3Rn6",
+            "recqpEwCRpvQjJRMF",
+            "recIRfifBcCqzl5Nk",
+            "recrB1Vy2GtYbt9Se"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 6,
+        "Count (Cases 2)": 12,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3725,7 +4025,7 @@
         "auto_gen_id": 38,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 6,
+        "count total": 12,
         "county": "Spokane",
         "latitude": "47.48798702423552",
         "locality": "Cheney",
@@ -3841,9 +4141,13 @@
         "Cases": [
             "recyEAxGlJv7X9M4c",
             "recR6kskdgG8XQoyi",
-            "rec4IbxEAh7l1wV6O"
+            "rec4IbxEAh7l1wV6O",
+            "recqpEwCRpvQjJRMF",
+            "recHK3ad1o7iM3Rn6",
+            "rec9DZvH72X1QUZjS",
+            "recH554FJh9K2kHlT"
         ],
-        "Cases count1": 3,
+        "Cases count1": 7,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -3858,7 +4162,7 @@
         "auto_gen_id": 1,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 3,
+        "count total": 7,
         "county": "Whitman",
         "latitude": "46.88052309508629",
         "locality": "Colfax",
@@ -4280,10 +4584,11 @@
             "recqBSlwW26PLi5vO",
             "recw672dm1x9BkIEt",
             "receuqLRiAaAwnrqJ",
-            "recohtcVT3Q7iA4do"
+            "recohtcVT3Q7iA4do",
+            "reccHkRjZyBQPFvYW"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 99,
+        "Count (Cases 2)": 100,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4298,7 +4603,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 99,
+        "count total": 100,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -4317,12 +4622,14 @@
             "recpxwEt8n65U0fJu",
             "reckEjRVlRa4M9ceC",
             "recVQGTmFpKoGEznF",
-            "recRJNADSuAQX8QqQ"
+            "recRJNADSuAQX8QqQ",
+            "rec8icBHX8ZDXvg1n",
+            "rec1XVjRzTFjR7mAj"
         ],
         "Cases 2": [
             "recfutg3pRwUIUanj"
         ],
-        "Cases count1": 4,
+        "Cases count1": 6,
         "Count (Cases 2)": 1,
         "Created by": {
             "email": "mbrooks12@huskers.unl.edu",
@@ -4336,7 +4643,7 @@
         "airtable_id": "recRlv1SeUVEKcGd5",
         "auto_gen_id": 127,
         "case count3": 0,
-        "count total": 5,
+        "count total": 7,
         "county": "Douglas County",
         "locality": "Omaha",
         "locality_built": "Omaha, Douglas County, Nebraska",
@@ -4351,7 +4658,8 @@
     {
         "Cases 3": [
             "recSBTctozzAYzkMF",
-            "recztJ1BKaWIKVbS3"
+            "recztJ1BKaWIKVbS3",
+            "recoDhp0bXaHch5ix"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4366,9 +4674,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recSdSjt7e4cBBvMA",
         "auto_gen_id": 53,
-        "case count3": 2,
+        "case count3": 3,
         "coordinate specificity": "locality",
-        "count total": 2,
+        "count total": 3,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -4402,14 +4710,18 @@
             "recNU8Kurn49uX9Hu",
             "recggp14HuIN7DX4y",
             "reccoF9BXF4PxlUtc",
-            "rec2GSFmj0rvXbwAK"
+            "rec2GSFmj0rvXbwAK",
+            "recPKFqSs0rtuKtEa",
+            "recBzf72r2VXAkAAK",
+            "recatqINCRj4nvDQs"
         ],
         "Cases 2": [
             "recs3tCZH1fcvLwVW",
-            "reccoF9BXF4PxlUtc"
+            "reccoF9BXF4PxlUtc",
+            "recPKFqSs0rtuKtEa"
         ],
-        "Cases count1": 19,
-        "Count (Cases 2)": 2,
+        "Cases count1": 22,
+        "Count (Cases 2)": 3,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4423,7 +4735,7 @@
         "auto_gen_id": 3,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 21,
+        "count total": 25,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -4700,6 +5012,40 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "recaJ6I0ohNuXH651"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-18T16:25:59.000Z",
+        "ID": "hc.loc.000160",
+        "Name Markdown": "[District Court of the United States, District of Washington (Port Townsend, Washington)](hc.loc.000160)",
+        "address": "1820 Jefferson St, Port Townsend, WA 98368",
+        "airtable_createdTime": "2023-07-18T16:25:59.000Z",
+        "airtable_id": "recWNweyVtPeK9te9",
+        "auto_gen_id": 160,
+        "case count3": 0,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Jefferson",
+        "latitude": "48.112509001132544",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson, Washington",
+        "location subtype": [
+            "state district court"
+        ],
+        "location type": "court",
+        "longitude": "-122.76507588298884",
+        "name": "District Court of the United States, District of Washington",
+        "primary field": "District Court of the United States, District of Washington (Port Townsend, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases 3": [
             "reckWpFW1CH9UoVn6"
         ],
@@ -4736,9 +5082,14 @@
         "Cases": [
             "recnTk8hzZJiVrhqY",
             "recI3n8OOt3uDEipr",
-            "recCT72wjznIdIqou"
+            "recCT72wjznIdIqou",
+            "rec0IxvyaozlN5KqA",
+            "recjtxrSWeTD944vS",
+            "recQSczOMIW0AOhQD",
+            "recN1VqwvvEoouak7",
+            "reczNrrCajm95mEfr"
         ],
-        "Cases count1": 3,
+        "Cases count1": 8,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -4753,7 +5104,7 @@
         "auto_gen_id": 4,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 3,
+        "count total": 8,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5205,7 +5556,9 @@
             "recFONwsmm8NRjcCr",
             "recDb6mBFMrSg5dvW",
             "recMe0w1UFl6dvhj5",
-            "recZYndatp2TcijTJ"
+            "recZYndatp2TcijTJ",
+            "recBzf72r2VXAkAAK",
+            "recn8KfTL9Jr58sTy"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5221,9 +5574,9 @@
         "airtable_id": "recanI5tOghLGWtVz",
         "alternative name": "State Industrial School",
         "auto_gen_id": 101,
-        "case count3": 6,
+        "case count3": 8,
         "coordinate specificity": "locality",
-        "count total": 6,
+        "count total": 8,
         "county": "Bufallo",
         "latitude": "40.69973638490308",
         "locality": "Kearney",
@@ -5441,7 +5794,9 @@
     {
         "Cases 3": [
             "recDABmBkvUOpcVYa",
-            "rec6Hn0mE8WPVEkr8"
+            "rec6Hn0mE8WPVEkr8",
+            "recwki2PWzdVMdNhM",
+            "recRyvIVzEYULHwzm"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5456,10 +5811,11 @@
         "address": "3000 Lincoln St, Beatrice, NE 68310",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recdkn884GNP4zER7",
+        "alternative name": "Nebraska Institution for the Feeble Minded",
         "auto_gen_id": 107,
-        "case count3": 2,
+        "case count3": 4,
         "coordinate specificity": "building",
-        "count total": 2,
+        "count total": 4,
         "county": "Gage",
         "latitude": "40.27320070238985",
         "locality": "Beatrice",
@@ -5584,7 +5940,8 @@
             "recfVdyOcsWnWuuEo",
             "recThSkAnYYMOHf8T",
             "recbeWSZFDxGa8PCn",
-            "rec6Hn0mE8WPVEkr8"
+            "rec6Hn0mE8WPVEkr8",
+            "recRyvIVzEYULHwzm"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5600,9 +5957,9 @@
         "airtable_id": "receHKc04EsnP1Hko",
         "alternative name": "Girls Industrial School",
         "auto_gen_id": 109,
-        "case count3": 4,
+        "case count3": 5,
         "coordinate specificity": "locality",
-        "count total": 4,
+        "count total": 5,
         "county": "Fillmore",
         "latitude": "40.52694728727041",
         "locality": "Geneva",
@@ -5759,9 +6116,10 @@
         "Cases": [
             "recBKJQzWQrZxu6Ua",
             "recl0pxHhTTHsZxsZ",
-            "recwB0ArAF6k4tnqg"
+            "recwB0ArAF6k4tnqg",
+            "receOAncJ8qBIq6th"
         ],
-        "Cases count1": 3,
+        "Cases count1": 4,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -5776,7 +6134,7 @@
         "auto_gen_id": 29,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 3,
+        "count total": 4,
         "county": "Spokane",
         "latitude": "47.48760847901377",
         "locality": "Cheney",
@@ -6228,6 +6586,26 @@
         "name": "Missouri State Archives-St. Louis",
         "primary field": "Missouri State Archives-St. Louis (St. Louis, Missouri)",
         "state": "Missouri"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-18T16:23:40.000Z",
+        "ID": "hc.loc.000159",
+        "Name Markdown": "[District Court of the (, )](hc.loc.000159)",
+        "airtable_createdTime": "2023-07-18T16:23:40.000Z",
+        "airtable_id": "reck3hmkTzK7QdeyD",
+        "auto_gen_id": 159,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "name": "District Court of the",
+        "primary field": "District Court of the (, )"
     },
     {
         "Cases 3": [
@@ -6894,7 +7272,8 @@
             "recpx58E50ndPKzze",
             "recuFTXTkgYlfkxNX",
             "recLHkDJ1EVGtlZyz",
-            "recZvnfAE2tzbiytU"
+            "recZvnfAE2tzbiytU",
+            "recgQM6Sw3bMizxM2"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -6910,9 +7289,9 @@
         "airtable_createdTime": "2023-06-29T20:30:44.000Z",
         "airtable_id": "recqVk3yto2FoBUon",
         "auto_gen_id": 141,
-        "case count3": 8,
+        "case count3": 9,
         "coordinate specificity": "building",
-        "count total": 8,
+        "count total": 9,
         "county": "Douglas",
         "latitude": "41.254142731582505",
         "locality": "Omaha",
@@ -7343,6 +7722,40 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "rec1JBBZDerPxAhyt"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "shayes15@huskers.unl.edu",
+            "id": "usr05qDhnpC0S1ouE",
+            "name": "Sophia Hayes"
+        },
+        "Created time": "2023-07-18T16:16:41.000Z",
+        "ID": "hc.loc.000158",
+        "Name Markdown": "[Gage County Court (Beatrice, Nebraska)](hc.loc.000158)",
+        "address": "612 Grant St, Beatrice, NE 68310",
+        "airtable_createdTime": "2023-07-18T16:16:41.000Z",
+        "airtable_id": "recv8pnV6qOrXjBAv",
+        "auto_gen_id": 158,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Gage",
+        "latitude": "40.271111",
+        "locality": "Beatrice",
+        "locality_built": "Beatrice, Gage, Nebraska",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "longitude": "-96.745833",
+        "name": "Gage County Court",
+        "primary field": "Gage County Court (Beatrice, Nebraska)",
+        "state": "Nebraska"
+    },
+    {
         "Cases 2": [
             "recs5jp0Voi58nX6c",
             "reclt4jJcm0ic8cR7",
@@ -7485,6 +7898,41 @@
     },
     {
         "Cases 3": [
+            "recqpEwCRpvQjJRMF"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-17T20:07:16.000Z",
+        "ID": "hc.loc.000157",
+        "Name Markdown": "[Columbia County Jail (Dayton, Washington)](hc.loc.000157)",
+        "address": "341 E Main St #1, Dayton, WA 99328",
+        "airtable_createdTime": "2023-07-17T20:07:16.000Z",
+        "airtable_id": "recxilToHezmUrHf7",
+        "auto_gen_id": 157,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Columbia County",
+        "latitude": "46.321368",
+        "locality": "Dayton",
+        "locality_built": "Dayton, Columbia County, Washington",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-117.978871",
+        "modern name": "Columbia County Sheriff's Department",
+        "name": "Columbia County Jail",
+        "primary field": "Columbia County Jail (Dayton, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recUZnwTchHAw9erS"
         ],
         "Cases count1": 0,
@@ -7561,10 +8009,13 @@
     },
     {
         "Cases 2": [
-            "reck1ZLkp6vFNuV5A"
+            "reck1ZLkp6vFNuV5A",
+            "recozrcBRJIAeJGSc",
+            "reco79kRJkjfHSqb3",
+            "recaJ6I0ohNuXH651"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 1,
+        "Count (Cases 2)": 4,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -7579,7 +8030,7 @@
         "auto_gen_id": 34,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 1,
+        "count total": 4,
         "county": "Whatcom",
         "latitude": "48.72622970867895",
         "locality": "Bellingham",
@@ -7636,10 +8087,16 @@
             "recsrU68lRgn3qTJ0",
             "recv7URLnfV9q2Adh",
             "recNP6WDkRbbFTSbh",
-            "recw3BIAVE4lMZVfN"
+            "recw3BIAVE4lMZVfN",
+            "rec0IxvyaozlN5KqA",
+            "recjtxrSWeTD944vS",
+            "recQSczOMIW0AOhQD",
+            "recN1VqwvvEoouak7",
+            "rec34aIdfepM4htqq",
+            "reczNrrCajm95mEfr"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 42,
+        "Count (Cases 2)": 48,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -7654,7 +8111,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 42,
+        "count total": 48,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
