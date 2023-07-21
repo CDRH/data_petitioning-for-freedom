@@ -54,10 +54,10 @@ class TeiToEs
   #   # TODO
   # end
 
-  def source
+  def has_source
     #regex to determine case_id from filename, just strip off last part
     caseid = @id[/hc.case.[a-z]{2}.\d{4}/]
-    caseid
+    { "id" => caseid }
   end
 
   def language

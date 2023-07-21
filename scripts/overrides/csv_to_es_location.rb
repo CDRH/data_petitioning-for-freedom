@@ -25,7 +25,9 @@ class CsvToEsLocation < CsvToEs
   end
 
   def category2
-    @row["location type"]
+    if @row["location type"]
+      @row["location type"].split(", ")
+    end
   end
 
   def category3

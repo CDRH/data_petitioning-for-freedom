@@ -38,9 +38,9 @@ class CsvToEsPerson < CsvToEs
       "Center for Research in the Digital Humanities, University of Nebraska-Lincoln"
     end
 
-    def source
+    def citation
       if @row["Demographic Source(s)"]
-        @row["Demographic Source(s)"]
+        { "title" => @row["Demographic Source(s)"], "role" => "demographic source" }
       end
     end
   
@@ -111,7 +111,8 @@ class CsvToEsPerson < CsvToEs
               "age_category" => match_with_case(case_age, case_id),
               "race" => match_with_case(case_race, case_id),
               "nationality" => match_with_case(case_nationality, case_id),
-              "order" => match_with_case(case_years, case_id),
+              # this must be a single year, according to the airtable schema
+              "order" => match_with_case(case_years, case_id).to_i,
               "note" => match_with_case(case_note, case_id),
               "trait1" => match_with_case(case_tags, case_id),
               "trait2" => case_name

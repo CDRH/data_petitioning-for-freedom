@@ -14,7 +14,7 @@ class FileType
           file_transformer = classname.new(subdoc, @options, file_xml, self.filename(false))
           if classname == TeiToEs
             # build the associations of cases and documents here
-            case_id = file_transformer.source
+            case_id = file_transformer.has_source["id"]
             document_id = file_transformer.json["identifier"]
             if new_case_docs[case_id]
               new_case_docs[case_id] << document_id

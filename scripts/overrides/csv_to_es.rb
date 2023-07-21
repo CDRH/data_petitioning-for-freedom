@@ -116,6 +116,10 @@ class CsvToEs
       parse_json("Tags")
     end
 
+    def keywords3
+      parse_json("Case State")
+    end
+
     def person
       people = []
       if @row["RDF - person role case (from Case Role [join])"] && @row["RDF - person role case (from Case Role [join])"] != ""
@@ -185,15 +189,24 @@ class CsvToEs
     end 
   
     def rights_holder
-      parse_json("Repository")
+      repositories = []
+      if parse_json("Repository")
+        parse_json("Repository").each do |repository|
+          # all of these are in MD format [title](id) we only want title
+          repositories << parse_md_brackets(repository)
+        end
+      end
+      repositories
     end
   
     # def rights_uri
       # TODO
     # end
   
-    def source
-      @row["Case Citation(s)"]
+    def citation
+      if @row["Case Citation(s)"]
+        { "title" => @row["Case Citation(s)"], "role" => "case citation" }
+      end
     end
   
     def title
