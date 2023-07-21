@@ -215,5 +215,18 @@ class CsvToEsPerson < CsvToEs
       roles.flatten.uniq
     end
 
+    def text
+      built_text = []
+      @row.each do |column_name, value|
+        built_text << value.to_s.gsub("\"", "")
+        if column_name == "Primary field"
+          10.times do 
+            built_text << value.to_s.gsub("\"", "")
+          end
+        end
+      end
+      return array_to_string(built_text, " ")
+    end
+
   end
   
