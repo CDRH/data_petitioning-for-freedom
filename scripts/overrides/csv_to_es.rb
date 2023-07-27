@@ -1,6 +1,12 @@
 class CsvToEs
     # Note to add custom fields, use "assemble_collection_specific" from request.rb
     # and be sure to either use the _d, _i, _k, or _t to use the correct field type
+    def preprocessing
+      # copy this in your csv_to_es collection file to customize
+      dictionary_location = File.join(@options["collection_dir"], "source", "csv", "dictionary.csv")
+      @dictionary = make_dictionary(dictionary_location)
+    end
+    
     def array_to_string (array,sep)
       return array.map { |i| i.to_s }.join(sep)
     end
