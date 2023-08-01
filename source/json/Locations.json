@@ -215,6 +215,43 @@
     },
     {
         "Cases": [
+            "recVhwHzcARH91nqG",
+            "recxKfeGDxTPWbolY",
+            "reckj07MSEEoO9fdr",
+            "recbNsElmXvWLlHzA"
+        ],
+        "Cases count1": 4,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-26T15:19:26.000Z",
+        "ID": "hc.loc.000168",
+        "Name Markdown": "[First Judicial District of Washington District Court (Walla Walla, Washington)](hc.loc.000168)",
+        "address": "317 W Rose St, Walla Walla, WA 99362",
+        "airtable_createdTime": "2023-07-26T15:19:26.000Z",
+        "airtable_id": "rec2i79rCV8W26cgw",
+        "auto_gen_id": 168,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 4,
+        "county": "Walla Walla",
+        "latitude": "46.065728060864025",
+        "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
+        "location subtype": [
+            "state district court"
+        ],
+        "location type": "court",
+        "longitude": "-118.34415894074179",
+        "name": "First Judicial District of Washington District Court",
+        "primary field": "First Judicial District of Washington District Court (Walla Walla, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases": [
             "recUOqxAcCO9HAmSI",
             "recX5F3CA34LBiRgL",
             "recvzwK0Pqrvq89BC",
@@ -350,7 +387,8 @@
     },
     {
         "Cases 3": [
-            "recCVJ0CmTjsowvVp"
+            "recCVJ0CmTjsowvVp",
+            "recUZx2iOG5W9tMWO"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -365,9 +403,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec2wJEnb5BH3eFvK",
         "auto_gen_id": 95,
-        "case count3": 1,
+        "case count3": 2,
         "coordinate specificity": "locality",
-        "count total": 1,
+        "count total": 2,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -444,7 +482,8 @@
             "rec1r1gXNN15WfXs6",
             "rec1cOAQbWM2vD8yF",
             "recmwjWoF1KHnsq2w",
-            "recmoCRHFbPfLeWJD"
+            "recmoCRHFbPfLeWJD",
+            "recBXQkOOZoL4nZMG"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -459,9 +498,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec3ibf9U52qIzfHS",
         "auto_gen_id": 96,
-        "case count3": 29,
+        "case count3": 30,
         "coordinate specificity": "locality",
-        "count total": 29,
+        "count total": 30,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -1203,7 +1242,8 @@
             "recn8KfTL9Jr58sTy",
             "recd3DjDhDZ1FAi4M",
             "rec5wzfuGunHTLyNI",
-            "recmoCRHFbPfLeWJD"
+            "recmoCRHFbPfLeWJD",
+            "recqnheiI2itQaAXl"
         ],
         "Cases 2": [
             "recaxdh3RqiwgFi89",
@@ -1731,13 +1771,14 @@
             "recd3DjDhDZ1FAi4M",
             "rec5wzfuGunHTLyNI",
             "recmoCRHFbPfLeWJD",
-            "recatqINCRj4nvDQs"
+            "recatqINCRj4nvDQs",
+            "recqnheiI2itQaAXl"
         ],
         "Cases 3": [
             "recA0VcmipGKc7Pjf"
         ],
-        "Cases count1": 697,
-        "Count (Cases 2)": 526,
+        "Cases count1": 698,
+        "Count (Cases 2)": 527,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -1752,7 +1793,7 @@
         "auto_gen_id": 20,
         "case count3": 1,
         "coordinate specificity": "building",
-        "count total": 1224,
+        "count total": 1226,
         "county": "Douglas",
         "latitude": "41.257103404765104",
         "locality": "Omaha",
@@ -2747,7 +2788,12 @@
             "rec0nqDkGpklee7dJ",
             "recnQ2uYmAczZrvhd",
             "recDd6C7GtQKaX0h7",
-            "rec7emztOzfgL7Fuy"
+            "rec7emztOzfgL7Fuy",
+            "recUimMAEyUmz3CD5",
+            "recNz0eeyygJse4gK",
+            "recndkOEqdTi7F1fR",
+            "recFS1jeUqEGr6tj7",
+            "recPoDPGcdbvtLQyZ"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -2762,9 +2808,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec86rqt01xAFDJ8s",
         "auto_gen_id": 98,
-        "case count3": 5,
+        "case count3": 10,
         "coordinate specificity": "locality",
-        "count total": 5,
+        "count total": 10,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -2804,9 +2850,10 @@
             "recvtdsuqn4i6KmYr",
             "recT66wMhczUgeT2w",
             "recxhmdfwnFmdfepm",
-            "recNdzp0ZnNf0QI1B"
+            "recNdzp0ZnNf0QI1B",
+            "recyIM2bKguQsZEAq"
         ],
-        "Cases count1": 25,
+        "Cases count1": 26,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -2821,7 +2868,7 @@
         "auto_gen_id": 22,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 25,
+        "count total": 26,
         "county": "Pierce",
         "latitude": "47.25333423566242",
         "locality": "Tacoma",
@@ -2955,6 +3002,34 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "recNG1Pf16jTZz46Z"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "lmcdermott4@huskers.unl.edu",
+            "id": "usrybIbbbp5jn3ArW",
+            "name": "Luke McDermott"
+        },
+        "Created time": "2023-07-28T17:45:44.000Z",
+        "ID": "hc.loc.000180",
+        "Name Markdown": "[S.S. Africa Maru (, Washington)](hc.loc.000180)",
+        "airtable_createdTime": "2023-07-28T17:45:44.000Z",
+        "airtable_id": "rec9ZLeycT8GJ9rEv",
+        "auto_gen_id": 180,
+        "case count3": 1,
+        "count total": 1,
+        "locality_built": ", , Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "S.S. Africa Maru",
+        "primary field": "S.S. Africa Maru (, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "rec98qJyEuLUjTzqk",
             "recJgLHgQuH4e56o7",
@@ -3022,6 +3097,40 @@
         "name": "US District Court for the North Platte Division of the District of Nebraska",
         "primary field": "US District Court for the North Platte Division of the District of Nebraska (North Platte, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases": [
+            "recreTeDLl73J5Par"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-26T15:37:17.000Z",
+        "ID": "hc.loc.000169",
+        "Name Markdown": "[District Court of the Third Judicial District of Washington Territory  (Mount Vernon, Washington)](hc.loc.000169)",
+        "address": "600 S 3rd St, Mount Vernon, WA 98273",
+        "airtable_createdTime": "2023-07-26T15:37:17.000Z",
+        "airtable_id": "recAYIPLo20vziuZn",
+        "auto_gen_id": 169,
+        "case count3": 0,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Skagit",
+        "latitude": "48.41808031174777",
+        "locality": "Mount Vernon",
+        "locality_built": "Mount Vernon, Skagit, Washington",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "longitude": "-122.33599416396468",
+        "name": "District Court of the Third Judicial District of Washington Territory ",
+        "primary field": "District Court of the Third Judicial District of Washington Territory  (Mount Vernon, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -3216,7 +3325,9 @@
     },
     {
         "Cases 3": [
-            "recCT72wjznIdIqou"
+            "recCT72wjznIdIqou",
+            "recIJ9yOFmXPmxCzh",
+            "recgCsRZjiNlLmeOu"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3232,9 +3343,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBtXAzDClj4dCcN",
         "auto_gen_id": 76,
-        "case count3": 1,
+        "case count3": 3,
         "coordinate specificity": "building",
-        "count total": 1,
+        "count total": 3,
         "county": "Walla Walla",
         "latitude": "46.07818487649164",
         "locality": "Walla Walla",
@@ -3362,10 +3473,26 @@
             "recqvOBSbAxSUJXJv",
             "recsrU68lRgn3qTJ0",
             "recNP6WDkRbbFTSbh",
-            "recw3BIAVE4lMZVfN"
+            "recw3BIAVE4lMZVfN",
+            "recyd1wDqd2zOtbrb",
+            "recUimMAEyUmz3CD5",
+            "recNz0eeyygJse4gK",
+            "recFS1jeUqEGr6tj7",
+            "recPoDPGcdbvtLQyZ",
+            "recJP3LHRN1S5z550",
+            "recCg5GqTRjsR4oK7",
+            "recUZx2iOG5W9tMWO",
+            "recbJY5voXzqQszTi",
+            "recURt3P1F8VmZSf5",
+            "rec2aFwgWySDsJixh",
+            "recNG1Pf16jTZz46Z",
+            "recdBxvzbvAki5eOC"
         ],
-        "Cases count1": 40,
-        "Count (Cases 2)": 0,
+        "Cases 2": [
+            "recqCFsmrOWDv2k8D"
+        ],
+        "Cases count1": 53,
+        "Count (Cases 2)": 1,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -3379,7 +3506,7 @@
         "auto_gen_id": 12,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 40,
+        "count total": 54,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3387,7 +3514,7 @@
         "location subtype": [
             "federal district court"
         ],
-        "location type": "court",
+        "location type": "court, repository",
         "longitude": "-122.3337844597094",
         "name": "US District Court for the Western District of Washington",
         "primary field": "US District Court for the Western District of Washington (Seattle, Washington)",
@@ -3465,6 +3592,37 @@
         "state": "Missouri"
     },
     {
+        "Cases": [
+            "rec7NSSy3losm7hwE"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-07-27T17:29:24.000Z",
+        "ID": "hc.loc.000178",
+        "Name Markdown": "[The Superior Court of the State of Washington for King County (Seattle, Washington)](hc.loc.000178)",
+        "airtable_createdTime": "2023-07-27T17:29:24.000Z",
+        "airtable_id": "recDuXmmng3JDgDgR",
+        "auto_gen_id": 178,
+        "case count3": 0,
+        "count total": 1,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "superior court"
+        ],
+        "location type": "court",
+        "modern name": "King County Superior Court",
+        "name": "The Superior Court of the State of Washington for King County",
+        "primary field": "The Superior Court of the State of Washington for King County (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases 3": [
             "rec0IxvyaozlN5KqA"
         ],
@@ -3487,6 +3645,92 @@
         "location type": "site of significance",
         "name": "Lummi Reservation",
         "primary field": "Lummi Reservation (, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recC9t4ziTFtZniym"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-27T15:49:16.000Z",
+        "ID": "hc.loc.000174",
+        "Name Markdown": "[Satellite  (Port Townsend, Washington)](hc.loc.000174)",
+        "airtable_createdTime": "2023-07-27T15:49:16.000Z",
+        "airtable_id": "recEV3Ri6uQqpaVGs",
+        "auto_gen_id": 174,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Jefferson",
+        "latitude": "48.11703869999999",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson, Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.76044719999999",
+        "name": "Satellite ",
+        "primary field": "Satellite  (Port Townsend, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-20T18:56:29.000Z",
+        "ID": "hc.loc.000165",
+        "Name Markdown": "[ (, )](hc.loc.000165)",
+        "airtable_createdTime": "2023-07-20T18:56:29.000Z",
+        "airtable_id": "recEvXY3gAjfylbpn",
+        "auto_gen_id": 165,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
+    },
+    {
+        "Cases 3": [
+            "recC9t4ziTFtZniym"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-27T15:53:55.000Z",
+        "ID": "hc.loc.000175",
+        "Name Markdown": "[United States Military Port (Port Townsend, Washington)](hc.loc.000175)",
+        "address": "1370 Old Fort Townsend Rd, Port Townsend, WA 98368",
+        "airtable_createdTime": "2023-07-27T15:53:55.000Z",
+        "airtable_id": "recFEsPLTiopc3b7P",
+        "auto_gen_id": 175,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Jefferson",
+        "latitude": "48.07408847373073",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson, Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.79582120370453",
+        "name": "United States Military Port",
+        "primary field": "United States Military Port (Port Townsend, Washington)",
         "state": "Washington"
     },
     {
@@ -3567,7 +3811,11 @@
             "recuLuZttdPrfaesC",
             "reckIC4fOg6wHWwLY",
             "rec4wx9RPRNayYaWn",
-            "rece2ncpI4z7XoXaP"
+            "rece2ncpI4z7XoXaP",
+            "recBXQkOOZoL4nZMG",
+            "recblQ4Bda7aKcGr0",
+            "recydjA1eOneHLW7u",
+            "recMRpNrcDsdWTqAp"
         ],
         "Cases 2": [
             "recRyvIVzEYULHwzm",
@@ -3577,10 +3825,14 @@
             "recuLuZttdPrfaesC",
             "reckIC4fOg6wHWwLY",
             "rec4wx9RPRNayYaWn",
-            "rece2ncpI4z7XoXaP"
+            "rece2ncpI4z7XoXaP",
+            "recBXQkOOZoL4nZMG",
+            "recblQ4Bda7aKcGr0",
+            "recydjA1eOneHLW7u",
+            "recMRpNrcDsdWTqAp"
         ],
-        "Cases count1": 8,
-        "Count (Cases 2)": 8,
+        "Cases count1": 12,
+        "Count (Cases 2)": 12,
         "Created by": {
             "email": "shayes15@huskers.unl.edu",
             "id": "usr05qDhnpC0S1ouE",
@@ -3595,7 +3847,7 @@
         "auto_gen_id": 155,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 16,
+        "count total": 24,
         "county": "Gage",
         "latitude": "40.271111",
         "locality": "Beatrice",
@@ -3678,6 +3930,25 @@
         "state": "Iowa"
     },
     {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-26T15:40:26.000Z",
+        "ID": "hc.loc.000170",
+        "Name Markdown": "[ (, )](hc.loc.000170)",
+        "airtable_createdTime": "2023-07-26T15:40:26.000Z",
+        "airtable_id": "recI6EcASw0PKW1ob",
+        "auto_gen_id": 170,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
+    },
+    {
         "Cases 3": [
             "recARJqlYj9ni8iDr"
         ],
@@ -3718,9 +3989,12 @@
             "recw3BIAVE4lMZVfN",
             "rec34aIdfepM4htqq",
             "recl9XakUOPn9IdRI",
-            "recRubbmsBsaPNUZX"
+            "recRubbmsBsaPNUZX",
+            "rec6CgmCGIUEoT5PC",
+            "reczWQOuOxy6wc9KU",
+            "recLpfCfC3NaiQnFv"
         ],
-        "Cases count1": 7,
+        "Cases count1": 10,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -3735,7 +4009,7 @@
         "auto_gen_id": 15,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 7,
+        "count total": 10,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3818,6 +4092,43 @@
         "name": "Atchison County District Court",
         "primary field": "Atchison County District Court (Atchison, Kansas)",
         "state": "Kansas"
+    },
+    {
+        "Cases 3": [
+            "recxKfeGDxTPWbolY",
+            "recgCsRZjiNlLmeOu",
+            "recGkFPuiBgOad8TC"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-27T17:21:47.000Z",
+        "ID": "hc.loc.000177",
+        "Name Markdown": "[Walla Walla County Jail (Walla Walla, Washington)](hc.loc.000177)",
+        "address": "300 W Alder St, Walla Walla, WA 99362",
+        "airtable_createdTime": "2023-07-27T17:21:47.000Z",
+        "airtable_id": "recKyvxmc20BKQ8Qa",
+        "auto_gen_id": 177,
+        "case count3": 3,
+        "coordinate specificity": "building",
+        "count total": 3,
+        "county": "Walla Walla",
+        "latitude": "46.064332207534434",
+        "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-118.34299811479619",
+        "modern name": "Walla Walla County Corrections Department",
+        "name": "Walla Walla County Jail",
+        "primary field": "Walla Walla County Jail (Walla Walla, Washington)",
+        "state": "Washington"
     },
     {
         "Cases count1": 0,
@@ -4044,6 +4355,9 @@
         "state": "Oregon"
     },
     {
+        "Cases": [
+            "recEGkWRcpY1Y6fba"
+        ],
         "Cases 2": [
             "recBKJQzWQrZxu6Ua",
             "recyEAxGlJv7X9M4c",
@@ -4060,10 +4374,25 @@
             "recT0QXq6hk71lHs5",
             "recBu7HTa6FuQzS2G",
             "recofhmfAqd0KQkaa",
-            "recKez0Pv1ZluOeJD"
+            "recKez0Pv1ZluOeJD",
+            "recsQSHq4ujnxGqD9",
+            "recuPU70hjDmDMp2m",
+            "recnGkENPRv4qhc4H",
+            "recVhwHzcARH91nqG",
+            "reccv6pWaj5EdL0mK",
+            "receOAncJ8qBIq6th",
+            "recxDUbm1a2p4oRLn",
+            "rectQyRqKm6CZDSab",
+            "rec66dYMQ3BScYNsn",
+            "recxKfeGDxTPWbolY",
+            "recgCsRZjiNlLmeOu",
+            "reckj07MSEEoO9fdr",
+            "recuG5RuP0XkPAtwd",
+            "recGkFPuiBgOad8TC",
+            "recbNsElmXvWLlHzA"
         ],
-        "Cases count1": 0,
-        "Count (Cases 2)": 16,
+        "Cases count1": 1,
+        "Count (Cases 2)": 31,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4078,7 +4407,7 @@
         "auto_gen_id": 38,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 16,
+        "count total": 32,
         "county": "Spokane",
         "latitude": "47.48798702423552",
         "locality": "Cheney",
@@ -4086,11 +4415,42 @@
         "location subtype": [
             "state archive"
         ],
-        "location type": "repository",
+        "location type": "court, repository",
         "longitude": "-117.58621605075126",
         "name": "Washington State Archives, Eastern Regional Branch (Cheney, WA)",
         "primary field": "Washington State Archives, Eastern Regional Branch (Cheney, WA) (Cheney, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recUZx2iOG5W9tMWO"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-07-27T18:31:01.000Z",
+        "ID": "hc.loc.000179",
+        "Name Markdown": "[Montana State Hospital for the Insane (Warm Springs, Montana)](hc.loc.000179)",
+        "airtable_createdTime": "2023-07-27T18:31:01.000Z",
+        "airtable_id": "recMBz7QkOlejDh1X",
+        "alternative name": "Warmsprings Hospital; St. Mary's",
+        "auto_gen_id": 179,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Warm Springs",
+        "locality_built": "Warm Springs, , Montana",
+        "location subtype": [
+            "hospital",
+            "insane asylum"
+        ],
+        "location type": "site of significance",
+        "name": "Montana State Hospital for the Insane",
+        "primary field": "Montana State Hospital for the Insane (Warm Springs, Montana)",
+        "state": "Montana"
     },
     {
         "Cases 2": [
@@ -4269,6 +4629,44 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "recj5jVLvpIcSxawd",
+            "recndkOEqdTi7F1fR",
+            "rec7NSSy3losm7hwE",
+            "recSAMaQ07B1ByScZ",
+            "rec0CABJfR1arsGQR"
+        ],
+        "Cases count1": 5,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-26T15:13:00.000Z",
+        "ID": "hc.loc.000167",
+        "Name Markdown": "[United States District Court, Western District of Washington, Northern Division (Walla Walla, Washington)](hc.loc.000167)",
+        "address": "317 W Rose St, Walla Walla, WA 99362",
+        "airtable_createdTime": "2023-07-26T15:13:00.000Z",
+        "airtable_id": "recOnilBeoWM3tOMS",
+        "auto_gen_id": 167,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 5,
+        "county": "Walla Walla",
+        "latitude": "46.065706012445744",
+        "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
+        "location subtype": [
+            "state district court"
+        ],
+        "location type": "court",
+        "longitude": "-118.34428311965183",
+        "name": "United States District Court, Western District of Washington, Northern Division",
+        "primary field": "United States District Court, Western District of Washington, Northern Division (Walla Walla, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases 3": [
             "recTzZPFIS9gYy5t4",
             "rec9z7LwDiQy66oKY",
@@ -4278,7 +4676,8 @@
             "recDd6C7GtQKaX0h7",
             "recAIQZyOS3SLkIcK",
             "recqvOBSbAxSUJXJv",
-            "reczuaEcyS772V2Pv"
+            "reczuaEcyS772V2Pv",
+            "recNz0eeyygJse4gK"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4294,9 +4693,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
-        "case count3": 9,
+        "case count3": 10,
         "coordinate specificity": "building",
-        "count total": 9,
+        "count total": 10,
         "county": "NA",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
@@ -4676,10 +5075,11 @@
             "receuqLRiAaAwnrqJ",
             "recohtcVT3Q7iA4do",
             "reccHkRjZyBQPFvYW",
-            "recNdzp0ZnNf0QI1B"
+            "recNdzp0ZnNf0QI1B",
+            "recyIM2bKguQsZEAq"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 101,
+        "Count (Cases 2)": 102,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -4694,7 +5094,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 101,
+        "count total": 102,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -4750,7 +5150,8 @@
         "Cases 3": [
             "recSBTctozzAYzkMF",
             "recztJ1BKaWIKVbS3",
-            "recoDhp0bXaHch5ix"
+            "recoDhp0bXaHch5ix",
+            "recqnheiI2itQaAXl"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4765,9 +5166,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recSdSjt7e4cBBvMA",
         "auto_gen_id": 53,
-        "case count3": 3,
+        "case count3": 4,
         "coordinate specificity": "locality",
-        "count total": 3,
+        "count total": 4,
         "county": "Douglas",
         "latitude": "41.25547669651563",
         "locality": "Omaha",
@@ -5107,9 +5508,14 @@
             "recaJ6I0ohNuXH651",
             "recXKIWADYwM2lk6o",
             "recMoHTqM3HTWn8NL",
-            "recImNcom9K8uRn7T"
+            "recImNcom9K8uRn7T",
+            "rec5uqKT4XM2Wyub5",
+            "recvkRk8qSKFm4PD8",
+            "rec4ojLA74uiVFr6t",
+            "recI40sQwmyTkREkQ",
+            "recDB5H67K8PiG2jT"
         ],
-        "Cases count1": 4,
+        "Cases count1": 9,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ichilds2@huskers.unl.edu",
@@ -5125,7 +5531,7 @@
         "auto_gen_id": 160,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 4,
+        "count total": 9,
         "county": "Jefferson",
         "latitude": "48.112509001132544",
         "locality": "Port Townsend",
@@ -5182,10 +5588,17 @@
             "recQSczOMIW0AOhQD",
             "recN1VqwvvEoouak7",
             "reczNrrCajm95mEfr",
-            "recyXAGczpcU4a5mg"
+            "recyXAGczpcU4a5mg",
+            "recIJ9yOFmXPmxCzh",
+            "recaA8XjomIcwNoYj",
+            "recqCFsmrOWDv2k8D",
+            "recoIjXHVBg3j43IN"
         ],
-        "Cases count1": 9,
-        "Count (Cases 2)": 0,
+        "Cases 2": [
+            "recoIjXHVBg3j43IN"
+        ],
+        "Cases count1": 13,
+        "Count (Cases 2)": 1,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -5199,7 +5612,7 @@
         "auto_gen_id": 4,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 9,
+        "count total": 14,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5207,7 +5620,7 @@
         "location subtype": [
             "federal district court"
         ],
-        "location type": "court",
+        "location type": "court, repository",
         "longitude": "-122.3337844597094",
         "name": "US District Court for the Northern District of Washington",
         "primary field": "US District Court for the Northern District of Washington (Seattle, Washington)",
@@ -5282,6 +5695,43 @@
         "name": "Winnebago Reservation",
         "primary field": "Winnebago Reservation (Winnebago Reservation, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recqCFsmrOWDv2k8D",
+            "recbJY5voXzqQszTi",
+            "recCg5GqTRjsR4oK7",
+            "recURt3P1F8VmZSf5",
+            "rec2aFwgWySDsJixh",
+            "recdBxvzbvAki5eOC"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aschwensen2@huskers.unl.edu",
+            "id": "usr2yKc4n9Dj481mY",
+            "name": "Amelia Schwensen"
+        },
+        "Created time": "2023-07-27T15:42:09.000Z",
+        "ID": "hc.loc.000173",
+        "Name Markdown": "[Immigration Detention Station (Everett, Washington)](hc.loc.000173)",
+        "airtable_createdTime": "2023-07-27T15:42:09.000Z",
+        "airtable_id": "recXY7hLpWRVdaStW",
+        "auto_gen_id": 173,
+        "case count3": 6,
+        "count total": 6,
+        "county": "Snohomish County",
+        "latitude": "47.979135,",
+        "locality": "Everett",
+        "locality_built": "Everett, Snohomish County, Washington",
+        "location subtype": [
+            "immigration detention"
+        ],
+        "location type": "site of significance",
+        "longitude": "122.201495",
+        "name": "Immigration Detention Station",
+        "primary field": "Immigration Detention Station (Everett, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 2": [
@@ -6243,9 +6693,11 @@
             "recTzZPFIS9gYy5t4",
             "recDXAIUBwxs5TwVm",
             "reczuaEcyS772V2Pv",
-            "recKMDe7HMgF6aHoB"
+            "recKMDe7HMgF6aHoB",
+            "recvIqMxVcgYJrdYG",
+            "rec9ZSmest1YSJggk"
         ],
-        "Cases count1": 4,
+        "Cases count1": 6,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -6260,7 +6712,7 @@
         "auto_gen_id": 28,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 4,
+        "count total": 6,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -6282,14 +6734,16 @@
             "receOAncJ8qBIq6th",
             "recIRfifBcCqzl5Nk",
             "recBu7HTa6FuQzS2G",
-            "recEGkWRcpY1Y6fba"
+            "recKez0Pv1ZluOeJD",
+            "recxDUbm1a2p4oRLn",
+            "rectQyRqKm6CZDSab",
+            "rec66dYMQ3BScYNsn"
         ],
         "Cases 2": [
-            "receOAncJ8qBIq6th",
             "recEGkWRcpY1Y6fba"
         ],
-        "Cases count1": 7,
-        "Count (Cases 2)": 2,
+        "Cases count1": 10,
+        "Count (Cases 2)": 1,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -6303,7 +6757,7 @@
         "auto_gen_id": 29,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 9,
+        "count total": 11,
         "county": "Spokane",
         "latitude": "47.48760847901377",
         "locality": "Cheney",
@@ -6391,6 +6845,40 @@
         "count total": 0,
         "locality_built": ", , ",
         "primary field": " (, )"
+    },
+    {
+        "Cases": [
+            "recC9t4ziTFtZniym"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-27T16:19:07.000Z",
+        "ID": "hc.loc.000176",
+        "Name Markdown": "[Third Judicial District Court of the Territory of Washington (Coupeville, Washington)](hc.loc.000176)",
+        "address": "101 6th St NE #204, Coupeville, WA 98239",
+        "airtable_createdTime": "2023-07-27T16:19:07.000Z",
+        "airtable_id": "reci57c1kljcCCVx9",
+        "auto_gen_id": 176,
+        "case count3": 0,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Island",
+        "latitude": "48.21733075852387",
+        "locality": "Coupeville",
+        "locality_built": "Coupeville, Island, Washington",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "longitude": "-122.68481986621455",
+        "name": "Third Judicial District Court of the Territory of Washington",
+        "primary field": "Third Judicial District Court of the Territory of Washington (Coupeville, Washington)",
+        "state": "Washington"
     },
     {
         "Cases": [
@@ -6560,6 +7048,39 @@
         "longitude": "-122.51887959467226",
         "name": "Fort Steilacoom",
         "primary field": "Fort Steilacoom (Lakewood, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recVhwHzcARH91nqG"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-26T16:22:24.000Z",
+        "ID": "hc.loc.000171",
+        "Name Markdown": "[Sisters of Charity (Walla Walla, Washington)](hc.loc.000171)",
+        "airtable_createdTime": "2023-07-26T16:22:24.000Z",
+        "airtable_id": "reciniaR922HK7P1N",
+        "auto_gen_id": 171,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Walla Walla",
+        "latitude": "46.06430720535914",
+        "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-118.34074208272169",
+        "name": "Sisters of Charity",
+        "primary field": "Sisters of Charity (Walla Walla, Washington)",
         "state": "Washington"
     },
     {
@@ -6951,6 +7472,42 @@
         "state": "Wyoming"
     },
     {
+        "Cases": [
+            "recsQSHq4ujnxGqD9",
+            "recuPU70hjDmDMp2m",
+            "recnGkENPRv4qhc4H"
+        ],
+        "Cases count1": 3,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ekrohn3@huskers.unl.edu",
+            "id": "usr2WztX1SxQ5Fvvu",
+            "name": "Esme Krohn"
+        },
+        "Created time": "2023-07-21T14:55:49.000Z",
+        "ID": "hc.loc.000166",
+        "Name Markdown": "[District Court of Columbia County Washington Territory (Dayton, Washington)](hc.loc.000166)",
+        "address": "341 E Main St, Dayton, WA 99328",
+        "airtable_createdTime": "2023-07-21T14:55:49.000Z",
+        "airtable_id": "reclUxPe9tywJQVrW",
+        "auto_gen_id": 166,
+        "case count3": 0,
+        "coordinate specificity": "building",
+        "count total": 3,
+        "county": "Columbia County",
+        "latitude": "46.32124938287901",
+        "locality": "Dayton",
+        "locality_built": "Dayton, Columbia County, Washington",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "longitude": "-117.97857662765914",
+        "name": "District Court of Columbia County Washington Territory",
+        "primary field": "District Court of Columbia County Washington Territory (Dayton, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases 3": [
             "recaSa6nbm6d39bBw"
         ],
@@ -7302,9 +7859,10 @@
     {
         "Cases": [
             "recnQ2uYmAczZrvhd",
-            "recge6BJKrBnoVDX6"
+            "recge6BJKrBnoVDX6",
+            "rec0CABJfR1arsGQR"
         ],
-        "Cases count1": 2,
+        "Cases count1": 3,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cyoung46@unl.edu",
@@ -7319,7 +7877,7 @@
         "auto_gen_id": 7,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 2,
+        "count total": 3,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -8067,7 +8625,9 @@
     },
     {
         "Cases 3": [
-            "recqpEwCRpvQjJRMF"
+            "recqpEwCRpvQjJRMF",
+            "recsQSHq4ujnxGqD9",
+            "recnGkENPRv4qhc4H"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -8083,9 +8643,9 @@
         "airtable_createdTime": "2023-07-17T20:07:16.000Z",
         "airtable_id": "recxilToHezmUrHf7",
         "auto_gen_id": 157,
-        "case count3": 1,
+        "case count3": 3,
         "coordinate specificity": "building",
-        "count total": 1,
+        "count total": 3,
         "county": "Columbia County",
         "latitude": "46.321368",
         "locality": "Dayton",
@@ -8098,6 +8658,39 @@
         "modern name": "Columbia County Sheriff's Department",
         "name": "Columbia County Jail",
         "primary field": "Columbia County Jail (Dayton, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recDB5H67K8PiG2jT"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ichilds2@huskers.unl.edu",
+            "id": "usrRpph1dSJ7HorPE",
+            "name": "Isabelle Childs"
+        },
+        "Created time": "2023-07-27T15:39:57.000Z",
+        "ID": "hc.loc.000172",
+        "Name Markdown": "[Barque Cambridge (Port Townsend, Washington)](hc.loc.000172)",
+        "airtable_createdTime": "2023-07-27T15:39:57.000Z",
+        "airtable_id": "recxlI0QvH168f3Dc",
+        "auto_gen_id": 172,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "Jefferson",
+        "latitude": "48.11703869999999",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson, Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.76044719999999",
+        "name": "Barque Cambridge",
+        "primary field": "Barque Cambridge (Port Townsend, Washington)",
         "state": "Washington"
     },
     {
@@ -8185,10 +8778,16 @@
             "recXKIWADYwM2lk6o",
             "recMoHTqM3HTWn8NL",
             "recImNcom9K8uRn7T",
-            "rec5uqKT4XM2Wyub5"
+            "rec5uqKT4XM2Wyub5",
+            "recvkRk8qSKFm4PD8",
+            "rec4ojLA74uiVFr6t",
+            "recI40sQwmyTkREkQ",
+            "recreTeDLl73J5Par",
+            "recDB5H67K8PiG2jT",
+            "recC9t4ziTFtZniym"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 8,
+        "Count (Cases 2)": 14,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -8203,7 +8802,7 @@
         "auto_gen_id": 34,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 8,
+        "count total": 14,
         "county": "Whatcom",
         "latitude": "48.72622970867895",
         "locality": "Bellingham",
@@ -8269,10 +8868,34 @@
             "reczNrrCajm95mEfr",
             "recl9XakUOPn9IdRI",
             "recRubbmsBsaPNUZX",
-            "recyXAGczpcU4a5mg"
+            "recyXAGczpcU4a5mg",
+            "recyd1wDqd2zOtbrb",
+            "recUimMAEyUmz3CD5",
+            "recIJ9yOFmXPmxCzh",
+            "recaA8XjomIcwNoYj",
+            "recNz0eeyygJse4gK",
+            "recndkOEqdTi7F1fR",
+            "recFS1jeUqEGr6tj7",
+            "recj5jVLvpIcSxawd",
+            "rec7NSSy3losm7hwE",
+            "recPoDPGcdbvtLQyZ",
+            "recJP3LHRN1S5z550",
+            "recvIqMxVcgYJrdYG",
+            "reczWQOuOxy6wc9KU",
+            "recCg5GqTRjsR4oK7",
+            "recSAMaQ07B1ByScZ",
+            "recUZx2iOG5W9tMWO",
+            "recbJY5voXzqQszTi",
+            "rec0CABJfR1arsGQR",
+            "recURt3P1F8VmZSf5",
+            "rec2aFwgWySDsJixh",
+            "recNG1Pf16jTZz46Z",
+            "recdBxvzbvAki5eOC",
+            "recLpfCfC3NaiQnFv",
+            "rec9ZSmest1YSJggk"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 51,
+        "Count (Cases 2)": 75,
         "Created by": {
             "email": "cyoung46@unl.edu",
             "id": "usruK6Q7ifitzmUZM",
@@ -8287,7 +8910,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 51,
+        "count total": 75,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
