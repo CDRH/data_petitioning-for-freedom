@@ -18,7 +18,7 @@ class FileCsv < FileType
             if !row.header_row? && (row["Case ID"] || row["unique_id"] || row["ID"])
               new_row = row_to_es(@csv.headers, row, table, old_case_docs)
               # eliminate blank entries from Airtable
-              if new_row["title"] && ![",", "(,)", "(, )"].include?(new_row["title"].strip)
+              if new_row["title"] && !["", ",", "(,)", "(, )", "Untitled"].include?(new_row["title"].strip)
                 es_doc << new_row
               end
             end
