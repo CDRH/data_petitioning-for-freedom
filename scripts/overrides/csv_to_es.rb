@@ -1,6 +1,12 @@
 class CsvToEs
     # Note to add custom fields, use "assemble_collection_specific" from request.rb
     # and be sure to either use the _d, _i, _k, or _t to use the correct field type
+    def preprocessing
+      # copy this in your csv_to_es collection file to customize
+      dictionary_location = File.join(@options["collection_dir"], "source", "csv", "dictionary.csv")
+      @dictionary = make_dictionary(dictionary_location)
+    end
+    
     def array_to_string (array,sep)
       return array.map { |i| i.to_s }.join(sep)
     end
@@ -247,7 +253,11 @@ class CsvToEs
     def text
       built_text = []
       @row.each do |column_name, value|
-        built_text << value.to_s.gsub("\"", "")
+        if value.nil?
+          next
+        end
+        new_value = find_match(value)
+        built_text << new_value.to_s.gsub("\"", "")
       end
       return array_to_string(built_text, " ")
     end
@@ -326,6 +336,26 @@ class CsvToEs
         # if there are multiple, return both joined by comma
         markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| kase.split("|")[1] }.uniq.join(", ")
       end
+    end
+
+    def make_dictionary(dictionary_location)
+      dictionary = CSV.read(dictionary_location)
+      #remove header row
+      dictionary.shift
+      dictionary.map {|arr| arr.compact.map!{|ele| ele.downcase}}
+    end
+
+    def find_match(value)
+      new_value = ""
+      @dictionary.each do |arr|
+        arr.each do |term|
+          #how to handle case?
+          if value && value.downcase.include?(term)
+            new_value = value.gsub /#{term}/i, arr.join(" ")
+          end
+        end
+      end
+      new_value
     end
 
   end

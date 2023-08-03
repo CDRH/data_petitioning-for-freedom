@@ -218,9 +218,10 @@ class CsvToEsPerson < CsvToEs
     def text
       built_text = []
       @row.each do |column_name, value|
-        built_text << value.to_s.gsub("\"", "")
+        new_value = find_match(value)
+        built_text << new_value.to_s.gsub("\"", "")
         if column_name == "Primary field"
-          10.times do 
+          50.times do 
             built_text << value.to_s.gsub("\"", "")
           end
         end
