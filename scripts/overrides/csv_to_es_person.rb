@@ -45,7 +45,11 @@ class CsvToEsPerson < CsvToEs
     end
   
     def title
-      @row["Primary field"]
+      if @row["Primary field"].start_with?(",")
+        @row["Primary field"][1...].strip
+      else
+        @row["Primary field"]
+      end
     end
 
     def has_relation
