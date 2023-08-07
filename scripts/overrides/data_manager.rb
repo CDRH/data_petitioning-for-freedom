@@ -66,8 +66,7 @@ class Datura::DataManager
     combined = ""
     # retrieve and then combine into a single file which can be parsed
     urls.each do |url|
-      raw = open(url) { |f| f.read }
-
+      raw = URI.open(url) { |f| f.read }
       # wrap the web scraping results in a div
       combined << "<div>"
       html = Nokogiri::HTML(raw)
@@ -89,21 +88,21 @@ class Datura::DataManager
     end
 
   rescue => exception
-    print_error(exception, url)
+    print_error(exception)
   end
 
-  def print_error(e, url)
+  def print_error(e)
     puts %{Something went wrong while scraping the website:
-  URL(S): #{url}
+  URL(S): #{@url}
   ERROR: #{e}
 To post content, please check the endpoint in config/public.yml, or
 temporarily disable the scrape_website setting in that file}.red
   end
 
   def scrape_website
-    url = File.join(@options["site_url"], @options["scrape_endpoint"])
-    puts "getting list of urls to scrape from #{url}"
-    list_of_pages = open(url) { |f| f.read }
+    @url = File.join(@options["site_url"], @options["scrape_endpoint"])
+    puts "getting list of urls to scrape from #{@url}"
+    list_of_pages = URI.open(@url) { |f| f.read }
     JSON.parse(list_of_pages).each do |page|
       site_url_for_regex = @options["site_url"]
         .gsub("/", "\/")
@@ -112,7 +111,6 @@ temporarily disable the scrape_website setting in that file}.red
         .first[/^#{site_url_for_regex}\/(.*)/, 1]
         .gsub("/", "_")
       output_file = "#{@options["collection_dir"]}/source/webs/#{id}.html"
-
       html = build_html(page)
       File.open(output_file, 'w') { |file| file.write(html) }
     end
