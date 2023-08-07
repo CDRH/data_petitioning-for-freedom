@@ -1,3 +1,7 @@
+require "json"
+require "open-uri"
+require "uri"
+
 class Datura::DataManager
   def pre_file_preparation
     # inputting and outputting hashes with cases and associated docuemnts
@@ -48,6 +52,7 @@ class Datura::DataManager
     end
 
   end
+
   def post_batch_processing
     #output as json the hash associating cases and documents
     if @new_case_documents && @new_case_documents.length > 2
@@ -56,4 +61,61 @@ class Datura::DataManager
       File.open(filepath, "w") { |f| f.write(case_documents) }
     end
   end
+
+  def build_html(urls)
+    combined = ""
+    # retrieve and then combine into a single file which can be parsed
+    urls.each do |url|
+      raw = open(url) { |f| f.read }
+
+      # wrap the web scraping results in a div
+      combined << "<div>"
+      html = Nokogiri::HTML(raw)
+      combined << html.at_xpath("//div[@id='content-wrapper']").inner_html
+      combined << "</div>"
+    end
+    combined
+  rescue => exception
+    print_error(exception, urls)
+  end
+
+  def pre_file_preparation
+    if @options["scrape_website"]
+      scrape_website
+    else
+      puts %{Files in source/webs are not being refreshed from the website
+        contents. If you wish to scrape the sandoz website, please
+        add or update config/public.yml to use "scrape_website: true"}
+    end
+
+  rescue => exception
+    print_error(exception, url)
+  end
+
+  def print_error(e, url)
+    puts %{Something went wrong while scraping the website:
+  URL(S): #{url}
+  ERROR: #{e}
+To post content, please check the endpoint in config/public.yml, or
+temporarily disable the scrape_website setting in that file}.red
+  end
+
+  def scrape_website
+    url = File.join(@options["site_url"], @options["scrape_endpoint"])
+    puts "getting list of urls to scrape from #{url}"
+    list_of_pages = open(url) { |f| f.read }
+    JSON.parse(list_of_pages).each do |page|
+      site_url_for_regex = @options["site_url"]
+        .gsub("/", "\/")
+        .gsub(".", "\.")
+      id = page
+        .first[/^#{site_url_for_regex}\/(.*)/, 1]
+        .gsub("/", "_")
+      output_file = "#{@options["collection_dir"]}/source/webs/#{id}.html"
+
+      html = build_html(page)
+      File.open(output_file, 'w') { |file| file.write(html) }
+    end
+  end
+
 end
