@@ -253,10 +253,10 @@ class CsvToEs
     def text
       built_text = []
       @row.each do |column_name, value|
-        if value.nil?
+        if column_name.nil? || value.nil?
           next
         end
-        new_value = find_match(value)
+        new_value = (find_match(value).length > 0) ? find_match(value) : value
         built_text << new_value.to_s.gsub("\"", "")
       end
       return array_to_string(built_text, " ")
