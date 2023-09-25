@@ -37,13 +37,16 @@ class CsvToEsLocation < CsvToEs
   def spatial
     lat = @row["latitude"].to_f
     lon = @row["longitude"].to_f
+    if @row["county"]
+      county = @row["county"] + " County, " + @row["state"]
+    end
     # note that coordinates is a geo_point field and elasticsearch requires [lon, lat] format.
     {
       "role" => "location",
       "name" => @row["locality_built"],
       "coordinates" => [lon, lat],
       "state" => @row["state"],
-      "county" => @row["county"],
+      "county" => county,
       "city" => @row["locality"],
       "trait1" => @row["coordinate specificity"]
     }
