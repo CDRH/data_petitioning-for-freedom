@@ -334,7 +334,11 @@ class CsvToEs
       if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
         # find field value (i.e. age) that matches the given case id. look only in the markdown corresponding to the case
         # if there are multiple, return both joined by comma
-        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| kase.split("|")[1] }.uniq.join(", ")
+        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| 
+          if kase.split("|")[1]
+            kase.split("|")[1].split(", ")
+          end
+        }.uniq.join(", ")
       end
     end
 

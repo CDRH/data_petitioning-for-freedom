@@ -196,7 +196,9 @@ class CsvToEsPerson < CsvToEs
       # these are case specific
       if parse_json("person_tags")
         parse_json("person_tags").each do |data|
-          tag = data.split("|")[1]
+          if data.split("|")[1]
+            tag = data.split("|")[1].split(", ")
+          end
           tags << tag
         end
       end
