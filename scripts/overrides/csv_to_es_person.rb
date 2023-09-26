@@ -10,7 +10,8 @@ class CsvToEsPerson < CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
-	  end
+      @json["title_t"] = title
+		end
 		
 	  def id
       get_id

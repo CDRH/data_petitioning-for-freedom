@@ -2,6 +2,7 @@ class CsvToEsLocation < CsvToEs
 
   def assemble_collection_specific
     @json["case_count_k"] = @row["count total"]
+    @json["title_t"] = title
   end
 
   def id

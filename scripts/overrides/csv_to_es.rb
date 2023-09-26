@@ -52,6 +52,7 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
+      @json["title_t"] = title
 		end
 		
 		def id
