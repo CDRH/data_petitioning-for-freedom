@@ -58,6 +58,7 @@ class FileCsv < FileType
         puts "processing " + row["unique_id"]
         CsvToEsPerson.new(row, options, @csv, self.filename(false)).json
       elsif table == "locations"
+        puts "processing " + row["ID"]
         CsvToEsLocation.new(row, options, @csv, self.filename(false)).json
       end
     end
