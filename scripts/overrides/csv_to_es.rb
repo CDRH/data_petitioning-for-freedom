@@ -258,6 +258,7 @@ class CsvToEs
           next
         end
         new_value = (find_match(value).length > 0) ? find_match(value) : value
+        #strip out quoted values and ids other than item itself
         built_text << new_value.to_s.gsub("\"", "").gsub(/(hc\..+?\d)\D/, "")
       end
       built_text << get_id
