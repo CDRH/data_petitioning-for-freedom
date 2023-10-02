@@ -7,12 +7,31 @@ class Datura::DataManager
     # inputting and outputting hashes with cases and associated docuemnts
     # there are two hashes because it reads in one that was previously created, 
     # and creates one as it reads in the data, which will be outputted as json
+
+    if @options["scrape_website"]
+      scrape_website
+    else
+      puts %{Files in source/webs are not being refreshed from the website
+        contents. If you wish to scrape the petitioning for freedom website, please
+        add or update config/public.yml to use "scrape_website: true"}
+    end
     @out_json = File.join(@options["collection_dir"], "source", "json")
     filepath = "#{@out_json}/case_documents.json"
     case_json = File.read(filepath)
     @old_case_documents = JSON.parse(case_json)
     @new_case_documents = {}
+  rescue => exception
+    print_error(exception)
   end
+
+  def print_error(e)
+    puts %{Something went wrong while scraping the website:
+  URL(S): #{@url}
+  ERROR: #{e}
+To post content, please check the endpoint in config/public.yml, or
+temporarily disable the scrape_website setting in that file}.red
+  end
+
   def transform_and_post(file)
     # elasticsearch
     if should_transform?("es")
@@ -78,26 +97,9 @@ class Datura::DataManager
     print_error(exception, urls)
   end
 
-  def pre_file_preparation
-    if @options["scrape_website"]
-      scrape_website
-    else
-      puts %{Files in source/webs are not being refreshed from the website
-        contents. If you wish to scrape the sandoz website, please
-        add or update config/public.yml to use "scrape_website: true"}
-    end
 
-  rescue => exception
-    print_error(exception)
-  end
 
-  def print_error(e)
-    puts %{Something went wrong while scraping the website:
-  URL(S): #{@url}
-  ERROR: #{e}
-To post content, please check the endpoint in config/public.yml, or
-temporarily disable the scrape_website setting in that file}.red
-  end
+  
 
   def scrape_website
     @url = File.join(@options["site_url"], @options["scrape_endpoint"])
