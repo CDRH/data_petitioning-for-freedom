@@ -229,9 +229,10 @@
             "recM2Gv6SjgU29UNj",
             "recD5Cay63gv2zV3Z",
             "rec1sHc16oinpeUqi",
-            "rec19yMmq7b8XSwHm"
+            "rec19yMmq7b8XSwHm",
+            "recRch5iphAc7UNu0"
         ],
-        "Cases count1": 13,
+        "Cases count1": 14,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ekrohn3@huskers.unl.edu",
@@ -247,7 +248,7 @@
         "auto_gen_id": 168,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 13,
+        "count total": 14,
         "county": "Walla Walla",
         "latitude": "46.065728060864025",
         "locality": "Walla Walla",
@@ -364,9 +365,11 @@
             "recozrcBRJIAeJGSc",
             "reco79kRJkjfHSqb3",
             "reccHkRjZyBQPFvYW",
-            "recvggce0GTTzCpED"
+            "recvggce0GTTzCpED",
+            "recGME0YRRzR5WfxV",
+            "recpspYet6ewWy0M0"
         ],
-        "Cases count1": 102,
+        "Cases count1": 104,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -381,7 +384,7 @@
         "auto_gen_id": 19,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 102,
+        "count total": 104,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -525,6 +528,9 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "recnVYMse4Bnbjs0k"
+        ],
         "Cases 3": [
             "recaSjmdjwUJBg1fm",
             "recrbJbpWq8KgnGkA",
@@ -534,9 +540,11 @@
             "recyIM2bKguQsZEAq",
             "recUywyp8el4Sx7yh",
             "rec0YPhPQtd9CjiDI",
-            "recZUcvwJcH2xKHX7"
+            "recZUcvwJcH2xKHX7",
+            "recijRxokqV5dHr6C",
+            "rechcpd1el12ZLpUf"
         ],
-        "Cases count1": 0,
+        "Cases count1": 1,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "asynya2@huskers.unl.edu",
@@ -549,15 +557,15 @@
         "airtable_createdTime": "2023-09-15T18:17:19.000Z",
         "airtable_id": "rec3rjYyJWKmU7r15",
         "auto_gen_id": 195,
-        "case count3": 9,
-        "count total": 9,
+        "case count3": 11,
+        "count total": 12,
         "county": "Pierce",
         "locality": "Tacoma",
         "locality_built": "Tacoma, Pierce, Washington",
         "location subtype": [
             "carceral facility"
         ],
-        "location type": "site of significance",
+        "location type": "court, site of significance",
         "name": "Pierce County Jail",
         "primary field": "Pierce County Jail (Tacoma, Washington)",
         "state": "Washington"
@@ -2617,7 +2625,40 @@
             "recmEw1tDleqJ3NQL",
             "recVHQOBWMNrg310W",
             "recFZSEM1j1gA1eYb",
-            "recnxoEzz8FCRrWNk"
+            "recnxoEzz8FCRrWNk",
+            "reco5ZI0KWc6e4U6V",
+            "recxBscGn6k6JwQu4",
+            "rec4ndq6BfnIhJ4Ky",
+            "recohtcVT3Q7iA4do",
+            "recsTsnSKE4ofsAK9",
+            "recmJjzal99GfadXE",
+            "recl9z8B60HfxbiXG",
+            "rech6K3iDAHX1h0qF",
+            "recUGL5EWeUxFT8gl",
+            "recJOprF28Fe5k3LG",
+            "recjyLRTRes5wMA4P",
+            "rech6BB28ZaFQqCiZ",
+            "rec2gByeYaxhoiWX8",
+            "rec8AnoyP9rAfDkR9",
+            "recE40W186mJ8WS1z",
+            "rec9a2h2xRy0fUjXq",
+            "rec1mO304jceDiM0i",
+            "recyzLl3PFx5RKbny",
+            "recX5F3CA34LBiRgL",
+            "recYrtaat1IkmpKda",
+            "recaosjse68wXgs2q",
+            "recwT8Eltxs55Ebuq",
+            "rec9f9r5m0Z7EaViY",
+            "rec6TcpATBlxDXlmI",
+            "recQ2A5jwxUwyQBKp",
+            "recvMcTNhASsZhLHn",
+            "recvzwK0Pqrvq89BC",
+            "recURgGBAnW6iUP7f",
+            "recDWGySyXf5x9RXf",
+            "rec9rdwkpPBSYn4JI",
+            "recnRf5Lkp0xrA8qD",
+            "recfuklMsbg3ckwqW",
+            "recohmAIcDQWzzNyL"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -2632,8 +2673,8 @@
         "airtable_createdTime": "2023-09-19T20:01:25.000Z",
         "airtable_id": "rec5eHGBBzm1Nf1sy",
         "auto_gen_id": 197,
-        "case count3": 10,
-        "count total": 10,
+        "case count3": 43,
+        "count total": 43,
         "county": "King County",
         "locality": "King County",
         "locality_built": "King County, King County, Washington",
@@ -3621,7 +3662,6 @@
             "recDd6C7GtQKaX0h7",
             "recX0LJZpjseaVjfw",
             "rec7emztOzfgL7Fuy",
-            "recAIQZyOS3SLkIcK",
             "rectgCEGI776rwYh5",
             "recMQL8mfDSuk3T6c",
             "recqvOBSbAxSUJXJv",
@@ -3642,12 +3682,37 @@
             "recNG1Pf16jTZz46Z",
             "recdBxvzbvAki5eOC",
             "rec0D39A03dShlW3I",
-            "recXjqL6Rl2En777t"
+            "recXjqL6Rl2En777t",
+            "recijRxokqV5dHr6C",
+            "recboYXnlcVg3g8pL",
+            "recw5RVbEFnX5DoEH",
+            "recT7TpVj4fMHFOST",
+            "recOF5hJHhRdZiH69",
+            "recGy34wXDjj9rf6v",
+            "recn4p7GWQsDZ0yKT",
+            "recd502QgpkO5Q8Um",
+            "recp5Bcu7IcPWbZ96",
+            "recGu6iDhTP6c9qCI",
+            "rechcpd1el12ZLpUf",
+            "recb1ide2QY78vdRu",
+            "recqYojvglf1yS4D9",
+            "recnnu7MEsc0BSz1q",
+            "recGr84ojjhO3S6n6",
+            "recZFEannqUwBiKzt",
+            "recFOqL0p6o8gkt9B",
+            "recnRf5Lkp0xrA8qD",
+            "rec6v0SZ4gJrFXcho",
+            "rec7pakb5CmPQqBpX",
+            "rec0CABJfR1arsGQR",
+            "recj5jVLvpIcSxawd",
+            "recSAMaQ07B1ByScZ",
+            "rec7NSSy3losm7hwE",
+            "recndkOEqdTi7F1fR"
         ],
         "Cases 2": [
             "recqCFsmrOWDv2k8D"
         ],
-        "Cases count1": 55,
+        "Cases count1": 79,
         "Count (Cases 2)": 1,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -3662,7 +3727,7 @@
         "auto_gen_id": 12,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 56,
+        "count total": 80,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -4003,6 +4068,36 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "recw5RVbEFnX5DoEH"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-10-03T14:10:55.000Z",
+        "ID": "hc.loc.000203",
+        "Name Markdown": "[The Detention House at the Local Office of the Department of Commerce and Labor, Immigration Service (Seattle, Washington)](hc.loc.000203)",
+        "airtable_createdTime": "2023-10-03T14:10:55.000Z",
+        "airtable_id": "recGvIV6Xf86qEvsY",
+        "auto_gen_id": 203,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King County",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "immigration detention"
+        ],
+        "location type": "site of significance",
+        "name": "The Detention House at the Local Office of the Department of Commerce and Labor, Immigration Service",
+        "primary field": "The Detention House at the Local Office of the Department of Commerce and Labor, Immigration Service (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "recvvWmNr5XzTZgu2"
         ],
@@ -4166,7 +4261,13 @@
             "recOvVB43vOOsYVKY",
             "rec6h2glHIUkVMvhy",
             "rec6ATR9coPSJFNfA",
-            "recZ0ixuDzGQARBOH"
+            "recZ0ixuDzGQARBOH",
+            "recKUmNUbNekKYwDd",
+            "recBYoWRTkAra4zha",
+            "recK0Ntx3CIYlMBtc",
+            "receEBjOAiCNouXxU",
+            "rec2ogAAIrsRDZhwK",
+            "recysXMqgkTrsUMhi"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4181,8 +4282,8 @@
         "airtable_createdTime": "2023-06-27T16:36:07.000Z",
         "airtable_id": "recJOCGiQkMFvnlfS",
         "auto_gen_id": 126,
-        "case count3": 21,
-        "count total": 21,
+        "case count3": 27,
+        "count total": 27,
         "county": "Douglas County",
         "locality": "Omaha",
         "locality_built": "Omaha, Douglas County, Nebraska",
@@ -4265,7 +4366,8 @@
             "recbRPI4nMkrugRPX",
             "rec5Mig44itwMoB2U",
             "recM2Gv6SjgU29UNj",
-            "rec19yMmq7b8XSwHm"
+            "rec19yMmq7b8XSwHm",
+            "recRch5iphAc7UNu0"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4281,9 +4383,9 @@
         "airtable_createdTime": "2023-07-27T17:21:47.000Z",
         "airtable_id": "recKyvxmc20BKQ8Qa",
         "auto_gen_id": 177,
-        "case count3": 8,
+        "case count3": 9,
         "coordinate specificity": "building",
-        "count total": 8,
+        "count total": 9,
         "county": "Walla Walla",
         "latitude": "46.064332207534434",
         "locality": "Walla Walla",
@@ -4798,17 +4900,12 @@
     },
     {
         "Cases": [
-            "recj5jVLvpIcSxawd",
-            "recndkOEqdTi7F1fR",
-            "rec7NSSy3losm7hwE",
-            "recSAMaQ07B1ByScZ",
-            "rec0CABJfR1arsGQR",
-            "rec7pakb5CmPQqBpX",
             "rec0vZSEQM3gMjcof",
             "recIJ9yOFmXPmxCzh",
-            "reckT2vJ7rm0fwo3l"
+            "reckT2vJ7rm0fwo3l",
+            "recAIQZyOS3SLkIcK"
         ],
-        "Cases count1": 9,
+        "Cases count1": 4,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ekrohn3@huskers.unl.edu",
@@ -4824,7 +4921,7 @@
         "auto_gen_id": 167,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 9,
+        "count total": 4,
         "county": "Walla Walla",
         "latitude": "46.065706012445744",
         "locality": "Walla Walla",
@@ -4849,7 +4946,10 @@
             "recAIQZyOS3SLkIcK",
             "recqvOBSbAxSUJXJv",
             "reczuaEcyS772V2Pv",
-            "recNz0eeyygJse4gK"
+            "recNz0eeyygJse4gK",
+            "recn4p7GWQsDZ0yKT",
+            "recGu6iDhTP6c9qCI",
+            "recqYojvglf1yS4D9"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4865,9 +4965,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
-        "case count3": 10,
+        "case count3": 13,
         "coordinate specificity": "building",
-        "count total": 10,
+        "count total": 13,
         "county": "NA",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
@@ -5085,6 +5185,37 @@
     },
     {
         "Cases 3": [
+            "recvJqoscxj1rkTED"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-09-28T15:29:35.000Z",
+        "ID": "hc.loc.000202",
+        "Name Markdown": "[Steamer Premier (Seattle, Washington)](hc.loc.000202)",
+        "airtable_createdTime": "2023-09-28T15:29:35.000Z",
+        "airtable_id": "recQZhcnafmvcyoFI",
+        "auto_gen_id": 202,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "King County",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamer Premier",
+        "primary field": "Steamer Premier (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recplZrYNhf2TAUa5"
         ],
         "Cases count1": 0,
@@ -5257,10 +5388,12 @@
             "recohtcVT3Q7iA4do",
             "reccHkRjZyBQPFvYW",
             "recNdzp0ZnNf0QI1B",
-            "recyIM2bKguQsZEAq"
+            "recyIM2bKguQsZEAq",
+            "recGME0YRRzR5WfxV",
+            "recpspYet6ewWy0M0"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 100,
+        "Count (Cases 2)": 102,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -5275,7 +5408,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 100,
+        "count total": 102,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -5327,6 +5460,35 @@
         "name": "The Police Court of the City of Omaha",
         "primary field": "The Police Court of the City of Omaha (Omaha, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recboYXnlcVg3g8pL"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "asynya2@huskers.unl.edu",
+            "id": "usrsxXrBoy7sdssaI",
+            "name": "Anna Synya"
+        },
+        "Created time": "2023-10-03T21:47:52.000Z",
+        "ID": "hc.loc.000204",
+        "Name Markdown": "[Honkong Maru (, )](hc.loc.000204)",
+        "Notes": "https://www.maritimeheritage.org/passengers/Hongkong--Maru-14August1906.html \nhttps://www.oldtokyo.com/honkon-hongkong-maru-tkk-line-1913/ ",
+        "airtable_createdTime": "2023-10-03T21:47:52.000Z",
+        "airtable_id": "recSQIGzOPMcbDN5v",
+        "alternative name": "Hongkong Maru",
+        "auto_gen_id": 204,
+        "case count3": 1,
+        "count total": 1,
+        "locality_built": ", , ",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Honkong Maru",
+        "primary field": "Honkong Maru (, )"
     },
     {
         "Cases 3": [
@@ -5550,6 +5712,38 @@
     },
     {
         "Cases 3": [
+            "rec1A9OLLr4cNjSeY"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-09-28T14:55:55.000Z",
+        "ID": "hc.loc.000201",
+        "Name Markdown": "[Queen of the Pacific (Seattle, Washington)](hc.loc.000201)",
+        "Notes": "Docked at Ocean Dock",
+        "airtable_createdTime": "2023-09-28T14:55:55.000Z",
+        "airtable_id": "recUOiac7PnpP03MN",
+        "auto_gen_id": 201,
+        "case count3": 1,
+        "coordinate specificity": "locality",
+        "count total": 1,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Queen of the Pacific",
+        "primary field": "Queen of the Pacific (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recmji8KuhtlYje3r",
             "rec9GMP1ONnP0NWVK",
             "reckxmKSX0Yb6mol0",
@@ -5560,7 +5754,28 @@
             "recLOwLjSCBmnaSxV",
             "recvggce0GTTzCpED",
             "recPODycbKr4aOqbf",
-            "rec9IHIguwctlzQ36"
+            "rec9IHIguwctlzQ36",
+            "reca8Hcc1MwFMnPgk",
+            "rec9iNIvZ2x8ozPjh",
+            "recGJmuH0XHLGg4xG",
+            "recmXVpkCebJg8Utr",
+            "recZzSjHew6Mcw36v",
+            "recVYOsaHaUmkTset",
+            "recGME0YRRzR5WfxV",
+            "recicsdqF8kcbQR8w",
+            "recIVaVnkdadoIMhG",
+            "recpspYet6ewWy0M0",
+            "reccxC1CZYdO1itdE",
+            "recnr3bjQGI8YZh7N",
+            "recCYEfuOE3r4ewOa",
+            "recXTriH6GfjH712k",
+            "recsHHeC4W13S9hkA",
+            "rec5x4c03Dp4zb5Si",
+            "recrrmmdcTTI5MgEn",
+            "recqBSlwW26PLi5vO",
+            "rec0i0hNo9p2eWI4J",
+            "recIHfHnIWvVtER8M",
+            "recnTk8hzZJiVrhqY"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5575,8 +5790,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 11,
-        "count total": 11,
+        "case count3": 32,
+        "count total": 32,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -6537,7 +6752,19 @@
             "recV15jGzDyyOf7LY",
             "recLVaQG8AroVAlKF",
             "recrItCSd0NtoEhKQ",
-            "recusivmvJO5sUlXP"
+            "recusivmvJO5sUlXP",
+            "recwZPqdBchiEj3p4",
+            "recesKD9F6xbpQhYv",
+            "rec3VWHqR9DOCpjTf",
+            "recGwI6DENwf9adGs",
+            "recNdqVp2mouGERGW",
+            "recnD9CVtTTsoNTh4",
+            "reccwUJF76xxNFswM",
+            "recwWqAnwn0GTSYcy",
+            "recaEL3hfK1xzetYY",
+            "rec0NBWPWaY6inuMi",
+            "rec2gbK4kFsmLNmHr",
+            "receoy43uXE5gyvsC"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -6552,8 +6779,8 @@
         "airtable_createdTime": "2023-08-30T15:36:37.000Z",
         "airtable_id": "recbU47a0SotmeDvh",
         "auto_gen_id": 184,
-        "case count3": 44,
-        "count total": 44,
+        "case count3": 56,
+        "count total": 56,
         "locality_built": ", , ",
         "location subtype": [
             "carceral facility"
@@ -8165,6 +8392,37 @@
     },
     {
         "Cases 3": [
+            "rec6v0SZ4gJrFXcho",
+            "recqYojvglf1yS4D9"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-09-28T14:07:30.000Z",
+        "ID": "hc.loc.000200",
+        "Name Markdown": "[United States Detention Station (Seattle, Washington)](hc.loc.000200)",
+        "airtable_createdTime": "2023-09-28T14:07:30.000Z",
+        "airtable_id": "reco6ThqIDuDtbf7N",
+        "auto_gen_id": 200,
+        "case count3": 2,
+        "count total": 2,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "immigration detention"
+        ],
+        "location type": "site of significance",
+        "name": "United States Detention Station",
+        "primary field": "United States Detention Station (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recaosjse68wXgs2q"
         ],
         "Cases count1": 0,
@@ -8233,9 +8491,11 @@
         "Cases": [
             "recnQ2uYmAczZrvhd",
             "recge6BJKrBnoVDX6",
-            "rec0CABJfR1arsGQR"
+            "rec0CABJfR1arsGQR",
+            "rec6v0SZ4gJrFXcho",
+            "recnnu7MEsc0BSz1q"
         ],
-        "Cases count1": 3,
+        "Cases count1": 5,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -8250,7 +8510,7 @@
         "auto_gen_id": 7,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 3,
+        "count total": 5,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -9274,10 +9534,29 @@
             "rec7pakb5CmPQqBpX",
             "rec0vZSEQM3gMjcof",
             "reckT2vJ7rm0fwo3l",
-            "recAbK9p23DrG6qrG"
+            "recAbK9p23DrG6qrG",
+            "rec6v0SZ4gJrFXcho",
+            "recnRf5Lkp0xrA8qD",
+            "recw5RVbEFnX5DoEH",
+            "recT7TpVj4fMHFOST",
+            "recOF5hJHhRdZiH69",
+            "recijRxokqV5dHr6C",
+            "recboYXnlcVg3g8pL",
+            "recFOqL0p6o8gkt9B",
+            "recZFEannqUwBiKzt",
+            "recGr84ojjhO3S6n6",
+            "recnnu7MEsc0BSz1q",
+            "recGy34wXDjj9rf6v",
+            "recn4p7GWQsDZ0yKT",
+            "recd502QgpkO5Q8Um",
+            "recp5Bcu7IcPWbZ96",
+            "recGu6iDhTP6c9qCI",
+            "recqYojvglf1yS4D9",
+            "rechcpd1el12ZLpUf",
+            "recb1ide2QY78vdRu"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 80,
+        "Count (Cases 2)": 99,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -9292,7 +9571,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 80,
+        "count total": 99,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",

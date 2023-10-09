@@ -20,8 +20,6 @@ class Datura::DataManager
     case_json = File.read(filepath)
     @old_case_documents = JSON.parse(case_json)
     @new_case_documents = {}
-  rescue => exception
-    print_error(exception)
   end
 
   def print_error(e)
@@ -43,6 +41,7 @@ temporarily disable the scrape_website setting in that file}.red
           error_with_transform_and_post("#{e}", @error_es)
         end
       else
+        byebug
         res_es = file.post_es(@old_case_documents, @new_case_documents, @es_url)
         if res_es && res_es.has_key?("error")
           error_with_transform_and_post(res_es["error"], @error_es)
