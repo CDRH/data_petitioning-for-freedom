@@ -150,6 +150,35 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "recI3n8OOt3uDEipr"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-12T19:07:55.000Z",
+        "ID": "hc.loc.000205",
+        "Name Markdown": "[House of the Good Sheppard (Seattle, Washington)](hc.loc.000205)",
+        "airtable_createdTime": "2023-10-12T19:07:55.000Z",
+        "airtable_id": "rec1LGy7GKQs9isAx",
+        "auto_gen_id": 205,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Seattle",
+        "locality_built": "Seattle, , Washington",
+        "location subtype": [
+            "welfare organization"
+        ],
+        "location type": "site of significance",
+        "name": "House of the Good Sheppard",
+        "primary field": "House of the Good Sheppard (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "recNthQdJf1ewogo4"
         ],
@@ -3707,12 +3736,16 @@
             "recj5jVLvpIcSxawd",
             "recSAMaQ07B1ByScZ",
             "rec7NSSy3losm7hwE",
-            "recndkOEqdTi7F1fR"
+            "recndkOEqdTi7F1fR",
+            "recy49rq7y46qlfut",
+            "recPPZ1bLnui77U5t",
+            "recS6JRpL0iSg6fdQ",
+            "reczxLPNXdFTx4XWH"
         ],
         "Cases 2": [
             "recqCFsmrOWDv2k8D"
         ],
-        "Cases count1": 79,
+        "Cases count1": 83,
         "Count (Cases 2)": 1,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -3727,7 +3760,7 @@
         "auto_gen_id": 12,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 80,
+        "count total": 84,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -4267,7 +4300,10 @@
             "recK0Ntx3CIYlMBtc",
             "receEBjOAiCNouXxU",
             "rec2ogAAIrsRDZhwK",
-            "recysXMqgkTrsUMhi"
+            "recysXMqgkTrsUMhi",
+            "reciOJXM3BgvJxwzY",
+            "reciyuFG9IiM0cUEm",
+            "recJuYlLbJVZ1k2Ac"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4282,8 +4318,8 @@
         "airtable_createdTime": "2023-06-27T16:36:07.000Z",
         "airtable_id": "recJOCGiQkMFvnlfS",
         "auto_gen_id": 126,
-        "case count3": 27,
-        "count total": 27,
+        "case count3": 30,
+        "count total": 30,
         "county": "Douglas County",
         "locality": "Omaha",
         "locality_built": "Omaha, Douglas County, Nebraska",
@@ -4294,6 +4330,36 @@
         "name": "Douglas County Jail",
         "primary field": "Douglas County Jail (Omaha, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "reczxLPNXdFTx4XWH"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-19T20:49:47.000Z",
+        "ID": "hc.loc.000208",
+        "Name Markdown": "[Multnomah County Jail (Portland, Oregon)](hc.loc.000208)",
+        "airtable_createdTime": "2023-10-19T20:49:47.000Z",
+        "airtable_id": "recJPiPjvzk0NN1Ed",
+        "auto_gen_id": 208,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Multnomah",
+        "locality": "Portland",
+        "locality_built": "Portland, Multnomah, Oregon",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "Multnomah County Jail",
+        "primary field": "Multnomah County Jail (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases": [
@@ -4355,6 +4421,35 @@
         "location type": "site of significance",
         "name": "Jail of Kitsap County",
         "primary field": "Jail of Kitsap County (Kitsap, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recv7URLnfV9q2Adh"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-12T19:18:29.000Z",
+        "ID": "hc.loc.000206",
+        "Name Markdown": "[Vancouver Barracks (Vancouver, Washington)](hc.loc.000206)",
+        "airtable_createdTime": "2023-10-12T19:18:29.000Z",
+        "airtable_id": "recJqLpWzVyuCn3YZ",
+        "auto_gen_id": 206,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Vancouver",
+        "locality_built": "Vancouver, , Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "name": "Vancouver Barracks",
+        "primary field": "Vancouver Barracks (Vancouver, Washington)",
         "state": "Washington"
     },
     {
@@ -4949,7 +5044,8 @@
             "recNz0eeyygJse4gK",
             "recn4p7GWQsDZ0yKT",
             "recGu6iDhTP6c9qCI",
-            "recqYojvglf1yS4D9"
+            "recqYojvglf1yS4D9",
+            "recS6JRpL0iSg6fdQ"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4965,13 +5061,13 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
-        "case count3": 13,
+        "case count3": 14,
         "coordinate specificity": "building",
-        "count total": 13,
-        "county": "NA",
+        "count total": 14,
+        "county": "N/A",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
-        "locality_built": "Steilacoom, NA, Washington",
+        "locality_built": "Steilacoom, N/A, Washington",
         "location subtype": [
             "penitentiary"
         ],
@@ -5117,6 +5213,35 @@
         "longitude": "-120.50652256700187",
         "name": "District Court of the Fourth Judicial District of Washington Territory",
         "primary field": "District Court of the Fourth Judicial District of Washington Territory (North Yakima, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "reczxLPNXdFTx4XWH"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-19T20:53:05.000Z",
+        "ID": "hc.loc.000209",
+        "Name Markdown": "[Immigration House of Detention (Seattle, Washington)](hc.loc.000209)",
+        "airtable_createdTime": "2023-10-19T20:53:05.000Z",
+        "airtable_id": "recQDYjtsbjV6LXak",
+        "auto_gen_id": 209,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Seattle",
+        "locality_built": "Seattle, , Washington",
+        "location subtype": [
+            "immigration detention"
+        ],
+        "location type": "site of significance",
+        "name": "Immigration House of Detention",
+        "primary field": "Immigration House of Detention (Seattle, Washington)",
         "state": "Washington"
     },
     {
@@ -7685,6 +7810,40 @@
     },
     {
         "Cases 3": [
+            "recPPZ1bLnui77U5t"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "asynya2@huskers.unl.edu",
+            "id": "usrsxXrBoy7sdssaI",
+            "name": "Anna Synya"
+        },
+        "Created time": "2023-10-18T17:32:41.000Z",
+        "ID": "hc.loc.000207",
+        "Name Markdown": "[National Army Camp at American Lake (Lakewood, Washington)](hc.loc.000207)",
+        "airtable_createdTime": "2023-10-18T17:32:41.000Z",
+        "airtable_id": "reciyiPn1Shvdkxcd",
+        "auto_gen_id": 207,
+        "case count3": 1,
+        "coordinate specificity": "landmark",
+        "count total": 1,
+        "county": "Pierce County",
+        "latitude": "47.0851",
+        "locality": "Lakewood",
+        "locality_built": "Lakewood, Pierce County, Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.2846",
+        "modern name": "Joint Base Lewis-McChord",
+        "name": "National Army Camp at American Lake",
+        "primary field": "National Army Camp at American Lake (Lakewood, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "rec2IZ7I5uWUHSW0Q"
         ],
         "Cases count1": 0,
@@ -9553,10 +9712,14 @@
             "recGu6iDhTP6c9qCI",
             "recqYojvglf1yS4D9",
             "rechcpd1el12ZLpUf",
-            "recb1ide2QY78vdRu"
+            "recb1ide2QY78vdRu",
+            "reczxLPNXdFTx4XWH",
+            "recy49rq7y46qlfut",
+            "recPPZ1bLnui77U5t",
+            "recS6JRpL0iSg6fdQ"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 99,
+        "Count (Cases 2)": 103,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -9571,7 +9734,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 99,
+        "count total": 103,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
