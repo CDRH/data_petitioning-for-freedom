@@ -128,7 +128,7 @@
         },
         "Created time": "2023-05-16T18:03:08.000Z",
         "ID": "hc.loc.000093",
-        "Name Markdown": "[ St. James Orphanage (Omaha, Nebraska)](hc.loc.000093)",
+        "Name Markdown": "[St. James Orphanage (Omaha, Nebraska)](hc.loc.000093)",
         "address": "3300 N 60th St, Omaha, NE 68104",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec1Kki18hZxYzQLM",
@@ -145,8 +145,8 @@
         ],
         "location type": "site of significance",
         "longitude": "-96.00594943182097",
-        "name": " St. James Orphanage",
-        "primary field": " St. James Orphanage (Omaha, Nebraska)",
+        "name": "St. James Orphanage",
+        "primary field": "St. James Orphanage (Omaha, Nebraska)",
         "state": "Nebraska"
     },
     {
@@ -628,6 +628,32 @@
         "name": "Municipal Court of Chicago ",
         "primary field": "Municipal Court of Chicago  (Chicago , Illinois)",
         "state": "Illinois"
+    },
+    {
+        "Cases 3": [
+            "recF6aSUEAWVeXbon"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "mbrooks12@huskers.unl.edu",
+            "id": "usrYUmUR3yFmQ7Bci",
+            "name": "Molli Brooks"
+        },
+        "Created time": "2023-10-23T15:48:55.000Z",
+        "ID": "hc.loc.000210",
+        "Name Markdown": "[Alameda County Jail (, California)](hc.loc.000210)",
+        "airtable_createdTime": "2023-10-23T15:48:55.000Z",
+        "airtable_id": "rec4hKLdxBqVqA79M",
+        "auto_gen_id": 210,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Alameda",
+        "locality_built": ", Alameda, California",
+        "location type": "site of significance",
+        "name": "Alameda County Jail",
+        "primary field": "Alameda County Jail (, California)",
+        "state": "California"
     },
     {
         "Cases": [
@@ -2687,7 +2713,8 @@
             "rec9rdwkpPBSYn4JI",
             "recnRf5Lkp0xrA8qD",
             "recfuklMsbg3ckwqW",
-            "recohmAIcDQWzzNyL"
+            "recohmAIcDQWzzNyL",
+            "rec34aIdfepM4htqq"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -2702,8 +2729,8 @@
         "airtable_createdTime": "2023-09-19T20:01:25.000Z",
         "airtable_id": "rec5eHGBBzm1Nf1sy",
         "auto_gen_id": 197,
-        "case count3": 43,
-        "count total": 43,
+        "case count3": 44,
+        "count total": 44,
         "county": "King County",
         "locality": "King County",
         "locality_built": "King County, King County, Washington",
@@ -2903,7 +2930,8 @@
             "recL3S14oK7IkeuLo",
             "recRmNs5ZRmkLQzkM",
             "recxGkHBvthZjJdOs",
-            "recN8V8jVwKfqu7AB"
+            "recN8V8jVwKfqu7AB",
+            "recaErUDRRaxzUZJq"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -2919,9 +2947,9 @@
         "airtable_createdTime": "2023-06-29T16:14:55.000Z",
         "airtable_id": "rec7VaZB4QxxP2hXR",
         "auto_gen_id": 135,
-        "case count3": 11,
+        "case count3": 12,
         "coordinate specificity": "county",
-        "count total": 11,
+        "count total": 12,
         "county": "Douglas",
         "locality": "Omaha",
         "locality_built": "Omaha, Douglas, Nebraska",
@@ -3740,12 +3768,14 @@
             "recy49rq7y46qlfut",
             "recPPZ1bLnui77U5t",
             "recS6JRpL0iSg6fdQ",
-            "reczxLPNXdFTx4XWH"
+            "reczxLPNXdFTx4XWH",
+            "recF6aSUEAWVeXbon",
+            "recR0EAtJWT9GfomB"
         ],
         "Cases 2": [
             "recqCFsmrOWDv2k8D"
         ],
-        "Cases count1": 83,
+        "Cases count1": 85,
         "Count (Cases 2)": 1,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -3760,7 +3790,7 @@
         "auto_gen_id": 12,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 84,
+        "count total": 86,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5045,7 +5075,8 @@
             "recn4p7GWQsDZ0yKT",
             "recGu6iDhTP6c9qCI",
             "recqYojvglf1yS4D9",
-            "recS6JRpL0iSg6fdQ"
+            "recS6JRpL0iSg6fdQ",
+            "recF6aSUEAWVeXbon"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5061,9 +5092,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
-        "case count3": 14,
+        "case count3": 15,
         "coordinate specificity": "building",
-        "count total": 14,
+        "count total": 15,
         "county": "N/A",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
@@ -5900,7 +5931,8 @@
             "recqBSlwW26PLi5vO",
             "rec0i0hNo9p2eWI4J",
             "recIHfHnIWvVtER8M",
-            "recnTk8hzZJiVrhqY"
+            "recnTk8hzZJiVrhqY",
+            "recyd1wDqd2zOtbrb"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5915,8 +5947,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 32,
-        "count total": 32,
+        "case count3": 33,
+        "count total": 33,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -6253,6 +6285,37 @@
         "name": "Maricopa County Superior Court",
         "primary field": "Maricopa County Superior Court (Phoenix, Arizona)",
         "state": "Arizona"
+    },
+    {
+        "Cases 3": [
+            "recNP6WDkRbbFTSbh"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-24T15:10:46.000Z",
+        "ID": "hc.loc.000211",
+        "Name Markdown": "[City Hall (Seattle, Washington)](hc.loc.000211)",
+        "Notes": "https://www.seattle.gov/cityarchives/exhibits-and-education/online-exhibits/seattles-city-halls",
+        "airtable_createdTime": "2023-10-24T15:10:46.000Z",
+        "airtable_id": "recXIY1RCRRP0CzMl",
+        "alternative name": "Katzenjammer Castle",
+        "auto_gen_id": 211,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Seattle",
+        "locality_built": "Seattle, , Washington",
+        "location subtype": [
+            "courthouse"
+        ],
+        "location type": "site of significance",
+        "name": "City Hall",
+        "primary field": "City Hall (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -6889,7 +6952,9 @@
             "recaEL3hfK1xzetYY",
             "rec0NBWPWaY6inuMi",
             "rec2gbK4kFsmLNmHr",
-            "receoy43uXE5gyvsC"
+            "receoy43uXE5gyvsC",
+            "rec38OzJIfLsp2bmL",
+            "recMZpDNvFvGOssVd"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -6904,8 +6969,8 @@
         "airtable_createdTime": "2023-08-30T15:36:37.000Z",
         "airtable_id": "recbU47a0SotmeDvh",
         "auto_gen_id": 184,
-        "case count3": 56,
-        "count total": 56,
+        "case count3": 58,
+        "count total": 58,
         "locality_built": ", , ",
         "location subtype": [
             "carceral facility"
@@ -9716,10 +9781,12 @@
             "reczxLPNXdFTx4XWH",
             "recy49rq7y46qlfut",
             "recPPZ1bLnui77U5t",
-            "recS6JRpL0iSg6fdQ"
+            "recS6JRpL0iSg6fdQ",
+            "recF6aSUEAWVeXbon",
+            "recR0EAtJWT9GfomB"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 103,
+        "Count (Cases 2)": 105,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -9734,7 +9801,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 103,
+        "count total": 105,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
@@ -9880,6 +9947,36 @@
         "name": "State Reformatory for Women",
         "primary field": "State Reformatory for Women (York, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "reczNrrCajm95mEfr"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ethand479@gmail.com",
+            "id": "usrbjsFnLIzOrzoQf",
+            "name": "Ethan Dunn"
+        },
+        "Created time": "2023-10-24T19:03:36.000Z",
+        "ID": "hc.loc.000212",
+        "Name Markdown": "[North Yakima City Jail (North Yakima, Washington)](hc.loc.000212)",
+        "airtable_createdTime": "2023-10-24T19:03:36.000Z",
+        "airtable_id": "reczx0FdxCJTh5WfT",
+        "auto_gen_id": 212,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Yakima",
+        "locality": "North Yakima",
+        "locality_built": "North Yakima, Yakima, Washington",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "North Yakima City Jail",
+        "primary field": "North Yakima City Jail (North Yakima, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
