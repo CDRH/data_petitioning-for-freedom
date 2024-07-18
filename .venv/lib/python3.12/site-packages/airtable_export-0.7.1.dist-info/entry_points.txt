@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        airtable-export=airtable_export.cli:cli
+    
