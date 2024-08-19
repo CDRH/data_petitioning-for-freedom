@@ -130,6 +130,18 @@ class CsvToEsPerson < CsvToEs
 
     def rdf
       case_roles = []
+      if @row["case_role"]
+        JSON.parse(@row["case_role"]).each do |case_role|
+          if case_role.include?("petitioner attorney") || case_role.include?("petitioner") || case_role.include?("respondent")
+            #[person name](person id)|relationship|[case name](case id)
+            case_id = parse_md_parentheses(case_role.split("|")[2])
+            role = case_role.split("|")[1]
+            original_person = case_role.split("|")[0]
+            roles = search_case_roles(role, case_id, original_person)
+            case_roles.push(*roles)
+          end
+        end
+      end
       if @row["RDF - person relationship person (from Relationships [join])"]
         JSON.parse(@row["RDF - person relationship person (from Relationships [join])"]).each do |person_info|
           if person_info
@@ -185,7 +197,7 @@ class CsvToEsPerson < CsvToEs
           case_roles << roles
         end
       end
-      case_roles
+      case_roles.uniq
     end
 
     def keywords
@@ -235,6 +247,51 @@ class CsvToEsPerson < CsvToEs
         # end
       end
       return array_to_string(built_text, " ")
+    end
+
+    def search_case_roles(role, case_id, original_person)
+      roles = []
+      #construct regex based on the particular case role
+      regexes = {}
+      if role == "petitioner attorney"
+        #respondent attorney, judge
+        regexes["petitioner attorney"] = [/^.*?\brespondent attorney\b.*?\b#{case_id}\b.*?$/, /^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
+      end
+      if role == "petitioner"
+        #judge
+        regexes["petitioner"] = [/^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
+      elsif role == "respondent"
+        #judge
+        regexes["respondent"] = [/^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
+      end
+      regexes.each do |role, regex_list|
+        @csv.each do |row|
+          #we *also* need to split the case role into JSON. this is getting too deep.
+          #*does the regex match 
+          #*after parsing with json, how to get the right one?
+          regex_list.each do |regex|
+            if regex.match?(row["case_role"])
+              JSON.parse(row["case_role"]).select {|role| regex.match(role) }.each do |case_role|
+                #problem, also need to know the corresponding role
+                second_person = case_role.split("|")[0]
+                relationship = (role == "petitioner attorney" && regex.to_s.include?("respondent attorney")) ? "attorney against" : "judged by"
+                # parse person from markdown entry: [person name](person id)
+                person1_name = parse_md_brackets(original_person)
+                person1_id = parse_md_parentheses(original_person)
+                person2_name = parse_md_brackets(second_person)
+                person2_id = parse_md_parentheses(second_person)
+                roles << {
+                  "type" => "person_relationship",
+                  "subject" => "#{person1_name} {#{person1_id}}",
+                  "predicate" => relationship,
+                  "object" => "#{person2_name} {#{person2_id}}"
+                }
+              end
+            end
+          end
+        end
+      end
+      roles.uniq
     end
 
   end
