@@ -253,18 +253,18 @@ class CsvToEsPerson < CsvToEs
       roles = []
       #construct regex based on the particular case role
       regexes = {}
-      if role == "petitioner attorney"
+      if role.include?("petitioner attorney")
         #respondent attorney, judge
         regexes["petitioner attorney"] = [/^.*?\brespondent attorney\b.*?\b#{case_id}\b.*?$/, /^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
       end
-      if role == "petitioner"
+      if role.include?("petitioner")
         #judge
         regexes["petitioner"] = [/^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
-      elsif role == "respondent"
+      elsif role.include?("respondent")
         #judge
         regexes["respondent"] = [/^.*?\bjudge\b.*?\b#{case_id}\b.*?$/]
       end
-      regexes.each do |role, regex_list|
+      regexes.each do |person_role, regex_list|
         @csv.each do |row|
           #we *also* need to split the case role into JSON. this is getting too deep.
           #*does the regex match 
