@@ -64,9 +64,9 @@ class FileCsv < FileType
     end
 
     def table_type
-        if self.filename.include? "people"
+        if self.filename.include?("people")
             "people"
-        elsif self.filename.include? "locations"
+        elsif self.filename.include?("locations")
           "locations"
         else
           "cases"
