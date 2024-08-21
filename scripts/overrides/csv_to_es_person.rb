@@ -79,8 +79,8 @@ class CsvToEsPerson < CsvToEs
     def person
       people = []
       person_tags = parse_json("Tags")
-      sex = parse_json("Sex")[0] if parse_json("Sex")
-      race = parse_json("Race or Ethnicity")[0] if parse_json("Race or Ethnicity")
+      sex = parse_json("Sex")
+      race = parse_json("Race or Ethnicity")
       people << {
         "role" => "person",
         "name" => title,
