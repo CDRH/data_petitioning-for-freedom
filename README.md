@@ -35,7 +35,7 @@ The PFF database will be an ideal teaching tool for students interested in the h
 
 Petitions for Freedom: Habeas Corpus in the Borderlands of Freedom & Slavery is a project directed by Katrina Jagodinsky, and published jointly by the Center for Digital Research in the Humanities and the Department of History at the University of Nebraska, Lincoln.
 
-**Project Site:** Site is not live.
+**Project Site:** [https://petitioningforfreedom.unl.edu/](https://petitioningforfreedom.unl.edu/)
 
 **Rails Repo:** [https://github.com/CDRH/habeascorpus](https://github.com/CDRH/habeascorpus)
 
