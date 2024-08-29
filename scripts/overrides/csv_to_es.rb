@@ -353,12 +353,13 @@ class CsvToEs
     end
 
     def find_match(value)
+      #finds a match with the word and replaces with matching dictionary values
       new_value = ""
       @dictionary.each do |arr|
         arr.each do |term|
           #how to handle case?
-          if value && value.downcase.include?(term)
-            new_value = value.gsub /#{term}/i, arr.join(" ")
+          if value && value.downcase.match(/\b(?:#{term})\b/)
+            new_value = value.gsub /\b(?:#{term})\b/i, arr.join(" ")
           end
         end
       end
