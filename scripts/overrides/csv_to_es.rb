@@ -303,6 +303,20 @@ class CsvToEs
       sources
     end
 
+    def has_relation
+      relations = []
+      if parse_json("Related Petitions Markdown")
+        related_petitions = parse_json("Related Petitions Markdown")
+        related_petitions.each do |petition|
+          petition_id = parse_md_parentheses(petition)
+          petition_name = parse_md_brackets(petition)
+          relation = { "role" => "Related Case", "id" => petition_id, "title" => petition_name}
+          relations << relation
+        end
+      end
+      relations
+    end
+
     private
 
     def parse_json(key)
@@ -319,6 +333,8 @@ class CsvToEs
 
     def parse_md_brackets(query)
       # given a markdown style link, parse the part in brackets
+      #remove newline character, which confuse regex
+      query.delete!("\n")
       if /\[(.*?)\]/.match(query)
         /\[(.*?)\]/.match(query)[1]
       else
