@@ -52,6 +52,7 @@ class CsvToEs
     # Original fields:
     # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
     def assemble_collection_specific
+      @json["title_t"] = title
 		end
 		
 		def id
@@ -257,8 +258,10 @@ class CsvToEs
           next
         end
         new_value = (find_match(value).length > 0) ? find_match(value) : value
-        built_text << new_value.to_s.gsub("\"", "")
+        #strip out quoted values and ids other than item itself
+        built_text << new_value.to_s.gsub("\"", "").gsub(/(hc\..+?\d)\D/, "")
       end
+      built_text << get_id
       return array_to_string(built_text, " ")
     end
 
@@ -300,6 +303,20 @@ class CsvToEs
       sources
     end
 
+    def has_relation
+      relations = []
+      if parse_json("Related Petitions Markdown")
+        related_petitions = parse_json("Related Petitions Markdown")
+        related_petitions.each do |petition|
+          petition_id = parse_md_parentheses(petition)
+          petition_name = parse_md_brackets(petition)
+          relation = { "role" => "Related Case", "id" => petition_id, "title" => petition_name}
+          relations << relation
+        end
+      end
+      relations
+    end
+
     private
 
     def parse_json(key)
@@ -316,6 +333,10 @@ class CsvToEs
 
     def parse_md_brackets(query)
       # given a markdown style link, parse the part in brackets
+      #remove newline character, which confuse regex
+      if query
+        query.delete!("\n")
+      end
       if /\[(.*?)\]/.match(query)
         /\[(.*?)\]/.match(query)[1]
       else
@@ -334,7 +355,11 @@ class CsvToEs
       if markdown_array && (markdown_array.select{ |data| data && data.include?(case_id) }.length > 0)
         # find field value (i.e. age) that matches the given case id. look only in the markdown corresponding to the case
         # if there are multiple, return both joined by comma
-        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| kase.split("|")[1] }.uniq.join(", ")
+        markdown_array.select{ |data| data && data.split("|").length == 3 && data.split("|")[2].include?(case_id)}.map{ |kase| 
+          if kase.split("|")[1]
+            kase.split("|")[1].split(", ")
+          end
+        }.uniq.join(", ")
       end
     end
 
@@ -346,12 +371,13 @@ class CsvToEs
     end
 
     def find_match(value)
+      #finds a match with the word and replaces with matching dictionary values
       new_value = ""
       @dictionary.each do |arr|
         arr.each do |term|
           #how to handle case?
-          if value && value.downcase.include?(term)
-            new_value = value.gsub /#{term}/i, arr.join(" ")
+          if value && value.downcase.match(/\b(?:#{term})\b/)
+            new_value = value.gsub /\b(?:#{term})\b/i, arr.join(" ")
           end
         end
       end

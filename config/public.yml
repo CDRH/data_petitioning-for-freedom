@@ -3,6 +3,9 @@ default:
   collection_desc: Habeas Corpus
   collection: habeascorpus
   threads: 20
+  # scrape_endpoint is tacked onto the end of site_url
+  scrape_endpoint: content_pages
+  scrape_website: true
 
 development:
   api_version: '2.0'
@@ -13,6 +16,7 @@ production:
   api_version: '2.0'
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
+  scrape_website: false
 
 # this is for generating plain text files per Katrina's request
 # run with `post -x html -e text`

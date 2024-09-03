@@ -58,14 +58,15 @@ class FileCsv < FileType
         puts "processing " + row["unique_id"]
         CsvToEsPerson.new(row, options, @csv, self.filename(false)).json
       elsif table == "locations"
+        puts "processing " + row["ID"]
         CsvToEsLocation.new(row, options, @csv, self.filename(false)).json
       end
     end
 
     def table_type
-        if self.filename.include? "people"
+        if self.filename.include?("people")
             "people"
-        elsif self.filename.include? "locations"
+        elsif self.filename.include?("locations")
           "locations"
         else
           "cases"
