@@ -677,25 +677,6 @@
         "state": "Nebraska"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RBRINKLEY2@UNL.EDU",
-            "id": "usrueK4FXqIULPEZW",
-            "name": "Roshawnna Brinkley"
-        },
-        "Created time": "2024-07-23T15:53:43.000Z",
-        "ID": "hc.loc.000276",
-        "Name Markdown": "[ (, )](hc.loc.000276)",
-        "airtable_createdTime": "2024-07-23T15:53:43.000Z",
-        "airtable_id": "rec3MuLXuDT5jTMj8",
-        "auto_gen_id": 276,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases 3": [
             "recKCjMyT1hqk1xiI"
         ],
@@ -787,6 +768,38 @@
         "name": "Nebraska State Hospital for the Insane",
         "primary field": "Nebraska State Hospital for the Insane (Lincoln, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recPG4q2mrS9TnsGd"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2024-08-30T15:39:03.000Z",
+        "ID": "hc.loc.000282",
+        "Name Markdown": "[Boys' and Girls' Aid Society (Seattle, Washington)](hc.loc.000282)",
+        "Notes": "Founded in 1890 by Cicero Newell and operating as a privately-run school and home for \"neglected, indigent, and unfortunate\" children. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.seattleschools.org/wp-content/uploads/2021/07/burbank.pdf",
+        "airtable_createdTime": "2024-08-30T15:39:03.000Z",
+        "airtable_id": "rec3jX5F6He93vwNi",
+        "alternative name": "Boys' and Girls' Industrial School",
+        "auto_gen_id": 282,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Boys' and Girls' Aid Society",
+        "primary field": "Boys' and Girls' Aid Society (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases": [
@@ -5837,6 +5850,41 @@
     },
     {
         "Cases 3": [
+            "recwsL142AUwfzLYd"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2024-08-30T18:35:24.000Z",
+        "ID": "hc.loc.000283",
+        "Name Markdown": "[Sacred Heart Orphanage (Seattle, Washington)](hc.loc.000283)",
+        "Notes": "Sacred Heart Orphanage is the school/home associated with Missionaries of the Sacred Heart in 1910s Seattle. https://digitalcollections.lib.washington.edu/digital/collection/seattle/id/2603/\nhttps://www.stjames-cathedral.org/pubs/midst/01Fall/cabrini.htm",
+        "address": "5301 East 50th St.",
+        "airtable_createdTime": "2024-08-30T18:35:24.000Z",
+        "airtable_id": "recKqU1g5n5uNkDte",
+        "alternative name": "Missionaries of the Sacred Heart",
+        "auto_gen_id": 283,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "juvenile facility",
+            "children's home"
+        ],
+        "location type": "site of significance",
+        "modern name": "Villa Academy",
+        "name": "Sacred Heart Orphanage",
+        "primary field": "Sacred Heart Orphanage (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recxKfeGDxTPWbolY",
             "recgCsRZjiNlLmeOu",
             "recGkFPuiBgOad8TC",
@@ -7162,10 +7210,16 @@
             "recHW5gggfAEuNUlC",
             "rec1tWHQjEFhDRq9L",
             "recZViOSD5FqOrhfB",
-            "recRRI1sQr0z5BdyS"
+            "recRRI1sQr0z5BdyS",
+            "recfOnvkxBnPRMT0K",
+            "recghJQRJrGn9MHwf",
+            "receiImjtZQnzyS18",
+            "recx3KhZZ0HIgil2n",
+            "recsONrhceFqifyhh",
+            "recwsL142AUwfzLYd"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 260,
+        "Count (Cases 2)": 266,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -7180,7 +7234,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 260,
+        "count total": 266,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -7742,7 +7796,12 @@
             "rec6AnxEPbPH1XfYC",
             "recIWobuNSE0dUcoh",
             "recHW5gggfAEuNUlC",
-            "recRRI1sQr0z5BdyS"
+            "recRRI1sQr0z5BdyS",
+            "recfOnvkxBnPRMT0K",
+            "recghJQRJrGn9MHwf",
+            "receiImjtZQnzyS18",
+            "recx3KhZZ0HIgil2n",
+            "recsONrhceFqifyhh"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -7757,8 +7816,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 71,
-        "count total": 71,
+        "case count3": 76,
+        "count total": 76,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -8271,6 +8330,35 @@
         "longitude": "-120.54406578035757",
         "name": "Washington State Archives, Central Regional Branch",
         "primary field": "Washington State Archives, Central Regional Branch (Ellensburg, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recBKJQzWQrZxu6Ua"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2024-08-27T19:34:04.000Z",
+        "ID": "hc.loc.000281",
+        "Name Markdown": "[Common Jail of Lincoln County, Washington (, Washington)](hc.loc.000281)",
+        "airtable_createdTime": "2024-08-27T19:34:04.000Z",
+        "airtable_id": "recXzwrF12ZXcXqhU",
+        "auto_gen_id": 281,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Lincoln County",
+        "locality_built": ", Lincoln County, Washington",
+        "location subtype": [
+            "County Jail"
+        ],
+        "location type": "site of significance",
+        "name": "Common Jail of Lincoln County, Washington",
+        "primary field": "Common Jail of Lincoln County, Washington (, Washington)",
         "state": "Washington"
     },
     {
@@ -10876,25 +10964,6 @@
         "state": "Missouri"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "MMARTINEZ47@UNL.EDU",
-            "id": "usrelNTKyD1Kb9iUY",
-            "name": "Miranda Martinez"
-        },
-        "Created time": "2024-07-22T19:43:26.000Z",
-        "ID": "hc.loc.000273",
-        "Name Markdown": "[ (, )](hc.loc.000273)",
-        "airtable_createdTime": "2024-07-22T19:43:26.000Z",
-        "airtable_id": "recp8QLxhcJzNJ2Bm",
-        "auto_gen_id": 273,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases": [
             "recnQ2uYmAczZrvhd",
             "recge6BJKrBnoVDX6",
@@ -11514,25 +11583,6 @@
         "state": "Washington"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RBRINKLEY2@UNL.EDU",
-            "id": "usrueK4FXqIULPEZW",
-            "name": "Roshawnna Brinkley"
-        },
-        "Created time": "2024-07-23T15:53:19.000Z",
-        "ID": "hc.loc.000275",
-        "Name Markdown": "[ (, )](hc.loc.000275)",
-        "airtable_createdTime": "2024-07-23T15:53:19.000Z",
-        "airtable_id": "recthh2DnCZqPmG7N",
-        "auto_gen_id": 275,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases 3": [
             "recRlo9R1QNbGKlvl"
         ],
@@ -11685,25 +11735,6 @@
         "name": "Gage County Court",
         "primary field": "Gage County Court (Beatrice, Nebraska)",
         "state": "Nebraska"
-    },
-    {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RBRINKLEY2@UNL.EDU",
-            "id": "usrueK4FXqIULPEZW",
-            "name": "Roshawnna Brinkley"
-        },
-        "Created time": "2024-07-19T20:58:11.000Z",
-        "ID": "hc.loc.000270",
-        "Name Markdown": "[ (, )](hc.loc.000270)",
-        "airtable_createdTime": "2024-07-19T20:58:11.000Z",
-        "airtable_id": "recw5JvCV7fgKCja8",
-        "auto_gen_id": 270,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
     },
     {
         "Cases 3": [
@@ -12280,7 +12311,13 @@
             "recHW5gggfAEuNUlC",
             "rec1tWHQjEFhDRq9L",
             "recZViOSD5FqOrhfB",
-            "recRRI1sQr0z5BdyS"
+            "recRRI1sQr0z5BdyS",
+            "recfOnvkxBnPRMT0K",
+            "recghJQRJrGn9MHwf",
+            "receiImjtZQnzyS18",
+            "recx3KhZZ0HIgil2n",
+            "recsONrhceFqifyhh",
+            "recwsL142AUwfzLYd"
         ],
         "Cases 2": [
             "recQuHapQKWNNpxZo",
@@ -12311,9 +12348,10 @@
             "recfPi5GaHCBMbLL3",
             "recxV5cvAPGErxctZ",
             "rec25QJe7p8oQnsQF",
-            "recOUqaXXLmkFYbf7"
+            "recOUqaXXLmkFYbf7",
+            "recwsL142AUwfzLYd"
         ],
-        "Cases count1": 157,
+        "Cases count1": 163,
         "Count (Cases 2)": 4,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -12326,8 +12364,8 @@
         "airtable_createdTime": "2024-05-22T15:40:38.000Z",
         "airtable_id": "recy3WWcabaOG126y",
         "auto_gen_id": 245,
-        "case count3": 23,
-        "count total": 184,
+        "case count3": 24,
+        "count total": 191,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
