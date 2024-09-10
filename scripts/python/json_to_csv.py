@@ -26,7 +26,6 @@ locations_path = (cwd / locations_relative).resolve()
 cases_frame = pd.read_json(cases_path, orient="records")
 people_frame = pd.read_json(people_path, orient="records")
 locations_frame = pd.read_json(locations_path, orient="records")
-breakpoint()
 # set index so values can be retrieved in the proper order
 people_frame = people_frame.set_index("airtable_id")
 # remove unwanted columns, join ids, airtable-specific metadata, etc. and rename desired columns
