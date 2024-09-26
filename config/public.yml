@@ -1,24 +1,20 @@
 default:
-  shortname: habeascorpus
-  collection_desc: Habeas Corpus
-  collection: habeascorpus
+  project_desc: Petitioning for Freedom
+  collection: petitioning-for-freedom
+  api_version: "2.0"
   threads: 20
-  # scrape_endpoint is tacked onto the end of site_url
-  scrape_endpoint: content_pages
-  scrape_website: true
 
 development:
-  api_version: '2.0'
-  es_path: https://whitman-dev.unl.edu/elastic
-  es_index: habeas
-  site_url: https://cdrhdev1.unl.edu/habeascorpus
-production:
-  api_version: '2.0'
-  es_path: https://cdrhapi.unl.edu/elastic
-  es_index: cdrhapi-v1
-  scrape_website: false
+  site_url: https://servername.unl.edu/petitioning-for-freedom
+  es_path: https://servername.unl.edu/elastic
+  es_index: cdrhapidev-v2
+  media_base: https://servername.unl.edu
+  data_base: https://servername.unl.edu/media
 
-# this is for generating plain text files per Katrina's request
-# run with `post -x html -e text`
-text:
-  tei_html_xsl: scripts/overrides/tei_to_text.xsl
+production:
+  site_url: https://petitioningforfreedom.unl.edu
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v2
+  media_base: https://servername.unl.edu
+  data_base: https://servername.unl.edu/media
+~
