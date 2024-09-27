@@ -1,11 +1,13 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: 67eedaa7afacfe39a443c59931510d5b81c5732d
-  branch: new_fields
+  revision: e1498c77c058d63c3e09dcaba99ec786bb262352
+  branch: dev
   specs:
-    datura (0.2.0.pre.beta)
+    datura (0.2.0)
+      byebug (~> 11.0)
       colorize (~> 0.8.1)
       nokogiri (~> 1.10)
+      pdf-reader (~> 2.12)
       rest-client (~> 2.1)
 
 GEM
