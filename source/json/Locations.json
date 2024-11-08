@@ -68,25 +68,6 @@
         "state": "Washington"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RMINTON2@UNL.EDU",
-            "id": "usrhfRVrMgroi1UQR",
-            "name": "Ryan Minton"
-        },
-        "Created time": "2024-07-12T19:02:33.000Z",
-        "ID": "hc.loc.000264",
-        "Name Markdown": "[ (, )](hc.loc.000264)",
-        "airtable_createdTime": "2024-07-12T19:02:33.000Z",
-        "airtable_id": "rec0Y3hx19xKCQBty",
-        "auto_gen_id": 264,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases 3": [
             "recMMy2dx9NA7tZcD",
             "recKh2PFeAfU8IAsI",
@@ -267,7 +248,8 @@
             "recGPxojIo6zIem2h",
             "recZBClUZNcWS4RLp",
             "recfNYs2URcwKULex",
-            "recNEYAJRW6ojUEjo"
+            "recNEYAJRW6ojUEjo",
+            "recSwXZ5kXFTlewkW"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -284,8 +266,8 @@
         "airtable_createdTime": "2023-10-12T19:07:55.000Z",
         "airtable_id": "rec1LGy7GKQs9isAx",
         "auto_gen_id": 205,
-        "case count3": 6,
-        "count total": 6,
+        "case count3": 7,
+        "count total": 7,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -3184,7 +3166,29 @@
             "recXrPG3V5tuOkHxK",
             "rec1tWHQjEFhDRq9L",
             "recZViOSD5FqOrhfB",
-            "recOUqaXXLmkFYbf7"
+            "recOUqaXXLmkFYbf7",
+            "recBR9ZvYvc1jmYX6",
+            "recuLCxR3OGF4pm1B",
+            "rec78PxgUDEr5ketg",
+            "rec6FGOT5k4cGc6SS",
+            "recE10pqkwV48brhl",
+            "rec6t5wHDbe6pNXyi",
+            "recvpeU3CLCcGzfMn",
+            "recBdyRpil4f8jPz5",
+            "recV3I5aeGS5zdrOT",
+            "recvfUeIfkkIQtsj2",
+            "recWeHFXsPIfP7i9c",
+            "recQUguNzTRrPcL14",
+            "recHEcJc56jlS43HP",
+            "recIVn3rXQRCj3Rro",
+            "recmztbrLpaBgVVGM",
+            "recScg0Nlh6FKMebE",
+            "recYmcB0BnG1QZsuI",
+            "rec4ZGnfHYyGWZzjf",
+            "reckwEum15pzOzmTn",
+            "recsBaMuOB9GKMATi",
+            "rec9tLCKikqvAIPqA",
+            "recV8Uvu1ViN8qQol"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3199,8 +3203,8 @@
         "airtable_createdTime": "2023-09-19T20:01:25.000Z",
         "airtable_id": "rec5eHGBBzm1Nf1sy",
         "auto_gen_id": 197,
-        "case count3": 133,
-        "count total": 133,
+        "case count3": 155,
+        "count total": 155,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -3274,6 +3278,39 @@
         "name": "Polk County District Court",
         "primary field": "Polk County District Court (Des Moines, Iowa)",
         "state": "Iowa"
+    },
+    {
+        "Cases 3": [
+            "recJpKjtpVm56S6Ey"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-09-05T19:44:58.000Z",
+        "ID": "hc.loc.000284",
+        "Name Markdown": "[Western Washington Hospital for the Insane (Seattle, Washington)](hc.loc.000284)",
+        "Notes": "https://www.dshs.wa.gov/bha/division-state-hospitals/history-western-state-hospital",
+        "airtable_createdTime": "2024-09-05T19:44:58.000Z",
+        "airtable_id": "rec636ITGBZwS4zKD",
+        "alternative name": "Insane Asylum of Washington Territory",
+        "auto_gen_id": 284,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King County",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "insane asylum"
+        ],
+        "location type": "site of significance",
+        "modern name": "Western State Hospital",
+        "name": "Western Washington Hospital for the Insane",
+        "primary field": "Western Washington Hospital for the Insane (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -3420,6 +3457,35 @@
         "name": "Seatco Territorial Penitentiary ",
         "primary field": "Seatco Territorial Penitentiary  (Bucoda, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recBR9ZvYvc1jmYX6"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "tarneal2@huskers.unl.edu",
+            "id": "usrj6qVplnciF6Uc8",
+            "name": "Walt Arneal"
+        },
+        "Created time": "2024-09-06T19:31:30.000Z",
+        "ID": "hc.loc.000285",
+        "Name Markdown": "[Manitowoc County Municipal Court (, Wisconsin)](hc.loc.000285)",
+        "airtable_createdTime": "2024-09-06T19:31:30.000Z",
+        "airtable_id": "rec7My6Iv52tiwKQH",
+        "auto_gen_id": 285,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Manitowoc",
+        "locality_built": ", Manitowoc, Wisconsin",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "site of significance",
+        "name": "Manitowoc County Municipal Court",
+        "primary field": "Manitowoc County Municipal Court (, Wisconsin)",
+        "state": "Wisconsin"
     },
     {
         "Cases 3": [
@@ -4307,7 +4373,10 @@
             "recgCsRZjiNlLmeOu",
             "recoG7cWT3PYLIuOa",
             "recEJPVVcJhxt5z0q",
-            "reci7GwjeOc4SuolW"
+            "reci7GwjeOc4SuolW",
+            "recPs8hnXbJCxoOoX",
+            "recHuryUqPEhEfpaj",
+            "recV8Uvu1ViN8qQol"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4323,9 +4392,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBtXAzDClj4dCcN",
         "auto_gen_id": 76,
-        "case count3": 5,
+        "case count3": 8,
         "coordinate specificity": "building",
-        "count total": 5,
+        "count total": 8,
         "county": "Walla Walla",
         "latitude": "46.07818487649164",
         "locality": "Walla Walla",
@@ -4821,25 +4890,6 @@
         "state": "Washington"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RMINTON2@UNL.EDU",
-            "id": "usrhfRVrMgroi1UQR",
-            "name": "Ryan Minton"
-        },
-        "Created time": "2024-07-12T16:21:06.000Z",
-        "ID": "hc.loc.000262",
-        "Name Markdown": "[ (, )](hc.loc.000262)",
-        "airtable_createdTime": "2024-07-12T16:21:06.000Z",
-        "airtable_id": "recE5hiztipKqi1VM",
-        "auto_gen_id": 262,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases 3": [
             "rec0IxvyaozlN5KqA"
         ],
@@ -4928,25 +4978,6 @@
         "name": "Nebraska Hospital for the Insane",
         "primary field": "Nebraska Hospital for the Insane (Lincoln, Nebraska)",
         "state": "Nebraska"
-    },
-    {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RBRINKLEY2@UNL.EDU",
-            "id": "usrueK4FXqIULPEZW",
-            "name": "Roshawnna Brinkley"
-        },
-        "Created time": "2024-07-19T20:57:46.000Z",
-        "ID": "hc.loc.000269",
-        "Name Markdown": "[ (, )](hc.loc.000269)",
-        "airtable_createdTime": "2024-07-19T20:57:46.000Z",
-        "airtable_id": "recF8kzOfaPTUPOJn",
-        "auto_gen_id": 269,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
     },
     {
         "Cases 3": [
@@ -5248,25 +5279,6 @@
         "state": "Oregon"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "EREITER3@UNL.EDU",
-            "id": "usr44QFblYExDb92S",
-            "name": "Ethan Reiter"
-        },
-        "Created time": "2024-06-25T15:20:45.000Z",
-        "ID": "hc.loc.000253",
-        "Name Markdown": "[ (, )](hc.loc.000253)",
-        "airtable_createdTime": "2024-06-25T15:20:45.000Z",
-        "airtable_id": "recHNdJLiQkkKhCmX",
-        "auto_gen_id": 253,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
-    },
-    {
         "Cases": [
             "recs5jp0Voi58nX6c",
             "recKtVtpHsU4R7flc"
@@ -5332,25 +5344,6 @@
         "name": "Gage County Jail",
         "primary field": "Gage County Jail (Beatrice, Nebraska)",
         "state": "Nebraska"
-    },
-    {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "MMENDIOLA2@UNL.EDU",
-            "id": "usrit3dQ7ZwPjYUAH",
-            "name": "Madison Mendiola"
-        },
-        "Created time": "2024-07-19T20:27:25.000Z",
-        "ID": "hc.loc.000267",
-        "Name Markdown": "[ (, )](hc.loc.000267)",
-        "airtable_createdTime": "2024-07-19T20:27:25.000Z",
-        "airtable_id": "recHgPEqftD1Vlw4M",
-        "auto_gen_id": 267,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
     },
     {
         "Cases 3": [
@@ -5790,7 +5783,8 @@
     },
     {
         "Cases 3": [
-            "rec9Duih7H1gIBOyB"
+            "rec9Duih7H1gIBOyB",
+            "recOBqT6EzOMqfaLy"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5805,8 +5799,8 @@
         "airtable_createdTime": "2023-09-19T20:46:18.000Z",
         "airtable_id": "recJnJrREijUPaFPh",
         "auto_gen_id": 198,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 2,
+        "count total": 2,
         "county": "Kitsap County (formerly King County)",
         "locality": "Kitsap",
         "locality_built": "Kitsap, Kitsap County (formerly King County), Washington",
@@ -6245,26 +6239,6 @@
         "state": "Montana"
     },
     {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RMINTON2@UNL.EDU",
-            "id": "usrhfRVrMgroi1UQR",
-            "name": "Ryan Minton"
-        },
-        "Created time": "2024-07-12T16:26:42.000Z",
-        "ID": "hc.loc.000263",
-        "Name Markdown": "[Mandan (, )](hc.loc.000263)",
-        "airtable_createdTime": "2024-07-12T16:26:42.000Z",
-        "airtable_id": "recMeDDxQterYoLLZ",
-        "auto_gen_id": 263,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "name": "Mandan",
-        "primary field": "Mandan (, )"
-    },
-    {
         "Cases 2": [
             "recxwkaRypTyH2Zbe",
             "recW1cg68OaErnNU2",
@@ -6362,6 +6336,38 @@
         "location type": "site of significance",
         "name": "Samish in Skagit County, Washington Territory",
         "primary field": "Samish in Skagit County, Washington Territory (, )"
+    },
+    {
+        "Cases 3": [
+            "recwPqJaiCRzAM62I"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-09-09T17:28:34.000Z",
+        "ID": "hc.loc.000286",
+        "Name Markdown": "[Hotel Rex (Seattle, Washington)](hc.loc.000286)",
+        "address": "657 King Street",
+        "airtable_createdTime": "2024-09-09T17:28:34.000Z",
+        "airtable_id": "recNS3huoH4OzfAE6",
+        "auto_gen_id": 286,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King County",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "hotel"
+        ],
+        "location type": "site of significance",
+        "modern name": "The Rex Apartments",
+        "name": "Hotel Rex",
+        "primary field": "Hotel Rex (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases": [
@@ -7216,10 +7222,77 @@
             "receiImjtZQnzyS18",
             "recx3KhZZ0HIgil2n",
             "recsONrhceFqifyhh",
-            "recwsL142AUwfzLYd"
+            "recwsL142AUwfzLYd",
+            "rec6pcVxOzCsrUxDT",
+            "recdnheJn9qWJdNpw",
+            "recJpKjtpVm56S6Ey",
+            "recBR9ZvYvc1jmYX6",
+            "rec3dsAqCEpiRMvsh",
+            "recwPqJaiCRzAM62I",
+            "recarzCjWdG5maClf",
+            "recZ4l4ikDGYoHCCM",
+            "reclHn0e8cpXagGBP",
+            "recBPkXsKFFivcd8H",
+            "rec6FGOT5k4cGc6SS",
+            "recuLCxR3OGF4pm1B",
+            "rec78PxgUDEr5ketg",
+            "rec1fhtd69msL8ZXr",
+            "recOBqT6EzOMqfaLy",
+            "recE10pqkwV48brhl",
+            "rec6t5wHDbe6pNXyi",
+            "recSwXZ5kXFTlewkW",
+            "recOf1QNbzGrTNlYb",
+            "rec5YOwT22B6H3ApF",
+            "recb2Z2PCjBoM6v83",
+            "reciuXsMzH0oQs8fT",
+            "rec4nwOJ4WHD5GX4r",
+            "recvpeU3CLCcGzfMn",
+            "recGah0SFn3atZjyV",
+            "recBdyRpil4f8jPz5",
+            "recV3I5aeGS5zdrOT",
+            "recjmwgJZG33uYElf",
+            "recAFoDsxfzUG1aSQ",
+            "reccLuFS59k9SLhKc",
+            "recvfUeIfkkIQtsj2",
+            "recnilqeJUrc3Xxdl",
+            "recWeHFXsPIfP7i9c",
+            "recGo7b0M91R5sjAT",
+            "rech2KhiKOMyUy8fD",
+            "recQUguNzTRrPcL14",
+            "recPs8hnXbJCxoOoX",
+            "recDsEf9tAxgTV7Vm",
+            "recHEcJc56jlS43HP",
+            "recIVn3rXQRCj3Rro",
+            "rec1PlCZH6Jpf9F2e",
+            "reca9yoStg0JJcfgf",
+            "recfQsQ0HXpkNItvA",
+            "recKnAvW172mbrFOc",
+            "recmztbrLpaBgVVGM",
+            "recScg0Nlh6FKMebE",
+            "recMEDyj3bfMa9rJI",
+            "recQPqB1fKiKUMTlJ",
+            "recIq7lGKUwL4AuFn",
+            "recdUfsRkftrMEwoV",
+            "rec4TMgB4IaovGKmL",
+            "recyZG8J6PXb4hXWs",
+            "recYmcB0BnG1QZsuI",
+            "rec4ZGnfHYyGWZzjf",
+            "recNcJctNztcsKOzL",
+            "rec7IIAZQ0KTMTAgy",
+            "receqpi9KZVtSmWIQ",
+            "recHuryUqPEhEfpaj",
+            "recxW4YzZ6b7eS10b",
+            "rec6tGHJ62IKnRWN4",
+            "reckwEum15pzOzmTn",
+            "recsBaMuOB9GKMATi",
+            "rec9tLCKikqvAIPqA",
+            "reclL4WLrqRFI0aeA",
+            "recV8Uvu1ViN8qQol",
+            "recxVuw1y4JHI57pJ",
+            "recK6aSxZaOGkDxac"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 266,
+        "Count (Cases 2)": 333,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -7234,7 +7307,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 266,
+        "count total": 333,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -7534,7 +7607,9 @@
             "rectZkeybjn5Y65OJ",
             "recq7Fv7Rq2AKUYcU",
             "recDUTEpI6itoRKtq",
-            "recjAp8bfGeo22Udp"
+            "recjAp8bfGeo22Udp",
+            "recwyE0J6dHqVgc15",
+            "recnTtKc0Ux0b8VEz"
         ],
         "Cases 3": [
             "recqH3AAhuf3xQSq1",
@@ -7543,7 +7618,7 @@
             "recQBVE2WdPnNZe6W",
             "recLcjELORoNBFnaQ"
         ],
-        "Cases count1": 34,
+        "Cases count1": 36,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -7558,7 +7633,7 @@
         "auto_gen_id": 2,
         "case count3": 5,
         "coordinate specificity": "locality",
-        "count total": 39,
+        "count total": 41,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -7604,6 +7679,36 @@
         "name": "Chemawa Indian School",
         "primary field": "Chemawa Indian School (Salem, Oregon)",
         "state": "Oregon"
+    },
+    {
+        "Cases 3": [
+            "recMEDyj3bfMa9rJI"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-10-03T17:43:09.000Z",
+        "ID": "hc.loc.000289",
+        "Name Markdown": "[Seattle Hotel (Seattle, Washington)](hc.loc.000289)",
+        "airtable_createdTime": "2024-10-03T17:43:09.000Z",
+        "airtable_id": "recU6xkX3aDUm7IIx",
+        "auto_gen_id": 289,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King County",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "hotel"
+        ],
+        "location type": "site of significance",
+        "name": "Seattle Hotel",
+        "primary field": "Seattle Hotel (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -7673,25 +7778,6 @@
         "name": "Queen of the Pacific",
         "primary field": "Queen of the Pacific (Seattle, Washington)",
         "state": "Washington"
-    },
-    {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "RBRINKLEY2@UNL.EDU",
-            "id": "usrueK4FXqIULPEZW",
-            "name": "Roshawnna Brinkley"
-        },
-        "Created time": "2024-07-19T20:57:08.000Z",
-        "ID": "hc.loc.000268",
-        "Name Markdown": "[ (, )](hc.loc.000268)",
-        "airtable_createdTime": "2024-07-19T20:57:08.000Z",
-        "airtable_id": "recUkpHp4rRVdvejK",
-        "auto_gen_id": 268,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
     },
     {
         "Cases 3": [
@@ -7801,7 +7887,30 @@
             "recghJQRJrGn9MHwf",
             "receiImjtZQnzyS18",
             "recx3KhZZ0HIgil2n",
-            "recsONrhceFqifyhh"
+            "recsONrhceFqifyhh",
+            "rec6pcVxOzCsrUxDT",
+            "recdnheJn9qWJdNpw",
+            "recarzCjWdG5maClf",
+            "recZ4l4ikDGYoHCCM",
+            "reclHn0e8cpXagGBP",
+            "rec1fhtd69msL8ZXr",
+            "recOf1QNbzGrTNlYb",
+            "rec5YOwT22B6H3ApF",
+            "recb2Z2PCjBoM6v83",
+            "reciuXsMzH0oQs8fT",
+            "rec4nwOJ4WHD5GX4r",
+            "recAFoDsxfzUG1aSQ",
+            "reccLuFS59k9SLhKc",
+            "recnilqeJUrc3Xxdl",
+            "recDsEf9tAxgTV7Vm",
+            "recfQsQ0HXpkNItvA",
+            "recKnAvW172mbrFOc",
+            "recyZG8J6PXb4hXWs",
+            "recNcJctNztcsKOzL",
+            "receqpi9KZVtSmWIQ",
+            "rec6tGHJ62IKnRWN4",
+            "recxVuw1y4JHI57pJ",
+            "recK6aSxZaOGkDxac"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -7816,8 +7925,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 76,
-        "count total": 76,
+        "case count3": 99,
+        "count total": 99,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -9185,6 +9294,35 @@
     },
     {
         "Cases 3": [
+            "recuLCxR3OGF4pm1B"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "tarneal2@huskers.unl.edu",
+            "id": "usrj6qVplnciF6Uc8",
+            "name": "Walt Arneal"
+        },
+        "Created time": "2024-09-11T17:38:46.000Z",
+        "ID": "hc.loc.000287",
+        "Name Markdown": "[Ogden Municipal Court (, Utah)](hc.loc.000287)",
+        "airtable_createdTime": "2024-09-11T17:38:46.000Z",
+        "airtable_id": "reccFldcALRcS3n8U",
+        "auto_gen_id": 287,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Weber",
+        "locality_built": ", Weber, Utah",
+        "location subtype": [
+            "courthouse"
+        ],
+        "location type": "site of significance",
+        "name": "Ogden Municipal Court",
+        "primary field": "Ogden Municipal Court (, Utah)",
+        "state": "Utah"
+    },
+    {
+        "Cases 3": [
             "recEQo0SlW4lkIkf9"
         ],
         "Cases count1": 0,
@@ -9443,25 +9581,6 @@
         "name": "Fort Robinson",
         "primary field": "Fort Robinson (Unspecified, Nebraska)",
         "state": "Nebraska"
-    },
-    {
-        "Cases count1": 0,
-        "Count (Cases 2)": 0,
-        "Created by": {
-            "email": "MMARTINEZ47@UNL.EDU",
-            "id": "usrelNTKyD1Kb9iUY",
-            "name": "Miranda Martinez"
-        },
-        "Created time": "2024-06-25T18:40:49.000Z",
-        "ID": "hc.loc.000254",
-        "Name Markdown": "[ (, )](hc.loc.000254)",
-        "airtable_createdTime": "2024-06-25T18:40:49.000Z",
-        "airtable_id": "receEX6In55Bog4xR",
-        "auto_gen_id": 254,
-        "case count3": 0,
-        "count total": 0,
-        "locality_built": ", , ",
-        "primary field": " (, )"
     },
     {
         "Cases 3": [
@@ -10302,10 +10421,12 @@
             "rectZkeybjn5Y65OJ",
             "recq7Fv7Rq2AKUYcU",
             "recDUTEpI6itoRKtq",
-            "recjAp8bfGeo22Udp"
+            "recjAp8bfGeo22Udp",
+            "recwyE0J6dHqVgc15",
+            "recnTtKc0Ux0b8VEz"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 139,
+        "Count (Cases 2)": 141,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -10320,7 +10441,7 @@
         "auto_gen_id": 41,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 139,
+        "count total": 141,
         "county": "St. Louis",
         "latitude": "38.62724528672096",
         "locality": "St. Louis",
@@ -10333,6 +10454,34 @@
         "name": "Missouri State Archives-St. Louis",
         "primary field": "Missouri State Archives-St. Louis (St. Louis, Missouri)",
         "state": "Missouri"
+    },
+    {
+        "Cases 3": [
+            "rec9tLCKikqvAIPqA"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "tarneal2@huskers.unl.edu",
+            "id": "usrj6qVplnciF6Uc8",
+            "name": "Walt Arneal"
+        },
+        "Created time": "2024-10-11T20:39:32.000Z",
+        "ID": "hc.loc.000292",
+        "Name Markdown": "[Santa Clara County (, California)](hc.loc.000292)",
+        "airtable_createdTime": "2024-10-11T20:39:32.000Z",
+        "airtable_id": "recjsZYKSLOMthfYQ",
+        "auto_gen_id": 292,
+        "case count3": 1,
+        "count total": 1,
+        "locality_built": ", , California",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "site of significance",
+        "name": "Santa Clara County",
+        "primary field": "Santa Clara County (, California)",
+        "state": "California"
     },
     {
         "Cases 3": [
@@ -12317,7 +12466,74 @@
             "receiImjtZQnzyS18",
             "recx3KhZZ0HIgil2n",
             "recsONrhceFqifyhh",
-            "recwsL142AUwfzLYd"
+            "recwsL142AUwfzLYd",
+            "rec6pcVxOzCsrUxDT",
+            "recdnheJn9qWJdNpw",
+            "recJpKjtpVm56S6Ey",
+            "recBR9ZvYvc1jmYX6",
+            "rec3dsAqCEpiRMvsh",
+            "recwPqJaiCRzAM62I",
+            "recarzCjWdG5maClf",
+            "recZ4l4ikDGYoHCCM",
+            "reclHn0e8cpXagGBP",
+            "recBPkXsKFFivcd8H",
+            "rec6FGOT5k4cGc6SS",
+            "recuLCxR3OGF4pm1B",
+            "rec78PxgUDEr5ketg",
+            "rec1fhtd69msL8ZXr",
+            "recOBqT6EzOMqfaLy",
+            "recE10pqkwV48brhl",
+            "rec6t5wHDbe6pNXyi",
+            "recSwXZ5kXFTlewkW",
+            "recOf1QNbzGrTNlYb",
+            "rec5YOwT22B6H3ApF",
+            "recb2Z2PCjBoM6v83",
+            "reciuXsMzH0oQs8fT",
+            "rec4nwOJ4WHD5GX4r",
+            "recvpeU3CLCcGzfMn",
+            "recGah0SFn3atZjyV",
+            "recBdyRpil4f8jPz5",
+            "recV3I5aeGS5zdrOT",
+            "recjmwgJZG33uYElf",
+            "recAFoDsxfzUG1aSQ",
+            "reccLuFS59k9SLhKc",
+            "recvfUeIfkkIQtsj2",
+            "recnilqeJUrc3Xxdl",
+            "recWeHFXsPIfP7i9c",
+            "recGo7b0M91R5sjAT",
+            "rech2KhiKOMyUy8fD",
+            "recQUguNzTRrPcL14",
+            "recPs8hnXbJCxoOoX",
+            "recDsEf9tAxgTV7Vm",
+            "recHEcJc56jlS43HP",
+            "recIVn3rXQRCj3Rro",
+            "rec1PlCZH6Jpf9F2e",
+            "recfQsQ0HXpkNItvA",
+            "recKnAvW172mbrFOc",
+            "recmztbrLpaBgVVGM",
+            "reca9yoStg0JJcfgf",
+            "recScg0Nlh6FKMebE",
+            "recMEDyj3bfMa9rJI",
+            "recQPqB1fKiKUMTlJ",
+            "recIq7lGKUwL4AuFn",
+            "recdUfsRkftrMEwoV",
+            "rec4TMgB4IaovGKmL",
+            "recyZG8J6PXb4hXWs",
+            "recYmcB0BnG1QZsuI",
+            "rec4ZGnfHYyGWZzjf",
+            "recNcJctNztcsKOzL",
+            "rec7IIAZQ0KTMTAgy",
+            "receqpi9KZVtSmWIQ",
+            "recHuryUqPEhEfpaj",
+            "recxW4YzZ6b7eS10b",
+            "rec6tGHJ62IKnRWN4",
+            "reckwEum15pzOzmTn",
+            "recsBaMuOB9GKMATi",
+            "rec9tLCKikqvAIPqA",
+            "reclL4WLrqRFI0aeA",
+            "recV8Uvu1ViN8qQol",
+            "recxVuw1y4JHI57pJ",
+            "recK6aSxZaOGkDxac"
         ],
         "Cases 2": [
             "recQuHapQKWNNpxZo",
@@ -12349,9 +12565,29 @@
             "recxV5cvAPGErxctZ",
             "rec25QJe7p8oQnsQF",
             "recOUqaXXLmkFYbf7",
-            "recwsL142AUwfzLYd"
+            "recwsL142AUwfzLYd",
+            "recBR9ZvYvc1jmYX6",
+            "rec3dsAqCEpiRMvsh",
+            "recBPkXsKFFivcd8H",
+            "recuLCxR3OGF4pm1B",
+            "rec78PxgUDEr5ketg",
+            "recb2Z2PCjBoM6v83",
+            "recvfUeIfkkIQtsj2",
+            "recAFoDsxfzUG1aSQ",
+            "recHW5gggfAEuNUlC",
+            "recPs8hnXbJCxoOoX",
+            "recDsEf9tAxgTV7Vm",
+            "recfQsQ0HXpkNItvA",
+            "recKnAvW172mbrFOc",
+            "recmztbrLpaBgVVGM",
+            "rec7IIAZQ0KTMTAgy",
+            "recsBaMuOB9GKMATi",
+            "rec9tLCKikqvAIPqA",
+            "recV8Uvu1ViN8qQol",
+            "recxVuw1y4JHI57pJ",
+            "recK6aSxZaOGkDxac"
         ],
-        "Cases count1": 163,
+        "Cases count1": 230,
         "Count (Cases 2)": 4,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -12364,8 +12600,8 @@
         "airtable_createdTime": "2024-05-22T15:40:38.000Z",
         "airtable_id": "recy3WWcabaOG126y",
         "auto_gen_id": 245,
-        "case count3": 24,
-        "count total": 191,
+        "case count3": 44,
+        "count total": 278,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
