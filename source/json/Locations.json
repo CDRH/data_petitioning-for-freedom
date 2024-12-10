@@ -4881,9 +4881,6 @@
             "recGPxojIo6zIem2h"
         ],
         "Cases 3": [
-            "recQuHapQKWNNpxZo",
-            "recwuwWYOcKFQVF8E",
-            "rec2RlYn6dMDwhY4I",
             "recvJEucVB3pEtwst",
             "recJCTna6tKHJ6S9d",
             "recjzKqlPUU12twZC",
@@ -4906,8 +4903,8 @@
         "airtable_createdTime": "2023-07-27T17:29:24.000Z",
         "airtable_id": "recDuXmmng3JDgDgR",
         "auto_gen_id": 178,
-        "case count3": 11,
-        "count total": 15,
+        "case count3": 8,
+        "count total": 12,
         "county": "King",
         "locality": "Seattle",
         "locality_built": "Seattle, King, Washington",
@@ -7405,10 +7402,11 @@
             "recDexmRZFhdcEmkt",
             "recAmsP5rGKCd2Bwp",
             "recXVVx8PZLcwRuJr",
-            "recuD6Enu4XgwCq86"
+            "recuD6Enu4XgwCq86",
+            "recQuHapQKWNNpxZo"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 359,
+        "Count (Cases 2)": 360,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -7423,7 +7421,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 359,
+        "count total": 360,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -11719,6 +11717,35 @@
     },
     {
         "Cases 3": [
+            "recXKIWADYwM2lk6o"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-09T21:11:23.000Z",
+        "ID": "hc.loc.000298",
+        "Name Markdown": "[Jefferson County Jail (, Washington)](hc.loc.000298)",
+        "airtable_createdTime": "2024-12-09T21:11:23.000Z",
+        "airtable_id": "recrUJhOu5xoduc60",
+        "auto_gen_id": 298,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Jefferson County",
+        "locality_built": ", Jefferson County, Washington",
+        "location subtype": [
+            "county jail"
+        ],
+        "location type": "site of significance",
+        "name": "Jefferson County Jail",
+        "primary field": "Jefferson County Jail (, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recLzypXqWg1Qh8El",
             "recJPMdmfWBKu5WVc",
             "recCdr1gv0kYumVpm",
@@ -12692,14 +12719,7 @@
             "recXVVx8PZLcwRuJr",
             "recuD6Enu4XgwCq86"
         ],
-        "Cases 2": [
-            "recQuHapQKWNNpxZo",
-            "recwuwWYOcKFQVF8E",
-            "rec2RlYn6dMDwhY4I",
-            "rec7xOoOUUIxV9cyE"
-        ],
         "Cases 3": [
-            "rec7xOoOUUIxV9cyE",
             "recM1FfpyFITRhXUt",
             "recCJujj7bcMI9xyl",
             "rechHTENnmWlkPuou",
@@ -12749,7 +12769,7 @@
             "recKRUg5lKJQKAoGM"
         ],
         "Cases count1": 256,
-        "Count (Cases 2)": 4,
+        "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
             "id": "usrTWraD2Uk9A3vtt",
@@ -12761,15 +12781,15 @@
         "airtable_createdTime": "2024-05-22T15:40:38.000Z",
         "airtable_id": "recy3WWcabaOG126y",
         "auto_gen_id": 245,
-        "case count3": 48,
-        "count total": 308,
+        "case count3": 47,
+        "count total": 303,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
         "location subtype": [
             "superior court"
         ],
-        "location type": "court, repository, site of significance",
+        "location type": "court, site of significance",
         "name": "King County Superior Court",
         "primary field": "King County Superior Court (Seattle, Washington)",
         "state": "Washington"
@@ -12788,10 +12808,11 @@
             "rec4ojLA74uiVFr6t",
             "recI40sQwmyTkREkQ",
             "recDB5H67K8PiG2jT",
-            "recC9t4ziTFtZniym"
+            "recC9t4ziTFtZniym",
+            "recnxoEzz8FCRrWNk"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 13,
+        "Count (Cases 2)": 14,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -12806,7 +12827,7 @@
         "auto_gen_id": 34,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 13,
+        "count total": 14,
         "county": "Whatcom",
         "latitude": "48.72622970867895",
         "locality": "Bellingham",
