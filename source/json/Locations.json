@@ -7738,8 +7738,7 @@
             "recqH3AAhuf3xQSq1",
             "rec3UgvkkWIjXKjUk",
             "recuJi4hAD9B3cY6k",
-            "recQBVE2WdPnNZe6W",
-            "recLcjELORoNBFnaQ"
+            "recQBVE2WdPnNZe6W"
         ],
         "Cases count1": 45,
         "Count (Cases 2)": 0,
@@ -7754,9 +7753,9 @@
         "airtable_createdTime": "2023-05-16T17:55:21.000Z",
         "airtable_id": "recTQnJEK2pJOSsR4",
         "auto_gen_id": 2,
-        "case count3": 5,
+        "case count3": 4,
         "coordinate specificity": "locality",
-        "count total": 50,
+        "count total": 49,
         "county": "St. Louis",
         "latitude": "38.62923422834949",
         "locality": "St. Louis",
@@ -7769,6 +7768,38 @@
         "name": "St. Louis County Circuit Court",
         "primary field": "St. Louis County Circuit Court (St. Louis, Missouri)",
         "state": "Missouri"
+    },
+    {
+        "Cases 3": [
+            "reck1ZLkp6vFNuV5A"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-12T18:44:40.000Z",
+        "ID": "hc.loc.000301",
+        "Name Markdown": "[Customs House (Port Townsend, Washington)](hc.loc.000301)",
+        "Notes": "https://www.historylink.org/file/9480",
+        "address": "1322 Washington Street",
+        "airtable_createdTime": "2024-12-12T18:44:40.000Z",
+        "airtable_id": "recTs4RxpXI5OQ19B",
+        "auto_gen_id": 301,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Jefferson County",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson County, Washington",
+        "location subtype": [
+            "federal office"
+        ],
+        "location type": "site of significance",
+        "name": "Customs House",
+        "primary field": "Customs House (Port Townsend, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -9984,7 +10015,8 @@
     },
     {
         "Cases 3": [
-            "rec7YyD6MKtlf1fFl"
+            "rec7YyD6MKtlf1fFl",
+            "reco79kRJkjfHSqb3"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -10000,8 +10032,8 @@
         "airtable_id": "recgpPa6hSrfULeiN",
         "alternative name": "Whatcome",
         "auto_gen_id": 199,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 2,
+        "count total": 2,
         "county": "Whatcom",
         "locality": "Whatcom",
         "locality_built": "Whatcom, Whatcom, Washington",
@@ -10782,6 +10814,36 @@
     },
     {
         "Cases 3": [
+            "rec4ojLA74uiVFr6t"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-12T17:34:18.000Z",
+        "ID": "hc.loc.000300",
+        "Name Markdown": "[Fort Townsend (Port Townsend, Washington)](hc.loc.000300)",
+        "airtable_createdTime": "2024-12-12T17:34:18.000Z",
+        "airtable_id": "recko1PHxUyZiJIOX",
+        "auto_gen_id": 300,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Jefferson",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson, Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "name": "Fort Townsend",
+        "primary field": "Fort Townsend (Port Townsend, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recjrLFuCqpLTsHMK"
         ],
         "Cases count1": 0,
@@ -11206,6 +11268,36 @@
         "longitude": "-122.3337844597094",
         "name": "\"Bark Gem of the Ocean\"",
         "primary field": "\"Bark Gem of the Ocean\" (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recImNcom9K8uRn7T"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-12T17:05:37.000Z",
+        "ID": "hc.loc.000299",
+        "Name Markdown": "[Port Townsend Jail (Port Townsend, Washington)](hc.loc.000299)",
+        "airtable_createdTime": "2024-12-12T17:05:37.000Z",
+        "airtable_id": "recoMyxOFccv8XGDH",
+        "auto_gen_id": 299,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Jefferson County",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson County, Washington",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "name": "Port Townsend Jail",
+        "primary field": "Port Townsend Jail (Port Townsend, Washington)",
         "state": "Washington"
     },
     {
@@ -11717,7 +11809,10 @@
     },
     {
         "Cases 3": [
-            "recXKIWADYwM2lk6o"
+            "recXKIWADYwM2lk6o",
+            "rec5uqKT4XM2Wyub5",
+            "recozrcBRJIAeJGSc",
+            "recDB5H67K8PiG2jT"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -11728,20 +11823,21 @@
         },
         "Created time": "2024-12-09T21:11:23.000Z",
         "ID": "hc.loc.000298",
-        "Name Markdown": "[Jefferson County Jail (, Washington)](hc.loc.000298)",
+        "Name Markdown": "[Jefferson County Jail (Port Townsend, Washington)](hc.loc.000298)",
         "airtable_createdTime": "2024-12-09T21:11:23.000Z",
         "airtable_id": "recrUJhOu5xoduc60",
         "auto_gen_id": 298,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 4,
+        "count total": 4,
         "county": "Jefferson County",
-        "locality_built": ", Jefferson County, Washington",
+        "locality": "Port Townsend",
+        "locality_built": "Port Townsend, Jefferson County, Washington",
         "location subtype": [
             "county jail"
         ],
         "location type": "site of significance",
         "name": "Jefferson County Jail",
-        "primary field": "Jefferson County Jail (, Washington)",
+        "primary field": "Jefferson County Jail (Port Townsend, Washington)",
         "state": "Washington"
     },
     {
