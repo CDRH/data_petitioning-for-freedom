@@ -69,6 +69,36 @@
     },
     {
         "Cases 3": [
+            "receOAncJ8qBIq6th"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2025-02-17T16:27:38.000Z",
+        "ID": "hc.loc.000313",
+        "Name Markdown": "[Spokane City Jail (Spokane, Washington)](hc.loc.000313)",
+        "airtable_createdTime": "2025-02-17T16:27:38.000Z",
+        "airtable_id": "rec0WzigGqqmQWOq7",
+        "auto_gen_id": 313,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Spokane",
+        "locality": "Spokane",
+        "locality_built": "Spokane, Spokane, Washington",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "name": "Spokane City Jail",
+        "primary field": "Spokane City Jail (Spokane, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recMMy2dx9NA7tZcD",
             "recKh2PFeAfU8IAsI",
             "recgXP4LfKjHn6fIh",
@@ -424,9 +454,13 @@
             "recD5Cay63gv2zV3Z",
             "rec1sHc16oinpeUqi",
             "rec19yMmq7b8XSwHm",
-            "recRch5iphAc7UNu0"
+            "recRch5iphAc7UNu0",
+            "recgCsRZjiNlLmeOu",
+            "reccv6pWaj5EdL0mK",
+            "recuG5RuP0XkPAtwd",
+            "recGkFPuiBgOad8TC"
         ],
-        "Cases count1": 14,
+        "Cases count1": 18,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ekrohn3@huskers.unl.edu",
@@ -442,7 +476,7 @@
         "auto_gen_id": 168,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 14,
+        "count total": 18,
         "county": "Walla Walla",
         "latitude": "46.065728060864025",
         "locality": "Walla Walla",
@@ -657,6 +691,36 @@
         "name": "Common Jail of Lancaster County",
         "primary field": "Common Jail of Lancaster County (Lincoln, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "rec20ceSspQNA15Pl"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-01-09T14:32:05.000Z",
+        "ID": "hc.loc.000306",
+        "Name Markdown": "[Albuquerque Indian School (Albuquerque, New Mexico)](hc.loc.000306)",
+        "airtable_createdTime": "2025-01-09T14:32:05.000Z",
+        "airtable_id": "rec3XlqgS4FexnR9T",
+        "auto_gen_id": 306,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Bernalillo",
+        "locality": "Albuquerque",
+        "locality_built": "Albuquerque, Bernalillo, New Mexico",
+        "location subtype": [
+            "indigenous boarding school"
+        ],
+        "location type": "site of significance",
+        "name": "Albuquerque Indian School",
+        "primary field": "Albuquerque Indian School (Albuquerque, New Mexico)",
+        "state": "New Mexico"
     },
     {
         "Cases 3": [
@@ -5900,6 +5964,37 @@
         "state": "Washington"
     },
     {
+        "Cases 2": [
+            "rec20ceSspQNA15Pl"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 1,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-01-09T13:34:58.000Z",
+        "ID": "hc.loc.000304",
+        "Name Markdown": "[New Mexico State Records Center and Archives (Santa Fe, New Mexico)](hc.loc.000304)",
+        "address": "1205 Camino Carlos Rey, Santa Fe, NM 87507",
+        "airtable_createdTime": "2025-01-09T13:34:58.000Z",
+        "airtable_id": "recK1vIXZfNn3qi3p",
+        "auto_gen_id": 304,
+        "case count3": 0,
+        "count total": 1,
+        "county": "Santa Fe",
+        "locality": "Santa Fe",
+        "locality_built": "Santa Fe, Santa Fe, New Mexico",
+        "location subtype": [
+            "state archive"
+        ],
+        "location type": "repository",
+        "name": "New Mexico State Records Center and Archives",
+        "primary field": "New Mexico State Records Center and Archives (Santa Fe, New Mexico)",
+        "state": "New Mexico"
+    },
+    {
         "Cases 3": [
             "recwsL142AUwfzLYd"
         ],
@@ -5938,13 +6033,17 @@
         "Cases 3": [
             "recxKfeGDxTPWbolY",
             "recgCsRZjiNlLmeOu",
-            "recGkFPuiBgOad8TC",
             "recrB1Vy2GtYbt9Se",
             "recbRPI4nMkrugRPX",
             "rec5Mig44itwMoB2U",
             "recM2Gv6SjgU29UNj",
             "rec19yMmq7b8XSwHm",
-            "recRch5iphAc7UNu0"
+            "recRch5iphAc7UNu0",
+            "recR6kskdgG8XQoyi",
+            "reccv6pWaj5EdL0mK",
+            "recOTSeOw35ld1cb9",
+            "recGkFPuiBgOad8TC",
+            "reckj07MSEEoO9fdr"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -5960,9 +6059,9 @@
         "airtable_createdTime": "2023-07-27T17:21:47.000Z",
         "airtable_id": "recKyvxmc20BKQ8Qa",
         "auto_gen_id": 177,
-        "case count3": 9,
+        "case count3": 13,
         "coordinate specificity": "building",
-        "count total": 9,
+        "count total": 13,
         "county": "Walla Walla",
         "latitude": "46.064332207534434",
         "locality": "Walla Walla",
@@ -6080,6 +6179,47 @@
     },
     {
         "Cases 3": [
+            "recNukxoNddca6nvH",
+            "recDAUrN5mCMW7u5j",
+            "recL10yLtVKoBv4gR",
+            "recUE6dQRn4WLHKPO",
+            "recj2vKpec70wxkgf",
+            "recpdrf2uxHyc3ml3",
+            "rec7vawukC0Ds3Vzd",
+            "recVN1NHqdKpAaFAE",
+            "recnKy9Sy8cx3Smv3",
+            "rec0z3Dmk94W4NeZY",
+            "recvtdsuqn4i6KmYr",
+            "recHwJPi2LdXHMweg"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-16T17:20:06.000Z",
+        "ID": "hc.loc.000302",
+        "Name Markdown": "[Thurston County Jail (Olympia, Washington)](hc.loc.000302)",
+        "airtable_createdTime": "2024-12-16T17:20:06.000Z",
+        "airtable_id": "recLXCLFTNwfGczve",
+        "auto_gen_id": 302,
+        "case count3": 12,
+        "count total": 12,
+        "county": "Thurston",
+        "locality": "Olympia",
+        "locality_built": "Olympia, Thurston, Washington",
+        "location subtype": [
+            "county jail"
+        ],
+        "location type": "site of significance",
+        "name": "Thurston County Jail",
+        "primary field": "Thurston County Jail (Olympia, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recH2zFlLrk7QqaME"
         ],
         "Cases count1": 0,
@@ -6188,7 +6328,6 @@
             "recyEAxGlJv7X9M4c",
             "recR6kskdgG8XQoyi",
             "rec4IbxEAh7l1wV6O",
-            "recl0pxHhTTHsZxsZ",
             "recwB0ArAF6k4tnqg",
             "rec9DZvH72X1QUZjS",
             "recH554FJh9K2kHlT",
@@ -6215,7 +6354,6 @@
             "recuG5RuP0XkPAtwd",
             "recGkFPuiBgOad8TC",
             "recbNsElmXvWLlHzA",
-            "recZwq3vNdVOdwRQ5",
             "recsvQSj5NOKfL5JX",
             "recbRPI4nMkrugRPX",
             "recuGSfzngOT4jomj",
@@ -6235,7 +6373,7 @@
             "recEGkWRcpY1Y6fba"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 49,
+        "Count (Cases 2)": 47,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -6250,7 +6388,7 @@
         "auto_gen_id": 38,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 49,
+        "count total": 47,
         "county": "Spokane",
         "latitude": "47.48798702423552",
         "locality": "Cheney",
@@ -6641,7 +6779,8 @@
             "recMio8ruZFTsAsNC",
             "rec5wQEkKcXG9ByL1",
             "reckni7lZR2AeezOg",
-            "recjUuIBz1aDYtIZi"
+            "recjUuIBz1aDYtIZi",
+            "rec97SrTysarB9VU8"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -6653,13 +6792,14 @@
         "Created time": "2023-05-16T18:03:08.000Z",
         "ID": "hc.loc.000049",
         "Name Markdown": "[McNeil Island Penitentiary (Steilacoom, Washington)](hc.loc.000049)",
+        "Notes": "https://www.doc.wa.gov/about/agency/history/micc.htm#fed-pen",
         "address": "88450 Washington St, Steilacoom, WA 98388",
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recP3u9EQ40eI6b4u",
         "auto_gen_id": 49,
-        "case count3": 36,
+        "case count3": 37,
         "coordinate specificity": "building",
-        "count total": 36,
+        "count total": 37,
         "county": "N/A",
         "latitude": "47.20191709144384",
         "locality": "Steilacoom",
@@ -7634,6 +7774,36 @@
     },
     {
         "Cases": [
+            "rec20ceSspQNA15Pl"
+        ],
+        "Cases count1": 1,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-01-09T13:37:54.000Z",
+        "ID": "hc.loc.000305",
+        "Name Markdown": "[Bernalillo County District Court (Albuquerque, New Mexico)](hc.loc.000305)",
+        "airtable_createdTime": "2025-01-09T13:37:54.000Z",
+        "airtable_id": "recSj8yhK2fwPbjTi",
+        "auto_gen_id": 305,
+        "case count3": 0,
+        "count total": 1,
+        "county": "Bernalillo",
+        "locality": "Albuquerque",
+        "locality_built": "Albuquerque, Bernalillo, New Mexico",
+        "location subtype": [
+            "county court"
+        ],
+        "location type": "court",
+        "name": "Bernalillo County District Court",
+        "primary field": "Bernalillo County District Court (Albuquerque, New Mexico)",
+        "state": "New Mexico"
+    },
+    {
+        "Cases": [
             "recsWEG1U6UPUCee4",
             "rec1B48p5a8c3XvOw",
             "recyrT2ifwhWW0N4G",
@@ -8240,14 +8410,14 @@
             "recIRfifBcCqzl5Nk",
             "recBu7HTa6FuQzS2G",
             "recKez0Pv1ZluOeJD",
-            "receOAncJ8qBIq6th",
             "recEGkWRcpY1Y6fba",
             "rectQyRqKm6CZDSab",
             "rec66dYMQ3BScYNsn",
             "recq1r7qBqw1nrNBU",
             "rec0vZSEQM3gMjcof",
             "rech4k3Ex6eKYreLt",
-            "recy26rkT6Kwdudn3"
+            "recy26rkT6Kwdudn3",
+            "recOTSeOw35ld1cb9"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -8598,6 +8768,36 @@
         "longitude": "-120.54406578035757",
         "name": "Washington State Archives, Central Regional Branch",
         "primary field": "Washington State Archives, Central Regional Branch (Ellensburg, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recuBzoJISxGT8cRp"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2024-12-16T17:33:46.000Z",
+        "ID": "hc.loc.000303",
+        "Name Markdown": "[Olympia City Jail (Olympia, Washington)](hc.loc.000303)",
+        "airtable_createdTime": "2024-12-16T17:33:46.000Z",
+        "airtable_id": "recXpIex4ioXpqiwE",
+        "auto_gen_id": 303,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Thurston County",
+        "locality": "Olympia",
+        "locality_built": "Olympia, Thurston County, Washington",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "name": "Olympia City Jail",
+        "primary field": "Olympia City Jail (Olympia, Washington)",
         "state": "Washington"
     },
     {
@@ -9969,7 +10169,6 @@
     {
         "Cases": [
             "recBKJQzWQrZxu6Ua",
-            "recl0pxHhTTHsZxsZ",
             "recwB0ArAF6k4tnqg",
             "receOAncJ8qBIq6th",
             "recIRfifBcCqzl5Nk",
@@ -9984,7 +10183,7 @@
             "recq1r7qBqw1nrNBU",
             "recEGkWRcpY1Y6fba"
         ],
-        "Cases count1": 15,
+        "Cases count1": 14,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -9999,7 +10198,7 @@
         "auto_gen_id": 29,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 15,
+        "count total": 14,
         "county": "Spokane",
         "latitude": "47.48760847901377",
         "locality": "Cheney",
@@ -10591,10 +10790,11 @@
             "recFTWCqCp84W5BYJ",
             "reckehAsTBTHHtCKo",
             "recMAS2DU3MIcS31c",
-            "rec0opA500VYwh9FW"
+            "rec0opA500VYwh9FW",
+            "recRsxm4wa0RtB8EI"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 149,
+        "Count (Cases 2)": 150,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -10609,7 +10809,7 @@
         "auto_gen_id": 41,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 149,
+        "count total": 150,
         "county": "St. Louis",
         "latitude": "38.62724528672096",
         "locality": "St. Louis",
@@ -10775,6 +10975,36 @@
         "name": "Arizona State Library, Archives, and Public Records",
         "primary field": "Arizona State Library, Archives, and Public Records (Phoenix, Arizona)",
         "state": "Arizona"
+    },
+    {
+        "Cases 3": [
+            "recwB0ArAF6k4tnqg"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "aknopik2@huskers.unl.edu",
+            "id": "usrenhAg0xOZRWOR5",
+            "name": "Andy Knopik"
+        },
+        "Created time": "2025-01-14T15:48:04.000Z",
+        "ID": "hc.loc.000308",
+        "Name Markdown": "[Spokane Falls City Jail (Spokane Falls, Washington)](hc.loc.000308)",
+        "airtable_createdTime": "2025-01-14T15:48:04.000Z",
+        "airtable_id": "reckZtqmibFCMxScE",
+        "auto_gen_id": 308,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Spokane",
+        "locality": "Spokane Falls",
+        "locality_built": "Spokane Falls, Spokane, Washington",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "name": "Spokane Falls City Jail",
+        "primary field": "Spokane Falls City Jail (Spokane Falls, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -10946,6 +11176,32 @@
         "name": "\"Hattie E. Tapley\"",
         "primary field": "\"Hattie E. Tapley\" (Port Blakely, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-01-09T16:07:12.000Z",
+        "ID": "hc.loc.000307",
+        "Name Markdown": "[Washington University Libraries (St. Louis, Missouri)](hc.loc.000307)",
+        "airtable_createdTime": "2025-01-09T16:07:12.000Z",
+        "airtable_id": "recm4MNOjlYLJifni",
+        "auto_gen_id": 307,
+        "case count3": 0,
+        "count total": 0,
+        "county": "St. Louis",
+        "locality": "St. Louis",
+        "locality_built": "St. Louis, St. Louis, Missouri",
+        "location subtype": [
+            "University Library"
+        ],
+        "name": "Washington University Libraries",
+        "primary field": "Washington University Libraries (St. Louis, Missouri)",
+        "state": "Missouri"
     },
     {
         "Cases 2": [
@@ -13108,10 +13364,11 @@
             "rec1J6gqTV7cpAskP",
             "recORl3ceG5VTzdBe",
             "recoIjXHVBg3j43IN",
-            "recqCFsmrOWDv2k8D"
+            "recqCFsmrOWDv2k8D",
+            "recZwq3vNdVOdwRQ5"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 170,
+        "Count (Cases 2)": 171,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -13126,7 +13383,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 170,
+        "count total": 171,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
