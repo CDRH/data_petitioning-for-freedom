@@ -137,7 +137,9 @@ class CsvToEsPerson < CsvToEs
             case_id = parse_md_parentheses(case_role.split("|")[2])
             role = case_role.split("|")[1]
             original_person = case_role.split("|")[0]
-            roles = search_case_roles(role, case_id, original_person)
+            if case_id && role && original_person
+              roles = search_case_roles(role, case_id, original_person)
+            end
             case_roles.push(*roles)
           end
         end
@@ -250,6 +252,10 @@ class CsvToEsPerson < CsvToEs
     end
 
     def search_case_roles(role, case_id, original_person)
+      if !role || !case_id || !original_person
+        #don't try to match regexes on nil
+        return []
+      end
       roles = []
       #construct regex based on the particular case role
       regexes = {}
