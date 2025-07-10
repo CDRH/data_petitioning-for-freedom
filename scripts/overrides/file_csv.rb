@@ -18,8 +18,11 @@ class FileCsv < FileType
             if !row.header_row? && (row["Case ID"] || row["unique_id"] || row["ID"])
               new_row = row_to_es(@csv.headers, row, table, old_case_docs)
               # eliminate blank entries from Airtable
-              if new_row["title"] && !["", ",", "(,)", "(, )", "Untitled"].include?(new_row["title"].strip)
+              if !new_row["identifier"].to_s.empty? && !new_row["title"].to_s.empty? && !["", ",", "(,)", "(, )", "Untitled"].include?(new_row["title"].strip)
                 es_doc << new_row
+              else
+                puts "skipping item without id or title".red
+                puts "check line ".red + new_row.values.join("; ").strip[0..400].red
               end
             end
         end
@@ -31,9 +34,12 @@ class FileCsv < FileType
     end
 
     def read_csv(file_location, encoding="utf-8")
-        CSV.read(file_location, **{
-          encoding: encoding,
-          headers: true
+      CSV.read(file_location, **{
+        encoding: encoding,
+        headers: true,
+        return_headers: true,
+        :header_converters=> lambda {|f| f.strip},
+      :converters=> lambda {|f| f ? f.strip : nil}
         })
     end
 

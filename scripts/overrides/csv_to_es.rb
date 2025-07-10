@@ -110,7 +110,7 @@ class CsvToEs
     end
   
     def get_id
-      id = @row["Case ID"] ? @row["Case ID"] : "blank"
+      id = @row["Case ID"] ? @row["Case ID"] : ""
       id = id.split(" ")[0]
       id
     end
