@@ -142,7 +142,9 @@ class CsvToEs
           id = parse_md_parentheses(name_and_id)
           role_list.each do |role|
             person = { "name" => name, "id" => id, "role" => role }
-            people << person
+            if person["name"] && person["id"]
+              people << person
+            end
           end
         end
       end
@@ -227,21 +229,27 @@ class CsvToEs
         repositories = parse_json("Repository")
         repositories.each do |repository|
 	        place = { "name" => parse_md_brackets(repository), "id" => parse_md_parentheses(repository), "type" => "repository" }
-          places << place
+          if place["name"] && place["id"]
+            places << place
+          end
         end
       end
       if parse_json("Site(s) of Significance")
         sites = parse_json("Site(s) of Significance")
         sites.each do |site|
           place = { "name" => parse_md_brackets(site), "id" => parse_md_parentheses(site), "type" => "site_of_significance" }
-          places << place
+          if place["name"] && place["id"]
+            places << place
+          end
         end
       end
       if parse_json("Court Name(s)")
         courts = parse_json("Court Name(s)")
         courts.each do |court|
           place = { "name" => parse_md_brackets(court), "id" => parse_md_parentheses(court), "type" => "court_location"}
-          places << place
+          if place["name"] && place["id"]
+            places << place
+          end
         end
       end
 			places
