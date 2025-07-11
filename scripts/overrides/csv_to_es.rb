@@ -335,7 +335,7 @@ class CsvToEs
       # given a markdown style link, parse the part in brackets
       #remove newline character, which confuse regex
       if query
-        query.strip.delete!("\n")
+        query = query.strip.delete!("\n")
       end
       if /\[(.*?)\]/.match(query)
         /\[(.*?)\]/.match(query)[1]
@@ -346,7 +346,7 @@ class CsvToEs
   
     def parse_md_parentheses(query)
       if query
-        query.strip.delete!("\n")
+        query = query.strip.delete!("\n")
       end
       # given a markdown style link, parse the part in parentheses
       /\]\((.*?)\)/.match(query)[1] if /\]\((.*?)\)/.match(query)
