@@ -70,7 +70,9 @@
     {
         "Cases 3": [
             "receOAncJ8qBIq6th",
-            "recoDHwlwwtR87zr0"
+            "recoDHwlwwtR87zr0",
+            "recaZ32KdFB5e3g4v",
+            "recjJiBrQkffsfSAP"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -85,8 +87,8 @@
         "airtable_createdTime": "2025-02-17T16:27:38.000Z",
         "airtable_id": "rec0WzigGqqmQWOq7",
         "auto_gen_id": 313,
-        "case count3": 2,
-        "count total": 2,
+        "case count3": 4,
+        "count total": 4,
         "county": "Spokane",
         "locality": "Spokane",
         "locality_built": "Spokane, Spokane, Washington",
@@ -3316,7 +3318,14 @@
             "recAFZweQKgx5qvET",
             "recUOdXtdCBh1rXb5",
             "receP4mP7JpYVrbDV",
-            "recJuEYg9FsLNh1Ru"
+            "recJuEYg9FsLNh1Ru",
+            "recAfBw4U6IyyGCzr",
+            "recDUAvPeNxNicB1j",
+            "rec7K0rhkFxVbnwvY",
+            "recQg5IVCE0aw3RW0",
+            "recPg8sIrbScdfRK1",
+            "rectWELbzl6Hv9lUs",
+            "recZUwJyzmt4DMqut"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3331,8 +3340,8 @@
         "airtable_createdTime": "2023-09-19T20:01:25.000Z",
         "airtable_id": "rec5eHGBBzm1Nf1sy",
         "auto_gen_id": 197,
-        "case count3": 215,
-        "count total": 215,
+        "case count3": 222,
+        "count total": 222,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -3410,7 +3419,8 @@
     },
     {
         "Cases 3": [
-            "recJpKjtpVm56S6Ey"
+            "recJpKjtpVm56S6Ey",
+            "recFnBMSQnmtba98d"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3421,24 +3431,24 @@
         },
         "Created time": "2024-09-05T19:44:58.000Z",
         "ID": "hc.loc.000284",
-        "Name Markdown": "[Western Washington Hospital for the Insane (Seattle, Washington)](hc.loc.000284)",
+        "Name Markdown": "[Western Washington Hospital for the Insane (Steilacoom, Washington)](hc.loc.000284)",
         "Notes": "https://www.dshs.wa.gov/bha/division-state-hospitals/history-western-state-hospital",
         "airtable_createdTime": "2024-09-05T19:44:58.000Z",
         "airtable_id": "rec636ITGBZwS4zKD",
         "alternative name": "Insane Asylum of Washington Territory",
         "auto_gen_id": 284,
-        "case count3": 1,
-        "count total": 1,
-        "county": "King County",
-        "locality": "Seattle",
-        "locality_built": "Seattle, King County, Washington",
+        "case count3": 2,
+        "count total": 2,
+        "county": "Pierce County",
+        "locality": "Steilacoom",
+        "locality_built": "Steilacoom, Pierce County, Washington",
         "location subtype": [
             "insane asylum"
         ],
         "location type": "site of significance",
         "modern name": "Western State Hospital",
         "name": "Western Washington Hospital for the Insane",
-        "primary field": "Western Washington Hospital for the Insane (Seattle, Washington)",
+        "primary field": "Western Washington Hospital for the Insane (Steilacoom, Washington)",
         "state": "Washington"
     },
     {
@@ -3867,16 +3877,6 @@
     },
     {
         "Cases 3": [
-            "recYqQLfgOVZR6hTg",
-            "rec0nqDkGpklee7dJ",
-            "recnQ2uYmAczZrvhd",
-            "recDd6C7GtQKaX0h7",
-            "rec7emztOzfgL7Fuy",
-            "recUimMAEyUmz3CD5",
-            "recNz0eeyygJse4gK",
-            "recndkOEqdTi7F1fR",
-            "recFS1jeUqEGr6tj7",
-            "recPoDPGcdbvtLQyZ",
             "reckT2vJ7rm0fwo3l",
             "recsrU68lRgn3qTJ0",
             "recjtxrSWeTD944vS",
@@ -3884,20 +3884,9 @@
             "recN1VqwvvEoouak7",
             "reczVLw4doq43GbQ3",
             "recAbK9p23DrG6qrG",
-            "recuLzYdEP0vjeVrI",
-            "recw9UPBrN01Fi9Zv",
-            "recIZja3nd9GjLMD2",
             "recoUp2mFrRC87bZ8",
             "recusPkjFdyD2czQh",
-            "recTNZ9fkBlhTWGx5",
-            "recBJBXz7EduiImDw",
-            "recO41w53DFDPBgT1",
-            "recYVIhqSAoZYrCzw",
-            "rec3alUdFMNRnEv27",
-            "reco9NSo7gsuEUAmy",
-            "recnhsCuL6zy4yehw",
-            "recjYBTgO4sUTcMXY",
-            "recMQL8mfDSuk3T6c"
+            "reco9NSo7gsuEUAmy"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -3912,9 +3901,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec86rqt01xAFDJ8s",
         "auto_gen_id": 98,
-        "case count3": 31,
+        "case count3": 10,
         "coordinate specificity": "locality",
-        "count total": 31,
+        "count total": 10,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -3987,6 +3976,36 @@
         "longitude": "-122.44961567125883",
         "name": "Second Judicial District Court for the Territory of Washington",
         "primary field": "Second Judicial District Court for the Territory of Washington (Tacoma, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "rec1IoGupxTmEcSW9"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T19:40:38.000Z",
+        "ID": "hc.loc.000353",
+        "Name Markdown": "[Fort Walla Walla (Walla Walla, Washington)](hc.loc.000353)",
+        "airtable_createdTime": "2025-07-24T19:40:38.000Z",
+        "airtable_id": "rec8UeWNM5vVXTCm3",
+        "auto_gen_id": 353,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Walla Walla",
+        "locality": "Walla Walla",
+        "locality_built": "Walla Walla, Walla Walla, Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "name": "Fort Walla Walla",
+        "primary field": "Fort Walla Walla (Walla Walla, Washington)",
         "state": "Washington"
     },
     {
@@ -4235,6 +4254,41 @@
     },
     {
         "Cases 3": [
+            "recLdC26EIYyubnqN"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "cskinner5@huskers.unl.edu",
+            "id": "usrpfR1jrbKYomBuX",
+            "name": "Colten Skinner"
+        },
+        "Created time": "2025-07-21T20:08:47.000Z",
+        "ID": "hc.loc.000346",
+        "Name Markdown": "[South Dakota State Penitentiary (Sioux Falls, South Dakota)](hc.loc.000346)",
+        "address": "1600 North Dr, Sioux Falls, SD 57104",
+        "airtable_createdTime": "2025-07-21T20:08:47.000Z",
+        "airtable_id": "recAI7Wi8krj0sbpV",
+        "alternative name": "South Dakota Territorial Prison",
+        "auto_gen_id": 346,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Lincoln",
+        "latitude": "43.56680686195099",
+        "locality": "Sioux Falls",
+        "locality_built": "Sioux Falls, Lincoln, South Dakota",
+        "location subtype": [
+            "penitentiary"
+        ],
+        "location type": "site of significance",
+        "longitude": "-96.72446416067508",
+        "name": "South Dakota State Penitentiary",
+        "primary field": "South Dakota State Penitentiary (Sioux Falls, South Dakota)",
+        "state": "South Dakota"
+    },
+    {
+        "Cases 3": [
             "recHAOy8sWwHLJwZp"
         ],
         "Cases count1": 0,
@@ -4359,6 +4413,36 @@
         "name": "Chinese Sunday School Mission",
         "primary field": "Chinese Sunday School Mission (San Francisco, California)",
         "state": "California"
+    },
+    {
+        "Cases 3": [
+            "recweD0W3ThkO5uer"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T18:46:57.000Z",
+        "ID": "hc.loc.000350",
+        "Name Markdown": "[Portland City Jail (Portland, Oregon)](hc.loc.000350)",
+        "airtable_createdTime": "2025-07-24T18:46:57.000Z",
+        "airtable_id": "recBG5IYwWLosoOM2",
+        "auto_gen_id": 350,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Multnomah",
+        "locality": "Portland",
+        "locality_built": "Portland, Multnomah, Oregon",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "name": "Portland City Jail",
+        "primary field": "Portland City Jail (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -4537,7 +4621,10 @@
             "recPs8hnXbJCxoOoX",
             "recHuryUqPEhEfpaj",
             "recV8Uvu1ViN8qQol",
-            "recmQj52h6sVjgYTW"
+            "recmQj52h6sVjgYTW",
+            "recWLk22iuRUT8ukT",
+            "recf2DeAhLZ4GfTWl",
+            "recUVBuAs0bLefKOg"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4553,9 +4640,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "recBtXAzDClj4dCcN",
         "auto_gen_id": 76,
-        "case count3": 9,
+        "case count3": 12,
         "coordinate specificity": "building",
-        "count total": 9,
+        "count total": 12,
         "county": "Walla Walla",
         "latitude": "46.07818487649164",
         "locality": "Walla Walla",
@@ -4733,6 +4820,40 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "recHQ7GHtLGG64106",
+            "recrYc6G0hnqO32Aa",
+            "recBuhtNNbImMDqjq"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T19:49:41.000Z",
+        "ID": "hc.loc.000354",
+        "Name Markdown": "[Seattle Public Health Building (Seattle, Washington)](hc.loc.000354)",
+        "address": "Beacon Hill",
+        "airtable_createdTime": "2025-07-24T19:49:41.000Z",
+        "airtable_id": "recD39EeTl0vKu1Hg",
+        "alternative name": "Pacific Tower",
+        "auto_gen_id": 354,
+        "case count3": 3,
+        "count total": 3,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "detention hospital"
+        ],
+        "location type": "site of significance",
+        "name": "Seattle Public Health Building",
+        "primary field": "Seattle Public Health Building (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "recnmSdGn6uWw4GMM",
             "recvETDM2uV1icUgH",
@@ -4870,9 +4991,22 @@
             "recQSczOMIW0AOhQD",
             "recy26rkT6Kwdudn3",
             "reckT2vJ7rm0fwo3l",
-            "recAIQZyOS3SLkIcK"
+            "recAIQZyOS3SLkIcK",
+            "recxNo1lBUpMbiOqf",
+            "recc7F9yopIYCjcBt",
+            "recQg5IVCE0aw3RW0",
+            "recIgnVcwfQUmoYbJ",
+            "reczzigY57GZaZimV",
+            "recPg8sIrbScdfRK1",
+            "rec8aBrwryasKe4cJ",
+            "rec3vgVSBQfP2EpdA",
+            "rec2zxS3Mw4q28Pbb",
+            "rec73pXP18MjDVl3D",
+            "recMuHXxccP0SHapo",
+            "recweJIhgrhpSQbYo",
+            "rec9jPfsYSK2E5zXG"
         ],
-        "Cases count1": 137,
+        "Cases count1": 150,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "cory.james.young@gmail.com",
@@ -4887,7 +5021,7 @@
         "auto_gen_id": 12,
         "case count3": 0,
         "coordinate specificity": "locality",
-        "count total": 137,
+        "count total": 150,
         "county": "King",
         "latitude": "47.60682112835133",
         "locality": "Seattle",
@@ -5039,7 +5173,18 @@
             "rec405F0CLsjMKY7W",
             "recEfQPfW3541fUwN",
             "recPviuLFtXbRR2B3",
-            "recgkUZdBXWU74uSo"
+            "recgkUZdBXWU74uSo",
+            "recurcHHdCgPEyR8c",
+            "recTboDpZiMwg3lHz",
+            "recLOSAnyqpciNDTN",
+            "recK3TWk2BxYyYCxh",
+            "recR6elk6b5iSH7QX",
+            "rec9PBuvE4Mzobwf9",
+            "recyxFzVutvm0PBVP",
+            "rec5bHlebF2WT1bgu",
+            "rec9SVhVkVPT7x3TK",
+            "recWTIfggGOVqJ9hZ",
+            "rec1OcSMXl9NTHbi8"
         ],
         "Cases 3": [
             "recvJEucVB3pEtwst",
@@ -5051,7 +5196,7 @@
             "recIWobuNSE0dUcoh",
             "recEpuL9KVS0vCUXN"
         ],
-        "Cases count1": 33,
+        "Cases count1": 44,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ethand479@gmail.com",
@@ -5065,7 +5210,7 @@
         "airtable_id": "recDuXmmng3JDgDgR",
         "auto_gen_id": 178,
         "case count3": 8,
-        "count total": 41,
+        "count total": 52,
         "county": "King",
         "locality": "Seattle",
         "locality_built": "Seattle, King, Washington",
@@ -5997,6 +6142,25 @@
         "state": "Kansas"
     },
     {
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "ewhaley4@huskers.unl.edu",
+            "id": "usrSuXPwPKv3aLGIr",
+            "name": "Emma Whaley"
+        },
+        "Created time": "2025-07-18T17:17:04.000Z",
+        "ID": "hc.loc.000342",
+        "Name Markdown": "[ (, )](hc.loc.000342)",
+        "airtable_createdTime": "2025-07-18T17:17:04.000Z",
+        "airtable_id": "recJiSTTG56ZbaFHV",
+        "auto_gen_id": 342,
+        "case count3": 0,
+        "count total": 0,
+        "locality_built": ", , ",
+        "primary field": " (, )"
+    },
+    {
         "Cases 3": [
             "rec9Duih7H1gIBOyB",
             "recOBqT6EzOMqfaLy"
@@ -6800,7 +6964,10 @@
         "state": "Washington"
     },
     {
-        "Cases count1": 0,
+        "Cases": [
+            "rectx7kgRhrxYKGip"
+        ],
+        "Cases count1": 1,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ekrohn3@huskers.unl.edu",
@@ -6816,7 +6983,7 @@
         "auto_gen_id": 167,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 0,
+        "count total": 1,
         "county": "Walla Walla",
         "latitude": "46.065706012445744",
         "locality": "Walla Walla",
@@ -6824,6 +6991,7 @@
         "location subtype": [
             "federal district court"
         ],
+        "location type": "court",
         "longitude": "-118.34428311965183",
         "name": "United States District Court of Washington, Eastern District, Southern Division",
         "primary field": "United States District Court of Washington, Eastern District, Southern Division (Walla Walla, Washington)",
@@ -6900,6 +7068,75 @@
         "name": "McNeil Island Penitentiary",
         "primary field": "McNeil Island Penitentiary (Steilacoom, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recArwxLrjvx1wLUD"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-25T19:46:21.000Z",
+        "ID": "hc.loc.000356",
+        "Name Markdown": "[Parental School (Mercer Island, Seattle, Washington)](hc.loc.000356)",
+        "Notes": "https://www.historylink.org/file/4100\nBoth boys and girls prior to 1928; boys only afterward",
+        "airtable_createdTime": "2025-07-25T19:46:21.000Z",
+        "airtable_id": "recPFCPpnFLrkwO3x",
+        "alternative name": "Luther Burbank School for Boys",
+        "auto_gen_id": 356,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King County",
+        "locality": "Mercer Island, Seattle",
+        "locality_built": "Mercer Island, Seattle, King County, Washington",
+        "location subtype": [
+            "children's home",
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Parental School",
+        "primary field": "Parental School (Mercer Island, Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recY9zWom89f36cSa"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "cskinner5@huskers.unl.edu",
+            "id": "usrpfR1jrbKYomBuX",
+            "name": "Colten Skinner"
+        },
+        "Created time": "2025-07-17T17:57:46.000Z",
+        "ID": "hc.loc.000341",
+        "Name Markdown": "[Moscow City Jail (Moscow, Idaho)](hc.loc.000341)",
+        "Notes": "https://www.lib.uidaho.edu/digital/ott/items/ott66.html\n\nhttps://www.lib.uidaho.edu/digital/ott/items/ott1436.html",
+        "address": "118 E 4th St, Moscow, ID 83843",
+        "airtable_createdTime": "2025-07-17T17:57:46.000Z",
+        "airtable_id": "recPdunJQIRF0HT8e",
+        "auto_gen_id": 341,
+        "case count3": 1,
+        "coordinate specificity": "building",
+        "count total": 1,
+        "county": "Latah County",
+        "latitude": "46.731977181859286",
+        "locality": "Moscow",
+        "locality_built": "Moscow, Latah County, Idaho",
+        "location subtype": [
+            "city jail"
+        ],
+        "location type": "site of significance",
+        "longitude": "-117.0000961903338",
+        "modern name": "Moscow Police Department",
+        "name": "Moscow City Jail",
+        "primary field": "Moscow City Jail (Moscow, Idaho)",
+        "state": "Idaho"
     },
     {
         "Cases 3": [
@@ -7043,7 +7280,10 @@
         "Cases 3": [
             "reczxLPNXdFTx4XWH",
             "recq1gewR0MlVkDe6",
-            "recFn5br3ZmNshpZM"
+            "recFn5br3ZmNshpZM",
+            "recc7F9yopIYCjcBt",
+            "recweJIhgrhpSQbYo",
+            "rec9jPfsYSK2E5zXG"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -7058,8 +7298,8 @@
         "airtable_createdTime": "2023-10-19T20:53:05.000Z",
         "airtable_id": "recQDYjtsbjV6LXak",
         "auto_gen_id": 209,
-        "case count3": 3,
-        "count total": 3,
+        "case count3": 6,
+        "count total": 6,
         "locality": "Seattle",
         "locality_built": "Seattle, , Washington",
         "location subtype": [
@@ -7197,6 +7437,37 @@
         "name": "Saint Thomas Orphanage",
         "primary field": "Saint Thomas Orphanage (Lincoln, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recVmSW4bl9PsKCon"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T18:41:04.000Z",
+        "ID": "hc.loc.000349",
+        "Name Markdown": "[Saint Maries County Jail (Saint Maries, Idaho)](hc.loc.000349)",
+        "airtable_createdTime": "2025-07-24T18:41:04.000Z",
+        "airtable_id": "recR141Z7NIYGecAC",
+        "alternative name": "Benewah County Jail",
+        "auto_gen_id": 349,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Benewah",
+        "locality": "Saint Maries",
+        "locality_built": "Saint Maries, Benewah, Idaho",
+        "location subtype": [
+            "county jail"
+        ],
+        "location type": "site of significance",
+        "name": "Saint Maries County Jail",
+        "primary field": "Saint Maries County Jail (Saint Maries, Idaho)",
+        "state": "Idaho"
     },
     {
         "Cases 3": [
@@ -7774,10 +8045,46 @@
             "recgkUZdBXWU74uSo",
             "recGvNuxiWypAr7qk",
             "recUmd1uqRXaqTtvy",
-            "recrYc6G0hnqO32Aa"
+            "recrYc6G0hnqO32Aa",
+            "recHQ7GHtLGG64106",
+            "recAfBw4U6IyyGCzr",
+            "recDUAvPeNxNicB1j",
+            "recurcHHdCgPEyR8c",
+            "rec7K0rhkFxVbnwvY",
+            "rec3Vw7NhnWXpn9qR",
+            "recda4s7yh1KURWXI",
+            "recGIExR04mW2GD30",
+            "recUVBuAs0bLefKOg",
+            "recTboDpZiMwg3lHz",
+            "recLOSAnyqpciNDTN",
+            "recyDsg2jqUQ616DA",
+            "rectWELbzl6Hv9lUs",
+            "recRslIdQxoYlvamK",
+            "recNOBy39k3gL0aAc",
+            "recBuhtNNbImMDqjq",
+            "recK3TWk2BxYyYCxh",
+            "recCQRJvaXM1tbIiU",
+            "recR6elk6b5iSH7QX",
+            "recjhdZ7DZa0PGO1W",
+            "rectadOMBK7FFaSGv",
+            "recMLVT4M2OtOhGTG",
+            "rec9PBuvE4Mzobwf9",
+            "recT3EuwSYGfbeln4",
+            "recFmNi6IpCeuDhDH",
+            "recCctg816lAs96yu",
+            "recZUwJyzmt4DMqut",
+            "recyxFzVutvm0PBVP",
+            "recPFYi38kZheWP5r",
+            "rec5bHlebF2WT1bgu",
+            "rec9SVhVkVPT7x3TK",
+            "recWTIfggGOVqJ9hZ",
+            "recEhGT2QDJyDEkfS",
+            "rec1OcSMXl9NTHbi8",
+            "recnvqiFIQyJQMDhr",
+            "recLNv1Ab8hB2tdwO"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 504,
+        "Count (Cases 2)": 540,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -7792,7 +8099,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 504,
+        "count total": 540,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -8172,7 +8479,8 @@
     },
     {
         "Cases 3": [
-            "reck1ZLkp6vFNuV5A"
+            "reck1ZLkp6vFNuV5A",
+            "rece9yAEEHOSrgtTd"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -8189,8 +8497,8 @@
         "airtable_createdTime": "2024-12-12T18:44:40.000Z",
         "airtable_id": "recTs4RxpXI5OQ19B",
         "auto_gen_id": 301,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 2,
+        "count total": 2,
         "county": "Jefferson County",
         "locality": "Port Townsend",
         "locality_built": "Port Townsend, Jefferson County, Washington",
@@ -8529,7 +8837,32 @@
             "recKUuFdMfaigIxWG",
             "rec3gULakO199Ji6n",
             "recGvNuxiWypAr7qk",
-            "recUmd1uqRXaqTtvy"
+            "recUmd1uqRXaqTtvy",
+            "recAHNJGXiqXWr5xR",
+            "recgkUZdBXWU74uSo",
+            "recurcHHdCgPEyR8c",
+            "rec3Vw7NhnWXpn9qR",
+            "recda4s7yh1KURWXI",
+            "rec3GjUXcZPdJRrkb",
+            "recTboDpZiMwg3lHz",
+            "recLOSAnyqpciNDTN",
+            "recyDsg2jqUQ616DA",
+            "recRslIdQxoYlvamK",
+            "recNOBy39k3gL0aAc",
+            "recK3TWk2BxYyYCxh",
+            "recR6elk6b5iSH7QX",
+            "recjhdZ7DZa0PGO1W",
+            "rectadOMBK7FFaSGv",
+            "recMLVT4M2OtOhGTG",
+            "recT3EuwSYGfbeln4",
+            "recFmNi6IpCeuDhDH",
+            "recCctg816lAs96yu",
+            "rec5bHlebF2WT1bgu",
+            "recPFYi38kZheWP5r",
+            "rec9SVhVkVPT7x3TK",
+            "recWTIfggGOVqJ9hZ",
+            "rec1OcSMXl9NTHbi8",
+            "recnvqiFIQyJQMDhr"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -8544,8 +8877,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 163,
-        "count total": 163,
+        "case count3": 188,
+        "count total": 188,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -8653,6 +8986,36 @@
     },
     {
         "Cases 3": [
+            "recpUQ4xiXg6vKAVf"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T19:27:53.000Z",
+        "ID": "hc.loc.000351",
+        "Name Markdown": "[Spokane Juvenile Detention Home (Spokane, Washington)](hc.loc.000351)",
+        "airtable_createdTime": "2025-07-24T19:27:53.000Z",
+        "airtable_id": "recVlK2OPbOK8iDHe",
+        "auto_gen_id": 351,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Spokane",
+        "locality": "Spokane",
+        "locality_built": "Spokane, Spokane, Washington",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Spokane Juvenile Detention Home",
+        "primary field": "Spokane Juvenile Detention Home (Spokane, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recF37se7DOamh6wB"
         ],
         "Cases count1": 0,
@@ -8723,6 +9086,9 @@
         "state": "Nebraska"
     },
     {
+        "Cases": [
+            "recRvqPQ250n9QPVu"
+        ],
         "Cases 3": [
             "rec9DZvH72X1QUZjS",
             "recIRfifBcCqzl5Nk",
@@ -8735,9 +9101,54 @@
             "rech4k3Ex6eKYreLt",
             "recy26rkT6Kwdudn3",
             "recOTSeOw35ld1cb9",
-            "rec0vZSEQM3gMjcof"
+            "rec0vZSEQM3gMjcof",
+            "recQWHnW3bwYn22sE",
+            "recU98SsVs7dgMT3u",
+            "recqOqX96yfrpb82Q",
+            "recrhLzWOFPh2DqLT",
+            "recvJiqg8ivKplzMH",
+            "recrjIvRKyJUqBwRE",
+            "recPoa6Xu1wpOJ2u8",
+            "recCXcSx9mvXKDrI8",
+            "reces3TkWGqT3f3po",
+            "recd4DtHizYkNv8FB",
+            "reczvZ7QsxBfkOh0n",
+            "recadhahKGtHD8QpT",
+            "reculkViNQlNS9BdA",
+            "recmVLpOgxkYXElKF",
+            "recZZXnER435GrXDk",
+            "recDTokqMURjj4nff",
+            "rec3f1Sl0EFxC4hnF",
+            "rec45DHHdFqgAgA85",
+            "recY9zWom89f36cSa",
+            "recH1DDFAfWcBpPwh",
+            "rec0rPxeydlsfbBCs",
+            "recSxxdueN7SrwHsp",
+            "rec5avAghRBBfvz1Y",
+            "recLoUrMCwXDwLuB6",
+            "rec9FPlAIS7ibROS7",
+            "recESIrqdQBifcoPw",
+            "recamwkBKm8pYPbHL",
+            "recY2nPbQa2wQlLdO",
+            "recRvqPQ250n9QPVu",
+            "reclR9SvKdMfyJ5mU",
+            "rec85tgMIKEiE9qpR",
+            "recttDBqlZ1Py1LYk",
+            "recIXj4UVkQbf51YM",
+            "recer1ILHtX9hk7qx",
+            "recUpuTAPpNICaJRq",
+            "recyaqWaeEu9zgDPt",
+            "recZnHv4ZfHbTKwJf",
+            "recMrBO0rVFVd659E",
+            "rec9vMP7jWkfKQTWf",
+            "reckSXUGknCqvlovr",
+            "recItyDM6tmzFTQMn",
+            "rec0rXOpZ3AWGHMHn",
+            "recOryeJOdQzYC6v9",
+            "recxNo1lBUpMbiOqf",
+            "rec6AfW6e6EYMM3v4"
         ],
-        "Cases count1": 0,
+        "Cases count1": 1,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "ethand479@gmail.com",
@@ -8750,15 +9161,15 @@
         "airtable_createdTime": "2023-08-31T20:27:51.000Z",
         "airtable_id": "recW4XM9lQ33XLsib",
         "auto_gen_id": 192,
-        "case count3": 12,
-        "count total": 12,
+        "case count3": 57,
+        "count total": 58,
         "county": "Spokane",
         "locality": "Cheney",
         "locality_built": "Cheney, Spokane, Washington",
         "location subtype": [
             "carceral facility"
         ],
-        "location type": "site of significance",
+        "location type": "court, site of significance",
         "name": "Spokane County Jail ",
         "primary field": "Spokane County Jail  (Cheney, Washington)",
         "state": "Washington"
@@ -9333,6 +9744,40 @@
         "name": "District Court for the Territory of Alaska, Fourth Judicial District",
         "primary field": "District Court for the Territory of Alaska, Fourth Judicial District (Fairbanks, Alaska)",
         "state": "Alaska"
+    },
+    {
+        "Cases 3": [
+            "recli8EztoSzZCSu3"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-25T19:25:32.000Z",
+        "ID": "hc.loc.000355",
+        "Name Markdown": "[Pacific Coast Rescue and Protective Society (Portland, Oregon)](hc.loc.000355)",
+        "Notes": "https://www.oregonencyclopedia.org/articles/albertina_kerr_centers/",
+        "airtable_createdTime": "2025-07-25T19:25:32.000Z",
+        "airtable_id": "reca2yiZRhi5YMx4Q",
+        "alternative name": "Louise Home Juvenile Hospital",
+        "auto_gen_id": 355,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Multnomah County",
+        "locality": "Portland",
+        "locality_built": "Portland, Multnomah County, Oregon",
+        "location subtype": [
+            "juvenile facility",
+            "detention hospital"
+        ],
+        "location type": "site of significance",
+        "modern name": "Albertina Kerr Centers",
+        "name": "Pacific Coast Rescue and Protective Society",
+        "primary field": "Pacific Coast Rescue and Protective Society (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases": [
@@ -10288,7 +10733,70 @@
         "state": "Nebraska"
     },
     {
-        "Cases count1": 0,
+        "Cases": [
+            "recamwkBKm8pYPbHL",
+            "recY2nPbQa2wQlLdO",
+            "recpUQ4xiXg6vKAVf",
+            "reciQbXNq87tFDni4",
+            "recbYp54uxA1vdLTm",
+            "recYaZo1OZ6sGYCAy",
+            "recp2bN3MsB20rPzJ",
+            "recaZ32KdFB5e3g4v",
+            "recVmSW4bl9PsKCon",
+            "recLdC26EIYyubnqN",
+            "recweD0W3ThkO5uer",
+            "recdXHDbcj25jSU3o",
+            "recRonfCQbIVKtqWC",
+            "reccIYiD8SfbJnL1C",
+            "reclR9SvKdMfyJ5mU",
+            "reccAHN5rgRzLuKd4",
+            "rectFtwAPUc6R2RrL",
+            "recttDBqlZ1Py1LYk",
+            "rec85tgMIKEiE9qpR",
+            "recIXj4UVkQbf51YM",
+            "recUpuTAPpNICaJRq",
+            "recer1ILHtX9hk7qx",
+            "recyaqWaeEu9zgDPt",
+            "rec9vMP7jWkfKQTWf",
+            "recWLk22iuRUT8ukT",
+            "recZnHv4ZfHbTKwJf",
+            "recMrBO0rVFVd659E",
+            "rec7LLiUvTC8X7OUQ",
+            "reckSXUGknCqvlovr",
+            "recItyDM6tmzFTQMn",
+            "rec0rXOpZ3AWGHMHn",
+            "recOryeJOdQzYC6v9",
+            "recf2DeAhLZ4GfTWl",
+            "rec6AfW6e6EYMM3v4",
+            "recPoa6Xu1wpOJ2u8",
+            "recZKlkGvhlprcdZw",
+            "recjAcPxMV43RZQho",
+            "recrjIvRKyJUqBwRE",
+            "reczvZ7QsxBfkOh0n",
+            "reculkViNQlNS9BdA",
+            "recCXcSx9mvXKDrI8",
+            "recmVLpOgxkYXElKF",
+            "recIdulCKh4hk6Dgw",
+            "rec3f1Sl0EFxC4hnF",
+            "recH1DDFAfWcBpPwh",
+            "rec0rPxeydlsfbBCs",
+            "recM2j03XJj4tRKb2",
+            "recrhLzWOFPh2DqLT",
+            "recd4DtHizYkNv8FB",
+            "recadhahKGtHD8QpT",
+            "recDTokqMURjj4nff",
+            "recY9zWom89f36cSa",
+            "rec5avAghRBBfvz1Y",
+            "recLoUrMCwXDwLuB6",
+            "reces3TkWGqT3f3po",
+            "recFF46nxg2B1alEz",
+            "recZZXnER435GrXDk",
+            "rec45DHHdFqgAgA85",
+            "recSxxdueN7SrwHsp",
+            "rec9FPlAIS7ibROS7",
+            "recESIrqdQBifcoPw"
+        ],
+        "Cases count1": 61,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -10302,12 +10810,13 @@
         "airtable_id": "receOmXBKM868LzcY",
         "auto_gen_id": 325,
         "case count3": 0,
-        "count total": 0,
+        "count total": 61,
         "locality": "Spokane",
         "locality_built": "Spokane, , Washington",
         "location subtype": [
             "federal district court"
         ],
+        "location type": "court",
         "name": "U.S. District Court of Washington, Eastern District, Northern Division",
         "primary field": "U.S. District Court of Washington, Eastern District, Northern Division (Spokane, Washington)",
         "state": "Washington"
@@ -10857,6 +11366,44 @@
     },
     {
         "Cases 3": [
+            "reccIYiD8SfbJnL1C",
+            "recRonfCQbIVKtqWC",
+            "recdXHDbcj25jSU3o"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "cskinner5@huskers.unl.edu",
+            "id": "usrpfR1jrbKYomBuX",
+            "name": "Colten Skinner"
+        },
+        "Created time": "2025-07-22T17:25:06.000Z",
+        "ID": "hc.loc.000347",
+        "Name Markdown": "[Fort George Wright (Spokane, Washington)](hc.loc.000347)",
+        "Notes": "https://spokanehistorical.org/items/show/173",
+        "address": "4000 W Randolph Rd, Spokane, WA 99224",
+        "airtable_createdTime": "2025-07-22T17:25:06.000Z",
+        "airtable_id": "reciUDom4tM9cBk71",
+        "auto_gen_id": 347,
+        "case count3": 3,
+        "coordinate specificity": "locality",
+        "count total": 3,
+        "county": "Spokane",
+        "latitude": "47.673901111928",
+        "locality": "Spokane",
+        "locality_built": "Spokane, Spokane, Washington",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "longitude": "-117.47036933899",
+        "modern name": "Mukogawa Women's Academy",
+        "name": "Fort George Wright",
+        "primary field": "Fort George Wright (Spokane, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "recqBw1sQ7ebdYFvy",
             "recxS92AHKkJ49jZo",
             "recPviuLFtXbRR2B3"
@@ -10961,7 +11508,8 @@
             "receZTjCVG4kM2z0E",
             "rechYcAoV2B38K8cP",
             "recdUF0NU5oLIoMWT",
-            "recuJQ6kjIx7KuV1u"
+            "recuJQ6kjIx7KuV1u",
+            "recM2j03XJj4tRKb2"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -10976,9 +11524,9 @@
         "airtable_createdTime": "2023-10-18T17:32:41.000Z",
         "airtable_id": "reciyiPn1Shvdkxcd",
         "auto_gen_id": 207,
-        "case count3": 6,
+        "case count3": 7,
         "coordinate specificity": "landmark",
-        "count total": 6,
+        "count total": 7,
         "county": "Pierce",
         "latitude": "47.0851",
         "locality": "Lakewood",
@@ -11231,7 +11779,15 @@
         "state": "California"
     },
     {
-        "Cases count1": 0,
+        "Cases": [
+            "recQWHnW3bwYn22sE",
+            "recU98SsVs7dgMT3u",
+            "rece9yAEEHOSrgtTd",
+            "recjJiBrQkffsfSAP",
+            "rec1IoGupxTmEcSW9",
+            "recqOqX96yfrpb82Q"
+        ],
+        "Cases count1": 6,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -11245,12 +11801,13 @@
         "airtable_id": "recjxUdi0V5g0tKLX",
         "auto_gen_id": 326,
         "case count3": 0,
-        "count total": 0,
+        "count total": 6,
         "locality": "Spokane",
         "locality_built": "Spokane, , Washington",
         "location subtype": [
             "federal circuit court"
         ],
+        "location type": "court",
         "name": "U.S. Circuit Court of Washington, Eastern District, Northern Division",
         "primary field": "U.S. Circuit Court of Washington, Eastern District, Northern Division (Spokane, Washington)",
         "state": "Washington"
@@ -11258,7 +11815,8 @@
     {
         "Cases 3": [
             "recAIQZyOS3SLkIcK",
-            "recsrU68lRgn3qTJ0"
+            "recsrU68lRgn3qTJ0",
+            "recZKlkGvhlprcdZw"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -11273,9 +11831,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "reckGITqap2TctcO2",
         "auto_gen_id": 117,
-        "case count3": 2,
+        "case count3": 3,
         "coordinate specificity": "locality",
-        "count total": 2,
+        "count total": 3,
         "county": "New York",
         "latitude": "40.69970258724933",
         "locality": "New York",
@@ -11866,6 +12424,47 @@
     },
     {
         "Cases 3": [
+            "recurcHHdCgPEyR8c",
+            "recQ6QioQgU8xykpN",
+            "recgggTNRBEPMI6P1",
+            "rec7aM4ldWCqnuajJ",
+            "rec3gULakO199Ji6n",
+            "rec3GjUXcZPdJRrkb"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "cskinner5@huskers.unl.edu",
+            "id": "usrpfR1jrbKYomBuX",
+            "name": "Colten Skinner"
+        },
+        "Created time": "2025-07-11T17:43:02.000Z",
+        "ID": "hc.loc.000336",
+        "Name Markdown": "[City Emergency Hospital (Seattle, Washington)](hc.loc.000336)",
+        "address": "400 Yesler Way, Seattle, Washington, 98104",
+        "airtable_createdTime": "2025-07-11T17:43:02.000Z",
+        "airtable_id": "reco3rYEss25LOfId",
+        "alternative name": "Public Safety Station",
+        "auto_gen_id": 336,
+        "case count3": 6,
+        "coordinate specificity": "building",
+        "count total": 6,
+        "county": "King",
+        "latitude": "47.60206918000843",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "detention hospital"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.32805092845743",
+        "modern name": "The Yesler Building",
+        "name": "City Emergency Hospital",
+        "primary field": "City Emergency Hospital (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
+        "Cases 3": [
             "rec6v0SZ4gJrFXcho",
             "recqYojvglf1yS4D9",
             "reclmx27ZXAnyFMe8",
@@ -11939,7 +12538,8 @@
     },
     {
         "Cases 3": [
-            "recImNcom9K8uRn7T"
+            "recImNcom9K8uRn7T",
+            "recRubbmsBsaPNUZX"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -11954,8 +12554,8 @@
         "airtable_createdTime": "2024-12-12T17:05:37.000Z",
         "airtable_id": "recoMyxOFccv8XGDH",
         "auto_gen_id": 299,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 2,
+        "count total": 2,
         "county": "Jefferson County",
         "locality": "Port Townsend",
         "locality_built": "Port Townsend, Jefferson County, Washington",
@@ -12065,6 +12665,37 @@
         "name": "St. Rose Industrial School",
         "primary field": "St. Rose Industrial School (Portland, Oregon)",
         "state": "Oregon"
+    },
+    {
+        "Cases 3": [
+            "reccAHN5rgRzLuKd4"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T18:35:55.000Z",
+        "ID": "hc.loc.000348",
+        "Name Markdown": "[Idaho Industrial Training School (Weiser, Idaho)](hc.loc.000348)",
+        "airtable_createdTime": "2025-07-24T18:35:55.000Z",
+        "airtable_id": "recpdMbc94fu4RqEd",
+        "alternative name": "Intermountain Institute",
+        "auto_gen_id": 348,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Washington",
+        "locality": "Weiser",
+        "locality_built": "Weiser, Washington, Idaho",
+        "location subtype": [
+            "juvenile facility"
+        ],
+        "location type": "site of significance",
+        "name": "Idaho Industrial Training School",
+        "primary field": "Idaho Industrial Training School (Weiser, Idaho)",
+        "state": "Idaho"
     },
     {
         "Cases 3": [
@@ -12586,6 +13217,36 @@
         "state": "Washington"
     },
     {
+        "Cases 3": [
+            "recM2j03XJj4tRKb2"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2025-07-24T19:31:28.000Z",
+        "ID": "hc.loc.000352",
+        "Name Markdown": "[Spokane City Hall (Spokane, Washington)](hc.loc.000352)",
+        "airtable_createdTime": "2025-07-24T19:31:28.000Z",
+        "airtable_id": "recsT7tqknPaoDF2V",
+        "auto_gen_id": 352,
+        "case count3": 1,
+        "count total": 1,
+        "county": "Spokane",
+        "locality": "Spokane",
+        "locality_built": "Spokane, Spokane, Washington",
+        "location subtype": [
+            "carceral facility"
+        ],
+        "location type": "site of significance",
+        "name": "Spokane City Hall",
+        "primary field": "Spokane City Hall (Spokane, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "rechdjxtlkuJ8Vsls"
         ],
@@ -12836,7 +13497,13 @@
         "state": "Washington"
     },
     {
-        "Cases count1": 0,
+        "Cases": [
+            "recFbSKDy3weHMHei",
+            "reclHdYatASdYxsAA",
+            "rec5qj04du3A3CHev",
+            "recvJiqg8ivKplzMH"
+        ],
+        "Cases count1": 4,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -12850,12 +13517,13 @@
         "airtable_id": "recwPkOkqI06ZqUkr",
         "auto_gen_id": 327,
         "case count3": 0,
-        "count total": 0,
+        "count total": 4,
         "locality": "Yakima",
         "locality_built": "Yakima, , Washington",
         "location subtype": [
             "federal district court"
         ],
+        "location type": "court",
         "name": "U.S. District Court of Washington, Eastern District, Southern Division",
         "primary field": "U.S. District Court of Washington, Eastern District, Southern Division (Yakima, Washington)",
         "state": "Washington"
@@ -13002,6 +13670,65 @@
         "name": "Morningside Sanitarium",
         "primary field": "Morningside Sanitarium (Portland, Oregon)",
         "state": "Oregon"
+    },
+    {
+        "Cases 3": [
+            "rec3vgVSBQfP2EpdA",
+            "rec2zxS3Mw4q28Pbb",
+            "rec73pXP18MjDVl3D",
+            "recYqQLfgOVZR6hTg",
+            "recnQ2uYmAczZrvhd",
+            "rec0nqDkGpklee7dJ",
+            "recDd6C7GtQKaX0h7",
+            "rec7emztOzfgL7Fuy",
+            "recUimMAEyUmz3CD5",
+            "recNz0eeyygJse4gK",
+            "recndkOEqdTi7F1fR",
+            "recFS1jeUqEGr6tj7",
+            "recPoDPGcdbvtLQyZ",
+            "recw9UPBrN01Fi9Zv",
+            "recuLzYdEP0vjeVrI",
+            "recIZja3nd9GjLMD2",
+            "recTNZ9fkBlhTWGx5",
+            "recBJBXz7EduiImDw",
+            "recMQL8mfDSuk3T6c",
+            "recjYBTgO4sUTcMXY",
+            "recnhsCuL6zy4yehw",
+            "rec3alUdFMNRnEv27",
+            "recYVIhqSAoZYrCzw",
+            "recO41w53DFDPBgT1"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "cskinner5@huskers.unl.edu",
+            "id": "usrpfR1jrbKYomBuX",
+            "name": "Colten Skinner"
+        },
+        "Created time": "2025-07-28T18:09:55.000Z",
+        "ID": "hc.loc.000357",
+        "Name Markdown": "[U.S. Immigration Station (1916-1931) (Seattle, Washington)](hc.loc.000357)",
+        "Notes": "This was the Immigration Station in the City of Seattle from 1916 to 1931. It served as the headquarters for the federal immigration service and the port of entry for newly arriving migrants. \nNational Register of Historical Places From from the National Park Service for the Seattle Immigration Station. \nhttps://npgallery.nps.gov/GetAsset/5bbd8e5a-764f-4b21-892a-0c3d9badf973#:~:text=The%20original%20immigration%20station%20and,assistant%2C%20there%20were%2068%20employees%2C ",
+        "address": "84 Union Street",
+        "airtable_createdTime": "2025-07-28T18:09:55.000Z",
+        "airtable_id": "recwe5vRmfUGtSizj",
+        "alternative name": "U.S. Immigration Building",
+        "auto_gen_id": 357,
+        "case count3": 24,
+        "coordinate specificity": "building",
+        "count total": 24,
+        "county": "King County",
+        "latitude": "47.60765302776688",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King County, Washington",
+        "location subtype": [
+            "immigration detention"
+        ],
+        "location type": "site of significance",
+        "longitude": "-122.33992677397667",
+        "name": "U.S. Immigration Station (1916-1931)",
+        "primary field": "U.S. Immigration Station (1916-1931) (Seattle, Washington)",
+        "state": "Washington"
     },
     {
         "Cases 3": [
@@ -13584,7 +14311,32 @@
             "rec3gULakO199Ji6n",
             "recGvNuxiWypAr7qk",
             "recUmd1uqRXaqTtvy",
-            "recrYc6G0hnqO32Aa"
+            "recrYc6G0hnqO32Aa",
+            "recHQ7GHtLGG64106",
+            "recAHNJGXiqXWr5xR",
+            "recAfBw4U6IyyGCzr",
+            "recDUAvPeNxNicB1j",
+            "rec7K0rhkFxVbnwvY",
+            "rec3Vw7NhnWXpn9qR",
+            "recda4s7yh1KURWXI",
+            "recUVBuAs0bLefKOg",
+            "recBuhtNNbImMDqjq",
+            "recyDsg2jqUQ616DA",
+            "rectWELbzl6Hv9lUs",
+            "recRslIdQxoYlvamK",
+            "recNOBy39k3gL0aAc",
+            "recCQRJvaXM1tbIiU",
+            "recjhdZ7DZa0PGO1W",
+            "rectadOMBK7FFaSGv",
+            "recMLVT4M2OtOhGTG",
+            "recFmNi6IpCeuDhDH",
+            "recT3EuwSYGfbeln4",
+            "recCctg816lAs96yu",
+            "recZUwJyzmt4DMqut",
+            "recPFYi38kZheWP5r",
+            "recEhGT2QDJyDEkfS",
+            "recnvqiFIQyJQMDhr",
+            "recLNv1Ab8hB2tdwO"
         ],
         "Cases 3": [
             "recM1FfpyFITRhXUt",
@@ -13635,7 +14387,7 @@
             "recAmsP5rGKCd2Bwp",
             "recKRUg5lKJQKAoGM"
         ],
-        "Cases count1": 369,
+        "Cases count1": 394,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -13649,7 +14401,7 @@
         "airtable_id": "recy3WWcabaOG126y",
         "auto_gen_id": 245,
         "case count3": 47,
-        "count total": 416,
+        "count total": 441,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -13882,10 +14634,96 @@
             "recZwq3vNdVOdwRQ5",
             "recqvOBSbAxSUJXJv",
             "rec0IxvyaozlN5KqA",
-            "rec6CgmCGIUEoT5PC"
+            "rec6CgmCGIUEoT5PC",
+            "recQWHnW3bwYn22sE",
+            "recU98SsVs7dgMT3u",
+            "rece9yAEEHOSrgtTd",
+            "recjJiBrQkffsfSAP",
+            "rec1IoGupxTmEcSW9",
+            "recqOqX96yfrpb82Q",
+            "recIdulCKh4hk6Dgw",
+            "recZKlkGvhlprcdZw",
+            "recrhLzWOFPh2DqLT",
+            "recvJiqg8ivKplzMH",
+            "recrjIvRKyJUqBwRE",
+            "recPoa6Xu1wpOJ2u8",
+            "reczvZ7QsxBfkOh0n",
+            "recCXcSx9mvXKDrI8",
+            "reces3TkWGqT3f3po",
+            "recd4DtHizYkNv8FB",
+            "recjAcPxMV43RZQho",
+            "recFF46nxg2B1alEz",
+            "reculkViNQlNS9BdA",
+            "recadhahKGtHD8QpT",
+            "recmVLpOgxkYXElKF",
+            "recZZXnER435GrXDk",
+            "recDTokqMURjj4nff",
+            "rec3f1Sl0EFxC4hnF",
+            "rec45DHHdFqgAgA85",
+            "recY9zWom89f36cSa",
+            "recH1DDFAfWcBpPwh",
+            "recSxxdueN7SrwHsp",
+            "rec0rPxeydlsfbBCs",
+            "rec5avAghRBBfvz1Y",
+            "recLoUrMCwXDwLuB6",
+            "recM2j03XJj4tRKb2",
+            "rec9FPlAIS7ibROS7",
+            "recESIrqdQBifcoPw",
+            "recamwkBKm8pYPbHL",
+            "recRvqPQ250n9QPVu",
+            "recY2nPbQa2wQlLdO",
+            "recpUQ4xiXg6vKAVf",
+            "reciQbXNq87tFDni4",
+            "recbYp54uxA1vdLTm",
+            "recYaZo1OZ6sGYCAy",
+            "recp2bN3MsB20rPzJ",
+            "recaZ32KdFB5e3g4v",
+            "recVmSW4bl9PsKCon",
+            "recLdC26EIYyubnqN",
+            "recweD0W3ThkO5uer",
+            "recdXHDbcj25jSU3o",
+            "recRonfCQbIVKtqWC",
+            "reccIYiD8SfbJnL1C",
+            "reclR9SvKdMfyJ5mU",
+            "reccAHN5rgRzLuKd4",
+            "rectFtwAPUc6R2RrL",
+            "recttDBqlZ1Py1LYk",
+            "rec85tgMIKEiE9qpR",
+            "recIXj4UVkQbf51YM",
+            "recUpuTAPpNICaJRq",
+            "recer1ILHtX9hk7qx",
+            "recyaqWaeEu9zgDPt",
+            "rec9vMP7jWkfKQTWf",
+            "recWLk22iuRUT8ukT",
+            "recZnHv4ZfHbTKwJf",
+            "recMrBO0rVFVd659E",
+            "rec7LLiUvTC8X7OUQ",
+            "reckSXUGknCqvlovr",
+            "recItyDM6tmzFTQMn",
+            "rec0rXOpZ3AWGHMHn",
+            "recOryeJOdQzYC6v9",
+            "recxNo1lBUpMbiOqf",
+            "recf2DeAhLZ4GfTWl",
+            "recFbSKDy3weHMHei",
+            "reclHdYatASdYxsAA",
+            "rec5qj04du3A3CHev",
+            "rec6AfW6e6EYMM3v4",
+            "recc7F9yopIYCjcBt",
+            "rectx7kgRhrxYKGip",
+            "recQg5IVCE0aw3RW0",
+            "recIgnVcwfQUmoYbJ",
+            "reczzigY57GZaZimV",
+            "recPg8sIrbScdfRK1",
+            "rec8aBrwryasKe4cJ",
+            "rec3vgVSBQfP2EpdA",
+            "rec2zxS3Mw4q28Pbb",
+            "rec73pXP18MjDVl3D",
+            "recMuHXxccP0SHapo",
+            "recweJIhgrhpSQbYo",
+            "rec9jPfsYSK2E5zXG"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 173,
+        "Count (Cases 2)": 259,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -13900,7 +14738,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 173,
+        "count total": 259,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
