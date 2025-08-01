@@ -38,9 +38,9 @@ class FileCsv < FileType
         encoding: encoding,
         headers: true,
         return_headers: true,
-        :header_converters=> lambda {|f| f.strip},
-      :converters=> lambda {|f| f ? f.strip : nil}
-        })
+        header_converters: lambda {|f| f.strip},
+        converters: lambda {|f| f ? f.strip : nil}
+      })
     end
 
     def row_to_es(headers, row, table, case_docs)
