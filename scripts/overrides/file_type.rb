@@ -44,6 +44,11 @@ class FileType
     end
     if transformed && transformed.length > 0
       transformed.each do |doc|
+        if doc["identifier"].to_s.empty? || doc["title"].to_s.empty?
+          puts "skipping item without id or title".red
+          puts "check line ".red + doc.values.join("; ").strip.red
+          next
+        end
         id = doc["identifier"]
         puts "posting #{id}"
         puts "PATH: #{url}/_doc/#{id}" if options["verbose"]
