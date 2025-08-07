@@ -42,6 +42,8 @@ A Python script downloads the Airtable files as JSON and transforms them into CS
 
 If you are downloading the data locally, first make sure python3 and pip3 are installed. Clone this repo, then create the `.env` file as described above. Next enter the command `pip3 install -r requirements.txt`. If you see installation begin, run the `json_to_csv.py` script. If you are prompted to use a virtual environment (with an "externally-managed-environment" notification), follow the listed commands, using `.venv` for `path/to/venv`. If successful, you should now see `(.venv)` before the command prompt. Retry `pip3 install -r requirements.txt`, then run `python3 scripts/python/json_to_csv.py`. You should now see modifications within source to json and csv files. To exit the virtual environment, enter `deactivate`.
 
+If you try to run the script and get a ModuleNotFoundError, try `pip3 install -r requirements.txt` or `pip3 install [missing module]`. Activate a virtual environemnt if necessary, as described above. If you still get the error make an issue.
+
 # Posting to associate the cases and documents
 
 Make sure the repository includes both the TEI files for documents and the csv of case info.
