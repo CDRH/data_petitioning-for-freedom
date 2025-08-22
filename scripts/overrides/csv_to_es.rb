@@ -188,11 +188,11 @@ class CsvToEs
       if @row["bound_party_age"]
         info.concat(make_rdf_field(@row["bound_party_age"], "bound_party_age", "age"))
       end
-      if @row["bound_party_race"]
-        info.concat(make_rdf_field(@row["bound_party_race"], "bound_party_race", "race"))
+      if @row["bound_party_race_from_people"]
+        info.concat(make_rdf_field(@row["bound_party_race_from_people"], "bound_party_race", "race"))
       end
-      if @row["bound_party_sex"]
-        info.concat(make_rdf_field(@row["bound_party_sex"], "bound_party_sex", "sex"))
+      if @row["bound_party_sex_from_people"]
+        info.concat(make_rdf_field(@row["bound_party_sex_from_people"], "bound_party_sex", "sex"))
       end
       info
     end 
