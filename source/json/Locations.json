@@ -106,7 +106,8 @@
             "recKh2PFeAfU8IAsI",
             "recgXP4LfKjHn6fIh",
             "recFK8ZKDAziM5ARO",
-            "recpOMzFBeENxqp8j"
+            "recpOMzFBeENxqp8j",
+            "recS1mBr3u2EKknff"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -122,9 +123,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec0inhNGsblj4h5v",
         "auto_gen_id": 91,
-        "case count3": 5,
+        "case count3": 6,
         "coordinate specificity": "building",
-        "count total": 5,
+        "count total": 6,
         "county": "Adams",
         "latitude": "40.58774726386211",
         "locality": "Ingleside",
@@ -141,7 +142,8 @@
     },
     {
         "Cases 3": [
-            "recam0cZj8rLfuYMX"
+            "recam0cZj8rLfuYMX",
+            "recS1mBr3u2EKknff"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -156,9 +158,9 @@
         "airtable_createdTime": "2023-05-16T18:03:08.000Z",
         "airtable_id": "rec0pzpWd9FMizXk1",
         "auto_gen_id": 92,
-        "case count3": 1,
+        "case count3": 2,
         "coordinate specificity": "locality",
-        "count total": 1,
+        "count total": 2,
         "county": "Lancaster",
         "latitude": "40.813883273944036",
         "locality": "Lincoln",
@@ -410,6 +412,35 @@
         "name": "Bayard City Jail",
         "primary field": "Bayard City Jail (Bayard, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recIvRvELkOB2Fguu"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-03T17:27:59.000Z",
+        "ID": "hc.loc.000368",
+        "Name Markdown": "[Port of Astoria (Astoria, Oregon)](hc.loc.000368)",
+        "airtable_createdTime": "2026-02-03T17:27:59.000Z",
+        "airtable_id": "rec1wzoup40R86fmO",
+        "auto_gen_id": 368,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Astoria",
+        "locality_built": "Astoria, , Oregon",
+        "location subtype": [
+            "port of entry"
+        ],
+        "location type": "site of significance",
+        "name": "Port of Astoria",
+        "primary field": "Port of Astoria (Astoria, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -878,7 +909,7 @@
         "Cases count1": 1,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -3103,6 +3134,9 @@
         "state": "Kansas"
     },
     {
+        "Cases": [
+            "rec46Vli39jXFv2sh"
+        ],
         "Cases 3": [
             "recyXAGczpcU4a5mg",
             "recPmnjVEL7cTm3iB",
@@ -3328,9 +3362,14 @@
             "recZUwJyzmt4DMqut",
             "recHxF8AMF1c6n22s",
             "recGhMmI4mN0EEugh",
-            "rec8eeaqziuaHZkby"
+            "rec8eeaqziuaHZkby",
+            "rec95KU9gjJDA1YY9",
+            "recZ9bGr2p4WCxvnJ",
+            "recvmiXIzVGN0PPme",
+            "recwCZcLwhcxglkju",
+            "recwUfM1kiquZmXIn"
         ],
-        "Cases count1": 0,
+        "Cases count1": 1,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "lmcdermott4@huskers.unl.edu",
@@ -3343,8 +3382,8 @@
         "airtable_createdTime": "2023-09-19T20:01:25.000Z",
         "airtable_id": "rec5eHGBBzm1Nf1sy",
         "auto_gen_id": 197,
-        "case count3": 225,
-        "count total": 225,
+        "case count3": 230,
+        "count total": 231,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -3352,7 +3391,7 @@
             "carceral facility",
             "county jail"
         ],
-        "location type": "site of significance",
+        "location type": "court, site of significance",
         "name": "King County Jail",
         "primary field": "King County Jail (Seattle, Washington)",
         "state": "Washington"
@@ -4331,7 +4370,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -4453,7 +4492,11 @@
     },
     {
         "Cases 3": [
-            "recweD0W3ThkO5uer"
+            "recweD0W3ThkO5uer",
+            "recuCqvkAQBWI1jec",
+            "rec887wG4mZWcrqT1",
+            "rec3I0OoW88K2qc25",
+            "recmGijDkUeR1oUD7"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -4468,8 +4511,8 @@
         "airtable_createdTime": "2025-07-24T18:46:57.000Z",
         "airtable_id": "recBG5IYwWLosoOM2",
         "auto_gen_id": 350,
-        "case count3": 1,
-        "count total": 1,
+        "case count3": 5,
+        "count total": 5,
         "county": "Multnomah",
         "locality": "Portland",
         "locality_built": "Portland, Multnomah, Oregon",
@@ -4823,6 +4866,120 @@
         "name": "Main Hotel",
         "primary field": "Main Hotel (Vancouver, British Columbia)",
         "state": "British Columbia"
+    },
+    {
+        "Cases": [
+            "recC1wyF1jFW4qKlt",
+            "rechhOgEEMdHAfsJZ",
+            "rec786pm0oJVpi5Oc",
+            "reclnuavn4z92EIY1",
+            "recjchzGWKhlcermj",
+            "rec8uht6ASWzE8MfW",
+            "rec9MoFxTKoFTNb5c",
+            "reccRaXuVBsx0bBpT",
+            "receDblT8c9Ae9smm",
+            "recXC0r6ZNQWJjOLS",
+            "recglaUOHozSyE0Jj",
+            "rectpiv6RXKZjfZg8",
+            "recnJBK6AQNfktkYv",
+            "recuGZSQvQIIOQDNY",
+            "rectEccdmaNNLfmxX",
+            "rec8JURO3jKgoHamH",
+            "recd9uAGADHOHVXQi",
+            "recCFU7UszMq9OaGG",
+            "recloBgzlqgK8mPkg",
+            "reczDonSe8YkrBAyh",
+            "reccNQKMAZTAPW0fu",
+            "reckHggmh6bVM4QcB",
+            "recGrCmS9u210d1ne",
+            "rec6waJ8JDhM9DpHY",
+            "recqIsd2q9s3FLNtZ",
+            "recGnXZ38SF2pWoKH",
+            "recN4uZhYHVljq9g1",
+            "recU00WAyPtWlghVM",
+            "recOSurDXOPIhMsyS",
+            "rec4GgYoMNjlJ4UP6",
+            "recxS4Rt7h7DVUvhA",
+            "recmUgb8YOevrcNIh",
+            "recKFmFr8SLKm3lI7",
+            "recAyfyVKb4Vc1J64",
+            "recNxRjzilE01g5SR",
+            "recoDLPoDuvy6BjUf",
+            "recQXwhrAinBqh6P2",
+            "recxFSWjsxUKZU2Ex",
+            "rect60JztrBHdM7V4",
+            "recsfyddohVwjEJ0M",
+            "recF33EzSF7rrdByl",
+            "recZyNcGnw8JOivK8",
+            "recvOhH4LAoAtR0Sc",
+            "recdElO9wcGfT8cea",
+            "recIvRvELkOB2Fguu",
+            "recKYftuChp1HxtXI",
+            "rec7BpkW9eq2W6bPR",
+            "rec3wMMQjhts9T47g",
+            "recHKBjc4rgd7VK5X",
+            "rec9mvDCjvu6aqtJ6",
+            "recLqLhfo6vMBzDFH",
+            "recmG4uh9016pPJuo",
+            "recs1QkKCoJWqMeV7",
+            "recgOEXrjoLk8cpkR",
+            "recRjYwT4Inunxtor",
+            "recEJVE3jR6VVHTMu",
+            "recHWJP2iSCvbiFKb",
+            "recxMTuclZ8E3FhSZ",
+            "recBPXKSaGKoOgQUS",
+            "recIYUmXFsrvehFS3",
+            "recWySnqbLjDVCoJ4",
+            "recnrGo1jCNfTCmQX",
+            "recx2W4U8gzkT3szo",
+            "recCt1VQ96m0ZcR26",
+            "receugsUBR9cI2hCS",
+            "rec230uiMe4TLALLD",
+            "recSO26v0VR4f6Ze1",
+            "recSeW6Fdmu8THBPN",
+            "rec41Is2fuVspI4I1",
+            "recPgqYILSfHRasJ8",
+            "rec8E0g6YsUZp560W",
+            "recc4MtMPvAe5Ez1E",
+            "rec6KOwi0P5DRYNgv",
+            "recr5rngr4UgR6jgY",
+            "recoUJmLCC4ScLUPW",
+            "recaU4hBFlC3N8CEp",
+            "recJJOBdeTK7ZDZuk",
+            "recSwuvnkmGwH2YGT",
+            "recsm3H0Uc8seWnys",
+            "reck6bF9UF0TlJV5i",
+            "recuCqvkAQBWI1jec",
+            "rec887wG4mZWcrqT1",
+            "rec3I0OoW88K2qc25",
+            "recnHJzhBeJMgYeNd",
+            "recmGijDkUeR1oUD7",
+            "recjENB1DNB69nd3V"
+        ],
+        "Cases count1": 86,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2026-01-06T19:59:41.000Z",
+        "ID": "hc.loc.000361",
+        "Name Markdown": "[U.S. District Court of Oregon (Portland, Oregon)](hc.loc.000361)",
+        "airtable_createdTime": "2026-01-06T19:59:41.000Z",
+        "airtable_id": "recClKjPIfjDSOBOO",
+        "auto_gen_id": 361,
+        "case count3": 0,
+        "count total": 86,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "federal district court"
+        ],
+        "location type": "court",
+        "name": "U.S. District Court of Oregon",
+        "primary field": "U.S. District Court of Oregon (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -5442,6 +5599,35 @@
     },
     {
         "Cases 3": [
+            "recjENB1DNB69nd3V"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-03-04T15:35:34.000Z",
+        "ID": "hc.loc.000375",
+        "Name Markdown": "[Oregon State Penitentiary  (Salem, Oregon)](hc.loc.000375)",
+        "airtable_createdTime": "2026-03-04T15:35:34.000Z",
+        "airtable_id": "recFKRXWY38Hj2ujg",
+        "auto_gen_id": 375,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Salem",
+        "locality_built": "Salem, , Oregon",
+        "location subtype": [
+            "penitentiary"
+        ],
+        "location type": "site of significance",
+        "name": "Oregon State Penitentiary ",
+        "primary field": "Oregon State Penitentiary  (Salem, Oregon)",
+        "state": "Oregon"
+    },
+    {
+        "Cases 3": [
             "rec6nKUE7Q3G3NZvu"
         ],
         "Cases count1": 0,
@@ -5771,6 +5957,36 @@
         "name": "Gage County Jail",
         "primary field": "Gage County Jail (Beatrice, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recWySnqbLjDVCoJ4",
+            "recCt1VQ96m0ZcR26"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-11T19:55:16.000Z",
+        "ID": "hc.loc.000370",
+        "Name Markdown": "[Port of Portland (Portland , Oregon)](hc.loc.000370)",
+        "airtable_createdTime": "2026-02-11T19:55:16.000Z",
+        "airtable_id": "recI1FjBIPtMmfvKi",
+        "auto_gen_id": 370,
+        "case count3": 2,
+        "count total": 2,
+        "locality": "Portland ",
+        "locality_built": "Portland , , Oregon",
+        "location subtype": [
+            "port of entry"
+        ],
+        "location type": "site of significance",
+        "name": "Port of Portland",
+        "primary field": "Port of Portland (Portland , Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -6143,7 +6359,15 @@
     {
         "Cases 3": [
             "reczxLPNXdFTx4XWH",
-            "receVd6Wsk7s69wJp"
+            "receVd6Wsk7s69wJp",
+            "recuGZSQvQIIOQDNY",
+            "recZyNcGnw8JOivK8",
+            "recgOEXrjoLk8cpkR",
+            "rec6KOwi0P5DRYNgv",
+            "recr5rngr4UgR6jgY",
+            "recoUJmLCC4ScLUPW",
+            "recJJOBdeTK7ZDZuk",
+            "recsm3H0Uc8seWnys"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -6158,8 +6382,8 @@
         "airtable_createdTime": "2023-10-19T20:49:47.000Z",
         "airtable_id": "recJPiPjvzk0NN1Ed",
         "auto_gen_id": 208,
-        "case count3": 2,
-        "count total": 2,
+        "case count3": 10,
+        "count total": 10,
         "county": "Multnomah",
         "locality": "Portland",
         "locality_built": "Portland, Multnomah, Oregon",
@@ -6230,7 +6454,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -6755,6 +6979,35 @@
         "state": "Montana"
     },
     {
+        "Cases 3": [
+            "recvOhH4LAoAtR0Sc"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-03T16:04:23.000Z",
+        "ID": "hc.loc.000366",
+        "Name Markdown": "[Steamship Zambesi (Portland, Oregon)](hc.loc.000366)",
+        "airtable_createdTime": "2026-02-03T16:04:23.000Z",
+        "airtable_id": "recMOMUiBiDOsx2t2",
+        "auto_gen_id": 366,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamship Zambesi",
+        "primary field": "Steamship Zambesi (Portland, Oregon)",
+        "state": "Oregon"
+    },
+    {
         "Cases 2": [
             "recxwkaRypTyH2Zbe",
             "recW1cg68OaErnNU2",
@@ -7134,7 +7387,8 @@
     {
         "Cases 3": [
             "recArwxLrjvx1wLUD",
-            "rec5039F2ozPoTVuU"
+            "rec5039F2ozPoTVuU",
+            "recEUla0qs5IQxFxT"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -7151,8 +7405,8 @@
         "airtable_id": "recPFCPpnFLrkwO3x",
         "alternative name": "Luther Burbank School for Boys",
         "auto_gen_id": 356,
-        "case count3": 2,
-        "count total": 2,
+        "case count3": 3,
+        "count total": 3,
         "county": "King County",
         "locality": "Mercer Island, Seattle",
         "locality_built": "Mercer Island, Seattle, King County, Washington",
@@ -7164,6 +7418,44 @@
         "name": "Parental School",
         "primary field": "Parental School (Mercer Island, Seattle, Washington)",
         "state": "Washington"
+    },
+    {
+        "Cases 3": [
+            "recC1wyF1jFW4qKlt",
+            "reclnuavn4z92EIY1",
+            "rechhOgEEMdHAfsJZ",
+            "reccRaXuVBsx0bBpT",
+            "rec8JURO3jKgoHamH",
+            "rec7BpkW9eq2W6bPR",
+            "rec3wMMQjhts9T47g",
+            "recHKBjc4rgd7VK5X",
+            "recHWJP2iSCvbiFKb"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2026-01-06T20:31:18.000Z",
+        "ID": "hc.loc.000362",
+        "Name Markdown": "[Steamer Ship Wilmington (Portland, Oregon)](hc.loc.000362)",
+        "Notes": "Steamship holding Chinese immigrants at port of entry",
+        "airtable_createdTime": "2026-01-06T20:31:18.000Z",
+        "airtable_id": "recPVAGfPtT9fa0FO",
+        "auto_gen_id": 362,
+        "case count3": 9,
+        "count total": 9,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamer Ship Wilmington",
+        "primary field": "Steamer Ship Wilmington (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -7306,6 +7598,35 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "rec6KOwi0P5DRYNgv"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-18T17:50:52.000Z",
+        "ID": "hc.loc.000371",
+        "Name Markdown": "[Bark Metis  (Portland, Oregon)](hc.loc.000371)",
+        "airtable_createdTime": "2026-02-18T17:50:52.000Z",
+        "airtable_id": "recQ34WLA6G2w28GM",
+        "auto_gen_id": 371,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Bark Metis ",
+        "primary field": "Bark Metis  (Portland, Oregon)",
+        "state": "Oregon"
+    },
+    {
         "Cases": [
             "rec0s1Ag0W4TRdkLQ"
         ],
@@ -7380,7 +7701,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -8206,10 +8527,33 @@
             "recYdD4mynreEwPZD",
             "rec8W3VMLygis95bT",
             "recm22lm8zELhCPoL",
-            "recoBw0cKvurmNNJb"
+            "recoBw0cKvurmNNJb",
+            "rec46Vli39jXFv2sh",
+            "recNFWvrbr1PY9uxb",
+            "rec8JVNU3i6pMBIT1",
+            "recvJVB1DFg2d9yEV",
+            "recDE0z4lwtcG0ov0",
+            "recwCZcLwhcxglkju",
+            "reciEE78N1Ioi4Pht",
+            "recTl8fDQI7c1RbEu",
+            "rec6ide9rFXTbITZl",
+            "rec95KU9gjJDA1YY9",
+            "recZ9bGr2p4WCxvnJ",
+            "rec1HmE7UHjR2CBik",
+            "rectKzXufwAev69SN",
+            "rec1emOMh7OpUGJvv",
+            "recNoLHwDmzWfHHox",
+            "recxlzWja81Xo6aDc",
+            "recvmiXIzVGN0PPme",
+            "recwUfM1kiquZmXIn",
+            "reczRU0NdJZFcuO2n",
+            "recPC1HZg5vj9vicK",
+            "recpGP41hvlyJaZ4x",
+            "recZ9VoCirNmS95rm",
+            "recEUla0qs5IQxFxT"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 602,
+        "Count (Cases 2)": 625,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -8224,7 +8568,7 @@
         "auto_gen_id": 32,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 602,
+        "count total": 625,
         "county": "King",
         "latitude": "47.58219004663607",
         "locality": "Bellevue",
@@ -8346,7 +8690,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -9060,7 +9404,20 @@
             "recpz4KICwv5mW6y3",
             "recUmZ8pSLfcBa3Nr",
             "recYdD4mynreEwPZD",
-            "rec8W3VMLygis95bT"
+            "rec8W3VMLygis95bT",
+            "rec46Vli39jXFv2sh",
+            "rec8JVNU3i6pMBIT1",
+            "recvJVB1DFg2d9yEV",
+            "recDE0z4lwtcG0ov0",
+            "reciEE78N1Ioi4Pht",
+            "rec1HmE7UHjR2CBik",
+            "rectKzXufwAev69SN",
+            "recNoLHwDmzWfHHox",
+            "rec1emOMh7OpUGJvv",
+            "recPC1HZg5vj9vicK",
+            "recpGP41hvlyJaZ4x",
+            "recTl8fDQI7c1RbEu",
+            "recZ9VoCirNmS95rm"
         ],
         "Cases count1": 0,
         "Count (Cases 2)": 0,
@@ -9075,8 +9432,8 @@
         "airtable_createdTime": "2023-09-19T18:57:20.000Z",
         "airtable_id": "recV8E1dhVRjuvJdw",
         "auto_gen_id": 196,
-        "case count3": 224,
-        "count total": 224,
+        "case count3": 237,
+        "count total": 237,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -11021,6 +11378,58 @@
     },
     {
         "Cases 3": [
+            "rec786pm0oJVpi5Oc",
+            "recnJBK6AQNfktkYv",
+            "rectEccdmaNNLfmxX",
+            "recd9uAGADHOHVXQi",
+            "recCFU7UszMq9OaGG",
+            "reczDonSe8YkrBAyh",
+            "reccNQKMAZTAPW0fu",
+            "recGrCmS9u210d1ne",
+            "rec6waJ8JDhM9DpHY",
+            "recqIsd2q9s3FLNtZ",
+            "rec4GgYoMNjlJ4UP6",
+            "recQXwhrAinBqh6P2",
+            "recsfyddohVwjEJ0M",
+            "recF33EzSF7rrdByl",
+            "recKYftuChp1HxtXI",
+            "recLqLhfo6vMBzDFH",
+            "recnrGo1jCNfTCmQX",
+            "recx2W4U8gzkT3szo",
+            "receugsUBR9cI2hCS",
+            "rec230uiMe4TLALLD",
+            "recSeW6Fdmu8THBPN",
+            "rec41Is2fuVspI4I1",
+            "rec8E0g6YsUZp560W"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2026-01-07T19:20:53.000Z",
+        "ID": "hc.loc.000363",
+        "Name Markdown": "[Steamship Danube (Portland, Oregon)](hc.loc.000363)",
+        "Notes": "Steamship carrying Chinese immigrants into Portland, OR",
+        "airtable_createdTime": "2026-01-07T19:20:53.000Z",
+        "airtable_id": "recehV2GijtT7KAzl",
+        "auto_gen_id": 363,
+        "case count3": 23,
+        "count total": 23,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamship Danube",
+        "primary field": "Steamship Danube (Portland, Oregon)",
+        "state": "Oregon"
+    },
+    {
+        "Cases 3": [
             "recUZnwTchHAw9erS",
             "recNthQdJf1ewogo4"
         ],
@@ -11224,6 +11633,37 @@
         "state": "Washington"
     },
     {
+        "Cases 3": [
+            "rec9Bw34VmtFeB23z"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2026-01-12T17:02:05.000Z",
+        "ID": "hc.loc.000365",
+        "Name Markdown": "[S.S. Skinkaku Maru (Seattle, Washington)](hc.loc.000365)",
+        "Notes": "Ship captained by Y. Kuchiki in the port of Seattle in 1919",
+        "airtable_createdTime": "2026-01-12T17:02:05.000Z",
+        "airtable_id": "recgBaqR6dAt7yRcS",
+        "auto_gen_id": 365,
+        "case count3": 1,
+        "count total": 1,
+        "county": "King",
+        "locality": "Seattle",
+        "locality_built": "Seattle, King, Washington",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "S.S. Skinkaku Maru",
+        "primary field": "S.S. Skinkaku Maru (Seattle, Washington)",
+        "state": "Washington"
+    },
+    {
         "Cases": [
             "recBKJQzWQrZxu6Ua",
             "recwB0ArAF6k4tnqg",
@@ -11277,7 +11717,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -11712,7 +12152,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -12273,6 +12713,64 @@
         "name": "Fort D. A. Russell",
         "primary field": "Fort D. A. Russell (Cheyenne, Wyoming)",
         "state": "Wyoming"
+    },
+    {
+        "Cases 3": [
+            "recIvRvELkOB2Fguu"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-04T15:09:01.000Z",
+        "ID": "hc.loc.000369",
+        "Name Markdown": "[Steamship Invergarry (Astoria, Oregon)](hc.loc.000369)",
+        "airtable_createdTime": "2026-02-04T15:09:01.000Z",
+        "airtable_id": "reckz7bUoJBfUCWVi",
+        "auto_gen_id": 369,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Astoria",
+        "locality_built": "Astoria, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamship Invergarry",
+        "primary field": "Steamship Invergarry (Astoria, Oregon)",
+        "state": "Oregon"
+    },
+    {
+        "Cases 3": [
+            "recJJOBdeTK7ZDZuk"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-24T17:02:06.000Z",
+        "ID": "hc.loc.000372",
+        "Name Markdown": "[Bark James A. Falkenberg (Portland, Oregon)](hc.loc.000372)",
+        "airtable_createdTime": "2026-02-24T17:02:06.000Z",
+        "airtable_id": "reclCCSAxthte8nhJ",
+        "auto_gen_id": 372,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Bark James A. Falkenberg",
+        "primary field": "Bark James A. Falkenberg (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases": [
@@ -13007,6 +13505,68 @@
         "state": "Nebraska"
     },
     {
+        "Cases 3": [
+            "recjchzGWKhlcermj",
+            "rec8uht6ASWzE8MfW",
+            "rec9MoFxTKoFTNb5c",
+            "receDblT8c9Ae9smm",
+            "recXC0r6ZNQWJjOLS",
+            "recglaUOHozSyE0Jj",
+            "rectpiv6RXKZjfZg8",
+            "recloBgzlqgK8mPkg",
+            "reckHggmh6bVM4QcB",
+            "recGnXZ38SF2pWoKH",
+            "recN4uZhYHVljq9g1",
+            "recU00WAyPtWlghVM",
+            "recOSurDXOPIhMsyS",
+            "recxS4Rt7h7DVUvhA",
+            "recmUgb8YOevrcNIh",
+            "recKFmFr8SLKm3lI7",
+            "recAyfyVKb4Vc1J64",
+            "recNxRjzilE01g5SR",
+            "recoDLPoDuvy6BjUf",
+            "recxFSWjsxUKZU2Ex",
+            "rect60JztrBHdM7V4",
+            "rec9mvDCjvu6aqtJ6",
+            "recmG4uh9016pPJuo",
+            "recs1QkKCoJWqMeV7",
+            "recRjYwT4Inunxtor",
+            "recEJVE3jR6VVHTMu",
+            "recxMTuclZ8E3FhSZ",
+            "recBPXKSaGKoOgQUS",
+            "recIYUmXFsrvehFS3",
+            "recWySnqbLjDVCoJ4",
+            "recSO26v0VR4f6Ze1",
+            "recPgqYILSfHRasJ8",
+            "recc4MtMPvAe5Ez1E"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "kjagodinsky@unl.edu",
+            "id": "usrTWraD2Uk9A3vtt",
+            "name": "Katrina Jagodinsky"
+        },
+        "Created time": "2026-01-07T20:44:22.000Z",
+        "ID": "hc.loc.000364",
+        "Name Markdown": "[Steamer Haytian Republic (Portland, Oregon)](hc.loc.000364)",
+        "Notes": "Steamer ship holding Chinese immigrants in the port of Portland, OR",
+        "airtable_createdTime": "2026-01-07T20:44:22.000Z",
+        "airtable_id": "recrFOu2VHJ75lMIY",
+        "auto_gen_id": 364,
+        "case count3": 33,
+        "count total": 33,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamer Haytian Republic",
+        "primary field": "Steamer Haytian Republic (Portland, Oregon)",
+        "state": "Oregon"
+    },
+    {
         "Cases": [
             "recXSS0ad8zSNNjKW",
             "recVIrpghIwgEVAiV",
@@ -13392,7 +13952,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -13638,6 +14198,35 @@
     },
     {
         "Cases 3": [
+            "recdElO9wcGfT8cea"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-03T16:38:01.000Z",
+        "ID": "hc.loc.000367",
+        "Name Markdown": "[Steamship Batavia (Portland, Oregon)](hc.loc.000367)",
+        "airtable_createdTime": "2026-02-03T16:38:01.000Z",
+        "airtable_id": "recvnePWaeze8SLQa",
+        "auto_gen_id": 367,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamship Batavia",
+        "primary field": "Steamship Batavia (Portland, Oregon)",
+        "state": "Oregon"
+    },
+    {
+        "Cases 3": [
             "recaEqdS3EJnntdcN"
         ],
         "Cases count1": 0,
@@ -13847,7 +14436,7 @@
         "Cases count1": 0,
         "Count (Cases 2)": 0,
         "Created by": {
-            "email": "asynya2@huskers.unl.edu",
+            "email": "asynya2@unl.edu",
             "id": "usrsxXrBoy7sdssaI",
             "name": "Anna Synya"
         },
@@ -13996,6 +14585,35 @@
         "name": "Colfax County Jail",
         "primary field": "Colfax County Jail (Schuyler, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "reck6bF9UF0TlJV5i"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-02-25T17:53:39.000Z",
+        "ID": "hc.loc.000373",
+        "Name Markdown": "[Steamship T.C. Hook (Portland, Oregon)](hc.loc.000373)",
+        "airtable_createdTime": "2026-02-25T17:53:39.000Z",
+        "airtable_id": "recxVXYSZSulc0Glm",
+        "auto_gen_id": 373,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Portland",
+        "locality_built": "Portland, , Oregon",
+        "location subtype": [
+            "ship"
+        ],
+        "location type": "site of significance",
+        "name": "Steamship T.C. Hook",
+        "primary field": "Steamship T.C. Hook (Portland, Oregon)",
+        "state": "Oregon"
     },
     {
         "Cases 3": [
@@ -14577,7 +15195,29 @@
             "recpz4KICwv5mW6y3",
             "rec8eeaqziuaHZkby",
             "recYdD4mynreEwPZD",
-            "rec8W3VMLygis95bT"
+            "rec8W3VMLygis95bT",
+            "recNFWvrbr1PY9uxb",
+            "rec8JVNU3i6pMBIT1",
+            "recvJVB1DFg2d9yEV",
+            "recDE0z4lwtcG0ov0",
+            "recwCZcLwhcxglkju",
+            "reciEE78N1Ioi4Pht",
+            "recTl8fDQI7c1RbEu",
+            "rec6ide9rFXTbITZl",
+            "rec95KU9gjJDA1YY9",
+            "recZ9bGr2p4WCxvnJ",
+            "rec1HmE7UHjR2CBik",
+            "rectKzXufwAev69SN",
+            "rec1emOMh7OpUGJvv",
+            "recNoLHwDmzWfHHox",
+            "recxlzWja81Xo6aDc",
+            "recvmiXIzVGN0PPme",
+            "recwUfM1kiquZmXIn",
+            "reczRU0NdJZFcuO2n",
+            "recPC1HZg5vj9vicK",
+            "recpGP41hvlyJaZ4x",
+            "recZ9VoCirNmS95rm",
+            "recEUla0qs5IQxFxT"
         ],
         "Cases 3": [
             "recM1FfpyFITRhXUt",
@@ -14628,7 +15268,7 @@
             "recAmsP5rGKCd2Bwp",
             "recKRUg5lKJQKAoGM"
         ],
-        "Cases count1": 432,
+        "Cases count1": 454,
         "Count (Cases 2)": 0,
         "Created by": {
             "email": "kjagodinsky@unl.edu",
@@ -14642,7 +15282,7 @@
         "airtable_id": "recy3WWcabaOG126y",
         "auto_gen_id": 245,
         "case count3": 47,
-        "count total": 479,
+        "count total": 501,
         "county": "King County",
         "locality": "Seattle",
         "locality_built": "Seattle, King County, Washington",
@@ -14961,10 +15601,96 @@
             "rec73pXP18MjDVl3D",
             "recMuHXxccP0SHapo",
             "recweJIhgrhpSQbYo",
-            "rec9jPfsYSK2E5zXG"
+            "rec9jPfsYSK2E5zXG",
+            "recC1wyF1jFW4qKlt",
+            "rechhOgEEMdHAfsJZ",
+            "rec786pm0oJVpi5Oc",
+            "reclnuavn4z92EIY1",
+            "recjchzGWKhlcermj",
+            "rec8uht6ASWzE8MfW",
+            "rec9MoFxTKoFTNb5c",
+            "reccRaXuVBsx0bBpT",
+            "receDblT8c9Ae9smm",
+            "recXC0r6ZNQWJjOLS",
+            "recglaUOHozSyE0Jj",
+            "rectpiv6RXKZjfZg8",
+            "recnJBK6AQNfktkYv",
+            "recuGZSQvQIIOQDNY",
+            "rectEccdmaNNLfmxX",
+            "rec8JURO3jKgoHamH",
+            "recd9uAGADHOHVXQi",
+            "recCFU7UszMq9OaGG",
+            "recloBgzlqgK8mPkg",
+            "reczDonSe8YkrBAyh",
+            "reccNQKMAZTAPW0fu",
+            "reckHggmh6bVM4QcB",
+            "recGrCmS9u210d1ne",
+            "rec6waJ8JDhM9DpHY",
+            "recqIsd2q9s3FLNtZ",
+            "recGnXZ38SF2pWoKH",
+            "recN4uZhYHVljq9g1",
+            "recU00WAyPtWlghVM",
+            "recOSurDXOPIhMsyS",
+            "rec4GgYoMNjlJ4UP6",
+            "recxS4Rt7h7DVUvhA",
+            "recmUgb8YOevrcNIh",
+            "recKFmFr8SLKm3lI7",
+            "recAyfyVKb4Vc1J64",
+            "recNxRjzilE01g5SR",
+            "recoDLPoDuvy6BjUf",
+            "recQXwhrAinBqh6P2",
+            "recxFSWjsxUKZU2Ex",
+            "rect60JztrBHdM7V4",
+            "recsfyddohVwjEJ0M",
+            "recF33EzSF7rrdByl",
+            "recZyNcGnw8JOivK8",
+            "recvOhH4LAoAtR0Sc",
+            "recdElO9wcGfT8cea",
+            "recIvRvELkOB2Fguu",
+            "recKYftuChp1HxtXI",
+            "rec7BpkW9eq2W6bPR",
+            "rec3wMMQjhts9T47g",
+            "recHKBjc4rgd7VK5X",
+            "rec9mvDCjvu6aqtJ6",
+            "recLqLhfo6vMBzDFH",
+            "recmG4uh9016pPJuo",
+            "recs1QkKCoJWqMeV7",
+            "recgOEXrjoLk8cpkR",
+            "recRjYwT4Inunxtor",
+            "recEJVE3jR6VVHTMu",
+            "recHWJP2iSCvbiFKb",
+            "recxMTuclZ8E3FhSZ",
+            "recBPXKSaGKoOgQUS",
+            "recIYUmXFsrvehFS3",
+            "recWySnqbLjDVCoJ4",
+            "recnrGo1jCNfTCmQX",
+            "recx2W4U8gzkT3szo",
+            "recCt1VQ96m0ZcR26",
+            "receugsUBR9cI2hCS",
+            "rec230uiMe4TLALLD",
+            "recSO26v0VR4f6Ze1",
+            "recSeW6Fdmu8THBPN",
+            "rec41Is2fuVspI4I1",
+            "recPgqYILSfHRasJ8",
+            "rec8E0g6YsUZp560W",
+            "recc4MtMPvAe5Ez1E",
+            "rec6KOwi0P5DRYNgv",
+            "recr5rngr4UgR6jgY",
+            "recoUJmLCC4ScLUPW",
+            "recaU4hBFlC3N8CEp",
+            "recJJOBdeTK7ZDZuk",
+            "recSwuvnkmGwH2YGT",
+            "recsm3H0Uc8seWnys",
+            "reck6bF9UF0TlJV5i",
+            "recuCqvkAQBWI1jec",
+            "rec887wG4mZWcrqT1",
+            "rec3I0OoW88K2qc25",
+            "recnHJzhBeJMgYeNd",
+            "recmGijDkUeR1oUD7",
+            "recjENB1DNB69nd3V"
         ],
         "Cases count1": 0,
-        "Count (Cases 2)": 259,
+        "Count (Cases 2)": 345,
         "Created by": {
             "email": "cory.james.young@gmail.com",
             "id": "usruK6Q7ifitzmUZM",
@@ -14979,7 +15705,7 @@
         "auto_gen_id": 35,
         "case count3": 0,
         "coordinate specificity": "building",
-        "count total": 259,
+        "count total": 345,
         "county": "King",
         "latitude": "47.673451344750546",
         "locality": "Seattle",
@@ -15164,6 +15890,35 @@
         "name": "State Reformatory for Women",
         "primary field": "State Reformatory for Women (York, Nebraska)",
         "state": "Nebraska"
+    },
+    {
+        "Cases 3": [
+            "recnHJzhBeJMgYeNd"
+        ],
+        "Cases count1": 0,
+        "Count (Cases 2)": 0,
+        "Created by": {
+            "email": "jonathan.laska@huskers.unl.edu",
+            "id": "usr0ZxptzcZ5NCHBI",
+            "name": "Jonathan Laska"
+        },
+        "Created time": "2026-03-03T16:17:00.000Z",
+        "ID": "hc.loc.000374",
+        "Name Markdown": "[Fort Wrangell (Wrangell, Alaska)](hc.loc.000374)",
+        "airtable_createdTime": "2026-03-03T16:17:00.000Z",
+        "airtable_id": "recz9wpUdM6B5fn8t",
+        "auto_gen_id": 374,
+        "case count3": 1,
+        "count total": 1,
+        "locality": "Wrangell",
+        "locality_built": "Wrangell, , Alaska",
+        "location subtype": [
+            "military facility"
+        ],
+        "location type": "site of significance",
+        "name": "Fort Wrangell",
+        "primary field": "Fort Wrangell (Wrangell, Alaska)",
+        "state": "Alaska"
     },
     {
         "Cases 3": [
