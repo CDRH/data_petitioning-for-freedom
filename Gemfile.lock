@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: f36a477f29ab364452e88edbf1ba8eabe5a3b799
-  tag: v1.0.1
+  revision: c7262d4d25de94101646234e5822def9f3416ad0
+  tag: v1.1.0
   specs:
-    datura (0.2.0)
+    datura (1.1.0)
       byebug (~> 11.0)
       colorize (~> 0.8.1)
       nokogiri (~> 1.10)
@@ -21,19 +21,19 @@ GEM
     domain_name (0.6.20240107)
     hashery (2.1.2)
     http-accept (1.7.0)
-    http-cookie (1.1.0)
+    http-cookie (1.1.6)
       domain_name (~> 0.5)
     logger (1.7.0)
     mime-types (3.7.0)
       logger
       mime-types-data (~> 3.2025, >= 3.2025.0507)
-    mime-types-data (3.2025.0924)
+    mime-types-data (3.2026.0414)
     mini_portile2 (2.8.9)
     netrc (0.11.0)
     nokogiri (1.18.10)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    pdf-reader (2.15.0)
+    pdf-reader (2.15.1)
       Ascii85 (>= 1.0, < 3.0, != 2.0.0)
       afm (>= 0.2.1, < 2)
       hashery (~> 2.0)
@@ -58,4 +58,4 @@ DEPENDENCIES
   pdf-reader
 
 BUNDLED WITH
-   2.6.9
+   2.3.27
