@@ -47,6 +47,7 @@ temporarily disable the scrape_website setting in that file}.red
         end
       end
     end
+    @skipped_es.concat(file.skipped_es) if file.skipped_es.any?
 
     # html
     begin
