@@ -13,8 +13,16 @@ class FileCsv < FileType
         # than its FileCsv.transform_es, so copying latter's code for now
         puts "transforming #{self.filename}"
         es_doc = []
+
+        row_filter = build_csv_row_filter
+        if row_filter
+          puts "csv_rows filter active: only processing rows matching /#{@options["csv_rows"]}/".cyan
+        end
+
         table = table_type
         @csv.each do |row|
+            next if row_filter && !row_matches_filter?(row, row_filter)
+
             if !row.header_row? && (row["Case ID"] || row["unique_id"] || row["ID"])
               new_row = row_to_es(@csv.headers, row, table, old_case_docs)
               # eliminate blank entries from Airtable
@@ -78,5 +86,10 @@ class FileCsv < FileType
           "cases"
         end
     end
+
+  def row_matches_filter?(row, filter)
+    id = row["id"] || row["identifier"] || row["Identifier"] || row["ID"] || row["unique_id"] || row["Case ID"]
+    !!filter.match(id)
+  end
 
 end
