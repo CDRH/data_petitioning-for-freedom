@@ -29,7 +29,7 @@ class FileCsv < FileType
               if !new_row["identifier"].to_s.empty? && !new_row["title"].to_s.empty? && !["", ",", "(,)", "(, )", "Untitled"].include?(new_row["title"].strip)
                 es_doc << new_row
               else
-                msg = "skipping item without id or title\n check line #{new_row.values.join("; ").strip[0..40]}"
+                msg = "Skipping item without id or title: check line #{new_row.values.join('; ').strip[0..100]}"
                 puts msg.yellow
                 @skipped_es << msg
               end
