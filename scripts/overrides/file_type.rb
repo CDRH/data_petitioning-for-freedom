@@ -35,6 +35,7 @@ class FileType
       raise e
     end
   end
+  
   def post_es(old_case_docs, new_case_docs, url=nil)
     url = url || "#{@options["es_path"]}/#{@options["es_index"]}"
     begin
@@ -55,9 +56,12 @@ class FileType
         # NOTE: If you need to do partial updates rather than replacement of doc
         # you will need to add _update at the end of this URL
         begin
-          RestClient.put("#{url}/_doc/#{id}", doc.to_json, @auth_header.merge({:content_type => :json }) )
+          response = Datura::Helpers.es_http_request("PUT", "#{url}/_doc/#{id}",
+            body: doc.to_json,
+            headers: @auth_header.merge("Content-Type" => "application/json"))
+          raise "#{response.code} error posting to ES: #{response.body}" unless response.code.start_with?("2")
         rescue => e
-          return { "error" => "Error transforming or posting to ES for #{self.filename(false)}: #{e}" }
+          return { "error" => "Error transforming or posting to ES for #{self.filename(false)}: #{e.message}" }
         end
       end
     else
