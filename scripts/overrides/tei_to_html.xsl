@@ -24,8 +24,6 @@
   <!-- ==================================================================== -->
 
   <!-- Added 2026-09-22 to hide Case Documents images for now, since not all are transcribed. Once remediated, delete this entire xsl:template to use default Datura XSLT. -->
-  <xsl:template match="pb">
-    <span class="hr">&#160;</span>
-  </xsl:template>
+  <xsl:template match="pb" />
 
 </xsl:stylesheet>
