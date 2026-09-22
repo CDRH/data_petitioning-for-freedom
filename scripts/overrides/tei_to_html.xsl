@@ -8,7 +8,7 @@
   <!--                             IMPORTS                                  -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../.xslt-datura/tei_to_html/formatting.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/tei_to_html.xsl"/>
 
   <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="yes"/>
 
