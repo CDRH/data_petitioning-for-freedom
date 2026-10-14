@@ -16,9 +16,9 @@ cwd = Path.cwd()
 command = f"airtable-export source/json {AIRTABLE_BASE_ID} Cases People Locations --key={API_KEY} --json"
 os.system(command)
 # Get all the spreadsheets' file paths
-cases_relative = "source/json/cases.json"
-people_relative = "source/json/people.json"
-locations_relative = "source/json/locations.json"
+cases_relative = "source/json/Cases.json"
+people_relative = "source/json/People.json"
+locations_relative = "source/json/Locations.json"
 cases_path = (cwd / cases_relative).resolve()
 people_path = (cwd / people_relative).resolve()
 locations_path = (cwd / locations_relative).resolve()
